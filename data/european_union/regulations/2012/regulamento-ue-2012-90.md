@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-90.versoes.json
+  count: 1
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2012-02-03'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0090
   eli: http://data.europa.eu/eli/reg_impl/2012/90/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020
   content_url: http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:52Z'
+  retrieved_at: '2026-10-22T15:59:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T18:48:31.907+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:52Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:03Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-90.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,21 +159,21 @@ relationships:
   date: '2013-06-29'
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:52Z'
+  checked_at: '2026-10-22T15:59:03Z'
   warnings:
-  - Versão consolidada 02012R0090-20140101 indisponível (Sem expressão na língua por para CELEX 02012R0090-20140101.); usado
-    o texto do JO.
+  - '02012R0090-20120204: versão indisponível (Sem expressão na língua por para CELEX 02012R0090-20120204.)'
+  - '02012R0090-20140101: versão indisponível (Sem expressão na língua por para CELEX 02012R0090-20140101.)'
   errors: []
 ---
 
-# REGULAMENTO DE EXECUÇÃO (UE) N.º 90/2012 DA COMISSÃO
+# Regulamento de Execução (UE) n. ° 90/2012 da Comissão, de 2 de fevereiro de 2012
 
 de 2 de fevereiro de 2012
 

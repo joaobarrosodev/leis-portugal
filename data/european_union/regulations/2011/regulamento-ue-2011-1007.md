@@ -34,10 +34,56 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto original publicado no Jornal Oficial
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2011-1007.versoes.json
+  count: 2
+  source_lastmod: '2018-02-15'
+  versions:
+  - date: '2011-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32011X1221(01):por
+    amending_title: ADENDA ao Regulamento (UE) n. o 1007/2011 do Parlamento Europeu e do Conselho, de 27 de Setembro de 2011,
+      relativo às denominações das fibras têxteis e à correspondente etiquetagem e marcação da composição em fibras dos produtos
+      têxteis e que revoga a Directiva 73/44/CEE do Conselho e as Directivas 96/73/CE e 2008/121/CE do Parlamento Europeu
+      e do Conselho; REGULAMENTO DELEGADO (UE) N. o 286/2012 DA COMISSÃO de 27 de janeiro de 2012; REGULAMENTO (UE) N. o 517/2013
+      DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Fibras decorativas e fibras de efeito antiestático
+    - Altera Artigo 14.º — Etiquetas e marcação
+    - Altera Artigo 24.º — Revisão
+    - Altera Artigo 26.º — Disposição transitória
+    - Altera Artigo 28.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Requisitos mínimos de um ficheiro técnico a anexar ao pedido de introdução de uma nova denominação de fibra têxtil
+    - Adita (a que se refere o artigo 6.º)
+    - Adita ANEXO III
+    - Adita Denominações a que se refere o artigo 8.º, n.º 1
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Produtos têxteis cuja etiquetagem ou marcação não é obrigatória
+    - Adita (a que se refere o artigo 17.º, n.º 2)
+    - Adita ANEXO VI
+    - Adita Produtos têxteis para os quais é suficiente uma etiquetagem global
+    - Adita (a que se refere o artigo 17.º, n.º 3)
+    - Adita ANEXO VII
+    - Adita ANEXO VIII
+    - Adita Métodos de análise quantitativa de misturas binárias e ternárias de fibras têxteis
+    - Adita (a que se refere o artigo 19.º n.º 1)
+    - Adita ANEXO IX
+    - Adita ANEXO X
+    - Adita DECLARAÇÃO DO PARLAMENTO EUROPEU E DO CONSELHO
 identifiers:
   celex: 32011R1007
   eli: http://data.europa.eu/eli/reg/2011/1007/oj
@@ -51,19 +97,19 @@ source:
   official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32011R1007
   metadata_url: http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020
   content_url: http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1
-  consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:48Z'
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1007-20130701
+  retrieved_at: '2026-10-22T15:54:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T11:41:21.530+02:00'
 integrity:
-  source_sha256: 2e06bc104a6692ce2b236e170bd479791af6e2a949eb894d06ee52ec0b45dc2a
+  source_sha256: 924adb22785a3730aabb4923258289d8d708e598bf502b5f2a017324118b1147
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:48Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:54:41Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2011-1007.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -230,97 +276,28 @@ relationships:
   date: '2011-08-02'
 article_structure:
   article_count: 28
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:48Z'
+  checked_at: '2026-10-22T15:54:41Z'
   warnings:
-  - 'Versão consolidada 02011R1007-20180215 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02011R1007-20111221: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1007-20120508: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1007-20180215: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 1007/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. o 1007/2011 do Parlamento Europeu e do Conselho, de 27 de Setembro de 2011
 
 de 27 de Setembro de 2011
 
 relativo às denominações das fibras têxteis e à correspondente etiquetagem e marcação da composição em fibras dos produtos têxteis, e que revoga a Directiva 73/44/CEE do Conselho e as Directivas 96/73/CE e 2008/121/CE do Parlamento Europeu e do Conselho
 
 (Texto relevante para efeitos do EEE)
-
-O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
-
-Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 114.º,
-
-Tendo em conta a proposta da Comissão Europeia,
-
-Tendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr1-L_2011272PT.01000101-E0001),
-
-Deliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr2-L_2011272PT.01000101-E0002),
-
-Considerando o seguinte:
-
-(1) A Directiva 73/44/CEE do Conselho, de 26 de Fevereiro de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes à análise quantitativa de misturas ternárias de fibras têxteis [([^3])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr3-L_2011272PT.01000101-E0003), a Directiva 96/73/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1996, relativa a certos métodos de análise quantitativa de misturas binárias de fibras têxteis [([^4])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr4-L_2011272PT.01000101-E0004), e a Directiva 2008/121/CE do Parlamento Europeu e do Conselho, de 14 de Janeiro de 2009, relativa às denominações têxteis [([^5])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr5-L_2011272PT.01000101-E0005) sofreram várias alterações. Atendendo a que estas directivas deverão ser novamente alteradas, é conveniente, por uma questão de clareza, substituí-las por um único instrumento legal.
-
-(2) Os actos jurídicos da União em matéria de denominações de fibras têxteis e de etiquetagem e marcação da composição em fibras dos produtos têxteis são muito técnicos no seu conteúdo, contendo disposições pormenorizadas que carecem de ser adaptadas com regularidade. Para evitar que os Estados-Membros precisem de transpor as alterações técnicas para a legislação nacional, reduzindo, assim, os encargos administrativos impostos às autoridades nacionais, e a fim de permitir uma adopção mais célere das novas denominações de fibras têxteis, a aplicar simultaneamente em toda a União, o regulamento afigura-se ser o instrumento jurídico mais adequado para realizar esta simplificação legislativa.
-
-(3) A fim de eliminar potenciais obstáculos ao bom funcionamento do mercado interno, resultantes de disposições divergentes a nível dos Estados-Membros relativamente às denominações de fibras têxteis e correspondente etiquetagem e marcação da composição em fibra de produtos têxteis, é necessário harmonizar as denominações das fibras têxteis e as indicações que aparecem nas etiquetas, marcações e documentos que acompanham os produtos têxteis nas várias fases da sua produção, transformação e distribuição.
-
-(4) Os requisitos de etiquetagem e marcação estabelecidos no presente regulamento não deverão aplicar-se aos produtos têxteis que sejam confiados para fins de transformação, sem transferência a título oneroso, a trabalhadores no domicílio ou a empresas independentes que trabalhem à tarefa, nem aos produtos têxteis personalizados fabricados por alfaiates independentes. Contudo, estas derrogações deverão limitar-se às transacções entre esses trabalhadores no domicílio ou essas empresas independentes e as pessoas que lhes subcontratam trabalho, e entre os alfaiates independentes e os consumidores.
-
-(5) O presente regulamento estabelece disposições harmonizadas no que respeita a determinados aspectos da etiquetagem e marcação dos produtos têxteis, especialmente das denominações das fibras têxteis. Poderá aplicar-se outro tipo de etiquetagem e marcação, desde que o seu âmbito de aplicação difira do presente regulamento e seja compatível com os Tratados.
-
-(6) Importa estabelecer regras que permitam aos fabricantes solicitar a inclusão de uma nova denominação de fibra têxtil nos anexos do presente regulamento.
-
-(7) Convém regulamentar também determinados produtos não exclusivamente compostos por materiais têxteis, mas em que a parte têxtil representa um elemento essencial do produto ou é valorizada por uma especificação do operador económico.
-
-(8) É adequado estabelecer normas relativamente à etiquetagem ou à marcação de determinados produtos têxteis que contenham partes não têxteis de origem animal. O presente regulamento deverá estabelecer, em particular, os requisitos necessários para indicar a presença de partes não têxteis de origem animal na etiquetagem ou marcação de produtos têxteis que contenham essas partes, a fim de permitir que os consumidores façam escolhas informadas. A etiquetagem ou marcação não deverá ser enganosa.
-
-(9) A tolerância relativamente a «fibras estranhas», cuja indicação nas etiquetas e marcações não é obrigatória, deverá aplicar-se tanto aos produtos puros como às misturas.
-
-(10) A etiquetagem ou marcação da composição em fibra deverá ser obrigatória para assegurar que se prestem de modo uniforme informações correctas a todos os consumidores da União. O presente regulamento não deverá impedir, contudo, que os operadores económicos indiquem também a presença de pequenas quantidades de fibras a que será necessário prestar especial atenção para manter a qualidade original do produto têxtil. Nos produtos em que seja tecnicamente difícil estabelecer a composição em fibra do produto têxtil, aquando do seu fabrico, deverá ser possível indicar, na etiqueta ou na marcação, apenas as fibras conhecidas nesse momento, desde que representem uma dada percentagem do produto acabado.
-
-(11) A fim de evitar divergências de práticas nos Estados-Membros, é necessário determinar com precisão os métodos de etiquetagem e marcação de certos produtos têxteis compostos por dois ou mais elementos e especificar os elementos que não carecem de ser tidos em conta para efeitos de etiquetagem, marcação e análise dos produtos têxteis.
-
-(12) Os produtos têxteis submetidos unicamente à obrigação de etiquetagem global e os que são vendidos a metro ou em corte deverão ser disponibilizados no mercado de modo a que o consumidor possa tomar pleno conhecimento das indicações afixadas na embalagem global ou no rolo.
-
-(13) É conveniente submeter a determinadas condições a utilização de denominações de fibras têxteis ou de descrições de composições de fibras que gozem de especial reputação junto dos utilizadores e dos consumidores. Além disso, para veicular informação aos utilizadores e consumidores, convém que as denominações das fibras têxteis estejam relacionadas com as características das fibras que denominam.
-
-(14) A fiscalização do mercado dos produtos abrangidos pelo presente regulamento nos Estados-Membros deverá ser efectuada nos termos do Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos [([^6])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr6-L_2011272PT.01000101-E0006), e da Directiva 2001/95/CE do Parlamento Europeu e do Conselho, de 3 de Dezembro de 2001, relativa à segurança geral dos produtos [([^7])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr7-L_2011272PT.01000101-E0007).
-
-(15) É necessário estabelecer métodos de amostragem e análise dos produtos têxteis a fim de eliminar qualquer possibilidade de contestação dos métodos aplicados. Aquando dos controlos oficiais efectuados nos Estados-Membros, convém utilizar métodos uniformes para determinar a composição em fibras dos produtos têxteis constituídos por misturas binárias e ternárias de fibras têxteis, tanto no que respeita ao pré-tratamento da amostra como à análise quantitativa. A fim de simplificar o presente regulamento e de adaptar os métodos uniformes nele estabelecidos ao progresso técnico, importa que esses métodos se convertam em normas harmonizadas. Para o efeito, a Comissão deverá organizar a transição do sistema actual, assente nos métodos descritos no presente regulamento, para um sistema baseado em normas harmonizadas. A utilização de métodos uniformes de análise dos produtos têxteis constituídos por misturas binárias e ternárias de fibras têxteis facilitará a sua livre circulação e contribuirá para melhorar o funcionamento do mercado interno.
-
-(16) O laboratório encarregado do controlo de misturas binárias de fibras têxteis para as quais não exista método de análise uniformizado a nível da União deverá determinar a composição dessas misturas indicando, no relatório de análise, o resultado obtido, o método usado e o seu grau de exactidão.
-
-(17) O presente regulamento deverá indicar as taxas convencionais a aplicar à massa seca de cada fibra na determinação, por meio de análise, do teor de fibras dos produtos têxteis e prever duas taxas convencionais diferentes para o cálculo da composição dos produtos cardados ou penteados que contenham lã e/ou pêlos. Uma vez que nem sempre se pode determinar se um produto é cardado ou penteado, podendo, por esse facto, a aplicação das tolerâncias durante controlos de conformidade dos produtos têxteis realizados na União dar lugar a resultados contraditórios, os laboratórios que realizam esses controlos deverão ser autorizados a aplicar, em caso de dúvida, uma taxa convencional única.
-
-(18) Deverão ser estabelecidas regras aplicáveis aos produtos isentos da obrigação geral de etiquetagem e marcação prevista no presente regulamento, nomeadamente aos produtos «não recuperáveis» ou àqueles para os quais se justifica apenas uma etiquetagem global.
-
-(19) As práticas comerciais enganosas, incluindo a prestação de informações falsas que induzam os consumidores a tomar uma decisão de transacção que, caso contrário, não teriam tomado, são proibidas pela Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno [([^8])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr8-L_2011272PT.01000101-E0008), e são abrangidas pelo Regulamento (CE) n.º 2006/2004 do Parlamento Europeu e do Conselho, de 27 de Outubro de 2004, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de defesa do consumidor [([^9])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr9-L_2011272PT.01000101-E0009).
-
-(20) A defesa do consumidor exige normas comerciais transparentes e coerentes, inclusive no que se refere às indicações de origem. Quando forem utilizadas, essas indicações deverão permitir que os consumidores tenham conhecimento da origem exacta dos produtos que compram, a fim de os proteger de indicações de origem fraudulentas, inexactas ou enganadoras.
-
-(21) O sector têxtil europeu é afectado pela contrafacção, que coloca problemas em termos de informação e protecção dos consumidores. Os Estados-Membros deverão conferir especial atenção à aplicação da legislação e das medidas horizontais da União relativas à contrafacção no domínio dos produtos têxteis, nomeadamente o Regulamento (CE) n.º 1383/2003 do Conselho, de 22 de Julho de 2003, relativo à intervenção das autoridades aduaneiras em relação às mercadorias suspeitas de violarem certos direitos de propriedade intelectual e a medidas contra mercadorias que violem esses direitos [([^10])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr10-L_2011272PT.01000101-E0010).
-
-(22) É conveniente estabelecer um procedimento aplicável à inclusão de novas denominações de fibras têxteis nos anexos do presente regulamento. O presente regulamento deverá, por conseguinte, estabelecer os requisitos aplicáveis aos pedidos apresentados pelos fabricantes ou outras pessoas que actuem em seu nome para a inclusão de novas denominações de fibras têxteis naqueles anexos.
-
-(23) É necessário que os fabricantes, ou seus representantes, que pretendam adicionar uma nova denominação de fibra têxtil aos anexos do presente regulamento, incluam no ficheiro técnico a apresentar com o respectivo pedido todas as informações científicas disponíveis relativamente a possíveis reacções alérgicas ou outros efeitos adversos da nova fibra têxtil para a saúde humana, incluindo os resultados de testes realizados para esse efeito em conformidade com a legislação aplicável da União.
-
-(24) Deverão ser conferidos poderes à Comissão para adoptar actos delegados nos termos do artigo 290.º do Tratado sobre o Funcionamento da União Europeia, destinados a estabelecer critérios técnicos e regras processuais para a autorização de tolerâncias superiores, a alterar os Anexos, II, IV, V, VI, VII, VIII e IX a fim de ter em conta o progresso técnico e a alterar o Anexo I a fim de incluir novas denominações de fibras têxteis na lista estabelecida nesse Anexo. É particularmente importante que a Comissão proceda às devidas consultas durante os trabalhos preparatórios, designadamente a nível de peritos. No contexto da preparação e elaboração dos actos delegados, a Comissão deverá assegurar a transmissão simultânea, tempestiva e adequada dos documentos relevantes ao Parlamento Europeu e ao Conselho.
-
-(25) Atendendo a que os objectivos do presente regulamento não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, dada a dimensão da acção prevista, ser mais bem alcançados a nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. De acordo com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar aqueles objectivos.
-
-(26) A fim de eliminar os entraves que possam surgir ao bom funcionamento do mercado interno, causados por disposições ou práticas divergentes entre os Estados-Membros, e de acompanhar a evolução do comércio electrónico e os desafios futuros que se colocam ao mercado dos produtos têxteis, é necessário examinar a questão da harmonização ou normalização de outros aspectos da etiquetagem dos produtos têxteis. Para o efeito, a Comissão deverá apresentar ao Parlamento Europeu e ao Conselho um relatório sobre possíveis novos requisitos de etiquetagem a introduzir a nível da União, a fim de facilitar a livre circulação dos produtos têxteis no mercado interno e de conseguir um elevado nível de protecção dos consumidores em toda a União. Esse relatório deverá analisar, em particular, as opiniões dos consumidores no que se refere ao volume de informação a prestar na etiqueta dos produtos têxteis, e estudar os meios que poderão ser utilizados, para além da etiquetagem, para prestar informações suplementares aos consumidores. O relatório deverá basear-se numa consulta alargada à totalidade dos interessados, incluindo os consumidores, e deverá ter em conta as normas europeias e internacionais existentes nesta matéria. O relatório deverá analisar, em particular, o âmbito de aplicação e as características de eventuais regras harmonizadas relativas à indicação de origem, tendo em conta os resultados da evolução das eventuais regras horizontais relativas à indicação do país de origem; o valor acrescentado para o consumidor dos possíveis requisitos de etiquetagem relativos ao tratamento, ao tamanho, às substâncias perigosas, à inflamabilidade e ao desempenho ambiental dos produtos têxteis; a utilização de símbolos ou códigos independentes da língua para identificar as fibras têxteis utilizadas num produto têxtil, que permitam ao consumidor compreender facilmente a composição e, em particular, a utilização de fibras naturais ou sintéticas; a etiquetagem social e electrónica; e a inclusão de um número de identificação na etiqueta para obter informações suplementares a pedido, especialmente através da internet, sobre o produto e o fabricante. O relatório deverá ser acompanhado, se adequado, de propostas legislativas.
-
-(27) A Comissão deverá efectuar um estudo para determinar se existe um nexo de causalidade entre as reacções alérgicas e as substâncias químicas ou as misturas utilizadas nos produtos têxteis. Com base nesse estudo, a Comissão deverá apresentar, se for caso disso, propostas legislativas no âmbito da legislação em vigor da União.
-
-(28) Por conseguinte, deverão ser revogadas as Directivas 73/44/CEE, 96/73/CE e 2008/121/CE,
-
-ADOPTARAM O PRESENTE REGULAMENTO:
 
 ## CAPÍTULO 1
 
@@ -334,13 +311,15 @@ O presente regulamento estabelece regras aplicáveis à utilização de denomina
 
 1. O presente regulamento é aplicável aos produtos têxteis disponíveis no mercado da União e aos produtos referidos no n.º 2.
 
-2. Para efeitos do presente regulamento, os seguintes produtos são equiparados a produtos têxteis:
+2.
+
+Para efeitos do presente regulamento, os seguintes produtos são equiparados a produtos têxteis:
 
 a) Os produtos que contenham pelo menos 80 %, em massa, de fibras têxteis;
 
 b) As coberturas de móveis, guarda-chuvas e guarda-sóis cujas partes têxteis representem pelo menos 80 % da sua massa;
 
-c) As partes têxteis: i) da camada superior das coberturas de chão com várias camadas, ii) dos revestimentos dos colchões, iii) dos revestimentos dos artigos de campismo, desde que representem pelo menos 80 % da massa dessas camadas superiores ou desses revestimentos;
+c) As partes têxteis:
 
 i) da camada superior das coberturas de chão com várias camadas,
 
@@ -356,11 +335,13 @@ d) Os têxteis incorporados noutros produtos de que façam parte integrante, cas
 
 ###### Artigo 3.º — Definições
 
-1. Para efeitos do presente regulamento, entende-se por:
+1.
+
+Para efeitos do presente regulamento, entende-se por:
 
 a) «Produtos têxteis», todos os produtos que, no estado bruto, semitrabalhados, trabalhados, semimanufacturados, manufacturados, semiconfeccionados ou confeccionados, sejam exclusivamente compostos por fibras têxteis, independentemente das técnicas de mistura ou de união aplicadas;
 
-b) «Fibra têxtil», uma das seguintes opções: i) um elemento caracterizado pela sua flexibilidade, finura e grande comprimento relativamente à dimensão transversal máxima, que o tornam apto para aplicações têxteis, ii) uma fita flexível ou um tubo com largura aparente não superior a 5 mm, incluindo as fitas cortadas de fitas mais largas ou de folhas, fabricados a partir de substâncias que servem para o fabrico das fibras classificadas no quadro 2 do Anexo I e aptos para aplicações têxteis;
+b) «Fibra têxtil», uma das seguintes opções:
 
 i) um elemento caracterizado pela sua flexibilidade, finura e grande comprimento relativamente à dimensão transversal máxima, que o tornam apto para aplicações têxteis,
 
@@ -424,7 +405,9 @@ Um produto têxtil obtido pelo sistema de cardado pode também ser tratado como 
 
 1. Considera-se que um produto têxtil pode ser etiquetado ou marcado com uma das denominações referidas no Anexo III desde que seja exclusivamente composto por uma fibra de lã nunca antes incorporada num produto acabado, ou nunca submetida a operações de fiação e/ou de feltragem para além das necessárias ao fabrico do produto, nem a qualquer tratamento ou utilização que a tenha degradado.
 
-2. Não obstante o n.º 1, as denominações referidas no Anexo III podem ser utilizadas para qualificar a lã contida numa mistura de fibras têxteis caso se encontrem preenchidas as seguintes condições:
+2.
+
+Não obstante o n.º 1, as denominações referidas no Anexo III podem ser utilizadas para qualificar a lã contida numa mistura de fibras têxteis caso se encontrem preenchidas as seguintes condições:
 
 a) A totalidade da lã contida na mistura satisfaz os requisitos definidos no n.º 1;
 
@@ -454,13 +437,15 @@ Deve ser indicada a composição percentual completa da mistura.
 
 2. As fibras metálicas e outras, incorporadas a fim de produzir um efeito antiestático, que não ultrapassem 2 % da massa do produto acabado podem não ser tidas em conta nas composições em fibras referidas nos artigos 7.º e 9.º.
 
-3. No que respeita aos produtos referidos no n.º 4 do artigo 9.º, as percentagens a que se referem os n.^os^ 1 e 2 do presente artigo devem ser calculadas separadamente para a teia e para a trama.
+[**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) 3. No que respeita aos produtos referidos no n.º 3 do artigo 9.º,**◄** as percentagens a que se referem os n.^os^ 1 e 2 do presente artigo devem ser calculadas separadamente para a teia e para a trama.
 
 ###### Artigo 11.º — Produtos têxteis multipartes
 
 1. Qualquer produto têxtil composto por duas ou mais partes têxteis que não tenham o mesmo teor de fibras deve ostentar uma etiqueta ou marcação que indique o teor de fibras têxteis de cada uma das partes.
 
-2. A etiquetagem ou marcação a que se refere o n.º 1 é facultativa para as partes que satisfaçam as seguintes condições:
+2.
+
+A etiquetagem ou marcação a que se refere o n.º 1 é facultativa para as partes que satisfaçam as seguintes condições:
 
 a) Não sejam forros principais; e
 
@@ -484,7 +469,7 @@ A composição em fibra dos produtos têxteis enumerados no Anexo IV deve ser in
 
 A etiquetagem e a marcação dos produtos têxteis devem ser duradouras, facilmente legíveis, visíveis e acessíveis e, no caso de uma etiqueta, esta deve ser afixada com segurança.
 
-2. Sem prejuízo do n.º 1, as etiquetas e as marcações podem ser substituídas ou completadas por documentos comerciais de acompanhamento quando os produtos são fornecidos aos operadores económicos da cadeia de distribuição ou quando são entregues em execução de uma encomenda feita por uma entidade adjudicante, tal como definida no artigo 1.º da Directiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços [([^11])](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntr11-L_2011272PT.01000101-E0011).
+2. Sem prejuízo do n.º 1, as etiquetas e as marcações podem ser substituídas ou completadas por documentos comerciais de acompanhamento quando os produtos são fornecidos aos operadores económicos da cadeia de distribuição ou quando são entregues em execução de uma encomenda feita por uma entidade adjudicante, tal como definida no artigo 1.º da Directiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços ([^11^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0011)).
 
 3. As denominações de fibras têxteis e as descrições de composição de fibras referidas nos artigos 5.º, 7.º, 8.º e 9.º devem ser claramente indicadas nos documentos comerciais de acompanhamento a que se refere o n.º 2 do presente artigo.
 
@@ -550,13 +535,17 @@ As autoridades de fiscalização do mercado devem efectuar controlos da conformi
 
 1. Para determinar a composição em fibras dos produtos têxteis, aplicam-se as tolerâncias estabelecidas nos n.^os^ 2, 3 e 4.
 
-2. Sem prejuízo do disposto no n.º 3 do artigo 8.º, é facultativa a indicação da presença de fibras estranhas na composição em fibras, a assinalar nos termos do artigo 9.º, caso a percentagem dessas fibras não atinja os seguintes valores:
+2.
+
+Sem prejuízo do disposto no n.º 3 do artigo 8.º, é facultativa a indicação da presença de fibras estranhas na composição em fibras, a assinalar nos termos do artigo 9.º, caso a percentagem dessas fibras não atinja os seguintes valores:
 
 a) 2 % da massa total do produto têxtil, desde que esta quantidade se justifique como sendo tecnicamente inevitável com base nas boas práticas de fabrico e não resulte de uma adição sistemática; ou
 
 b) 5 % da massa total no caso dos produtos têxteis obtidos pelo sistema de cardado, desde que esta quantidade se justifique como sendo tecnicamente inevitável com base nas boas práticas de fabrico e não resulte de uma adição sistemática.
 
-3. É admitida uma tolerância de fabrico de 3 % entre a composição em fibras indicada em conformidade com o artigo 9.º e as percentagens resultantes da análise realizada em conformidade com o artigo 19.º, relativamente à massa total das fibras indicadas na etiqueta ou na marcação. Essa tolerância aplica-se igualmente ao seguinte:
+3.
+
+É admitida uma tolerância de fabrico de 3 % entre a composição em fibras indicada em conformidade com o artigo 9.º e as percentagens resultantes da análise realizada em conformidade com o artigo 19.º, relativamente à massa total das fibras indicadas na etiqueta ou na marcação. Essa tolerância aplica-se igualmente ao seguinte:
 
 a) Fibras que podem ser designadas pela menção «outras fibras» nos termos do artigo 9.º;
 
@@ -604,13 +593,15 @@ Até 8 de Novembro de 2014, a Comissão apresenta um relatório ao Parlamento Eu
 
 2. O relatório deve basear-se na consulta dos interessados e deve ter em conta as normas europeias e internacionais nesta matéria.
 
-3. O relatório deve ser acompanhado, se adequado, de propostas legislativas e deve examinar, entre outras, as seguintes questões:
+3.
+
+O relatório deve ser acompanhado, se adequado, de propostas legislativas e deve examinar, entre outras, as seguintes questões:
 
 a) Um sistema de etiquetagem sobre a origem, a fim de fornecer aos consumidores informações exactas sobre o país de origem e informações suplementares que garantam a total rastreabilidade dos produtos têxteis, tendo em conta os resultados da evolução das regras horizontais relativas à indicação do país de origem;
 
 b) Um sistema de etiquetagem harmonizado sobre o tratamento;
 
-c) Um sistema de etiquetagem uniforme a nível da União para os produtos têxteis em questão;
+►C1 c) Um sistema de etiquetagem dos tamanhos, uniforme a nível da União,**◄** para os produtos têxteis em questão;
 
 d) Indicação das substâncias alergénicas;
 
@@ -622,7 +613,7 @@ Até 30 de Setembro de 2013, a Comissão elabora um estudo para determinar se ex
 
 ###### Artigo 26.º — Disposição transitória
 
-Os produtos têxteis que estejam em conformidade com o disposto na Directiva 2008/121/CE e que tenham sido colocados no mercado antes de 8 de Maio de 2012, podem continuar a ser colocados no mercado até 9 de Novembro de 2014.
+Os produtos têxteis que estejam em conformidade com o disposto na Directiva 2008/121/CE e que tenham sido colocados no mercado antes de 8 de Maio de 2012, podem continuar [**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) a ser disponibilizados no mercado**◄** até 9 de Novembro de 2014.
 
 ###### Artigo 27.º — Revogação
 
@@ -638,42 +629,1860 @@ O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua public
 
 O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
 
-Feito em Estrasburgo, em 27 de Setembro de 2011.
+## ANEXO I
 
-***Pelo Parlamento Europeu***
+**Lista das denominações das fibras têxteis**
 
-***O Presidente***
+(a que se refere o artigo 5.º)
 
-**J. BUZEK**
+| Número | Nome | Descrição das fibras |
+| --- | --- | --- |
+| 1 | lã | fibra do velo do ovino (*Ovis aries*) ou mistura de fibras proveniente do velo do ovino e de pêlos dos animais indicados no n.º 2 |
+| 2 | alpaca, lama, camelo, [**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) caxemira, moér, angorá**◄**, vicunha, iaque, guanaco, caxegorá, castor e lontra precedido ou não da denominação «lã» ou «pêlo» | pêlos dos seguintes animais: alpaca, lama, camelo, cabra caxemira, cabra angorá, coelho angorá, vicunha, iaque, guanaco, cabra caxegorá (cruzamento da cabra caxemira e da cabra angorá), castor e lontra |
+| 3 | pêlo ou crina com ou sem indicação da espécie animal (por exemplo pêlo de bovino, pêlo de cabra comum, crina de cavalo) | pêlos de diversos animais que não sejam mencionados nos n.^os^ 1 ou 2 |
+| 4 | seda | fibra proveniente exclusivamente dos insectos sericígenos |
+| 5 | algodão | fibra proveniente da semente do algodoeiro (*Gossypium*) |
+| 6 | sumaúma | fibra proveniente do interior do fruto da sumaúma (*Ceiba pentandra*) |
+| 7 | linho | fibra proveniente do líber do linho (*Linum usitatissimum*) |
+| 8 | cânhamo | fibra proveniente do líber do cânhamo (*Cannabis sativa*) |
+| 9 | juta | fibra proveniente do líber do *Corchorus olitorius* e do *Corchorus capsularis*. Para efeitos do disposto no presente regulamento, são equiparadas à juta as fibras liberianas provenientes de: *Hibiscus cannabinus, Hibiscus sabdariffa, Abultilon avicennae, Urena lobata, Urena sinuata* |
+| 10 | abacá | fibra proveniente das vagens foliares da *Musa textilis* |
+| 11 | alfa | fibra proveniente da folha da *Stipa tenacissima* |
+| 12 | coco | fibra proveniente do fruto da *Cocos nucifera* |
+| 13 | giesta | fibra proveniente do líber de *Cytisus scoparios* e/ou de *Spartium junceum* |
+| 14 | [**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) rami**◄** | fibra proveniente do líber da *Boehmeria nivea* e da *Boehmeria tenacissima* |
+| 15 | sisal | fibra proveniente da folha de *Agave sisalana* |
+| 16 | sunn | fibra proveniente do líber de *Crotalaria juncea* |
+| 17 | [**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) henequém**◄** | fibra proveniente do líber de *Agave fourcroydes* |
+| 18 | [**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) maguei**◄** | fibra proveniente do líber de *Agave cantala* |
 
-***Pelo Conselho***
+| Número | Nome | Descrição das fibras |
+| --- | --- | --- |
+| 19 | acetato | fibra de acetato de celulose em que menos de 92 % mas, pelo menos, 74 % dos grupos hidroxilos estão acetilados |
+| 20 | alginato | fibra obtida a partir de sais metálicos do ácido algínico |
+| 21 | cupro | fibra de celulose regenerada obtida pelo processo cupro-amoniacal |
+| 22 | modal | fibra de celulose regenerada obtida mediante um processo de viscose modificado com uma força de rotura elevada e um alto módulo em molhado. A força de rotura (BC) no estado condicionado e a força (BM) necessária para produzir um alongamento de 5 % no estado molhado são tais que: BC (cN) ≥ 1,3 BM (cN) ≥ 0,5 em que T é a massa linear média em decitex |
+| 23 | proteínas | fibra obtida a partir de substâncias proteicas naturais regeneradas e estabilizadas sob a acção de agentes químicos |
+| 24 | triacetato | fibra de acetato de celulose em que pelo menos 92 % dos grupos hidroxilos estão acetilados |
+| 25 | viscose | fibra de celulose regenerada obtida pelo processo «viscose» para o filamento e para a fibra descontínua |
+| 26 | acrílica | fibra formada por macromoléculas lineares contendo na cadeia pelo menos 85 %, em massa, da unidade de acrilonitrilo |
+| 27 | clorofibra | fibra formada por macromoléculas lineares contendo na cadeia mais de 50 %, em massa, de unidades de cloreto de vinilo ou cloreto de vinilideno |
+| 28 | fluorofibra | fibra formada por macromoléculas lineares obtidas a partir de monómeros alifáticos fluorocarbonados |
+| 29 | modacrílica | fibra formada por macromoléculas lineares que apresentam na cadeia mais de 50 % e menos de 85 %, em massa, da unidade acrilonitrílica |
+| 30 | poliamida ou nylon | fibra formada por macromoléculas lineares sintéticas contendo na cadeia a repetição de ligações amida, estando pelo menos 85 % ligadas a unidades alifáticas ou cicloalifáticas |
+| 31 | aramida | fibra formada por macromoléculas lineares sintéticas constituídas por grupos aromáticos ligados entre si por ligações amida e imida, das quais pelo menos 85 % estão directamente unidas a dois núcleos aromáticos e cujo número de ligações imida, se existirem, não pode exceder o das ligações amida |
+| 32 | poliimida | fibra formada por macromoléculas lineares sintéticas contendo na cadeia a repetição de unidades imida |
+| 33 | liocel | fibra de celulose regenerada obtida por um processo de dissolução e fiação em solvente orgânico (mistura de produtos químicos orgânicos com água), sem formação de derivados |
+| 34 | polilactida | fibra formada por macromoléculas lineares cuja cadeia contenha pelo menos 85 %, em massa, de unidades de éster do ácido láctico derivado de açúcares naturais e que possua uma temperatura de fusão de pelo menos 135 °C |
+| 35 | poliéster | fibra formada por macromoléculas lineares cuja cadeia contenha pelo menos 85 %, em massa, de um éster de um diol e do ácido tereftálico |
+| 36 | polietileno | fibra formada por macromoléculas lineares saturadas de hidrocarbonetos alifáticos não substituídos |
+| 37 | polipropileno | fibra formada por macromoléculas lineares saturadas de hidrocarbonetos alifáticos nas quais um de cada dois átomos de carbono está ligado a um grupo metílico, em disposição isotática e sem substituições posteriores |
+| 38 | policarbamida | fibra formada por macromoléculas lineares contendo na cadeia a repetição do grupo funcional ureileno (NH-CO-NH) |
+| 39 | poliuretano | fibra formada por macromoléculas lineares que apresenta na cadeia a repetição do grupo funcional uretana |
+| 40 | vinilal | fibra formada por macromoléculas lineares cuja cadeia é constituída por álcool polivinílico com grau de acetalização variável |
+| 41 | trivinil | fibra formada por terpolímero de acrilonitrilo de um monómero vinílico clorado e de um terceiro monómero vinílico, sem que nenhum atinja 50 % de massa total |
+| 42 | elastodieno | fibra elastómera constituída quer por poliisopreno natural ou sintético, quer por um ou vários dienos polimerizados com ou sem um ou vários monómeros vinílicos, que, esticada até atingir o triplo do seu comprimento inicial, recupera rápida e substancialmente este comprimento quando a força de tracção deixa de ser aplicada |
+| 43 | elastano | fibra elastómera constituída, pelo menos, por 85 %, em massa, de segmentos de poliuretana que, esticada até atingir o triplo do seu comprimento inicial, recupera rapidamente e substancialmente este comprimento logo que a força de tracção deixa de ser aplicada |
+| 44 | fibra de vidro | fibra constituída por vidro |
+| 45 | elastomultiéster | fibra formada pela interacção de duas ou mais macromoléculas lineares quimicamente distintas em duas ou mais fases distintas (das quais nenhuma excede 85 % em massa) que contém grupos éster como unidade funcional dominante (em pelo menos 85 %) e que, após tratamento adequado quando esticada uma vez e meia o seu comprimento inicial e solta, recupera rápida e substancialmente este comprimento logo que a força de tracção deixa de ser aplicada |
+| 46 | elastolefina | fibra formada de pelo menos 95 % (em massa) de macromoléculas parcialmente reticuladas, compostas de etileno e pelo menos uma outra olefina, e que, quando esticada até atingir uma vez e meia o seu comprimento inicial, recupera rápida e substancialmente este comprimento logo que a força de tracção deixa de ser aplicada |
+| 47 | melamina | fibra formada de pelo menos 85 % em massa de macromoléculas reticuladas compostas de derivados de melamina |
+| 48 | denominação correspondente à matéria de que são compostas as fibras, por exemplo: metal (metálica, metalizada), amianto, papel, precedida ou não da palavra, «fio» ou «fibra» | fibras obtidas a partir de matérias diversas ou novas, diferentes das acima referidas |
+| [▼M2](http://publications.europa.eu/resource/celex/32012R0286) |  |  |
+| 49 | Bicomponente de polipropileno/poliamida | Fibra bicomposta formada por 10 % a 25 % em massa de fibrilhas de poliamida incorporadas em matriz de polipropileno |
+| [▼B](http://publications.europa.eu/resource/celex/32011R1007) |  |  |
 
-***O Presidente***
+## ANEXO II
 
-**M. DOWGIELEWICZ**
+### Requisitos mínimos de um ficheiro técnico a anexar ao pedido de introdução de uma nova denominação de fibra têxtil
+
+### (a que se refere o artigo 6.º)
+
+Cada pedido de introdução de uma nova denominação de fibra têxtil no Anexo I deve incluir, nos termos do artigo 6.º, um ficheiro técnico que contenha pelo menos as seguintes informações:
+
+1) Denominação proposta para a fibra têxtil;
+
+2) Definição proposta para a fibra têxtil;
+
+3) Identificação da fibra têxtil: fórmula química, diferenças em relação a outras fibras têxteis existentes, assim como, se relevantes, dados detalhados sobre, por exemplo, o ponto de fusão, a densidade, o índice de refracção, o comportamento ao fogo e o espectro FTIR;
+
+4) Taxa convencional proposta a utilizar no cálculo da composição da fibra;
+
+5) Métodos de identificação e quantificação suficientemente desenvolvidos, incluindo dados experimentais;
+
+6) Informações científicas disponíveis sobre possíveis reacções alérgicas ou outros efeitos adversos da nova fibra têxtil para a saúde humana, incluindo resultados de testes realizados para esse efeito em conformidade com a legislação aplicável da União;
+
+7) Informações adicionais que justifiquem o pedido: processo de fabrico, relevância para o consumidor;
+
+O fabricante ou o seu representante devem apresentar amostras representativas da nova fibra pura e das misturas de fibra relevantes necessárias para levar a cabo a validação dos métodos propostos de identificação e quantificação. A Comissão poderá solicitar ao fabricante ou ao seu representante novas amostras das misturas de fibras relevantes.
+
+## ANEXO III
+
+### Denominações a que se refere o artigo 8.º, n.º 1
+
+— em búlgaro: «необработена вълна»,
+
+— em espanhol: «lana virgen» ou «lana de esquilado»,
+
+— em checo: «střižní vlna»,
+
+— em dinamarquês: «ren, ny uld»,
+
+— em alemão: «Schurwolle»,
+
+— em estoniano: «uus vill»,
+
+— em grego: «παρθένο μαλλί»,
+
+— em inglês: «fleece wool» ou «virgin wool»,
+
+— em francês: «laine vierge» ou «laine de tonte»,
+
+— em croata: «runska vuna»,
+
+— em irlandês: «olann lomra»,
+
+— em italiano: «lana vergine» ou «lana di tosa»,
+
+— em letão: «pirmlietojuma vilna» ou «cirptā vilna»,
+
+— em lituano: «natūralioji vilna»,
+
+— em húngaro: «élőgyapjú»,
+
+— em maltês: «suf verġni»,
+
+— m neerlandês: «scheerwol»,
+
+— em polaco: «żywa wełna»,
+
+— em português: «lã virgem»,
+
+— em romeno: «lână virgină»,
+
+— em eslovaco: «strižná vlna»,
+
+— em esloveno: «runska volna»,
+
+— em finlandês: «uusi villa»,
+
+— em sueco: «ny ull».
+
+## ANEXO IV
+
+Produtos Disposições de etiquetagem e marcação
+
+1. Os seguintes produtos para espartilho: A composição das fibras será indicada na etiqueta e na marcação fazendo-se referência à composição do produto no seu conjunto ou à composição das diversas partes enumeradas, na sua globalidade ou separadamente, respectivamente:
+
+a) Soutiens tecido exterior e interior da superfície das caixas e das costas;
+
+b) Cintas partes anterior, posterior e laterais;
+
+c) Cintas-soutiens tecido exterior e interior da superfície das caixas, reforços anterior e posterior e partes laterais.
+
+2. Outros produtos para espartilho não enumerados anteriormente A composição fibrosa será indicada fazendo-se referência à composição do produto no seu conjunto ou à composição das diversas partes dos produtos, na sua globalidade ou separadamente. A etiquetagem não é obrigatória para as partes que representem menos de 10 % da massa total do produto.
+
+3. Todos os produtos para espartilho A etiquetagem e a marcação separadas das diversas partes dos produtos para espartilho serão efectuadas de modo a que o consumidor possa compreender facilmente a que parte do produto se referem as indicações que constam da etiqueta ou da marcação.
+
+4. Produtos têxteis gravados por corrosão A composição fibrosa deve ser dada para a totalidade do produto e pode ser indicada dando separadamente a composição do tecido de base e a do tecido corroído, devendo estes elementos ser nominalmente indicados.
+
+5. Produtos têxteis bordados A composição fibrosa deve ser dada para a totalidade do produto e pode ser indicada dando separadamente a composição do tecido de base [**►C1**](http://publications.europa.eu/resource/celex/32011R1007R%2802%29) e a dos fios de bordar,**◄** devendo estes elementos ser nominalmente indicados; esta etiquetagem ou marcação é apenas obrigatória para as partes bordadas que representem pelo menos 10 % da superfície do produto.
+
+6. Fios constituídos por uma alma e uma cobertura compostas de fibras diferentes e assim apresentados aos consumidores A composição fibrosa deve ser dada para a totalidade do produto e pode ser indicada dando separadamente a composição da alma e da cobertura, devendo estes elementos ser nominalmente indicados.
+
+7. Produtos têxteis de veludo e de pelúcia, ou produtos similares A composição fibrosa será dada para a totalidade do produto e, quando estes produtos forem constituídos por um tecido-base e uma camada de uso distintos e compostos por fibras diferentes, pode ser indicada em separado para estes dois elementos, devendo estes elementos ser nominalmente indicados.
+
+8. Coberturas de chão e tapetes em que a base e a camada de uso sejam compostas por fibras diferentes A composição fibrosa pode ser dada apenas para a camada de uso, devendo a camada de uso ser nominalmente indicada.
+
+## ANEXO V
+
+### Produtos têxteis cuja etiquetagem ou marcação não é obrigatória
+
+### (a que se refere o artigo 17.º, n.º 2)
+
+1. Prende-mangas de camisas
+
+2. Braceletes em têxtil para relógios
+
+3. Etiquetas e insígnias
+
+4. Pegas estofadas e em têxtil
+
+5. Panos para cobrir cafeteiras (cobre-cafeteiras)
+
+6. Panos para cobrir chaleiras (cobre-chaleiras)
+
+7. Mangas de protecção
+
+8. Manguitos, com excepção dos de pelúcia
+
+9. Flores artificiais
+
+10. Pregadeiras de alfinetes
+
+11. Telas pintadas
+
+12. Produtos têxteis para reforços e suportes
+
+13. Produtos têxteis confeccionados usados, quando explicitamente declarados como tais
+
+14. Polainas
+
+15. Embalagens não novas e vendidas como tais
+
+16. Artigos de marroquinaria e de selaria, em têxtil
+
+17. Artigos de viagem, em têxtil
+
+18. Tapeçarias bordadas à mão, acabadas ou por acabar, e materiais para o seu fabrico, incluindo os fios para bordar, vendidos separadamente da base e especialmente acondicionados para serem utilizados para tais tapeçarias
+
+19. Fechos de correr
+
+20. Botões e fivelas recobertas de têxtil
+
+21. Capas de livros em têxtil
+
+22. Brinquedos
+
+23. Partes têxteis do calçado
+
+24. Naperons compostos por vários elementos e com superfície inferior a 500 cm^2^
+
+25. Pegas e luvas para retirar pratos do forno
+
+26. Panos para cobrir ovos
+
+27. Estojos de maquilhagem
+
+28. Bolsas de tecido para tabaco
+
+29. Estojos de tecido para óculos, cigarros e charutos, isqueiros e pentes
+
+30. Capas para telemóveis e leitores multimédia portáteis de superfície inferior a 160 cm^2^.
+
+31. Artigos desportivos de protecção, excepto luvas
+
+32. Bolsas de toucador
+
+33. Estojos para calçado
+
+34. Produtos funerários
+
+35. Produtos não recuperáveis, com excepção das pastas (ouates)
+
+36. Produtos têxteis sujeitos às regras da farmacopeia europeia e nos quais essa indicação venha mencionada, ligaduras recuperáveis para usos médicos e ortopédicos e produtos têxteis de ortopedia em geral
+
+37. Produtos têxteis, incluindo cordas, cordame e cordéis (sem prejuízo do ponto 12 do Anexo VI), destinados normalmente:
+
+a) A serem utilizados de modo instrumental em actividades de produção e de transformação de bens;
+
+b) A serem incorporados em máquinas, instalações (de aquecimento, climatização, iluminação, etc.), aparelhos domésticos e outros, veículos e outros meios de transporte, ou a servir para o funcionamento, a conservação e o equipamento destes, com excepção dos encerados e dos acessórios de material têxtil para viaturas automóveis vendidos separadamente dos veículos.
+
+38. Produtos têxteis de protecção e de segurança, tais como cintos de segurança, pára-quedas, coletes de salvação, descidas de socorro, dispositivos contra incêndio, coletes antibala, fatos de protecção especiais (por exemplo: de protecção contra o fogo, os agentes químicos, ou outros riscos de segurança).
+
+39. Estruturas de enchimento por pressão pneumática (pavilhões para desportos, salas de exposições, armazéns, etc.), com a condição de serem fornecidas indicações respeitantes às características funcionais e especificações técnicas desses produtos.
+
+40. Velas
+
+41. Artigos têxteis para animais
+
+42. Estandartes e bandeiras
+
+## ANEXO VI
+
+### Produtos têxteis para os quais é suficiente uma etiquetagem global
+
+### (a que se refere o artigo 17.º, n.º 3)
+
+1. Serapilheiras
+
+2. Esfregões de limpeza
+
+3. Orlas e guarnições
+
+4. Passamanarias
+
+5. Cintos
+
+6. Suspensórios
+
+7. Ligas-suspensórios e ligas
+
+8. Atacadores
+
+9. Fitas impressoras
+
+10. Elásticos
+
+11. Embalagens novas e vendidas como tais
+
+12. Cordéis para embalagem e fins agrícolas: cordéis, cordas e cordame diferentes dos referidos no ponto 37 do Anexo V ([^*1^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0012))
+
+13. Napperons
+
+14. Lenços de assoar e de bolso
+
+15. Coifas e redes para cabelo
+
+16. Gravatas e laços para criança
+
+17. Babeiros; luvas e lenços de «toilette»
+
+18. Fios para coser, cerzir e bordar, apresentados, para venda a retalho, em pequenas unidades cuja massa líquida não ultrapassa um grama
+
+19. Correias para cortinas e persianas
+
+## ANEXO VII
+
+Produtos Elementos excluídos
+
+a) Todos os produtos têxteis i) partes não têxteis, ourelas, etiquetas e insígnias, orlas e guarnições que não façam parte integrante do produto, botões e fivelas recobertas com material têxtil, acessórios, adornos, fitas não elásticas, fios e tiras elásticas incorporados em locais específicos e limitados do produto e, nas condições previstas no artigo 10.º, fibras visíveis e isoláveis com efeito decorativo e fibras antiestáticas, ii) matérias gordas, ligantes, cargas, preparos, produtos auxiliares de tinturaria e de estampagem e outros produtos para tratamento dos têxteis.
+
+b) Coberturas de chão e tapetes Todos os elementos constituintes excepto a camada de uso
+
+c) Tecidos de revestimento de móveis Teias e tramas de ligação e de enchimento que não façam parte da camada de uso
+
+d) Tapeçarias, cortinas e cortinados Teias e tramas de ligação e de enchimento que não façam parte do direito do tecido
+
+e) Meias Outros fios elásticos usados no punho da meia e fios para conferir rigidez ou para reforçar a zona dos dedos e do calcanhar
+
+f) Collants Outros fios elásticos usados na cintura e fios para conferir rigidez ou para reforçar a zona dos dedos e do calcanhar
+
+g) Produtos têxteis não incluídos nas alíneas b) a f) Suportes, reforços, entretelas, chumaços, fios de coser e de união, desde que não substituam a trama e/ou a teia do tecido, acolchoados que não tenham função de isolante e sem prejuízo das disposições do n.º 2 do artigo 11.º, forros Na acepção da presente disposição: i) não serão considerados como suportes a excluir os tecidos de forro dos produtos têxteis que sirvam de suporte à camada de uso, nomeadamente os tecidos de forro de coberturas e de tecidos duplos e os tecidos-base dos produtos de veludo, pelúcia e semelhantes, ii) entender-se-á por «reforços» os fios ou tecidos incorporados em zonas específicas e limitadas do produto têxtil para as reforçar ou para lhes conferir rigidez ou espessura.
+
+## ANEXO VIII
+
+### Métodos de análise quantitativa de misturas binárias e ternárias de fibras têxteis
+
+### (a que se refere o artigo 19.º n.º 1)
+
+#### CAPÍTULO 1
+
+O presente capítulo fornece indicações gerais para preparar as amostras reduzidas de um tamanho adequado aos pré-tratamentos com vista às análises quantitativas (isto é, não superior a 100 g), a partir de amostras globais para laboratório, e para seleccionar os provetes a partir de amostras reduzidas, que tenham sido submetidas a um pré-tratamento para eliminar as matérias não fibrosas ([^12^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0013)).
+
+É a quantidade de material que é apreciada com base numa série de resultados de ensaios. Pode incluir, por exemplo, todo o material correspondente a uma mesma partida de tecido, todo o tecido a partir de uma determinada teia, um fornecimento de fios, um fardo ou um conjunto de fardos de fibras em rama.
+
+É a porção do lote que foi colhida com o fim de ser representativa do conjunto e que é enviada ao laboratório. O tamanho e a natureza da amostra global para o laboratório devem ser escolhidos de modo a reflectir convenientemente a variabilidade do lote e a assegurar a facilidade das manipulações no laboratório ([^13^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0014)).
+
+É a porção da amostra global para laboratório que é submetida a um pré-tratamento para eliminar as matérias não fibrosas e da qual são colhidas em seguida provetes para análise. O tamanho e a natureza da amostra reduzida devem ser suficientes para reflectir convenientemente a variabilidade da amostra global para laboratório ([^14^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0015)).
+
+É a porção de material necessário para dar um resultado analítico individual, colhido sobre a amostra reduzida.
+
+A amostra reduzida é escolhida de modo a ser representativa da amostra global para laboratório.
+
+Os provetes são colhidos da amostra reduzida de modo a que sejam representativos daquela.
+
+Constituir a amostra reduzida tomando tufos ao acaso na amostra global. Recolher a totalidade da amostra reduzida, misturá-la convenientemente por meio de uma carda de laboratório ([^15^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0016)). Submeter o véu ou a mistura ao pré-tratamento, bem como as fibras aderentes e as que saiam para fora do aparelho. Retirar em seguida, na proporção da massa, os provetes sobre o véu das fibras aderentes e das fibras soltas.
+
+Se a forma de véu de carda não for afectada pelo pré-tratamento, retirar os provetes da maneira descrita no ponto 4.2. Se o véu for alterado pelo pré-tratamento, escolher os provetes colhendo da amostra pré-tratada pelo menos 16 pequenas mechas de tamanho conveniente, mais ou menos iguais, e reuni-las em seguida.
+
+Cortar nas partes escolhidas ao acaso da amostra global pelo menos 10 secções transversais pesando cada uma cerca de 1 g. Submeter a amostra reduzida assim formada à operação de pré-tratamento. Reunir em seguida as secções colocando-as lado a lado, e formar o provete cortando-as transversalmente de modo a retirar uma porção de cada um dos 10 comprimentos.
+
+Utilizar todas as bobinas da amostra global para laboratório.
+
+Retirar de cada bobina troços contínuos, iguais e adequados, quer bobinando meadas de um mesmo número de voltas sobre uma meadeira ([^16^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0017)), quer por qualquer outro meio. Reunir os troços lado a lado, sob forma de uma meada única ou de um cabo e assegurar que a meada ou o cabo sejam constituídos por troços iguais de cada bobina.
+
+Submeter ao pré-tratamento a amostra reduzida assim formada.
+
+Recolher os provetes sobre a amostra reduzida pré-tratada, cortando um feixe de fios de comprimento igual a partir da meada ou do cabo, e procurando não omitir nenhum dos fios.
+
+Sendo «t» o «tex» do fio e «n» o número de bobinas da amostra global, é necessário retirar de cada bobina um comprimento de fio de 10^6^/nt cm para obter uma amostra reduzida de 10 g.
+
+Se nt for elevado, isto é, se ultrapassar 2 000, pode formar-se uma meada maior e cortá-la transversalmente em dois sítios, de modo a obter um cabo de massa apropriada. As extremidades de uma amostra que se apresente sob a forma de cabo devem ser convenientemente ligadas antes de efectuar o pré-tratamento, e os provetes serão recolhidos a uma distância suficiente do nó.
+
+Colher uma amostra reduzida cortando na extremidade da teia um feixe de, pelo menos, 20 cm de comprimento e abrangendo todos os fios, com excepção dos fios da ourela, que são rejeitados. Atar o feixe de fios numa das extremidades. Se a amostra for demasiado grande para efectuar um pré-tratamento global, separá-la em duas partes (ou mais de duas) que serão cada uma atadas, com vista ao pré-tratamento, e reunidas depois de terem sido pré-tratadas separadamente. Retirar um provete de comprimento conveniente sobre a amostra reduzida, cortando suficientemente longe do nó e não omitindo nenhum dos fios da teia. Para os órgãos que incluam N fios de t «tex», o comprimento de um provete pesando 1 g é de 10^5^/Nt cm.
+
+Cortar na amostra uma tira diagonal de um canto ao outro e retirar as ourelas. Esta tira constitui a amostra reduzida. Para obter uma amostra reduzida de x g, a superfície da tira será de x10^4^/G cm^2^, sendo G a massa de tecido em g/m^2^.
+
+Depois de a ter submetido ao pré-tratamento, cortar a tira transversalmente em quatro partes iguais e sobrepô-las. Retirar os provetes de uma parte qualquer do material assim preparado, cortando todas as camadas de modo a que todos os provetes compreendam um comprimento igual de cada uma delas.
+
+Se o tecido apresentar um desenho tecido, a largura da amostra reduzida, medida paralelamente à direcção da teia, não deve ser inferior a um modelo do desenho na teia. Se, estando esta condição preenchida, a amostra reduzida for demasiado grande para ser pré-tratada inteira com facilidade, deve cortar-se em partes iguais, que serão pré-tratadas separadamente, e estas partes serão sobrepostas, antes de retirar os provetes, de modo que as partes correspondentes do desenho não coincidam.
+
+Analisar cada corte de acordo com o ponto 6.1 e indicar cada resultado separadamente.
+
+A amostra global para laboratório é normalmente constituída por um produto acabado e confeccionado ou por uma fracção representativa do artigo.
+
+Determinar eventualmente a percentagem das diferentes partes do produto que não tenham o mesmo teor de fibras para verificar a conformidade com o disposto no artigo 11.º.
+
+Colher uma amostra reduzida representativa da parte do produto acabado e confeccionado cuja composição deve ser indicada pela etiqueta. Se o produto confeccionado comportar várias etiquetas, colher amostras reduzidas representativas de cada parte correspondente a uma determinada etiqueta.
+
+Se o produto cuja composição se quer determinar não é homogéneo, pode ser necessário colher amostras reduzidas de cada uma das partes do produto e determinar as proporções relativas das diversas partes em relação ao conjunto do produto.
+
+O cálculo das percentagens far-se-á então tendo em conta as proporções relativas das partes amostradas.
+
+Submeter as amostras reduzidas ao pré-tratamento.
+
+Colher em seguida provetes representativos das amostras reduzidas pré-tratadas.
+
+A análise quantitativa de mistura de fibras têxteis é baseada em dois processos principais: separação química e separação manual das fibras.
+
+O processo de separação manual deve ser escolhido sempre que possível, pois conduz geralmente a resultados mais precisos do que o processo de separação química. Aplica-se a todos os produtos têxteis cujas fibras componentes não formem uma mistura íntima, como, por exemplo, no caso de fios compostos de vários elementos constituídos, cada um deles, por uma só espécie de fibras ou de tecidos em que a fibra que constitui a teia é diferente da trama ou de malhas desmalháveis compostas de fios de naturezas diversas.
+
+O processo de separação química baseia-se, de um modo geral, na solubilidade selectiva dos componentes individuais da mistura. Depois da eliminação de um componente, pesa-se o resíduo insolúvel e calcula-se a proporção do componente solúvel a partir da perda da massa. No presente documento dão-se as informações comuns à análise por este processo, válidas para as misturas de fibras consideradas no presente anexo, qualquer que seja a sua composição. Este documento deve portanto ser utilizado em ligação com os que contêm os procedimentos pormenorizados aplicáveis a misturas de fibras especiais. Pode suceder que certas análises químicas sejam fundamentadas num princípio diferente do da solubilidade selectiva. Neste caso, os pormenores completos são dados na secção adequada do método aplicável.
+
+As misturas de fibras utilizadas durante o fabrico dos produtos têxteis e, em menor grau, as que se encontram nos produtos acabados podem conter matérias não fibrosas, tais como gorduras, ceras, preparos ou matérias solúveis na água, quer de origem natural, quer adicionadas para facilitar o fabrico. As matérias não fibrosas devem ser eliminadas antes da análise. Por esse motivo se descreve igualmente um pré-tratamento que permite eliminar os óleos, as gorduras, as ceras e as matérias solúveis na água.
+
+Os produtos têxteis podem ainda conter resinas ou outras substâncias adicionadas para lhes conferir propriedades especiais. Estas substâncias, incluindo, em casos excepcionais, os corantes, podem interferir com a acção do reagente sobre o componente solúvel e, além disso, ser total ou parcialmente eliminadas pelos reagentes. Tais substâncias podem pois ser causa de erros e devem ser eliminadas antes da análise. Se não for possível eliminá-las, os métodos de análise química descritos neste anexo não podem ser aplicados.
+
+O corante nas fibras tingidas é considerado como parte integrante das mesmas e não se elimina.
+
+Estas análises são efectuadas com base na massa anidra, sendo fornecido um método para a determinar.
+
+O resultado obtém-se aplicando à massa de cada fibra no estado seco as taxas convencionais indicadas no Anexo IX do presente regulamento.
+
+As fibras presentes na mistura devem ser identificadas antes de se proceder à análise. Em certos métodos, o componente insolúvel de uma mistura pode ser parcialmente dissolvido pelo reagente utilizado para dissolver o componente solúvel.
+
+Sempre que seja possível, devem ser escolhidos reagentes com efeito fraco ou nulo sobre as fibras insolúveis. Se se sabe que ocorre uma perda de massa no decurso da análise, é conveniente corrigir o resultado; são dados factores de correcção para esse fim. Esses factores foram determinados em diferentes laboratórios tratando as fibras, limpas pelo pré-tratamento, com o reagente adequado especificado no método de análise.
+
+Estes factores só se aplicam a fibras normais e podem ser necessários outros factores de correcção se as fibras foram degradadas antes ou durante o tratamento. Os métodos propostos aplicam-se a análises individuais.
+
+É conveniente efectuar pelo menos duas análises, sobre provetes separados, tanto no que diz respeito à separação manual como à separação química.
+
+Em caso de dúvida, salvo impossibilidade técnica, deve ser efectuada uma outra análise utilizando um método que permita a dissolução da fibra que constitui o resíduo, quando se procede de acordo com o primeiro método.
+
+#### CAPÍTULO 2
+
+No âmbito de aplicação de cada método, são assinaladas as fibras às quais o método é aplicável.
+
+Após identificação das fibras componentes da mistura binária, eliminar, por meio de um pré-tratamento adequado, as matérias não fibrosas e depois eliminar um dos componentes, geralmente por dissolução selectiva ([^17^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0018)). Pesar o resíduo insolúvel e calcular a proporção do componente solúvel a partir da perda da massa. É preferível, salvo dificuldades técnicas, dissolver a fibra existente em maior proporção, para obter como resíduo a fibra existente em menor proporção.
+
+I.3.1.1. Cadinhos filtrantes e frascos de pesagem que permitam a incorporação dos cadinhos, ou outros aparelhos que produzam resultados idênticos.
+
+I.3.1.2. Frasco de vácuo.
+
+I.3.1.3. Exsicador que contenha gel de sílica corado com um indicador.
+
+I.3.1.4. Estufa, com ventilação, regulável para 105 ± 3 °C.
+
+I.3.1.5. Balança analítica com precisão de 0,0002 g.
+
+I.3.1.6. Extractor de Soxhlet ou aparelho que permita um resultado equivalente.
+
+I.3.2. Reagentes I.3.2.1. Éter de petróleo redestilado, entrando em ebulição entre 40 °C e 60 °C. I.3.2.2. Os outros reagentes são mencionados na secção adequada de cada método. I.3.2.3. Água destilada ou desionizada. I.3.2.4. Acetona I.3.2.5. Ácido ortofosfórico. I.3.2.6. Ureia I.3.2.7. Bicarbonato de sódio. Todos os reagentes utilizados devem ser quimicamente puros.
+
+I.3.2.1. Éter de petróleo redestilado, entrando em ebulição entre 40 °C e 60 °C.
+
+I.3.2.2. Os outros reagentes são mencionados na secção adequada de cada método.
+
+I.3.2.3. Água destilada ou desionizada.
+
+I.3.2.4. Acetona
+
+I.3.2.5. Ácido ortofosfórico.
+
+I.3.2.6. Ureia
+
+I.3.2.7. Bicarbonato de sódio.
+
+Como são determinadas massas anidras, não é necessário condicionar os provetes, nem efectuar os ensaios numa atmosfera condicionada.
+
+Escolher uma amostra reduzida representativa da amostra global para laboratório e suficiente para fornecer todos os provetes necessários de 1 g, no mínimo, cada um.
+
+Se estiver presente um elemento que não interesse para o cálculo das percentagens (ver artigo 19.º), começar por eliminá-lo através de um método adequado que não afecte nenhum dos componentes fibrosos.
+
+Para o efeito, eliminam-se as matérias não fibrosas, extractáveis com éter de petróleo ou água, tratando a amostra reduzida, seca ao ar com éter de petróleo leve durante uma hora a uma velocidade mínima de 6 ciclos por hora no extractor de Soxhlet. Deixar evaporar o éter de petróleo da amostra que será em seguida extraída por tratamento directo, incluindo imersão da amostra reduzida em água à temperatura ambiente durante 1 h, seguida por imersão em água a 65 °C ± 5 °C durante mais 1 h, agitando de vez em quando. Utilizar uma razão de banho/amostra reduzida de 1/100. Eliminar o excesso de água da amostra por espremedura, sucção ou centrifugação e deixar secar ao ar.
+
+No caso da fibra elastolefina ou de misturas de fibras que contenham elastolefina e outras fibras (lã, pêlos animais, seda, algodão, linho, cânhamo, juta, abaca, alfa, coco, giesta, rami, sisal, cupro, modal, proteica, viscose, acrílica, poliamida ou nylon, poliéster ou elastomultiéster), o procedimento atrás descrito deve ser ligeiramente modificado, substituindo o éter de petróleo por acetona.
+
+No caso das misturas binárias de fibras que contenham elastolefina e acetato, aplica-se como pré-tratamento o procedimento a seguir indicado. Extrair a amostra reduzida durante 10 minutos a 80 °C com uma solução com 25 g/l de ácido ortofosfórico a 50 % e 50 g/l de ureia. Utilizar uma razão de banho/amostra reduzida de 1/100. Lavar a amostra reduzida com água, escorrer e lavar com uma solução de bicarbonato de sódio a 0,1 %; por fim, lavar com água cuidadosamente.
+
+No caso de não se poder extrair as matérias não fibrosas com éter de petróleo e água, o método da água acima descrito deve ser substituído por um método conveniente que não altere de forma sensível nenhuma das fibras componentes. Contudo, para certas fibras vegetais naturais cruas (juta, coco, por exemplo), deve notar-se que o pré-tratamento normal com éter de petróleo e água não elimina todas as substâncias não fibrosas naturais; apesar disso, não serão aplicados pré-tratamentos complementares desde que a amostra não contenha acabamentos não solúveis no éter de petróleo e água.
+
+Os métodos de pré-tratamento devem ser descritos de modo pormenorizado nos relatórios da análise.
+
+Efectuar todas as operações de secagem durante 4 h, no mínimo, a 16 h, no máximo, a uma temperatura de 105º ± 3 °C numa estufa com ventilação e cuja porta se mantém fechada durante o período de secagem. Se a duração de secagem for inferior a 14 h, deve ser verificado se foi obtida uma massa constante. Poderá adoptar-se uma duração de secagem inferior a 14 h desde que a variação de massa após uma nova secagem de 60 minutos seja inferior a 0,05 %.
+
+Evitar manipular os frascos de pesagem, os cadinhos, os provetes ou os resíduos directamente com as mãos durante as operações de secagem, arrefecimento e pesagem.
+
+Secar o provete num frasco de pesagem, com a respectiva tampa ao lado. Terminada a secagem, tapar antes de o retirar da estufa e transferir imediatamente para o exsicador.
+
+Secar na estufa o cadinho filtrante posto num frasco de pesagem, com a respectiva tampa ao lado. Terminada a secagem, tapar e transferir imediatamente para o exsicador.
+
+Quando se utilizar aparelhagem diferente do cadinho filtrante, a secagem na estufa deve ser efectuada de modo a que possa determinar-se a massa das fibras no estado seco sem perdas.
+
+Efectuar todas as operações de arrefecimento no exsicador, colocando-o ao lado da balança, durante um período suficiente para arrefecer totalmente os frascos de pesagem tarados e, em qualquer caso, nunca inferior a 2 horas.
+
+Após arrefecimento, pesar o frasco de pesagem durante os dois minutos seguintes à sua saída do exsicador, com a precisão de 0,0002 g.
+
+Retirar da amostra reduzida previamente tratada provetes com massa de pelo menos 1 g. Cortar os fios ou os tecidos em pedaços de 10 mm de comprimento, os quais devem ser desagregados tanto quanto possível. Secar o(s) provete(s) num frasco de pesagem, arrefecer no exsicador e pesar. Transferir o provete para o recipiente de vidro referido na secção adequada do método da União, e pesa-se de novo o frasco de pesagem. Calcula-se então por diferença a massa do provete seco. Completar o processo de análise da maneira mencionada na secção adequada do método aplicável. Examinar ao microscópio o resíduo para verificar se o tratamento eliminou completamente a fibra solúvel.
+
+Exprimir a massa do componente insolúvel sob a forma de percentagem da massa total das fibras presentes na mistura. A percentagem do componente solúvel obtém-se por diferença. Calcular os resultados na base das massas das fibras puras e secas às quais se aplicam, por um lado, as taxas de recuperação convencionais e, por outro, os factores de correcção necessários para ter em conta as perdas de matéria nas operações de pré-tratamento e de análise. Estes cálculos fazem-se aplicando a fórmula dada no ponto I.8.2.
+
+I.8.1. Cálculo da percentagem em massa do componente insolúvel seco e puro, não tendo em conta a perda de massa das fibras devida ao pré-tratamento: em que P1% é a percentagem do componente insolúvel seco e puro; m é a massa do provete puro e seco após pré-tratamento; r é a massa do resíduo seco; d é o factor de correcção para a perda de massa sofrida pelo componente insolúvel, no reagente, durante a análise. Os valores adequados de «d» são dados nas secções relevantes de cada método. Os valores de «d» são os valores normais aplicáveis às fibras não degradadas quimicamente.
+
+P1% é a percentagem do componente insolúvel seco e puro;
+
+m é a massa do provete puro e seco após pré-tratamento;
+
+r é a massa do resíduo seco;
+
+d é o factor de correcção para a perda de massa sofrida pelo componente insolúvel, no reagente, durante a análise. Os valores adequados de «d» são dados nas secções relevantes de cada método.
+
+I.8.2. Cálculo da percentagem em massa do componente insolúvel após aplicação das taxas de recuperação convencionais e dos eventuais factores de correcção que têm em conta a perda de massa ocasionada pelo pré-tratamento: em que P1A% é a percentagem do componente insolúvel tendo em conta a taxa convencional e a perda de massa devida ao pré-tratamento; P1 é a percentagem do componente insolúvel seco e puro calculada pela fórmula indicada no ponto I.8.1; a1 é a taxa convencional do componente insolúvel (ver Anexo IX); a2 é a taxa convencional do componente solúvel (ver Anexo IX); b1 é a perda percentual do componente insolúvel devida ao pré-tratamento; b2 é a perda de percentual do componente solúvel devida ao pré-tratamento; A percentagem do segundo componente equaciona-se da seguinte maneira: P2A% = 100 – P1A% Quando se utilizar um pré-tratamento especial, os valores de b1 e b2 devem ser determinados, se possível, submetendo cada uma das fibras componentes puras ao pré-tratamento aplicado na análise. Por fibras puras deve entender-se as fibras isentas de todas as matérias não fibrosas, com excepção das que contêm normalmente (pela sua natureza ou devido ao processo de fabrico), no estado (cru, branqueado) em que se encontram no artigo a submeter a análise. Quando não se dispõe de fibras componentes separadas e puras que tenham servido para o fabrico do artigo submetido a análise, é necessário adoptar valores médios de b1 e b2, resultantes de ensaios efectuados em fibras puras semelhantes às contidas na mistura examinada. Se for aplicado pré-tratamento normal, por extracção com éter de petróleo e água, desprezam-se em geral os factores de correcção b1 e b2, salvo no caso do algodão cru, do linho cru e do cânhamo cru, nos quais se admite convencionalmente uma perda de 4 % no pré-tratamento, e no caso do polipropileno, em que se admite uma perda de 1 %. No caso das outras fibras admite-se, convencionalmente, não ter em conta nos cálculos a perda devida ao pré-tratamento.
+
+P1A% é a percentagem do componente insolúvel tendo em conta a taxa convencional e a perda de massa devida ao pré-tratamento;
+
+P1 é a percentagem do componente insolúvel seco e puro calculada pela fórmula indicada no ponto I.8.1;
+
+a1 é a taxa convencional do componente insolúvel (ver Anexo IX);
+
+a2 é a taxa convencional do componente solúvel (ver Anexo IX);
+
+b1 é a perda percentual do componente insolúvel devida ao pré-tratamento;
+
+b2 é a perda de percentual do componente solúvel devida ao pré-tratamento;
+
+Este método aplica-se às fibras têxteis de qualquer natureza, desde que não formem uma mistura íntima e seja possível separá-las manualmente.
+
+Após identificação dos componentes de têxtil, eliminam-se primeiro as matérias não fibrosas através dum pré-tratamento adequado, seguido de separação manual das fibras, secagem e pesagem, para calcular a proporção de cada componente na mistura.
+
+II.3.1. Frascos de pesagem, ou outro aparelho que permita resultados idênticos.
+
+II.3.2. Exsicador, que contenha gel de sílica corado com um indicador.
+
+II.3.3. Estufa, com ventilação, regulável para 105 °C ± 3 °C.
+
+II.3.4. Balança analítica com precisão de 0,0002 g.
+
+II.3.5. Extractor de Soxhlet ou aparelho que permita um resultado idêntico.
+
+II.3.6. Agulha.
+
+II.3.7. Torsiómetro, ou aparelho equivalente.
+
+II.4.1. Éter de petróleo redestilado que ferva entre 40 ° e 60 °C.
+
+II.4.2. Água destilada ou desionizada.
+
+II.4.3. Acetona
+
+II.4.4. Ácido ortofosfórico.
+
+II.4.5. Ureia
+
+II.4.6. Bicarbonato de sódio.
+
+Todos os reagentes utilizados devem ser quimicamente puros.
+
+Ver I.4.
+
+Ver I.5.
+
+Ver I.6.
+
+Retirar da amostra reduzida previamente tratada um provete com uma massa de, pelo menos, 1 g. No caso de um fio muito fino, a análise pode ser efectuada sobre um comprimento de, pelo menos, 30 m, qualquer que seja a sua massa.
+
+Cortar o provete de fio em bocados de comprimento conveniente e separar os elementos com uma agulha, e, se necessário, com o torsiómetro. Introduzir os componentes assim separados em frascos de pesagem previamente tarados e secá-los a 105º ± 3 °C, até se obter uma massa constante como indicado em I.7.1 e I.7.2.
+
+Da amostra reduzida previamente tratada retirar, longe das ourelas, um provete com uma massa de, pelo menos, 1 g, cortando com precisão, sem desfiar e paralelamente aos fios da trama ou de teia ou, no caso de malhas, paralelamente às fileiras ou às colunas. Separar os fios de natureza diferente, recolher em frascos de pesagem previamente tarados e proceder como indicado no ponto II.8.1.
+
+Exprimir a massa de cada um dos componentes em percentagem da massa total das fibras constituintes da mistura. Estas percentagens calculam-se com base nas massas das fibras puras e secas às quais foram aplicadas as taxas de recuperação convencionais, por um lado, e os factores de correcção necessários para ter em conta as perdas de massa devidas ao pré-tratamento, por outro.
+
+II.9.1. Cálculo das percentagens das massas das fibras puras e secas, não tendo em conta a perda de massa da fibra devida ao pré-tratamento: em que P1% é a percentagem do primeiro componente seco e puro; m1 é a massa seca e pura do primeiro componente; m2 é a massa seca e pura do segundo componente.
+
+P1% é a percentagem do primeiro componente seco e puro;
+
+m1 é a massa seca e pura do primeiro componente;
+
+m2 é a massa seca e pura do segundo componente.
+
+II.9.2. Cálculo das percentagens de cada um dos componentes após ter aplicado as taxas convencionais e os eventuais factores de correcção que têm em conta perdas de massa devidas ao pré-tratamento (cf. ponto I.8.2).
+
+A precisão indicada para cada método refere-se à reprodutibilidade.
+
+A reprodutibilidade é a fidelidade, isto é, a grande concordância entre os valores experimentais obtidos por operadores trabalhando em laboratórios diferentes, ou em épocas diferentes, obtendo cada um, com o mesmo método, resultados individuais em provetes de misturas homogéneas idênticas.
+
+A reprodutibilidade exprime-se pelos limites de confiança dos resultados para um nível de confiança de 95 %.
+
+Por conseguinte, o desvio entre dois resultados num conjunto de análises efectuadas em laboratórios diferentes não deve ultrapassar o nível de confiança mais do que cinco vezes em cem, aplicando normal e correctamente o método a uma mistura homogénea idêntica.
+
+III.2.1. Indicar que a análise foi efectuada em conformidade com o presente método.
+
+III.2.2. Fornecer indicações detalhadas relativas aos pré-tratamentos especiais (cf. ponto I.6).
+
+III.2.3. Indicar os resultados individuais, bem como a média aritmética arredondada à primeira decimal.
+
+| Método | Âmbito de aplicação [(^1^)](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0020) | Reagente |  |
+| --- | --- | --- | --- |
+| Componente solúvel | Componente insolúvel |  |  |
+| 1. | Acetato | Determinadas outras fibras | Acetona |
+| 2. | Determinadas fibras proteicas | Determinadas outras fibras | Hipoclorito |
+| 3. | Viscose, cupro ou certos tipos de modal | Determinadas outras fibras | Ácido fórmico e cloreto de zinco |
+| 4. | Poliamida ou nylon | Determinadas outras fibras | Ácido fórmico a 80 % (m/m) |
+| 5. | Acetato | Determinadas outras fibras | Álcool benzílico |
+| 6. | Triacetato ou polilactida | Determinadas outras fibras | Diclorometano |
+| 7. | Determinadas fibras celulósicas | Determinadas outras fibras | Ácido sulfúrico a 75 % m/m |
+| 8. | Acrílicas, determinadas modacrílicas ou determinadas clorofibras | Determinadas outras fibras | Dimetilformamida |
+| 9. | Determinadas clorofibras | Determinadas outras fibras | Sulfureto de carbono/acetona a 55,5/44,5 v/v |
+| 10. | Acetato | Determinadas outras fibras | Ácido acético glacial |
+| 11. | Seda, poliamida ou nylon | Determinadas outras fibras | Ácido sulfúrico a 75 % m/m |
+| 12. | Juta | Determinadas fibras de origem animal | Método por dosagem de azoto |
+| 13. | Polipropileno | Determinadas outras fibras | Xileno |
+| 14. | Determinadas fibras | Determinadas outras fibras | Método do ácido sulfúrico concentrado |
+| 15. | Clorofibras, determinadas modacrílicas, determinados elastanos, acetatos, triacetatos | Determinadas outras fibras | Ciclohexanona |
+| 16. | Melamina | Determinadas outras fibras | Ácido fórmico quente a 90 % m/m |
+| (^1^) Lista detalhada das fibras em cada método. |  |  |  |
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. acetato (19)
+
+2. lã (1), pelos animais (2 e 3), seda (4), algodão (5), linho (7), cânhamo (8), juta (9), abaca (10), alfa (11), coco (12), giesta (13), ramie (14), sisal (15), cupro (21), modal (22), proteica (23), viscose (25), acrílica (26), poliamida ou nylon (30), poliéster (35), polipropileno (37), elastomultiéster (45), elastolefina (46), melamina (47) e bicomponente de polipropileno/poliamida (49).
+
+Este método não se aplica às misturas com fibras de acetato desacetilado à superfície.
+
+Dissolver o acetato a partir de uma massa seca conhecida da mistura, com acetona. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem de acetato por diferença.
+
+Frascos cónicos com rolha esmerilada, com capacidade mínima de 200 ml;
+
+Acetona
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico de 200 ml e rolha esmerilada, juntar 100 ml de acetona por grama do provete, agitar, deixar repousar durante 30 minutos à temperatura ambiente e decantar o líquido para o cadinho filtrante previamente tarado.
+
+Repetir duas vezes este tratamento (fazem-se três extracções no total), mas somente durante períodos de 15 minutos, de modo que a duração total do tratamento com a acetona seja de 1 h. Transferir o resíduo para o cadinho filtrante, lavar com acetona e esvaziar o cadinho por sucção. Voltar a encher o cadinho com acetona e deixar escorrer o líquido por gravidade.
+
+Finalmente, secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. determinadas fibras proteicas, nomeadamente: lã (1), pêlos animais (2 e 3), seda (4), proteica (23)
+
+2. algodão (5), cupro (21), viscose (25), acrílica (26), clorofibra (27), poliamida ou nylon (30), poliéster (35), polipropileno (37), elastano (43), vidro têxtil (44), elastomultiéster (45), elastolefina (46), melamina (47) e bicomponente polipropileno/poliamida (49).
+
+Se estiverem presentes diferentes categorias de fibras proteicas, o método permite calcular a sua proporção global na mistura, mas não a sua percentagem individual.
+
+Dissolver as fibras proteicas, a partir de uma massa seca conhecida da mistura, numa solução de hipoclorito. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. A percentagem de fibras proteicas secas obtém-se por diferença.
+
+Para preparar a solução de hipoclorito, utilizar hipoclorito de lítio ou hipoclorito de sódio.
+
+O hipoclorito de lítio é indicado quando o número de análises é reduzido ou quando estas se efectuam a intervalos bastante longos. O hipoclorito de lítio sólido apresenta com efeito, contrariamente ao hipoclorito de sódio, um teor em hipoclorito praticamente constante. Se este teor for conhecido, deixa de ser necessário controlá-lo em cada análise por iodometria e é possível trabalhar com tomadas de ensaio de hipoclorito de lítio constantes.
+
+a) Frasco cónico Erlenmeyer de 250 ml com rolha de vidro esmerilado;
+
+b) Termóstato regulável a 20 ° ± 2 °C.
+
+Este reagente é constituído por uma solução recentemente preparada com um teor em cloro activo de 35 ± 2 g/l (cerca de 1 M) à qual foi adicionado hidróxido de sódio previamente dissolvido na proporção de 5 ± 0,5 g/l. Para preparar a solução, dissolver 100 g de hipoclorito de lítio com um teor de 35 % em cloro activo (ou 115 g com um teor de 30 % em cloro activo) em cerca de 700 ml de água destilada. Adicionar 5 g de hidróxido de sódio dissolvido em cerca de 200 ml de água destilada e perfazer até 1l com água destilada. Não é necessário controlar iodometricamente tal solução recentemente preparada,
+
+Esta solução é constituída por uma solução recentemente preparada com um teor em cloro activo de 35 ± 2 g/l (cerca de 1 M) à qual se adicionou hidróxido de sódio previamente dissolvido na proporção de 5 ± 0,5 g/l.
+
+Verificar por iodometria, antes de cada análise, o título da solução em cloro activo;
+
+Diluir 5 ml de ácido acético glacial em água e perfazer o volume de 1 litro.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo: introduzir cerca de 1 g de provete no frasco de 250 ml; adicionar cerca de 100 ml de solução de hipoclorito (hipoclorito de lítio ou de sódio). Agitar energicamente para humedecer bem o provete.
+
+Colocar em seguida o frasco num termóstato a 20 °C durante 40 minutos; durante este período, agitar permanentemente ou, pelo menos, a intervalos regulares. Dado o carácter exotérmico da dissolução da lã, o calor da reacção deve ser deste modo repartido e eliminado de modo a evitar eventuais erros importantes devido ao ataque das fibras insolúveis.
+
+Ao fim de 40 minutos, filtrar o conteúdo do frasco através de um cadinho filtrante de vidro previamente tarado. Lavar o frasco com um pouco de reagente de hipoclorito para retirar as fibras que eventualmente ainda estejam presentes e transferir o todo para o cadinho filtrante. Esvaziar o cadinho filtrante por sucção; lavar o resíduo, sucessivamente, com água, com a solução diluída de ácido acético e, finalmente, com água de novo. Não aplicar sucção durante as operações de lavagem antes de o líquido ter escorrido por gravidade.
+
+Finalmente, esvaziar o cadinho por sucção, em seguida secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto para o algodão, viscose, modal e melamina, em que «d» = 1,01, e para o algodão cru, em que «d» = 1,03.
+
+No caso de misturas homogéneas de fibras têxteis, os limites de confiança dos resultados obtidos por este método não devem ultrapassar ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. viscose (25), ou cupro (21), incluindo determinados tipos de modal (22)
+
+2. algodão (5), polipropileno (37), elastolefina (46) e melamina (47).
+
+Se se verificar estar presente fibra de modal deve ser feito um ensaio preliminar para ver se esta fibra é solúvel no reagente.
+
+Este método não se aplica às misturas nas quais o algodão sofreu uma forte degradação química, nem quando a viscose ou a fibra de cupro não forem totalmente solúveis devido à presença de determinados corantes ou de produtos de acabamento que não possam ser eliminados completamente.
+
+Dissolver as fibras de viscose, cupro e modal a partir de uma massa desidratada conhecida da mistura seca, num reagente composto de ácido fórmico e de cloreto de zinco. Recolher, lavar, secar e pesar o resíduo; após correcção, exprimir a massa em percentagem da massa seca da mistura. Calcular a percentagem de viscose ou de cupro ou de modal seca por diferença.
+
+a) Frascos cónicos com rolha esmerilada, com capacidade mínima de 200 ml;
+
+b) Dispositivo que permita manter a temperatura do frasco a 40 °C ± 2 °C.
+
+a) Solução contendo 20 g de cloreto de zinco anidro fundido e 68 g de ácido fórmico anidro levado a 100 g com água (isto é: 20 partes em massa de cloreto de zinco anidro fundido em 80 partes em massa de ácido fórmico a 85 % em massa);
+
+A este respeito chama-se a atenção para o ponto I.3.2.2, em que é exigido que todos os reagentes utilizados sejam quimicamente puros; além disso, deve utilizar-se unicamente cloreto de zinco anidro fundido.
+
+b) Solução de hidróxido de amónio: diluir 20 ml de uma solução concentrada de amoníaco (densidade relativa a 20 °C: 0,880) em água até perfazer um litro.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo: colocar o provete, rapidamente, no frasco cónico previamente aquecido a 40 °C. Juntar 100 ml da solução de ácido fórmico e de cloreto de zinco pré-aquecido a 40 °C, por grama de provete. Tapar o frasco e agitar. Manter o frasco e o seu conteúdo a 40 °C, durante 2 h e 30 minutos, agitando por duas vezes com intervalos de 60 minutos.
+
+Filtrar o conteúdo do frasco através do cadinho filtrante previamente tarado e transferir o resíduo fibroso eventualmente presente para o cadinho, por lavagem do frasco com o reagente. Lavar com 20 ml de reagente pré-aquecido a 40 °C.
+
+Lavar bem o cadinho e o resíduo com água a 40 °C. Lavar o resíduo fibroso com cerca de 100 ml de solução fria de amoníaco [3.2.b)], assegurando que este resíduo fica totalmente imerso na solução durante 10 minutos ([^19^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0021)); em seguida lavar muito bem com água fria.
+
+Não aplicar sucção durante as operações de lavagem antes de o líquido ter escorrido por gravidade.
+
+Finalmente, esvaziar o cadinho por sucção, secar o cadinho e o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como se indica nas generalidades. O valor de «d» é de 1,00, exceto para o algodão, em que «d» = 1,02, e para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 2, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. poliamida ou nylon (30)
+
+2. lã (1), pêlos animais (2 e 3), algodão (5), cupro (21), modal (22), viscose (25), acrílica (26), clorofibra (27), poliéster (35), polipropileno (37), vidro têxtil (44), elastomultiéster (45), elastolefina (46), e melamina (47).
+
+Como indicado anteriormente, este método também se aplica às misturas que contenham lã mas, quando a proporção desta última for superior a 25 %, deve ser aplicado o método n.º 2 (dissolução da lã em solução de hipoclorito de sódio alcalino ou hipoclorito de lítio).
+
+Dissolver fibras de poliamida ou nylon a partir de uma massa seca conhecida da mistura em ácido fórmico. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem seca de poliamida ou nylon, por diferença.
+
+Frascos cónicos com rolha esmerilada, com capacidade mínima de 200 ml;
+
+a) Solução de ácido fórmico a 80% em massa (densidade relativa a 20 °C: 1,186). Diluir com água 880 ml de ácido fórmico a 90 % em massa (densidade relativa a 20°C: 1,204) em água até perfazer um litro. Diluir com água 780 ml de ácido fórmico entre 98 % e 100 % em massa (densidade relativa a 20 °C: 1,220) em água até perfazer um litro.
+
+b) Solução diluída de hidróxido de amónio: diluir 80 ml de uma solução concentrada de hidróxido de amónio (densidade relativa a 20 °C: 0,880) em água até perfazer um litro.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo: colocar o provete no frasco cónico de 200 ml pelo menos, juntar 100 ml de ácido fórmico por grama do provete. Rolhar o frasco, agitar de modo a molhar o provete. Deixar repousar o conteúdo do frasco durante 15 minutos à temperatura ambiente, agitando de vez em quando. Filtrar o conteúdo do frasco através do cadinho filtrante previamente tarado, transferindo o resíduo fibroso para o cadinho por lavagem do frasco com um pouco de solução de ácido fórmico.
+
+Esvaziar o cadinho por sucção e lavar o resíduo sobre o cadinho, sucessivamente, com solução de ácido fórmico, água quente, com solução de hidróxido de amónio e, finalmente, com água fria, esvaziando o cadinho por sucção após cada aditamento. Não aplicar sucção durante as operações de lavagem antes de o líquido ter escorrido por gravidade.
+
+Finalmente, secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. acetato (19)
+
+2. triacetato (24), polipropileno (37), elastolefina (46), melamina (47) e bicomponente de polipropileno/poliamida (49).
+
+Dissolver as fibras de acetato a partir de uma massa seca conhecida da mistura, com álcool benzílico a 52 ° ± 2 °C.
+
+Recolher, lavar, secar e pesar o resíduo; exprimir a massa em percentagem da massa seca da mistura. Calcular a percentagem de acetato por diferença.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Dispositivo de agitação mecânica.
+
+c) Termóstato ou outro aparelho que permita manter a temperatura do frasco a 52 ° ± 2 °C.
+
+a) Álcool benzílico;
+
+b) Álcool etílico.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico, juntar 100 ml de álcool benzílico por grama de provete. Tapar o frasco, mergulhá-lo no banho de água a 52 ° ± 2 °C e agitar energicamente por meio do dispositivo de agitação mecânica, durante 20 minutos, a esta temperatura.
+
+(Em alternativa ao dispositivo de agitação mecânica, o frasco pode ser agitado manualmente com movimentos vigorosos).
+
+Decantar o líquido sobre o cadinho filtrante tarado. Juntar no frasco uma nova porção de álcool benzílico e agitar como anteriormente à temperatura de 52 ° ± 2 °C durante 20 minutos.
+
+Decantar através do mesmo cadinho filtrante. Repetir o ciclo de operações uma terceira vez.
+
+Transferir finalmente o líquido e o resíduo para o cadinho; transferir o resíduo fibroso adicionando um volume suplementar de álcool benzílico à temperatura de 52 ° ± 2 °C. Esvaziar completamente o cadinho.
+
+Colocar as fibras num frasco, lavar com álcool etílico; após agitação manual, decantar pelo mesmo cadinho filtrante.
+
+Repetir duas ou três vezes esta lavagem. Transferir o resíduo para o cadinho filtrante e esvaziar completamente. Secar o resíduo no cadinho, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. triacetato (24) ou polilactida (34)
+
+2. lã (1), pelos animais (2 e 3), seda (4), algodão (5), cupro (21), modal (22), viscose (25), acrílica (26), poliamida ou nylon (30), poliéster (35), polipropileno (37), vidro têxtil (44), elastomultiéster (45), elastolefina (46), melamina (47) e bicomponente de polipropileno/poliamida (49).
+
+As fibras de triacetato parcialmente saponificadas por um tratamento especial deixam de ser completamente solúveis no reagente. Neste caso, o método não é aplicável.
+
+Dissolver as fibras de triacetato ou polilactida a partir de uma massa seca conhecida da mistura, por meio de diclorometano. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem seca de triacetato ou polilactida por diferença.
+
+Frascos cónicos com rolha esmerilada, com capacidade mínima de 200 ml;
+
+Diclorometano.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico de 200 ml, com rolha esmerilada, juntar 100 ml de diclorometano por grama de provete, tapar, agitar o frasco para molhar o provete com o reagente e deixar em contacto durante 30 minutos à temperatura ambiente, agitando de dez em dez minutos. Decantar o líquido sobre o cadinho filtrante tarado. Juntar 60 ml de diclorometano ao resíduo deixado no frasco, agitar manualmente e filtrar o conteúdo do frasco do mesmo cadinho. Transferir o resíduo fibroso para o cadinho por lavagem do frasco com um pouco de diclorometano. Esvaziar o cadinho por sucção, para eliminar o excesso de líquido, tornar a encher o cadinho com diclorometano e deixar escorrer o líquido por gravidade.
+
+Finalmente, aplicar o vácuo para eliminar o excesso de líquido, depois tratar o resíduo com água a ferver para eliminar todo o solvente, aplicar o vácuo, secar o cadinho e o resíduo, arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00 excepto no caso de poliéster, elastomultiéster, elastolefina e melamina, para os quais «d» é 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. algodão (5), linho (7), cânhamo (8), rami (14), cupro (21), modal (22), viscose (25)
+
+2. poliester (35), polipropileno (37), elastomultiéster (45), elastolefina (46) e bicomponente de polipropileno/poliamida (49).
+
+Dissolver as fibras de celulose a partir de uma massa seca conhecida da mistura em ácido sulfúrico a 75 % em massa. Recolher, lavar, secar e pesar o resíduo; exprimir a massa em percentagem da massa seca da mistura. Calcular a percentagem de fibras de celulose por diferença.
+
+a) Frascos cónicos com rolha esmerilada, com capacidade mínima de 500 ml;
+
+b) Termóstato ou outro aparelho que permita manter a temperatura do frasco a 50 ° ± 5 °C.
+
+a) Ácido sulfúrico a 75 % ± 2 % em massa:
+
+b) Solução diluída de hidróxido de amónio
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico com rolha esmerilada de 500 ml, no mínimo, juntar 200 ml de solução de ácido sulfúrico a 75 % por grama de provete, fechar e agitar o frasco com precaução, para molhar o provete com o reagente.
+
+Manter o frasco a 50 ° ± 5 °C durante 1 hora, agitando suavemente o frasco e o seu conteúdo, de 10 em 10 minutos. Filtrar por sucção o conteúdo do frasco através do cadinho filtrante, previamente tarado. Transferir o resíduo fibroso para o cadinho, por lavagem do frasco com um pouco de solução de ácido sulfúrico a 75 %. Retirar o líquido do cadinho por sucção e lavar uma vez o resíduo com um pouco de solução de ácido sulfúrico. Não aplicar sucção enquanto o ácido não tiver escorrido por gravidade.
+
+Lavar o resíduo várias vezes com água fria, depois duas vezes com a solução de hidróxido de amónio e depois completamente com água fria, esvaziando o cadinho por sucção depois de cada adição. Não aplicar sucção durante as operações de lavagem antes de o líquido ter escorrido por gravidade. Eliminar por sucção o líquido restante, secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como se indica nas generalidades. O valor de «d» é de 1,00 exceto para a bicomponente de polipropileno/poliamida, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. acrílicas (26), certas modacrílicas (29) ou certas clorofibras (27) ([^20^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0022))
+
+2. lã (1), pelos animais (2 e 3), seda (4), algodão (5), cupro (21), modal (22), viscose (25), poliamida ou nylon (30), poliéster (35), polipropileno (37), elastomultiéster (45), elastolefina (46), melamina (47) e bicomponente de polipropileno/poliamida (49).
+
+O método aplica-se igualmente às fibras acrílicas e a determinadas modacrílicas tratadas com corantes pré-metalizados, mas não às tratadas com corantes com crómio.
+
+Dissolver as fibras acrílicas, modacrílicas ou clorofibras de uma massa seca conhecida da mistura, por meio de dimetilformamida a uma temperatura de banho-maria à ebulição. Recolher, lavar, secar e pesar o resíduo. Exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem de acrílicas, modacrílicas ou clorofibras secas por diferença.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Banho-maria à ebulição.
+
+Dimetilformamida (com ponto de ebulição de 153 ° ± 1 °C) não contendo mais do que 0,1 % de água.
+
+Como este reagente é tóxico, recomenda-se o uso de uma chaminé.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico com rolha esmerilada de 200 ml, pelo menos, juntar 80 ml de dimetilformamida por grama do provete previamente aquecido em banho-maria à ebulição, tapar o frasco, agitar de forma a molhar o provete com o reagente e colocar no banho-maria à ebulição onde se mantém durante 1 hora. Agitar o frasco e o seu conteúdo manualmente e com precaução cinco vezes durante este período.
+
+Decantar o líquido através do cadinho filtrante previamente tarado, retendo as fibras no frasco cónico. Juntar de novo 60 ml de dimetilformamida e aquecer durante mais 30 minutos, agitando manualmente e com precaução duas vezes durante este período.
+
+Filtrar o conteúdo do frasco através do cadinho filtrante, por sucção.
+
+Transferir para o cadinho as fibras residuais no frasco, por lavagem deste com dimetilformamida. Esvaziar por sucção para eliminar o excesso de líquido. Lavar o resíduo com cerca de 1 l de água quente a 70 °-80 °C, enchendo sempre o cadinho de água.
+
+Após cada adição de água, aplicar momentaneamente a sucção, mas apenas após o escoamento espontâneo da água. Se o líquido de lavagem escoar através do cadinho demasiado devagar, pode ser aplicada uma ligeira sucção.
+
+Secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto no caso da lã, algodão, cupro, modal, poliéster, elastomultiéster e melamina, para os quais o valor de «d» é 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. determinadas clorofibras (27), nomeadamente, determinados policloretos de vinilo, sobreclorados ou não ([^21^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0023))
+
+2. lã (1), pelos animais (2 e 3), seda (4), algodão (5), cupro (21), modal (22), viscose (25), acrílica (26), poliamida ou nylon (30), poliéster (35), polipropileno (37), vidro têxtil (44), elastomultiéster (45), melamina (47) e bicomponente de polipropileno/poliamida (49).
+
+Quando a lã ou a seda contidas na mistura excederem 25 %, convém utilizar o método n.º 2.
+
+Quando o teor de poliamida ou nylon exceder 25 %, utilizar o método n.º 4.
+
+Dissolver as fibras de clorofibras a partir de uma massa seca conhecida da mistura por meio da mistura azeotrópica de sulfureto de carbono e acetona. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem de fibras de policloreto de vinilo secas por diferença.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Dispositivo de agitação mecânica.
+
+a) Mistura azeotrópica de sulfureto de carbono e acetona (55,5 % de sulfureto de carbono com 44,5 % de acetona em volume). Sendo este reagente tóxico, recomenda-se o uso de uma chaminé.
+
+b) Álcool etílico a 92 % em volume ou álcool metílico.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico com rolha esmerilada de, pelo menos, 200 ml, juntar 100 ml de mistura azeotrópica por grama de provete. Tapar bem o frasco e agitar à temperatura ambiente no dispositivo de agitação mecânica ou com agitação manual vigorosa durante 20 minutos.
+
+Decantar o líquido sobrenadante para o cadinho filtrante previamente tarado.
+
+Repetir este tratamento com mais 100 ml de mistura azeotrópica. Continuar este ciclo de operações até que uma gota do líquido da extracção não deixe depósito do polímero após evaporação num vidro de relógio. Transferir o resíduo do frasco para o cadinho filtrante com um pouco mais de reagente, esvaziar por sucção e lavar o cadinho e o resíduo com 20 ml de álcool e depois três vezes com água. Não aplicar sucção antes do líquido de lavagem ter escorrido através do cadinho, por gravidade. Finalmente, eliminar o líquido excedente por sucção, secar o cadinho com o seu conteúdo, deixar arrefecer e pesar.
+
+As amostras de certas misturas de alto teor de clorofibras contraem-se fortemente durante a operação de secagem, o que retarda a eliminação das clorofibras pelo solvente.
+
+Esta contracção não impede contudo a dissolução total das clorofibras.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1 para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. acetato (19)
+
+2. certas clorofibras (27), como o policloreto de vinilo, sobreclorado ou não, o polipropileno (37), a elastolefina (46), a melamina (47) e a bicomponente de polipropileno/poliamida (49).
+
+Dissolver as fibras de acetato a partir de uma massa seca conhecida da mistura em ácido acético glacial. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem de acetato por diferença.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Dispositivo de agitação mecânica.
+
+Ácido acético glacial (a mais de 99 %). Este reagente é muito cáustico, pelo que deve ser manipulado com precaução.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete no frasco cónico com rolha esmerilada de, pelo menos, 200 ml e juntar 100 ml de ácido acético glacial por grama do provete. Fechar bem o frasco e agitar durante 20 minutos à temperatura ambiente, no dispositivo de agitação mecânica ou com agitação manual vigorosa. Decantar o líquido sobrenadante para o cadinho filtrante previamente tarado. Repetir este tratamento duas vezes, utilizando, de cada vez, 100 ml de reagente, o que completa três extracções.
+
+Transferir o resíduo para o cadinho filtrante, esvaziar por sucção, lavar o cadinho e o resíduo com 50 ml de ácido acético glacial e, em seguida, três vezes, com água. Depois de cada lavagem, deixar o líquido escorrer por gravidade através do cadinho, antes de se aplicar a sucção. Secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1 para um nível de confiança de 95 %.
+
+Este método aplica-se, após eliminação das matérias não fibrosas, às misturas binárias de:
+
+1. seda (4) ou poliamida ou nylon (30)
+
+2. lã (1), pelos animais (2 e 3), polipropileno (37), elastolefina (46), melamina (47) e bicomponente de polipropileno/poliamida (49)
+
+Dissolver a seda ou poliamida ou nylon a partir de uma massa seca conhecida da mistura por meio de ácido sulfúrico a 75 % m/m ([^22^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0024)).
+
+Recolher, lavar, secar e pesar o resíduo. Exprimir a sua massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem seca de seda, poliamida ou nylon, por diferença.
+
+Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+a) Ácido sulfúrico a 75 % ± 2 % em massa
+
+b) Solução diluída de ácido sulfúrico: juntar, lentamente, 100 ml de ácido sulfúrico (densidade relativa a 20 °C: 1,84) a 1 900 ml de água destilada;
+
+c) Solução diluída de hidróxido de amónio: diluir com água 200 ml de uma solução concentrada de hidróxido de amónio (densidade relativa a 20 °C: 0,880) até perfazer um litro.
+
+Seguir as instruções dadas nas generalidades e proceder do seguinte modo:
+
+Colocar o provete num frasco cónico com rolha esmerilada de 200 ml pelo menos, juntar 100 ml de ácido sulfúrico a 75 % m/m por grama do provete, tapar. Agitar vigorosamente e deixar repousar durante 30 minutos à temperatura ambiente. Agitar de novo e deixar repousar mais 30 minutos. Agitar uma última vez e verter o conteúdo do frasco para um cadinho filtrante previamente tarado. Transferir para o cadinho as fibras que eventualmente fiquem no frasco, com um pouco de ácido sulfúrico a 75 %. Lavar o resíduo, no cadinho, sucessivamente, com 50 ml de ácido sulfúrico diluído, 50 ml de água e 50 ml de solução diluída de hidróxido de amónio. Deixar de cada vez as fibras em contacto com o líquido durante cerca de 10 minutos, antes de aplicar sucção. Lavar com água deixando as fibras em contacto com água durante 30 minutos. Retirar o líquido excedente por sucção. Secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+No caso das misturas binárias que contenham poliamida e bicomponente de polipropileno/poliamida, depois de filtradas as fibras no cadinho filtrante previamente tarado e antes de aplicar o procedimento de lavagem descrito, lavar duas vezes o resíduo que fica no cadinho filtrante com 50 ml de reagente de ácido sulfúrico a 75 %, cada uma das vezes.
+
+Calcular os resultados como se indica nas generalidades. O valor de «d» é de 1,00, exceto para a lã, em que «d» = 0,985, para a bicomponente de polipropileno/poliamida, em que «d» = 1,005 e para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %, exceto para as misturas binárias de poliamida e para a bicomponente de polipropileno/poliamida, para as quais os limites de confiança dos resultados não ultrapassam ± 2.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. juta (9)
+
+2. determinadas fibras de origem animal.
+
+A componente «fibras de origem animal» pode consistir apenas em pêlos (2 e 3) ou em lã (1) ou em qualquer mistura destes dois elementos. Considera-se que este método não se aplica às misturas têxteis que contenham matérias não fibrosas (corantes, acabamentos, etc.) à base de azoto.
+
+Determinação do teor de azoto contido na mistura e cálculo da percentagem dos dois constituintes da mistura a partir do teor de azoto determinado e do teor de azoto conhecido de cada um dos constituintes.
+
+a) Balão de Kjeldahl com a capacidade de 200 a 300 ml;
+
+b) Aparelho de destilação Kjeldahl, com injecção de vapor;
+
+c) Bureta, permitindo uma precisão de 0,05 ml.
+
+a) Tolueno;
+
+b) Álcool metílico;
+
+c) Solução de ácido sulfúrico (densidade relativa a 20 °C: 1,84) ([^23^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0025));
+
+d) Sulfato de potássio [(23)](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0025);
+
+e) Dióxido de selénio [(23)](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0025);
+
+f) Solução de hidróxido de sódio (400 g/l). Dissolver 400 g de hidróxido de sódio em 400-500 ml de água e diluir com água até perfazer um litro;
+
+g) Mistura de indicadores. Dissolver 0,1 g de vermelho de metilo em 95 ml de álcool etílico e 5 ml de água e misturar esta solução com 0,5 g de verde de bromocresol dissolvido em 475 ml de álcool etílico e 25 ml de água;
+
+h) Solução de ácido bórico. Dissolver 20 g de ácido bórico em um litro de água;
+
+i) Ácido sulfúrico 0,02 N (solução padrão volumétrica).
+
+O pré-tratamento descrito nas informações gerais é substituído pelo pré-tratamento seguinte:
+
+Submeter a amostra reduzida, seca ao ar, a uma extracção num aparelho Soxhlet com uma mistura de um volume de tolueno e três volumes de álcool metílico, durante quatro horas, à velocidade mínima de cinco ciclos por hora. Deixar a amostra ao ar para permitir a evaporação do solvente e eliminar os vestígios por aquecimento numa estufa, à temperatura de 105 °C ± 3 °C. Extrair em seguida a amostra com água (50 ml por grama de amostra) à ebulição, sob refluxo, durante 30 minutos. Filtrar, reintroduzir a amostra no frasco e repetir a extracção com nova porção de água de idêntico volume. Filtrar, retirar o excesso de água da amostra por expressão, sucção ou centrifugação e depois deixar a amostra secar ao ar.
+
+Devido aos efeitos tóxicos do tolueno e do álcool metílico, é necessário utilizar estes produtos com as devidas precauções.
+
+Seguir as instruções dadas nas informações gerais no que diz respeito à colheita, secagem e pesagem do provete.
+
+Transfere-se o provete para um balão de Kjeldahl. Ao provete de pelo menos 1 g colocado no balão de Kjeldahl juntar, pela ordem seguinte, 2,5 g de sulfato de potássio, 0,1 a 0,2 g de dióxido de selénio e 10 ml de ácido sulfúrico (densidade relativa a 20 °C: 1,84). Aquecer o balão, ao princípio lentamente, até destruição total das fibras, e depois mais fortemente, até que a solução se torne clara e por fim praticamente incolor. Continuar o aquecimento durante 15 minutos. Deixar arrefecer, diluir cuidadosamente o conteúdo do balão com 10 a 20 ml de água, arrefecer, transferir para um balão graduado de precisão de 200 ml e juntar água até perfazer o volume da solução para análise. Introduzir cerca de 20 ml de uma solução de ácido bórico num frasco cónico de 100 ml e colocá-lo sob o condensador do aparelho de destilação Kjeldahl de tal modo que a extremidade do tubo abdutor daquele se encontre exactamente abaixo do nível da superfície da solução de ácido bórico. Transferir exactamente 10 ml da solução para análise para o balão de destilação, introduzir, pelo menos, 5 ml de solução de hidróxido de sódio no funil, levantar ligeiramente a tampa e deixar a solução de hidróxido de sódio correr lentamente para o balão. Se a solução a analisar e a solução de hidróxido de sódio tenderem a formar camadas separadas, misturar com leve agitação. Aquecer ligeiramente o balão de destilação e introduzir no líquido uma corrente de vapor proveniente do gerador. Recolher cerca de 20 ml do destilado, baixar o frasco cónico de modo que a extremidade do tubo abdutor se encontre cerca de 20 mm acima do nível da superfície do líquido e destilar ainda durante um minuto. Lavar a extremidade do tubo abdutor com água e recolher o líquido de lavagem no frasco cónico. Retirar este frasco, colocar um segundo frasco cónico contendo cerca de 10 ml de solução de ácido bórico e recolher cerca de 10 ml de destilado.
+
+Titular separadamente os dois destilados com ácido sulfúrico 0,02 N utilizando a mistura de indicadores. Anotar os resultados da titulação para os dois destilados. Se o resultado da titulação do segundo destilado for superior a 0,2 ml, rejeitar o resultado e recomeçar a destilação, utilizando uma nova porção da solução para a análise.
+
+Efectuar um ensaio em branco, submetendo a digestão e destilação apenas os reagentes.
+
+6.1. Calcular como segue a percentagem de azoto na amostra seca:
+
+| A | = | percentagem de azoto na amostra seca e pura; |
+| --- | --- | --- |
+
+| V | = | volume total em ml de ácido sulfúrico padrão utilizado no ensaio; |
+| --- | --- | --- |
+
+| b | = | volume total em ml de ácido sulfúrico padrão utilizado no ensaio em branco; |
+| --- | --- | --- |
+
+| N | = | concentração real do ácido sulfúrico padrão; |
+| --- | --- | --- |
+
+| W | = | massa (g) do provete seco. |
+| --- | --- | --- |
+
+6.2. Utilizando os valores de 0,22 % para o teor de azoto da juta e de 16,2 % para o das fibras de origem animal, sendo estas duas percentagens expressas na base da massa das fibras secas, calcula-se a composição da mistura pela seguinte fórmula:
+
+| PA % | = | percentagem de fibras de origem animal na amostra seca e pura. |
+| --- | --- | --- |
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. fibras de polipropileno (37)
+
+2. lã (1), pêlos animais (2 e 3), seda (4), algodão (5), acetato (19), cupro (21), modal (22), triacetato (24), viscose (25), acrílica (26), poliamida ou nylon (30), poliéster (35), vidro têxtil (44), elastomultiéster (45) e melamina (47).
+
+Dissolver as fibras de polipropileno a partir de uma massa seca conhecida da mistura, por meio de xileno à ebulição. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem de polipropileno por diferença.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Refrigerante de refluxo (adaptado a líquidos de ponto de ebulição elevado), adaptável aos frascos a);
+
+c) Manta de aquecimento de xileno à ebulição.
+
+Xileno, que destile entre 137 ° e 142 °C.
+
+O xileno é muito inflamável e produz vapores tóxicos. É conveniente tomar medidas de protecção adequadas na sua utilização.
+
+Seguir as instruções dadas nas informações gerais e proceder do seguinte modo:
+
+Colocar o provete num frasco cónico [3.1.a)] e juntar 100 ml de xileno (3.2) por grama do provete. Montar o refrigerante de refluxo [3.1.b)] e levar à ebulição, que se mantém durante três minutos.
+
+Decantar imediatamente o líquido quente para o cadinho filtrante, previamente tarado (ver *Nota* 1). Repetir este tratamento mais duas vezes, utilizando em cada uma novas porções de 50 ml de solvente.
+
+Lavar o resíduo que fica no frasco, sucessivamente, com 30 ml de xileno a ferver (duas vezes), depois mais duas vezes com 75 ml de éter de petróleo (I.3.2.1 das informações gerais) de cada vez. Depois da segunda lavagem com éter de petróleo, filtrar o conteúdo do frasco pelo cadinho filtrante e transferir as fibras retidas para o cadinho com a ajuda de uma pequena quantidade suplementar de éter de petróleo. Fazer evaporar completamente o solvente. Secar o cadinho e o resíduo, arrefecer e pesar.
+
+1. Deve aquecer-se previamente o cadinho filtrante para o qual se decanta o xileno.
+
+2. Depois das lavagens com xileno a ferver, o frasco que contém o resíduo deve ser suficientemente arrefecido antes de nele ser introduzido o éter de petróleo.
+
+3. Por forma a reduzir os riscos de incêndio e de toxicidade que ameaçam o operador, aconselha-se a utilização de um aparelho para extracção a quente com recurso aos procedimentos adequados, o que produzirá resultados idênticos ([^24^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0026)).
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto para a melamina, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. algodão (5), acetato (19), cupro (21), modal (22), triacetato (24), viscose (25), determinadas acrílicas (26), determinadas modacrílicas (29), poliamida ou nylon (30), poliéster (35) e elastomultiéster (45)
+
+2. clorofibras (27) à base de homopolímeros de cloreto de vinilo (sobreclorado ou não), polipropileno (37), elastolefina (46), melamina (47) e bicomponente de polipropileno/poliamida (49).
+
+As modacrílicas consideradas são as que produzem uma solução límpida por imersão em ácido sulfúrico concentrado (densidade relativa 1,84 a 20 °C).
+
+Este método pode ser utilizado em substituição dos métodos n.^os^ 8 e 9.
+
+As constituintes diferentes da clorofibra, polipropileno, elastolefina, melamina ou bicomponente de polipropileno/poliamida (isto é, as fibras mencionadas no ponto 1.1) são extraídas a partir de uma massa conhecida da mistura no estado seco por dissolução no ácido sulfúrico concentrado (densidade relativa 1,84 a 20 °C). O resíduo constituído por clorofibra, polipropileno, elastolefina, melamina ou bicomponente de polipropileno/poliamida é recolhido, lavado, seco e pesado; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. A percentagem dos restantes constituintes é obtida por diferença.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Vareta de vidro, com ponta espalmada.
+
+a) Ácido sulfúrico concentrado (densidade relativa a 20 °C: 1,84);
+
+b) Ácido sulfúrico, solução aquosa, aproximadamente 50 % em massa de ácido sulfúrico.
+
+c) Amoníaco, solução diluída.
+
+Aplicar o procedimento descrito nas informações gerais e, em seguida, proceder do seguinte modo:
+
+Ao provete colocado no frasco cónico [3.1.a)] juntar 100 ml de ácido sulfúrico [3.2.a)] por grama do provete.
+
+Deixar 10 minutos à temperatura ambiente, agitando de vez em quando com ajuda da vareta de vidro. Se se tratar de um tecido ou de uma malha, encostá-lo entre a parede do frasco e a vareta de vidro e exercer, com a ajuda da vareta, uma leve pressão de modo a separar a matéria dissolvida pelo ácido sulfúrico.
+
+Decantar o líquido sobre o cadinho de vidro tarado. Juntar de novo, no frasco, 100 ml de ácido sulfúrico [3.2.a)] e repetir a mesma operação. Verter o conteúdo do frasco sobre o cadinho filtrante e arrastar o resíduo fibroso com ajuda da vareta de vidro. Se necessário, juntar um pouco de ácido sulfúrico concentrado [3.2.a)] no frasco para arrastar os restos de fibras que aderiram às paredes. Vazar o cadinho por sucção; eliminar o filtrado do frasco vazio ou mudar de frasco, seguidamente lavar o resíduo no cadinho sucessivamente com a solução de ácido sulfúrico a 50 % [3.2.b)], de água destilada ou desionizada (I.3.2.3 das informações gerais), a solução de amoníaco [3.2.c)] e, finalmente, lavar bem com água destilada ou desionizada, esvaziando completamente o cadinho por sucção após cada adição (não utilizar a sucção durante a operação de lavagem, mas apenas quando o líquido se tiver escoado por gravidade). Secar o cadinho e o resíduo, arrefecer e pesar.
+
+Calcular os resultados como se indica nas generalidades. O valor de «d» é 1,00 exceto para a melamina e para a bicomponente de polipropileno/poliamida, em que «d» = 1,01.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. acetato (19), triacetato (24), clorofibras (27), determinadas modacrílicas (29) e determinados elastanos (43)
+
+2. lã (1), pêlos de animais (2 e 3), seda (4), algodão (5), cupro (21), modal (22), viscose (25), poliamida ou nylon (30), acrílica (26), vidro têxtil (44) e melamina (47).
+
+Se se verificar a presença de modacrílicas ou elastanos, deve ser feito um ensaio preliminar para ver se estas fibras são completamente solúveis no reagente.
+
+Também é possível analisar misturas que contenham clorofibras utilizando os métodos n.^os^ 9 ou 14.
+
+Dissolver as fibras de acetato, de triacetato, as clorofibras, determinadas modacrílicas, determinados elastanos, de uma massa seca conhecida da mistura por extracção com ciclohexanona a uma temperatura próxima da ebulição. Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. Calcular a percentagem de clorofibra, modacrílica, elastano, acetato e triacetato por diferença.
+
+a) Aparelho para extracção a quente que permita a técnica prevista no ponto 4 [cf. esquema: variante do aparelho descrito em «Melliand Textilberichte» 56 (1975) pp.643-645];
+
+b) Cadinho filtrante que conterá a amostra;
+
+c) Placa porosa, de porosidade 1;
+
+d) Refrigerador de refluxo que se adapta ao balão de destilação;
+
+e) Aparelho de aquecimento.
+
+a) Ciclohexanona, ponto de ebulição a 156 °C;
+
+b) Álcool etílico, diluído a 50 % em volume.
+
+A ciclohexanona é inflamável e tóxica. É conveniente tomar medidas de protecção adequadas na sua utilização.
+
+Seguir as instruções fornecidas nas informações gerais e proceder tal como se segue:
+
+Deitar para o balão de destilação 100 ml de ciclohexanona por grama de matéria, inserir o recipiente de extracção no qual se colocou previamente o cadinho filtrante contendo a amostra e a placa porosa mantida ligeiramente inclinada. Introduzir o refrigerador de refluxo. Deixar ferver e continuar a extracção durante 60 minutos a uma velocidade mínima de 12 ciclos por hora.
+
+Após extracção e arrefecimento, tirar o recipiente de extracção, retirar-lhe o cadinho filtrante e tirar igualmente a placa porosa. Lavar o conteúdo do cadinho filtrante três ou quatro vezes com álcool etílico a 50 % previamente aquecido até cerca de 60 °C e, em seguida, com 1 l de água a 60 °C.
+
+No decurso das lavagens e entre elas, aplicar apenas a sucção após o solvente se ter escoado por gravidade.
+
+Secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,00, excepto no caso da seda e da melamina, em que «d» = 1,01, e do acrílico, em que «d» = 0,98.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 1, para um nível de confiança de 95 %.
+
+Este método aplica-se, após a eliminação das matérias não fibrosas, às misturas binárias de fibras de:
+
+1. melamina (47)
+
+2. algodão (5), aramida (31) e polipropileno (37).
+
+Dissolver a melamina a partir de uma massa seca conhecida da mistura em ácido fórmico quente (90 % em massa).
+
+Recolher, lavar, secar e pesar o resíduo; exprimir a massa, corrigida se necessário, em percentagem da massa seca da mistura. A percentagem do segundo constituinte é obtida por diferença.
+
+Respeitar estritamente as temperaturas recomendadas, porque a solubilidade da melamina depende muito da temperatura.
+
+a) Frascos cónicos com capacidade mínima de 200 ml, com rolha esmerilada;
+
+b) Dispositivo agitador banho-maria ou outro dispositivo agitador, que mantenha o frasco a 90 ° ± 2 °C.
+
+a) Solução de ácido fórmico a 90 % em massa (densidade relativa a 20 °C: 1,204). Diluir com água 890 ml de uma solução de ácido fórmico a 98 % a 100 % em massa (densidade relativa a 20 °C: 1,220) até perfazer um litro.
+
+b) Solução diluída de hidróxido de amónio: diluir com água 80 ml de uma solução concentrada de hidróxido de amónio (densidade relativa a 20 °C: 0,880) até perfazer um litro.
+
+Aplicar o procedimento descrito nas informações gerais e, em seguida, proceder do seguinte modo:
+
+Colocar o provete no frasco cónico com rolha esmerilada de 200 ml pelo menos e juntar 100 ml de ácido fórmico por grama do provete. Rolhar o frasco, agitar de modo a molhar o provete. Manter o frasco num agitador banho-maria a 90 ° ± 2 °C durante uma hora, com agitação vigorosa. Deixar arrefecer até à temperatura ambiente. Decantar o líquido sobre o cadinho de vidro tarado. Juntar 50 ml de ácido fórmico ao resíduo deixado no frasco, agitar manualmente e filtrar o conteúdo do frasco no mesmo cadinho. Transferir o resíduo fibroso para o cadinho por lavagem do frasco com um pouco de solução de ácido fórmico. Esvaziar o cadinho por sucção e lavar o resíduo com solução de ácido fórmico, água quente, com solução de hidróxido de amónio e, finalmente, com água fria, esvaziando sempre o cadinho por sucção após cada novo aditamento. Não aplicar sucção durante as operações de lavagem antes de o líquido ter escorrido por gravidade. Finalmente, secar o cadinho com o resíduo, deixar arrefecer e pesar.
+
+Calcular os resultados como descrito nas informações gerais. O valor de «d» é 1,02.
+
+Para uma mistura homogénea de matérias têxteis, os limites de confiança dos resultados obtidos de acordo com este método não ultrapassam ± 2, para um nível de confiança de 95 %.
+
+#### CAPÍTULO 3
+
+O processo de análise química quantitativa baseia-se, de um modo geral, na dissolução selectiva dos componentes individuais da mistura. Nas misturas ternárias, são possíveis quatro variantes deste processo.
+
+1. Faz-se o ensaio sobre dois provetes diferentes dissolvendo um componente a) do primeiro provete e outro componente b) do segundo provete. Os resíduos insolúveis de cada provete são pesados e calcula-se a percentagem de cada um dos dois componentes solúveis a partir das perdas de massa respectivas. A percentagem do terceiro componente c) calcula-se por diferença.
+
+2. Faz-se o ensaio sobre dois provetes diferentes dissolvendo um componente a) do primeiro provete e dois componentes a) e b) do segundo provete. Pesa-se o resíduo insolúvel do primeiro provete e calcula-se a percentagem do componente a) a partir da perda de massa. Pesa-se o resíduo insolúvel do segundo provete correspondente ao componente c). A percentagem do componente b) calcula-se por diferença.
+
+3. Fazem-se os ensaios sobre dois provetes diferentes dissolvendo dois componentes a) e b) do primeiro provete e dois componentes b) e c) do segundo provete. Os resíduos insolúveis correspondem respectivamente aos componentes c) e a). A percentagem do componente b) calcula-se por diferença.
+
+4. Faz-se o ensaio sobre um único provete. Depois de dissolver um dos componentes, pesa-se o resíduo insolúvel constituído pelas outras duas fibras e calcula-se a percentagem do componente dissolvido a partir da perda de massa. Elimina-se uma das duas fibras do resíduo por dissolução. Pesa-se o componente insolúvel e calcula-se a percentagem do segundo componente dissolvido a partir da perda de massa.
+
+Sempre que possível, recomenda-se o uso de uma das três primeiras variantes.
+
+Devem escolher-se os solventes que apenas dissolvam a ou as fibras que se pretenda, deixando intactas a ou as restantes.
+
+A título de exemplo, um quadro na Secção V indica um determinado número de misturas ternárias de fibras, bem como os métodos de análise de misturas binárias de fibras que podem, em princípio, ser utilizados para a análise dessas misturas ternárias.
+
+A fim de reduzir ao mínimo as possibilidades de erro, recomenda-se efectuar a análise química, em todos os casos em que tal é possível, de acordo com pelo menos duas das quatro variantes mencionadas.
+
+As fibras presentes na mistura devem ser identificadas antes de se proceder à análise. Em certos métodos químicos, a componente insolúvel de uma mistura pode ser parcialmente dissolvida pelo reagente utilizado para dissolver a componente solúvel. Sempre que isto seja possível escolhem-se reagentes com efeito fraco ou praticamente nulo sobre as fibras insolúveis. Se se sabe que ocorre uma perda de massa no decurso da análise, é conveniente corrigir o resultado; são dados factores de correcção para esse fim. Esses factores foram determinados em diferentes laboratórios tratando as fibras, limpas pelo pré-tratamento, com o reagente adequado especificado no método de análise. Estes factores só se aplicam a fibras normais e podem ser necessários outros factores de correcção se as fibras foram degradadas antes ou durante o tratamento. Nos casos em que deva ser utilizada a quarta variante, na qual uma fibra têxtil é submetida à acção sucessiva de dois solventes diferentes, é necessário aplicar factores de correcção que tenham em conta eventuais perdas de massa sofridas pela fibra no decurso de dois tratamentos. As determinações devem ser efectuadas em duplicado, tanto no que respeita ao processo de separação manual como ao de separação química.
+
+Informações comuns aos métodos a aplicar relativos à análise química quantitativa de misturas ternárias de fibras têxteis.
+
+No âmbito de aplicação de cada método de análise de misturas binárias, define-se quais as fibras às quais o método é aplicável (ver capítulo 2 relativo aos métodos de análise quantitativa de determinadas misturas binárias de fibras têxteis).
+
+Após identificação das componentes de uma mistura, eliminar em primeiro lugar as matérias não fibrosas por um pré-tratamento adequado e depois aplicar uma ou mais das quatro variantes do processo de dissolução selectiva descritas na introdução. Salvo dificuldades técnicas, é preferível dissolver as fibras que estão em maior proporção a fim de obter como resíduo final a fibra que se encontra em menor proporção.
+
+I.3.1.1. Cadinhos filtrantes e frascos de pesagem que permitam a incorporação dos cadinhos, ou outros aparelhos que produzam resultados idênticos.
+
+I.3.1.2. Frasco de vácuo.
+
+I.3.1.3. Exsicador, que contenha gel de sílica corado com um indicador.
+
+I.3.1.4. Estufa, com ventilação, regulável para 105 ° ± 3 °C.
+
+I.3.1.5. Balança analítica com precisão de 0,0002 g.
+
+I.3.1.6. Extractor de Soxhlet ou aparelho que permita um resultado equivalente.
+
+I.3.2.1. Éter de petróleo redestilado que ferva entre 40 ° e 60 °C.
+
+I.3.2.2. Os outros reagentes são mencionados nas secções adequadas de cada método.
+
+I.3.2.3. Água destilada ou desionizada.
+
+I.3.2.4. Acetona.
+
+I.3.2.5. Ácido ortofosfórico.
+
+I.3.2.6. Ureia.
+
+I.3.2.7. Bicarbonato de sódio.
+
+Todos os reagentes utilizados devem ser quimicamente puros.
+
+Como são determinadas massas anidras, não é necessário condicionar os provetes, nem efectuar os ensaios numa atmosfera condicionada.
+
+Escolher uma amostra reduzida representativa da amostra global para laboratório e suficiente para fornecer todos os provetes necessários de 1 g, no mínimo, cada um.
+
+Se estiver presente um elemento que não interesse para o cálculo das percentagens (ver artigo 19.º), começar por eliminá-lo através de um método adequado que não afecte nenhum dos componentes fibrosos.
+
+Para o efeito, eliminam-se as matérias não fibrosas, extractáveis com éter de petróleo ou água, tratando a amostra reduzida, seca ao ar com éter de petróleo leve durante uma hora a uma velocidade mínima de 6 ciclos por hora no extractor de Soxhlet. Deixar evaporar o éter de petróleo da amostra reduzida que será em seguida extraída por tratamento directo, incluindo imersão da amostra reduzida em água à temperatura ambiente durante 1 h, seguida por imersão em água a 65 ° ± 5 °C durante mais 1 h, agitando de vez em quando. Utilizar uma razão de banho/amostra reduzida de 1/100. Eliminar o excesso de água da amostra reduzida por espremedura, sucção ou centrifugação e deixar secar ao ar.
+
+No caso da fibra elastolefina ou de misturas de fibras que contenham elastolefina e outras fibras (lã, pêlos animais, seda, algodão, linho, cânhamo, juta, abaca, alfa, coco, giesta, rami, sisal, cupro, modal, proteica, viscose, acrílica, poliamida ou nylon, poliéster ou elastomultiéster), o procedimento atrás descrito deve ser ligeiramente modificado, substituindo o éter de petróleo por acetona.
+
+No caso de não se poder extrair as matérias não fibrosas com éter de petróleo e água, o método da água acima descrito deve ser substituído por um método conveniente que não altere de forma sensível nenhuma das fibras componentes. Contudo, para certas fibras vegetais naturais cruas (juta, coco, por exemplo), deve notar-se que o pré-tratamento normal com éter de petróleo e água não elimina todas as substâncias não fibrosas naturais; apesar disso, não se aplicam pré-tratamentos complementares, desde que a amostra não contenha acabamentos não solúveis no éter de petróleo e na água.
+
+Os métodos de pré-tratamento devem ser descritos de modo pormenorizado nos relatórios da análise.
+
+Efectuar todas as operações de secagem durante 4 h, no mínimo, a 16 h, no máximo, a uma temperatura de 105 °C ± 3 °C numa estufa com ventilação, cuja porta se mantém fechada durante o período de secagem. Se a duração de secagem for inferior a 14 h, deve ser verificado se foi obtida uma massa constante. Poder-se-á adoptar uma duração de secagem inferior a 14 h, desde que a variação de massa após uma nova secagem de 60 minutos seja inferior a 0,05 %.
+
+Evitar manipular os frascos de pesagem, os cadinhos, os provetes ou os resíduos directamente com as mãos durante as operações de secagem, arrefecimento e pesagem.
+
+Secar o provete num frasco de pesagem, com a respectiva tampa ao lado. Terminada a secagem, tapar antes de o retirar da estufa e transferir imediatamente para o exsicador.
+
+Secar na estufa o cadinho filtrante posto num frasco de pesagem, com a respectiva tampa ao lado. Terminada a secagem, tapar e transferir imediatamente para o exsicador.
+
+No caso de serem utilizados aparelhos que não sejam o cadinho filtrante, secar na estufa de modo a determinar a massa das fibras no estado seco sem perdas.
+
+Efectuar todas as operações de arrefecimento no exsicador, colocando-o ao lado da balança, e durante um período suficiente para arrefecer totalmente os frascos de pesagem, em todo o caso não inferior a 2 horas.
+
+Após arrefecimento, pesar o frasco de pesagem durante os dois minutos que seguem a sua saída do exsicador, com a precisão de 0,0002 g.
+
+Retirar da amostra reduzida, previamente tratada, provetes com a massa de pelo menos 1 g. Cortar os fios ou os tecidos em pedaços de 10 mm de comprimento, os quais devem ser desagregados tanto quanto possível. Secar o(s) provete(s) num frasco de pesagem, arrefecer no exsicador e pesar. Imediatamente depois transferir o(s) provete(s) para o(s) recipiente(s) de vidro, referido(s) na correspondente secção do método da União, e pesar de novo o(s) frasco(s) de pesagem. Calcular então por diferença a massa anidra do(s) provete(s). Completar o processo de análise da maneira referida na respectiva secção do método aplicável. Depois da pesagem, examinar o resíduo ao microscópio para verificar se o tratamento eliminou de facto e completamente a(s) fibra(s) solúvel(eis).
+
+Exprimir a massa de cada componente sob a forma de percentagem da massa total das fibras presentes na mistura. Calcular os resultados com base nas fibras puras e secas, às quais se aplicam, por um lado, as taxas de recuperação convencionais, e, por outro, os factores de correcção necessários para ter em conta as perdas de matéria não fibrosa durante as operações de pré-tratamento e de análise.
+
+I.8.1. Cálculo das percentagens das massas das fibras puras e secas, não tendo em conta as perdas de massa sofridas pelas fibras durante o pré-tratamento. I.8.1.1. **VARIANTE 1** Fórmulas a aplicar quando um componente da mistura é eliminado de um provete e um outro componente de um segundo provete: *P* 3% = 100 – (*P* 1% + *P* 2%) em que P1% é a percentagem do primeiro componente seco e puro (componente dissolvido no primeiro provete com o primeiro reagente); P2% é a percentagem do segundo componente seco e puro (componente dissolvido no segundo provete com o segundo reagente); P3% é a percentagem do terceiro componente seco e puro (componente não dissolvido nos dois provetes); m1 é a massa do primeiro provete seco após pré-tratamento; m2 é a massa do segundo provete seco após pré-tratamento; r1 é a massa do resíduo seco após eliminação do primeiro componente do primeiro provete no primeiro reagente; r2 é a massa do resíduo seco após eliminação do segundo componente do segundo provete no segundo reagente; d1 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do segundo componente não dissolvido no primeiro provete ([^26^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0028)); d2 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do terceiro componente não dissolvido no primeiro provete; d3 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do primeiro componente não dissolvido no segundo provete; d4 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do terceiro componente não dissolvido no segundo provete. I.8.1.2. **VARIANTE 2** Fórmulas a aplicar quando um componente a) é eliminado de um primeiro provete, deixando como resíduo os dois outros componentes [b) + c)], e dois componentes [a) +b)] são eliminados de um segundo provete deixando como resíduo o componente c): *P* 1% = 100 – (*P* 2% + *P* 3%) em que P1% é a percentagem do primeiro componente seco e puro (componente dissolvido noprimeiro provete com o primeiro reagente); P2% é a percentagem do segundo componente seco e puro (componente solúvel ao mesmo tempo que o primeiro componente do segundo provete no segundo reagente); P3% é a percentagem do terceiro componente seco e puro (componente não dissolvido nos dois provetes); m1 é a massa do primeiro provete seco após pré-tratamento; m2 é a massa do segundo provete seco após pré-tratamento; r1 é a massa do resíduo seco após eliminação do primeiro componente do primeiro rovete no primeiro reagente; r2 é a massa do resíduo seco após eliminação dos primeiro e segundo componentes do segundo provete no segundo reagente; d1 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do segundo componente não dissolvido no primeiro provete; d2 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do terceiro componente não dissolvido no primeiro provete; d4 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do terceiro componente não dissolvido no segundo provete. I.8.1.3. **VARIANTE 3** Fórmulas a aplicar quando dois componentes (a + b) são eliminados de um provete, deixando como resíduo o componente c) e, em seguida, os dois componentes (b + c) são eliminados de um segundo provete deixando como resíduo o componente a): *P* 2% = 100 – (*P* 1% + *P* 3%) em que P1% é a percentagem do primeiro componente puro e seco (componente dissolvido no primeiro provete com o primeiro reagente); P2% é a percentagem do segundo componente puro e seco (componente dissolvido do primeiro provete com o primeiro reagente e no segundo provete com o segundo reagente); P3% é a percentagem do terceiro componente puro e seco (componente dissolvido do segundo provete com o reagente); m1 é a massa do primeiro provete seco após pré-tratamento; m2 é a massa do segundo provete seco após pré-tratamento; r1 é a massa do resíduo seco após eliminação dos primeiro e segundo componentes do primeiro provete no primeiro reagente; r2 é a massa do resíduo seco após eliminação dos segundo e terceiro componentes do segundo provete no segundo reagente; d2 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do terceiro componente não dissolvido no primeiro provete; d3 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do primeiro componente não dissolvido no segundo provete; I.8.1.4. **VARIANTE 4** Fórmulas a aplicar quando dois componentes são eliminados sucessivamente da mistura no mesmo provete: *P* 1% = 100 – (*P* 2% + *P* 3%) em que P1% é a percentagem do primeiro componente puro e seco (primeiro componente solúvel); P2% é a percentagem do segundo componente seco e puro (segundo componente solúvel); P3% é a percentagem do terceiro componente seco e puro (componente insolúvel); m é a massa do provete seco após pré-tratamento; r1 é a massa do resíduo seco após eliminação do primeiro componente pelo primeiro reagente; r2 é a massa do resíduo seco após eliminação do primeiro e do segundo componentes, pelo primeiro e segundo reagentes; d1 é o factor de correcção relativo à perda de massa do segundo componente, devida ao primeiro reagente, d2 é o factor de correcção relativo à perda de massa do terceiro componente, devida ao primeiro reagente, d3 é o factor de correcção relativo à perda de massa do terceiro componente, devida ao primeiro e segundo reagentes ([^27^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0029)).
+
+P1% é a percentagem do primeiro componente seco e puro (componente dissolvido no primeiro provete com o primeiro reagente);
+
+P2% é a percentagem do segundo componente seco e puro (componente dissolvido no segundo provete com o segundo reagente);
+
+P3% é a percentagem do terceiro componente seco e puro (componente não dissolvido nos dois provetes);
+
+m1 é a massa do primeiro provete seco após pré-tratamento;
+
+m2 é a massa do segundo provete seco após pré-tratamento;
+
+r1 é a massa do resíduo seco após eliminação do primeiro componente do primeiro provete no primeiro reagente;
+
+r2 é a massa do resíduo seco após eliminação do segundo componente do segundo provete no segundo reagente;
+
+d1 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do segundo componente não dissolvido no primeiro provete ([^26^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0028));
+
+d2 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do terceiro componente não dissolvido no primeiro provete;
+
+d3 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do primeiro componente não dissolvido no segundo provete;
+
+d4 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do terceiro componente não dissolvido no segundo provete.
+
+P1% é a percentagem do primeiro componente seco e puro (componente dissolvido noprimeiro provete com o primeiro reagente);
+
+P2% é a percentagem do segundo componente seco e puro (componente solúvel ao mesmo tempo que o primeiro componente do segundo provete no segundo reagente);
+
+P3% é a percentagem do terceiro componente seco e puro (componente não dissolvido nos dois provetes);
+
+m1 é a massa do primeiro provete seco após pré-tratamento;
+
+m2 é a massa do segundo provete seco após pré-tratamento;
+
+r1 é a massa do resíduo seco após eliminação do primeiro componente do primeiro rovete no primeiro reagente;
+
+r2 é a massa do resíduo seco após eliminação dos primeiro e segundo componentes do segundo provete no segundo reagente;
+
+d1 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do segundo componente não dissolvido no primeiro provete;
+
+d2 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do terceiro componente não dissolvido no primeiro provete;
+
+d4 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do terceiro componente não dissolvido no segundo provete.
+
+P1% é a percentagem do primeiro componente puro e seco (componente dissolvido no primeiro provete com o primeiro reagente);
+
+P2% é a percentagem do segundo componente puro e seco (componente dissolvido do primeiro provete com o primeiro reagente e no segundo provete com o segundo reagente);
+
+P3% é a percentagem do terceiro componente puro e seco (componente dissolvido do segundo provete com o reagente);
+
+m1 é a massa do primeiro provete seco após pré-tratamento;
+
+m2 é a massa do segundo provete seco após pré-tratamento;
+
+r1 é a massa do resíduo seco após eliminação dos primeiro e segundo componentes do primeiro provete no primeiro reagente;
+
+r2 é a massa do resíduo seco após eliminação dos segundo e terceiro componentes do segundo provete no segundo reagente;
+
+d2 é o factor de correcção relativo à perda de massa, devida ao primeiro reagente, do terceiro componente não dissolvido no primeiro provete;
+
+d3 é o factor de correcção relativo à perda de massa, devida ao segundo reagente, do primeiro componente não dissolvido no segundo provete;
+
+P1% é a percentagem do primeiro componente puro e seco (primeiro componente solúvel);
+
+P2% é a percentagem do segundo componente seco e puro (segundo componente solúvel);
+
+P3% é a percentagem do terceiro componente seco e puro (componente insolúvel);
+
+m é a massa do provete seco após pré-tratamento;
+
+r1 é a massa do resíduo seco após eliminação do primeiro componente pelo primeiro reagente;
+
+r2 é a massa do resíduo seco após eliminação do primeiro e do segundo componentes, pelo primeiro e segundo reagentes;
+
+d1 é o factor de correcção relativo à perda de massa do segundo componente, devida ao primeiro reagente,
+
+d2 é o factor de correcção relativo à perda de massa do terceiro componente, devida ao primeiro reagente,
+
+d3 é o factor de correcção relativo à perda de massa do terceiro componente, devida ao primeiro e segundo reagentes ([^27^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0029)).
+
+I.8.2. Cálculo das percentagens de cada um dos componentes após aplicação de taxas de recuperação convencionais e de factores de correcção eventuais, para ter em conta as eventuais perdas de massa aquando do pré-tratamento: Sendo: então: em que P1A % é a percentagem do primeiro componente seco e puro, incluindo a humidade e a perda de massa sofrida durante o pré-tratamento; P2A % é a percentagem do segundo componente seco e puro, incluindo a humidade e a perda de massa durante o pré-tratamento; P3A % é a percentagem do terceiro componente seco e puro, incluindo a humidade e a perda de massa durante o pré-tratamento; P1 é a percentagem do primeiro componente puro e seco obtida através de uma das fórmulas indicadas em I.8.1; P2 é a percentagem do segundo componente puro e seco obtida através de uma das fórmulas indicadas em I.8.1; P3 é a percentagem do terceiro componente puro e seco obtida através de uma das fórmulas indicadas em I.8.1; a1 é a taxa de recuperação convencional do primeiro componente; a2 é a taxa de recuperação convencional do segundo componente; a3 é a taxa de recuperação convencional do terceiro componente; b1 é a perda de massa do primeiro componente, devida ao pré-tratamento, expressa em percentagem; b2 é a perda de massa do segundo componente, devida ao pré-tratamento, expressa em percentagem; b3 é a perda de massa do terceiro componente, devida ao pré-tratamento, expressa em percentagem. No caso de ser aplicado um pré-tratamento especial, os valores b1, b2 e b3 devem ser determinados, se possível, submetendo ao pré-tratamento, aplicado durante a análise, cada componente de fibra pura. As fibras puras são isentas de matérias não fibrosas, com excepção das que normalmente contêm (devido à sua natureza ou ao processo de fabrico), no estado (cru, branqueado) em que se encontram no artigo submetido à análise. Quando não se dispõe de fibras componentes separadas e puras que tenham servido para o fabrico do artigo submetido a análise, é necessário adoptar valores médios de b1, b2 e b3 resultantes de ensaios efectuados em fibras puras semelhantes às contidas na mistura examinada. Se for aplicado pré-tratamento normal, por extracção com éter de petróleo e água, desprezam-se em geral os factores de correcção b1, b2 e b3, salvo no caso do algodão cru, do linho cru e do cânhamo cru, nos quais se admite convencionalmente uma perda de 4 % no pré-tratamento, e no caso do polipropileno, em que se admite uma perda de 1 %. No caso das outras fibras, admite-se convencionalmente não ter em conta nos cálculos a perda devida ao pré-tratamento.
+
+P1A % é a percentagem do primeiro componente seco e puro, incluindo a humidade e a perda de massa sofrida durante o pré-tratamento;
+
+P2A % é a percentagem do segundo componente seco e puro, incluindo a humidade e a perda de massa durante o pré-tratamento;
+
+P3A % é a percentagem do terceiro componente seco e puro, incluindo a humidade e a perda de massa durante o pré-tratamento;
+
+P1 é a percentagem do primeiro componente puro e seco obtida através de uma das fórmulas indicadas em I.8.1;
+
+P2 é a percentagem do segundo componente puro e seco obtida através de uma das fórmulas indicadas em I.8.1;
+
+P3 é a percentagem do terceiro componente puro e seco obtida através de uma das fórmulas indicadas em I.8.1;
+
+a1 é a taxa de recuperação convencional do primeiro componente;
+
+a2 é a taxa de recuperação convencional do segundo componente;
+
+a3 é a taxa de recuperação convencional do terceiro componente;
+
+b1 é a perda de massa do primeiro componente, devida ao pré-tratamento, expressa em percentagem;
+
+b2 é a perda de massa do segundo componente, devida ao pré-tratamento, expressa em percentagem;
+
+b3 é a perda de massa do terceiro componente, devida ao pré-tratamento, expressa em percentagem.
+
+I.8.3. NotaVer exemplos de cálculos na Secção IV.
+
+Este método aplica-se às fibras têxteis de qualquer natureza, desde que não formem uma mistura íntima e seja possível separá-las manualmente.
+
+Após identificação dos componentes do têxtil, eliminar primeiro as matérias não fibrosas através de um pré-tratamento adequado, após o que se procede à separação manual das fibras, secagem e pesagem, a fim de calcular a proporção de cada fibra na mistura.
+
+II.3.1. Frascos de pesagem, ou outros aparelhos que dêem resultados idênticos.
+
+II.3.2. Exsicador, que contenha gel de sílica corado com um indicador.
+
+II.3.3. Estufa, com ventilação, regulável para 105 ° ± 3 °C.
+
+II.3.4. Balança analítica, com precisão de 0,0002 g.
+
+II.3.5. Extractor de Soxhlet, ou aparelho que permita resultados idênticos.
+
+II.3.6. Agulha.
+
+II.3.7. Torsiómetro, ou aparelho equivalente.
+
+II.4.1. Éter de petróleo redestilado, entrando em ebulição entre 40 °C e 60 °C.
+
+II.4.2. Água destilada ou desionizada.
+
+Ver I.4.
+
+Ver I.5.
+
+Ver I.6.
+
+Retirar da amostra reduzida previamente tratada um provete com uma massa de, pelo menos, 1 g. No caso de um fio muito fino, a análise pode ser efectuada sobre um comprimento de, pelo menos, 30 m, qualquer que seja a sua massa.
+
+Cortar o provete de fio em bocados de comprimento conveniente e separar os elementos com uma agulha, e, se necessário, com o torsiómetro. Os componentes assim separados são introduzidos em frascos de pesagem previamente tarados e secados a 105 °C ± 3 °C, até se obter uma massa constante, como se indica em I.7.1. e I.7.2.
+
+Da amostra reduzida previamente tratada retirar, longe das ourelas, um provete com massa de, pelo menos, 1 g, cortando com precisão, sem desfiar, e paralelamente aos fios da trama ou da teia ou, no caso de malhas, paralelamente às fileiras ou às colunas. Separar os fios de natureza diferente do provete do tecido, recolher nos frascos de pesagem previamente tarados e proceder como se indica em II.8.1.
+
+Exprimir a massa de cada um dos componentes em percentagem da massa total das fibras constituintes da mistura. Estas percentagens calculam-se com base nas massas das fibras puras e secas às quais se aplicam taxas de recuperação convencionais, por um lado, e os factores de correcção necessários para ter em conta as perdas de massa devidas ao pré-tratamento, por outro.
+
+II.9.1. Cálculo das percentagens das massas puras e secas, sem ter em conta as perdas de massa devidas ao pré-tratamento: *P* 3% = 100 – (*P* 1% + *P* 2%) em que P1% é a percentagem do primeiro componente puro e seco; P2% é a percentagem do segundo componente puro e seco; P3% é a percentagem do terceiro componente puro e seco; m1 é a massa do primeiro componente puro e seco; m2 é a massa do segundo componente puro e seco; m3 é a massa do terceiro componente puro e seco.
+
+P1% é a percentagem do primeiro componente puro e seco;
+
+P2% é a percentagem do segundo componente puro e seco;
+
+P3% é a percentagem do terceiro componente puro e seco;
+
+m1 é a massa do primeiro componente puro e seco;
+
+m2 é a massa do segundo componente puro e seco;
+
+m3 é a massa do terceiro componente puro e seco.
+
+II.9.2. Para o cálculo das percentagens de cada um dos componentes com aplicação de taxas de recuperação convencionais e de factores de correcção eventuais, para ter em conta as eventuais perdas de massa aquando do pré-tratamento: ver I.8.2.
+
+Sempre que possível, proceder à separação manual, tomando em conta as proporções dos componentes separados, antes de se proceder a qualquer tratamento químico dos componentes separados.
+
+A precisão indicada para cada método de análise de misturas binárias é dada pela reprodutibilidade (ver capítulo 2 relativo aos métodos de análise quantitativa de determinadas misturas binárias de fibras têxteis).
+
+A reprodutibilidade é a fidelidade, isto é, a concordância entre os valores experimentais obtidos por operadores trabalhando em laboratórios diferentes ou em épocas diferentes, cada um obtendo, com o mesmo método, resultados individuais sobre um produto homogéneo idêntico.
+
+A reprodutibilidade exprime-se pelos limites de confiança dos resultados para um nível de confiança de 95 %.
+
+Significa isto que o desvio entre dois resultados, num conjunto de análises efectuadas em laboratórios diferentes, não deve ultrapassar o nível de confiança mais do que cinco vezes em cem, aplicando normal e correctamente o método a uma mistura homogénea idêntica.
+
+Para determinar a precisão do método de análise de uma mistura ternária de fibras, aplicam-se normalmente os valores indicados nos métodos de análise de misturas binárias de fibras que foram utilizados para analisar a mistura ternária.
+
+Como para as quatro variantes de análise química quantitativa de misturas ternárias se prevêem duas dissoluções (sobre dois provetes separados para as três primeiras variantes e sobre o mesmo provete para a quarta), e admitindo que se designam por E1 e E2 as precisões dos dois métodos de análise de misturas binárias de fibras utilizadas, as precisões dos resultados para cada componente constam do quadro seguinte:
+
+| Fibra componente | Variantes |  |  |
+| --- | --- | --- | --- |
+| 1 | 2 e 3 | 4 |  |
+| a | E1 | E1 | E1 |
+| b | E2 | E1 + E2 | E1 + E2 |
+| c | E1 + E2 | E2 | E1 + E2 |
+
+Nos casos em que é usada a quarta variante, o grau de precisão pode revelar-se inferior ao calculado pelo método anteriormente indicado, devido à possível acção do primeiro reagente sobre o resíduo constituído pelos componentes b e c, que seria de difícil avaliação.
+
+III.2.1. Indicar a ou as variantes utilizadas para efectuar a análise, os métodos, os reagentes e os factores de correcção.
+
+III.2.2. Fornecer indicações pormenorizadas relativas aos pré-tratamentos especiais (ver ponto I.6).
+
+III.2.3. Indicar os resultados individuais bem como a média aritmética à primeira decimal.
+
+III.2.4. Indicar sempre que possível a precisão do método para cada componente, calculada de acordo com o quadro da Secção III.1.
+
+Consideremos o caso de uma mistura de fibras cuja análise qualitativa para detecção da composição de matérias-primas revelou os seguintes componentes: 1. lã cardada; 2. nylon (poliamida); 3. algodão cru.
+
+Seguindo a variante 1, isto é, operando com dois provetes diferentes, eliminando por dissolução um componente (a = lã) do primeiro provete e um segundo componente (b = poliamida) do segundo provete, é possível obter os resultados seguintes:
+
+1. m1 = 1,6000 g é a massa do primeiro provete seco após pré-tratamento;
+
+2. r1 = 1,4166 g é a massa do resíduo seco após tratamento com hipoclorito de sódio alcalino (poliamida + algodão);
+
+3. m2 = 1,8000 g é a massa do segundo provete seco após pré-tratamento;
+
+4. r2 = 0,9000 g é a massa do resíduo seco após tratamento com ácido fórmico (lã + algodão).
+
+O tratamento com hipoclorito de sódio alcalino não provoca nenhuma perda de massa de poliamida, enquanto que o algodão cru perde 3 %, sendo portanto d1 = 1,00 e d2 = 1,03.
+
+O tratamento com ácido fórmico não provoca nenhuma perda de massa de lã e de algodão cru, sendo portanto d3 e d4 = 1,00.
+
+Se se entrar, na fórmula indicada no ponto I.8.1.1, com os valores obtidos pela análise química e com os factores de correcção, obtém-se:
+
+P1% (lã) = [1,03 / 1,00 – 1,03 × 1,4166 / 1,6000 + (0,9000 / 1,8000) × (1 – 1,03 / 1,00)] × 100 = 10,30
+
+P2% (poliamida) = [1,00 / 1,00 – 1,00 × 0,9000 / 1,8000 + (1,4166 / 1,6000) × (1– 1,00 / 1,00)] × 100 = 50,00
+
+P3% (algodão) = 100 – (10,30 + 50,00) = 39,70
+
+As percentagens das diferentes fibras secas e puras na mistura são as seguintes:
+
+lã 10,30 %
+
+poliamida 50,00 %
+
+algodão 39,70 %
+
+Estas percentagens devem ser corrigidas de acordo com as fórmulas indicadas no ponto I.8.2 a fim de ter em conta as taxas de recuperação convencionais e os factores de correcção devidos às perdas de massa eventuais pelo pré-tratamento.
+
+Tal como se indica no Anexo IX, as taxas de recuperação convencionais são as seguintes: lã cardada 17,00 %, poliamida 6,25 %, algodão 8,50 %; além disso, o algodão cru sofre uma perda de massa de 4 % após pré-tratamento com éter de petróleo e água.
+
+Nestas circunstâncias:
+
+P1A% (lã) = 10,30 × [1 + (17,00 + 0,0) / 100] / [10,30 × (1 + (17,00 + 0,0) / 100) + 50,00 × (1+ (6,25 + 0,0) /100) + 39,70 × (1 + (8,50 + 4,0) / 100)] × 100 = 10,97
+
+P2A% (poliamida) = 50,0 × [(1 + (6,25 + 0,0) / 100) / 109,8385] × 100 = 48,37
+
+P3A% (algodão) = 100 – (10,97 + 48,37) = 40,66
+
+A composição em matérias-primas do fio é então a seguinte:
+
+poliamida 48,4 %
+
+algodão 40,6 %
+
+lã 11,0 %
+
+100,0 %
+
+Consideremos o caso de uma mistura de fibras cuja análise qualitativa deu os componentes seguintes: lã cardada, viscose, algodão cru.
+
+Admitamos que se opera de acordo com a variante 4, isto é, eliminando sucessivamente dois componentes da mistura de um mesmo provete; obtêm-se os resultados seguintes:
+
+1. Massa do provete seco após pré-tratamento (m) = 1,6000 g;
+
+2. Massa do resíduo seco após tratamento com hipoclorito de sódio alcalino (viscose + algodão) (r1) = 1,4166 g;
+
+3. A massa do resíduo seco após segundo tratamento do resíduo r1 com cloreto de zinco/ácido fórmico (algodão) (r2) = 0,6630 g
+
+O tratamento com hipoclorito de sódio alcalino não provoca nenhuma perda de massa de viscose, enquanto que o algodão cru perde 3 %, sendo portanto d1 = 1,00 e d2 = 1,03.
+
+Pelo tratamento com ácido fórmico-cloreto de zinco, a massa do algodão aumenta de 4 %, de modo que d3 = (1,03 × 0,96) = 0,9888 arredondado a 0,99 (lembremos que d3 é o factor de correcção que tem em conta, respectivamente, a perda ou o aumento de massa do terceiro componente no primeiro e segundo reagentes).
+
+Se se entrar na fórmula indicada no ponto I.8.1.4, com os valores obtidos pela análise química e com os factores de correcção, obtém-se:
+
+P2% (viscose) = 1,00 × (1,4166 / 1,6000) × 100 – (1,00 / 1,03) × 41,02 = 48,71 %
+
+P3% (algodão) = 0,99 × (0,6630 / 1,6000) × 100= 41,02 %
+
+P1% (lã) = 100 – (48,71 + 41,02) = 10,27 %
+
+Como já se indicou para a variante 1, estas percentagens devem ser corrigidas de acordo com as fórmulas indicadas no ponto I.8.2.
+
+P1A% (lã) = 10,27 × [1 + (17,0 + 0,0) / 100)] / [10,27 × (1 + (17,00 + 0,0) / 100) + 48,71 × (1 + (13 + 0,0) / 100) + 41,02 × (1 + (8,50 + 4,0) / 100)] × 100 = 10,61%
+
+P2A% (viscose) = 48,71 × [1 + (13 + 0,0) / 100] / 113,2057 × 100 = 48,62%
+
+P3A% (algodão) = 100 – (10,61 + 48,62) = 40,77%
+
+A composição em matérias-primas da mistura é então a seguinte:
+
+viscose 48,6 %
+
+algodão 40,8 %
+
+lã 10,6 %
+
+—
+
+100,0 %
+
+| Mistura n.º | Fibras componentes | Variante | Número do método utilizado e reagente das misturas binárias de fibras |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Componente 1 | Componente 2 | Componente 3 |  |  |  |
+| 1. | lã ou pêlos | viscose, cupro ou certos tipos de modal | algodão | 1 e/ou 4 | 2. (hipoclorito) e 3. (cloreto de zinco/ácido fórmico) |
+| 2. | lã ou pêlos | poliamida ou nylon | algodão, viscose, cupro ou modal | 1 e/ou 4 | 2. (hipoclorito) e 4. (ácido fórmico a 80 % em massa) |
+| 3. | lã, pêlos ou seda | determinadas outras fibras | viscose, cupro, modal ou algodão | 1 e/ou 4 | 2. (hipoclorito) e 9. (sulfureto de carbono/acetona 55,5 %/44,5 % em volume) |
+| 4. | lã ou pêlos | poliamida ou nylon | Poliéster, polipropileno, acrílica ou vidro têxtil | 1 e/ou 4 | 2. (hipoclorito) e 4. (ácido fórmico a 80 % em massa) |
+| 5. | lã, pêlos ou seda | determinadas outras fibras | poliéster, acrílica, poliamida ou nylon ou vidro têxtil | 1 e/ou 4 | 2. (hipoclorito) e 9. (sulfureto de carbono/acetona 55,5 %/44,5 % em volume) |
+| 6. | seda | lã ou pêlos | poliéster | 2 | 11. (ácido sulfúrico a 75 % em massa) e 2. (hipoclorito) |
+| 7. | poliamida ou nylon | acrílica ou determinadas outras fibras | algodão, viscose, cupro ou modal | 1 e/ou 4 | 4. (ácido fórmico a 80 % em massa) e 8. (dimetilformamida) |
+| 8. | determinadas clorofibras | poliamida ou nylon | algodão, viscose, cupro ou modal | 1 e/ou 4 | 8. (dimetilformamida) e 4. (ácido fórmico a 80 % em massa) ou 9. (sulfureto de carbono/acetona a 55,5 %/44,5 % em volume) e 4. (ácido fórmico a 80 % em massa) |
+| 9. | acrílica | poliamida ou nylon | poliéster | 1 e/ou 4 | 8. (dimetilformamida) e 4. (ácido fórmico a 80 % em massa) |
+| 10. | acetato | poliamida ou nylon ou determinadas outras fibras | viscose, algodão, cupro ou modal | 4 | 1. (acetona) e 4. (ácido fórmico a 80 % em massa) |
+| 11. | determinadas clorofibras | acrílica ou determinadas outras fibras | determinadas clorofibras poliamida ou nylon | 2 e/ou 4 | 9. (sulfureto de carbono/acetona a 55,5 %/44,5 % em volume) e 8. (dimetilformamida) |
+| 12. | determinadas clorofibras | poliamida ou nylon | acrílica | 1 e/ou 4 | 9. (sulfureto de carbono/acetona a 55,5 %/44,5 % em volume) e 4. (ácido fórmico a 80 % em massa) |
+| 13. | poliamida ou nylon | viscose, cupro, modal ou algodão | poliéster | 4 | 4. (ácido fórmico a 80 % em massa) e 7. (ácido sulfúrico a 75 % em massa) |
+| 14. | acetato | viscose, cupro, modal ou algodão | poliéster | 4 | 1. (acetona) e 7. (ácido sulfúrico, 75 % em massa) |
+| 15. | acrílica | viscose, cupro, modal ou algodão | poliéster | 4 | 8. (dimetilformamida) e 7. (ácido sulfúrico a 75 % em massa) |
+| 16. | acetato | lã, pêlos ou seda | algodão, viscose, cupro, modal, poliamida ou nylon, poliéster, acrílica | 4 | 1. (acetona) e 2. (hipoclorito) |
+| 17. | triacetato | lã, pêlos ou seda | algodão, viscose, cupro, modal, poliamida ou nylon, poliéster, acrílica | 4 | 6. (diclorometano) e 2. (hipoclorito) |
+| 18. | acrílica | lã, pêlos ou seda | poliéster | 1 e/ou 4 | 8. (dimetilformamida) e 2. (hipoclorito) |
+| 19. | acrílica | seda | lã ou pêlos | 4 | 8. (dimetilformamida) e 11. (ácido sulfúrico a 75 % em massa) |
+| 20. | acrílica | lã ou pêlos, seda | algodão, viscose, cupro ou modal | 1 e/ou 4 | 8. (dimetilformamida) e 2. (hipoclorito) |
+| 21. | lã, pêlos ou seda | algodão, viscose, modal, cupro | poliéster | 4 | 2. (hipoclorito) e 7. (ácido sulfúrico a 75 % em massa) |
+| 22. | viscose, cupro ou certos tipos de modal | algodão | poliéster | 2 e/ou 4 | 3. (cloreto de zinco/ácido fórmico) e 7. (ácido sulfúrico a 75 % em massa) |
+| 23. | acrílica | viscose, cupro ou certos tipos de modal | algodão | 4 | 8. (dimetilformamida) e 3. (cloreto de zinco/ácido fórmico) |
+| 24. | determinadas clorofibras | viscose, cupro ou certos tipos de modal | algodão | 1 e/ou 4 | 9. (sulfureto de carbono/acetona a 55,5 %/44,5 % em volume) e 3. (cloreto de zinco/ácido fórmico) e 8. (dimetilformamida) e 3. (cloreto de zinco/ácido fórmico) |
+| 25. | acetato | viscose, cupro ou certos tipos de modal | algodão | 4 | 1. (acetona) e 3. (cloreto de zinco/ácido fórmico) |
+| 26. | triacetato | viscose, cupro ou certos tipos de modal | algodão | 4 | 6. (diclorometano) e 3. (cloreto de zinco/ácido fórmico) |
+| 27. | acetato | seda | lã ou pêlos | 4 | 1. (acetona) e 11. (ácido sulfúrico a 75 % em massa) |
+| 28. | triacetato | seda | lã ou pêlos | 4 | 6. (diclorometano) e 11. (ácido sulfúrico a 75 % em massa) |
+| 29. | acetato | acrílica | algodão, viscose, cupro ou modal | 4 | 1. (acetona) e 8. (dimetilformamida) |
+| 30. | triacetato | acrílica | algodão, viscose, cupro ou modal | 4 | 6. (diclorometano) e 8. (dimetilformamida) |
+| 31. | triacetato | poliamida ou nylon | algodão, viscose, cupro ou modal | 4 | 6. (diclorometano) e 4. (ácido fórmico a 80 % em massa) |
+| 32. | triacetato | algodão, viscose, cupro ou modal | poliéster | 4 | 6. (diclorometano) e 7. (ácido sulfúrico a 75 % em massa) |
+| 33. | acetato | poliamida ou nylon | poliéster ou acrílica | 4 | 1. (acetona) e 4. (ácido fórmico a 80 % em massa) |
+| 34. | acetato | acrílica | poliéster | 4 | 1. (acetona) e 8. (dimetilformamida) |
+| 35. | determinadas clorofibras | algodão, viscose, cupro ou modal | poliéster | 4 | 8. (dimetilformamida) e 7. (ácido sulfúrico a 75 % em massa) ou 9. (sulfureto de carbono/acetona a 55,5 %/44,5 % em volume) e 7. (ácido sulfúrico a 75 % em massa) |
+| 36. | algodão | poliéster | elastolefina | 2 e/ou 4 | 7. (ácido sulfúrico a 75 % em massa) e 14. (ácido sulfúrico concentrado) |
+| 37. | determinadas modacrílicas | poliéster | melamina | 2 e/ou 4 | 8. (dimetilformamida) e 14. (ácido sulfúrico concentrado) |
+
+## ANEXO IX
+
+| N.º das fibras | Fibras | Percentagens |
+| --- | --- | --- |
+| 1-2 | Lã e pêlos: |  |
+| fibras penteadas | 18,25 |  |
+| fibras cardadas | 17,00 [(^1^)](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0030) |  |
+| 3 | Pêlos: |  |
+| fibras penteadas | 18,25 |  |
+| fibras cardadas | 17,00 [(^1^)](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#E0030) |  |
+| Crina: |  |  |
+| fibras penteadas | 16,00 |  |
+| fibras cardadas | 15,00 |  |
+| 4 | Seda | 11,00 |
+| 5 | Algodão: |  |
+| fibras normais | 8,50 |  |
+| fibras mercerizadas | 10,50 |  |
+| 6 | Sumaúma | 10,90 |
+| 7 | Linho | 12,00 |
+| 8 | Cânhamo | 12,00 |
+| 9 | Juta | 17,00 |
+| 10 | Abaca | 14,00 |
+| 11 | Alfa | 14,00 |
+| 12 | Coco | 13,00 |
+| 13 | Giesta | 14,00 |
+| 14 | Rami (fibra branqueada) | 8,50 |
+| 15 | Sisal | 14,00 |
+| 16 | Sunn | 12,00 |
+| 17 | Henequen | 14,00 |
+| 18 | Maguey | 14,00 |
+| 19 | Acetato | 9,00 |
+| 20 | Alginato | 20,00 |
+| 21 | Cupro | 13,00 |
+| 22 | Modal | 13,00 |
+| 23 | Proteica | 17,00 |
+| 24 | Triacetato | 7,00 |
+| 25 | Viscose | 13,00 |
+| 26 | Acrílica | 2,00 |
+| 27 | Clorofibra | 2,00 |
+| 28 | Fluorofibra | 0,00 |
+| 29 | Modacrílica | 2,00 |
+| 30 | Poliamida ou nylon: |  |
+| fibra descontínua | 6,25 |  |
+| filamento | 5,75 |  |
+| 31 | Aramida | 8,00 |
+| 32 | Poliimida | 3,50 |
+| 33 | Liocel | 13,00 |
+| 34 | Polilactida | 1,50 |
+| 35 | Poliéster | 1,50 |
+| 36 | Polietileno | 1,50 |
+| 37 | Polipropileno | 2,00 |
+| 38 | Policarbamida | 2,00 |
+| 39 | Poliuretano: |  |
+| fibra descontínua | 3,50 |  |
+| filamento | 3,00 |  |
+| 40 | Vinilal | 5,00 |
+| 41 | Trivinil | 3,00 |
+| 42 | Elastodieno | 1,00 |
+| 43 | Elastano | 1,50 |
+| 44 | Vidro têxtil: |  |
+| de diâmetro médio superior a 5 μm | 2,00 |  |
+| de diâmetro médio igual ou inferior a 5 μm | 3,00 |  |
+| 45 | Elastomultiéster | 1,50 |
+| 46 | Elastolefina | 1,50 |
+| 47 | Melamina | 7,00 |
+| 48 | Fibra metálica | 2,00 |
+| Fibra metalizada | 2,00 |  |
+| Amianto | 2,00 |  |
+| Fibra de papel | 13,75 |  |
+| [▼M2](http://publications.europa.eu/resource/celex/32012R0286) |  |  |
+| 49 | Bicomponente de polipropileno/poliamida | 1,00 |
+| [▼B](http://publications.europa.eu/resource/celex/32011R1007) |  |  |
+| (^1^) A taxa convencional de 17,00 % aplica-se também nos casos em que não é possível determinar se o produto têxtil que contém lã e/ou pêlos pertence ao ciclo «penteado» ou «cardado». |  |  |
+
+## ANEXO X
+
+**Tabelas de correspondência**
+
+Directiva 2008/121/CE Presente regulamento
+
+Artigo 1.º, n.º 1 Artigo 4.º
+
+Artigo 1.º, n.º 2, alíneas a) a c) —
+
+Artigo 1.º, n.º 2, alínea d) Artigo 2.º, n.º 3
+
+Artigo 2.º, n.º 1 Artigo 3.º, n.º 1
+
+Artigo 2.º, proémio do n.º 2 Artigo 2.º, proémio do n.º 2
+
+Artigo 2.º, n.º 2, alínea a) Artigo 2.º, n.º 2, alínea a)
+
+Artigo 2.º, n.º 2, alínea b) Artigo 2.º, n.º 2, alíneas b) e c)
+
+Artigo 2.º, n.º 2, alínea c) Artigo 2.º, n.º 2, alínea d)
+
+Artigo 3.º Artigo 5.º
+
+Artigo 4.º Artigo 7.º
+
+Artigo 5.º Artigo 8.º
+
+Artigo 6.º, n.^os^ 1 e 2 —
+
+Artigo 6.º, n.º 3 Artigo 9.º, n.º 3
+
+Artigo 6.º, n.º 4 Artigo 9.º, n.º 4
+
+Artigo 6.º, n.º 5 Artigo 20.º
+
+Artigo 7.º Artigo 10.º
+
+Artigo 8.º, n.º 1, primeira frase Artigo 14.º, n.º 1
+
+Artigo 8.º, n.º 1, segunda frase Artigo 14.º, n.º 2
+
+Artigo 8.º, n.º 2 Artigo 14.º, n.º 3
+
+Artigo 8.º, n.º 3, primeiro parágrafo Artigo 16.º, n.º 1
+
+Artigo 8.º, n.º 3, segundo e terceiro parágrafos Artigo 16.º, n.º 2
+
+Artigo 8.º, n.º 4 Artigo 16.º, n.º 3
+
+Artigo 8.º, n.º 5 —
+
+Artigo 9.º, n.º 1 Artigo 11.º, n.^os^ 1 e 2
+
+Artigo 9.º, n.º 2 Artigo 11.º, n.º 3
+
+Artigo 9.º, n.º 3 Artigo 13.º e Anexo IV
+
+Artigo 10.º, n.º 1, alínea a) Artigo 17.º, n.º 2
+
+Artigo 10.º, n.º 1, alínea b) Artigo 17.º, n.º 3
+
+Artigo 10.º, n.º 1, alínea c) Artigo 17.º, n.º 4
+
+Artigo 10.º, n.º 2 Artigo 17.º, n.º 5
+
+Artigo 11.º Artigo 15.º, n.º 4
+
+Artigo 12.º Artigo 19.º, n.º 2, e Anexo VII
+
+Artigo 13.º, n.º 1 Artigo 19.º, n.º 1
+
+Artigo 13.º, n.º 2 —
+
+Artigo 14.º, n.º 1 —
+
+Artigo 14.º, n.º 2 —
+
+Artigo 15.º Artigo 21.º
+
+Artigo 16.º —
+
+Artigo 17.º —
+
+Artigo 18.º —
+
+Artigo 19.º —
+
+Artigo 20.º —
+
+Anexo I Anexo I
+
+Anexo II, Anexo III
+
+Anexo III Anexo V
+
+Anexo III, ponto 36 Artigo 3.º, n.º 1, alínea j)
+
+Anexo IV Anexo VI
+
+Anexo V Anexo IX
+
+Anexo VI —
+
+Anexo VII —
+
+Directiva 96/73/CE Presente regulamento
+
+Artigo 1.º Artigo 1.º
+
+Artigo 2.º Anexo VIII, capítulo 1, secção I, ponto 2
+
+Artigo 3.º Artigo 19.º, n.º 1
+
+Artigo 4.º Artigo 19.º, n.º 4
+
+Artigo 5.º Artigo 21.º
+
+Artigo 6.º —
+
+Artigo 7.º —
+
+Artigo 8.º —
+
+Artigo 9.º —
+
+Anexo I Anexo VIII, capítulo 1, secção I
+
+Anexo II Anexo VIII, capítulo 1, secção II e capítulo 2
+
+Anexo III —
+
+Anexo IV —
+
+Directiva 73/44/CEE Presente regulamento
+
+Artigo 1.º Artigo 1.º
+
+Artigo 2.º Anexo VIII, capítulo 1, secção I
+
+Artigo 3.º Artigo 19.º, n.º 1
+
+Artigo 4.º Artigo 19.º, n.º 4
+
+Artigo 5.º Artigo 21.º
+
+Artigo 6.º —
+
+Artigo 7.º —
+
+Anexo I Anexo VIII, capítulo 3, introdução e secções I a III
+
+Anexo II Anexo VIII, capítulo 3, secção IV
+
+Anexo III Anexo VIII, capítulo 3, secção V
+
+## DECLARAÇÃO DO PARLAMENTO EUROPEU E DO CONSELHO
+
+O Parlamento Europeu e o Conselho estão cientes da importância de se prestar informações exactas aos consumidores, especialmente quando os produtos estão marcados com uma indicação de origem, de forma a protegê-los de indicações de origem fraudulentas, inexactas ou enganadoras. A utilização de novas tecnologias, tais como a etiquetagem electrónica, incluindo a identificação por radiofrequências, pode constituir um instrumento útil para o fornecimento de tais informações, acompanhando simultaneamente o ritmo do desenvolvimento técnico. O Parlamento Europeu e o Conselho convidam a Comissão a ponderar, aquando da redacção do relatório nos termos do artigo 24.º do Regulamento, o seu impacto sobre eventuais novos requisitos em matéria de rotulagem, inclusivamente a fim de melhorar a rastreabilidade dos produtos.
 
 ---
 
 ## Notas
 
-> [(^1^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc1-L_2011272PT.01000101-E0001) [JO C 255 de 22.9.2010, p. 37](http://publications.europa.eu/resource/oj/JOC_2010_255_R_TOC).
+> ([^1^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0001)) JO C 255 de 22.9.2010, p. 37.
 
-> [(^2^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc2-L_2011272PT.01000101-E0002) Posição do Parlamento Europeu de 18 de Maio de 2010 ([JO C 161 E de 31.5.2011, p. 179](http://publications.europa.eu/resource/oj/JOC_2011_161_E_TOC)) e posição do Conselho em primeira leitura de 6 de Dezembro de 2010 ([JO C 50 E de 17.2.2011, p. 1](http://publications.europa.eu/resource/oj/JOC_2011_050_E_TOC)). Posição do Parlamento Europeu de 11 de Maio de 2011 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 19 de Julho de 2011.
+> ([^2^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0002)) Posição do Parlamento Europeu de 18 de Maio de 2010 (JO C 161 E de 31.5.2011, p. 179) e posição do Conselho em primeira leitura de 6 de Dezembro de 2010 (JO C 50 E de 17.2.2011, p. 1). Posição do Parlamento Europeu de 11 de Maio de 2011 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 19 de Julho de 2011.
 
-> [(^3^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc3-L_2011272PT.01000101-E0003) [JO L 83 de 30.3.1973, p. 1](http://publications.europa.eu/resource/oj/JOL_1973_083_R_TOC).
+> ([^3^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0003)) JO L 83 de 30.3.1973, p. 1.
 
-> [(^4^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc4-L_2011272PT.01000101-E0004) [JO L 32 de 3.2.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_032_R_TOC).
+> ([^4^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0004)) JO L 32 de 3.2.1997, p. 1.
 
-> [(^5^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc5-L_2011272PT.01000101-E0005) [JO L 19 de 23.1.2009, p. 29](http://publications.europa.eu/resource/oj/JOL_2009_019_R_TOC).
+> ([^5^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0005)) JO L 19 de 23.1.2009, p. 29.
 
-> [(^6^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc6-L_2011272PT.01000101-E0006) [JO L 218 de 13.8.2008, p. 30](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).
+> ([^6^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0006)) JO L 218 de 13.8.2008, p. 30.
 
-> [(^7^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc7-L_2011272PT.01000101-E0007) [JO L 11 de 15.1.2002, p. 4](http://publications.europa.eu/resource/oj/JOL_2002_011_R_TOC).
+> ([^7^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0007)) JO L 11 de 15.1.2002, p. 4.
 
-> [(^8^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc8-L_2011272PT.01000101-E0008) [JO L 149 de 11.6.2005, p. 22](http://publications.europa.eu/resource/oj/JOL_2005_149_R_TOC).
+> ([^8^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0008)) JO L 149 de 11.6.2005, p. 22.
 
-> [(^9^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc9-L_2011272PT.01000101-E0009) [JO L 364 de 9.12.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_364_R_TOC).
+> ([^9^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0009)) JO L 364 de 9.12.2004, p. 1.
 
-> [(^10^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc10-L_2011272PT.01000101-E0010) [JO L 196 de 2.8.2003, p. 7](http://publications.europa.eu/resource/oj/JOL_2003_196_R_TOC).
+> ([^10^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0010)) JO L 196 de 2.8.2003, p. 7.
 
-> [(^11^)](http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0020.03/DOC_1#ntc11-L_2011272PT.01000101-E0011) [JO L 134 de 30.4.2004, p. 114](http://publications.europa.eu/resource/oj/JOL_2004_134_R_TOC).
+> ([^11^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0011)) JO L 134 de 30.4.2004, p. 114.
+
+> ([^*1^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0012)) Para os produtos constantes deste ponto e vendidos em partes cortadas, a etiquetagem global é a do rolo. Entre as cordas e o cordame previstos neste ponto figuram, nomeadamente, os destinados a alpinismo e a desportos náuticos.
+
+> ([^12^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0013)) Eventualmente, pré-tratar directamente os provetes.
+
+> ([^13^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0014)) Para os artigos acabados e confeccionados, ver ponto 7.
+
+> ([^14^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0015)) Ver ponto 1.
+
+> ([^15^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0016)) A carda de laboratório pode ser substituída por um misturador de fibras ou pelo método dito dos «tufos e rejeitados».
+
+> ([^16^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0017)) Se as bobinas puderem ser colocadas sobre um dispositivo conveniente, é possível desenrolar simultaneamente um certo número.
+
+> ([^17^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0018)) O método n.º 12 constitui uma excepção. Baseia-se na determinação de um elemento constitutivo de um dos dois componentes.
+
+> ([^18^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0019)) Ver capítulo 1.1.
+
+> ([^19^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0021)) Para assegurar a imersão durante 10 minutos de resíduo fibroso na solução de amoníaco, pode, por exemplo, adaptar-se ao cadinho filtrante um acrescento com torneira que permita regular o escoamento do amoníaco.
+
+> ([^20^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0022)) Deve verificar-se a solubilidade destas modacrílicas ou destas clorofibras no reagente antes de proceder à análise.
+
+> ([^21^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0023)) Deve verificar-se a solubilidade das fibras de policloreto de vinilo no reagente antes de proceder à análise.
+
+> ([^22^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0024)) As sedas selvagens tais como o «tussah» não são completamente dissolvidas pelo ácido sulfúrico a 75 %.
+
+> ([^23^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0025)) Estes reagentes devem estar isentos de azoto.
+
+> ([^24^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0026)) Ver por exemplo, os aparelhos descritos em «Melliand Textilberichte» 56 (1975), p. 643/645.
+
+> ([^25^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0027)) Ver capítulo 1.1.
+
+> ([^26^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0028)) Os valores de «d» são os indicados no capítulo 2 do presente anexo relativo aos diversos métodos de análise de misturas binárias.
+
+> ([^27^](http://publications.europa.eu/resource/cellar/b1d4f176-7997-4bab-af63-a5ae6b0b28eb.0019.03/DOC_26#src.E0029)) Na medida do possível, d3 deve ser determinado previamente de modo experimental.

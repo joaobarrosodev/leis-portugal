@@ -37,6 +37,107 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-04-14'
+version_history:
+  file: regulamento-ue-2011-282.versoes.json
+  count: 5
+  source_lastmod: '2025-04-14'
+  versions:
+  - date: '2011-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-01'
+    amending: eu:celex:32012R0967:por
+    amending_title: M1; REGULAMENTO DE EXECUÇÃO (UE) N. o 1042/2013 DO CONSELHO de 7 de outubro de 2013; REGULAMENTO DE EXECUÇÃO
+      (UE) 2017/2459 DO CONSELHO de 5 de dezembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2018/1912 DO CONSELHO de 4 de dezembro
+      de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/2026 DO CONSELHO de 21 de novembro de 2019; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/1112 DO CONSELHO de 20 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º
+    - Altera Artigo 18.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 50.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 65.º
+    - Altera Notas
+    - Adita (TÍTULO IV DA DIRETIVA 2006/112/CE)
+    - Adita Entregas de Bens
+    - Adita (Artigos 14.º a 19.º da Diretiva 2006/112/CE)
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Adita Artigo 5.º-C
+    - Adita Artigo 5.º-D
+    - Adita Prestações de serviços
+    - Adita (Artigos 24.º a 29.º da Diretiva 2006/112/CE);
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Adita Artigo 9.º-A
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Subsecção 3-A
+    - Adita Presunções relativas à localização do destinatário
+    - Adita Artigo 24.º-A
+    - Adita Artigo 24.º-B
+    - Adita Artigo 24.º-C
+    - Adita Subsecção 3-B
+    - Adita Ilisão da presunção
+    - Adita Artigo 24.º-D
+    - Adita Subsecção 3-C
+    - Adita Elementos de prova para a identificação da localização do destinatário e a ilisão da presunção
+    - Adita Artigo 24.º-E
+    - Adita Artigo 24.º-F
+  - date: '2022-03-16'
+    amending: eu:celex:32022R0432:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/432 DO CONSELHO de 15 de março de 2022
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 24.º-B
+    - Altera Artigo 27.º
+    - Altera Artigo 50.º
+    - Altera Artigo 63.º-D
+    - Altera Artigo 51.º do presente regulamento
+    - Altera Notas explicativas
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 24.º-B
+    - Altera Artigo 27.º
+    - Altera Artigo 50.º
+    - Altera Artigo 63.º-D
+    - Altera Artigo 51.º do presente regulamento
+    - Altera Notas explicativas
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2025-04-14'
+    amending: eu:celex:32025R0518:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/518 DO CONSELHO de 11 de março de 2025
+    changes:
+    - Altera Artigo 13.º-A
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º-B
+    - Altera Artigo 24.º-D
+    - Altera Artigo 24.º-F
+    - Altera Artigo 27.º
+    - Altera Artigo 50.º
+    - Altera Artigo 63.º-D
+    - Altera Artigo 51.º do presente regulamento
+    - Altera Notas explicativas
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita (Artigos 24.º a 29.º da Diretiva 2006/112/CE)
+    - Suprime (Artigos 24.º a 29.º da Diretiva 2006/112/CE);
 identifiers:
   celex: 32011R0282
   eli: http://data.europa.eu/eli/reg_impl/2011/282/oj
@@ -51,7 +152,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8c39913b-66f7-4a71-8410-a4ace44e9763.0018
   content_url: http://publications.europa.eu/resource/cellar/5bc93f0b-2a93-11f0-8a44-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0282-20250414
-  retrieved_at: '2026-10-22T02:39:54Z'
+  retrieved_at: '2026-10-22T15:51:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T16:26:57.855+02:00'
 integrity:
@@ -60,9 +161,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:54Z'
-  notes: Texto consolidado 02011R0282-20250414.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:15Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2011-282.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,37 +338,24 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/92231761-aae0-452e-849d-c1c4d6216c19
   date: '2005-11-08'
 article_structure:
-  article_count: 108
-  section_count: 148
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 110
+  section_count: 147
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:54Z'
-  warnings: []
+  checked_at: '2026-10-22T15:51:15Z'
+  warnings:
+  - '02011R0282-20110412: versão indisponível (Sem expressão na língua por para CELEX 02011R0282-20110412.)'
+  - '02011R0282-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0282-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0282-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 282/2011 do Conselho, de 15 de Março de 2011
-
-> 02011R0282 — PT — 14.04.2025 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32012R0967) — [REGULAMENTO (UE) N.º 967/2012 DO CONSELHO de 9 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R0967) — L 290 — 1 — 20.10.2012
-- [►M2](http://publications.europa.eu/resource/celex/32013R1042) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1042/2013 DO CONSELHO de 7 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1042) — L 284 — 1 — 26.10.2013
-- [►M3](http://publications.europa.eu/resource/celex/32017R2459) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2459 DO CONSELHO de 5 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2459) — L 348 — 32 — 29.12.2017
-- [►M4](http://publications.europa.eu/resource/celex/32018R1912) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1912 DO CONSELHO de 4 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1912) — L 311 — 10 — 7.12.2018
-- [►M5](http://publications.europa.eu/resource/celex/32019R2026) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/2026 DO CONSELHO de 21 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2026) — L 313 — 14 — 4.12.2019
-- [►M6](http://publications.europa.eu/resource/celex/32020R1112) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/1112 DO CONSELHO de 20 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1112) — L 244 — 9 — 29.7.2020
-- [►M7](http://publications.europa.eu/resource/celex/32022R0432) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/432 DO CONSELHO de 15 de março de 2022](http://publications.europa.eu/resource/celex/32022R0432) — L 88 — 15 — 16.3.2022
-- [►M8](http://publications.europa.eu/resource/celex/32025R0518) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/518 DO CONSELHO de 11 de março de 2025](http://publications.europa.eu/resource/celex/32025R0518) — L 518 — 1 — 25.3.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 282/2011 do Conselho
 
 de 15 de Março de 2011
 

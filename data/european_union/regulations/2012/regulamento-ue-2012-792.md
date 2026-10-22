@@ -35,6 +35,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-18'
+version_history:
+  file: regulamento-ue-2012-792.versoes.json
+  count: 4
+  source_lastmod: '2025-02-18'
+  versions:
+  - date: '2012-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-02-05'
+    amending: eu:celex:32015R0057:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/57 DA COMISSÃO de 15 de janeiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Disposições gerais
+    - Altera Artigo 2.º — Formulários
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Instruções e explicações
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita ANEXO VI
+  - date: '2022-01-19'
+    amending: eu:celex:32021R2281:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2281 DA COMISSÃO de 16 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Formulários
+    - Altera Instruções e explicações
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2025-02-18'
+    amending: eu:celex:32025R0132:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/132 DA COMISSÃO de 28 de janeiro de 2025
+    changes:
+    - Altera Artigo 2.º — Formulários
+    - Altera Instruções e explicações
+    - Altera ANEXO II
+    - Altera Notas
 identifiers:
   celex: 32012R0792
   eli: http://data.europa.eu/eli/reg_impl/2012/792/oj
@@ -49,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b40bf7b7-f82f-11e1-8e28-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e8f1fe6e-2aa1-11f0-8a44-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0792-20250218
-  retrieved_at: '2026-10-22T03:16:22Z'
+  retrieved_at: '2026-10-22T16:03:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-05T08:47:18.353+02:00'
 integrity:
@@ -58,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:22Z'
-  notes: Texto consolidado 02012R0792-20250218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:03:09Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2012-792.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,35 +182,20 @@ relationships:
   date: '2025-01-24'
 article_structure:
   article_count: 5
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:22Z'
-  warnings: []
+  checked_at: '2026-10-22T16:03:09Z'
+  warnings:
+  - '02012R0792-20120927: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 792/2012 da Comissão, de 23 de agosto de 2012
-
-> 02012R0792 — PT — 18.02.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0057) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/57 DA COMISSÃO de 15 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0057) — L 10 — 19 — 16.1.2015
-- [►M2](http://publications.europa.eu/resource/celex/32021R2281) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2281 DA COMISSÃO de 16 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2281) — L 473 — 131 — 30.12.2021
-- [►M3](http://publications.europa.eu/resource/celex/32025R0132) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/132 DA COMISSÃO de 28 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0132) — L 132 — 1 — 29.1.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R0792R%2803%29) — [Rectificação, JO L 252, 24.9.2013, p. 51 (792/2012)](http://publications.europa.eu/resource/celex/32012R0792R%2803%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 792/2012 DA COMISSÃO
 
 de 23 de agosto de 2012
 

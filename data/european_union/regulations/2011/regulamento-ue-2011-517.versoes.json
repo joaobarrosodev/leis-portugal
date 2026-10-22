@@ -1,0 +1,391 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R0517:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0517-20190310",
+ "dre_path": null,
+ "source_lastmod": "2019-03-10",
+ "versions": [
+  {
+   "date": "2011-05-26",
+   "future": false,
+   "celex": "02011R0517-20110526",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2805520c545b335",
+    "1c15d4773fdb2896",
+    "a332ce46449fbbf0",
+    "eec20a456aef6378",
+    "a97f13bde2468c81",
+    "7ff425cb5127325c",
+    "2a2b24e6ebf266bb",
+    "10220b9774fa9034",
+    "ec429f0c85dc0066",
+    "a89fbbd04a901db4",
+    "7381c1fa7936773e",
+    "6a0cb9381a801510",
+    "945b00d953dd8af6",
+    "0c8a98bf552ebe11",
+    "a6910c549b67030f",
+    "896a92140c474cc8",
+    "bbad03be872f7054",
+    "0a1d1ae0349c4a20",
+    "44c92aaa0db07792",
+    "b85cf8b3518a0845",
+    "4f539b2a9c504974",
+    "6526b41486a0d818",
+    "9d7a9994c4f4ff5b",
+    "11e72e97a2f1a0e0",
+    "c6dbe3d2b9319926",
+    "b700e4774f595b20",
+    "443dbc9f79a96f4a",
+    "5dc8747162a6b739",
+    "ae3fe5f289288d3c"
+   ]
+  },
+  {
+   "date": "2019-03-10",
+   "future": false,
+   "celex": "02011R0517-20190310",
+   "acts": [
+    {
+     "id": "eu:celex:32019R0268:por",
+     "title": "REGULAMENTO (UE) 2019/268 DA COMISSÃO de 15 de fevereiro de 2019",
+     "published": null,
+     "celex": "32019R0268"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 3.1.2. Outros excrementos e pó",
+    "Altera 3.2. Método de detecção",
+    "Altera 3.4. Métodos alternativos",
+    "Altera 3.5. Testes de resistência antimicrobiana",
+    "Altera Notas",
+    "Adita 2.2.1. Amostragem pelo operador da empresa do setor alimentar",
+    "Suprime 2.2.1. Amostragem pelo operador da empresa do sector alimentar"
+   ],
+   "fragments": [
+    "2e713a0ecdcd1539",
+    "1c15d4773fdb2896",
+    "a332ce46449fbbf0",
+    "eec20a456aef6378",
+    "a97f13bde2468c81",
+    "7ff425cb5127325c",
+    "2a2b24e6ebf266bb",
+    "10220b9774fa9034",
+    "ec429f0c85dc0066",
+    "a89fbbd04a901db4",
+    "7381c1fa7936773e",
+    "6a0cb9381a801510",
+    "945b00d953dd8af6",
+    "bf3db4dfc0d705cb",
+    "a6910c549b67030f",
+    "896a92140c474cc8",
+    "bbad03be872f7054",
+    "0a1d1ae0349c4a20",
+    "1af6b5b58a50915e",
+    "ce3adfa0d96b929c",
+    "4f539b2a9c504974",
+    "123270cb6f705a64",
+    "d340eb8b84933932",
+    "11e72e97a2f1a0e0",
+    "c6dbe3d2b9319926",
+    "b700e4774f595b20",
+    "443dbc9f79a96f4a",
+    "5dc8747162a6b739",
+    "6c9e7bc5b2282d5b"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2805520c545b335": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Maio de 2011\n\nque dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objectivo da União Europeia de redução da prevalência de determinados serótipos de *Salmonella* em galinhas poedeiras de *Gallus gallus* e que altera o Regulamento (CE) n.º 2160/2003 e o Regulamento (UE) n.º 200/2010 da Comissão\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao controlo de salmonelas e outros agentes zoonóticos específicos de origem alimentar ([^1^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0001)), nomeadamente o artigo 4.º, n.º 1, segundo parágrafo, e o artigo 13.º, n.º 1,\n\n(1) O objectivo do Regulamento (CE) n.º 2160/2003 consiste em assegurar que são tomadas medidas para detectar e controlar as salmonelas e outros agentes zoonóticos em todas as fases importantes da produção, transformação e distribuição, especialmente ao nível da produção primária, a fim de reduzir a sua prevalência e o risco que constituem para a saúde pública.\n\n(2) O Regulamento (CE) n.º 2160/2003 prevê a definição de objectivos da União para a redução da prevalência das zoonoses e dos agentes zoonóticos enumerados no seu anexo I nas populações animais nele enumeradas. Estabelece igualmente certos requisitos para a prossecução desses objectivos. Tal redução é importante tendo em conta as medidas rigorosas que têm de ser aplicadas aos bandos infectados, em conformidade com o Regulamento (CE) n.º 2160/2003. Nomeadamente, os ovos originários de bandos com estatuto desconhecido em termos de salmonelas que sejam suspeitos de estarem infectados ou de bandos infectados só podem ser utilizados para consumo humano se forem tratados de forma a garantir a eliminação dos serótipos de salmonela significativos em termos de saúde pública, de acordo com a legislação da União Europeia em matéria de higiene alimentar.\n\n(3) O anexo I do Regulamento (CE) n.º 2160/2003 refere-se a todos os serótipos de salmonelas relevantes em termos de saúde pública em bandos de galinhas poedeiras de *Gallus gallus*. Esses bandos de galinhas poedeiras podem propagar a infecção por salmonelas aos consumidores, através dos seus ovos. Por conseguinte, uma redução da prevalência de salmonelas em bandos de galinhas poedeiras contribui para o controlo desse agente zoonótico nos ovos, que constitui um risco importante para a saúde pública.\n\n(4) O Regulamento (CE) n.º 1168/2006 da Comissão, de 31 de Julho de 2006, relativo à execução do Regulamento (CE) n.º 2160/2003 no que se refere ao objectivo comunitário de redução da prevalência de determinados serótipos de salmonela em bandos de galinhas poedeiras de *Gallus gallus* e que altera o Regulamento (CE) n.º 1003/2005 ([^2^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0002)), fixa um objectivo a nível da União de redução da prevalência de *Salmonella* Enteritidis e *Salmonella* Typhimurium em galinhas poedeiras adultas da espécie *Gallus gallus*. O objectivo da União, ao nível de cada Estado-Membro, é uma percentagem anual mínima de redução de bandos positivos de galinhas poedeiras adultas de 10 % a 40 %, dependendo da prevalência verificada no ano anterior. Em alternativa, trata-se de uma redução da percentagem máxima para 2 % ou menos.\n\n(5) O Regulamento (CE) n.º 2160/2003 determina que, no estabelecimento de objectivos da União, deve ter-se em consideração a experiência adquirida com as medidas nacionais em vigor, assim como as informações transmitidas à Comissão ou à Autoridade Europeia para a Segurança dos Alimentos (AESA) ao abrigo das exigências da União existentes, nomeadamente no âmbito da informação prevista na Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Directiva 92/117/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0003)), especialmente no seu artigo 5.º\n\n(6) O relatório de síntese da UE sobre as tendências e origens das zoonoses, dos agentes zoonóticos e surtos gerados pelos alimentos na União Europeia em 2008 ([^4^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0004)) revelou que a *Salmonella* Enteritidis e a *Salmonella* Typhimurium são os serovares mais frequentemente associados a doenças humanas. Os casos humanos provocados por *S.* Enteritidis diminuíram significativamente em 2008, apesar de se ter observado um aumento dos casos de *S.* Typhimurium. Em conformidade com os requisitos do Regulamento (CE) n.º 2160/2003, a AESA foi consultada no que se refere à fixação do objectivo permanente da União relativo aos bandos de galinhas poedeiras da espécie *Gallus gallus*.\n\n(7) Em 10 de Março de 2010, o Painel dos riscos biológicos da AESA adoptou, a pedido da Comissão, um parecer científico sobre a avaliação quantitativa do impacto para a saúde pública da definição de um novo objectivo para a redução de salmonelas em galinhas poedeiras da espécie *Gallus gallus* ([^5^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0005)). O parecer concluiu que a *Salmonella* Enteritidis é o serótipo de salmonela zoonótica cuja transmissão vertical entre aves de capoeira é mais eficaz. Concluiu igualmente que as medidas de controlo da UE relativas a galinhas poedeiras contribuíram efectivamente para o controlo das infecções por salmonelas nos efectivos de produção e para a redução do risco para a saúde humana decorrente das aves de capoeira.\n\n(8) As estirpes monofásicas de *Salmonella* Typhimurium tornaram-se rapidamente um dos serótipos de salmonelas mais frequentemente detectados em várias espécies de animais e em isolados clínicos de seres humanos. De acordo com o parecer científico sobre a vigilância e a avaliação do risco para a saúde pública das«estirpes do tipo *Salmonella* Typhimurium» ([^6^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0006)) adoptado pelo Painel dos riscos biológicos da AESA, a 22 de Setembro de 2010, as estirpes monofásicas de *Salmonella* Typhimurium com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) 1,4,[5],12:i:-**◄** são consideradas variantes de *Salmonella* Typhimurium e constituem um risco para a saúde pública comparável ao das outras estirpes de *Salmonella* Typhimurium.\n\n(9) Por conseguinte, para efeitos de clareza da legislação da União, convém alterar o Regulamento (CE) n.º 2160/2003 e o Regulamento (UE) n.º 200/2010 da Comissão, de 10 de Março de 2010, que dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objectivo da União de redução da prevalência de serótipos de salmonela em bandos adultos de reprodução de *Gallus gallus* ([^7^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0007)), a fim de prever que a *Salmonella* Typhimurium inclua estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) 1,4,[5],12:i:-**◄**.\n\n(10) Tendo em conta o parecer científico de 22 de Setembro de 2010 e considerando que é necessário mais tempo para avaliar a tendência da presença de salmonelas nos bandos após a introdução dos programas nacionais de controlo, deveria ser mantido um objectivo da União de redução de salmonelas em bandos adultos de galinhas poedeiras da espécie *Gallus gallus* semelhante ao objectivo da União estabelecido no Regulamento (CE) n.º 1168/2006.\n\n(11) No sentido de verificar os progressos na consecução do objectivo da União, deve prever-se uma amostragem repetida dos bandos de galinhas poedeiras da espécie *Gallus gallus*.\n\n(12) As alterações técnicas introduzidas no anexo ao presente regulamento são directamente aplicáveis e harmonizadas nos Estados-Membros, pelo que as eventuais adaptações dos programas nacionais de controlo em conformidade com as disposições do presente regulamento não exigem nova aprovação pela Comissão.\n\n(13) Os programas nacionais de controlo para a realização do objectivo da União para 2011 em bandos de galinhas poedeiras adultas da espécie *Gallus gallus* foram apresentados para co-financiamento da União, em conformidade com a Decisão 2009/470/CE do Conselho, de 25 de Maio de 2009, relativa a determinadas despesas no domínio veterinário ([^8^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0008)). Esses programas baseiam-se no Regulamento (CE) n.º 1168/2006 e foram aprovados nos termos da Decisão 2010/712/UE da Comissão, de 23 de Novembro de 2010, que aprova programas anuais e plurianuais para erradicação, controlo e vigilância de determinadas doenças animais e zoonoses, apresentados pelos Estados-Membros para 2011 e anos subsequentes, bem como a participação financeira da União nesses programas ([^9^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0009)).\n\n(14) O Regulamento (CE) n.º 1168/2006 deve ser revogado e substituído pelo presente regulamento. As disposições técnicas constantes do anexo do Regulamento (CE) n.º 1168/2006 atingem os mesmos resultados que os do anexo ao presente regulamento. Por conseguinte, os Estados-Membros poderão aplicar as últimas imediatamente, sem a necessidade de um período de transição.\n\n(15) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1c15d4773fdb2896": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. O objectivo da União referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003 para a redução da prevalência de *Salmonella* Enteritidis e *Salmonella* Typhimurium em galinhas poedeiras adultas da espécie *Gallus gallus* («objectivo da União») é o seguinte:\n\na) Uma percentagem anual mínima de redução de bandos positivos de galinhas poedeiras adultas igual a, pelo menos:\n\ni) 10 %, caso a prevalência verificada no ano anterior tenha sido inferior a 10 %,\n\nii) 20 %, caso a prevalência verificada no ano anterior tenha sido igual ou superior a 10 % e inferior a 20 %,\n\niii) 30 %, caso a prevalência verificada no ano anterior tenha sido igual ou superior a 20 % e inferior a 40 %,\n\niv) 40 %, caso a prevalência verificada no ano anterior tenha sido igual ou superior a 40 %;\n\nb) Uma redução da percentagem máxima para 2 % ou menos de bandos positivos de galinhas poedeiras adultas; no entanto, para os Estados-Membros com menos de 50 bandos de galinhas poedeiras adultas, apenas um bando de aves adultas pode permanecer positivo.\n\nO objectivo da União será alcançado anualmente com base na vigilância do ano anterior. No que respeita ao objectivo a alcançar em 2011, devem ser utilizados como referência os resultados do ano 2010, com base na vigilância efectuada em conformidade com o artigo 1.º do Regulamento (CE) n.º 1168/2006.\n\nNo que se refere à *Salmonella* Typhimurium monofásica, devem ser incluídos no objectivo da União os serótipos com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) 1,4,[5],12:i:-**◄**.\n\n2. O regime de testes necessário para verificar os progressos na consecução do objectivo da União consta do anexo («regime de testes»)."
+  },
+  "a332ce46449fbbf0": {
+   "fragment_id": "Artigo 2.º — Revisão do objectivo da União",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Revisão do objectivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revisão do objectivo da União\n\nO objectivo da União é revisto pela Comissão tendo em conta a informação recolhida em conformidade com o regime de testes e os critérios estabelecidos no artigo 4.º, n.º 6, alínea c), do Regulamento (CE) n.º 2160/2003."
+  },
+  "eec20a456aef6378": {
+   "fragment_id": "Artigo 3.º — Alteração ao Regulamento (CE) n.º 2160/2003",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Alteração ao Regulamento (CE) n.º 2160/2003",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Regulamento (CE) n.º 2160/2003\n\nÉ aditado o seguinte parágrafo ao anexo II, parte C, do Regulamento (CE) n.º 2160/2003:\n\n«6. Todas as referências feitas na presente secção à “*Salmonella* Typhimurium” abrangem igualmente a *Salmonella* Typhimurium monofásica com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) 1,4,[5],12:i:-**◄**.»"
+  },
+  "a97f13bde2468c81": {
+   "fragment_id": "Artigo 4.º — Alteração do Regulamento (UE) n.º 200/2010",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Alteração do Regulamento (UE) n.º 200/2010",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração do Regulamento (UE) n.º 200/2010\n\nNo artigo 1.º, n.º 1, o primeiro parágrafo passa a ter a seguinte redacção:\n\n«1. A partir de 1 de Janeiro de 2010, o objectivo da União referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003, para a redução de *Salmonella* spp. em bandos de reprodução de *Gallus gallus* (objectivo da União) é uma redução para 1 % ou menos da percentagem máxima de bandos adultos de reprodução de *Gallus gallus* que permanecem positivos à *Salmonella* Enteritidis, *Salmonella* Infantis, *Salmonella* Hadar, *Salmonella* Typhimurium, incluindo a *Salmonella* Typhimurium monofásica com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) 1,4,[5],12:i:-**◄**, e a *Salmonella* Virchow (os serótipos de salmonelas relevantes).»"
+  },
+  "7ff425cb5127325c": {
+   "fragment_id": "Artigo 5.º — Revogação do Regulamento (CE) n.º 1168/2006",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Revogação do Regulamento (CE) n.º 1168/2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revogação do Regulamento (CE) n.º 1168/2006\n\nO Regulamento (CE) n.º 1168/2006 é revogado.\n\nAs referências ao Regulamento (CE) n.º 1168/2006 consideram-se como referências ao presente regulamento."
+  },
+  "2a2b24e6ebf266bb": {
+   "fragment_id": "Artigo 6.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "ec429f0c85dc0066": {
+   "fragment_id": "Regime de testes necessário para verificar a consecução do objectivo da União de redução de Salmonella Enteritidis e Salmonella Typhimurium em galinhas poedeiras adultas da espécie Gallus gallus, tal como mencionado no artigo 1.º, n.º 2",
+   "type": "divisao",
+   "heading": "Regime de testes necessário para verificar a consecução do objectivo da União de redução de Salmonella Enteritidis e Salmonella Typhimurium em galinhas poedeiras adultas da espécie Gallus gallus, tal como mencionado no artigo 1.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de testes necessário para verificar a consecução do objectivo da União de redução de Salmonella Enteritidis e Salmonella Typhimurium em galinhas poedeiras adultas da espécie Gallus gallus, tal como mencionado no artigo 1.º, n.º 2"
+  },
+  "a89fbbd04a901db4": {
+   "fragment_id": "1. BASE DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "1. BASE DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. BASE DE AMOSTRAGEM\n\nA base de amostragem deve abranger todos os bandos de galinhas poedeiras adultas da espécie *Gallus gallus* («bandos de galinhas poedeiras»), no âmbito dos programas nacionais de controlo previstos no artigo 5.º do Regulamento (CE) n.º 2160/2003."
+  },
+  "7381c1fa7936773e": {
+   "fragment_id": "2. VIGILÂNCIA DOS BANDOS DE GALINHAS POEDEIRAS",
+   "type": "divisao",
+   "heading": "2. VIGILÂNCIA DOS BANDOS DE GALINHAS POEDEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. VIGILÂNCIA DOS BANDOS DE GALINHAS POEDEIRAS"
+  },
+  "6a0cb9381a801510": {
+   "fragment_id": "2.1. Frequência e estatuto da amostragem",
+   "type": "divisao",
+   "heading": "2.1. Frequência e estatuto da amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Frequência e estatuto da amostragem\n\nOs bandos de galinhas poedeiras devem ser sujeitos a amostragem por iniciativa do operador da empresa do sector alimentar e pela autoridade competente.\n\nA amostragem por iniciativa do operador da empresa do sector alimentar deve efectuar-se, pelo menos, de quinze em quinze semanas. A primeira amostragem deve realizar-se às 24 (+/– 2) semanas de idade do bando.\n\nA amostragem por parte da autoridade competente deve realizar-se, pelo menos:\n\na) Num bando por ano e por exploração compreendendo, pelo menos, 1 000 aves;\n\nb) Às 24 (+/– 2) semanas de idade em bandos de galinhas poedeiras mantidas em edifícios onde tenham sido detectadas salmonelas relevantes no bando anterior;\n\nc) Em qualquer caso de suspeita de infecção por salmonelas na investigação de surtos de origem alimentar, nos termos do artigo 8.º da Directiva 2003/99/CE, ou de eventuais casos em que a autoridade competente o considere apropriado, utilizando o protocolo de amostragem referido no anexo II, parte D, ponto 4, alínea b), do Regulamento (CE) n.º 2160/2003;\n\nd) Em todos os restantes bandos de galinhas poedeiras presentes na exploração, caso se detecte *Salmonella* Enteritidis ou *Salmonella* Typhimurium num bando de galinhas poedeiras na exploração;\n\ne) Nos casos em que a autoridade competente considere adequado.\n\nUma amostragem realizada pela autoridade competente pode substituir uma amostragem realizada por iniciativa do operador da empresa do sector alimentar."
+  },
+  "945b00d953dd8af6": {
+   "fragment_id": "2.2. Protocolo de amostragem",
+   "type": "divisao",
+   "heading": "2.2. Protocolo de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Protocolo de amostragem\n\nPara maximizar a sensibilidade da amostragem e assegurar a execução correcta do protocolo de amostragem, a autoridade competente ou o operador da empresa do sector alimentar devem garantir que as amostras são colhidas por pessoas devidamente formadas."
+  },
+  "0c8a98bf552ebe11": {
+   "fragment_id": "2.2.1. Amostragem pelo operador da empresa do sector alimentar",
+   "type": "divisao",
+   "heading": "2.2.1. Amostragem pelo operador da empresa do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Amostragem pelo operador da empresa do sector alimentar\n\na) No que se refere aos bandos criados em gaiolas, devem ser colhidos 2 × 150 gramas de excrementos naturalmente combinados de todos os tapetes de evacuação ou raspadeiras no edifício, após se colocar em funcionamento o sistema de remoção de estrume; no entanto, no caso de gaiolas montadas em escada sem raspadeiras ou tapetes de evacuação, têm de ser colhidos 2 × 150 gramas de excrementos frescos de 60 locais diferentes nas fossas situadas por baixo das gaiolas;\n\nb) Em instalações de criação no solo ou ao ar livre, deve ser colhida uma amostra de dois pares de botas ou meias para esfregaço."
+  },
+  "a6910c549b67030f": {
+   "fragment_id": "2.2.2. Amostragem pela autoridade competente",
+   "type": "divisao",
+   "heading": "2.2.2. Amostragem pela autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2. Amostragem pela autoridade competente\n\nPelo menos uma amostra deve ser colhida de acordo com o protocolo de amostragem, além das amostras referidas no ponto 2.2.1. Outras amostras devem ser colhidas de modo a garantir que a amostragem seja representativa, se necessário, em virtude da distribuição ou da dimensão do bando.\n\nNo caso da amostragem referida no ponto 2.1, alíneas b), c), d) e e), a autoridade competente deve certificar-se, através da realização de outros controlos, designadamente através de testes laboratoriais e/ou controlos documentais, sempre que adequado, de que os resultados das análises para detecção de salmonelas em aves não são afectados pela utilização de agentes antimicrobianos nos bandos.\n\nSempre que não for detectada a presença de *Salmonella* Enteritidis e *Salmonella* Typhimurium mas forem encontrados agentes antimicrobianos ou de efeito inibidor do crescimento bacteriano, o bando deve ser considerado e contabilizado como um bando de galinhas poedeiras infectado para efeitos do objectivo da União.\n\nA autoridade competente pode decidir autorizar a substituição de uma amostra de excrementos ou de um par de botas para esfregaço por uma amostra de 100 gramas de pó, colhida em diversos locais em toda a instalação em superfícies onde a presença de pó seja visível. Em alternativa, podem ser utilizados um ou vários tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ de área total, para recolher o pó de várias superfícies em toda a instalação, de modo a garantir que cada esfregaço está bem coberto de pó nos dois lados.\n\nA autoridade competente pode decidir aumentar o número mínimo de amostras a fim de assegurar a realização de uma amostragem representativa numa avaliação caso a caso de parâmetros epidemiológicos, nomeadamente as condições de biossegurança, a distribuição ou a dimensão do bando ou outras condições pertinentes."
+  },
+  "896a92140c474cc8": {
+   "fragment_id": "3. ANÁLISE DAS AMOSTRAS",
+   "type": "divisao",
+   "heading": "3. ANÁLISE DAS AMOSTRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. ANÁLISE DAS AMOSTRAS"
+  },
+  "bbad03be872f7054": {
+   "fragment_id": "3.1. Transporte e preparação das amostras",
+   "type": "divisao",
+   "heading": "3.1. Transporte e preparação das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Transporte e preparação das amostras\n\nAs amostras devem ser enviadas, de preferência, por correio expresso ou por serviço de correio privado aos laboratórios mencionados nos artigos 11.º e 12.º do Regulamento (CE) n.º 2160/2003 no prazo de 24 horas após a colheita. Se não forem enviadas nesse prazo, devem manter-se refrigeradas. As amostras podem ser transportadas à temperatura ambiente desde que sejam evitados calor excessivo (nomeadamente, superior a 25 °C) e exposição à luz solar. No laboratório, as amostras devem conservar-se refrigeradas até à sua análise, a qual deve iniciar-se no prazo de 48 horas após a sua recepção e de quatro dias após a colheita.\n\nAs botas para esfregaço e o pó ou o esfregaço de pó devem ser preparados separadamente, no caso de amostras colhidas pela autoridade competente, mas, no que se refere às amostras colhidas pelos operadores de empresas do sector alimentar, os diferentes tipos de amostras podem ser combinados num único teste."
+  },
+  "0a1d1ae0349c4a20": {
+   "fragment_id": "3.1.1. Amostras de esfregaços em botas e tecidos",
+   "type": "divisao",
+   "heading": "3.1.1. Amostras de esfregaços em botas e tecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.1. Amostras de esfregaços em botas e tecidos\n\na) Os dois pares de botas para esfregaço (ou «meias») ou os esfregaços de pó devem ser cuidadosamente desembrulhados de forma a evitar a retirada da matéria fecal aderente, a qual deve ser combinada e colocada em 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente, ou os 225 ml de solvente devem ser acrescentados directamente aos dois pares de botas para esfregaço, no seu recipiente, tal como recebidas no laboratório. As botas/meias ou o tecido para esfregaço devem ficar completamente imersos na água peptonada tamponada para que o líquido livre à volta da amostra seja suficiente para permitir a migração das salmonelas, podendo, por conseguinte, ser acrescentada mais água peptonada tamponada, se necessário;\n\nb) Agitar para saturar completamente a amostra e continuar a cultura através do método de detecção indicado no ponto 3.2."
+  },
+  "44c92aaa0db07792": {
+   "fragment_id": "3.1.2. Outros excrementos e pó",
+   "type": "divisao",
+   "heading": "3.1.2. Outros excrementos e pó",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.2. Outros excrementos e pó\n\na) As amostras de matérias fecais devem ser combinadas e misturadas cuidadosamente, devendo colher-se uma subamostra de 25 gramas para a cultura;\n\nb) À subamostra de 25 gramas (ou 50 ml de suspensão que contenha 25 gramas da amostra inicial) devem adicionar-se 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente;\n\nc) Continuar a cultura da amostra através do método de detecção indicado no ponto 3.2.\n\nCaso sejam acordadas normas ISO sobre a preparação de amostras relevantes para a detecção de salmonelas, essas normas devem ser aplicadas, devendo substituir-se às disposições estabelecidas nos pontos 3.1.1 e 3.1.2."
+  },
+  "b85cf8b3518a0845": {
+   "fragment_id": "3.2. Método de detecção",
+   "type": "divisao",
+   "heading": "3.2. Método de detecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de detecção\n\nA detecção de *Salmonella* é realizada de acordo com a alteração 1 da norma EN/ISO 6579-2002/Alteração 1: 2007. «Microbiologia de alimentos para consumo humano e para alimentação animal – Método horizontal para a detecção de *Salmonella* spp. – Alteração 1: Anexo D: Detecção de *Salmonella* spp. em excrementos de origem animal e em amostras ambientais da fase de produção primária» da Organização Internacional de Normalização.\n\nNão mexer nem agitar de qualquer outra maneira as amostras em água peptonada tamponada após a incubação."
+  },
+  "4f539b2a9c504974": {
+   "fragment_id": "3.3. Serotipagem",
+   "type": "divisao",
+   "heading": "3.3. Serotipagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Serotipagem\n\nPara cada amostra positiva colhida pela autoridade competente, deve fazer-se a serotipagem de pelo menos um isolado, segundo o sistema Kaufmann-White-LeMinor. Em isolados colhidos pelos operadores das empresas do sector alimentar, deve realizar-se pelo menos a serotipagem de *Salmonella* Enteritidis e de *Salmonella* Typhimurium."
+  },
+  "6526b41486a0d818": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nNo atinente às amostras colhidas por iniciativa do operador da empresa do sector alimentar, podem ser utilizados métodos alternativos, em substituição dos métodos de preparação de amostras, dos métodos de detecção e da serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a versão mais recente da norma EN/ISO 16140."
+  },
+  "9d7a9994c4f4ff5b": {
+   "fragment_id": "3.5. Testes de resistência antimicrobiana",
+   "type": "divisao",
+   "heading": "3.5. Testes de resistência antimicrobiana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Testes de resistência antimicrobiana\n\nOs isolados devem ser testados em relação à resistência antimicrobiana nos termos do artigo 2.º da Decisão 2007/407/CE da Comissão ([^10^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#E0010))."
+  },
+  "11e72e97a2f1a0e0": {
+   "fragment_id": "3.6. Armazenagem das estirpes",
+   "type": "divisao",
+   "heading": "3.6. Armazenagem das estirpes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.6. Armazenagem das estirpes\n\nA autoridade competente deve assegurar a armazenagem, para eventual futura fagotipagem ou teste de susceptibilidade antimicrobiana, de pelo menos uma estirpe dos serótipos de salmonelas relevantes por capoeira e por ano, isolada a partir da amostragem como elemento dos controlos oficiais, usando os métodos normais de colecção de culturas, que devem assegurar a integridade das estirpes durante um período mínimo de dois anos.\n\nSe a autoridade competente assim o decidir, os isolados da amostragem feita pelos operadores de empresas do sector alimentar serão igualmente armazenados para estes fins."
+  },
+  "c6dbe3d2b9319926": {
+   "fragment_id": "4. RESULTADOS E RELATÓRIOS",
+   "type": "divisao",
+   "heading": "4. RESULTADOS E RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. RESULTADOS E RELATÓRIOS"
+  },
+  "b700e4774f595b20": {
+   "fragment_id": "4.1. Um bando de galinhas poedeiras é considerado positivo para efeitos de verificação da consecução do objectivo da União sempre que:",
+   "type": "divisao",
+   "heading": "4.1. Um bando de galinhas poedeiras é considerado positivo para efeitos de verificação da consecução do objectivo da União sempre que:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Um bando de galinhas poedeiras é considerado positivo para efeitos de verificação da consecução do objectivo da União sempre que:\n\na) For detectada a presença dos serótipos de salmonelas relevantes (excepto estirpes de vacina) numa ou em várias amostras do bando, mesmo que os serótipos de salmonelas relevantes apenas sejam detectados na amostra de pó ou no esfregaço de pó; ou\n\nb) Forem detectados no bando agentes antimicrobianos ou de efeito inibidor do crescimento bacteriano.\n\nEsta regra não se aplica nos casos excepcionais descritos no anexo II, parte D, ponto 4, do Regulamento (CE) n.º 2160/2003, sempre que o resultado inicial positivo às salmonelas não tiver sido confirmado pelo respectivo protocolo de amostragem."
+  },
+  "443dbc9f79a96f4a": {
+   "fragment_id": "4.2. Um bando de galinhas poedeiras positivo é contabilizado apenas uma vez, independentemente:",
+   "type": "divisao",
+   "heading": "4.2. Um bando de galinhas poedeiras positivo é contabilizado apenas uma vez, independentemente:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Um bando de galinhas poedeiras positivo é contabilizado apenas uma vez, independentemente:\n\na) Da frequência com que o serótipo de salmonelas em questão tiver sido detectado nesse bando durante o período de produção;\n\nb) De a amostragem ter sido realizada por iniciativa do operador da empresa do sector alimentar ou pela autoridade competente.\n\nNo entanto, se a amostragem durante o período de produção se estender por dois anos civis, o resultado de cada ano é notificado separadamente."
+  },
+  "5dc8747162a6b739": {
+   "fragment_id": "4.3. Os relatórios devem incluir:",
+   "type": "divisao",
+   "heading": "4.3. Os relatórios devem incluir:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.3. Os relatórios devem incluir:\n\na) O número total de bandos de galinhas poedeiras adultas que foram testados no mínimo uma vez durante o ano a que se refere o relatório;\n\nb) Os resultados das análises, incluindo:\n\ni) o número total de bandos de galinhas poedeiras positivos a qualquer serótipo de salmonela no Estado-Membro,\n\nii) o número de bandos de galinhas poedeiras positivos, pelo menos uma vez, a *Salmonella* Enteritidis e *Salmonella* Typhimurium,\n\niii) o número de bandos de galinhas poedeiras positivos a cada serótipo de salmonelas ou a salmonelas não especificadas (isolados não tipáveis ou não submetidos a serotipagem);\n\nc) A explicação dos resultados, sobretudo no que se refere aos casos excepcionais ou a quaisquer alterações significativas no número de bandos testados e/ou de resultados positivos.\n\nOs resultados e quaisquer informações suplementares pertinentes devem ser notificados como parte do relatório sobre tendências e origens previsto no artigo 9.º, n.º 1, da Directiva 2003/99/CE.\n\n---"
+  },
+  "ae3fe5f289288d3c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0001)) JO L 325 de 12.12.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0002)) JO L 211 de 1.8.2006, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0003)) JO L 325 de 12.12.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0004)) *The EFSA Journal* 2010; 8(1): 1496.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0005)) *The EFSA Journal* 2010; 8(4): 1546.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0006)) *The EFSA Journal* 2010; 8(10): 1826.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0007)) JO L 61 de 11.3.2010, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0008)) JO L 155 de 18.6.2009, p. 30.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0009)) JO L 309 de 25.11.2010, p. 18.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/d0071336-fb2a-49ef-bc5d-83ac738ca6b7.0015.02/DOC_1#src.E0010)) JO L 153 de 14.6.2007, p. 26."
+  },
+  "2e713a0ecdcd1539": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Maio de 2011\n\nque dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objectivo da União Europeia de redução da prevalência de determinados serótipos de *Salmonella* em galinhas poedeiras de *Gallus gallus* e que altera o Regulamento (CE) n.º 2160/2003 e o Regulamento (UE) n.º 200/2010 da Comissão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "bf3db4dfc0d705cb": {
+   "fragment_id": "2.2.1. Amostragem pelo operador da empresa do setor alimentar",
+   "type": "divisao",
+   "heading": "2.2.1. Amostragem pelo operador da empresa do setor alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Amostragem pelo operador da empresa do setor alimentar\n\na) No que se refere aos bandos criados em gaiolas, devem ser colhidos 2 × 150 gramas de excrementos naturalmente combinados que se tenham acumulado nas raspadeiras ou instrumentos de limpeza dos tapetes de todos os tapetes de evacuação ou raspadeiras no edifício, após se colocar em funcionamento o sistema de remoção de estrume; no entanto, no caso de gaiolas sem raspadeiras ou tapetes de evacuação, têm de ser colhidos 2 × 150 gramas de excrementos frescos de 60 locais diferentes nas fossas situadas por baixo das gaiolas.\n\nb) Em instalações de criação no solo ou ao ar livre, deve ser colhida uma amostra de dois pares de botas ou meias para esfregaço."
+  },
+  "1af6b5b58a50915e": {
+   "fragment_id": "3.1.2. Outros excrementos e pó",
+   "type": "divisao",
+   "heading": "3.1.2. Outros excrementos e pó",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.2. Outros excrementos e pó\n\na) As amostras de matérias fecais devem ser combinadas e misturadas cuidadosamente, devendo colher-se uma subamostra de 25 gramas para a cultura;\n\nb) À subamostra de 25 gramas (ou 50 ml de suspensão que contenha 25 gramas da amostra inicial) devem adicionar-se 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente;\n\nc) Continuar a cultura da amostra através do método de detecção indicado no ponto 3.2.\n\nCaso sejam acordadas normas ISO sobre a preparação de amostras relevantes para a detecção de salmonelas, essas normas devem ser aplicadas, devendo substituir-se às disposições estabelecidas nos pontos 3.1.1 e 3.1.2.\n\n3.1.3. Em caso de colheita com tecido para esfregaço em conformidade com o ponto 2.2.1, alínea a), segundo parágrafo, as amostras devem ser combinadas em conformidade com o ponto 3.1.1."
+  },
+  "ce3adfa0d96b929c": {
+   "fragment_id": "3.2. Método de detecção",
+   "type": "divisao",
+   "heading": "3.2. Método de detecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de detecção\n\nA deteção de *Salmonella* spp. é realizada de acordo com a norma EN ISO 6579-1.\n\nNão mexer nem agitar de qualquer outra maneira as amostras em água peptonada tamponada após a incubação."
+  },
+  "123270cb6f705a64": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nPodem ser utilizados métodos alternativos, em substituição dos métodos de deteção e de serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a norma EN ISO 16140-2 (para métodos alternativos de deteção)."
+  },
+  "d340eb8b84933932": {
+   "fragment_id": "3.5. Testes de resistência antimicrobiana",
+   "type": "divisao",
+   "heading": "3.5. Testes de resistência antimicrobiana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Testes de resistência antimicrobiana\n\nOs isolados devem ser testados em relação à resistência antimicrobiana nos termos do artigo 2.º da Decisão 2007/407/CE da Comissão ([^1^](http://publications.europa.eu/resource/cellar/304651cb-6cc6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0001))."
+  },
+  "6c9e7bc5b2282d5b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/304651cb-6cc6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 153 de 14.6.2007, p. 26."
+  }
+ }
+}

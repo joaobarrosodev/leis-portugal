@@ -36,6 +36,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-10-14'
+version_history:
+  file: regulamento-ue-2011-65.versoes.json
+  count: 3
+  source_lastmod: '2012-10-14'
+  versions:
+  - date: '2011-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-02-28'
+    amending: eu:celex:32012R0147:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 147/2012 DA COMISSÃO de 20 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Âmbito de aplicação e definições
+    - Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies
+    - Altera Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície
+    - Altera Artigo 17.º — Reduções e exclusões em relação com o número de animais
+    - Altera Artigo 22.º — Ordem das reduções
+    - Altera Artigo 31.º — Apresentação de relatórios
+    - Altera Notas
+  - date: '2012-10-14'
+    amending: eu:celex:32012R0937:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 937/2012 DA COMISSÃO de 12 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Recuperação de pagamentos indevidos
+    - Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies
+    - Altera Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície
+    - Altera Artigo 17.º — Reduções e exclusões em relação com o número de animais
+    - Altera Notas
 identifiers:
   celex: 32011R0065
   eli: http://data.europa.eu/eli/reg/2011/65/oj
@@ -50,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8e51390c-9220-44b4-a8b1-d74ac7aa184a.0010
   content_url: http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0065-20121014
-  retrieved_at: '2026-10-22T02:36:23Z'
+  retrieved_at: '2026-10-22T15:50:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T18:11:06.909+02:00'
 integrity:
@@ -59,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:23Z'
-  notes: Texto consolidado 02011R0065-20121014.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:46Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -259,34 +291,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 43
-  section_count: 45
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 46
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:23Z'
+  checked_at: '2026-10-22T15:50:46Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 65/2011 da Comissão, de 27 de Janeiro de 2011
-
-> 2011R0065 — PT — 14.10.2012 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0147) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 147/2012 DA COMISSÃO de 20 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0147) — L 48 — 7 — 21.2.2012
-- [►M2](http://publications.europa.eu/resource/celex/32012R0937) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 937/2012 DA COMISSÃO de 12 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R0937) — L 280 — 1 — 13.10.2012
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0065R%2801%29) — [Rectificação, JO L 201, 4.8.2011, p. 20 (65/2011)](http://publications.europa.eu/resource/celex/32011R0065R%2801%29)
-
-## REGULAMENTO (UE) N.º 65/2011 DA COMISSÃO
 
 de 27 de Janeiro de 2011
 

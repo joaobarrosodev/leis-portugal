@@ -36,6 +36,804 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-21'
+version_history:
+  file: regulamento-ue-2011-540.versoes.json
+  count: 57
+  source_lastmod: '2026-07-21'
+  versions:
+  - date: '2011-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-14'
+    amending: eu:celex:32011R0541:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 541/2011 DA COMISSÃO de 1 de Junho de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 542/2011 DA COMISSÃO de 1 de Junho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita PARTE A
+    - Adita Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Adita PARTE B
+    - Adita Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+  - date: '2011-10-01'
+    amending: eu:celex:32011R0706:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 706/2011 DA COMISSÃO de 20 de Julho de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 740/2011 DA COMISSÃO de 27 de Julho de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 807/2011 DA COMISSÃO de 10
+      de Agosto de 2011
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2012-01-01'
+    amending: eu:celex:32011R0702:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 702/2011 DA COMISSÃO de 20 de Julho de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 703/2011 DA COMISSÃO de 20 de Julho de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 704/2011 DA COMISSÃO de 20
+      de Julho de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 705/2011 DA COMISSÃO de 20 de Julho de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 736/2011 DA COMISSÃO de 26 de Julho de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 786/2011 DA COMISSÃO de 5 de
+      Agosto de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 787/2011 DA COMISSÃO de 5 de Agosto de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 788/2011 DA COMISSÃO de 5 de Agosto de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 797/2011 DA COMISSÃO de 9 de
+      Agosto de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 798/2011 DA COMISSÃO de 9 de Agosto de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 800/2011 DA COMISSÃO de 9 de Agosto de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 806/2011 DA COMISSÃO de 10
+      de Agosto de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 810/2011 DA COMISSÃO de 11 de Agosto de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 820/2011 DA COMISSÃO de 16 de Agosto de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 974/2011 DA COMISSÃO de 29
+      de Setembro de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 993/2011 DA COMISSÃO de 6 de Outubro de 2011; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 1022/2011 DA COMISSÃO de 14 de Outubro de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 1134/2011 DA COMISSÃO
+      de 9 de Novembro de 2011; REGULAMENTO DE EXECUÇÃO (UE) N. o 1143/2011 DA COMISSÃO de 10 de Novembro de 2011; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 1278/2011 DA COMISSÃO de 8 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2012-05-01'
+    amending: eu:celex:32011R1100:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1100/2011 DA COMISSÃO de 31 de Outubro de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 87/2012 DA COMISSÃO de 1 de fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 127/2012 DA COMISSÃO de 14
+      de fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 287/2012 DA COMISSÃO de 30 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2012-07-01'
+    amending: eu:celex:32012R0359:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 359/2012 DA COMISSÃO de 25 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2012-07-23'
+    amending: eu:celex:32012R0582:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 582/2012 DA COMISSÃO de 2 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2012-11-01'
+    amending: eu:celex:32012R0369:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 369/2012 DA COMISSÃO de 27 de abril de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 571/2012 DA COMISSÃO de 28 de junho de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 597/2012 DA COMISSÃO de 5 de
+      julho de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 608/2012 DA COMISSÃO de 6 de julho de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 637/2012 DA COMISSÃO de 13 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2013-02-01'
+    amending: eu:celex:32012R0589:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 589/2012 DA COMISSÃO de 4 de julho de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 595/2012 DA COMISSÃO de 5 de julho de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 735/2012 DA COMISSÃO de 14 de
+      agosto de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 746/2012 DA COMISSÃO de 16 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2013-04-01'
+    amending: eu:celex:32012R1037:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1037/2012 DA COMISSÃO de 7 de novembro de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1043/2012 DA COMISSÃO de 8 de novembro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 1197/2012 DA COMISSÃO de
+      13 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Notas
+  - date: '2020-08-03'
+    amending: eu:celex:32012R1237:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1237/2012 DA COMISSÃO de 19 de dezembro de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1238/2012 DA COMISSÃO de 19 de dezembro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 17/2013 DA COMISSÃO de
+      14 de janeiro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 22/2013 DA COMISSÃO de 15 de janeiro de 2013; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 175/2013 DA COMISSÃO de 27 de fevereiro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 187/2013 DA COMISSÃO
+      de 5 de março de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 188/2013 DA COMISSÃO de 5 de março de 2013; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 190/2013 DA COMISSÃO de 5 de março de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 200/2013 DA COMISSÃO
+      de 8 de março de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 201/2013 DA COMISSÃO de 8 de março de 2013; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 350/2013 DA COMISSÃO de 17 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 355/2013 DA COMISSÃO
+      de 18 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 356/2013 DA COMISSÃO de 18 de abril de 2013; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 365/2013 DA COMISSÃO de 22 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 366/2013 DA COMISSÃO
+      de 22 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 367/2013 DA COMISSÃO de 22 de abril de 2013; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 368/2013 DA COMISSÃO de 22 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 369/2013 DA COMISSÃO
+      de 22 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 373/2013 DA COMISSÃO de 23 de abril de 2013; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 375/2013 DA COMISSÃO de 23 de abril de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 378/2013 DA COMISSÃO
+      de 24 de abril de 2013; M65; REGULAMENTO DE EXECUÇÃO (UE) N. o 532/2013 DA COMISSÃO de 10 de junho de 2013; M67; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 546/2013 DA COMISSÃO de 14 de junho de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 568/2013 DA COMISSÃO
+      de 18 de junho de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 570/2013 DA COMISSÃO de 17 de junho de 2013; M71; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 767/2013 DA COMISSÃO de 8 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 781/2013 DA COMISSÃO
+      de 14 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 790/2013 DA COMISSÃO de 19 de agosto de 2013; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 798/2013 DA COMISSÃO de 21 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 802/2013 DA COMISSÃO
+      de 22 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 826/2013 DA COMISSÃO de 29 de agosto de 2013; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 827/2013 DA COMISSÃO de 29 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 828/2013 DA COMISSÃO
+      de 29 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 829/2013 DA COMISSÃO de 29 de agosto de 2013; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 832/2013 DA COMISSÃO de 30 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 833/2013 DA COMISSÃO
+      de 30 de agosto de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1031/2013 DA COMISSÃO de 24 de outubro de 2013; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 1089/2013 DA COMISSÃO de 4 de novembro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1124/2013 DA
+      COMISSÃO de 8 de novembro de 2013; M86; REGULAMENTO DE EXECUÇÃO (UE) N. o 1150/2013 DA COMISSÃO de 14 de novembro de
+      2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1165/2013 DA COMISSÃO de 18 de novembro de 2013; REGULAMENTO DE EXECUÇÃO (UE)
+      N. o 1166/2013 DA COMISSÃO de 18 de novembro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1175/2013 DA COMISSÃO de 20
+      de novembro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1176/2013 DA COMISSÃO de 20 de novembro de 2013; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 1177/2013 DA COMISSÃO de 20 de novembro de 2013; M93; REGULAMENTO DE EXECUÇÃO (UE) N. o 1187/2013
+      DA COMISSÃO de 21 de novembro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1192/2013 DA COMISSÃO de 22 de novembro de
+      2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 1195/2013 DA COMISSÃO de 22 de novembro de 2013; REGULAMENTO DE EXECUÇÃO (UE)
+      N. o 1199/2013 DA COMISSÃO de 25 de novembro de 2013; M98; REGULAMENTO DE EXECUÇÃO (UE) N. o 140/2014 DA COMISSÃO de
+      13 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 141/2014 DA COMISSÃO de 13 de fevereiro de 2014; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 143/2014 DA COMISSÃO de 14 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 144/2014 DA
+      COMISSÃO de 14 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 145/2014 DA COMISSÃO de 14 de fevereiro de 2014;
+      REGULAMENTO DE EXECUÇÃO (UE) N. o 149/2014 DA COMISSÃO de 17 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o
+      151/2014 DA COMISSÃO de 18 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 154/2014 DA COMISSÃO de 19 de fevereiro
+      de 2014; M107; REGULAMENTO DE EXECUÇÃO (UE) N. o 192/2014 DA COMISSÃO de 27 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 193/2014 DA COMISSÃO de 27 de fevereiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 462/2014 DA COMISSÃO de
+      5 de maio de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 485/2014 DA COMISSÃO de 12 de maio de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 486/2014 DA COMISSÃO de 12 de maio de 2014; M113; REGULAMENTO DE EXECUÇÃO (UE) N. o 496/2014 DA COMISSÃO de
+      14 de maio de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 504/2014 DA COMISSÃO de 15 de maio de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 563/2014 DA COMISSÃO de 23 de maio de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 571/2014 DA COMISSÃO de 26 de
+      maio de 2014; M118; REGULAMENTO DE EXECUÇÃO (UE) N. o 632/2014 DA COMISSÃO de 13 de maio de 2014; M120; M121; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 880/2014 DA COMISSÃO de 12 de agosto de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 890/2014 DA COMISSÃO
+      de 14 de agosto de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 891/2014 DA COMISSÃO de 14 de agosto de 2014; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 916/2014 DA COMISSÃO de 22 de agosto de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 917/2014 DA COMISSÃO
+      de 22 de agosto de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 918/2014 DA COMISSÃO de 22 de agosto de 2014; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 921/2014 DA COMISSÃO de 25 de agosto de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 922/2014 DA COMISSÃO
+      de 25 de agosto de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 1316/2014 DA COMISSÃO de 11 de dezembro de 2014; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 1330/2014 DA COMISSÃO de 15 de dezembro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 1334/2014 DA
+      COMISSÃO de 16 de dezembro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 2015/51 DA COMISSÃO de 14 de janeiro de 2015;
+      REGULAMENTO DE EXECUÇÃO (UE) N. o 2015/58 DA COMISSÃO de 15 de janeiro de 2015; M135; REGULAMENTO DE EXECUÇÃO (UE) 2015/306
+      DA COMISSÃO de 26 de fevereiro de 2015; REGULAMENTO DE EXECUÇÃO (UE) N. o 2015/307 DA COMISSÃO de 26 de fevereiro de
+      2015; M138; REGULAMENTO DE EXECUÇÃO (UE) 2015/404 DA COMISSÃO de 11 de março de 2015; M140; M141; REGULAMENTO DE EXECUÇÃO
+      (UE) 2015/543 DA COMISSÃO de 1 de abril de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/553 DA COMISSÃO de 7 de abril de
+      2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/762 DA COMISSÃO de 12 de maio de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1106
+      DA COMISSÃO de 8 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1107 DA COMISSÃO de 8 de julho de 2015; REGULAMENTO
+      DE EXECUÇÃO (UE) 2015/1108 DA COMISSÃO de 8 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1115 DA COMISSÃO de
+      9 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1116 DA COMISSÃO de 9 de julho de 2015; REGULAMENTO DE EXECUÇÃO
+      (UE) 2015/1154 DA COMISSÃO de 14 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1165 DA COMISSÃO de 15 de julho
+      de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1166 DA COMISSÃO de 15 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1176
+      DA COMISSÃO de 17 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1192 DA COMISSÃO de 20 de julho de 2015; REGULAMENTO
+      DE EXECUÇÃO (UE) 2015/1201 DA COMISSÃO de 22 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1295 DA COMISSÃO de
+      27 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1392 DA COMISSÃO de 13 de agosto de 2015; REGULAMENTO DE EXECUÇÃO
+      (UE) 2015/1396 DA COMISSÃO de 14 de agosto de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1397 DA COMISSÃO de 14 de agosto
+      de 2015; M160; REGULAMENTO DE EXECUÇÃO (UE) 2015/2033 DA COMISSÃO de 13 de novembro de 2015; REGULAMENTO DE EXECUÇÃO
+      (UE) 2015/2047 DA COMISSÃO de 16 de novembro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/2069 DA COMISSÃO de 17 de novembro
+      de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/2084 DA COMISSÃO de 18 de novembro de 2015; REGULAMENTO DE EXECUÇÃO (UE)
+      2015/2085 DA COMISSÃO de 18 de novembro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/2105 DA COMISSÃO de 20 de novembro
+      de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/2198 DA COMISSÃO de 27 de novembro de 2015; REGULAMENTO DE EXECUÇÃO (UE)
+      2015/2233 DA COMISSÃO de 2 de dezembro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2016/139 DA COMISSÃO de 2 de fevereiro
+      de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/146 DA COMISSÃO de 4 de fevereiro de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/147
+      DA COMISSÃO de 4 de fevereiro de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/177 DA COMISSÃO de 10 de fevereiro de 2016;
+      REGULAMENTO DE EXECUÇÃO (UE) 2016/182 DA COMISSÃO de 11 de fevereiro de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/370
+      DA COMISSÃO de 15 de março de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/389 DA COMISSÃO de 17 de março de 2016; REGULAMENTO
+      DE EXECUÇÃO (UE) 2016/548 DA COMISSÃO de 8 de abril de 2016; M177; REGULAMENTO DE EXECUÇÃO (UE) 2016/560 DA COMISSÃO
+      de 11 de abril de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/636 DA COMISSÃO de 22 de abril de 2016; REGULAMENTO DE EXECUÇÃO
+      (UE) 2016/638 DA COMISSÃO de 22 de abril de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/864 DA COMISSÃO de 31 de maio de
+      2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/871 DA COMISSÃO de 1 de junho de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/872
+      DA COMISSÃO de 1 de junho de 2016; M184; REGULAMENTO DE EXECUÇÃO (UE) 2016/951 DA COMISSÃO de 15 de junho de 2016; REGULAMENTO
+      DE EXECUÇÃO (UE) 2016/952 DA COMISSÃO de 15 de junho de 2016; M187; M188; REGULAMENTO DE EXECUÇÃO (UE) 2016/1414 DA
+      COMISSÃO de 24 de agosto de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/1423 DA COMISSÃO de 25 de agosto de 2016; REGULAMENTO
+      DE EXECUÇÃO (UE) 2016/1424 DA COMISSÃO de 25 de agosto de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/1425 DA COMISSÃO de
+      25 de agosto de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/1426 DA COMISSÃO de 25 de agosto de 2016; REGULAMENTO DE EXECUÇÃO
+      (UE) 2016/1429 DA COMISSÃO de 26 de agosto de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/1978 DA COMISSÃO de 11 de novembro
+      de 2016; M196; REGULAMENTO DE EXECUÇÃO (UE) 2016/2035 DA COMISSÃO de 21 de novembro de 2016; REGULAMENTO DE EXECUÇÃO
+      (UE) 2017/157 DA COMISSÃO de 30 de janeiro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/195 DA COMISSÃO de 3 de fevereiro
+      de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/239 DA COMISSÃO de 10 de fevereiro de 2017; REGULAMENTO DE EXECUÇÃO (UE)
+      2017/244 DA COMISSÃO de 10 de fevereiro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/270 DA COMISSÃO de 16 de fevereiro
+      de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/359 DA COMISSÃO de 28 de fevereiro de 2017; REGULAMENTO DE EXECUÇÃO (UE)
+      2017/360 DA COMISSÃO de 28 de fevereiro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/375 DA COMISSÃO de 2 de março de
+      2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/406 DA COMISSÃO de 8 de março de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/407
+      DA COMISSÃO de 8 de março de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/408 DA COMISSÃO de 8 de março de 2017; REGULAMENTO
+      DE EXECUÇÃO (UE) 2017/409 DA COMISSÃO de 8 de março de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/419 DA COMISSÃO de 9
+      de março de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/428 DA COMISSÃO de 10 de março de 2017; REGULAMENTO DE EXECUÇÃO
+      (UE) 2017/438 DA COMISSÃO de 13 de março de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/555 DA COMISSÃO de 24 de março de
+      2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/725 DA COMISSÃO de 24 de abril de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/753
+      DA COMISSÃO de 28 de abril de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/755 DA COMISSÃO de 28 de abril de 2017; REGULAMENTO
+      DE EXECUÇÃO (UE) 2017/781 DA COMISSÃO de 5 de maio de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/805 DA COMISSÃO de 11
+      de maio de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/806 DA COMISSÃO de 11 de maio de 2017; REGULAMENTO DE EXECUÇÃO (UE)
+      2017/831 DA COMISSÃO de 16 de maio de 2017; M221; REGULAMENTO DE EXECUÇÃO (UE) 2017/842 DA COMISSÃO de 17 de maio de
+      2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/843 DA COMISSÃO de 17 de maio de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/855
+      DA COMISSÃO de 18 de maio de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/856 DA COMISSÃO de 18 de maio de 2017; REGULAMENTO
+      DE EXECUÇÃO (UE) 2017/1113 DA COMISSÃO de 22 de junho de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1114 DA COMISSÃO de
+      22 de junho de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1115 DA COMISSÃO de 22 de junho de 2017; REGULAMENTO DE EXECUÇÃO
+      (UE) 2017/1125 DA COMISSÃO de 22 de junho de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1186 DA COMISSÃO de 3 de julho
+      de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1455 DA COMISSÃO de 10 de agosto de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1491
+      DA COMISSÃO de 21 de agosto de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1496 DA COMISSÃO de 23 de agosto de 2017; REGULAMENTO
+      DE EXECUÇÃO (UE) 2017/1506 DA COMISSÃO de 28 de agosto de 2017; M235; REGULAMENTO DE EXECUÇÃO (UE) 2017/1527 DA COMISSÃO
+      de 6 de setembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1529 DA COMISSÃO de 7 de setembro de 2017; REGULAMENTO DE
+      EXECUÇÃO (UE) 2017/1530 DA COMISSÃO de 7 de setembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1531 DA COMISSÃO de
+      7 de setembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/2066 DA COMISSÃO de 13 de novembro de 2017; REGULAMENTO DE
+      EXECUÇÃO (UE) 2017/2069 DA COMISSÃO de 13 de novembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/2090 DA COMISSÃO de
+      14 de novembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/2091 DA COMISSÃO de 14 de novembro de 2017; REGULAMENTO DE
+      EXECUÇÃO (UE) 2017/2324 DA COMISSÃO de 12 de dezembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2018/84 DA COMISSÃO de 19
+      de janeiro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/112 DA COMISSÃO de 24 de janeiro de 2018; REGULAMENTO DE EXECUÇÃO
+      (UE) 2018/113 DA COMISSÃO de 24 de janeiro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/184 DA COMISSÃO de 7 de fevereiro
+      de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/185 DA COMISSÃO de 7 de fevereiro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/291
+      DA COMISSÃO de 26 de fevereiro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/309 DA COMISSÃO de 1 de março de 2018; REGULAMENTO
+      DE EXECUÇÃO (UE) 2018/524 DA COMISSÃO de 28 de março de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/660 DA COMISSÃO de 26
+      de abril de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/670 DA COMISSÃO de 30 de abril de 2018; REGULAMENTO DE EXECUÇÃO
+      (UE) 2018/679 DA COMISSÃO de 3 de maio de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/690 DA COMISSÃO de 7 de maio de 2018;
+      REGULAMENTO DE EXECUÇÃO (UE) 2018/691 DA COMISSÃO de 7 de maio de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/692 DA COMISSÃO
+      de 7 de maio de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/710 DA COMISSÃO de 14 de maio de 2018; REGULAMENTO DE EXECUÇÃO
+      (UE) 2018/755 DA COMISSÃO de 23 de maio de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/783 DA COMISSÃO de 29 de maio de
+      2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/784 DA COMISSÃO de 29 de maio de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/785
+      DA COMISSÃO de 29 de maio de 2018; M264; REGULAMENTO DE EXECUÇÃO (UE) 2018/1019 DA COMISSÃO de 18 de julho de 2018;
+      REGULAMENTO DE EXECUÇÃO (UE) 2018/1043 DA COMISSÃO de 24 de julho de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1060 DA
+      COMISSÃO de 26 de julho de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1061 DA COMISSÃO de 26 de julho de 2018; REGULAMENTO
+      DE EXECUÇÃO (UE) 2018/1075 DA COMISSÃO de 27 de julho de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1260 DA COMISSÃO de
+      20 de setembro de 2018; M271; REGULAMENTO DE EXECUÇÃO (UE) 2018/1264 DA COMISSÃO de 20 de setembro de 2018; REGULAMENTO
+      DE EXECUÇÃO (UE) 2018/1265 DA COMISSÃO de 20 de setembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1266 DA COMISSÃO
+      de 20 de setembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1278 DA COMISSÃO de 21 de setembro de 2018; REGULAMENTO
+      DE EXECUÇÃO (UE) 2018/1295 DA COMISSÃO de 26 de setembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1495 DA COMISSÃO
+      de 8 de outubro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1500 DA COMISSÃO de 9 de outubro de 2018; REGULAMENTO DE
+      EXECUÇÃO (UE) 2018/1501 DA COMISSÃO de 9 de outubro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1532 DA COMISSÃO de 12
+      de outubro de 2018; M281; REGULAMENTO DE EXECUÇÃO (UE) 2018/1865 DA COMISSÃO de 28 de novembro de 2018; REGULAMENTO
+      DE EXECUÇÃO (UE) 2018/1913 DA COMISSÃO de 6 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1914 DA COMISSÃO
+      de 6 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1915 DA COMISSÃO de 6 de dezembro de 2018; REGULAMENTO DE
+      EXECUÇÃO (UE) 2018/1916 DA COMISSÃO de 6 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1917 DA COMISSÃO de
+      6 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1981 DA COMISSÃO de 13 de dezembro de 2018; REGULAMENTO DE
+      EXECUÇÃO (UE) 2019/139 DA COMISSÃO de 29 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/147 DA COMISSÃO de 30
+      de janeiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/149 DA COMISSÃO de 30 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO
+      (UE) 2019/151 DA COMISSÃO de 30 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/158 DA COMISSÃO de 31 de janeiro
+      de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/168 DA COMISSÃO de 31 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/291
+      DA COMISSÃO de 19 de fevereiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/324 DA COMISSÃO de 25 de fevereiro de 2019;
+      REGULAMENTO DE EXECUÇÃO (UE) 2019/337 DA COMISSÃO de 27 de fevereiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/344
+      DA COMISSÃO de 28 de fevereiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/481 DA COMISSÃO de 22 de março de 2019; REGULAMENTO
+      DE EXECUÇÃO (UE) 2019/676 DA COMISSÃO de 29 de abril de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/677 DA COMISSÃO de 29
+      de abril de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/706 DA COMISSÃO de 7 de maio de 2019; REGULAMENTO DE EXECUÇÃO (UE)
+      2019/707 DA COMISSÃO de 7 de maio de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/716 DA COMISSÃO de 30 de abril de 2019;
+      REGULAMENTO DE EXECUÇÃO (UE) 2019/717 DA COMISSÃO de 8 de maio de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/989 DA COMISSÃO
+      de 17 de junho de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1085 DA COMISSÃO de 25 de junho de 2019; REGULAMENTO DE EXECUÇÃO
+      (UE) 2019/1090 DA COMISSÃO de 26 de junho de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1100 DA COMISSÃO de 27 de junho
+      de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1101 DA COMISSÃO de 27 de junho de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1137
+      DA COMISSÃO de 3 de julho de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1138 DA COMISSÃO de 3 de julho de 2019; REGULAMENTO
+      DE EXECUÇÃO (UE) 2019/1589 DA COMISSÃO de 26 de setembro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1605 DA COMISSÃO
+      de 27 de setembro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1606 DA COMISSÃO de 27 de setembro de 2019; REGULAMENTO
+      DE EXECUÇÃO (UE) 2019/1675 DA COMISSÃO de 4 de outubro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1690 DA COMISSÃO de
+      9 de outubro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/2094 DA COMISSÃO de 29 de novembro de 2019; REGULAMENTO DE EXECUÇÃO
+      (UE) 2020/17 DA COMISSÃO de 10 de janeiro de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/18 DA COMISSÃO de 10 de janeiro
+      de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/23 DA COMISSÃO de 13 de janeiro de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/421
+      DA COMISSÃO de 18 de março de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/616 DA COMISSÃO de 5 de maio de 2020; REGULAMENTO
+      DE EXECUÇÃO (UE) 2020/617 DA COMISSÃO de 5 de maio de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/642 DA COMISSÃO de 12
+      de maio de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/646 DA COMISSÃO de 13 de maio de 2020; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/653 DA COMISSÃO de 14 de maio de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/869 DA COMISSÃO de 24 de junho de 2020;
+      REGULAMENTO DE EXECUÇÃO (UE) 2020/892 DA COMISSÃO de 29 de junho de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/968 DA COMISSÃO
+      de 3 de julho de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/1004 DA COMISSÃO de 9 de julho de 2020; REGULAMENTO DE EXECUÇÃO
+      (UE) 2020/1018 DA COMISSÃO de 13 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Adita ANEXO SUBSTÂNCIAS ATIVAS
+    - Adita PARTE C
+    - Adita Substâncias de base
+    - Adita PARTE D
+    - Adita Substâncias ativas de baixo risco
+    - Adita PARTE E
+    - Adita Substâncias candidatas para substituição
+    - Suprime ANEXO
+    - Suprime Notas
+  - date: '2020-09-01'
+    amending: eu:celex:32020R1003:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1003 DA COMISSÃO de 9 de julho de 2020; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/1160 DA COMISSÃO de 5 de agosto de 2020
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2020-10-06'
+    amending: eu:celex:32020R1246:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1246 DA COMISSÃO de 2 de setembro de 2020; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/1263 DA COMISSÃO Texto relevante para efeitos do EEE de 10 de setembro de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/1276
+      DA COMISSÃO de 11 de setembro de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/1280 DA COMISSÃO de 14 de setembro de 2020;
+      REGULAMENTO DE EXECUÇÃO (UE) 2020/1293 DA COMISSÃO de 15 de setembro de 2020
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2020-10-20'
+    amending: eu:celex:32020R1498:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1498 DA COMISSÃO de 15 de outubro de 2020; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/1511 DA COMISSÃO de 16 de outubro de 2020
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2020-11-26'
+    amending: eu:celex:32020R1643:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1643 DA COMISSÃO de 5 de novembro de 2020
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2020-12-12'
+    amending: eu:celex:32020R2007:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/2007 DA COMISSÃO de 8 de dezembro de 2020
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-02-01'
+    amending: eu:celex:32020R2087:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/2087 DA COMISSÃO de 14 de dezembro de 2020; REGULAMENTO DE EXECUÇÃO
+      (UE) 2020/2101 DA COMISSÃO de 15 de dezembro de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/2104 DA COMISSÃO de 15 de dezembro
+      de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/2105 DA COMISSÃO de 15 de dezembro de 2020
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-03-01'
+    amending: eu:celex:32021R0052:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/52 DA COMISSÃO de 22 de janeiro de 2021; REGULAMENTO DE EXECUÇÃO (UE)
+      2021/81 DA COMISSÃO de 27 de janeiro de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/129 DA COMISSÃO de 3 de fevereiro de
+      2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/134 DA COMISSÃO de 4 de fevereiro de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-04-01'
+    amending: eu:celex:32021R0413:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/413 DA COMISSÃO de 8 de março de 2021; REGULAMENTO DE EXECUÇÃO (UE)
+      2021/427 DA COMISSÃO de 10 de março de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-04-06'
+    amending: eu:celex:32021R0459:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/459 DA COMISSÃO de 16 de março de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-07-01'
+    amending: eu:celex:32021R0556:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/556 DA COMISSÃO de 31 de março de 2021; REGULAMENTO DE EXECUÇÃO (UE)
+      2021/566 DA COMISSÃO de 30 de março de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/567 DA COMISSÃO de 6 de abril de 2021;
+      REGULAMENTO DE EXECUÇÃO (UE) 2021/574 DA COMISSÃO de 30 de março de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/726 DA COMISSÃO
+      de 4 de maio de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/745 DA COMISSÃO de 6 de maio de 2021; REGULAMENTO DE EXECUÇÃO
+      (UE) 2021/795 DA COMISSÃO de 17 de maio de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/824 DA COMISSÃO de 21 de maio de
+      2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/853 DA COMISSÃO de 27 de maio de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/917
+      DA COMISSÃO de 7 de junho de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-08-01'
+    amending: eu:celex:32021R0843:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/843 DA COMISSÃO de 26 de maio de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-10-01'
+    amending: eu:celex:32021R1191:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1191 DA COMISSÃO de 19 de julho de 2021; REGULAMENTO DE EXECUÇÃO (UE)
+      2021/1379 DA COMISSÃO de 19 de agosto de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-11-01'
+    amending: eu:celex:32021R1446:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1446 DA COMISSÃO de 3 de setembro de 2021; REGULAMENTO DE EXECUÇÃO (UE)
+      2021/1448 DA COMISSÃO de 3 de setembro de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/1449 DA COMISSÃO de 3 de setembro
+      de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/1450 DA COMISSÃO de 3 de setembro de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/1452
+      DA COMISSÃO de 3 de setembro de 2021; REGULAMENTO DE EXECUÇÃO (UE) 2021/1455 DA COMISSÃO de 6 de setembro de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2021-12-19'
+    amending: eu:celex:32021R2068:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2068 DA COMISSÃO de 25 de novembro de 2021; REGULAMENTO DE EXECUÇÃO
+      (UE) 2021/2081 DA COMISSÃO de 26 de novembro de 2021
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-02-01'
+    amending: eu:celex:32021R2049:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2049 DA COMISSÃO de 24 de novembro de 2021; REGULAMENTO DE EXECUÇÃO
+      (UE) 2022/4 DA COMISSÃO de 4 de janeiro de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-03-01'
+    amending: eu:celex:32022R0019:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/19 DA COMISSÃO de 7 de janeiro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/43 DA COMISSÃO de 13 de janeiro de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/94 DA COMISSÃO de 24 de janeiro de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-03-27'
+    amending: eu:celex:32022R0159:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/159 DA COMISSÃO de 4 de fevereiro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/378 DA COMISSÃO de 4 de março de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-07-01'
+    amending: eu:celex:32022R0383:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/383 DA COMISSÃO de 4 de março de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/437 DA COMISSÃO de 16 de março de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/456 DA COMISSÃO de 21 de março de 2022;
+      REGULAMENTO DE EXECUÇÃO (UE) 2022/489 DA COMISSÃO de 25 de março de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/496 DA COMISSÃO
+      de 28 de março de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/501 DA COMISSÃO de 25 de março de 2022; REGULAMENTO DE EXECUÇÃO
+      (UE) 2022/686 DA COMISSÃO de 28 de abril de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/698 DA COMISSÃO de 3 de maio de
+      2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/708 DA COMISSÃO de 5 de maio de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/782
+      DA COMISSÃO de 18 de maio de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/800 DA COMISSÃO de 20 de maio de 2022; REGULAMENTO
+      DE EXECUÇÃO (UE) 2022/801 DA COMISSÃO de 20 de maio de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/808 DA COMISSÃO de 23
+      de maio de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/814 DA COMISSÃO de 20 de maio de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-09-01'
+    amending: eu:celex:32022R1251:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1251 DA COMISSÃO de 19 de julho de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-09-28'
+    amending: eu:celex:32022R1468:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1468 DA COMISSÃO de 5 de setembro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/1480 DA COMISSÃO de 7 de setembro de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-11-01'
+    amending: eu:celex:32022R1474:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1474 DA COMISSÃO de 6 de setembro de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2022-12-12'
+    amending: eu:celex:32022R2364:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2364 DA COMISSÃO de 2 de dezembro de 2022
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-01-20'
+    amending: eu:celex:32023R0114:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/114 DA COMISSÃO de 16 de janeiro de 2023; REGULAMENTO DE EXECUÇÃO (UE)
+      2023/115 DA COMISSÃO de 16 de janeiro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/116 DA COMISSÃO de 16 de janeiro de
+      2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-03-01'
+    amending: eu:celex:32022R2305:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2305 DA COMISSÃO de 24 de novembro de 2022; REGULAMENTO DE EXECUÇÃO
+      (UE) 2022/2314 DA COMISSÃO de 25 de novembro de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/2315 DA COMISSÃO de 25 de novembro
+      de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2023/149 DA COMISSÃO de 20 de janeiro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/199
+      DA COMISSÃO de 30 de janeiro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/216 DA COMISSÃO de 1 de fevereiro de 2023; REGULAMENTO
+      DE EXECUÇÃO (UE) 2023/223 DA COMISSÃO de 27 de janeiro de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-04-01'
+    amending: eu:celex:32023R0515:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/515 DA COMISSÃO de 8 de março de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-04-18'
+    amending: eu:celex:32023R0689:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/689 DA COMISSÃO de 20 de março de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-07-01'
+    amending: eu:celex:32023R0741:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/741 DA COMISSÃO de 5 de abril de 2023; REGULAMENTO DE EXECUÇÃO (UE)
+      2023/918 DA COMISSÃO de 4 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/932 DA COMISSÃO de 8 de maio de 2023; REGULAMENTO
+      DE EXECUÇÃO (UE) 2023/939 DA COMISSÃO de 10 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/962 DA COMISSÃO de 15
+      de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/998 DA COMISSÃO de 23 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE)
+      2023/999 DA COMISSÃO de 23 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1000 DA COMISSÃO de 23 de maio de 2023;
+      REGULAMENTO DE EXECUÇÃO (UE) 2023/1001 DA COMISSÃO de 23 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1002 DA
+      COMISSÃO de 23 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1003 DA COMISSÃO de 23 de maio de 2023; REGULAMENTO
+      DE EXECUÇÃO (UE) 2023/1004 DA COMISSÃO de 23 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1005 DA COMISSÃO de
+      23 de maio de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1021 DA COMISSÃO de 24 de maio de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-08-02'
+    amending: eu:celex:32023R1436:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1436 DA COMISSÃO de 10 de julho de 2023; REGULAMENTO DE EXECUÇÃO (UE)
+      2023/1446 DA COMISSÃO de 12 de julho de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1447 DA COMISSÃO de 12 de julho de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-09-01'
+    amending: eu:celex:32023R1488:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1488 DA COMISSÃO de 6 de julho de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2023-12-16'
+    amending: eu:celex:32023R1755:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1755 DA COMISSÃO de 11 de setembro de 2023; REGULAMENTO DE EXECUÇÃO
+      (UE) 2023/1756 DA COMISSÃO de 11 de setembro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/1757 DA COMISSÃO de 11 de setembro
+      de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/2455 DA COMISSÃO de 7 de novembro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/2456
+      DA COMISSÃO de 7 de novembro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/2513 DA COMISSÃO de 16 de novembro de 2023;
+      REGULAMENTO DE EXECUÇÃO (UE) 2023/2592 DA COMISSÃO de 21 de novembro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/2657
+      DA COMISSÃO de 6 de novembro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2023/2660 DA COMISSÃO de 28 de novembro de 2023
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-02-01'
+    amending: eu:celex:32023R2589:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2589 DA COMISSÃO de 21 de novembro de 2023; REGULAMENTO DE EXECUÇÃO
+      (UE) 2023/2591 DA COMISSÃO de 21 de novembro de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2024/20 DA COMISSÃO de 12 de dezembro
+      de 2023; REGULAMENTO DE EXECUÇÃO (UE) 2024/324 DA COMISSÃO de 19 de janeiro de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-05-01'
+    amending: eu:celex:32024R0821:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/821 DA COMISSÃO de 8 de março de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/839 DA COMISSÃO de 8 de março de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/835 DA COMISSÃO de 12 de março de 2024;
+      REGULAMENTO DE EXECUÇÃO (UE) 2024/836 DA COMISSÃO de 12 de março de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-05-23'
+    amending: eu:celex:32024R1206:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1206 DA COMISSÃO de 29 de abril de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/1207 DA COMISSÃO de 29 de abril de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/1217 DA COMISSÃO de 29 de abril de 2024;
+      REGULAMENTO DE EXECUÇÃO (UE) 2024/1280 DA COMISSÃO de 30 de abril de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-07-31'
+    amending: eu:celex:32024R1696:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1696 DA COMISSÃO de 19 de junho de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/1718 DA COMISSÃO de 19 de junho de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/1768 DA COMISSÃO de 26 de junho de 2024;
+      REGULAMENTO DE EXECUÇÃO (UE) 2024/1892 DA COMISSÃO de 10 de julho de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-09-01'
+    amending: eu:celex:32024R1749:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1749 DA COMISSÃO de 24 de junho de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-09-29'
+    amending: eu:celex:32024R2221:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2221 DA COMISSÃO de 6 de setembro de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-11-01'
+    amending: eu:celex:32024R2186:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2186 DA COMISSÃO de 3 de setembro de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/2198 DA COMISSÃO de 4 de setembro de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/2390 DA COMISSÃO de 6 de setembro
+      de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2024-12-02'
+    amending: eu:celex:32024R2777:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2777 DA COMISSÃO de 31 de outubro de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/2781 DA COMISSÃO de 31 de outubro de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/2806 DA COMISSÃO de 31 de outubro
+      de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/2878 DA COMISSÃO de 8 de novembro de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/2848
+      DA COMISSÃO de 11 de novembro de 2024
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2025-03-01'
+    amending: eu:celex:32025R0096:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/96 DA COMISSÃO de 21 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/99 DA COMISSÃO de 21 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/102 DA COMISSÃO de 21 de janeiro de
+      2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/103 DA COMISSÃO de 22 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/106
+      DA COMISSÃO de 22 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/109 DA COMISSÃO de 22 de janeiro de 2025; REGULAMENTO
+      DE EXECUÇÃO (UE) 2025/119 DA COMISSÃO de 24 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/150 DA COMISSÃO de
+      29 de janeiro de 2025
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2025-05-15'
+    amending: eu:celex:32025R0787:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/787 DA COMISSÃO de 24 de abril de 2025
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2025-05-28'
+    amending: eu:celex:32025R0845:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/845 DA COMISSÃO de 5 de maio de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/881
+      DA COMISSÃO de 7 de maio de 2025
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2025-07-28'
+    amending: eu:celex:32025R0833:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/833 DA COMISSÃO de 5 de maio de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/910
+      DA COMISSÃO de 20 de maio de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/1092 DA COMISSÃO de 2 de junho de 2025; REGULAMENTO
+      DE EXECUÇÃO (UE) 2025/1152 DA COMISSÃO de 11 de junho de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/1177 DA COMISSÃO de
+      16 de junho de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/1489 DA COMISSÃO de 24 de julho de 2025
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2025-11-16'
+    amending: eu:celex:32025R1879:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1879 DA COMISSÃO de 16 de setembro de 2025; REGULAMENTO DE EXECUÇÃO
+      (UE) 2025/2027 DA COMISSÃO de 9 de outubro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/2068 DA COMISSÃO de 15 de outubro
+      de 2025
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2272:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2272 DA COMISSÃO de 12 de novembro de 2025; REGULAMENTO DE EXECUÇÃO
+      (UE) 2025/2313 DA COMISSÃO de 17 de novembro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/2316 DA COMISSÃO de 17 de novembro
+      de 2025
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2026-04-01'
+    amending: eu:celex:32026R0312:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/312 DA COMISSÃO de 10 de fevereiro de 2026; REGULAMENTO DE EXECUÇÃO
+      (UE) 2026/321 DA COMISSÃO de 12 de fevereiro de 2026; REGULAMENTO DE EXECUÇÃO (UE) 2026/351 DA COMISSÃO de 18 de fevereiro
+      de 2026; REGULAMENTO DE EXECUÇÃO (UE) 2026/355 DA COMISSÃO de 18 de fevereiro de 2026; REGULAMENTO DE EXECUÇÃO (UE)
+      2026/372 DA COMISSÃO de 20 de fevereiro de 2026
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
+  - date: '2026-07-21'
+    amending: eu:celex:32026R0747:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/747 DA COMISSÃO de 31 de março de 2026; REGULAMENTO DE EXECUÇÃO (UE)
+      2026/870 DA COMISSÃO de 21 de abril de 2026; REGULAMENTO DE EXECUÇÃO (UE) 2026/1154 DA COMISSÃO de 29 de maio de 2026;
+      REGULAMENTO DE EXECUÇÃO (UE) 2026/1353 DA COMISSÃO de 15 de junho de 2026; REGULAMENTO DE EXECUÇÃO (UE) 2026/1421 DA
+      COMISSÃO de 30 de junho de 2026
+    changes:
+    - Altera Substâncias activas consideradas como tendo sido aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias activas aprovadas nos termos do regulamento (CE) n.º 1107/2009
+    - Altera Substâncias de base
+    - Altera Substâncias ativas de baixo risco
+    - Altera Substâncias candidatas para substituição
 identifiers:
   celex: 32011R0540
   eli: http://data.europa.eu/eli/reg_impl/2011/540/oj
@@ -50,7 +848,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/170c9a93-dfdd-4154-a676-b88ddb7c9fbd.0010
   content_url: http://publications.europa.eu/resource/cellar/a1d7ae9a-855f-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0540-20260721
-  retrieved_at: '2026-10-22T02:53:04Z'
+  retrieved_at: '2026-10-22T15:57:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T04:51:20.199+02:00'
 integrity:
@@ -59,9 +857,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:04Z'
-  notes: Texto consolidado 02011R0540-20260721.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:57:59Z'
+  notes: 57 versão(ões); histórico completo em regulamento-ue-2011-540.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -2661,540 +3459,60 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:04Z'
-  warnings: []
+  checked_at: '2026-10-22T15:57:59Z'
+  warnings:
+  - '02011R0540-20130601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20130801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20140201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20140901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20140915: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150402: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150730: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150818: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20150903: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20151110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20151209: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160502: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160513: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160706: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160822: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20160916: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20161101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20161212: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20170403: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20170608: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20170901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20170928: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20171101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20171205: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20171216: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20180123: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20180322: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20180601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20180701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20180814: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20190801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20191101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20191229: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20200203: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20200409: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20200603: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0540-20200801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 540/2011 da Comissão, de 25 de Maio de 2011
-
-> 02011R0540 — PT — 21.07.2026 — 104.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R0541) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 541/2011 DA COMISSÃO de 1 de Junho de 2011](http://publications.europa.eu/resource/celex/32011R0541) — L 153 — 187 — 11.6.2011
-- [M2](http://publications.europa.eu/resource/celex/32011R0542) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 542/2011 DA COMISSÃO de 1 de Junho de 2011](http://publications.europa.eu/resource/celex/32011R0542) — L 153 — 189 — 11.6.2011
-- [►M3](http://publications.europa.eu/resource/celex/32011R0702) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 702/2011 DA COMISSÃO de 20 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0702) — L 190 — 28 — 21.7.2011
-- [►M4](http://publications.europa.eu/resource/celex/32011R0703) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 703/2011 DA COMISSÃO de 20 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0703) — L 190 — 33 — 21.7.2011
-- [►M5](http://publications.europa.eu/resource/celex/32011R0704) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 704/2011 DA COMISSÃO de 20 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0704) — L 190 — 38 — 21.7.2011
-- [►M6](http://publications.europa.eu/resource/celex/32011R0705) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 705/2011 DA COMISSÃO de 20 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0705) — L 190 — 43 — 21.7.2011
-- [M7](http://publications.europa.eu/resource/celex/32011R0706) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 706/2011 DA COMISSÃO de 20 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0706) — L 190 — 50 — 21.7.2011
-- [►M8](http://publications.europa.eu/resource/celex/32011R0736) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 736/2011 DA COMISSÃO de 26 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0736) — L 195 — 37 — 27.7.2011
-- [►M9](http://publications.europa.eu/resource/celex/32011R0740) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 740/2011 DA COMISSÃO de 27 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0740) — L 196 — 6 — 28.7.2011
-- [►M10](http://publications.europa.eu/resource/celex/32011R0786) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 786/2011 DA COMISSÃO de 5 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0786) — L 203 — 11 — 6.8.2011
-- [►M11](http://publications.europa.eu/resource/celex/32011R0787) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 787/2011 DA COMISSÃO de 5 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0787) — L 203 — 16 — 6.8.2011
-- [►M12](http://publications.europa.eu/resource/celex/32011R0788) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 788/2011 DA COMISSÃO de 5 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0788) — L 203 — 21 — 6.8.2011
-- [►M13](http://publications.europa.eu/resource/celex/32011R0797) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 797/2011 DA COMISSÃO de 9 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0797) — L 205 — 3 — 10.8.2011
-- [►M14](http://publications.europa.eu/resource/celex/32011R0798) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 798/2011 DA COMISSÃO de 9 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0798) — L 205 — 9 — 10.8.2011
-- [►M15](http://publications.europa.eu/resource/celex/32011R0800) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 800/2011 DA COMISSÃO de 9 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0800) — L 205 — 22 — 10.8.2011
-- [M16](http://publications.europa.eu/resource/celex/32011R0806) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 806/2011 DA COMISSÃO de 10 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0806) — L 206 — 39 — 11.8.2011
-- [M17](http://publications.europa.eu/resource/celex/32011R0807) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 807/2011 DA COMISSÃO de 10 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0807) — L 206 — 44 — 11.8.2011
-- [►M18](http://publications.europa.eu/resource/celex/32011R0810) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 810/2011 DA COMISSÃO de 11 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0810) — L 207 — 7 — 12.8.2011
-- [M19](http://publications.europa.eu/resource/celex/32011R0820) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 820/2011 DA COMISSÃO de 16 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0820) — L 209 — 18 — 17.8.2011
-- [►M20](http://publications.europa.eu/resource/celex/32011R0974) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 974/2011 DA COMISSÃO de 29 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011R0974) — L 255 — 1 — 1.10.2011
-- [M21](http://publications.europa.eu/resource/celex/32011R0993) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 993/2011 DA COMISSÃO de 6 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R0993) — L 263 — 1 — 7.10.2011
-- [M22](http://publications.europa.eu/resource/celex/32011R1022) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1022/2011 DA COMISSÃO de 14 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1022) — L 270 — 20 — 15.10.2011
-- [►M23](http://publications.europa.eu/resource/celex/32011R1100) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1100/2011 DA COMISSÃO de 31 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1100) — L 285 — 10 — 1.11.2011
-- [M24](http://publications.europa.eu/resource/celex/32011R1134) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1134/2011 DA COMISSÃO de 9 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1134) — L 292 — 1 — 10.11.2011
-- [►M25](http://publications.europa.eu/resource/celex/32011R1143) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1143/2011 DA COMISSÃO de 10 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1143) — L 293 — 26 — 11.11.2011
-- [M26](http://publications.europa.eu/resource/celex/32011R1278) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1278/2011 DA COMISSÃO de 8 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011R1278) — L 327 — 49 — 9.12.2011
-- [►M27](http://publications.europa.eu/resource/celex/32012R0087) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 87/2012 DA COMISSÃO de 1 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0087) — L 30 — 8 — 2.2.2012
-- [►M28](http://publications.europa.eu/resource/celex/32012R0127) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 127/2012 DA COMISSÃO de 14 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0127) — L 41 — 12 — 15.2.2012
-- [M29](http://publications.europa.eu/resource/celex/32012R0287) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 287/2012 DA COMISSÃO de 30 de março de 2012](http://publications.europa.eu/resource/celex/32012R0287) — L 95 — 7 — 31.3.2012
-- [►M30](http://publications.europa.eu/resource/celex/32012R0359) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 359/2012 DA COMISSÃO de 25 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0359) — L 114 — 1 — 26.4.2012
-- [►M31](http://publications.europa.eu/resource/celex/32012R0369) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 369/2012 DA COMISSÃO de 27 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0369) — L 116 — 19 — 28.4.2012
-- [►M32](http://publications.europa.eu/resource/celex/32012R0571) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 571/2012 DA COMISSÃO de 28 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0571) — L 169 — 46 — 29.6.2012
-- [M33](http://publications.europa.eu/resource/celex/32012R0582) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 582/2012 DA COMISSÃO de 2 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0582) — L 173 — 3 — 3.7.2012
-- [►M34](http://publications.europa.eu/resource/celex/32012R0589) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 589/2012 DA COMISSÃO de 4 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0589) — L 175 — 7 — 5.7.2012
-- [M35](http://publications.europa.eu/resource/celex/32012R0595) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 595/2012 DA COMISSÃO de 5 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0595) — L 176 — 46 — 6.7.2012
-- [M36](http://publications.europa.eu/resource/celex/32012R0597) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 597/2012 DA COMISSÃO de 5 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0597) — L 176 — 54 — 6.7.2012
-- [►M37](http://publications.europa.eu/resource/celex/32012R0608) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 608/2012 DA COMISSÃO de 6 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0608) — L 177 — 19 — 7.7.2012
-- [►M38](http://publications.europa.eu/resource/celex/32012R0637) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 637/2012 DA COMISSÃO de 13 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0637) — L 186 — 20 — 14.7.2012
-- [M39](http://publications.europa.eu/resource/celex/32012R0735) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 735/2012 DA COMISSÃO de 14 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0735) — L 218 — 3 — 15.8.2012
-- [M40](http://publications.europa.eu/resource/celex/32012R0746) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 746/2012 DA COMISSÃO de 16 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0746) — L 219 — 15 — 17.8.2012
-- [M41](http://publications.europa.eu/resource/celex/32012R1037) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1037/2012 DA COMISSÃO de 7 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1037) — L 308 — 15 — 8.11.2012
-- [►M42](http://publications.europa.eu/resource/celex/32012R1043) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1043/2012 DA COMISSÃO de 8 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1043) — L 310 — 24 — 9.11.2012
-- [M43](http://publications.europa.eu/resource/celex/32012R1197) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1197/2012 DA COMISSÃO de 13 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1197) — L 342 — 27 — 14.12.2012
-- [M44](http://publications.europa.eu/resource/celex/32012R1237) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1237/2012 DA COMISSÃO de 19 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1237) — L 350 — 55 — 20.12.2012
-- [►M45](http://publications.europa.eu/resource/celex/32012R1238) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1238/2012 DA COMISSÃO de 19 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1238) — L 350 — 59 — 20.12.2012
-- [►M46](http://publications.europa.eu/resource/celex/32013R0017) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 17/2013 DA COMISSÃO de 14 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0017) — L 9 — 5 — 15.1.2013
-- [►M47](http://publications.europa.eu/resource/celex/32013R0022) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 22/2013 DA COMISSÃO de 15 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0022) — L 11 — 8 — 16.1.2013
-- [►M48](http://publications.europa.eu/resource/celex/32013R0175) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 175/2013 DA COMISSÃO de 27 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0175) — L 56 — 4 — 28.2.2013
-- [►M49](http://publications.europa.eu/resource/celex/32013R0187) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 187/2013 DA COMISSÃO de 5 de março de 2013](http://publications.europa.eu/resource/celex/32013R0187) — L 62 — 10 — 6.3.2013
-- [►M50](http://publications.europa.eu/resource/celex/32013R0188) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 188/2013 DA COMISSÃO de 5 de março de 2013](http://publications.europa.eu/resource/celex/32013R0188) — L 62 — 13 — 6.3.2013
-- [M51](http://publications.europa.eu/resource/celex/32013R0190) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 190/2013 DA COMISSÃO de 5 de março de 2013](http://publications.europa.eu/resource/celex/32013R0190) — L 62 — 19 — 6.3.2013
-- [►M52](http://publications.europa.eu/resource/celex/32013R0200) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 200/2013 DA COMISSÃO de 8 de março de 2013](http://publications.europa.eu/resource/celex/32013R0200) — L 67 — 1 — 9.3.2013
-- [►M53](http://publications.europa.eu/resource/celex/32013R0201) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 201/2013 DA COMISSÃO de 8 de março de 2013](http://publications.europa.eu/resource/celex/32013R0201) — L 67 — 6 — 9.3.2013
-- [►M54](http://publications.europa.eu/resource/celex/32013R0350) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 350/2013 DA COMISSÃO de 17 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0350) — L 108 — 9 — 18.4.2013
-- [M55](http://publications.europa.eu/resource/celex/32013R0355) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 355/2013 DA COMISSÃO de 18 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0355) — L 109 — 14 — 19.4.2013
-- [►M56](http://publications.europa.eu/resource/celex/32013R0356) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 356/2013 DA COMISSÃO de 18 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0356) — L 109 — 18 — 19.4.2013
-- [M57](http://publications.europa.eu/resource/celex/32013R0365) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 365/2013 DA COMISSÃO de 22 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0365) — L 111 — 27 — 23.4.2013
-- [M58](http://publications.europa.eu/resource/celex/32013R0366) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 366/2013 DA COMISSÃO de 22 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0366) — L 111 — 30 — 23.4.2013
-- [►M59](http://publications.europa.eu/resource/celex/32013R0367) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 367/2013 DA COMISSÃO de 22 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0367) — L 111 — 33 — 23.4.2013
-- [►M60](http://publications.europa.eu/resource/celex/32013R0368) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 368/2013 DA COMISSÃO de 22 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0368) — L 111 — 36 — 23.4.2013
-- [►M61](http://publications.europa.eu/resource/celex/32013R0369) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 369/2013 DA COMISSÃO de 22 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0369) — L 111 — 39 — 23.4.2013
-- [►M62](http://publications.europa.eu/resource/celex/32013R0373) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 373/2013 DA COMISSÃO de 23 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0373) — L 112 — 10 — 24.4.2013
-- [M63](http://publications.europa.eu/resource/celex/32013R0375) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 375/2013 DA COMISSÃO de 23 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0375) — L 112 — 15 — 24.4.2013
-- [►M64](http://publications.europa.eu/resource/celex/32013R0378) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 378/2013 DA COMISSÃO de 24 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0378) — L 113 — 5 — 25.4.2013
-- [M65](http://publications.europa.eu/resource/celex/32013R0485) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 485/2013 DA COMISSÃO de 24 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0485) — L 139 — 12 — 25.5.2013
-- [M66](http://publications.europa.eu/resource/celex/32013R0532) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 532/2013 DA COMISSÃO de 10 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0532) — L 159 — 6 — 11.6.2013
-- [M67](http://publications.europa.eu/resource/celex/32013R0533) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 533/2013 DA COMISSÃO de 10 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0533) — L 159 — 9 — 11.6.2013
-- [►M68](http://publications.europa.eu/resource/celex/32013R0546) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 546/2013 DA COMISSÃO de 14 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0546) — L 163 — 17 — 15.6.2013
-- [►M69](http://publications.europa.eu/resource/celex/32013R0568) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 568/2013 DA COMISSÃO de 18 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0568) — L 167 — 33 — 19.6.2013
-- [►M70](http://publications.europa.eu/resource/celex/32013R0570) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 570/2013 DA COMISSÃO de 17 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0570) — L 168 — 18 — 20.6.2013
-- [M71](http://publications.europa.eu/resource/celex/32013R0762) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 762/2013 DA COMISSÃO de 7 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0762) — L 213 — 14 — 8.8.2013
-- [►M72](http://publications.europa.eu/resource/celex/32013R0767) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 767/2013 DA COMISSÃO de 8 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0767) — L 214 — 5 — 9.8.2013
-- [M73](http://publications.europa.eu/resource/celex/32013R0781) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 781/2013 DA COMISSÃO de 14 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0781) — L 219 — 22 — 15.8.2013
-- [►M74](http://publications.europa.eu/resource/celex/32013R0790) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 790/2013 DA COMISSÃO de 19 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0790) — L 222 — 6 — 20.8.2013
-- [►M75](http://publications.europa.eu/resource/celex/32013R0798) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 798/2013 DA COMISSÃO de 21 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0798) — L 224 — 9 — 22.8.2013
-- [►M76](http://publications.europa.eu/resource/celex/32013R0802) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 802/2013 DA COMISSÃO de 22 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0802) — L 225 — 13 — 23.8.2013
-- [►M77](http://publications.europa.eu/resource/celex/32013R0826) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 826/2013 DA COMISSÃO de 29 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0826) — L 232 — 13 — 30.8.2013
-- [►M78](http://publications.europa.eu/resource/celex/32013R0827) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 827/2013 DA COMISSÃO de 29 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0827) — L 232 — 18 — 30.8.2013
-- [►M79](http://publications.europa.eu/resource/celex/32013R0828) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 828/2013 DA COMISSÃO de 29 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0828) — L 232 — 23 — 30.8.2013
-- [►M80](http://publications.europa.eu/resource/celex/32013R0829) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 829/2013 DA COMISSÃO de 29 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0829) — L 232 — 29 — 30.8.2013
-- [►M81](http://publications.europa.eu/resource/celex/32013R0832) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 832/2013 DA COMISSÃO de 30 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0832) — L 233 — 3 — 31.8.2013
-- [►M82](http://publications.europa.eu/resource/celex/32013R0833) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 833/2013 DA COMISSÃO de 30 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0833) — L 233 — 7 — 31.8.2013
-- [M83](http://publications.europa.eu/resource/celex/32013R1031) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1031/2013 DA COMISSÃO de 24 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1031) — L 283 — 17 — 25.10.2013
-- [M84](http://publications.europa.eu/resource/celex/32013R1089) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1089/2013 DA COMISSÃO de 4 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1089) — L 293 — 31 — 5.11.2013
-- [►M85](http://publications.europa.eu/resource/celex/32013R1124) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1124/2013 DA COMISSÃO de 8 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1124) — L 299 — 34 — 9.11.2013
-- [M86](http://publications.europa.eu/resource/celex/32013R1136) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1136/2013 DA COMISSÃO de 12 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1136) — L 302 — 34 — 13.11.2013
-- [M87](http://publications.europa.eu/resource/celex/32013R1150) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1150/2013 DA COMISSÃO de 14 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1150) — L 305 — 13 — 15.11.2013
-- [►M88](http://publications.europa.eu/resource/celex/32013R1165) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1165/2013 DA COMISSÃO de 18 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1165) — L 309 — 17 — 19.11.2013
-- [►M89](http://publications.europa.eu/resource/celex/32013R1166) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1166/2013 DA COMISSÃO de 18 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1166) — L 309 — 22 — 19.11.2013
-- [►M90](http://publications.europa.eu/resource/celex/32013R1175) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1175/2013 DA COMISSÃO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1175) — L 312 — 18 — 21.11.2013
-- [►M91](http://publications.europa.eu/resource/celex/32013R1176) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1176/2013 DA COMISSÃO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1176) — L 312 — 23 — 21.11.2013
-- [M92](http://publications.europa.eu/resource/celex/32013R1177) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1177/2013 DA COMISSÃO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1177) — L 312 — 28 — 21.11.2013
-- [M93](http://publications.europa.eu/resource/celex/32013R1178) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1178/2013 DA COMISSÃO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1178) — L 312 — 33 — 21.11.2013
-- [M94](http://publications.europa.eu/resource/celex/32013R1187) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1187/2013 DA COMISSÃO de 21 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1187) — L 313 — 42 — 22.11.2013
-- [►M95](http://publications.europa.eu/resource/celex/32013R1192) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1192/2013 DA COMISSÃO de 22 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1192) — L 314 — 6 — 23.11.2013
-- [►M96](http://publications.europa.eu/resource/celex/32013R1195) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1195/2013 DA COMISSÃO de 22 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1195) — L 315 — 27 — 26.11.2013
-- [►M97](http://publications.europa.eu/resource/celex/32013R1199) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1199/2013 DA COMISSÃO de 25 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1199) — L 315 — 69 — 26.11.2013
-- [M98](http://publications.europa.eu/resource/celex/32014R0085) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 85/2014 DA COMISSÃO de 30 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0085) — L 28 — 34 — 31.1.2014
-- [M99](http://publications.europa.eu/resource/celex/32014R0140) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 140/2014 DA COMISSÃO de 13 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0140) — L 44 — 35 — 14.2.2014
-- [►M100](http://publications.europa.eu/resource/celex/32014R0141) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 141/2014 DA COMISSÃO de 13 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0141) — L 44 — 40 — 14.2.2014
-- [M101](http://publications.europa.eu/resource/celex/32014R0143) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 143/2014 DA COMISSÃO de 14 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0143) — L 45 — 1 — 15.2.2014
-- [►M102](http://publications.europa.eu/resource/celex/32014R0144) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 144/2014 DA COMISSÃO de 14 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0144) — L 45 — 7 — 15.2.2014
-- [►M103](http://publications.europa.eu/resource/celex/32014R0145) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 145/2014 DA COMISSÃO de 14 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0145) — L 45 — 12 — 15.2.2014
-- [M104](http://publications.europa.eu/resource/celex/32014R0149) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 149/2014 DA COMISSÃO de 17 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0149) — L 46 — 3 — 18.2.2014
-- [►M105](http://publications.europa.eu/resource/celex/32014R0151) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 151/2014 DA COMISSÃO de 18 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0151) — L 48 — 1 — 19.2.2014
-- [►M106](http://publications.europa.eu/resource/celex/32014R0154) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 154/2014 DA COMISSÃO de 19 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0154) — L 50 — 7 — 20.2.2014
-- [M107](http://publications.europa.eu/resource/celex/32014R0187) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 187/2014 DA COMISSÃO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0187) — L 57 — 24 — 27.2.2014
-- [►M108](http://publications.europa.eu/resource/celex/32014R0192) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 192/2014 DA COMISSÃO de 27 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0192) — L 59 — 20 — 28.2.2014
-- [►M109](http://publications.europa.eu/resource/celex/32014R0193) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 193/2014 DA COMISSÃO de 27 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0193) — L 59 — 25 — 28.2.2014
-- [►M110](http://publications.europa.eu/resource/celex/32014R0462) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 462/2014 DA COMISSÃO de 5 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0462) — L 134 — 28 — 7.5.2014
-- [M111](http://publications.europa.eu/resource/celex/32014R0485) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 485/2014 DA COMISSÃO de 12 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0485) — L 138 — 65 — 13.5.2014
-- [►M112](http://publications.europa.eu/resource/celex/32014R0486) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 486/2014 DA COMISSÃO de 12 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0486) — L 138 — 70 — 13.5.2014
-- [M113](http://publications.europa.eu/resource/celex/32014R0487) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 487/2014 DA COMISSÃO de 12 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0487) — L 138 — 72 — 13.5.2014
-- [►M114](http://publications.europa.eu/resource/celex/32014R0496) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 496/2014 DA COMISSÃO de 14 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0496) — L 143 — 1 — 15.5.2014
-- [M115](http://publications.europa.eu/resource/celex/32014R0504) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 504/2014 DA COMISSÃO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0504) — L 145 — 28 — 16.5.2014
-- [M116](http://publications.europa.eu/resource/celex/32014R0563) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 563/2014 DA COMISSÃO de 23 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0563) — L 156 — 5 — 24.5.2014
-- [M117](http://publications.europa.eu/resource/celex/32014R0571) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 571/2014 DA COMISSÃO de 26 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0571) — L 157 — 96 — 27.5.2014
-- [M118](http://publications.europa.eu/resource/celex/32014R0629) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 629/2014 DA COMISSÃO de 12 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0629) — L 174 — 33 — 13.6.2014
-- [M119](http://publications.europa.eu/resource/celex/32014R0632) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 632/2014 DA COMISSÃO de 13 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0632) — L 175 — 1 — 14.6.2014
-- [M120](http://publications.europa.eu/resource/celex/32014R0678) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 678/2014 DA COMISSÃO de 19 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0678) — L 180 — 11 — 20.6.2014
-- [M121](http://publications.europa.eu/resource/celex/32014R0878) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 878/2014 DA COMISSÃO de 12 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0878) — L 240 — 18 — 13.8.2014
-- [M122](http://publications.europa.eu/resource/celex/32014R0880) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 880/2014 DA COMISSÃO de 12 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0880) — L 240 — 22 — 13.8.2014
-- [►M123](http://publications.europa.eu/resource/celex/32014R0890) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 890/2014 DA COMISSÃO de 14 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0890) — L 243 — 42 — 15.8.2014
-- [►M124](http://publications.europa.eu/resource/celex/32014R0891) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 891/2014 DA COMISSÃO de 14 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0891) — L 243 — 47 — 15.8.2014
-- [►M125](http://publications.europa.eu/resource/celex/32014R0916) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 916/2014 DA COMISSÃO de 22 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0916) — L 251 — 16 — 23.8.2014
-- [►M126](http://publications.europa.eu/resource/celex/32014R0917) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 917/2014 DA COMISSÃO de 22 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0917) — L 251 — 19 — 23.8.2014
-- [M127](http://publications.europa.eu/resource/celex/32014R0918) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 918/2014 DA COMISSÃO de 22 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0918) — L 251 — 24 — 23.8.2014
-- [►M128](http://publications.europa.eu/resource/celex/32014R0921) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 921/2014 DA COMISSÃO de 25 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0921) — L 252 — 3 — 26.8.2014
-- [M129](http://publications.europa.eu/resource/celex/32014R0922) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 922/2014 DA COMISSÃO de 25 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0922) — L 252 — 6 — 26.8.2014
-- [►M130](http://publications.europa.eu/resource/celex/32014R1316) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1316/2014 DA COMISSÃO de 11 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1316) — L 355 — 1 — 12.12.2014
-- [M131](http://publications.europa.eu/resource/celex/32014R1330) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1330/2014 DA COMISSÃO de 15 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1330) — L 359 — 85 — 16.12.2014
-- [M132](http://publications.europa.eu/resource/celex/32014R1334) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1334/2014 DA COMISSÃO de 16 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1334) — L 360 — 1 — 17.12.2014
-- [M133](http://publications.europa.eu/resource/celex/32015R0051) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 2015/51 DA COMISSÃO de 14 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0051) — L 9 — 22 — 15.1.2015
-- [M134](http://publications.europa.eu/resource/celex/32015R0058) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 2015/58 DA COMISSÃO de 15 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0058) — L 10 — 25 — 16.1.2015
-- [M135](http://publications.europa.eu/resource/celex/32015R0232) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 2015/232 DA COMISSÃO de 13 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0232) — L 39 — 7 — 14.2.2015
-- [►M136](http://publications.europa.eu/resource/celex/32015R0306) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/306 DA COMISSÃO de 26 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0306) — L 56 — 1 — 27.2.2015
-- [►M137](http://publications.europa.eu/resource/celex/32015R0307) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 2015/307 DA COMISSÃO de 26 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0307) — L 56 — 6 — 27.2.2015
-- [M138](http://publications.europa.eu/resource/celex/32015R0308) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 2015/308 DA COMISSÃO de 26 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0308) — L 56 — 9 — 27.2.2015
-- [M139](http://publications.europa.eu/resource/celex/32015R0404) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/404 DA COMISSÃO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0404) — L 67 — 6 — 12.3.2015
-- [M140](http://publications.europa.eu/resource/celex/32015R0415) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/415 DA COMISSÃO de 12 de março de 2015](http://publications.europa.eu/resource/celex/32015R0415) — L 68 — 28 — 13.3.2015
-- [M141](http://publications.europa.eu/resource/celex/32015R0418) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/418 DA COMISSÃO de 12 de março de 2015](http://publications.europa.eu/resource/celex/32015R0418) — L 68 — 36 — 13.3.2015
-- [►M142](http://publications.europa.eu/resource/celex/32015R0543) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/543 DA COMISSÃO de 1 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0543) — L 90 — 1 — 2.4.2015
-- [►M143](http://publications.europa.eu/resource/celex/32015R0553) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/553 DA COMISSÃO de 7 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0553) — L 92 — 86 — 8.4.2015
-- [►M144](http://publications.europa.eu/resource/celex/32015R0762) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/762 DA COMISSÃO de 12 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0762) — L 120 — 6 — 13.5.2015
-- [M145](http://publications.europa.eu/resource/celex/32015R1106) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1106 DA COMISSÃO de 8 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1106) — L 181 — 70 — 9.7.2015
-- [►M146](http://publications.europa.eu/resource/celex/32015R1107) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1107 DA COMISSÃO de 8 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1107) — L 181 — 72 — 9.7.2015
-- [►M147](http://publications.europa.eu/resource/celex/32015R1108) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1108 DA COMISSÃO de 8 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1108) — L 181 — 75 — 9.7.2015
-- [►M148](http://publications.europa.eu/resource/celex/32015R1115) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1115 DA COMISSÃO de 9 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1115) — L 182 — 22 — 10.7.2015
-- [►M149](http://publications.europa.eu/resource/celex/32015R1116) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1116 DA COMISSÃO de 9 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1116) — L 182 — 26 — 10.7.2015
-- [►M150](http://publications.europa.eu/resource/celex/32015R1154) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1154 DA COMISSÃO de 14 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1154) — L 187 — 18 — 15.7.2015
-- [►M151](http://publications.europa.eu/resource/celex/32015R1165) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1165 DA COMISSÃO de 15 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1165) — L 188 — 30 — 16.7.2015
-- [►M152](http://publications.europa.eu/resource/celex/32015R1166) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1166 DA COMISSÃO de 15 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1166) — L 188 — 34 — 16.7.2015
-- [►M153](http://publications.europa.eu/resource/celex/32015R1176) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1176 DA COMISSÃO de 17 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1176) — L 192 — 1 — 18.7.2015
-- [M154](http://publications.europa.eu/resource/celex/32015R1192) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1192 DA COMISSÃO de 20 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1192) — L 193 — 124 — 21.7.2015
-- [►M155](http://publications.europa.eu/resource/celex/32015R1201) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1201 DA COMISSÃO de 22 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1201) — L 195 — 37 — 23.7.2015
-- [►M156](http://publications.europa.eu/resource/celex/32015R1295) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1295 DA COMISSÃO de 27 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1295) — L 199 — 8 — 29.7.2015
-- [►M157](http://publications.europa.eu/resource/celex/32015R1392) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1392 DA COMISSÃO de 13 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1392) — L 215 — 34 — 14.8.2015
-- [M158](http://publications.europa.eu/resource/celex/32015R1396) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1396 DA COMISSÃO de 14 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1396) — L 216 — 1 — 15.8.2015
-- [►M159](http://publications.europa.eu/resource/celex/32015R1397) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1397 DA COMISSÃO de 14 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1397) — L 216 — 3 — 15.8.2015
-- [M160](http://publications.europa.eu/resource/celex/32015R1885) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1885 DA COMISSÃO de 20 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1885) — L 276 — 48 — 21.10.2015
-- [►M161](http://publications.europa.eu/resource/celex/32015R2033) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2033 DA COMISSÃO de 13 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2033) — L 298 — 8 — 14.11.2015
-- [►M162](http://publications.europa.eu/resource/celex/32015R2047) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2047 DA COMISSÃO de 16 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2047) — L 300 — 8 — 17.11.2015
-- [►M163](http://publications.europa.eu/resource/celex/32015R2069) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2069 DA COMISSÃO de 17 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2069) — L 301 — 42 — 18.11.2015
-- [►M164](http://publications.europa.eu/resource/celex/32015R2084) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2084 DA COMISSÃO de 18 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2084) — L 302 — 89 — 19.11.2015
-- [►M165](http://publications.europa.eu/resource/celex/32015R2085) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2085 DA COMISSÃO de 18 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2085) — L 302 — 93 — 19.11.2015
-- [►M166](http://publications.europa.eu/resource/celex/32015R2105) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2105 DA COMISSÃO de 20 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2105) — L 305 — 31 — 21.11.2015
-- [►M167](http://publications.europa.eu/resource/celex/32015R2198) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2198 DA COMISSÃO de 27 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2198) — L 313 — 35 — 28.11.2015
-- [M168](http://publications.europa.eu/resource/celex/32015R2233) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2233 DA COMISSÃO de 2 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2233) — L 317 — 26 — 3.12.2015
-- [►M169](http://publications.europa.eu/resource/celex/32016R0139) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/139 DA COMISSÃO de 2 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0139) — L 27 — 7 — 3.2.2016
-- [►M170](http://publications.europa.eu/resource/celex/32016R0146) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/146 DA COMISSÃO de 4 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0146) — L 30 — 7 — 5.2.2016
-- [►M171](http://publications.europa.eu/resource/celex/32016R0147) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/147 DA COMISSÃO de 4 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0147) — L 30 — 12 — 5.2.2016
-- [►M172](http://publications.europa.eu/resource/celex/32016R0177) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/177 DA COMISSÃO de 10 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0177) — L 35 — 1 — 11.2.2016
-- [►M173](http://publications.europa.eu/resource/celex/32016R0182) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/182 DA COMISSÃO de 11 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0182) — L 37 — 40 — 12.2.2016
-- [►M174](http://publications.europa.eu/resource/celex/32016R0370) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/370 DA COMISSÃO de 15 de março de 2016](http://publications.europa.eu/resource/celex/32016R0370) — L 70 — 7 — 16.3.2016
-- [►M175](http://publications.europa.eu/resource/celex/32016R0389) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/389 DA COMISSÃO de 17 de março de 2016](http://publications.europa.eu/resource/celex/32016R0389) — L 73 — 77 — 18.3.2016
-- [►M176](http://publications.europa.eu/resource/celex/32016R0548) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/548 DA COMISSÃO de 8 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0548) — L 95 — 1 — 9.4.2016
-- [M177](http://publications.europa.eu/resource/celex/32016R0549) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/549 DA COMISSÃO de 8 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0549) — L 95 — 4 — 9.4.2016
-- [►M178](http://publications.europa.eu/resource/celex/32016R0560) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/560 DA COMISSÃO de 11 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0560) — L 96 — 23 — 12.4.2016
-- [►M179](http://publications.europa.eu/resource/celex/32016R0636) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/636 DA COMISSÃO de 22 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0636) — L 108 — 22 — 23.4.2016
-- [►M180](http://publications.europa.eu/resource/celex/32016R0638) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/638 DA COMISSÃO de 22 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0638) — L 108 — 28 — 23.4.2016
-- [►M181](http://publications.europa.eu/resource/celex/32016R0864) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/864 DA COMISSÃO de 31 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0864) — L 144 — 32 — 1.6.2016
-- [►M182](http://publications.europa.eu/resource/celex/32016R0871) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/871 DA COMISSÃO de 1 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0871) — L 145 — 4 — 2.6.2016
-- [►M183](http://publications.europa.eu/resource/celex/32016R0872) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/872 DA COMISSÃO de 1 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0872) — L 145 — 7 — 2.6.2016
-- [M184](http://publications.europa.eu/resource/celex/32016R0950) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/950 DA COMISSÃO de 15 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0950) — L 159 — 3 — 16.6.2016
-- [►M185](http://publications.europa.eu/resource/celex/32016R0951) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/951 DA COMISSÃO de 15 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0951) — L 159 — 6 — 16.6.2016
-- [►M186](http://publications.europa.eu/resource/celex/32016R0952) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/952 DA COMISSÃO de 15 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0952) — L 159 — 10 — 16.6.2016
-- [M187](http://publications.europa.eu/resource/celex/32016R1056) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1056 DA COMISSÃO de 29 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1056) — L 173 — 52 — 30.6.2016
-- [M188](http://publications.europa.eu/resource/celex/32016R1313) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1313 DA COMISSÃO de 1 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1313) — L 208 — 1 — 2.8.2016
-- [►M189](http://publications.europa.eu/resource/celex/32016R1414) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1414 DA COMISSÃO de 24 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1414) — L 230 — 16 — 25.8.2016
-- [►M190](http://publications.europa.eu/resource/celex/32016R1423) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1423 DA COMISSÃO de 25 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1423) — L 231 — 20 — 26.8.2016
-- [►M191](http://publications.europa.eu/resource/celex/32016R1424) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1424 DA COMISSÃO de 25 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1424) — L 231 — 25 — 26.8.2016
-- [►M192](http://publications.europa.eu/resource/celex/32016R1425) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1425 DA COMISSÃO de 25 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1425) — L 231 — 30 — 26.8.2016
-- [►M193](http://publications.europa.eu/resource/celex/32016R1426) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1426 DA COMISSÃO de 25 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1426) — L 231 — 34 — 26.8.2016
-- [►M194](http://publications.europa.eu/resource/celex/32016R1429) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1429 DA COMISSÃO de 26 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1429) — L 232 — 1 — 27.8.2016
-- [►M195](http://publications.europa.eu/resource/celex/32016R1978) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1978 DA COMISSÃO de 11 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R1978) — L 305 — 23 — 12.11.2016
-- [M196](http://publications.europa.eu/resource/celex/32016R2016) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2016 DA COMISSÃO de 17 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2016) — L 312 — 21 — 18.11.2016
-- [M197](http://publications.europa.eu/resource/celex/32016R2035) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2035 DA COMISSÃO de 21 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2035) — L 314 — 7 — 22.11.2016
-- [►M198](http://publications.europa.eu/resource/celex/32017R0157) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/157 DA COMISSÃO de 30 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0157) — L 25 — 5 — 31.1.2017
-- [M199](http://publications.europa.eu/resource/celex/32017R0195) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/195 DA COMISSÃO de 3 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0195) — L 31 — 21 — 4.2.2017
-- [►M200](http://publications.europa.eu/resource/celex/32017R0239) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/239 DA COMISSÃO de 10 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0239) — L 36 — 39 — 11.2.2017
-- [►M201](http://publications.europa.eu/resource/celex/32017R0244) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/244 DA COMISSÃO de 10 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0244) — L 36 — 54 — 11.2.2017
-- [►M202](http://publications.europa.eu/resource/celex/32017R0270) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/270 DA COMISSÃO de 16 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0270) — L 40 — 48 — 17.2.2017
-- [►M203](http://publications.europa.eu/resource/celex/32017R0359) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/359 DA COMISSÃO de 28 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0359) — L 54 — 8 — 1.3.2017
-- [►M204](http://publications.europa.eu/resource/celex/32017R0360) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/360 DA COMISSÃO de 28 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0360) — L 54 — 11 — 1.3.2017
-- [►M205](http://publications.europa.eu/resource/celex/32017R0375) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/375 DA COMISSÃO de 2 de março de 2017](http://publications.europa.eu/resource/celex/32017R0375) — L 58 — 3 — 4.3.2017
-- [►M206](http://publications.europa.eu/resource/celex/32017R0406) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/406 DA COMISSÃO de 8 de março de 2017](http://publications.europa.eu/resource/celex/32017R0406) — L 63 — 83 — 9.3.2017
-- [►M207](http://publications.europa.eu/resource/celex/32017R0407) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/407 DA COMISSÃO de 8 de março de 2017](http://publications.europa.eu/resource/celex/32017R0407) — L 63 — 87 — 9.3.2017
-- [►M208](http://publications.europa.eu/resource/celex/32017R0408) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/408 DA COMISSÃO de 8 de março de 2017](http://publications.europa.eu/resource/celex/32017R0408) — L 63 — 91 — 9.3.2017
-- [►M209](http://publications.europa.eu/resource/celex/32017R0409) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/409 DA COMISSÃO de 8 de março de 2017](http://publications.europa.eu/resource/celex/32017R0409) — L 63 — 95 — 9.3.2017
-- [►M210](http://publications.europa.eu/resource/celex/32017R0419) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/419 DA COMISSÃO de 9 de março de 2017](http://publications.europa.eu/resource/celex/32017R0419) — L 64 — 4 — 10.3.2017
-- [►M211](http://publications.europa.eu/resource/celex/32017R0428) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/428 DA COMISSÃO de 10 de março de 2017](http://publications.europa.eu/resource/celex/32017R0428) — L 66 — 1 — 11.3.2017
-- [M212](http://publications.europa.eu/resource/celex/32017R0438) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/438 DA COMISSÃO de 13 de março de 2017](http://publications.europa.eu/resource/celex/32017R0438) — L 67 — 67 — 14.3.2017
-- [►M213](http://publications.europa.eu/resource/celex/32017R0555) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/555 DA COMISSÃO de 24 de março de 2017](http://publications.europa.eu/resource/celex/32017R0555) — L 80 — 1 — 25.3.2017
-- [►M214](http://publications.europa.eu/resource/celex/32017R0725) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/725 DA COMISSÃO de 24 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0725) — L 107 — 24 — 25.4.2017
-- [►M215](http://publications.europa.eu/resource/celex/32017R0753) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/753 DA COMISSÃO de 28 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0753) — L 113 — 24 — 29.4.2017
-- [►M216](http://publications.europa.eu/resource/celex/32017R0755) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/755 DA COMISSÃO de 28 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0755) — L 113 — 35 — 29.4.2017
-- [►M217](http://publications.europa.eu/resource/celex/32017R0781) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/781 DA COMISSÃO de 5 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0781) — L 118 — 1 — 6.5.2017
-- [►M218](http://publications.europa.eu/resource/celex/32017R0805) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/805 DA COMISSÃO de 11 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0805) — L 121 — 26 — 12.5.2017
-- [►M219](http://publications.europa.eu/resource/celex/32017R0806) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/806 DA COMISSÃO de 11 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0806) — L 121 — 31 — 12.5.2017
-- [►M220](http://publications.europa.eu/resource/celex/32017R0831) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/831 DA COMISSÃO de 16 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0831) — L 124 — 27 — 17.5.2017
-- [M221](http://publications.europa.eu/resource/celex/32017R0841) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/841 DA COMISSÃO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0841) — L 125 — 12 — 18.5.2017
-- [►M222](http://publications.europa.eu/resource/celex/32017R0842) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/842 DA COMISSÃO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0842) — L 125 — 16 — 18.5.2017
-- [►M223](http://publications.europa.eu/resource/celex/32017R0843) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/843 DA COMISSÃO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0843) — L 125 — 21 — 18.5.2017
-- [M224](http://publications.europa.eu/resource/celex/32017R0855) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/855 DA COMISSÃO de 18 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0855) — L 128 — 10 — 19.5.2017
-- [►M225](http://publications.europa.eu/resource/celex/32017R0856) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/856 DA COMISSÃO de 18 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0856) — L 128 — 14 — 19.5.2017
-- [►M226](http://publications.europa.eu/resource/celex/32017R1113) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1113 DA COMISSÃO de 22 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1113) — L 162 — 27 — 23.6.2017
-- [►M227](http://publications.europa.eu/resource/celex/32017R1114) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1114 DA COMISSÃO de 22 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1114) — L 162 — 32 — 23.6.2017
-- [►M228](http://publications.europa.eu/resource/celex/32017R1115) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1115 DA COMISSÃO de 22 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1115) — L 162 — 38 — 23.6.2017
-- [►M229](http://publications.europa.eu/resource/celex/32017R1125) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1125 DA COMISSÃO de 22 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1125) — L 163 — 10 — 24.6.2017
-- [►M230](http://publications.europa.eu/resource/celex/32017R1186) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1186 DA COMISSÃO de 3 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1186) — L 171 — 131 — 4.7.2017
-- [►M231](http://publications.europa.eu/resource/celex/32017R1455) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1455 DA COMISSÃO de 10 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1455) — L 208 — 28 — 11.8.2017
-- [►M232](http://publications.europa.eu/resource/celex/32017R1491) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1491 DA COMISSÃO de 21 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1491) — L 216 — 15 — 22.8.2017
-- [►M233](http://publications.europa.eu/resource/celex/32017R1496) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1496 DA COMISSÃO de 23 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1496) — L 218 — 7 — 24.8.2017
-- [►M234](http://publications.europa.eu/resource/celex/32017R1506) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1506 DA COMISSÃO de 28 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1506) — L 222 — 21 — 29.8.2017
-- [M235](http://publications.europa.eu/resource/celex/32017R1511) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1511 DA COMISSÃO de 30 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1511) — L 224 — 115 — 31.8.2017
-- [M236](http://publications.europa.eu/resource/celex/32017R1527) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1527 DA COMISSÃO de 6 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R1527) — L 231 — 3 — 7.9.2017
-- [►M237](http://publications.europa.eu/resource/celex/32017R1529) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1529 DA COMISSÃO de 7 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R1529) — L 232 — 1 — 8.9.2017
-- [M238](http://publications.europa.eu/resource/celex/32017R1530) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1530 DA COMISSÃO de 7 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R1530) — L 232 — 4 — 8.9.2017
-- [►M239](http://publications.europa.eu/resource/celex/32017R1531) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1531 DA COMISSÃO de 7 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R1531) — L 232 — 6 — 8.9.2017
-- [►M240](http://publications.europa.eu/resource/celex/32017R2066) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2066 DA COMISSÃO de 13 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2066) — L 295 — 43 — 14.11.2017
-- [M241](http://publications.europa.eu/resource/celex/32017R2069) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2069 DA COMISSÃO de 13 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2069) — L 295 — 51 — 14.11.2017
-- [►M242](http://publications.europa.eu/resource/celex/32017R2090) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2090 DA COMISSÃO de 14 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2090) — L 297 — 22 — 15.11.2017
-- [►M243](http://publications.europa.eu/resource/celex/32017R2091) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2091 DA COMISSÃO de 14 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2091) — L 297 — 25 — 15.11.2017
-- [►M244](http://publications.europa.eu/resource/celex/32017R2324) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2324 DA COMISSÃO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2324) — L 333 — 10 — 15.12.2017
-- [M245](http://publications.europa.eu/resource/celex/32018R0084) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/84 DA COMISSÃO de 19 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0084) — L 16 — 8 — 20.1.2018
-- [►M246](http://publications.europa.eu/resource/celex/32018R0112) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/112 DA COMISSÃO de 24 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0112) — L 20 — 3 — 25.1.2018
-- [►M247](http://publications.europa.eu/resource/celex/32018R0113) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/113 DA COMISSÃO de 24 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0113) — L 20 — 7 — 25.1.2018
-- [M248](http://publications.europa.eu/resource/celex/32018R0184) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/184 DA COMISSÃO de 7 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0184) — L 34 — 10 — 8.2.2018
-- [►M249](http://publications.europa.eu/resource/celex/32018R0185) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/185 DA COMISSÃO de 7 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0185) — L 34 — 13 — 8.2.2018
-- [M250](http://publications.europa.eu/resource/celex/32018R0291) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/291 DA COMISSÃO de 26 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0291) — L 55 — 30 — 27.2.2018
-- [►M251](http://publications.europa.eu/resource/celex/32018R0309) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/309 DA COMISSÃO de 1 de março de 2018](http://publications.europa.eu/resource/celex/32018R0309) — L 60 — 16 — 2.3.2018
-- [M252](http://publications.europa.eu/resource/celex/32018R0524) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/524 DA COMISSÃO de 28 de março de 2018](http://publications.europa.eu/resource/celex/32018R0524) — L 88 — 4 — 4.4.2018
-- [►M253](http://publications.europa.eu/resource/celex/32018R0660) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/660 DA COMISSÃO de 26 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0660) — L 110 — 122 — 30.4.2018
-- [M254](http://publications.europa.eu/resource/celex/32018R0670) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/670 DA COMISSÃO de 30 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0670) — L 113 — 1 — 3.5.2018
-- [►M255](http://publications.europa.eu/resource/celex/32018R0679) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/679 DA COMISSÃO de 3 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0679) — L 114 — 18 — 4.5.2018
-- [►M256](http://publications.europa.eu/resource/celex/32018R0690) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/690 DA COMISSÃO de 7 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0690) — L 117 — 3 — 8.5.2018
-- [►M257](http://publications.europa.eu/resource/celex/32018R0691) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/691 DA COMISSÃO de 7 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0691) — L 117 — 6 — 8.5.2018
-- [►M258](http://publications.europa.eu/resource/celex/32018R0692) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/692 DA COMISSÃO de 7 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0692) — L 117 — 9 — 8.5.2018
-- [►M259](http://publications.europa.eu/resource/celex/32018R0710) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/710 DA COMISSÃO de 14 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0710) — L 119 — 31 — 15.5.2018
-- [►M260](http://publications.europa.eu/resource/celex/32018R0755) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/755 DA COMISSÃO de 23 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0755) — L 128 — 4 — 24.5.2018
-- [M261](http://publications.europa.eu/resource/celex/32018R0783) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/783 DA COMISSÃO de 29 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0783) — L 132 — 31 — 30.5.2018
-- [M262](http://publications.europa.eu/resource/celex/32018R0784) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/784 DA COMISSÃO de 29 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0784) — L 132 — 35 — 30.5.2018
-- [M263](http://publications.europa.eu/resource/celex/32018R0785) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/785 DA COMISSÃO de 29 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0785) — L 132 — 40 — 30.5.2018
-- [M264](http://publications.europa.eu/resource/celex/32018R0917) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/917 DA COMISSÃO de 27 de junho de 2018](http://publications.europa.eu/resource/celex/32018R0917) — L 163 — 13 — 28.6.2018
-- [►M265](http://publications.europa.eu/resource/celex/32018R1019) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1019 DA COMISSÃO de 18 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1019) — L 183 — 14 — 19.7.2018
-- [►M266](http://publications.europa.eu/resource/celex/32018R1043) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1043 DA COMISSÃO de 24 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1043) — L 188 — 9 — 25.7.2018
-- [►M267](http://publications.europa.eu/resource/celex/32018R1060) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1060 DA COMISSÃO de 26 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1060) — L 190 — 3 — 27.7.2018
-- [►M268](http://publications.europa.eu/resource/celex/32018R1061) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1061 DA COMISSÃO de 26 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1061) — L 190 — 8 — 27.7.2018
-- [►M269](http://publications.europa.eu/resource/celex/32018R1075) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1075 DA COMISSÃO de 27 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1075) — L 194 — 36 — 31.7.2018
-- [M270](http://publications.europa.eu/resource/celex/32018R1260) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1260 DA COMISSÃO de 20 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1260) — L 238 — 30 — 21.9.2018
-- [M271](http://publications.europa.eu/resource/celex/32018R1262) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1262 DA COMISSÃO de 20 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1262) — L 238 — 62 — 21.9.2018
-- [►M272](http://publications.europa.eu/resource/celex/32018R1264) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1264 DA COMISSÃO de 20 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1264) — L 238 — 71 — 21.9.2018
-- [►M273](http://publications.europa.eu/resource/celex/32018R1265) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1265 DA COMISSÃO de 20 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1265) — L 238 — 77 — 21.9.2018
-- [M274](http://publications.europa.eu/resource/celex/32018R1266) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1266 DA COMISSÃO de 20 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1266) — L 238 — 81 — 21.9.2018
-- [►M275](http://publications.europa.eu/resource/celex/32018R1278) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1278 DA COMISSÃO de 21 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1278) — L 239 — 4 — 24.9.2018
-- [►M276](http://publications.europa.eu/resource/celex/32018R1295) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1295 DA COMISSÃO de 26 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1295) — L 243 — 7 — 27.9.2018
-- [►M277](http://publications.europa.eu/resource/celex/32018R1495) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1495 DA COMISSÃO de 8 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1495) — L 253 — 1 — 9.10.2018
-- [►M278](http://publications.europa.eu/resource/celex/32018R1500) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1500 DA COMISSÃO de 9 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1500) — L 254 — 1 — 10.10.2018
-- [►M279](http://publications.europa.eu/resource/celex/32018R1501) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1501 DA COMISSÃO de 9 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1501) — L 254 — 4 — 10.10.2018
-- [►M280](http://publications.europa.eu/resource/celex/32018R1532) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1532 DA COMISSÃO de 12 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1532) — L 257 — 10 — 15.10.2018
-- [M281](http://publications.europa.eu/resource/celex/32018R1796) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1796 DA COMISSÃO de 20 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1796) — L 294 — 15 — 21.11.2018
-- [►M282](http://publications.europa.eu/resource/celex/32018R1865) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1865 DA COMISSÃO de 28 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1865) — L 304 — 6 — 29.11.2018
-- [►M283](http://publications.europa.eu/resource/celex/32018R1913) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1913 DA COMISSÃO de 6 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1913) — L 311 — 13 — 7.12.2018
-- [►M284](http://publications.europa.eu/resource/celex/32018R1914) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1914 DA COMISSÃO de 6 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1914) — L 311 — 17 — 7.12.2018
-- [►M285](http://publications.europa.eu/resource/celex/32018R1915) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1915 DA COMISSÃO de 6 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1915) — L 311 — 20 — 7.12.2018
-- [M286](http://publications.europa.eu/resource/celex/32018R1916) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1916 DA COMISSÃO de 6 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1916) — L 311 — 24 — 7.12.2018
-- [►M287](http://publications.europa.eu/resource/celex/32018R1917) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1917 DA COMISSÃO de 6 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1917) — L 311 — 27 — 7.12.2018
-- [►M288](http://publications.europa.eu/resource/celex/32018R1981) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1981 DA COMISSÃO de 13 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1981) — L 317 — 16 — 14.12.2018
-- [►M289](http://publications.europa.eu/resource/celex/32019R0139) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/139 DA COMISSÃO de 29 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0139) — L 26 — 4 — 30.1.2019
-- [►M290](http://publications.europa.eu/resource/celex/32019R0147) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/147 DA COMISSÃO de 30 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0147) — L 27 — 14 — 31.1.2019
-- [►M291](http://publications.europa.eu/resource/celex/32019R0149) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/149 DA COMISSÃO de 30 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0149) — L 27 — 20 — 31.1.2019
-- [►M292](http://publications.europa.eu/resource/celex/32019R0151) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/151 DA COMISSÃO de 30 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0151) — L 27 — 26 — 31.1.2019
-- [►M293](http://publications.europa.eu/resource/celex/32019R0158) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/158 DA COMISSÃO de 31 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0158) — L 31 — 21 — 1.2.2019
-- [M294](http://publications.europa.eu/resource/celex/32019R0168) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/168 DA COMISSÃO de 31 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0168) — L 33 — 1 — 5.2.2019
-- [M295](http://publications.europa.eu/resource/celex/32019R0291) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/291 DA COMISSÃO de 19 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0291) — L 48 — 17 — 20.2.2019
-- [M296](http://publications.europa.eu/resource/celex/32019R0324) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/324 DA COMISSÃO de 25 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0324) — L 57 — 1 — 26.2.2019
-- [►M297](http://publications.europa.eu/resource/celex/32019R0337) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/337 DA COMISSÃO de 27 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0337) — L 60 — 12 — 28.2.2019
-- [►M298](http://publications.europa.eu/resource/celex/32019R0344) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/344 DA COMISSÃO de 28 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0344) — L 62 — 7 — 1.3.2019
-- [►M299](http://publications.europa.eu/resource/celex/32019R0481) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/481 DA COMISSÃO de 22 de março de 2019](http://publications.europa.eu/resource/celex/32019R0481) — L 82 — 19 — 25.3.2019
-- [►M300](http://publications.europa.eu/resource/celex/32019R0676) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/676 DA COMISSÃO de 29 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0676) — L 114 — 12 — 30.4.2019
-- [►M301](http://publications.europa.eu/resource/celex/32019R0677) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/677 DA COMISSÃO de 29 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0677) — L 114 — 15 — 30.4.2019
-- [►M302](http://publications.europa.eu/resource/celex/32019R0706) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/706 DA COMISSÃO de 7 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0706) — L 120 — 11 — 8.5.2019
-- [M303](http://publications.europa.eu/resource/celex/32019R0707) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/707 DA COMISSÃO de 7 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0707) — L 120 — 16 — 8.5.2019
-- [►M304](http://publications.europa.eu/resource/celex/32019R0716) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/716 DA COMISSÃO de 30 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0716) — L 122 — 39 — 10.5.2019
-- [►M305](http://publications.europa.eu/resource/celex/32019R0717) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/717 DA COMISSÃO de 8 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0717) — L 122 — 44 — 10.5.2019
-- [►M306](http://publications.europa.eu/resource/celex/32019R0989) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/989 DA COMISSÃO de 17 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0989) — L 160 — 11 — 18.6.2019
-- [►M307](http://publications.europa.eu/resource/celex/32019R1085) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1085 DA COMISSÃO de 25 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1085) — L 171 — 110 — 26.6.2019
-- [►M308](http://publications.europa.eu/resource/celex/32019R1090) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1090 DA COMISSÃO de 26 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1090) — L 173 — 39 — 27.6.2019
-- [►M309](http://publications.europa.eu/resource/celex/32019R1100) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1100 DA COMISSÃO de 27 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1100) — L 175 — 17 — 28.6.2019
-- [►M310](http://publications.europa.eu/resource/celex/32019R1101) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1101 DA COMISSÃO de 27 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1101) — L 175 — 20 — 28.6.2019
-- [►M311](http://publications.europa.eu/resource/celex/32019R1137) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1137 DA COMISSÃO de 3 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1137) — L 180 — 3 — 4.7.2019
-- [►M312](http://publications.europa.eu/resource/celex/32019R1138) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1138 DA COMISSÃO de 3 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1138) — L 180 — 8 — 4.7.2019
-- [M313](http://publications.europa.eu/resource/celex/32019R1589) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1589 DA COMISSÃO de 26 de setembro de 2019](http://publications.europa.eu/resource/celex/32019R1589) — L 248 — 24 — 27.9.2019
-- [►M314](http://publications.europa.eu/resource/celex/32019R1605) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1605 DA COMISSÃO de 27 de setembro de 2019](http://publications.europa.eu/resource/celex/32019R1605) — L 250 — 49 — 30.9.2019
-- [►M315](http://publications.europa.eu/resource/celex/32019R1606) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1606 DA COMISSÃO de 27 de setembro de 2019](http://publications.europa.eu/resource/celex/32019R1606) — L 250 — 53 — 30.9.2019
-- [►M316](http://publications.europa.eu/resource/celex/32019R1675) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1675 DA COMISSÃO de 4 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1675) — L 257 — 6 — 8.10.2019
-- [►M317](http://publications.europa.eu/resource/celex/32019R1690) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1690 DA COMISSÃO de 9 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1690) — L 259 — 2 — 10.10.2019
-- [M318](http://publications.europa.eu/resource/celex/32019R2094) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/2094 DA COMISSÃO de 29 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2094) — L 317 — 102 — 9.12.2019
-- [►M319](http://publications.europa.eu/resource/celex/32020R0017) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/17 DA COMISSÃO de 10 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0017) — L 7 — 11 — 13.1.2020
-- [►M320](http://publications.europa.eu/resource/celex/32020R0018) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/18 DA COMISSÃO de 10 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0018) — L 7 — 14 — 13.1.2020
-- [►M321](http://publications.europa.eu/resource/celex/32020R0023) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/23 DA COMISSÃO de 13 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0023) — L 8 — 8 — 14.1.2020
-- [M322](http://publications.europa.eu/resource/celex/32020R0421) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/421 DA COMISSÃO de 18 de março de 2020](http://publications.europa.eu/resource/celex/32020R0421) — L 84 — 7 — 20.3.2020
-- [►M323](http://publications.europa.eu/resource/celex/32020R0616) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/616 DA COMISSÃO de 5 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0616) — L 143 — 1 — 6.5.2020
-- [►M324](http://publications.europa.eu/resource/celex/32020R0617) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/617 DA COMISSÃO de 5 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0617) — L 143 — 6 — 6.5.2020
-- [►M325](http://publications.europa.eu/resource/celex/32020R0642) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/642 DA COMISSÃO de 12 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0642) — L 150 — 134 — 13.5.2020
-- [►M326](http://publications.europa.eu/resource/celex/32020R0646) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/646 DA COMISSÃO de 13 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0646) — L 151 — 3 — 14.5.2020
-- [►M327](http://publications.europa.eu/resource/celex/32020R0653) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/653 DA COMISSÃO de 14 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0653) — L 152 — 1 — 15.5.2020
-- [M328](http://publications.europa.eu/resource/celex/32020R0869) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/869 DA COMISSÃO de 24 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0869) — L 201 — 7 — 25.6.2020
-- [►M329](http://publications.europa.eu/resource/celex/32020R0892) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/892 DA COMISSÃO de 29 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0892) — L 206 — 5 — 30.6.2020
-- [►M330](http://publications.europa.eu/resource/celex/32020R0968) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/968 DA COMISSÃO de 3 de julho de 2020](http://publications.europa.eu/resource/celex/32020R0968) — L 213 — 7 — 6.7.2020
-- [►M331](http://publications.europa.eu/resource/celex/32020R1003) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1003 DA COMISSÃO de 9 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1003) — L 221 — 127 — 10.7.2020
-- [►M332](http://publications.europa.eu/resource/celex/32020R1004) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1004 DA COMISSÃO de 9 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1004) — L 221 — 133 — 10.7.2020
-- [►M333](http://publications.europa.eu/resource/celex/32020R1018) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1018 DA COMISSÃO de 13 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1018) — L 225 — 9 — 14.7.2020
-- [M334](http://publications.europa.eu/resource/celex/32020R1160) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1160 DA COMISSÃO de 5 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1160) — L 257 — 29 — 6.8.2020
-- [►M335](http://publications.europa.eu/resource/celex/32020R1246) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1246 DA COMISSÃO de 2 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1246) — L 288 — 18 — 3.9.2020
-- [►M336](http://publications.europa.eu/resource/celex/32020R1263) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1263 DA COMISSÃO de 10 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1263) — L 297 — 1 — 11.9.2020
-- [►M337](http://publications.europa.eu/resource/celex/32020R1276) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1276 DA COMISSÃO de 11 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1276) — L 300 — 32 — 14.9.2020
-- [►M338](http://publications.europa.eu/resource/celex/32020R1280) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1280 DA COMISSÃO de 14 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1280) — L 301 — 4 — 15.9.2020
-- [►M339](http://publications.europa.eu/resource/celex/32020R1293) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1293 DA COMISSÃO de 15 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1293) — L 302 — 24 — 16.9.2020
-- [►M340](http://publications.europa.eu/resource/celex/32020R1498) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1498 DA COMISSÃO de 15 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1498) — L 342 — 5 — 16.10.2020
-- [M341](http://publications.europa.eu/resource/celex/32020R1511) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1511 DA COMISSÃO de 16 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1511) — L 344 — 18 — 19.10.2020
-- [M342](http://publications.europa.eu/resource/celex/32020R1643) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1643 DA COMISSÃO de 5 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1643) — L 370 — 18 — 6.11.2020
-- [M343](http://publications.europa.eu/resource/celex/32020R2007) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2007 DA COMISSÃO de 8 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2007) — L 414 — 10 — 9.12.2020
-- [►M344](http://publications.europa.eu/resource/celex/32020R2087) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2087 DA COMISSÃO de 14 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2087) — L 423 — 50 — 15.12.2020
-- [►M345](http://publications.europa.eu/resource/celex/32020R2101) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2101 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2101) — L 425 — 79 — 16.12.2020
-- [M346](http://publications.europa.eu/resource/celex/32020R2104) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2104 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2104) — L 425 — 93 — 16.12.2020
-- [►M347](http://publications.europa.eu/resource/celex/32020R2105) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2105 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2105) — L 425 — 96 — 16.12.2020
-- [M348](http://publications.europa.eu/resource/celex/32021R0052) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/52 DA COMISSÃO de 22 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0052) — L 23 — 13 — 25.1.2021
-- [►M349](http://publications.europa.eu/resource/celex/32021R0081) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/81 DA COMISSÃO de 27 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0081) — L 29 — 12 — 28.1.2021
-- [►M350](http://publications.europa.eu/resource/celex/32021R0129) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/129 DA COMISSÃO de 3 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0129) — L 40 — 11 — 4.2.2021
-- [►M351](http://publications.europa.eu/resource/celex/32021R0134) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/134 DA COMISSÃO de 4 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0134) — L 42 — 4 — 5.2.2021
-- [►M352](http://publications.europa.eu/resource/celex/32021R0413) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/413 DA COMISSÃO de 8 de março de 2021](http://publications.europa.eu/resource/celex/32021R0413) — L 81 — 32 — 9.3.2021
-- [►M353](http://publications.europa.eu/resource/celex/32021R0427) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/427 DA COMISSÃO de 10 de março de 2021](http://publications.europa.eu/resource/celex/32021R0427) — L 84 — 21 — 11.3.2021
-- [M354](http://publications.europa.eu/resource/celex/32021R0459) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/459 DA COMISSÃO de 16 de março de 2021](http://publications.europa.eu/resource/celex/32021R0459) — L 91 — 4 — 17.3.2021
-- [►M355](http://publications.europa.eu/resource/celex/32021R0556) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/556 DA COMISSÃO de 31 de março de 2021](http://publications.europa.eu/resource/celex/32021R0556) — L 115 — 26 — 6.4.2021
-- [M356](http://publications.europa.eu/resource/celex/32021R0566) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/566 DA COMISSÃO de 30 de março de 2021](http://publications.europa.eu/resource/celex/32021R0566) — L 118 — 1 — 7.4.2021
-- [►M357](http://publications.europa.eu/resource/celex/32021R0567) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/567 DA COMISSÃO de 6 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0567) — L 118 — 6 — 7.4.2021
-- [►M358](http://publications.europa.eu/resource/celex/32021R0574) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/574 DA COMISSÃO de 30 de março de 2021](http://publications.europa.eu/resource/celex/32021R0574) — L 120 — 9 — 8.4.2021
-- [M359](http://publications.europa.eu/resource/celex/32021R0726) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/726 DA COMISSÃO de 4 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0726) — L 155 — 20 — 5.5.2021
-- [M360](http://publications.europa.eu/resource/celex/32021R0745) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/745 DA COMISSÃO de 6 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0745) — L 160 — 89 — 7.5.2021
-- [►M361](http://publications.europa.eu/resource/celex/32021R0795) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/795 DA COMISSÃO de 17 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0795) — L 174 — 2 — 18.5.2021
-- [►M362](http://publications.europa.eu/resource/celex/32021R0824) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/824 DA COMISSÃO de 21 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0824) — L 183 — 35 — 25.5.2021
-- [►M363](http://publications.europa.eu/resource/celex/32021R0843) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/843 DA COMISSÃO de 26 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0843) — L 186 — 20 — 27.5.2021
-- [►M364](http://publications.europa.eu/resource/celex/32021R0853) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/853 DA COMISSÃO de 27 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0853) — L 188 — 56 — 28.5.2021
-- [►M365](http://publications.europa.eu/resource/celex/32021R0917) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/917 DA COMISSÃO de 7 de junho de 2021](http://publications.europa.eu/resource/celex/32021R0917) — L 201 — 19 — 8.6.2021
-- [►M366](http://publications.europa.eu/resource/celex/32021R1191) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1191 DA COMISSÃO de 19 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1191) — L 258 — 37 — 20.7.2021
-- [►M367](http://publications.europa.eu/resource/celex/32021R1379) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1379 DA COMISSÃO de 19 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1379) — L 297 — 32 — 20.8.2021
-- [►M368](http://publications.europa.eu/resource/celex/32021R1446) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1446 DA COMISSÃO de 3 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1446) — L 313 — 9 — 6.9.2021
-- [►M369](http://publications.europa.eu/resource/celex/32021R1448) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1448 DA COMISSÃO de 3 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1448) — L 313 — 15 — 6.9.2021
-- [M370](http://publications.europa.eu/resource/celex/32021R1449) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1449 DA COMISSÃO de 3 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1449) — L 313 — 20 — 6.9.2021
-- [M371](http://publications.europa.eu/resource/celex/32021R1450) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1450 DA COMISSÃO de 3 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1450) — L 313 — 25 — 6.9.2021
-- [►M372](http://publications.europa.eu/resource/celex/32021R1452) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1452 DA COMISSÃO de 3 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1452) — L 313 — 30 — 6.9.2021
-- [►M373](http://publications.europa.eu/resource/celex/32021R1455) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1455 DA COMISSÃO de 6 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1455) — L 315 — 1 — 7.9.2021
-- [►M374](http://publications.europa.eu/resource/celex/32021R2049) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2049 DA COMISSÃO de 24 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2049) — L 420 — 6 — 25.11.2021
-- [M375](http://publications.europa.eu/resource/celex/32021R2068) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2068 DA COMISSÃO de 25 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2068) — L 421 — 25 — 26.11.2021
-- [►M376](http://publications.europa.eu/resource/celex/32021R2081) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2081 DA COMISSÃO de 26 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2081) — L 426 — 28 — 29.11.2021
-- [►M377](http://publications.europa.eu/resource/celex/32022R0004) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/4 DA COMISSÃO de 4 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0004) — L 1 — 5 — 5.1.2022
-- [►M378](http://publications.europa.eu/resource/celex/32022R0019) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/19 DA COMISSÃO de 7 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0019) — L 5 — 9 — 10.1.2022
-- [►M379](http://publications.europa.eu/resource/celex/32022R0043) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/43 DA COMISSÃO de 13 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0043) — L 9 — 7 — 14.1.2022
-- [►M380](http://publications.europa.eu/resource/celex/32022R0094) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/94 DA COMISSÃO de 24 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0094) — L 16 — 33 — 25.1.2022
-- [►M381](http://publications.europa.eu/resource/celex/32022R0159) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/159 DA COMISSÃO de 4 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0159) — L 26 — 7 — 7.2.2022
-- [M382](http://publications.europa.eu/resource/celex/32022R0378) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/378 DA COMISSÃO de 4 de março de 2022](http://publications.europa.eu/resource/celex/32022R0378) — L 72 — 2 — 7.3.2022
-- [►M383](http://publications.europa.eu/resource/celex/32022R0383) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/383 DA COMISSÃO de 4 de março de 2022](http://publications.europa.eu/resource/celex/32022R0383) — L 76 — 1 — 7.3.2022
-- [►M384](http://publications.europa.eu/resource/celex/32022R0437) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/437 DA COMISSÃO de 16 de março de 2022](http://publications.europa.eu/resource/celex/32022R0437) — L 89 — 3 — 17.3.2022
-- [►M385](http://publications.europa.eu/resource/celex/32022R0456) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/456 DA COMISSÃO de 21 de março de 2022](http://publications.europa.eu/resource/celex/32022R0456) — L 93 — 138 — 22.3.2022
-- [M386](http://publications.europa.eu/resource/celex/32022R0489) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/489 DA COMISSÃO de 25 de março de 2022](http://publications.europa.eu/resource/celex/32022R0489) — L 100 — 7 — 28.3.2022
-- [►M387](http://publications.europa.eu/resource/celex/32022R0496) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/496 DA COMISSÃO de 28 de março de 2022](http://publications.europa.eu/resource/celex/32022R0496) — L 101 — 1 — 29.3.2022
-- [►M388](http://publications.europa.eu/resource/celex/32022R0501) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/501 DA COMISSÃO de 25 de março de 2022](http://publications.europa.eu/resource/celex/32022R0501) — L 102 — 1 — 30.3.2022
-- [►M389](http://publications.europa.eu/resource/celex/32022R0686) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/686 DA COMISSÃO de 28 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0686) — L 126 — 18 — 29.4.2022
-- [►M390](http://publications.europa.eu/resource/celex/32022R0698) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/698 DA COMISSÃO de 3 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0698) — L 130 — 3 — 4.5.2022
-- [M391](http://publications.europa.eu/resource/celex/32022R0708) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/708 DA COMISSÃO de 5 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0708) — L 133 — 1 — 10.5.2022
-- [►M392](http://publications.europa.eu/resource/celex/32022R0782) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/782 DA COMISSÃO de 18 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0782) — L 140 — 3 — 19.5.2022
-- [►M393](http://publications.europa.eu/resource/celex/32022R0800) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/800 DA COMISSÃO de 20 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0800) — L 143 — 4 — 23.5.2022
-- [►M394](http://publications.europa.eu/resource/celex/32022R0801) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/801 DA COMISSÃO de 20 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0801) — L 143 — 7 — 23.5.2022
-- [M395](http://publications.europa.eu/resource/celex/32022R0808) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/808 DA COMISSÃO de 23 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0808) — L 145 — 37 — 24.5.2022
-- [M396](http://publications.europa.eu/resource/celex/32022R0814) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/814 DA COMISSÃO de 20 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0814) — L 146 — 6 — 25.5.2022
-- [►M397](http://publications.europa.eu/resource/celex/32022R1251) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1251 DA COMISSÃO de 19 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1251) — L 191 — 35 — 20.7.2022
-- [M398](http://publications.europa.eu/resource/celex/32022R1468) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1468 DA COMISSÃO de 5 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1468) — L 231 — 101 — 6.9.2022
-- [►M399](http://publications.europa.eu/resource/celex/32022R1474) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1474 DA COMISSÃO de 6 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1474) — L 232 — 3 — 7.9.2022
-- [►M400](http://publications.europa.eu/resource/celex/32022R1480) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1480 DA COMISSÃO de 7 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1480) — L 233 — 43 — 8.9.2022
-- [►M401](http://publications.europa.eu/resource/celex/32022R2305) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2305 DA COMISSÃO de 24 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2305) — L 305 — 53 — 25.11.2022
-- [►M402](http://publications.europa.eu/resource/celex/32022R2314) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2314 DA COMISSÃO de 25 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2314) — L 307 — 47 — 28.11.2022
-- [►M403](http://publications.europa.eu/resource/celex/32022R2315) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2315 DA COMISSÃO de 25 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2315) — L 307 — 52 — 28.11.2022
-- [M404](http://publications.europa.eu/resource/celex/32022R2364) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2364 DA COMISSÃO de 2 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2364) — L 312 — 99 — 5.12.2022
-- [M405](http://publications.europa.eu/resource/celex/32023R0114) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/114 DA COMISSÃO de 16 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0114) — L 15 — 9 — 17.1.2023
-- [M406](http://publications.europa.eu/resource/celex/32023R0115) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/115 DA COMISSÃO de 16 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0115) — L 15 — 13 — 17.1.2023
-- [M407](http://publications.europa.eu/resource/celex/32023R0116) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/116 DA COMISSÃO de 16 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0116) — L 15 — 15 — 17.1.2023
-- [►M408](http://publications.europa.eu/resource/celex/32023R0149) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/149 DA COMISSÃO de 20 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0149) — L 20 — 30 — 23.1.2023
-- [►M409](http://publications.europa.eu/resource/celex/32023R0199) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/199 DA COMISSÃO de 30 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0199) — L 27 — 22 — 31.1.2023
-- [►M410](http://publications.europa.eu/resource/celex/32023R0216) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/216 DA COMISSÃO de 1 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0216) — L 30 — 7 — 2.2.2023
-- [►M411](http://publications.europa.eu/resource/celex/32023R0223) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/223 DA COMISSÃO de 27 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0223) — L 32 — 5 — 3.2.2023
-- [►M412](http://publications.europa.eu/resource/celex/32023R0515) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/515 DA COMISSÃO de 8 de março de 2023](http://publications.europa.eu/resource/celex/32023R0515) — L 71 — 22 — 9.3.2023
-- [M413](http://publications.europa.eu/resource/celex/32023R0689) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/689 DA COMISSÃO de 20 de março de 2023](http://publications.europa.eu/resource/celex/32023R0689) — L 91 — 1 — 29.3.2023
-- [►M414](http://publications.europa.eu/resource/celex/32023R0741) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/741 DA COMISSÃO de 5 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0741) — L 98 — 1 — 11.4.2023
-- [►M415](http://publications.europa.eu/resource/celex/32023R0918) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/918 DA COMISSÃO de 4 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0918) — L 119 — 160 — 5.5.2023
-- [M416](http://publications.europa.eu/resource/celex/32023R0932) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/932 DA COMISSÃO de 8 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0932) — L 124 — 4 — 10.5.2023
-- [►M417](http://publications.europa.eu/resource/celex/32023R0939) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/939 DA COMISSÃO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0939) — L 125 — 19 — 11.5.2023
-- [►M418](http://publications.europa.eu/resource/celex/32023R0962) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/962 DA COMISSÃO de 15 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0962) — L 129 — 8 — 16.5.2023
-- [►M419](http://publications.europa.eu/resource/celex/32023R0998) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/998 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0998) — L 136 — 4 — 24.5.2023
-- [►M420](http://publications.europa.eu/resource/celex/32023R0999) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/999 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0999) — L 136 — 11 — 24.5.2023
-- [►M421](http://publications.europa.eu/resource/celex/32023R1000) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1000 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1000) — L 136 — 16 — 24.5.2023
-- [►M422](http://publications.europa.eu/resource/celex/32023R1001) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1001 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1001) — L 136 — 23 — 24.5.2023
-- [►M423](http://publications.europa.eu/resource/celex/32023R1002) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1002 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1002) — L 136 — 28 — 24.5.2023
-- [►M424](http://publications.europa.eu/resource/celex/32023R1003) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1003 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1003) — L 136 — 35 — 24.5.2023
-- [►M425](http://publications.europa.eu/resource/celex/32023R1004) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1004 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1004) — L 136 — 42 — 24.5.2023
-- [►M426](http://publications.europa.eu/resource/celex/32023R1005) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1005 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1005) — L 136 — 49 — 24.5.2023
-- [►M427](http://publications.europa.eu/resource/celex/32023R1021) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1021 DA COMISSÃO de 24 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1021) — L 137 — 16 — 25.5.2023
-- [►M428](http://publications.europa.eu/resource/celex/32023R1436) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1436 DA COMISSÃO de 10 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1436) — L 176 — 10 — 11.7.2023
-- [►M429](http://publications.europa.eu/resource/celex/32023R1446) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1446 DA COMISSÃO de 12 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1446) — L 178 — 1 — 13.7.2023
-- [M430](http://publications.europa.eu/resource/celex/32023R1447) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1447 DA COMISSÃO de 12 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1447) — L 178 — 7 — 13.7.2023
-- [►M431](http://publications.europa.eu/resource/celex/32023R1488) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1488 DA COMISSÃO de 6 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1488) — L 183 — 1 — 20.7.2023
-- [►M432](http://publications.europa.eu/resource/celex/32023R1755) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1755 DA COMISSÃO de 11 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1755) — L 224 — 18 — 12.9.2023
-- [►M433](http://publications.europa.eu/resource/celex/32023R1756) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1756 DA COMISSÃO de 11 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1756) — L 224 — 23 — 12.9.2023
-- [►M434](http://publications.europa.eu/resource/celex/32023R1757) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1757 DA COMISSÃO de 11 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1757) — L 224 — 28 — 12.9.2023
-- [►M435](http://publications.europa.eu/resource/celex/32023R2455) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2455 DA COMISSÃO de 7 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2455) — L 2455 — 1 — 8.11.2023
-- [►M436](http://publications.europa.eu/resource/celex/32023R2456) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2456 DA COMISSÃO de 7 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2456) — L 2456 — 1 — 8.11.2023
-- [►M437](http://publications.europa.eu/resource/celex/32023R2513) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2513 DA COMISSÃO de 16 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2513) — L 2513 — 1 — 17.11.2023
-- [►M438](http://publications.europa.eu/resource/celex/32023R2589) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2589 DA COMISSÃO de 21 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2589) — L 2589 — 1 — 22.11.2023
-- [►M439](http://publications.europa.eu/resource/celex/32023R2591) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2591 DA COMISSÃO de 21 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2591) — L 2591 — 1 — 22.11.2023
-- [►M440](http://publications.europa.eu/resource/celex/32023R2592) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2592 DA COMISSÃO de 21 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2592) — L 2592 — 1 — 22.11.2023
-- [►M441](http://publications.europa.eu/resource/celex/32023R2657) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2657 DA COMISSÃO de 6 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2657) — L 2657 — 1 — 23.11.2023
-- [►M442](http://publications.europa.eu/resource/celex/32023R2660) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2660 DA COMISSÃO de 28 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2660) — L 2660 — 1 — 29.11.2023
-- [►M443](http://publications.europa.eu/resource/celex/32024R0020) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/20 DA COMISSÃO de 12 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R0020) — L 20 — 1 — 3.1.2024
-- [►M444](http://publications.europa.eu/resource/celex/32024R0324) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/324 DA COMISSÃO de 19 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0324) — L 324 — 1 — 22.1.2024
-- [►M445](http://publications.europa.eu/resource/celex/32024R0821) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/821 DA COMISSÃO de 8 de março de 2024](http://publications.europa.eu/resource/celex/32024R0821) — L 821 — 1 — 11.3.2024
-- [►M446](http://publications.europa.eu/resource/celex/32024R0839) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/839 DA COMISSÃO de 8 de março de 2024](http://publications.europa.eu/resource/celex/32024R0839) — L 839 — 1 — 11.3.2024
-- [►M447](http://publications.europa.eu/resource/celex/32024R0835) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/835 DA COMISSÃO de 12 de março de 2024](http://publications.europa.eu/resource/celex/32024R0835) — L 835 — 1 — 13.3.2024
-- [►M448](http://publications.europa.eu/resource/celex/32024R0836) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/836 DA COMISSÃO de 12 de março de 2024](http://publications.europa.eu/resource/celex/32024R0836) — L 836 — 1 — 13.3.2024
-- [►M449](http://publications.europa.eu/resource/celex/32024R1206) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1206 DA COMISSÃO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1206) — L 1206 — 1 — 30.4.2024
-- [►M450](http://publications.europa.eu/resource/celex/32024R1207) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1207 DA COMISSÃO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1207) — L 1207 — 1 — 30.4.2024
-- [►M451](http://publications.europa.eu/resource/celex/32024R1217) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1217 DA COMISSÃO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1217) — L 1217 — 1 — 30.4.2024
-- [M452](http://publications.europa.eu/resource/celex/32024R1280) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1280 DA COMISSÃO de 30 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1280) — L 1280 — 1 — 3.5.2024
-- [►M453](http://publications.europa.eu/resource/celex/32024R1696) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1696 DA COMISSÃO de 19 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1696) — L 1696 — 1 — 20.6.2024
-- [M454](http://publications.europa.eu/resource/celex/32024R1718) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1718 DA COMISSÃO de 19 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1718) — L 1718 — 1 — 20.6.2024
-- [►M455](http://publications.europa.eu/resource/celex/32024R1749) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1749 DA COMISSÃO de 24 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1749) — L 1749 — 1 — 25.6.2024
-- [►M456](http://publications.europa.eu/resource/celex/32024R1768) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1768 DA COMISSÃO de 26 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1768) — L 1768 — 1 — 27.6.2024
-- [►M457](http://publications.europa.eu/resource/celex/32024R1892) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1892 DA COMISSÃO de 10 de julho de 2024](http://publications.europa.eu/resource/celex/32024R1892) — L 1892 — 1 — 11.7.2024
-- [►M458](http://publications.europa.eu/resource/celex/32024R2186) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2186 DA COMISSÃO de 3 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2186) — L 2186 — 1 — 4.9.2024
-- [►M459](http://publications.europa.eu/resource/celex/32024R2198) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2198 DA COMISSÃO de 4 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2198) — L 2198 — 1 — 5.9.2024
-- [►M460](http://publications.europa.eu/resource/celex/32024R2221) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2221 DA COMISSÃO de 6 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2221) — L 2221 — 1 — 9.9.2024
-- [►M461](http://publications.europa.eu/resource/celex/32024R2390) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2390 DA COMISSÃO de 6 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2390) — L 2390 — 1 — 9.9.2024
-- [►M462](http://publications.europa.eu/resource/celex/32024R2777) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2777 DA COMISSÃO de 31 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2777) — L 2777 — 1 — 4.11.2024
-- [►M463](http://publications.europa.eu/resource/celex/32024R2781) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2781 DA COMISSÃO de 31 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2781) — L 2781 — 1 — 4.11.2024
-- [►M464](http://publications.europa.eu/resource/celex/32024R2806) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2806 DA COMISSÃO de 31 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2806) — L 2806 — 1 — 4.11.2024
-- [►M465](http://publications.europa.eu/resource/celex/32024R2878) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2878 DA COMISSÃO de 8 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2878) — L 2878 — 1 — 11.11.2024
-- [M466](http://publications.europa.eu/resource/celex/32024R2848) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2848 DA COMISSÃO de 11 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2848) — L 2848 — 1 — 12.11.2024
-- [►M467](http://publications.europa.eu/resource/celex/32025R0096) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/96 DA COMISSÃO de 21 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0096) — L 96 — 1 — 22.1.2025
-- [►M468](http://publications.europa.eu/resource/celex/32025R0099) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/99 DA COMISSÃO de 21 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0099) — L 99 — 1 — 22.1.2025
-- [►M469](http://publications.europa.eu/resource/celex/32025R0102) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/102 DA COMISSÃO de 21 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0102) — L 102 — 1 — 22.1.2025
-- [►M470](http://publications.europa.eu/resource/celex/32025R0103) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/103 DA COMISSÃO de 22 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0103) — L 103 — 1 — 23.1.2025
-- [►M471](http://publications.europa.eu/resource/celex/32025R0106) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/106 DA COMISSÃO de 22 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0106) — L 106 — 1 — 23.1.2025
-- [►M472](http://publications.europa.eu/resource/celex/32025R0109) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/109 DA COMISSÃO de 22 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0109) — L 109 — 1 — 23.1.2025
-- [►M473](http://publications.europa.eu/resource/celex/32025R0119) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/119 DA COMISSÃO de 24 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0119) — L 119 — 1 — 27.1.2025
-- [►M474](http://publications.europa.eu/resource/celex/32025R0150) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/150 DA COMISSÃO de 29 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0150) — L 150 — 1 — 30.1.2025
-- [►M475](http://publications.europa.eu/resource/celex/32025R0787) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/787 DA COMISSÃO de 24 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0787) — L 787 — 1 — 25.4.2025
-- [►M476](http://publications.europa.eu/resource/celex/32025R0833) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/833 DA COMISSÃO de 5 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0833) — L 833 — 1 — 6.5.2025
-- [►M477](http://publications.europa.eu/resource/celex/32025R0845) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/845 DA COMISSÃO de 5 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0845) — L 845 — 1 — 6.5.2025
-- [►M478](http://publications.europa.eu/resource/celex/32025R0881) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/881 DA COMISSÃO de 7 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0881) — L 881 — 1 — 8.5.2025
-- [►M479](http://publications.europa.eu/resource/celex/32025R0910) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/910 DA COMISSÃO de 20 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0910) — L 910 — 1 — 21.5.2025
-- [►M480](http://publications.europa.eu/resource/celex/32025R1092) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1092 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1092) — L 1092 — 1 — 3.6.2025
-- [►M481](http://publications.europa.eu/resource/celex/32025R1152) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1152 DA COMISSÃO de 11 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1152) — L 1152 — 1 — 12.6.2025
-- [►M482](http://publications.europa.eu/resource/celex/32025R1177) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1177 DA COMISSÃO de 16 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1177) — L 1177 — 1 — 17.6.2025
-- [►M483](http://publications.europa.eu/resource/celex/32025R1489) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1489 DA COMISSÃO de 24 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1489) — L 1489 — 1 — 25.7.2025
-- [►M484](http://publications.europa.eu/resource/celex/32025R1879) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1879 DA COMISSÃO de 16 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1879) — L 1879 — 1 — 17.9.2025
-- [M485](http://publications.europa.eu/resource/celex/32025R2027) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2027 DA COMISSÃO de 9 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2027) — L 2027 — 1 — 10.10.2025
-- [►M486](http://publications.europa.eu/resource/celex/32025R2068) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2068 DA COMISSÃO de 15 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2068) — L 2068 — 1 — 16.10.2025
-- [►M487](http://publications.europa.eu/resource/celex/32025R2272) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2272 DA COMISSÃO de 12 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2272) — L 2272 — 1 — 13.11.2025
-- [►M488](http://publications.europa.eu/resource/celex/32025R2313) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2313 DA COMISSÃO de 17 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2313) — L 2313 — 1 — 18.11.2025
-- [►M489](http://publications.europa.eu/resource/celex/32025R2316) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2316 DA COMISSÃO de 17 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2316) — L 2316 — 1 — 18.11.2025
-- [►M490](http://publications.europa.eu/resource/celex/32026R0312) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/312 DA COMISSÃO de 10 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0312) — L 312 — 1 — 11.2.2026
-- [►M491](http://publications.europa.eu/resource/celex/32026R0321) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/321 DA COMISSÃO de 12 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0321) — L 321 — 1 — 13.2.2026
-- [►M492](http://publications.europa.eu/resource/celex/32026R0351) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/351 DA COMISSÃO de 18 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0351) — L 351 — 1 — 19.2.2026
-- [►M493](http://publications.europa.eu/resource/celex/32026R0355) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/355 DA COMISSÃO de 18 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0355) — L 355 — 1 — 19.2.2026
-- [►M494](http://publications.europa.eu/resource/celex/32026R0372) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/372 DA COMISSÃO de 20 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0372) — L 372 — 1 — 23.2.2026
-- [►M495](http://publications.europa.eu/resource/celex/32026R0747) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/747 DA COMISSÃO de 31 de março de 2026](http://publications.europa.eu/resource/celex/32026R0747) — L 747 — 1 — 1.4.2026
-- [►M496](http://publications.europa.eu/resource/celex/32026R0870) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/870 DA COMISSÃO de 21 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0870) — L 870 — 1 — 22.4.2026
-- [►M497](http://publications.europa.eu/resource/celex/32026R1154) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1154 DA COMISSÃO de 29 de maio de 2026](http://publications.europa.eu/resource/celex/32026R1154) — L 1154 — 1 — 29.5.2026
-- [►M498](http://publications.europa.eu/resource/celex/32026R1353) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1353 DA COMISSÃO de 15 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1353) — L 1353 — 1 — 16.6.2026
-- [►M499](http://publications.europa.eu/resource/celex/32026R1421) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1421 DA COMISSÃO de 30 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1421) — L 1421 — 1 — 1.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0540R%2803%29) — [Rectificação, JO L 026, 28.1.2012, p. 38 (540/2011)](http://publications.europa.eu/resource/celex/32011R0540R%2803%29)
-- [C2](http://publications.europa.eu/resource/celex/32013R0533R%2801%29) — [Rectificação, JO L 218, 14.8.2013, p. 30 (533/2013)](http://publications.europa.eu/resource/celex/32013R0533R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32013R0200R%2801%29) — [Rectificação, JO L 235, 4.9.2013, p. 12 (200/2013)](http://publications.europa.eu/resource/celex/32013R0200R%2801%29)
-- [C4](http://publications.europa.eu/resource/celex/32014R0140R%2801%29) — [Rectificação, JO L 277, 22.10.2015, p. 60 (140/2014)](http://publications.europa.eu/resource/celex/32014R0140R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32017R0842R%2801%29) — [Rectificação, JO L 002, 5.1.2018, p. 15 (2017/842)](http://publications.europa.eu/resource/celex/32017R0842R%2801%29)
-- [C6](http://publications.europa.eu/resource/celex/32018R1796R%2801%29) — [Rectificação, JO L 042, 13.2.2019, p. 34 (2018/1796)](http://publications.europa.eu/resource/celex/32018R1796R%2801%29)
-- [C7](http://publications.europa.eu/resource/celex/32014R1330R%2801%29) — [Rectificação, JO L 018, 27.1.2022, p. 128 (n.o 1330/2014)](http://publications.europa.eu/resource/celex/32014R1330R%2801%29)
-- [►C8](http://publications.europa.eu/resource/celex/32026R0351R%2801%29) — [Rectificação, JO L 90291, 17.4.2026, p. 1 ((UE) 2026/3512026/351)](http://publications.europa.eu/resource/celex/32026R0351R%2801%29)
-- [C9](http://publications.europa.eu/resource/celex/32026R0312R%2801%29) — [Rectificação, JO L 90341, 30.4.2026, p. 1 ((UE) 2026/3122026/312)](http://publications.europa.eu/resource/celex/32026R0312R%2801%29)
-- [C10](http://publications.europa.eu/resource/celex/32026R0355R%2801%29) — [Rectificação, JO L 90340, 30.4.2026, p. 1 ((UE) 2026/3552026/355)](http://publications.europa.eu/resource/celex/32026R0355R%2801%29)
-- [C11](http://publications.europa.eu/resource/celex/32026R1154R%2801%29) — [Rectificação, JO L 90467, 10.6.2026, p. 1 ((UE) 2026/11542026/1154)](http://publications.europa.eu/resource/celex/32026R1154R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 540/2011 DA COMISSÃO
 
 de 25 de Maio de 2011
 

@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2010-1177.versoes.json
+  count: 1
+  source_lastmod: '2011-01-06'
+  versions:
+  - date: '2010-12-17'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010R1177
   eli: http://data.europa.eu/eli/reg/2010/1177/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/24f6da28-e162-430d-9997-953b47ab71d3.0016
   content_url: http://publications.europa.eu/resource/cellar/24f6da28-e162-430d-9997-953b47ab71d3.0016.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:48:21Z'
+  retrieved_at: '2026-10-22T15:49:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-07T22:13:42.615+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:21Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:37Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2010-1177.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,21 +179,20 @@ relationships:
   date: '2017-12-27'
 article_structure:
   article_count: 31
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:21Z'
+  checked_at: '2026-10-22T15:49:37Z'
   warnings:
-  - Versão consolidada 02010R1177-20110106 indisponível (Sem expressão na língua por para CELEX 02010R1177-20110106.); usado
-    o texto do JO.
+  - '02010R1177-20110106: versão indisponível (Sem expressão na língua por para CELEX 02010R1177-20110106.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 1177/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. ° 1177/2010 do Parlamento Europeu e do Conselho, de 24 de Novembro de 2010
 
 de 24 de Novembro de 2010
 

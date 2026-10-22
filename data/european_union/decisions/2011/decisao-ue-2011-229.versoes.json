@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011D0229:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011D0229-20150101",
+ "dre_path": null,
+ "source_lastmod": "2015-01-01",
+ "versions": [
+  {
+   "date": "2011-04-13",
+   "future": false,
+   "celex": "32011D0229",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "14266d515d712a36",
+    "7083c8704396e09d",
+    "7fa7e4e52f807664",
+    "e968bdea314ec647",
+    "be759a55ff6eb82b",
+    "5c07d5935a8aadc6",
+    "b5242b9093ff3561",
+    "08c10483e23d6ce3"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "celex": "02011D0229-20150101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1dbebc274fdec015"
+   ]
+  }
+ ],
+ "fragments": {
+  "14266d515d712a36": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "4 de Abril de 2011\n\nrelativa à especificação técnica de interoperabilidade respeitante ao subsistema «material circulante-ruído» do sistema ferroviário transeuropeu convencional\n\n[notificada com o número C(2011) 658]\n\n(Texto relevante para efeitos do EEE)\n\n(2011/229/UE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 2008, relativa à interoperabilidade do sistema ferroviário na Comunidade [([^1])](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntr1-L_2011099PT.01000101-E0001), nomeadamente o artigo 6.º, n.º 1,\n\nTendo em conta a recomendação da Agência Ferroviária Europeia (ERA/REC/02-2010/INT) de 30 de Março de 2010,\n\nConsiderando o seguinte:\n\n(1) O artigo 12.º do Regulamento (CE) n.º 881/2004 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntr2-L_2011099PT.01000101-E0002), prevê que a Agência Ferroviária Europeia (a Agência) assegure a revisão das especificações técnicas de interoperabilidade («ETI») em função do progresso técnico e da evolução do mercado e das exigências sociais e proponha à Comissão os projectos de adaptação das ETI que considere necessários.\n\n(2) Através da Decisão C(2007) 3371, de 13 de Julho de 2007, a Comissão conferiu à Agência um mandato-quadro para o exercício de certas actividades ao abrigo da Directiva 96/48/CE do Conselho, de 23 de Julho de 1996, relativa à interoperabilidade do sistema ferroviário transeuropeu de alta velocidade [([^3])](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntr3-L_2011099PT.01000101-E0003) e da Directiva 2001/16/CE do Parlamento Europeu e do Conselho, de 19 de Março de 2001, relativa à interoperabilidade do sistema ferroviário transeuropeu convencional [([^4])](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntr4-L_2011099PT.01000101-E0004). Nos termos desse mandato, a Agência foi convidada a proceder a uma revisão limitada da ETI Material Circulante – Ruído (ETI Ruído) respeitante ao sistema ferroviário convencional adoptada por meio da Decisão 2006/66/CE da Comissão [([^5])](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntr5-L_2011099PT.01000101-E0005).\n\n(3) Os Estados-Membros não dispõem, todos eles, da via de referência a utilizar obrigatoriamente nos termos da ETI Ruído, nem podem ser obrigados a construí-la. Esta situação tem impedido que se criem na União Europeia condições de concorrência equitativas para todos os operadores e induz um ónus financeiro superior ao que previa a decisão original. À Comissão e à Agência foram assinalados inúmeros problemas relacionados com a disponibilidade de vias de referência, os métodos de ensaio e os custos dos ensaios.\n\n(4) O propósito da presente decisão é precisar as responsabilidades no que respeita à via de referência, permitir ensaios em via normal – assegurando simultaneamente a recolha e registo adequados de dados comparáveis, com vista a uma futura revisão da ETI –, reduzir o ónus da prova de conformidade para séries pequenas de veículos e incorporar os avanços mais recentes ao nível da norma ISO EN 3095.\n\n(5) Os limites de ruído e o âmbito de aplicação não se alteram. A presente decisão procede, pois, a uma revisão limitada da ETI Ruído, não prejudicando uma sua revisão mais completa conforme previsto no capítulo 7 da ETI.\n\n(6) No interesse da clareza e da simplicidade, é conveniente substituir na integralidade a Decisão 2006/66/CE.\n\n(7) A Decisão 2006/66/CE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente decisão são conformes com o parecer do comité referido no artigo 29.º, n.º 1, da Directiva 2008/57/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "7083c8704396e09d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É adoptada a versão revista, constante do anexo, da especificação técnica de interoperabilidade (ETI) relativa ao subsistema «material circulante – ruído» do sistema ferroviário transeuropeu convencional, conforme previsto no artigo 6.º, n.º 1, da Directiva 2008/57/CE.\n\n2. A ETI é aplicável ao material circulante do sistema ferroviário transeuropeu convencional definido no anexo I da Directiva 2008/57/CE.\n\nAplica-se ao material circulante novo e existente referido no capítulo 7 do anexo."
+  },
+  "7fa7e4e52f807664": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros notificarão à Comissão, no prazo de seis meses a contar da data de entrada em vigor da presente decisão, os acordos que contenham requisitos relativos aos limites de emissão de ruído e que não tenham sido notificados anteriormente ao abrigo da Decisão 2006/66/CE.\n\nOs acordos a notificar são:\n\na) Os acordos nacionais entre Estados-Membros e empresas ferroviárias ou gestores de infra-estruturas, concluídos a título permanente ou temporário e exigidos pela natureza extremamente específica ou local do serviço de transporte a que dizem respeito;\n\nb) Os acordos bilaterais ou multilaterais entre empresas ferroviárias, gestores de infra-estruturas ou autoridades de segurança que proporcionem níveis significativos de interoperabilidade local ou regional;\n\nc) Os acordos internacionais entre um ou mais Estados-Membros e pelo menos um país terceiro, ou entre empresas ferroviárias ou gestores de infra-estruturas de Estados-Membros e pelo menos uma empresa ferroviária ou gestor de infra-estrutura de um país terceiro, que proporcionem níveis significativos de interoperabilidade local ou regional."
+  },
+  "e968bdea314ec647": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs processos de avaliação da conformidade ou da aptidão para utilização e de verificação CE definidos no capítulo 6 do anexo da presente decisão devem basear-se nos módulos estabelecidos na Decisão 2010/713/UE da Comissão [([^6])](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntr6-L_2011099PT.01000101-E0006)."
+  },
+  "be759a55ff6eb82b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão preparará a revisão e actualização da presente ETI e fará ao comité referido no artigo 29.º da Directiva 2008/57/CE as recomendações necessárias à luz da evolução da tecnologia ou das exigências sociais, em conformidade com o procedimento previsto na secção 7.2 do anexo da presente decisão."
+  },
+  "5c07d5935a8aadc6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Decisão 2006/66/CE é revogada. As suas disposições continuam todavia aplicáveis no que respeita à manutenção de projectos autorizados nos termos da ETI a ela anexada, bem como, salvo se o requerente solicitar a aplicação da presente decisão, a projectos de novos veículos ou de renovação ou adaptação de veículos existentes que se encontrem em fase avançada de execução ou sejam objecto de contrato já em execução à data da notificação da presente decisão."
+  },
+  "b5242b9093ff3561": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 4 de Abril de 2011.\n\n***Pela Comissão***\n\n**Siim KALLAS**\n\n***Vice-Presidente***\n\n---"
+  },
+  "08c10483e23d6ce3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntc1-L_2011099PT.01000101-E0001) [JO L 191 de 18.7.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntc2-L_2011099PT.01000101-E0002) [JO L 220 de 21.6.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_220_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntc3-L_2011099PT.01000101-E0003) [JO L 235 de 17.9.1996, p. 6](http://publications.europa.eu/resource/oj/JOL_1996_235_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntc4-L_2011099PT.01000101-E0004) [JO L 110 de 20.4.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_110_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntc5-L_2011099PT.01000101-E0005) [JO L 37 de 8.2.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_037_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/07878128-299d-45ff-be93-391649dab5e7.0003.03/DOC_1#ntc6-L_2011099PT.01000101-E0006) [JO L 319 de 4.12.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_319_R_TOC)."
+  },
+  "1dbebc274fdec015": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2011D0229 — PT — 01.01.2015 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32011D0229) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32011D0229) [4 de Abril de 2011](http://publications.europa.eu/resource/celex/32011D0229) [relativa à especificação técnica de interoperabilidade respeitante ao subsistema «material circulante-ruído» do sistema ferroviário transeuropeu convencional](http://publications.europa.eu/resource/celex/32011D0229) [[notificada com o número C(2011) 658]](http://publications.europa.eu/resource/celex/32011D0229) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32011D0229) [(2011/229/UE)](http://publications.europa.eu/resource/celex/32011D0229) (JO L 099, 13.4.2011, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1304/2014 da Comissão de 26 de novembro de 2014](http://publications.europa.eu/resource/celex/32014R1304) — L 356 — 421 — 12.12.2014"
+  }
+ }
+}

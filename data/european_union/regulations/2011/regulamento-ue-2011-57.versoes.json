@@ -1,0 +1,659 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R0057:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0057-20110904",
+ "dre_path": null,
+ "source_lastmod": "2011-09-04",
+ "versions": [
+  {
+   "date": "2011-01-27",
+   "future": false,
+   "celex": "32011R0057",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "16778e84fb4ab8a5",
+    "ffc348f463b781ad",
+    "5ab355e9e3267ddf",
+    "8ef8379e0c98d5d1",
+    "27d7a107174324f4",
+    "fd78751dab6b29a2",
+    "493d677af0ea59aa",
+    "4c8bdeab3d91ec7d",
+    "df1bb9e33b7c2331",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "d4294284ae8913af",
+    "56a7d193c0aec24f",
+    "a03358394fca1b95",
+    "fc2097777bf1bb83",
+    "6554542552c075ff",
+    "68ea866fae142a89",
+    "037796235e9bed1e",
+    "cf93977e4445871b",
+    "eb5833f6e0d11cfc",
+    "36f2232038429ea4",
+    "f0f8c960bfdbce9b",
+    "dcf64440814ffb3d",
+    "c083399d9f66216d",
+    "1e7a0903d2eed348",
+    "6100ec61c51c85f4",
+    "3869c2effa545d25",
+    "052bf33dd10a4f77",
+    "74996480fd9afb53",
+    "13bcf2eb576c49a7",
+    "ad8c8c383df0c0b1",
+    "a0277ea27856b565",
+    "18e5b2282eff7afa",
+    "48391ef20c8e9a4f",
+    "c38a2dd1907a7c62",
+    "ab8f2e1dfbe2968a",
+    "2bc915ef50bf79ac",
+    "b426821733183e1b",
+    "f9792b6be3de5a27",
+    "8e117f334c55dea9",
+    "347496c5b157f0d0",
+    "b5d7193d82983e30",
+    "dc322cda70078bde",
+    "5c291c156d08bc21",
+    "55f01664bacd3ce2",
+    "e47d2851202697cb",
+    "744a62350cf0c0fd",
+    "24286f33b983cdfc",
+    "abd468d36c75e1a6",
+    "6b50f1e0d1ff625f",
+    "627e74017d02377b",
+    "0f69c22a7a2e438f",
+    "ca0b36494085e8fc",
+    "cf8337a6597dd9ee",
+    "0ab3b4e3174eb39a",
+    "c57032f03dd150fa",
+    "396b43ff6cb5ff94",
+    "f1bda1b7da301a88",
+    "be56234d3621f9e1",
+    "f84c4457b565ff77",
+    "df9bc144b82ac625",
+    "9db704600627e53c",
+    "b7f00def1a5a8829",
+    "0168193cd60a2254",
+    "7b4b7ae638ce7055",
+    "08523f566d9ee29d",
+    "662cf62f00c33127",
+    "dde9cf53e9ae6c9a",
+    "1b05dc436c898318",
+    "116ee2c5f0524709",
+    "86400a7047a7e3f1"
+   ]
+  }
+ ],
+ "fragments": {
+  "16778e84fb4ab8a5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Janeiro de 2011\n\nque fixa, para 2011, em relação a determinadas populações de peixes e grupos de populações de peixes, as possibilidades de pesca aplicáveis nas águas da UE, assim como, para os navios da UE, em determinadas águas não UE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 43.º, n.º 3,\n\nTendo em conta a proposta da Comissão Europeia,\n\nConsiderando o seguinte:\n\n(1) Nos termos do artigo 43.º, n.º 3, do Tratado, o Conselho, sob proposta da Comissão, adopta as medidas relativas à fixação e à repartição das possibilidades de pesca.\n\n(2) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas [([^1])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr1-L_2011024PT.01000101-E0001), requer que sejam estabelecidas medidas que regulem o acesso às águas e aos recursos e o exercício sustentável das actividades de pesca, atendendo aos pareceres científicos, técnicos e económicos disponíveis e, nomeadamente, aos relatórios elaborados pelo Comité Científico, Técnico e Económico das Pescas (CCTEP).\n\n(3) Cabe ao Conselho adoptar medidas relativas à fixação e à repartição das possibilidades de pesca por pescaria ou grupo de pescarias, incluindo, se for caso disso, certas condições a elas ligadas no plano funcional. As possibilidades de pesca deverão ser repartidas pelos Estados-Membros de modo a garantir a cada um deles uma estabilidade relativa das actividades de pesca para cada população ou pescaria, tendo devidamente em conta os objectivos da política comum das pescas fixados no Regulamento (CE) n.º 2371/2002.\n\n(4) Nos casos em que um total admissível de capturas (TAC) é atribuído apenas a um Estado-Membro, é conveniente conferir poderes a esse Estado-Membro, em conformidade com o artigo 2.º, n.º 1, do Tratado, para a determinação do nível desse TAC. Deverão ser adoptadas disposições a fim de assegurar que, ao fixar o nível do TAC, o Estado-Membro em causa exerça os seus poderes de modo plenamente compatível com os princípios e as regras da política comum das pescas e garanta que a exploração da população em questão seja feita a níveis que, com a maior probabilidade possível, produzam o rendimento máximo sustentável a partir de 2015, inclusive através da adopção das medidas necessárias para recolher os dados pertinentes, avaliar a população em causa e determinar os respectivos níveis de rendimento máximo sustentável.\n\n(5) Os TAC deverão ser estabelecidos com base nos pareceres científicos disponíveis, tendo em conta os aspectos biológicos e socioeconómicos e assegurando, ao mesmo tempo, um tratamento equitativo entre sectores das pescas, bem como à luz das opiniões expressas durante a consulta dos interessados, nomeadamente nas reuniões com o Comité Consultivo da Pesca e da Aquicultura e os conselhos consultivos regionais interessados.\n\n(6) No respeitante às populações sujeitas a planos plurianuais específicos, os TAC devem ser estabelecidos de acordo com as regras fixadas nesses planos. Por conseguinte, os TAC para as populações de pescada, de lagostim, de linguado no Golfo da Biscaia, Canal da Mancha ocidental e Mar do Norte, de solha no Mar do Norte, de arenque a oeste da Escócia e de bacalhau no Kattegat, Mar do Norte, Skagerrak, Canal da Mancha oriental, a oeste da Escócia e no Mar da Irlanda devem ser estabelecidos em conformidade com as regras enunciadas no Regulamento (CE) n.º 811/2004 do Conselho, de 21 de Abril de 2004, que estabelece medidas para a recuperação das unidades populacionais de pescada do Norte [([^2])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr2-L_2011024PT.01000101-E0002), no Regulamento (CE) n.º 2166/2005 do Conselho, de 20 de Dezembro de 2005, que estabelece medidas para a recuperação das unidades populacionais de pescada do Sul e de lagostins no Mar Cantábrico e a oeste da Península Ibérica [([^3])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr3-L_2011024PT.01000101-E0003), no Regulamento (CE) n.º 388/2006 do Conselho, de 23 de Fevereiro de 2006, que estabelece um plano plurianual para a exploração sustentável da unidade populacional de linguado no Golfo da Biscaia [([^4])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr4-L_2011024PT.01000101-E0004), no Regulamento (CE) n.º 509/2007 do Conselho, de 7 de Maio de 2007, que estabelece um plano plurianual para a exploração sustentável da população de linguado do Canal da Mancha ocidental [([^5])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr5-L_2011024PT.01000101-E0005), no Regulamento (CE) n.º 676/2007 do Conselho, de 11 de Junho de 2007, que estabelece um plano plurianual de gestão das pescarias que exploram unidades populacionais de solha e de linguado do Mar do Norte [([^6])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr6-L_2011024PT.01000101-E0006), no Regulamento (CE) n.º 1300/2008 do Conselho, de 18 de Dezembro de 2008, que estabelece um plano plurianual relativo à unidade populacional de arenque presente a oeste da Escócia e às pescarias que exploram essa unidade populacional [([^7])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr7-L_2011024PT.01000101-E0007), no Regulamento (CE) n.º 1342/2008 do Conselho, de 18 de Dezembro de 2008, que estabelece um plano a longo prazo para as unidades populacionais de bacalhau e para as pescas que exploram essas unidades populacionais [([^8])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr8-L_2011024PT.01000101-E0008) e no Regulamento (CE) n.º 302/2009 do Conselho, de 6 de Abril de 2009, que estabelece um plano plurianual de recuperação do atum rabilho no Atlântico Este e no Mediterrâneo, respectivamente [([^9])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr9-L_2011024PT.01000101-E0009).\n\n(7) Em conformidade com o artigo 2.º do Regulamento (CE) n.º 847/96 do Conselho, de 6 de Maio de 1996, que introduz condições suplementares para a gestão anual dos TAC e quotas [([^10])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr10-L_2011024PT.01000101-E0010), deverão ser identificadas as populações a que são aplicáveis as diferentes medidas referidas nesse artigo.\n\n(8) No caso de determinadas espécies, nomeadamente certas espécies de tubarões, uma actividade de pesca, mesmo limitada, pode resultar numa ameaça grave para a sua conservação. Por conseguinte, é conveniente restringir totalmente as possibilidades de pesca dessas espécies, através de uma proibição geral de as pescar.\n\n(9) O lagostim é capturado nas pescarias mistas demersais juntamente com várias outras espécies. Numa zona a oeste da Irlanda conhecida por Banco de Porcupine, verifica-se uma necessidade urgente de reduzir ao máximo as capturas de lagostim por motivos de conservação. É conveniente, por conseguinte, limitar as possibilidades de pesca nesta zona apenas à pesca de espécies pelágicas em que não é capturado lagostim.\n\n(10) Atendendo ao desenvolvimento recente da pesca dirigida ao pimpim nas subzonas CIEM VI, VII e VIII e a fim de assegurar uma gestão sustentável desta população, é conveniente prever limitações de capturas para esta população.\n\n(11) É necessário fixar os níveis máximos de esforço de pesca para 2011 em conformidade com o artigo 8.º do Regulamento (CE) n.º 2166/2005, o artigo 5.º do Regulamento (CE) n.º 509/2007, o artigo 9.º do Regulamento (CE) n.º 676/2007, os artigos 11.º e 12.º do Regulamento (CE) n.º 1342/2008, assim como os artigos 5.º e 9.º do Regulamento (CE) n.º 302/2009, tomando, ao mesmo tempo, em consideração o Regulamento (CE) n.º 754/2009 do Conselho, de 27 de Julho de 2009, que exclui determinados grupos de navios do regime de gestão do esforço de pesca estabelecido no capítulo III do Regulamento (CE) n.º 1342/2008 [([^11])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr11-L_2011024PT.01000101-E0011).\n\n(12) Em aplicação do Regulamento (CE) n.º 754/2009, um grupo de navios franceses está excluído da aplicação do regime de esforço de pesca estabelecido no artigo 11.º do Regulamento (CE) n.º 1342/2008. Com base nas informações prestadas pela França em 2010, a exclusão deste grupo de navios do regime de esforço deixou de constituir uma redução da carga administrativa. Consequentemente, uma das condições para a exclusão deixou de ser cumprida. É, por conseguinte oportuno voltar a incluir esse grupo de navios franceses no regime de esforço de pesca acima referido. Uma vez que a aplicação do período de gestão das actividades de pesca estabelecido no Anexo IIA do Regulamento (UE) n.º 53/2010 [([^12])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr12-L_2011024PT.01000101-E0012) expira em 31 de Janeiro de 2010, tal reinclusão deverá aplicar-se a partir de 1 de Fevereiro de 2011.\n\n(13) De acordo com o parecer do CIEM, é necessário manter e rever o regime temporário de gestão da galeota nas águas da UE das divisões CIEM IIa e IIIa e da subzona CIEM IV.\n\n(14) À luz do parecer científico mais recente do CIEM e em conformidade com os compromissos internacionais assumidos no contexto da Convenção das Pescas do Atlântico Nordeste (NEAFC), é necessário limitar o esforço de pesca de certas espécies de profundidade.\n\n(15) Em conformidade com o procedimento previsto nos acordos ou protocolos sobre as relações em matéria de pesca com a Noruega [([^13])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr13-L_2011024PT.01000101-E0013), as ilhas Faroé [([^14])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr14-L_2011024PT.01000101-E0014) e a Gronelândia [([^15])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr15-L_2011024PT.01000101-E0015), a União realizou consultas a respeito dos direitos de pesca com estes parceiros. As consultas com as Ilhas Faroé ainda não estão concluídas e espera-se que os convénios para 2011 com aquele parceiro sejam celebrados no início de 2011. A fim de evitar a interrupção das actividades piscatórias da União, permitindo simultaneamente a flexibilidade necessária para a celebração desses convénios no início de 2011, convém que a União fixe as possibilidades de pesca para as populações objecto desse acordo com as Ilhas Faroé numa base provisória.\n\n(16) A União é Parte Contratante em várias organizações regionais de pesca e participa noutras organizações na qualidade de parte não contratante cooperante. Além disso, por força do Acto de Adesão de 2003, os acordos de pesca anteriormente celebrados pela República da Polónia, como, por exemplo, a Convenção para a Conservação e Gestão dos Recursos de escamudo no Mar de Bering central, são geridos pela União a partir da data de adesão da Polónia à União Europeia. Essas organizações de pesca recomendaram a introdução, em 2011, de um certo número de medidas, incluindo possibilidades de pesca para os navios da UE. A União deverá pôr em prática, através de legislação, as medidas que prevêem essas possibilidades de pesca.\n\n(17) Na reunião anual de 2010, a Comissão Interamericana do Atum Tropical (CIAT) não chegou a um consenso acerca da adopção de medidas de conservação para o atum albacora, o atum patudo e o gaiado. Não obstante, a maioria das Partes Contratantes, incluindo a União, considerou necessário regular as possibilidades de pesca destas populações, a fim de assegurar a sua gestão sustentável. Por conseguinte, é conveniente que através de legislação, a União ponha em prática essas medidas.\n\n(18) Na sua reunião anual de 2010, a Comissão Internacional para a Conservação do Atum do Atlântico (ICCAT) adoptou quadros que indicam em que medida as possibilidades de pesca das Partes Contratantes na ICCAT foram sub ou sobreutilizadas. Nesse contexto, a ICCAT adoptou uma decisão em que observa que, em 2009, a União subexplorou as quotas de espadarte do norte e do sul, atum-patudo e albacora do norte. Para respeitar os ajustamentos das quotas da União adoptados pela ICCAT, é necessário que a repartição das possibilidades de pesca que resultam da subutilização seja feita com base na contribuição de cada Estado-Membro para essa subutilização, sem alterar a chave de repartição fixada no presente regulamento relativa à repartição anual dos TAC. Nessa reunião foi alterado o plano de recuperação do atum rabilho. A ICCAT adoptou ainda uma recomendação sobre a conservação dos tubarões-raposo olhudos, dos tubarões-martelo e dos tubarões de pontas brancas. A fim de contribuir para a conservação das populações de peixes, é necessário pôr em prática essas medidas através de legislação da União.\n\n(19) Na reunião anual de 2010, a Comissão do Atum do Oceano Índico (IOTC) procedeu à revisão da capacidade global das frotas que exerceram a pesca dirigida ao atum tropical entre 2006 e 2008 e ao espadarte e atum voador entre 2007 e 2008. A IOTC aprovou igualmente a aplicação de planos de desenvolvimento da frota. Além disso, a IOTC aprovou uma resolução sobre a conservação dos tubarões-raposo (família dos Alopiídeos) capturados em associação com outras espécies na zona da sua competência.\n\n(20) Na terceira conferência internacional para a criação de uma organização regional de gestão das pescas no alto mar do Pacífico Sul (SPRFMO), realizada em Maio de 2007, os participantes adoptaram medidas provisórias, incluindo possibilidades de pesca, a fim de regulamentar a pesca pelágica e a pesca de fundo nesta região, enquanto não for criada a referida organização. Essas medidas foram revistas nas oitavas consultas internacionais para o estabelecimento desta organização, em Novembro de 2009, e serão novamente revistas, em Janeiro de 2011, na segunda conferência preparatória da Comissão da organização. Nos termos do acordo alcançado pelos participantes, essas medidas provisórias são facultativas e não são juridicamente vinculativas por força do direito internacional. Todavia, atendendo às disposições conexas do Acordo das Nações Unidas relativo às populações de peixes, é aconselhável pôr em prática essas medidas através de legislação da União.\n\n(21) Na sua reunião anual de 2010, a Organização das Pescarias do Atlântico Sudeste (SEAFO) adoptou limites de captura para quatro populações de peixes na zona da Convenção SEAFO. É necessário transpor esses limites de captura para a legislação da União.\n\n(22) De acordo com o artigo 291.º do Tratado, as medidas necessárias para fixar os limites de captura relativos a certas populações de vida curta devem ser adoptadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^16])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr16-L_2011024PT.01000101-E0016), por motivos de urgência.\n\n(23) Certas medidas internacionais que estabelecem ou limitam as possibilidades de pesca da União são adoptadas pelas organizações regionais de gestão das pescas competentes no final do ano e são aplicáveis antes da entrada em vigor do presente regulamento. Por conseguinte, é necessário que os actos da União que põem em prática essas medidas sejam aplicáveis com efeitos retroactivos. Atendendo, em especial, a que as possibilidades de pesca para a zona da Convenção CCAMLR são fixadas para um período de tempo que tem início em 1 de Dezembro de 2010, é conveniente que as disposições pertinentes do presente regulamento se apliquem a partir dessa data. Tal aplicação retroactiva não deverá prejudicar o princípio das expectativas legítimas, uma vez que os membros da CCAMLR estão proibidos de pescar na zona da Convenção sem autorização.\n\n(24) A exploração das possibilidades de pesca fixadas no presente regulamento rege-se pelo Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de Novembro de 2009, que institui um regime comunitário de controlo a fim de assegurar o cumprimento das regras da política comum das pescas [([^17])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr17-L_2011024PT.01000101-E0017), nomeadamente pelos artigos 33.º e 34.º relativos ao registo das capturas e do esforço de pesca e à notificação dos dados sobre o esgotamento das possibilidades de pesca. É, por conseguinte, necessário especificar os códigos que os Estados-Membros devem utilizar aquando do envio à Comissão de dados sobre os desembarques de populações que são objecto do presente regulamento.\n\n(25) A fim de evitar a interrupção das actividades de pesca e de assegurar os meios de subsistência dos pescadores da União, o presente regulamento é aplicável a partir de 1 de Janeiro de 2011, excepto no que diz respeito às disposições relativas aos limites de esforço, que são aplicáveis a partir de 1 de Fevereiro de 2011 e às disposições específicas sobre regiões determinadas, que deverão ter uma data específica de aplicação, nos termos indicados no considerando 23. Por razões de urgência, o presente regulamento deverá entrar em vigor imediatamente após a sua publicação.\n\n(26) A exploração das possibilidades de pesca deverá efectuar-se no pleno cumprimento da legislação aplicável da União,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "8ef8379e0c98d5d1": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento fixa as seguintes possibilidades de pesca:\n\na) Para 2011, os limites de captura de determinadas populações e grupos de populações de peixes;\n\nb) Para o período compreendido entre 1 de Fevereiro de 2011 e 31 de Janeiro de 2012, certas limitações do esforço;\n\nc) Para os períodos indicados nos artigos 20.º, 21.º e 22.º e nos Anexos IE e V, as possibilidades de pesca de determinadas populações na zona da Convenção para a Conservação da Fauna e da Flora Marinhas da Antártida (CCAMLR);\n\nd) Para os períodos indicados no artigo 28.º, as possibilidades de pesca de determinadas populações na área da Convenção Interamericana do Atum Tropical (CIAT).\n\n2. O presente regulamento também fixa as possibilidades de pesca provisórias para determinadas populações de peixes ou grupos de populações de peixes que estão a ser objecto de consultas de pesca bilaterais com as Ilhas Faroé. As possibilidades de pesca definitivas serão fixadas pelo Conselho sob proposta da Comissão.\n\n3. Determinadas possibilidades de pesca identificadas no Anexo I continuam por atribuir e não poderão ser utilizadas pelos Estados-Membros antes de as possibilidades de pesca definitivas terem sido fixadas nos termos do n.º 2. Estas possibilidades de pesca incluem possibilidades de pesca adicionais para a sarda resultantes de quotas não capturadas em 2010."
+  },
+  "27d7a107174324f4": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nSalvo disposição em contrário, o presente regulamento é aplicável:\n\na) Aos navios da UE; e\n\nb) Aos navios de países terceiros nas águas da UE."
+  },
+  "fd78751dab6b29a2": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) **«Navio da UE»**: os navios de pesca que arvoram o pavilhão de um Estado-Membro e estão registado na União;\n\nb) **«Navios de países terceiros»**: os navios de pesca que arvoram o pavilhão de países terceiros e neles estão registados;\n\nc) **«Águas da UE»**: as águas sob a soberania ou jurisdição dos Estados-Membros, com excepção das águas adjacentes aos territórios referidos no Anexo II do Tratado;\n\nd) **«Total admissível de capturas» (TAC)**: as quantidades de cada população que podem ser capturadas e desembarcadas em cada ano;\n\ne) **«Quota»**: uma parte do TAC atribuída à União, aos Estados-Membros ou a países terceiros;\n\nf) **«Águas internacionais»**: as águas que não se encontram sob a soberania ou jurisdição de qualquer Estado;\n\ng) **«Malhagem»**: a malhagem determinada em conformidade com o Regulamento (CE) n.º 517/2008 [([^18])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr18-L_2011024PT.01000101-E0018);\n\nh) **«Ficheiro da frota de pesca da UE»**: o ficheiro elaborado pela Comissão em conformidade com o artigo 15.º, n.º 3, do Regulamento (CE) n.º 2371/2002;\n\ni) **«Diário de pesca»**: o diário a que se refere o artigo 14.º do Regulamento (CE) n.º 1224/2009."
+  },
+  "493d677af0ea59aa": {
+   "fragment_id": "Artigo 4.º — Zonas de pesca",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas de pesca\n\nPara efeitos do presente regulamento, entende-se por:\n\na) **«Zonas CIEM» (Conselho Internacional para o Estudo do Mar)**: as zonas definidas no Regulamento (CE) n.º 218/2009 [([^19])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr19-L_2011024PT.01000101-E0019);\n\nb) **«Skagerrak»**: a zona delimitada, a oeste, por uma linha que une o farol de Hanstholm ao de Lindesnes e, a sul, por uma linha que une o farol de Skagen ao de Tistlarna e se prolonga, deste, até ao ponto mais próximo da costa sueca;\n\nc) **«Kattegat»**: a zona delimitada, a norte, por uma linha que une o farol de Skagen ao de Tistlarna e se prolonga, deste, até ao ponto mais próximo da costa sueca e, a sul, por uma linha que une Hasenøre a Gniben Spids, Korshage a Spodsbjerg e Gilbjerg Hoved a Kullen;\n\nd) **«VII (Banco de Porcupine – unidade 16)»**: a zona delimitada pelas linhas de rumo que unem sequencialmente as seguintes coordenadas:\n\n— 53° 30′N 15° 00′W,\n\n— 53° 30′N 11° 00′W,\n\n— 51° 30′N 11° 00′W,\n\n— 51° 30′N 13° 00′W,\n\n— 51° 00′N 13° 00′W,\n\n— 51° 00′N 15° 00′W,\n\n— 53° 30′N 15° 00′W;\n\ne) **«Golfo de Cádiz»**: a parte da divisão CIEM IXa a leste de 7.° 23′48″W;\n\nf) **«Zonas CECAF» (Atlântico centro-leste ou principal zona de pesca FAO 34)**: as zonas definidas no Regulamento (CE) n.º 216/2009 [([^20])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr20-L_2011024PT.01000101-E0020);\n\ng) **«Zonas NAFO» (Organização das Pescarias do Noroeste do Atlântico)**: as zonas definidas no Regulamento (CE) n.º 217/2009 [([^21])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr21-L_2011024PT.01000101-E0021);\n\nh) **«Zona da Convenção SEAFO» (Organização das Pescarias do Atlântico Sudeste)**: a zona definida na Convenção sobre a Conservação e a Gestão dos Recursos Haliêuticos no Atlântico Sudeste [([^22])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr22-L_2011024PT.01000101-E0022);\n\ni) **«Zona da Convenção ICCAT» (Comissão Internacional para a Conservação do Atum do Atlântico)**: a zona definida na Convenção Internacional para a Conservação dos Tunídeos do Atlântico [([^23])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr23-L_2011024PT.01000101-E0023);\n\nj) **«Zona da Convenção CCAMLR» (Convenção sobre a Conservação da Fauna e da Flora Marinhas da Antárctida)**: a zona definida no Regulamento (CE) n.º 601/2004 [([^24])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr24-L_2011024PT.01000101-E0024);\n\nk) **«Zona da Convenção da CIAT» (Comissão Interamericana do Atum Tropical)**: a zona definida na Convenção para o reforço da Comissão Interamericana do Atum Tropical estabelecida pela Convenção de 1949 entre os Estados Unidos da América e a República da Costa Rica [([^25])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr25-L_2011024PT.01000101-E0025);\n\nl) **«Zona da IOTC» (Comissão do Atum do Oceano Índico)**: a zona definida no Acordo que cria a Comissão do Atum do Oceano Índico [([^26])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr26-L_2011024PT.01000101-E0026);\n\nm) **«Zona da Convenção da SPRFMO» (Organização Regional de Gestão das Pescas para o Pacífico Sul)**: a zona do alto mar a sul de 10.° N, a norte da zona da CCAMLR, a leste da zona da SIOFA, definida no Acordo de Pesca para o Oceano Índico Sul [([^27])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr27-L_2011024PT.01000101-E0027), e a oeste das zonas de jurisdição de pesca dos Estados da América do Sul;\n\nn) **«Zona da Convenção WCPFC» (Comissão das Pescas do Pacífico Ocidental e Central)**: a zona definida na Convenção sobre a Conservação e a Gestão das Populações de Peixes Altamente Migradores no Oceano Pacífico Ocidental e Central [([^28])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr28-L_2011024PT.01000101-E0028);\n\no) **«Águas do alto do Mar de Bering»**: a zona do Mar de Bering situada além de 200 milhas marítimas das linhas de base a partir das quais é medida a largura do mar territorial dos Estados costeiros do Mar de Bering."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "df1bb9e33b7c2331": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DA UE",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DA UE"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "d4294284ae8913af": {
+   "fragment_id": "Artigo 5.º — TAC e sua repartição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — TAC e sua repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — TAC e sua repartição\n\n1. Os TAC aplicáveis aos navios da UE nas águas da UE ou em determinadas águas não UE e a sua repartição pelos Estados-Membros, assim como, se for caso disso, as condições a eles ligadas no plano funcional, são fixados no Anexo I.\n\n2. Os navios da UE são autorizados a realizar capturas, dentro dos TAC fixados no Anexo I, nas águas sob jurisdição de pesca das ilhas Faroé, da Gronelândia, da Islândia e da Noruega, bem como na zona de pesca em torno de Jan Mayen, nas condições estabelecidas no artigo 15.º e no Anexo III do presente regulamento, assim como no Regulamento (CE) n.º 1006/2008 [([^29])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr29-L_2011024PT.01000101-E0029) e suas disposições de execução.\n\n3. A Comissão fixa os TAC de capelim nas águas gronelandesas das subzonas CIEM V e XIV disponíveis para a União, com base no TAC e na atribuição à União estabelecidos pelo Acordo de Parceria no domínio da pesca entre a Comunidade Europeia, por um lado, e o Governo da Dinamarca e o Governo local da Gronelândia, por outro.\n\n4. À luz das informações científicas recolhidas no primeiro semestre de 2011, podem ser revistos pela Comissão, em conformidade com o procedimento referido no artigo 30.º, n.º 2, do Regulamento (CE) n.º 2371/2002, os TAC fixados no Anexo I para as populações de:\n\na) Galeota nas águas da UE das divisões CIEM IIa e IIIa e da subzona CIEM IV, de acordo com o Anexo II D do presente regulamento;\n\nb) Faneca da Noruega nas águas da UE das divisões CIEM IIa e IIIa e da subzona CIEM IV e espadilha nas águas da UE da divisão CIEM IIa e da subzona CIEM IV."
+  },
+  "56a7d193c0aec24f": {
+   "fragment_id": "Artigo 6.º — Disposições especiais para certos TAC",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Disposições especiais para certos TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições especiais para certos TAC\n\n1. Certos TAC no Anexo IA, identificados por uma nota de rodapé com uma remissão para o presente artigo, serão determinados pelo Estado-Membro em causa, com base nos dados recolhidos por esse Estado-Membro, a um nível que:\n\na) Seja coerente com os princípios e regras da política comum das pescas, em especial o princípio da exploração sustentável da população; e\n\nb) Resulte, com a maior probabilidade possível, numa exploração da população coerente com o rendimento máximo sustentável a partir de 2015.\n\n2. Até 28 de Fevereiro de 2011, o Estado-Membro em causa deve informar a Comissão do nível adoptado nos termos do n.º 1, e das medidas que tenciona tomar para cumprir essa disposição. À luz dessa informação e sempre que sejam cumpridas as condições previstas no artigo 7.º do Regulamento (CE) n.º 2371/2002, a Comissão pode decidir adoptar medidas de emergência."
+  },
+  "a03358394fca1b95": {
+   "fragment_id": "Artigo 7.º — Atribuição adicional para os navios que participam em ensaios sobre pescarias totalmente documentadas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atribuição adicional para os navios que participam em ensaios sobre pescarias totalmente documentadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuição adicional para os navios que participam em ensaios sobre pescarias totalmente documentadas\n\n1. Relativamente a certas populações enumeradas no Anexo IA e identificadas por uma nota de rodapé com uma remissão para o presente artigo, os Estados-Membros podem, nas condições estabelecidas no n.º 2 do presente artigo, conceder uma atribuição adicional aos navios que participam em ensaios sobre pescarias totalmente documentadas, dentro de um limite global estabelecido no Anexo IA, como percentagem da quota atribuída a esse Estado-Membro.\n\n2. Os Estados-Membros só podem conceder atribuições adicionais a navios em conformidade com as seguintes condições:\n\na) O navio utilizar câmaras de televisão em circuito fechado (CCTV), associadas a um sistema de sensores, que registem todas as actividades de pesca e transformação a bordo do navio;\n\nb) A quantidade da atribuição adicional concedida a um dado navio que participe em pescarias totalmente documentadas não ser superior a 75 % das devoluções para esse tipo de navio e, em todo o caso, não representar um aumento superior a 30 % em relação à atribuição do navio;\n\nc) Todas as capturas da população pertinente efectuadas por esse navio serem imputadas à sua atribuição.\n\n3. Caso um Estado-Membro detecte que um navio que participa em ensaios sobre pescarias totalmente documentadas não cumpre as condições estabelecidas no n.º 2 do presente artigo, retira imediatamente a atribuição adicional concedida ao navio em causa e exclui-o da participação nesses ensaios durante o resto do ano de 2011.\n\n4. Um Estado-Membro que tencione aplicar as disposições dos n.^os^ 1, 2 e 3 deve apresentar à Comissão, antes de proceder a qualquer atribuição adicional, a seguinte informação:\n\n— a lista dos navios que participam nos ensaios e as especificações do equipamento de monitorização electrónica remota instalado a bordo;\n\n— a capacidade, tipo e especificação das artes de pesca utilizadas por esses navios;\n\n— as taxas de devolução previsíveis desses tipos de navios; e\n\n— a quantidade das capturas da população objecto do TAC pertinente efectuadas por esses navios em 2010."
+  },
+  "fc2097777bf1bb83": {
+   "fragment_id": "Artigo 8.º — Espécies proibidas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Espécies proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Espécies proibidas\n\n1. É proibido aos navios de pesca da UE pescar, manter a bordo, transbordar ou desembarcar as seguintes espécies:\n\na) Tubarão-frade (*Cetorhinus maximus*) e tubarão-branco (*Carcharodon carcharias*) em todas as águas da UE e águas não UE;\n\nb) Anjo comum (*Squatina squatina*) em todas as águas da UE;\n\nc) Raia-oirega (*Dipturus batis*) nas águas da UE da divisão CIEM IIa e das subzonas CIEM III, IV, VI, VII, VIII, IX e X;\n\nd) Raia-curva (*Raja undulata*) e raia taigora (*Rostroraja alba*) nas águas da UE das subzonas CIEM VI, VII, VIII, IX e X;\n\ne) Tubarão-sardo (*Lamna nasus*) nas águas internacionais; e\n\nf) Violas (*Rinobatídeos*) nas águas da UE das subzonas I, II, III, IV, V, VI, VII, VIII, IX, X e XII.\n\n2. As espécies indicadas no n.º 1 devem, na medida do possível, ser prontamente soltas indemnes."
+  },
+  "6554542552c075ff": {
+   "fragment_id": "Artigo 9.º — Disposições especiais sobre a repartição das possibilidades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições especiais sobre a repartição das possibilidades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições especiais sobre a repartição das possibilidades de pesca\n\n1. A repartição das possibilidades de pesca pelos Estados-Membros, estabelecida no presente regulamento, é feita sem prejuízo:\n\na) Das trocas efectuadas em conformidade com o artigo 20.º, n.º 5, do Regulamento (CE) n.º 2371/2002;\n\nb) Das reatribuições efectuadas em conformidade com o artigo 37.º do Regulamento (CE) n.º 1224/2009 ou em conformidade com o artigo 10.º, n.º 4, do Regulamento (CE) n.º 1006/2008;\n\nc) Dos desembarques suplementares autorizados ao abrigo do artigo 3.º do Regulamento (CE) n.º 847/96;\n\nd) Das quantidades retiradas em conformidade com o artigo 4.º do Regulamento (CE) n.º 847/96;\n\ne) Das deduções efectuadas em conformidade com os artigos 37.º, 105.º, 106.º e 107.º do Regulamento (CE) n.º 1224/2009.\n\n2. Salvo disposição em contrário no Anexo I do presente regulamento, o artigo 3.º do Regulamento (CE) n.º 847/96 é aplicável às populações sujeitas a TAC de precaução e o artigo 3.º, n.^os^ 2 e 3, e o artigo 4.º do mesmo regulamento aplicável às populações sujeitas a TAC analíticos."
+  },
+  "68ea866fae142a89": {
+   "fragment_id": "Artigo 10.º — Limitações do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Limitações do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limitações do esforço de pesca\n\nDe 1 de Fevereiro de 2011 a 31 de Janeiro de 2012, as medidas relativas ao esforço de pesca estabelecidas:\n\na) No Anexo II A são aplicáveis à gestão de determinadas populações no Kattegat, no Skagerrak, na parte da divisão CIEM IIIa não abrangida pelo Skagerrak e Kattegat, na zona CIEM IV e nas divisões CIEM VIa, VIIa e VIId e nas águas da UE das divisões CIEM IIa e Vb;\n\nb) No Anexo II B são aplicáveis à recuperação da pescada e do lagostim nas divisões CIEM VIIIc e IXa, com excepção do Golfo de Cádiz;\n\nc) No Anexo II C são aplicáveis à gestão da população de linguado na divisão CIEM VIIe."
+  },
+  "037796235e9bed1e": {
+   "fragment_id": "Artigo 11.º — Limites de captura e de esforço na pesca de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Limites de captura e de esforço na pesca de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Limites de captura e de esforço na pesca de profundidade\n\n1. O artigo 3.º do Regulamento (CE) n.º 2347/2002 [([^30])](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntr30-L_2011024PT.01000101-E0030) é aplicável ao alabote da Gronelândia. A captura, a manutenção a bordo, o transbordo e o desembarque de alabote da Gronelândia estão sujeitos às condições referidas nesse artigo.\n\n2. Os Estados-Membros devem garantir que, em 2011, os níveis de esforço de pesca, expressos em quilowatts-dias de ausência do porto, dos navios que possuem uma autorização de pesca de profundidade referidos no artigo 3.º do Regulamento (CE) n.º 2347/2002 não excedam 65 % da média do esforço de pesca anual desenvolvido pelos seus navios em 2003 nas viagens para as quais possuíam autorizações de pesca de profundidade ou em que capturaram espécies de profundidade, indicadas nos Anexos I e II desse regulamento. O presente número só é aplicável às viagens de pesca em que sejam capturados mais de 100 kg de espécies de profundidade, com exclusão da argentina dourada."
+  },
+  "cf93977e4445871b": {
+   "fragment_id": "Artigo 12.º — Condições de desembarque das capturas e das capturas acessórias",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Condições de desembarque das capturas e das capturas acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições de desembarque das capturas e das capturas acessórias\n\nOs peixes de populações para as quais são fixados TAC só podem ser mantidos a bordo ou desembarcados se:\n\na) As capturas tiverem sido efectuadas por navios de um Estado-Membro que disponha de uma quota ainda não esgotada; ou\n\nb) As capturas consistirem numa parte de uma quota da UE que não tenha sido repartida sob a forma de quotas pelos Estados-Membros e essa quota não tiver sido esgotada."
+  },
+  "eb5833f6e0d11cfc": {
+   "fragment_id": "Artigo 13.º — Limitações à exploração de determinadas possibilidades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Limitações à exploração de determinadas possibilidades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Limitações à exploração de determinadas possibilidades de pesca\n\n1. As possibilidades de pesca fixadas no Anexo I para a bolota, o bacalhau, o areeiro, o tamboril, a arinca, o badejo, a pescada, a maruca azul, a maruca comum, o lagostim, a solha, a juliana, o escamudo, as raias, o linguado e o galhudo malhado na subzona CIEM VII ou respectivas divisões pertinentes são limitadas pela proibição de pescar ou manter a bordo qualquer uma destas espécies no período compreendido entre 1 de Maio e 31 de Julho de 2011 no Banco de Porcupine. As rubricas pertinentes do Anexo I são identificadas através de remissão para o presente artigo.\n\n2. Para efeitos do presente artigo, o Banco de Porcupine inclui a zona delimitada por linhas de rumo que unem sequencialmente as seguintes posições:\n\n| Ponto | Latitude | Longitude |\n| --- | --- | --- |\n| 1 | 52° 27′ N | 12° 19′ W |\n| 2 | 52° 40′ N | 12° 30′ W |\n| 3 | 52° 47′ N | 12° 39,600′ W |\n| 4 | 52° 47′ N | 12° 56′ W |\n| 5 | 52° 13,5′ N | 13° 53,830′ W |\n| 6 | 51° 22′ N | 14° 24′ W |\n| 7 | 51° 22′ N | 14° 03′ W |\n| 8 | 52° 10′ N | 13° 25′ W |\n| 9 | 52° 32′ N | 13° 07,500′ W |\n| 10 | 52° 43′ N | 12° 55′ W |\n| 11 | 52° 43′ N | 12° 43′ W |\n| 12 | 52° 38,800′ N | 12° 37′ W |\n| 13 | 52° 27′ N | 12° 23′ W |\n| 14 | 52° 27′ N | 12° 19′ W |\n\n3. Em derrogação do n.º 1 do presente artigo, o trânsito através do Banco de Porcupine tendo a bordo as espécies referidas naquele número, será autorizado em conformidade com o disposto no artigo 50.º, n.^os^ 3, 4 e 5, do Regulamento (CE) n.º 1224/2009."
+  },
+  "36f2232038429ea4": {
+   "fragment_id": "Artigo 14.º — Transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissão de dados\n\nSempre que, em conformidade com os artigos 33.º e 34.º do Regulamento (CE) n.º 1224/2009, enviem à Comissão dados relativos às quantidades de populações desembarcadas, os Estados-Membros devem utilizar os códigos das espécies constantes do Anexo I do presente regulamento."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "dcf64440814ffb3d": {
+   "fragment_id": "Autorizações de pesca nas águas de países terceiros",
+   "type": "divisao",
+   "heading": "Autorizações de pesca nas águas de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Autorizações de pesca nas águas de países terceiros"
+  },
+  "c083399d9f66216d": {
+   "fragment_id": "Artigo 15.º — Autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Autorizações de pesca\n\n1. O número máximo de autorizações de pesca para os navios da UE que pescam nas águas de um país terceiro é fixado no Anexo III.\n\n2. Sempre que um Estado-Membro transfira uma quota para outro Estado-Membro (troca de quotas) nas zonas de pesca definidas no Anexo III, com base no artigo 20.º, n.º 5, do Regulamento (CE) n.º 2371/2002, essa transferência inclui a correspondente transferência de autorizações de pesca e deve ser notificada à Comissão. Não pode, contudo, ser excedido o número total de autorizações de pesca previsto para cada zona de pesca, indicado no Anexo III."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "6100ec61c51c85f4": {
+   "fragment_id": "Possibilidades de pesca nas águas das organizações regionais de gestão das pescas",
+   "type": "divisao",
+   "heading": "Possibilidades de pesca nas águas das organizações regionais de gestão das pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Possibilidades de pesca nas águas das organizações regionais de gestão das pescas"
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "052bf33dd10a4f77": {
+   "fragment_id": "Zona da Convenção internacional para a conservação dos tunídeos do Atlântico (ICCAT)",
+   "type": "divisao",
+   "heading": "Zona da Convenção internacional para a conservação dos tunídeos do Atlântico (ICCAT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Convenção internacional para a conservação dos tunídeos do Atlântico (ICCAT)"
+  },
+  "74996480fd9afb53": {
+   "fragment_id": "Artigo 16.º — Limitações aplicáveis à pesca e às capacidades de cultura e engorda de atum rabilho",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Limitações aplicáveis à pesca e às capacidades de cultura e engorda de atum rabilho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Limitações aplicáveis à pesca e às capacidades de cultura e engorda de atum rabilho\n\n1. O número de navios de pesca com canas (isco) e navios de pesca ao corrico da UE autorizados a pescar activamente atum rabilho entre 8 kg/75 cm e 30 kg/115 cm no Atlântico leste é limitado em conformidade com o Anexo IV, ponto 1.\n\n2. O número de navios de pesca artesanal costeira da UE autorizados a pescar activamente atum rabilho entre 8 kg/75 cm e 30 kg/115 cm no Mediterrâneo é limitado em conformidade com o Anexo IV, ponto 2.\n\n3. O número de navios da UE que pescam atum rabilho no mar Adriático para fins de cultura autorizados a pescar activamente atum rabilho entre 8 kg/75 cm e 30 kg/115 cm é limitado em conformidade com o Anexo IV, ponto 3.\n\n4. O número e a capacidade total em arqueação bruta dos navios de pesca autorizados a pescar, manter a bordo, transbordar, transportar ou desembarcar atum rabilho no Atlântico leste e no Mediterrâneo é limitado em conformidade com o Anexo IV, ponto 4.\n\n5. O número de armadilhas utilizadas na pesca do atum rabilho no Atlântico leste e no Mediterrâneo é limitado em conformidade com o Anexo IV, ponto 5.\n\n6. A capacidade de cultura e de engorda de atum rabilho e a quantidade máxima de atum rabilho selvagem atribuída às explorações no Atlântico leste e no Mediterrâneo são limitadas em conformidade com o Anexo IV, ponto 6."
+  },
+  "13bcf2eb576c49a7": {
+   "fragment_id": "Artigo 17.º — Condições suplementares aplicáveis à quota de atum rabilho atribuída no Anexo I D",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Condições suplementares aplicáveis à quota de atum rabilho atribuída no Anexo I D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Condições suplementares aplicáveis à quota de atum rabilho atribuída no Anexo I D\n\nPara além do período de proibição previsto no artigo 7.º, n.º 2, do Regulamento (CE) n.º 302/2009, é proibida a pesca do atum rabilho com redes de cerco com retenida no Atlântico leste e no Mediterrâneo no período compreendido entre 15 de Abril e 15 de Maio de 2011."
+  },
+  "ad8c8c383df0c0b1": {
+   "fragment_id": "Artigo 18.º — Pesca de lazer e desportiva",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Pesca de lazer e desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pesca de lazer e desportiva\n\nOs Estados-Membros atribuem uma quota específica de atum rabilho para a pesca de lazer e desportiva com base nas quotas atribuídas no Anexo I D."
+  },
+  "a0277ea27856b565": {
+   "fragment_id": "Artigo 19.º — Tubarões",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Tubarões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Tubarões\n\n1. É proibido manter a bordo, transbordar ou desembarcar qualquer parte de carcaça ou carcaça inteira de tubarão-raposo-olhudo (*Alopias superciliosus*) em qualquer pescaria.\n\n2. É proibido exercer a pesca dirigida a espécies de tubarões-raposo do género *Alopias*.\n\n3. É proibido manter a bordo, transbordar ou desembarcar qualquer parte de carcaça ou carcaça inteira de tubarões-martelo da família dos *Esfirnídeos* (com excepção do *Sphyrna tiburo*) em associação com pescarias ICCAT.\n\n4. É proibido manter a bordo, transbordar ou desembarcar qualquer parte de carcaça ou carcaça inteira de tubarão de pontas brancas (*Carcharhinus longimanus*) capturado em qualquer pescaria."
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "48391ef20c8e9a4f": {
+   "fragment_id": "Zona da Convenção sobre a conservação da fauna e da flora marinhas da Antárctida (CCAMLR)",
+   "type": "divisao",
+   "heading": "Zona da Convenção sobre a conservação da fauna e da flora marinhas da Antárctida (CCAMLR)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Convenção sobre a conservação da fauna e da flora marinhas da Antárctida (CCAMLR)"
+  },
+  "c38a2dd1907a7c62": {
+   "fragment_id": "Artigo 20.º — Proibições e limites de captura",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Proibições e limites de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Proibições e limites de captura\n\n1. A pesca dirigida às espécies constantes do Anexo V, parte A, é proibida nas zonas e nos períodos indicados nesse anexo.\n\n2. No respeitante às novas pescarias e à pesca exploratória, os TAC e os limites de capturas acessórias fixados no Anexo V, parte B, são aplicáveis nas subzonas indicadas nessa parte."
+  },
+  "ab8f2e1dfbe2968a": {
+   "fragment_id": "Artigo 21.º — Pesca exploratória",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Pesca exploratória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pesca exploratória\n\n1. Apenas os Estados-Membros que sejam membros da Comissão da CCAMLR podem participar na pesca exploratória de *Dissostichus spp*. com palangre nas subzonas FAO 88.1 e 88.2 e nas divisões 58.4.1 e 58.4.2 fora das zonas sob jurisdição nacional na campanha de pesca de 2011. Se um Estado-Membro pretender participar nessas pescarias, notifica o Secretariado da CCAMLR em conformidade com os artigos 7.º e 7.º-A do Regulamento (CE) n.º 601/2004 até 24 de Julho de 2011.\n\n2. Para as subzonas FAO 88.1 e 88.2 e as divisões 58.4.1 e 58.4.2, os TAC e os limites de capturas acessórias por subzona e divisão e a sua repartição por unidades de investigação em pequena escala (Small Scale Research Units – SSRU) em cada subzona e divisão constam do Anexo V, parte B. A pesca em qualquer SSRU é suspensa sempre que as capturas comunicadas atinjam o TAC fixado, permanecendo a referida SSRU encerrada à pesca durante o resto da campanha.\n\n3. A pesca deve ser exercida numa zona geográfica e batimétrica o mais ampla possível, a fim de obter as informações necessárias para determinar o potencial de pesca e evitar uma concentração excessiva das capturas e do esforço de pesca. Contudo, a pesca nas subzonas FAO 88.1 e 88.2 e nas divisões 58.4.1 e 58.4.2 é proibida em profundidades inferiores a 550 m."
+  },
+  "2bc915ef50bf79ac": {
+   "fragment_id": "Artigo 22.º — Pesca do kril do Antártico na campanha de pesca de 201/2012",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Pesca do kril do Antártico na campanha de pesca de 201/2012",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pesca do kril do Antártico na campanha de pesca de 201/2012\n\n1. Na campanha de pesca de 2011/2012, apenas são autorizados a pescar kril do Antártico (*Euphausia superba*) na zona da Convenção CCAMLR os Estados-Membros que sejam membros da Comissão da CCAMLR. Se pretenderem pescar kril do Antártico na zona da Convenção CCAMLR, esses Estados-Membros notificam o Secretariado da CCAMLR, em conformidade com o artigo 5.º-A do Regulamento (CE) n.º 601/2004 e a Comissão até 1 de Junho de 2011:\n\na) Da sua intenção de pescar kril do Antártico, usando o formulário constante do Anexo V, parte C;\n\nb) Da configuração das redes, usando o formulário constante do Anexo V, parte D.\n\n2. A notificação mencionada no n.º 1 do presente artigo deve incluir a informação prevista no artigo 3.º do Regulamento (CE) n.º 601/2004 para cada navio a autorizar pelo Estado-Membro a participar na pescaria de kril do Antártico.\n\n3. Os Estados-Membros que tencionem pescar kril do Antártico na zona da CCAMLR apenas notificam os navios autorizados que arvoram o seu pavilhão no momento da notificação.\n\n4. Os Estados-Membros podem autorizar a participação na pesca de kril do Antártico de um navio diferente do notificado ao Secretariado da CCAMLR em conformidade com os n.^os^ 1, 2 e 3 do presente artigo, se o navio notificado estiver impedido de participar, por motivos operacionais legítimos ou de força maior. Nessas circunstâncias, os Estados-Membros em causa informam imediatamente o Secretariado da CCAMLR e a Comissão, apresentando:\n\na) Os dados completos sobre o(s) navio(s) de substituição previsto(s), incluindo as informações previstas no artigo 3.º do Regulamento (CE) n.º 601/2004;\n\nb) Uma lista completa dos motivos que justificam a substituição e quaisquer elementos comprovativos ou referências pertinentes desses motivos.\n\n5. Os Estados-Membros não autorizam os navios que estejam numa das listas de navios INN da CCAMLR a participar na pesca do kril do Antártico."
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "f9792b6be3de5a27": {
+   "fragment_id": "Zona da Comissão do Atum do Oceano Índico (IOTC)",
+   "type": "divisao",
+   "heading": "Zona da Comissão do Atum do Oceano Índico (IOTC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Comissão do Atum do Oceano Índico (IOTC)"
+  },
+  "8e117f334c55dea9": {
+   "fragment_id": "Artigo 23.º — Limitação da capacidade de pesca dos navios que pescam na zona da IOTC",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Limitação da capacidade de pesca dos navios que pescam na zona da IOTC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Limitação da capacidade de pesca dos navios que pescam na zona da IOTC\n\n1. O número máximo de navios da UE autorizados a pescar atum tropical na zona da IOTC e a capacidade correspondente em arqueação bruta (GT) são indicados no Anexo VI, ponto 1.\n\n2. O número máximo de navios da UE autorizados a pescar espadarte (*Xiphias gladius*) e atum voador (*Thunnus alalunga*) na zona da IOTC e a capacidade correspondente em arqueação bruta (GT) são indicados no Anexo VI, ponto 2.\n\n3. Os Estados-Membros podem reafectar os navios que tiverem sido designados para participar numa das duas pescarias referidas nos n.^os^ 1 e 2 à outra pescaria, desde que demonstrem à Comissão que essa alteração não conduz a um aumento do esforço de pesca das populações de peixes em causa.\n\n4. Sempre que seja proposta uma transferência da capacidade da sua frota, os Estados-Membros devem assegurar que os navios a transferir constem do registo de navios da IOTC ou do registo de navios de outras organizações regionais de pesca do atum. Não é autorizada a transferência de navios constantes da lista de navios que exerceram actividades de pesca ilegal, não declarada e não regulamentada (navios INN) de uma organização regional de gestão das pescas.\n\n5. A fim de ter em conta a aplicação dos planos de desenvolvimento apresentados à IOTC, os Estados-Membros só podem aumentar as limitações da capacidade de pesca mencionadas nos n.^os^ 1 e 2 nos limites definidos nesses planos."
+  },
+  "347496c5b157f0d0": {
+   "fragment_id": "Artigo 24.º — Tubarões",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Tubarões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Tubarões\n\n1. É proibido manter a bordo, transbordar ou desembarcar qualquer parte de carcaça ou carcaça inteira de tubarão-raposo de qualquer espécie da família dos *Alopídeos* em qualquer pescaria.\n\n2. As espécies indicadas no n.º 1 devem, na medida do possível, ser prontamente soltas indemnes."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "dc322cda70078bde": {
+   "fragment_id": "Zona da Organização Regional de Gestão das Pescas para o Pacífico Sul (SPRFMO)",
+   "type": "divisao",
+   "heading": "Zona da Organização Regional de Gestão das Pescas para o Pacífico Sul (SPRFMO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Organização Regional de Gestão das Pescas para o Pacífico Sul (SPRFMO)"
+  },
+  "5c291c156d08bc21": {
+   "fragment_id": "Artigo 25.º — Pesca pelágica – limitação da capacidade",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Pesca pelágica – limitação da capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pesca pelágica – limitação da capacidade\n\nOs Estados-Membros que tenham exercido activamente actividades de pesca pelágica na zona da Convenção SPRFMO em 2007, 2008 ou 2009 devem limitar o nível total da arqueação bruta (GT) dos navios que arvoram o seu pavilhão e se dedicam à pesca de populações pelágicas em 2011 a um total de 78 610 GT nessa zona, por forma a assegurar a exploração sustentável dos recursos haliêuticos pelágicos no Pacífico Sul."
+  },
+  "55f01664bacd3ce2": {
+   "fragment_id": "Artigo 26.º — Pesca pelágica – TAC",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Pesca pelágica – TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pesca pelágica – TAC\n\n1. Apenas os Estados-Membros que tenham exercido activamente actividades de pesca pelágica na zona da Convenção SPRFMO em 2007, 2008 ou 2009, como referido no artigo 25.º, podem pescar populações pelágicas nessa zona, no respeito dos TAC estabelecidos no Anexo I J.\n\n2. Os Estados-Membros devem comunicar mensalmente à Comissão os nomes e as características, incluindo a arqueação bruta (GT), dos respectivos navios que participam nas pescarias referidas no presente artigo.\n\n3. Para efeitos de controlo da pesca a que se refere o presente artigo, os Estados-Membros devem, até ao décimo quinto dia do mês seguinte, enviar à Comissão, que os transmite ao Secretariado provisório da SPRFMO, os registos dos sistemas de monitorização dos navios (VMS), as declarações mensais de capturas e, sempre que disponíveis, as escalas nos portos."
+  },
+  "e47d2851202697cb": {
+   "fragment_id": "Artigo 27.º — Pesca de fundo",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Pesca de fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pesca de fundo\n\nOs Estados-Membros a que se refere o artigo 25.º limitam o esforço ou as capturas registados na pesca de fundo na zona da Convenção SPRFMO aos níveis anuais médios verificados no período compreendido entre 1 de Janeiro de 2002 e 31 de Dezembro de 2006, em termos de número de navios de pesca e outros parâmetros que reflictam o nível das capturas, o esforço de pesca e a capacidade de pesca, assim como às partes da zona da Convenção SPRFMO em que tenha sido exercida uma pesca de fundo na campanha de pesca anterior."
+  },
+  "744a62350cf0c0fd": {
+   "fragment_id": "Secção 5",
+   "type": "divisao",
+   "heading": "Secção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 5"
+  },
+  "24286f33b983cdfc": {
+   "fragment_id": "Zona da Convenção Interamericana do Atum Tropical (CIAT)",
+   "type": "divisao",
+   "heading": "Zona da Convenção Interamericana do Atum Tropical (CIAT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Convenção Interamericana do Atum Tropical (CIAT)"
+  },
+  "abd468d36c75e1a6": {
+   "fragment_id": "Artigo 28.º — Pesca com redes de arrasto com retenida",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Pesca com redes de arrasto com retenida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pesca com redes de arrasto com retenida\n\n1. É proibida a pesca de atum albacora (*Thunnus albacares*), atum patudo (*Thunnus obesus*) e gaiado (*Katsuwonus pelamis*) por cercadores com rede de cerco com retenida:\n\na) De 29 de Julho a 28 de Setembro de 2011 ou de 18 de Novembro de 2011 a 18 de Janeiro de 2012 na zona delimitada do seguinte modo: — costas pacíficas das Américas, — longitude 150.°W, — latitude 40° N, — latitude 40° S;\n\n— costas pacíficas das Américas,\n\n— longitude 150.°W,\n\n— latitude 40° N,\n\n— latitude 40° S;\n\nb) De 29 de Setembro a 29 de Outubro de 2011 na zona delimitada do seguinte modo: — longitude 96° W, — longitude 110.° W, — latitude 4° N, — latitude 3° S.\n\n— longitude 96° W,\n\n— longitude 110.° W,\n\n— latitude 4° N,\n\n— latitude 3° S.\n\n2. Os Estados-Membros em causa notificam a Comissão, antes de 1 de Abril de 2011, do período de defeso referido no n.º 1, alínea a). No período escolhido, todos os cercadores com rede de cerco com retenida dos Estados-Membros em causa devem cessar a pesca com redes de cerco com retenida na zona definida no n.º 1 do presente artigo.\n\n3. Os cercadores com rede de cerco com retenida que pescam atum na Área de Regulamentação da CIAT retêm a bordo e desembarcam, em seguida, todas as capturas de albacora, patudo e gaiado, excepto quando se trate de pescado considerado impróprio para consumo humano por motivos não ligados ao tamanho. A única excepção é o último lanço da viagem, quando o espaço no tanque pode ser insuficiente para acolher todos os atuns capturados nesse lanço."
+  },
+  "6b50f1e0d1ff625f": {
+   "fragment_id": "Secção 6",
+   "type": "divisao",
+   "heading": "Secção 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 6"
+  },
+  "627e74017d02377b": {
+   "fragment_id": "Zona da Organização das Pescarias do Atlântico Sudeste (SEAFO)",
+   "type": "divisao",
+   "heading": "Zona da Organização das Pescarias do Atlântico Sudeste (SEAFO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Organização das Pescarias do Atlântico Sudeste (SEAFO)"
+  },
+  "0f69c22a7a2e438f": {
+   "fragment_id": "Artigo 29.º — Medidas de protecção dos tubarões de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Medidas de protecção dos tubarões de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Medidas de protecção dos tubarões de profundidade\n\nNa zona da Convenção SEAFO, é proibida a pesca dirigida aos tubarões de profundidade a seguir indicados:\n\n— raias (*Rajídeos*),\n\n— galhudo-malhado (*Squalus acanthias*),\n\n— lixinha-esfumada (*Etmopterus bigelowi*),\n\n— lixinha-de-cauda-curta (*Etmopterus brachyurus*),\n\n— lixinha-grande (*Etmopterus princeps*),\n\n— lixinha-lisa (*Etmopterus pusillus*),\n\n— patarroxa-fantasma (*Apristurus manis*),\n\n— arreganhada-de-veludo (*Scymnodon squamulosus*)\n\n— e tubarões de profundidade da superordem dos *Selachimorpha*."
+  },
+  "ca0b36494085e8fc": {
+   "fragment_id": "Secção 7",
+   "type": "divisao",
+   "heading": "Secção 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 7"
+  },
+  "cf8337a6597dd9ee": {
+   "fragment_id": "Zona da Convenção das Pescas do Pacífico Ocidentale Central (WCPFC)",
+   "type": "divisao",
+   "heading": "Zona da Convenção das Pescas do Pacífico Ocidentale Central (WCPFC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona da Convenção das Pescas do Pacífico Ocidentale Central (WCPFC)"
+  },
+  "0ab3b4e3174eb39a": {
+   "fragment_id": "Artigo 30.º — Limitações do esforço de pesca de atum patudo, atum albacora, gaiado e atum voador",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Limitações do esforço de pesca de atum patudo, atum albacora, gaiado e atum voador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Limitações do esforço de pesca de atum patudo, atum albacora, gaiado e atum voador\n\nOs Estados-Membros asseguram que o esforço de pesca total exercido em relação ao atum patudo (*Thunnus obesus*), atum albacora (*Thunnus albacares*), gaiado (*Katsuwonus pelamis*) e atum voador (*Thunnus alalunga*) na zona da Convenção WCPFC se limite ao esforço de pesca previsto nos acordos de pesca de parceria celebrados entre a União e os Estados costeiros da região."
+  },
+  "c57032f03dd150fa": {
+   "fragment_id": "Artigo 31.º — Zona de proibição da pesca com dispositivos de concentração dos peixes",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Zona de proibição da pesca com dispositivos de concentração dos peixes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Zona de proibição da pesca com dispositivos de concentração dos peixes\n\n1. Na parte da zona da Convenção WCPFC situada entre 20° N e 20° S, são proibidas, entre as 00:00 horas de 1 de Julho de 2011 e as 24:00 horas de 30 de Setembro de 2011, as actividades de pesca de cercadores com rede de cerco com retenida que utilizem dispositivos de concentração de peixes. Durante esse período, os cercadores com rede de cerco com retenida só podem pescar nessa parte da zona da Convenção WCPFC se estiver presente a bordo um observador para verificar que o navio nunca:\n\na) Utiliza um dispositivo de concentração de peixes ou qualquer equipamento electrónico associado;\n\nb) Exerce uma pesca dirigida a cardumes em associação com um dispositivo de concentração de peixes.\n\n2. Todos os cercadores com rede de cerco com retenida que pesquem na parte da zona da Convenção WCPFC referida no n.º 1 devem manter a bordo e desembarcar ou transbordar todas as capturas de atum patudo, atum albacora e gaiado.\n\n3. O disposto no n.º 2 não se aplica nos seguintes casos:\n\na) No último lanço de uma viagem, se o navio não tiver espaço suficiente no tanque para acolher todo o pescado;\n\nb) Nos casos em que o pescado é impróprio para consumo humano por motivos não relacionados com o seu tamanho; ou\n\nc) Em caso de falha grave do equipamento de congelação."
+  },
+  "396b43ff6cb5ff94": {
+   "fragment_id": "Artigo 32.º — Zonas de proibição da pesca por cercadores com redes de cerco com retenida",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Zonas de proibição da pesca por cercadores com redes de cerco com retenida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Zonas de proibição da pesca por cercadores com redes de cerco com retenida\n\nA pesca de atum patudo e atum albacora por cercadores com rede de cerco com retenida é proibida nas seguintes zonas do mar alto:\n\na) Águas internacionais definidas pelos limites das zonas económicas exclusivas da Indonésia, Palau, Micronésia e Papua-Nova Guiné;\n\nb) Águas internacionais definidas pelos limites das zonas económicas exclusivas da Micronésia, Ilhas Marshall, Nauru, Quiribáti, Tuvalu, Ilhas Fiji, Ilhas Salomão e Papua-Nova Guiné."
+  },
+  "f1bda1b7da301a88": {
+   "fragment_id": "Artigo 33.º — Limitação do número de navios da UE autorizados a pescar espadarte",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Limitação do número de navios da UE autorizados a pescar espadarte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Limitação do número de navios da UE autorizados a pescar espadarte\n\nO número máximo de navios da UE autorizados a pescar espadarte (*Xiphias gladius*) nas zonas a sul de 20° S da zona da Convenção WCPFC consta do Anexo VII."
+  },
+  "be56234d3621f9e1": {
+   "fragment_id": "Secção 8",
+   "type": "divisao",
+   "heading": "Secção 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 8"
+  },
+  "f84c4457b565ff77": {
+   "fragment_id": "Mar de Bering",
+   "type": "divisao",
+   "heading": "Mar de Bering",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar de Bering"
+  },
+  "df9bc144b82ac625": {
+   "fragment_id": "Artigo 34.º — Proibição de pescar nas águas do alto no Mar de Bering",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Proibição de pescar nas águas do alto no Mar de Bering",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Proibição de pescar nas águas do alto no Mar de Bering\n\nÉ proibida a pesca do escamudo (*Theragra chalcogramma*) nas águas do alto no Mar de Bering."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "b7f00def1a5a8829": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PAÍSES TERCEIROS NAS ÁGUAS DA UE",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PAÍSES TERCEIROS NAS ÁGUAS DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PAÍSES TERCEIROS NAS ÁGUAS DA UE"
+  },
+  "0168193cd60a2254": {
+   "fragment_id": "Artigo 35.º — TAC",
+   "type": "artigo",
+   "heading": "Artigo 35.º — TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — TAC\n\nOs navios de pesca que arvoram pavilhão da Noruega, assim como os navios de pesca registados nas ilhas Faroé, são autorizados a realizar capturas nas águas da UE, no respeito dos TAC fixados no Anexo I e em conformidade com nas condições previstas no presente título e no capítulo III do Regulamento (CE) n.º 1006/2008."
+  },
+  "7b4b7ae638ce7055": {
+   "fragment_id": "Artigo 36.º — Autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Autorizações de pesca\n\n1. O número máximo de autorizações de pesca para os navios de países terceiros que pescam nas águas da UE é fixado no Anexo VIII.\n\n2. Os peixes de populações para as quais são fixados TAC não podem ser mantidos a bordo nem desembarcados, a não ser que as capturas tenham sido efectuadas por navios de pesca de um país terceiro que disponha de uma quota ainda não esgotada."
+  },
+  "08523f566d9ee29d": {
+   "fragment_id": "Artigo 37.º — Espécies proibidas",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Espécies proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Espécies proibidas\n\n1. É proibido aos navios de pesca de países terceiros pescar, manter a bordo, transbordar ou desembarcar as seguintes espécies:\n\na) Tubarão-frade (*Cetorhinus maximus*) e tubarão-branco (*Carcharodon carcharias*) em todas as águas da UE;\n\nb) Anjo comum (*Squatina squatina*) em todas as águas da UE;\n\nc) Raia-oirega (*Dipturus batis*) nas águas da UE da divisão CIEM IIa e das subzonas CIEM III, IV, VI, VII, VIII, IX e X;\n\nd) Raia curva (*Raja undulata*) e raia-tairoga (*Rostroraja alba*) nas águas da UE das subzonas CIEM VI, VII, VIII, IX e X; e\n\ne) Violas (*Rinobatídeos*) nas águas da UE das subzonas I, II, III, IV, V, VI, VII, VIII, IX, X e XII.\n\n2. As espécies indicadas no n.º 1 devem, na medida do possível, ser prontamente soltas indemnes."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "1b05dc436c898318": {
+   "fragment_id": "Artigo 38.º — Alteração do Regulamento (CE) n.º 754/2009",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Alteração do Regulamento (CE) n.º 754/2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alteração do Regulamento (CE) n.º 754/2009\n\nA alínea h) do artigo 1.º do Regulamento (CE) n.º 754/2009 é suprimida."
+  },
+  "116ee2c5f0524709": {
+   "fragment_id": "Artigo 39.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2011.\n\nNo entanto, o artigo 38.º é aplicável a partir de 1 de Fevereiro de 2011.\n\nNos casos em que as possibilidades de pesca para a zona da Convenção CCAMLR são fixadas relativamente a períodos que começam antes de 1 de Janeiro de 2011, os artigos 20.º, 21.º e 22.º e os Anexos I E e V são aplicáveis com efeitos a partir do início dos respectivos períodos de aplicação dessas possibilidades de pesca.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 18 de Janeiro de 2011.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**MARTONYI J.**\n\n---"
+  },
+  "86400a7047a7e3f1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc1-L_2011024PT.01000101-E0001) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc2-L_2011024PT.01000101-E0002) [JO L 150 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_150_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc3-L_2011024PT.01000101-E0003) [JO L 345 de 28.12.2005, p. 5](http://publications.europa.eu/resource/oj/JOL_2005_345_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc4-L_2011024PT.01000101-E0004) [JO L 65 de 7.3.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_065_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc5-L_2011024PT.01000101-E0005) [JO L 122 de 11.5.2007, p. 7](http://publications.europa.eu/resource/oj/JOL_2007_122_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc6-L_2011024PT.01000101-E0006) [JO L 157 de 19.6.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_157_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc7-L_2011024PT.01000101-E0007) [JO L 344 de 20.12.2008, p. 6](http://publications.europa.eu/resource/oj/JOL_2008_344_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc8-L_2011024PT.01000101-E0008) [JO L 348 de 24.12.2008, p. 20](http://publications.europa.eu/resource/oj/JOL_2008_348_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc9-L_2011024PT.01000101-E0009) [JO L 96 de 15.4.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_096_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc10-L_2011024PT.01000101-E0010) [JO L 115 de 9.5.1996, p. 3](http://publications.europa.eu/resource/oj/JOL_1996_115_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc11-L_2011024PT.01000101-E0011) [JO L 214 de 19.8.2009, p. 16](http://publications.europa.eu/resource/oj/JOL_2009_214_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc12-L_2011024PT.01000101-E0012) Regulamento (UE) n.º 53/2010 do Conselho, de 14 de Janeiro de 2010, que fixa, para 2010, em relação a determinadas populações de peixes ou grupos de populações de peixes, as possibilidades de pesca aplicáveis nas águas da UE e, para os navios de pesca da UE, nas águas sujeitas a limitações das capturas ([JO L 21 de 26.1.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_021_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc13-L_2011024PT.01000101-E0013) Acordo de Pesca entre a Comunidade Económica Europeia e o Reino da Noruega ([JO L 226 de 29.8.1980, p. 48](http://publications.europa.eu/resource/oj/JOL_1980_226_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc14-L_2011024PT.01000101-E0014) Acordo de Pesca entre a Comunidade Económica Europeia, por um lado, e o Governo da Dinamarca e o Governo local das Ilhas Faroé, por outro ([JO L 226 de 29.8.1980, p. 12](http://publications.europa.eu/resource/oj/JOL_1980_226_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc15-L_2011024PT.01000101-E0015) Acordo de Parceria no domínio da pesca entre a Comunidade Europeia, por um lado, e o Governo da Dinamarca e o Governo local da Gronelândia, por outro ([JO L 172 de 30.6.2007, p. 4](http://publications.europa.eu/resource/oj/JOL_2007_172_R_TOC)) e Protocolo que fixa as possibilidades de pesca e a contrapartida financeira previstas nesse Acordo ([JO L 172 de 30.6.2007, p. 9](http://publications.europa.eu/resource/oj/JOL_2007_172_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc16-L_2011024PT.01000101-E0016) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc17-L_2011024PT.01000101-E0017) [JO L 343 de 22.12.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_343_R_TOC).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc18-L_2011024PT.01000101-E0018) Regulamento (CE) n.º 517/2008 da Comissão, de 10 de Junho de 2008, que estabelece regras de execução do Regulamento (CE) n.º 850/98 do Conselho no que respeita à determinação da malhagem e à avaliação da espessura do fio das redes de pesca ([JO L 151 de 11.6.2008, p. 5](http://publications.europa.eu/resource/oj/JOL_2008_151_R_TOC)).\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc19-L_2011024PT.01000101-E0019) Regulamento (CE) n.º 218/2009 do Parlamento Europeu e do Conselho, de 11 de Março de 2009, relativo à apresentação de estatísticas sobre as capturas nominais efectuadas pelos Estados-membros que pescam no Nordeste do Atlântico (reformulação) ([JO L 87 de 31.3.2009, p. 70](http://publications.europa.eu/resource/oj/JOL_2009_087_R_TOC)).\n\n> [(^20^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc20-L_2011024PT.01000101-E0020) Regulamento (CE) n.º 216/2009 do Parlamento Europeu e do Conselho, de 11 de Março de 2009, relativo à apresentação de estatísticas de capturas nominais efectuadas pelos Estados-Membros que pescam em certas zonas, com exclusão das do Atlântico Norte (reformulação) ([JO L 87 de 31.3.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_087_R_TOC)).\n\n> [(^21^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc21-L_2011024PT.01000101-E0021) Regulamento (CE) n.º 217/2009 do Parlamento Europeu e do Conselho, de 11 de Março de 2009, relativo à apresentação de estatísticas sobre as capturas e a actividade de pesca dos Estados-Membros que pescam no Noroeste do Atlântico (reformulação) ([JO L 87 de 31.3.2009, p. 42](http://publications.europa.eu/resource/oj/JOL_2009_087_R_TOC)).\n\n> [(^22^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc22-L_2011024PT.01000101-E0022) Celebrada pela Decisão 2002/738/CE do Conselho ([JO L 234 de 31.8.2002, p. 39](http://publications.europa.eu/resource/oj/JOL_2002_234_R_TOC)).\n\n> [(^23^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc23-L_2011024PT.01000101-E0023) A União Europeia aderiu a esta Convenção pela Decisão 86/238/CEE do Conselho ([JO L 162, de 18.6.1986, p. 33](http://publications.europa.eu/resource/oj/JOL_1986_162_R_TOC)).\n\n> [(^24^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc24-L_2011024PT.01000101-E0024) Regulamento (CE) n.º 601/2004, de 22 de Março de 2004, que fixa determinadas medidas de controlo aplicáveis às actividades de pesca na zona da Convenção sobre a conservação da fauna e da flora marinhas da Antárctida ([JO L 97 de 1.4.2004, p. 16](http://publications.europa.eu/resource/oj/JOL_2004_097_R_TOC)).\n\n> [(^25^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc25-L_2011024PT.01000101-E0025) Celebrada pela Decisão 2006/539/CE do Conselho ([JO L 224 de 16.8.2006, p. 22](http://publications.europa.eu/resource/oj/JOL_2006_224_R_TOC)).\n\n> [(^26^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc26-L_2011024PT.01000101-E0026) A União Europeia aderiu a este acordo pela Decisão 95/399/CE do Conselho ([JO L 236 de 5.10.1995, p. 24](http://publications.europa.eu/resource/oj/JOL_1995_236_R_TOC)).\n\n> [(^27^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc27-L_2011024PT.01000101-E0027) Celebrada pela Decisão 2008/780/CE do Conselho ([JO L 268 de 9.10.2008, p. 27](http://publications.europa.eu/resource/oj/JOL_2008_268_R_TOC)).\n\n> [(^28^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc28-L_2011024PT.01000101-E0028) A União Europeia aderiu a esta convenção pela Decisão 2005/75/CE do Conselho ([JO L 32 de 4.2.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_032_R_TOC)).\n\n> [(^29^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc29-L_2011024PT.01000101-E0029) Regulamento (CE) n.º 1006/2008 do Conselho, de 29 de Setembro de 2008, relativo às autorizações para as actividades de pesca exercidas pelos navios de pesca comunitários fora das águas comunitárias e ao acesso de navios de países terceiros às águas comunitárias ([JO L 286 de 29.10.2008, p. 33](http://publications.europa.eu/resource/oj/JOL_2008_286_R_TOC)).\n\n> [(^30^)](http://publications.europa.eu/resource/cellar/83694933-0007-43f8-8816-90b044e713cb.0019.03/DOC_1#ntc30-L_2011024PT.01000101-E0030) Regulamento (CE) n.º 2347/2002 do Conselho, de 16 de Dezembro de 2002, que estabelece os requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a eles associadas ([JO L 351 de 28.12.2002, p. 6](http://publications.europa.eu/resource/oj/JOL_2002_351_R_TOC).)"
+  }
+ }
+}

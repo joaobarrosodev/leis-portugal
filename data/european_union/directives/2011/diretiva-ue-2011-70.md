@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2011-70.versoes.json
+  count: 1
+  source_lastmod: '2011-08-22'
+  versions:
+  - date: '2011-08-02'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011L0070
   eli: http://data.europa.eu/eli/dir/2011/70/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6cdacaaf-e5d5-45ef-bc2c-5a2ba97116de.0001
   content_url: http://publications.europa.eu/resource/cellar/6cdacaaf-e5d5-45ef-bc2c-5a2ba97116de.0001.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:45:37Z'
+  retrieved_at: '2026-10-22T15:50:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T10:29:18.775+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:37Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:17Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2011-70.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,21 +185,20 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:37Z'
+  checked_at: '2026-10-22T15:50:17Z'
   warnings:
-  - Versão consolidada 02011L0070-20110822 indisponível (Sem expressão na língua por para CELEX 02011L0070-20110822.); usado
-    o texto do JO.
+  - '02011L0070-20110822: versão indisponível (Sem expressão na língua por para CELEX 02011L0070-20110822.)'
   errors: []
 ---
 
-# DIRECTIVA 2011/70/EURATOM DO CONSELHO
+# Directiva 2011/70/Euratom do Conselho, de 19 de Julho de 2011
 
 de 19 de Julho de 2011
 

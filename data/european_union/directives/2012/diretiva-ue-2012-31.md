@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2012-31.versoes.json
+  count: 1
+  source_lastmod: '2012-11-15'
+  versions:
+  - date: '2012-10-26'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012L0031
   eli: http://data.europa.eu/eli/dir_impl/2012/31/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb3059d1-b8f6-4519-b6c0-ca029c6dbe1a.0021
   content_url: http://publications.europa.eu/resource/cellar/fb3059d1-b8f6-4519-b6c0-ca029c6dbe1a.0021.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:53:07Z'
+  retrieved_at: '2026-10-22T15:58:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T11:58:43.115+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:07Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:49Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2012-31.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,21 +119,20 @@ relationships:
   date: '2016-03-31'
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:07Z'
+  checked_at: '2026-10-22T15:58:49Z'
   warnings:
-  - Versão consolidada 02012L0031-20121115 indisponível (Sem expressão na língua por para CELEX 02012L0031-20121115.); usado
-    o texto do JO.
+  - '02012L0031-20121115: versão indisponível (Sem expressão na língua por para CELEX 02012L0031-20121115.)'
   errors: []
 ---
 
-# DIRETIVA DE EXECUÇÃO 2012/31/EU DA COMISSÃO
+# Diretiva de Execução 2012/31/EU da Comissão, de 25 de outubro de 2012
 
 de 25 de outubro de 2012
 

@@ -37,6 +37,101 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-01'
+version_history:
+  file: regulamento-ue-2010-1060.versoes.json
+  count: 3
+  source_lastmod: '2021-03-01'
+  versions:
+  - date: '2010-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-09'
+    amending: eu:celex:32014R0518:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014; REGULAMENTO DELEGADO (UE) 2017/254
+      DA COMISSÃO de 30 de novembro de 2016; REGULAMENTO DELEGADO (UE) 2020/1059 DA COMISSÃO de 27 de abril de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Responsabilidades dos fornecedores
+    - Altera Artigo 4.º — Responsabilidades dos distribuidores
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Definições aplicáveis para efeitos dos anexos II a IX
+    - Adita ANEXO II
+    - Adita Rótulo
+    - Adita 1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA
+      A+++ A C
+    - Adita 2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA
+      D A G
+    - Adita 3. ASPECTO DO RÓTULO
+    - Adita ANEXO III
+    - Adita Ficha de produto
+    - Adita ANEXO IV
+    - Adita Documentação técnica
+    - Adita ANEXO V
+    - Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto
+    - Adita ANEXO VI
+    - Adita Medições
+    - Adita ANEXO VII
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Adita ANEXO VIII
+    - Adita Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do índice
+      de eficiência energética
+    - Adita 1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO
+    - Adita 2. CÁLCULO DO VOLUME EQUIVALENTE
+    - 'Adita Notas:'
+    - Adita 3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA
+    - Adita ANEXO IX
+    - Adita Classes de eficiência energética
+    - Adita ANEXO X
+    - Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet
+  - date: '2021-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Responsabilidades dos fornecedores
+    - Suprime Artigo 4.º — Responsabilidades dos distribuidores
+    - Suprime Artigo 5.º — Métodos de medição
+    - Suprime Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado
+    - Suprime Artigo 7.º — Revisão
+    - Suprime Artigo 8.º — Revogação
+    - Suprime Artigo 9.º — Disposições transitórias
+    - Suprime Artigo 10.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime Definições aplicáveis para efeitos dos anexos II a IX
+    - Suprime ANEXO II
+    - Suprime Rótulo
+    - Suprime 1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA
+      A+++ A C
+    - Suprime 2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA
+      D A G
+    - Suprime 3. ASPECTO DO RÓTULO
+    - Suprime ANEXO III
+    - Suprime Ficha de produto
+    - Suprime ANEXO IV
+    - Suprime Documentação técnica
+    - Suprime ANEXO V
+    - Suprime Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto
+    - Suprime ANEXO VI
+    - Suprime Medições
+    - Suprime ANEXO VII
+    - Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime ANEXO VIII
+    - Suprime Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do
+      índice de eficiência energética
+    - Suprime 1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO
+    - Suprime 2. CÁLCULO DO VOLUME EQUIVALENTE
+    - 'Suprime Notas:'
+    - Suprime 3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA
+    - Suprime ANEXO IX
+    - Suprime Classes de eficiência energética
+    - Suprime ANEXO X
+    - Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet
+    - Suprime Notas
 identifiers:
   celex: 32010R1060
   eli: http://data.europa.eu/eli/reg_del/2010/1060/oj
@@ -51,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004
   content_url: http://publications.europa.eu/resource/cellar/9007127e-7b73-11eb-9ac9-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1060-20210301
-  retrieved_at: '2026-10-22T02:52:59Z'
+  retrieved_at: '2026-10-22T15:49:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T22:53:23.829+02:00'
 integrity:
@@ -60,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:59Z'
-  notes: Texto consolidado 02010R1060-20210301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:03Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2010-1060.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,16 +260,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:59Z'
+  checked_at: '2026-10-22T15:49:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02010R1060-20101220: versão indisponível (Sem expressão na língua por para CELEX 02010R1060-20101220.)'
+  - '02010R1060-20140606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R1060-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

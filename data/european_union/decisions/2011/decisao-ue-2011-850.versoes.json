@@ -1,0 +1,551 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011D0850:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011D0850-20111217",
+ "dre_path": null,
+ "source_lastmod": "2011-12-17",
+ "versions": [
+  {
+   "date": "2011-12-17",
+   "future": false,
+   "celex": "02011D0850-20111217",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2d1fa66ea33460a1",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "cdfaedca30f10370",
+    "fb8e3d08ac1cdc2c",
+    "f0f8c960bfdbce9b",
+    "04b24a688a13d134",
+    "d1aa693a35aff685",
+    "1470570fb9978d64",
+    "c99b9d575c9e4e29",
+    "1e7a0903d2eed348",
+    "a85ac8bf421e1365",
+    "c6cd919381747f0b",
+    "58c58374cb3dc627",
+    "aac644e297e9ca49",
+    "4d0ca3f33cd28a37",
+    "1f62cfdbaf052937",
+    "5913984b3e4647f6",
+    "0e1cbe4d5b0f377b",
+    "2fb0523e23b832fa",
+    "8fdef296188e425a",
+    "1ecfc79da3f1ac7f",
+    "fee7c0f6661bbf52",
+    "ad49d56c1f0314e5",
+    "85d5cd76e369b668",
+    "b76e31c6ed35f14b",
+    "d664376e2a8dcecd",
+    "1ee9d7faa4d7a992",
+    "05e64fc7a3555905",
+    "818ebefd5d95e714",
+    "bf5247e126ecdd2c",
+    "aeefbb7627853bc8",
+    "014c7be188902d6e",
+    "dc18ff63b3a6bd8e",
+    "89db5d1c4b7badf1",
+    "852174729551523b",
+    "3e16321d310dc452",
+    "6564f4e116e521ce",
+    "f347ce117ddc5d98",
+    "68589eac039c4c0d",
+    "56e96b69a66e1276",
+    "f3f976b2b9efaf52",
+    "a4b9eb5bc4e0182e",
+    "3c111f06d81e683a",
+    "425a87d9e17436cc",
+    "7825e7e0e2812770",
+    "478788864cdc55b8",
+    "8fc58780d3353470",
+    "e2864f14eb927fe8",
+    "cdf30babe0d4c764",
+    "d8e0639bd55d4990",
+    "1ae263883428ea6d",
+    "1616c860d4579659",
+    "af1b207ae3874158",
+    "2df4e961a2da6306",
+    "6a5fac37ba1bbcaa",
+    "b2cfc5b6901c6478",
+    "067a8bd7020c5bb8",
+    "7f2ad7b4e9f917e6"
+   ]
+  }
+ ],
+ "fragments": {
+  "2d1fa66ea33460a1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Dezembro de 2011\n\nque estabelece regras para as Directivas 2004/107/CE e 2008/50/CE do Parlamento Europeu e do Conselho no que diz respeito ao intercâmbio recíproco e à comunicação de informações sobre a qualidade do ar ambiente\n\n[notificada com o número C(2011) 9068]\n\n(2011/850/UE)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "cdfaedca30f10370": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente decisão estabelece as regras de execução das Directivas 2004/107/CE e 2008/50/CE no que diz respeito a:\n\na) obrigações dos Estados-Membros de comunicação de informações sobre a avaliação e a gestão da qualidade do ar ambiente;\n\nb) o intercâmbio recíproco de informações entre os Estados-Membros sobre as redes e estações, assim como as medidas da qualidade do ar obtidas pelas estações que sejam seleccionadas pelos Estados-Membros para intercâmbio recíproco entre as estações existentes."
+  },
+  "fb8e3d08ac1cdc2c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente decisão e para além das definições estabelecidas no artigo 2.º da Directiva 2004/107/CE, no artigo 3.º da Directiva 2007/2/CE, no artigo 2.º e no anexo VII da Directiva 2008/50/CE, são aplicáveis as seguintes definições:\n\n1) «Estação»: um local onde são feitas medições ou colhidas amostras em um ou mais pontos de amostragem no mesmo local, no interior de uma área de cerca de 100 m^2^;\n\n2) «Rede»: estrutura organizativa que realiza avaliações da qualidade do ar ambiente através da medição em uma ou mais estações;\n\n3) «Configuração das medidas»: equipamento técnico utilizado para a medição de um poluente ou de uma das suas componentes numa determinada estação;\n\n4) «Dados de medição»: informações sobre a concentração ou nível de deposições de um poluente específico, obtidas por medições;\n\n5) «Dados de modelização»: informações sobre a concentração ou o nível de deposições de um poluente específico, obtidas através de simulação numérica da realidade física;\n\n6) «Estimativas objectivas»: informações sobre a concentração ou o nível de deposições de um poluente específico, obtidas através da análise de peritos, podendo incluir a utilização de instrumentos estatísticos;\n\n7) «Dados primários»: informações sobre a concentração ou o nível de deposições de um determinado poluente, na resolução temporal mais elevada considerada na presente decisão;\n\n8) «Dados primários de avaliação actualizados»: dados primários recolhidos com a frequência adequada a cada método de avaliação de poluentes e imediatamente colocados à disposição do público;\n\n9) «Portal da qualidade do ar ambiente»: uma página *web* gerida pela Comissão com a assistência da Agência Europeia do Ambiente, através da qual são prestadas informações relacionadas com a execução da presente decisão, incluindo o repositório de dados;\n\n10) «Repositório de dados»: sistema de informação ligado ao portal da qualidade do ar ambiente e gerido pela Agência Europeia do Ambiente, que contém informações sobre a qualidade do ar e os dados disponibilizados através dos nós nacionais de comunicação de informações e intercâmbio de dados, sob controlo dos Estados-Membros;\n\n11) «Tipo de dados»: um descritor em que dados semelhantes utilizados para diferentes fins são categorizados, conforme definido na parte A do anexo II da presente decisão;\n\n12) «Objectivo ambiental»: um objectivo de qualidade do ar ambiente a atingir dentro de um determinado prazo ou, sempre que possível, no decurso de um período determinado, ou ainda a longo prazo, tal como estabelecido nas Directivas 2004/107/CE e 2008/50/CE."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "04b24a688a13d134": {
+   "fragment_id": "DISPOSIÇÕES COMUNS SOBRE O PROCESSO DE TRANSMISSÃO DE INFORMAÇÕES E DE CONTROLO DE QUALIDADE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS SOBRE O PROCESSO DE TRANSMISSÃO DE INFORMAÇÕES E DE CONTROLO DE QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS SOBRE O PROCESSO DE TRANSMISSÃO DE INFORMAÇÕES E DE CONTROLO DE QUALIDADE"
+  },
+  "d1aa693a35aff685": {
+   "fragment_id": "Artigo 3.º — Portal da qualidade do ar ambiente e repositório de dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Portal da qualidade do ar ambiente e repositório de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Portal da qualidade do ar ambiente e repositório de dados\n\n1. A Comissão, assistida pela Agência Europeia do Ambiente, estabelece um repositório de dados que será acessível através do portal da qualidade do ar ambiente (a seguir designado «portal»).\n\n2. Os Estados-Membros disponibilizam, para o repositório de dados, as informações utilizadas para a comunicação de dados e o intercâmbio recíproco de informações, em conformidade com o artigo 5.º.\n\n3. A Agência Europeia do Ambiente gere o repositório de dados.\n\n4. O público deve ter acesso gratuito ao repositório de dados.\n\n5. Cada Estado-Membro nomeia uma pessoa ou pessoas responsáveis pela entrega, em seu nome, para o repositório de dados, de cada uma das informações comunicadas e trocadas. Só as pessoas nomeadas disponibilizam as informações que devem ser objecto de comunicação ou intercâmbio.\n\n6. Cada Estado-Membro comunica à Comissão o nome da pessoa ou das pessoas referidas no n.º 5."
+  },
+  "1470570fb9978d64": {
+   "fragment_id": "Artigo 4.º — Codificação de informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Codificação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Codificação de informações\n\nA Comissão, assistida pela Agência Europeia do Ambiente, deve pôr à disposição dos Estados-Membros no portal a descrição normalizada de leitura óptica de como codificar a informação exigida pela presente decisão."
+  },
+  "c99b9d575c9e4e29": {
+   "fragment_id": "Artigo 5.º — Procedimento para tornar a informação acessível",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento para tornar a informação acessível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento para tornar a informação acessível\n\n1. Os Estados-Membros devem pôr à disposição do repositório de dados as informações exigidas pela presente decisão, em conformidade com os requisitos em matéria de dados estabelecidos na parte A do anexo I. Essa informação deve ser processada automaticamente por uma ferramenta electrónica.\n\n2. A ferramenta a que se refere o n.º 1 deve ser utilizada para desempenhar as seguintes funções:\n\na) controlo de coerência da informação a disponibilizar;\n\nb) controlo dos principais dados relativos ao objectivos específicos de qualidade dos dados enunciados no anexo IV da Directiva 2004/107/CE e no anexo I da Directiva 2008/50/CE;\n\nc) agregação dos dados primários de acordo com as regras fixadas no anexo I da presente decisão e nos anexos VII e XI da Directiva 2008/50/CE.\n\n3. Quando os dados agregados devem ser disponibilizados em conformidade com os artigos 6.º a 14.º, devem ser gerados pela ferramenta referida no n.º 1 do presente artigo.\n\n4. A Comissão acusa a recepção da informação.\n\n5. No caso de um Estado-Membro pretender actualizar a informação, deve descrever as diferenças entre a informação actualizada e a informação inicial, assim como as razões para a actualização, ao disponibilizar as informações actualizadas no repositório de dados.\n\nA Comissão acusa a recepção da informação actualizada. Após a acusação de recepção, a informação actualizada deve ser considerada a informação oficial."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "a85ac8bf421e1365": {
+   "fragment_id": "DISPONIBILIZAÇÃO DAS INFORMAÇÕES DOS ESTADOS-MEMBROS SOBRE A QUALIDADE DO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "DISPONIBILIZAÇÃO DAS INFORMAÇÕES DOS ESTADOS-MEMBROS SOBRE A QUALIDADE DO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPONIBILIZAÇÃO DAS INFORMAÇÕES DOS ESTADOS-MEMBROS SOBRE A QUALIDADE DO AR AMBIENTE"
+  },
+  "c6cd919381747f0b": {
+   "fragment_id": "Artigo 6.º — Zonas e aglomerações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Zonas e aglomerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Zonas e aglomerações\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações indicadas na parte B do anexo II sobre a delimitação e o tipo de zonas e aglomerações enumeradas em conformidade com o artigo 3.º da Directiva 2004/107/CE e o artigo 4.º da Directiva 2008/50/CE e nas quais a avaliação e a gestão da qualidade do ar são efectuadas no ano civil seguinte.\n\nNas zonas e aglomerações em que for aplicável uma isenção ou um diferimento nos termos do artigo 22.º da Directiva 2008/50/CE, as informações disponibilizadas devem incluir uma indicação dessa isenção ou diferimento.\n\n2. Os Estados-Membros põem à disposição da Comissão, até 31 de Dezembro de cada ano civil, as informações referidas no n.º 1. Os Estados-Membros podem indicar que não houve alterações das informações anteriormente disponibilizadas.\n\n3. Quando houver alterações à delimitação e ao tipo das zonas e aglomerações, os Estados-Membros informam a Comissão no prazo de nove meses após o final do ano civil em que as alterações foram efectuadas."
+  },
+  "58c58374cb3dc627": {
+   "fragment_id": "Artigo 7.º — Regime de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Regime de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de avaliação\n\n1. Em conformidade com o procedimento referido no artigo 5.º da presente decisão, os Estados-Membros devem facultar as informações estabelecidas na parte C do anexo II sobre o regime de avaliação a aplicar no ano civil seguinte em relação a cada poluente dentro das zonas e aglomerações, em conformidade com o artigo 4.º da Directiva 2004/107/CE e com os artigos 5.º e 9.º da Directiva 2008/50/CE.\n\n2. Os Estados-Membros põem à disposição da Comissão, até 31 de Dezembro de cada ano civil, as informações referidas no n.º 1. Os Estados-Membros podem indicar que não houve alterações das informações anteriormente disponibilizadas."
+  },
+  "aac644e297e9ca49": {
+   "fragment_id": "Artigo 8.º — Métodos para a demonstração e a dedução de excessos imputáveis quer a fontes naturais quer à cobertura das estradas com areia ou com sal no Inverno",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Métodos para a demonstração e a dedução de excessos imputáveis quer a fontes naturais quer à cobertura das estradas com areia ou com sal no Inverno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Métodos para a demonstração e a dedução de excessos imputáveis quer a fontes naturais quer à cobertura das estradas com areia ou com sal no Inverno\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações indicadas na parte D do anexo II sobre os métodos utilizados para a demonstração e a dedução das excedências imputáveis quer a fontes naturais quer à areia ou ao sal utilizados na cobertura das estradas, aplicados dentro das zonas e aglomerações, em conformidade com os artigos 20.º e 21.º da Directiva 2008/50/CE.\n\n2. Os Estados-Membros colocam à disposição da Comissão as informações referidas no n.º 1, relativas a um ano civil completo, o mais tardar nove meses após o final de cada ano civil."
+  },
+  "4d0ca3f33cd28a37": {
+   "fragment_id": "Artigo 9.º — Métodos de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Métodos de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Métodos de avaliação\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações indicadas na parte D do anexo II sobre a qualidade e a rastreabilidade dos métodos de avaliação aplicados.\n\n2. Os Estados-Membros colocam à disposição da Comissão as informações referidas no n.º 1, relativas a um ano civil completo, o mais tardar nove meses após o final de cada ano civil.\n\n3. Quando, numa determinada zona ou aglomeração, for obrigatória a medição fixa, em conformidade com o artigo 4.º da Directiva 2004/107/CE e os artigos 6.º, 9.º e 10.º, n.º 6, da Directiva 2008/50/CE, as informações devem incluir, pelo menos, o seguinte:\n\na) a configuração das medidas;\n\nb) a demonstração da equivalência, nos casos em que for utilizado um método que não sejam de referência;\n\nc) a localização do ponto de amostragem, sua descrição e classificação;\n\nd) a documentação da qualidade dos dados.\n\n4. Quando, numa determinada zona ou aglomeração, for aplicada a medição indicativa em conformidade com o artigo 4.º da Directiva 2004/107/CE e os artigos 6.º, 9.º e 10.º, n.º 6, da Directiva 2008/50/CE, as informações devem incluir, pelo menos, o seguinte:\n\na) o método de medição aplicado;\n\nb) os pontos de amostragem e a área de cobertura;\n\nc) o método de validação;\n\nd) a documentação da qualidade dos dados.\n\n5. Quando, numa determinada zona ou aglomeração, forem aplicadas técnicas de modelização em conformidade com o artigo 4.º da Directiva 2004/107/CE e os artigos 6.º e 9.º da Directiva 2008/50/CE, as informações devem incluir, pelo menos, o seguinte:\n\na) a descrição do sistema de modelização e os seus factores;\n\nb) a validação do modelo por medições;\n\nc) a área de cobertura;\n\nd) a documentação da qualidade dos dados.\n\n6. Quando, numa determinada zona ou aglomeração, for aplicada a estimativa dos objectivos em conformidade com o artigo 4.º da Directiva 2004/107/CE e os artigos 6.º e 9.º da Directiva 2008/50/CE, as informações devem incluir, pelo menos, o seguinte:\n\na) a descrição do método de estimação;\n\nb) a documentação relativa à qualidade dos dados.\n\n7. Os Estados-Membros disponibilizam também as informações indicadas na parte D do anexo II sobre a qualidade e a rastreabilidade dos métodos de avaliação aplicados, para as redes e estações escolhidas pelos Estados-Membros para efeitos de intercâmbio de informação, tal como referido no artigo 1.º, alínea b), relativamente aos poluentes enumerados na parte B do anexo I e, se disponíveis, relativamente a outros poluentes enumerados na parte C do anexo I e a outros poluentes enumerados no portal para esse efeito. Os n.^os^ 1 a 6 do presente artigo são aplicáveis à informação transmitida."
+  },
+  "1f62cfdbaf052937": {
+   "fragment_id": "Artigo 10.º — Dados primários de avaliação validados e dados primários de avaliação actualizados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Dados primários de avaliação validados e dados primários de avaliação actualizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dados primários de avaliação validados e dados primários de avaliação actualizados\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações indicadas na parte E do anexo II sobre os dados primários de avaliação validados para todos os pontos de amostragem em que os dados de medição são recolhidos para efeitos de avaliação, tal como indicado pelos Estados-Membros nos termos do artigo 9.º para os poluentes referidos nas partes B e C do anexo I.\n\nSe forem aplicadas técnicas de modelização numa determinada zona ou aglomeração, os Estados-Membros disponibilizam as informações referidas na parte E do anexo II com a resolução temporal mais elevada possível.\n\n2. Os dados primários de avaliação validados são postos à disposição da Comissão relativamente a um ano civil completo, como séries cronológicas completas, o mais tardar nove meses após o final de cada ano civil.\n\n3. Sempre que recorram à possibilidade prevista no artigo 20.º, n.º 2, e no artigo 21.º, n.º 3, da Directiva 2008/50/CE, os Estados-Membros disponibilizam informações sobre a quantificação da contribuição das fontes naturais nos termos do artigo 20.º, n.º 1, da Directiva 2008/50/CE, ou da areia ou do sal utilizado na cobertura das estradas, em conformidade com o artigo 21.º, n.^os^ 1 e 2, da Directiva 2008/50/CE.\n\nEssas informações incluem:\n\na) a dimensão espacial da subtracção;\n\nb) a quantidade dos dados primários de avaliação validados disponibilizados em conformidade com o n.º 1 que pode ser imputada a fontes naturais ou à areia ou ao sal utilizado na cobertura das estradas;\n\nc) os resultados da aplicação dos métodos comunicados em conformidade com o artigo 8.º.\n\n4. Os Estados-Membros disponibilizam também as informações indicadas na parte E do anexo II sobre os dados primários de avaliação actualizados, para as redes e estações escolhidas pelos Estados-Membros para o efeito específico de disponibilizar informações actualizadas entre as redes e estações seleccionadas pelos Estados-Membros para efeitos de intercâmbio de informação, tal como referido no artigo 1.º, alínea b), relativamente aos poluentes enumerados na parte B do anexo I e, se disponível, relativamente a outros poluentes enumerados na parte C do anexo I e a outros poluentes enumerados no portal para esse efeito.\n\n5. Os Estados-Membros disponibilizam também as informações indicadas na parte E do anexo II sobre os dados primários de avaliação actualizados, para as redes e estações escolhidas pelos Estados-Membros para efeitos de intercâmbio de informação, tal como referido no artigo 1.º, alínea b), relativamente aos poluentes enumerados na parte B do anexo I e, se disponíveis, relativamente a outros poluentes enumerados na parte C do anexo I e a outros poluentes enumerados no portal para esse efeito. Os n.^os^ 2 e 3 do presente artigo são aplicáveis às informações transmitidas.\n\n6. Os dados primários de avaliação actualizados nos termos do n.º 4 são postos à disposição da Comissão numa base provisória, com a frequência adequada a cada método de avaliação de poluentes e num prazo razoável após terem sido colocados à disposição do público, em conformidade com o artigo 26.º da Directiva 2008/50/CE, no caso dos poluentes especificados para esse efeito na parte B do anexo I da presente decisão.\n\nEssas informações incluem:\n\na) os níveis de concentração avaliados;\n\nb) uma indicação do estatuto sobre o controlo de qualidade.\n\n7. As informações actualizadas primárias disponibilizadas nos termos do n.º 4 devem ser coerentes com as informações disponibilizadas nos termos dos artigos 6.º, 7.º e 9.º.\n\n8. Na sequência de um controlo de qualidade posterior, os Estados-Membros podem actualizar os dados primários de avaliação actualizados que foram disponibilizados nos termos do n.º 4. As informações actualizadas substituem as informações originais, sendo o seu estatuto claramente indicado."
+  },
+  "5913984b3e4647f6": {
+   "fragment_id": "Artigo 11.º — Dados de avaliação validados agregados",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Dados de avaliação validados agregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dados de avaliação validados agregados\n\n1. A ferramenta a que se refere o artigo 5.º, n.º 1, deve gerar as informações previstas na parte F do anexo II sobre dados de avaliação validados agregados, com base nas informações disponibilizadas pelos Estados-Membros sobre dados primários de avaliação validados, nos termos do artigo 10.º.\n\n2. Relativamente aos poluentes sujeitos a monitorização obrigatória, as informações geradas pela ferramenta devem consistir em níveis de concentração medidos agregados para todos os pontos de amostragem relativamente aos quais os Estados-Membros devem disponibilizar informações nos termos do artigo 9.º, n.º 3, alínea c).\n\n3. Relativamente aos poluentes com objectivos ambientais definidos, as informações geradas pela ferramenta devem consistir nos níveis de concentração expressos em valores métricos associados ao objectivo ambiental indicado na parte B do anexo I e incluir:\n\na) a média anual, no caso de ter sido definido um objectivo médio anual ou um valor-limite;\n\nb) o total de horas em excesso, caso esteja definido um valor-limite horário;\n\nc) o número total de dias em excesso, se existir um valor-limite diário definido, ou o percentil 90,4 para PM10, no caso particular em que sejam aplicadas medições aleatórias em vez de medições contínuas;\n\nd) o número total de dias em excesso, se estiver definido um objectivo de média diária máxima de 8 horas;\n\ne) o AOT40, tal como definido na parte A do anexo VII da Directiva 2008/50/CE, no caso do valor-alvo do ozono para a protecção da vegetação;\n\nf) o indicador de exposição média, no caso do objectivo de redução da exposição às PM2,5 e de obrigação em matéria de concentrações de exposição."
+  },
+  "0e1cbe4d5b0f377b": {
+   "fragment_id": "Artigo 12.º — Realização dos objectivos ambientais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Realização dos objectivos ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Realização dos objectivos ambientais\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações previstas na parte G do anexo II relativa à realização dos objectivos ambientais fixados pelas Directivas 2004/107/CE e 2008/50/CE.\n\n2. As informações referidas no n.º 1 são postas à disposição da Comissão, durante um ano civil completo, o mais tardar nove meses após o final de cada ano civil.\n\nEssas informações incluem:\n\na) uma declaração de realização de todos os objectivos ambientais em cada zona ou aglomeração específica, incluindo informações sobre a excedência de qualquer margem de tolerância aplicável;\n\nb) se for pertinente, uma declaração de que essa excedência se deve a fontes naturais;\n\nc) se for caso disso, uma declaração de que a excedência do objectivo de qualidade do ar em relação a PM10 na zona ou aglomeração se deve à ressuspensão de partículas imputável à areia ou ao sal utilizado na cobertura das estradas;\n\nd) informações sobre o cumprimento da obrigação em matéria de concentrações de exposição às PM2,5.\n\n3. Se houver uma excedência, as informações disponibilizadas devem igualmente incluir informações sobre a área de excedência e o número de pessoas expostas.\n\n4. As informações disponibilizadas devem ser coerentes com a delimitação da zona comunicada nos termos do artigo 6.º para o mesmo ano civil e com os dados de avaliação validados agregados, disponibilizados em conformidade com o artigo 11.º."
+  },
+  "2fb0523e23b832fa": {
+   "fragment_id": "Artigo 13.º — Planos de qualidade do ar",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Planos de qualidade do ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Planos de qualidade do ar\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações previstas nas partes H, I, J e K do anexo II da presente decisão sobre os planos de qualidade do ar, tal como exigido pelo artigo 23.º da Directiva 2008/50/CE, incluindo:\n\na) os elementos obrigatórios do plano de qualidade do ar, tal como enumerados nos termos do artigo 23.º da Directiva 2008/50/CE, na parte A do anexo XV da Directiva 2008/50/CE;\n\nb) referências aos pontos de acesso do público a informações regularmente actualizadas sobre a aplicação dos planos de qualidade do ar.\n\n2. As informações são colocadas à disposição da Comissão sem demora, o mais tardar dois anos após o termo do ano civil em que a primeira excedência foi observada."
+  },
+  "8fdef296188e425a": {
+   "fragment_id": "Artigo 14.º — Medidas de cumprimento dos valores-alvo da Directiva 2004/107/CE",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas de cumprimento dos valores-alvo da Directiva 2004/107/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas de cumprimento dos valores-alvo da Directiva 2004/107/CE\n\n1. Em conformidade com o procedimento previsto no artigo 5.º da presente decisão, os Estados-Membros disponibilizam as informações enunciadas na parte K do anexo II da presente decisão sobre as medidas adoptadas para dar cumprimento aos valores-alvo, conforme determina o artigo 5.º, n.º 2, da Directiva 2004/107/CE.\n\n2. As informações são colocadas à disposição da Comissão o mais tardar dois anos após o termo do ano em que foi observada a excedência que desencadeou essa medida."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "ad49d56c1f0314e5": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nAs Decisões 2004/224/CE e 2004/461/CE são revogadas com efeitos a partir de 1 de Janeiro de 2014."
+  },
+  "85d5cd76e369b668": {
+   "fragment_id": "Artigo 16.º — Aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aplicabilidade\n\n1. A presente decisão é aplicável a partir de 1 de Janeiro de 2014.\n\n2. Em derrogação do disposto no n.º 1, os Estados-Membros fornecem as informações necessárias em conformidade com os artigos 6.º e 7.º, pela primeira vez, o mais tardar em 31 de Dezembro de 2013."
+  },
+  "b76e31c6ed35f14b": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs destinatários da presente decisão são os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "1ee9d7faa4d7a992": {
+   "fragment_id": "A) Requisitos para os dados",
+   "type": "divisao",
+   "heading": "A) Requisitos para os dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Requisitos para os dados"
+  },
+  "05e64fc7a3555905": {
+   "fragment_id": "1. Dados temporais",
+   "type": "divisao",
+   "heading": "1. Dados temporais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Dados temporais\n\nTodas as referências temporais devem ser feitas de acordo com a norma ISO 8601:2004(E) utilizando o formato alargado (AAAA-MM-DD:mm:ss ± hh:mm) que inclui as informações sobre a diferença em relação ao UTC.\n\nO marcador temporal refere-se ao final do período de medição."
+  },
+  "818ebefd5d95e714": {
+   "fragment_id": "2. Número de dígitos e arredondamento",
+   "type": "divisao",
+   "heading": "2. Número de dígitos e arredondamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Número de dígitos e arredondamento\n\nOs dados são comunicados com o mesmo número de dígitos que é utilizado na rede de monitorização.\n\nO arredondamento tem de ser o último passo de qualquer cálculo, ou seja, imediatamente antes de comparar o resultado com o objectivo ambiental, e só pode ser feito uma vez. O sistema executará automaticamente o arredondamento dos dados disponibilizados, seguindo as regras de arredondamento comercial, se adequado."
+  },
+  "bf5247e126ecdd2c": {
+   "fragment_id": "3. Equivalência",
+   "type": "divisao",
+   "heading": "3. Equivalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Equivalência\n\nSe for utilizado mais de um método de avaliação num local específico, os dados devem ser fornecidos utilizando o método de avaliação com o mínimo de incerteza nesse local específico."
+  },
+  "aeefbb7627853bc8": {
+   "fragment_id": "4. Normalização",
+   "type": "divisao",
+   "heading": "4. Normalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Normalização\n\nAs disposições da parte IV do anexo IV da Directiva 2004/107/CE e da parte C do anexo VI da Directiva 2008/50/CE aplicam-se ao intercâmbio recíproco de informações."
+  },
+  "014c7be188902d6e": {
+   "fragment_id": "5. Disposições relativas às PM2,5",
+   "type": "divisao",
+   "heading": "5. Disposições relativas às PM2,5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Disposições relativas às PM2,5\n\nRelativamente às PM2,5, em conformidade com o disposto na parte E do anexo XIV da Directiva 2008/50/CE, é aplicável nos anos a seguir mencionados a seguinte soma do valor-limite (LV) + margem de tolerância (MOT):\n\nAno LV + MOT\n\n2008 30\n\n2009 29\n\n2010 29\n\n2011 28\n\n2012 27\n\n2013 26\n\n2014 26\n\n2015 25\n\nO cálculo é efectuado para cada ano, calculando as médias anuais de PM2,5 para cada um dos pontos de amostragem seleccionados. A selecção dos pontos de amostragem tem de ser clara a partir das informações pertinentes facultadas.\n\nFaz-se uma média das médias anuais válidas em conformidade com os objectivos de qualidade dos dados para todos os locais IEM designados do Estado-Membro, a fim de obter uma média anual.\n\nO processo é repetido em relação a cada um dos três anos e faz-se, então, a média das três médias anuais, a fim de obter o IEM.\n\nO IEM é comunicado anualmente como uma média de três anos. Caso seja necessário actualizar alguns dados que possam directa ou indirectamente (através de selecção do ponto de recolha das amostras) influenciar o IEM, é necessário fazer a actualização completa de todas as informações afectadas."
+  },
+  "dc18ff63b3a6bd8e": {
+   "fragment_id": "B) Objectivos ambientais e unidades de declaração",
+   "type": "divisao",
+   "heading": "B) Objectivos ambientais e unidades de declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Objectivos ambientais e unidades de declaração\n\n| Fórmula | Objectivo de protecção | Tipo de objectivo ambiental (Código [(^1^)](http://publications.europa.eu/resource/cellar/cfb61989-aa3e-4eed-8780-f06fa121043c.0015.02/DOC_1#E0001)) | Período de referência das avaliações | Unidades de declaração do objectivo ambiental | Valores numéricos do objectivo ambiental (número de excedências autorizadas) |\n| --- | --- | --- | --- | --- | --- |\n| **Poluentes relativamente aos quais devem ser comunicados dados actualizados e validados** |  |  |  |  |  |\n| NO2 | Saúde | LV | Uma hora | Horas de excedência num ano civil | 200 μg/m^3^ (18) |\n| LVMT |  |  |  |  |  |\n| LV | Um ano civil | Média anual | 40 μg/m^3^ |  |  |\n| LVMT |  |  |  |  |  |\n| ALT | Uma hora | Três horas consecutivas em excesso (em locais representativos da qualidade do ar, numa área mínima de 100 km^2^ ou na totalidade de uma zona ou aglomeração, consoante o que for menor) | 400 μg/m^3^ |  |  |\n| NOx | Vegetação | CL | Um ano civil | Média anual | 30 μg/m^3^ |\n| PM10 | Saúde | LV | Um dia | Dias de excedência num ano civil | 50 μg/m^3^ (35) Percentil 90,4 |\n| LV | Um ano civil | Média anual | 40 μg/m^3^ |  |  |\n| WSS [(^2^)](http://publications.europa.eu/resource/cellar/cfb61989-aa3e-4eed-8780-f06fa121043c.0015.02/DOC_1#E0002) | Um dia | Dias deduzidos de excedência num ano civil | n.d. |  |  |\n| Um ano civil | Dedução da média anual | n.d. |  |  |  |\n| NAT [(^2^)](http://publications.europa.eu/resource/cellar/cfb61989-aa3e-4eed-8780-f06fa121043c.0015.02/DOC_1#E0002) | Um dia | Dias deduzidos de excedência num ano civil | n.d. |  |  |\n| Um ano civil | Dedução da média anual | n.d. |  |  |  |\n| PM2,5 | Saúde | ECO | Três anos civis consecutivos | Indicador de exposição média: (cálculo - ver Directiva 2008/50/CE) | 20 μg/m^3^ |\n| ERT | em conformidade com o anexo XIV, parte B, da Directiva 2008/50/CE |  |  |  |  |\n| TV | Um ano civil | Média anual | 25 μg/m^3^ |  |  |\n| LV |  |  |  |  |  |\n| LVMT |  |  |  |  |  |\n| SO2 | Saúde | LV | Uma hora | Horas de excedência num ano civil | 350 μg/m^3^ (24) |\n| Um dia | Dias de excedência num ano civil | 125 μg/m^3^ (3) |  |  |  |\n| ALT | Uma hora | Três horas consecutivas em excesso (em locais representativos da qualidade do ar, numa área mínima de 100 km^2^ ou na totalidade de uma zona ou aglomeração, consoante o que for menor) | 500 μg/m^3^ |  |  |\n| NAT [(^2^)](http://publications.europa.eu/resource/cellar/cfb61989-aa3e-4eed-8780-f06fa121043c.0015.02/DOC_1#E0002) | Uma hora | Horas deduzidas de excedência num ano civil | n.d. |  |  |\n| Um dia | Dias deduzidos de excedência num ano civil | n.d. |  |  |  |\n| Vegetação | CL | Um ano civil | Média anual | 20 μg/m^3^ |  |\n| Inverno | Valor médio durante os meses de Inverno, ou seja, de 1 de Outubro do ano x-1 a 31 de Março do ano x | 20 μg/m^3^ |  |  |  |\n| O3 | Saúde | TV | Média máxima por períodos de 8 horas | Dias em que a média diária máxima de 8 horas ultrapassou o valor de referência médio ao longo de três anos | 120 μg/m^3^ (25) |\n| LTO | Média máxima por períodos de 8 horas | Dias em que a média diária máxima de 8 horas ultrapassou o objectivo a longo prazo num ano civil | 120 μg/m^3^ |  |  |\n| INT | Uma hora | Horas de excedência num ano civil | 180 μg/m^3^ |  |  |\n| ALT | Uma hora | Horas de excedência num ano civil | 240 μg/m^3^ |  |  |\n| Vegetação | TV | 1 de Maio a 31 de Julho | AOT40 (cálculo - ver Directiva 2008/50/CE, anexo VII) | 18 000 μg/m^3^·h |  |\n| LTO | 1 de Maio a 31 de Julho | AOT40 (cálculo - ver Directiva 2008/50/CE, anexo VII) | 6 000 μg/m^3^ ·h |  |  |\n| CO | Saúde | LV | Média máxima por períodos de 8 horas | Dias em que a média diária máxima de 8 horas ultrapassou o valor-limite | 10 mg/m^3^ |\n| **Poluentes relativamente aos quais apenas devem ser comunicados dados validados** |  |  |  |  |  |\n| Benzeno | Saúde | LV | Um ano civil | Média anual | 5 μg/m^3^ |\n| Chumbo | Saúde | LV | Um ano civil | Média anual | 0,5 μg/m^3^ |\n| Cádmio | Saúde | TV | Um ano civil | Média anual | 5 ng/m^3^ |\n| Arsénio | Saúde | TV | Um ano civil | Média anual | 6 ng/m^3^ |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |  |  |\n| Níquel | Saúde | TV | Um ano civil | Média anual | 20 ng/m^3^ |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |  |  |\n| B(a)P | Saúde | TV | Um ano civil | Média anual | 1 ng/m^3^ |\n| (^1^)LV: valor-limite, LVMT: Valor-limite acrescido da margem de tolerância, TV: valor-alvo, LTO: objectivo a longo prazo, INT: Limiar de informação, ALT: Limiar de alerta, CL: Nível crítico, NAT: Avaliação da contribuição natural, WSS: Avaliação da areia e do sal utilizados na cobertura das estradas, ERT: Objectivo de redução da exposição, ECO: Obrigação em matéria de concentrações de exposição (^2^)Não é necessário comunicar dados actualizados. |  |  |  |  |  |"
+  },
+  "89db5d1c4b7badf1": {
+   "fragment_id": "C) Poluentes com requisitos de monitorização",
+   "type": "divisao",
+   "heading": "C) Poluentes com requisitos de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C) Poluentes com requisitos de monitorização\n\nA lista inclui todos os poluentes com requisitos de monitorização referidos nas Directivas 2004/107/CE e 2008/50/CE. A Agência Europeia do Ambiente conserva e disponibiliza no portal uma lista que inclui igualmente outros poluentes, na qual os Estados-Membros têm a possibilidade de intercâmbio recíproco de dados.\n\n| Código Airbase | Fórmula do poluente | Nome do poluente | Unidade de medida |\n| --- | --- | --- | --- |\n| **Poluentes inorgânicos gasosos** |  |  |  |\n| 1 | SO2 | Dióxido de enxofre | μg/m^3^ |\n| 8 | NO2 | Dióxido de azoto | μg/m^3^ |\n| 9 | NOx [(^1^)](http://publications.europa.eu/resource/cellar/cfb61989-aa3e-4eed-8780-f06fa121043c.0015.02/DOC_1#E0003) | Óxidos de azoto | μg/m^3^ |\n| 7 | O3 | Ozono | μg/m^3^ |\n| 10 | CO | Monóxido de carbono | mg/m^3^ |\n| **Partículas (PM)** |  |  |  |\n| 5 | PM10 | PM10 | μg/m^3^ |\n| 6001 | PM2,5 | PM2,5 | μg/m^3^ |\n| **Especiação PM2,5** |  |  |  |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| 1047 | SO4 ^2-^ nas PM2,5 | Sulfato nas PM2,5 | μg/m^3^ |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| 1046 | NO3 ^-^ nas PM2,5 | Nitrato nas PM2,5 | μg/m^3^ |\n| 1045 | NH4 ^+^ nas PM2,5 | Amónio nas PM2,5 | μg/m^3^ |\n| 1771 | C elem. nas PM2,5 | Carbono Elementar nas PM2,5 | μg/m^3^ |\n| 1772 | C org. nas PM2,5 | Carbono Orgânico nas PM2,5 | μg/m^3^ |\n| 1629 | Ca^2 +^ nas PM2,5 | Cálcio nas PM2,5 | μg/m^3^ |\n| 1659 | Mg^2 +^ nas PM2,5 | Magnésio nas PM2,5 | μg/m^3^ |\n| 1657 | K ^+^ nas PM2,5 | Potássio nas PM2,5 | μg/m^3^ |\n| 1668 | Na ^+^ nas PM2,5 | Sódio nas PM2,5 | μg/m^3^ |\n| 1631 | Cl^-^ nas PM2,5 | Cloreto nas PM2,5 | μg/m^3^ |\n| **Metais pesados** |  |  |  |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| 5012 | Pb nas PM10 | Chumbo nas PM10 | μg/m^3^ |\n| 5014 | Cd nas PM10 | Cádmio nas PM10 | ng/m^3^ |\n| 5018 | As nas PM10 | Arsénio nas PM10 | ng/m^3^ |\n| 5015 | Ni nas PM10 | Níquel nas PM10 | ng/m^3^ |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| **Deposição de metais pesados** |  |  |  |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| 7012 | Deposição de Pb | Humidade/deposição total de Pb | μg/m^2^.dia |\n| 7014 | Deposição de Cd | Humidade/deposição total de Cd | μg**/**m^2^.dia |\n| 7018 | Deposição de As | Humidade/deposição total de As | μg/m^2^.dia |\n| 7015 | Deposição de Ni | Humidade/deposição total de Ni | μg/m^2^.dia |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| 7013 | Deposição de Hg | Humidade/deposição total de Hg | μg/m^2^.dia |\n| **Mercúrio** |  |  |  |\n| 4013 | Hg metálico gasoso | Mercúrio elementar gasoso | ng/m^3^ |\n| 4813 | Total Hg gasoso | Total Hg gasoso | ng/m^3^ |\n| 653 | Hg gasoso reactivo | Mercúrio gasoso reactivo | ng/m^3^ |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| 5013 | Hg nas PM10 | Mercúrio nas PM10 | ng/m^3^ |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| **Hidrocarbonetos aromáticos policíclicos** |  |  |  |\n| 5029 | B(a)P | Benzo(a)pireno nas PM10 | ng/m^3^ |\n| 5610 | Benzo(a)antraceno | Benzo(a)antraceno nas PM10 | ng/m^3^ |\n| 5617 | Benzo(b)fluoranteno | Benzo(b)fluoranteno nas PM10 | ng/m^3^ |\n| 5759 | Benzo(j)fluoranteno | Benzo(j)fluoranteno nas PM10 | ng/m^3^ |\n| 5626 | Benzo(k)fluoranteno | Benzo(k)fluoranteno nas PM10 | ng/m^3^ |\n| 5655 | Indeno(1,2,3-cd)pireno | Indeno(1,2,3,-cd)pireno nas PM10 | ng/m^3^ |\n| 5763 | Dibenzo(a,h)antraceno | Dibenzo(a,h) antraceno nas PM10 | ng/m^3^ |\n| **Deposição de hidrocarbonetos aromáticos policíclicos** |  |  |  |\n| 7029 | B(a)P | Deposição de benzo(a)pireno | μg/m^2^.dia |\n| 611 | Benzo(a)antraceno | Deposição de benzo(a)antraceno | μg/m^2^.dia |\n| 618 | Benzo(b)fluoranteno | Deposição de benzo(b)fluoranteno | μg/m^2^.dia |\n| 760 | Benzo(j)fluoranteno | Deposição de benzo(j)fluoranteno | μg/m^2^.dia |\n| 627 | Benzo(k)fluoranteno | Deposição de benzo(k)fluoranteno | μg/m^2^.dia |\n| 656 | Indeno(1,2,3-cd)pireno | Deposição de indeno(1,2,3-cd)pireno | μg/m^2^.dia |\n| 7419 | Dibenzo(a,h)antraceno | Deposição de dibenzo(a,h)antraceno | μg/m^2^.dia |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| **Compostos orgânicos voláteis** |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| 20 | C6H6 | Benzeno | μg/m^3^ |\n| 428 | C2H6 | Etano | μg/m^3^ |\n| 430 | C2H4 | Eteno (etileno) | μg/m^3^ |\n| 432 | HC≡CH | Etino (acetileno) | μg/m^3^ |\n| 503 | H3C-CH2-CH3 | Propano | μg/m^3^ |\n| 505 | CH2 = CH-CH3 | Propeno | μg/m^3^ |\n| 394 | H3C-CH2-CH2-CH3 | n-butano | μg/m^3^ |\n| 447 | H3C-CH(CH3)2 | 2-metilpropano (i-butano) | μg/m^3^ |\n| 6005 | H2C = CH-CH2-CH3 | 1-buteno | μg/m^3^ |\n| 6006 | H3C-CH = CH-CH3 | trans-2-buteno | μg/m^3^ |\n| 6007 | H3C-CH = CH-CH3 | cis-2-buteno | μg/m^3^ |\n| 24 | CH2 = CH-CH = CH2 | 1,3-butadieno | μg/m^3^ |\n| 486 | H3C-(CH2)3-CH3 | n-pentano | μg/m^3^ |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| 450 | H3C-CH2-CH(CH3)2 | 2-metilbutano (isopentano) | μg/m^3^ |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| 6008 | H2C = CH-CH2-CH2-CH3 | 1-penteno | μg/m^3^ |\n| 6009 | H3C-HC = CH-CH2-CH3 | 2-penteno | μg/m^3^ |\n| 451 | CH2 = CH-C(CH3) = CH2 | 2-metil-1,3-butadieno (isopreno) | μg/m^3^ |\n| 443 | C6H14 | n-hexano | μg/m^3^ |\n| 316 | (CH3)2-CH-CH2-CH2-CH3 | 2-metilpentano (i-hexano) | μg/m^3^ |\n| 441 | C7H16 | n-heptano | μg/m^3^ |\n| 475 | C8H18 | n-octano | μg/m^3^ |\n| 449 | (CH3)3-C-CH2-CH-(CH3)2 | 2,2,4- trimetilpentano (i-octano) | μg/m^3^ |\n| [▼C1](http://publications.europa.eu/resource/celex/32011D0850R%2801%29) |  |  |  |\n| 21 | C6H5-CH3 | Tolueno | μg/m^3^ |\n| 431 | C6H5-C2H5 | Etilbenzeno | μg/m^3^ |\n| 464 | *m,p*-C6H4(CH3)2 | *m,p*-Xileno | μg/m^3^ |\n| 482 | *o*-C6H4(CH3)2 | *o*-Xileno | μg/m^3^ |\n| [▼B](http://publications.europa.eu/resource/celex/32011D0850) |  |  |  |\n| 6011 | C6H3(CH3)3 | 1,2,4-trimetilbenzeno | μg/m^3^ |\n| 6012 | C6H3(CH3)3 | 1,2,3-trimetilbenzeno | μg/m^3^ |\n| 6013 | C6H3(CH3)3 | 1,3,5-trimetilbenzeno | μg/m^3^ |\n| 32 | THC(NM) | Hidrocarbonetos totais diversos do metano | μg/m^3^ |\n| 25 | HCHO | Metanal (formaldeído) | μg/m^3^ |\n| (^1^)É possível declarar NOx ou a soma das medidas NO e NO2 no mesmo ponto. A declarar em μg NO2/m^3^. |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "3e16321d310dc452": {
+   "fragment_id": "A) Tipos de dados comuns",
+   "type": "divisao",
+   "heading": "A) Tipos de dados comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Tipos de dados comuns\n\nSempre que um determinado tipo de dados deve ser comunicado nos termos do disposto nas partes B a K do presente anexo, devem ser incluídas todas as informações enumeradas no tipo de dados pertinente a seguir especificado."
+  },
+  "6564f4e116e521ce": {
+   "fragment_id": "1) Tipo de dados «Informações de contacto»",
+   "type": "divisao",
+   "heading": "1) Tipo de dados «Informações de contacto»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1) Tipo de dados «Informações de contacto»\n\n1. Nome da autoridade, instituição ou organismo responsável\n\n2. Nome da pessoa responsável\n\n3. Endereço do sítio *web*\n\n4. Endereço\n\n5. Número de telefone\n\n6. Endereço electrónico"
+  },
+  "f347ce117ddc5d98": {
+   "fragment_id": "2) Tipo de dados «Situação de excedência»",
+   "type": "divisao",
+   "heading": "2) Tipo de dados «Situação de excedência»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2) Tipo de dados «Situação de excedência»\n\n1. Identificação da situação de excedência\n\n2. Objectivo ambiental excedido\n\n3. Área da situação de excedência (Tipo de dados «Extensão espacial»)\n\n4. Classificação da área\n\n5. Unidades administrativas\n\n6. Estimativa da área em que o nível excedeu o objectivo ambiental\n\n7. Estimativa da extensão rodoviária em que o nível excedeu o objectivo ambiental\n\n8. Estações de monitorização na área de excedência (Ligação a D)\n\n9. Excedência modelizada (Ligação a D)\n\n10. Estimativa do total da população residente na área de excedência\n\n11. Estimativa do ecossistema/área de vegetação exposto/a acima do objectivo ambiental\n\n12. Ano de referência"
+  },
+  "68589eac039c4c0d": {
+   "fragment_id": "3) Tipo de dados «Objectivo ambiental»",
+   "type": "divisao",
+   "heading": "3) Tipo de dados «Objectivo ambiental»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3) Tipo de dados «Objectivo ambiental»\n\n1. Tipo de objectivo\n\n2. Período de referência da avaliação\n\n3. Objectivo de protecção"
+  },
+  "56e96b69a66e1276": {
+   "fragment_id": "4) Tipo de dados «Extensão espacial»",
+   "type": "divisao",
+   "heading": "4) Tipo de dados «Extensão espacial»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4) Tipo de dados «Extensão espacial»\n\n1. Informações SIG fornecidas enquanto coordenadas"
+  },
+  "f3f976b2b9efaf52": {
+   "fragment_id": "5) Tipo de dados «Observação espacial»",
+   "type": "divisao",
+   "heading": "5) Tipo de dados «Observação espacial»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5) Tipo de dados «Observação espacial»\n\n1. Dados relativos à avaliação espacial"
+  },
+  "a4b9eb5bc4e0182e": {
+   "fragment_id": "6) Tipo de dados «Publicação»",
+   "type": "divisao",
+   "heading": "6) Tipo de dados «Publicação»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6) Tipo de dados «Publicação»\n\n1. Publicação\n\n2. Título\n\n3. Autor(es)\n\n4. Data de publicação\n\n5. Editor\n\n6. Sítio *web*"
+  },
+  "3c111f06d81e683a": {
+   "fragment_id": "7) Tipo de dados «Documentação relativa às alterações»",
+   "type": "divisao",
+   "heading": "7) Tipo de dados «Documentação relativa às alterações»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7) Tipo de dados «Documentação relativa às alterações»\n\n1. Alterações\n\n2. Descrição das alterações"
+  },
+  "425a87d9e17436cc": {
+   "fragment_id": "B) Informações relativas a zonas e aglomerações (artigo 6.º)",
+   "type": "divisao",
+   "heading": "B) Informações relativas a zonas e aglomerações (artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Informações relativas a zonas e aglomerações (artigo 6.º)\n\n1. Fornecedor (Tipo de dados «Informações de contacto»)\n\n2. Documentação relativa às alterações (Tipo de dados «Documentação relativa às alterações»)\n\n3. Código da zona\n\n4. Designação da zona\n\n5. Tipo de zona\n\n6. Delimitação da zona (Tipo de dados «Extensão espacial»)\n\n7. Histórico da zona: Data de início e de termo da aplicação\n\n8. Nome/código anterior (Ligação a B)\n\n9. População residente\n\n10. População residente no ano de referência\n\n11. Código do poluente em questão\n\n12. Objectivo de protecção\n\n13. Isenção ou adiamento, nos termos do artigo 22.º da Directiva 2008/50/CE"
+  },
+  "7825e7e0e2812770": {
+   "fragment_id": "C) Informações sobre o regime de avaliação (artigo 7.º)",
+   "type": "divisao",
+   "heading": "C) Informações sobre o regime de avaliação (artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C) Informações sobre o regime de avaliação (artigo 7.º)\n\n1. Fornecedor (Tipo de dados «Informações de contacto»)\n\n2. Documentação relativa às alterações (Tipo de dados «Documentação relativa às alterações»)\n\n3. Informações sobre a zona (Ligação a B)\n\n4. Poluente\n\n5. Objectivo ambiental (Tipo de dados «Objectivo ambiental»)\n\n6. Limiar de avaliação atingido\n\n7. Ano de classificação segundo o limiar de avaliação\n\n8. Documentação relativa à classificação (Ligação *web*)\n\n9. Tipo de avaliação\n\n10. Tipo de avaliação: Descrição\n\n11. Metadados individuais de avaliação, incluindo identificação e informação de localização da estação (Ligação a D)\n\n12. Autoridade responsável pela avaliação da qualidade do ar (Tipo de dados «Informações de contacto»)\n\n13. Autoridade responsável pela aprovação dos sistemas de medição (Tipo de dados «Informações de contacto»)\n\n14. Autoridade responsável pela garantia da precisão das medições (Tipo de dados «Informações de contacto»)\n\n15. Autoridade responsável pela análise do métodos de avaliação (Tipo de dados «Informações de contacto»)\n\n16. Autoridade responsável pela coordenação da garantia de qualidade a nível nacional (Tipo de dados «Informações de contacto»)\n\n17. Autoridade responsável para a cooperação com os outros Estados-Membros e a Comissão (Tipo de dados «Informações de contacto»)"
+  },
+  "478788864cdc55b8": {
+   "fragment_id": "D) Informações relativas aos métodos de avaliação (artigos 8.º e 9.º)",
+   "type": "divisao",
+   "heading": "D) Informações relativas aos métodos de avaliação (artigos 8.º e 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D) Informações relativas aos métodos de avaliação (artigos 8.º e 9.º)"
+  },
+  "8fc58780d3353470": {
+   "fragment_id": "i) Gerais: Informações relativas a todos os métodos de avaliação",
+   "type": "divisao",
+   "heading": "i) Gerais: Informações relativas a todos os métodos de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### i) Gerais: Informações relativas a todos os métodos de avaliação\n\n1. Fornecedor (Tipo de dados «Informações de contacto»)\n\n2. Documentação relativa às alterações (Tipo de dados «Documentação relativa às alterações»)\n\n3. Tipo de avaliação\n\n4. Informações sobre a zona (Ligação a B)\n\n5. Poluente"
+  },
+  "e2864f14eb927fe8": {
+   "fragment_id": "ii) Informações relativas às medições fixas",
+   "type": "divisao",
+   "heading": "ii) Informações relativas às medições fixas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ii) Informações relativas às medições fixas\n\n1. Código de configuração das medidas\n\n2. Código europeu da estação\n\n3. Código da rede\n\n4. Código nacional da estação\n\n5. Nome da estação de monitorização\n\n6. Nome do município\n\n7. Data de início e de termo da medição\n\n8. Tipo de medição\n\n9. Método de medição/de amostragem/analítico\n\n10. Equipamento de medição/de amostragem (se disponível)\n\n11. Limite de detecção (se disponível)\n\n12. Demonstração da equivalência\n\n13. Demonstração da equivalência: Documentação (Ligação *web*)\n\n14. Período de amostragem\n\n15. Intervalo de amostragem\n\n16. Extensão espacial da área representativa (Tipo de dados «Extensão espacial») (se disponível)\n\n17. Avaliação da representatividade (se disponível)\n\n18. Documentação relativa à representatividade (Ligação *web*) (se disponível)\n\n19. Localização do ponto de amostragem: Altura da entrada de ar acima do solo\n\n20. Localização do ponto de amostragem: Distância horizontal da entrada de ar em relação ao edifício mais próximo (no caso das estações de tráfego automóvel)\n\n21. Localização do ponto de amostragem: Distância da entrada de ar em relação à faixa de rodagem mais próxima (no caso das estações de tráfego automóvel)\n\n22. Classificação da estação no que respeita às fontes de emissões predominantes pertinentes para a configuração das medidas de cada poluente\n\n23. Principais fontes (tráfego automóvel, aquecimento doméstico, fontes industriais ou zona fonte, etc.) (se disponível)\n\n24. Distância da fonte industrial ou zona fonte predominante (no caso das estações industriais)\n\n25. Referências temporais da estação: data de início e de termo\n\n26. Coordenadas geográficas: longitude, latitude e altitude da estação de monitorização\n\n27. Documentação relativa à estação, incluindo mapas e fotografias (Ligação *web*) (se disponível)\n\n28. Classificação da área\n\n29. Distância relativamente a um cruzamento principal (no caso das estações de tráfego automóvel)\n\n30. Volume estimado do tráfego (no caso das estações de tráfego automóvel)\n\n31. Parte correspondente aos veículos pesados (no caso das estações de tráfego automóvel, caso os dados estejam disponíveis)\n\n32. Velocidade do tráfego (no caso das estações de tráfego automóvel, caso os dados estejam disponíveis)\n\n33. «Canyon» urbano – largura da rua (no caso das estações de tráfego automóvel, caso os dados estejam disponíveis)\n\n34. «Canyon» urbano – altura média das fachadas dos edifícios (no caso das estações de tráfego automóvel, caso os dados estejam disponíveis)\n\n35. Nome da rede\n\n36. Rede: Data de início e de termo da operação\n\n37. Organismo responsável pela gestão da rede (Tipo de dados «Informações de contacto»)\n\n38. Método de avaliação para a areia e o sal utilizados na cobertura das estradas (nos casos em que se aplica o artigo 21.º da Directiva 2008/50/CE)\n\n39. Método de avaliação para a contribuição de fontes naturais (nos casos em que se aplica o artigo 20.º da Directiva 2008/50/CE)\n\n40. Objectivos de qualidade dos dados: Período abrangido\n\n41. Objectivos de qualidade dos dados: Recolha de dados\n\n42. Objectivos de qualidade dos dados: Estimativa da incerteza\n\n43. Objectivos de qualidade dos dados: Documentação relativa à rastreabilidade e à estimativa da incerteza\n\n44. Documentação relativa aos objectivos de qualidade dos dados de QA/CQ (Ligação *web*)"
+  },
+  "cdf30babe0d4c764": {
+   "fragment_id": "iii) Informações relativas às medidas indicativas",
+   "type": "divisao",
+   "heading": "iii) Informações relativas às medidas indicativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iii) Informações relativas às medidas indicativas\n\n1. Código das medidas indicativas\n\n2. Descrição do método de medição\n\n3. Tipo de medição\n\n4. Método de medição\n\n5. Equipamento de medição/de amostragem (se disponível)\n\n6. Limite de detecção (se disponível)\n\n7. Período de amostragem\n\n8. Intervalo de amostragem\n\n9. Coordenadas geográficas: longitude, latitude e altitude geográficas\n\n10. Método de avaliação para a areia e o sal utilizados na cobertura das estradas (nos casos em que se aplica o artigo 21.º da Directiva 2008/50/CE)\n\n11. Método de avaliação para a contribuição de fontes naturais (nos casos em que se aplica o artigo 20.º da Directiva 2008/50/CE)\n\n12. Objectivos de qualidade dos dados: Período abrangido\n\n13. Objectivos de qualidade dos dados: Recolha de dados\n\n14. Objectivos de qualidade dos dados: Estimativa da incerteza\n\n15. Objectivos de qualidade dos dados: Documentação relativa à rastreabilidade e à estimativa da incerteza\n\n16. Objectivos de qualidade dos dados: Documentação de AQ/CQ (Ligação *web*)"
+  },
+  "d8e0639bd55d4990": {
+   "fragment_id": "iv) Informações relativas à modelização",
+   "type": "divisao",
+   "heading": "iv) Informações relativas à modelização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iv) Informações relativas à modelização\n\n1. Código de modelização\n\n2. Tipo de objectivo ambiental (Tipo de dados «Objectivo ambiental»)\n\n3. Método de modelização: Nome\n\n4. Método de modelização: Descrição\n\n5. Método de modelização: Documentação (Ligação *web*)\n\n6. Método de modelização: Validação por medição\n\n7. Método de modelização: Validação por medição em locais não declarados nos termos da directiva relativa à qualidade do ar\n\n8. Período de modelização\n\n9. Área de modelização (Tipo de dados «Extensão espacial»)\n\n10. Resolução espacial\n\n11. Método de avaliação para a areia e o sal utilizados na cobertura das estradas (nos casos em que se aplica o artigo 21.º da Directiva 2008/50/CE)\n\n12. Método de avaliação para a contribuição de fontes naturais (nos casos em que se aplica o artigo 20.º da Directiva 2008/50/CE)\n\n13. Objectivos de qualidade dos dados: Estimativa da incerteza\n\n14. Objectivos de qualidade dos dados: Documentação de AQ/CQ (Ligação *web*)"
+  },
+  "1ae263883428ea6d": {
+   "fragment_id": "v) Informações relativas à estimação objectiva",
+   "type": "divisao",
+   "heading": "v) Informações relativas à estimação objectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### v) Informações relativas à estimação objectiva\n\n1. Código de estimação objectiva\n\n2. Descrição\n\n3. Área de estimação objectiva (Tipo de dados «Extensão espacial»)\n\n4. Objectivo de qualidade dos dados: Estimativa da incerteza\n\n5. Objectivos de qualidade dos dados: Documentação relativa à rastreabilidade e à estimativa da incerteza\n\n6. Objectivos de qualidade dos dados: Documentação de AQ/CQ (Ligação *web*)"
+  },
+  "1616c860d4579659": {
+   "fragment_id": "E) Informações relativas aos dados primários de avaliação validados e aos dados primários de avaliação actualizados (artigo 10.º)",
+   "type": "divisao",
+   "heading": "E) Informações relativas aos dados primários de avaliação validados e aos dados primários de avaliação actualizados (artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### E) Informações relativas aos dados primários de avaliação validados e aos dados primários de avaliação actualizados (artigo 10.º)\n\n1. Fornecedor (Tipo de dados «Informações de contacto»)\n\n2. Documentação relativa às alterações (Tipo de dados «Documentação relativa às alterações»)\n\n3. Número da versão\n\n4. Poluente\n\n5. Unidade de poluente\n\n6. Tipo de avaliação\n\n7. Método de avaliação (Ligação a D)\n\n8. Data de início e de termo da amostragem\n\n9. Unidades de tempo e número de unidades de amostragem\n\n10. Valor das medidas [incluindo a quantidade de níveis de concentração do poluente atribuída a fontes naturais e à areia ou ao sal utilizados na cobertura das estradas (nos casos em que se aplicam os artigos 20.º e 21.º da Directiva 2008/50/CE)]\n\n11. Valor de modelização (Tipo de dados «Observação espacial») [incluindo a quantidade de níveis de concentração do poluente atribuída a fontes naturais e à areia ou ao sal utilizados na cobertura das estradas (nos casos em que se aplicam os artigos 20.º e 21.º da Directiva 2008/50/CE)]\n\n12. Validade\n\n13. Estatuto de verificação"
+  },
+  "af1b207ae3874158": {
+   "fragment_id": "F) Informações sobre os dados agregados gerados (artigo 11.º)",
+   "type": "divisao",
+   "heading": "F) Informações sobre os dados agregados gerados (artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### F) Informações sobre os dados agregados gerados (artigo 11.º)\n\n1. Código de avaliação\n\n2. Informações sobre a zona (Ligação a B)\n\n3. Poluente\n\n4. Unidade de poluente\n\n5. Objectivo ambiental (Tipo de dados «Objectivo ambiental»)\n\n6. Tipo de avaliação\n\n7. Método de avaliação (Ligação a D)\n\n8. Referência temporal: Data de início e de termo do período de agregação\n\n9. Valor das medidas agregadas\n\n10. Valor agregado modelizado (Tipo de dados «Observação espacial»)\n\n11. Objectivo de qualidade dos dados: Período abrangido\n\n12. Objectivo de qualidade dos dados: Recolha de dados\n\n13. Objectivo de qualidade dos dados: Estimativa da incerteza\n\n14. Validade\n\n15. Estatuto de verificação"
+  },
+  "2df4e961a2da6306": {
+   "fragment_id": "G) Informações sobre a realização dos objectivos ambientais (artigo 12.º)",
+   "type": "divisao",
+   "heading": "G) Informações sobre a realização dos objectivos ambientais (artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### G) Informações sobre a realização dos objectivos ambientais (artigo 12.º)\n\nEstas informações devem abranger todas as zonas e aglomerações e ser totalmente coerentes com as informações geradas na parte F do presente anexo respeitantes aos dados de avaliação validados agregados dos poluentes com objectivos ambientais definidos.\n\n1. Fornecedor (Tipo de dados «Informações de contacto»)\n\n2. Ano de comunicação dos dados\n\n3. Documentação relativa às alterações (Tipo de dados «Documentação relativa às alterações»)\n\n4. Informações sobre a zona (Ligação a B)\n\n5. Situação de excedência (Tipo de dados «Situação de excedência»)\n\n6. Poluente\n\n7. Informações relativas à avaliação (Ligação a D)\n\n8. Excedência do objectivo ambiental\n\n9. Excedência do objectivo ambiental acrescido da margem de tolerância\n\n10. Excedência imputável a fontes naturais\n\n11. Excedência imputável à areia ou ao sal utilizados na cobertura das estradas\n\n12. Situação de excedência após dedução das contribuições naturais e da areia ou do sal utilizados na cobertura das estradas (Tipo de dados «Situação de excedência»)\n\n13. Número total de excedências (de acordo com os pontos 8 a 11)"
+  },
+  "6a5fac37ba1bbcaa": {
+   "fragment_id": "H) Informações sobre os planos de qualidade do ar (artigo 13.º)",
+   "type": "divisao",
+   "heading": "H) Informações sobre os planos de qualidade do ar (artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### H) Informações sobre os planos de qualidade do ar (artigo 13.º)\n\n1. Fornecedor (Tipo de dados «Informações de contacto»)\n\n2. Documentação relativa às alterações (Tipo de dados «Documentação relativa às alterações»)\n\n3. Plano de qualidade do ar: Código\n\n4. Plano de qualidade do ar: Nome\n\n5. Plano de qualidade do ar: Ano de referência da primeira excedência\n\n6. Autoridade competente (Tipo de dados «Informações de contacto»)\n\n7. Plano de qualidade do ar: Estatuto\n\n8. Plano de qualidade do ar: Poluentes abrangidos\n\n9. Plano de qualidade do ar: Data de adopção oficial\n\n10. Plano de qualidade do ar: Calendário de execução\n\n11. Referência ao plano de qualidade do ar (Ligação *web*)\n\n12. Referência à execução (Ligação *web*)\n\n13. Publicação pertinente (Tipo de dados «Publicação»)\n\n14. Código da situação ou das situações de excedência pertinente(s) (Ligação a G)"
+  },
+  "b2cfc5b6901c6478": {
+   "fragment_id": "I) Informações relativas à repartição de fontes (artigo 13.º)",
+   "type": "divisao",
+   "heading": "I) Informações relativas à repartição de fontes (artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I) Informações relativas à repartição de fontes (artigo 13.º)\n\n1. Código(s) da situação de excedência (Ligação a G)\n\n2. Ano de referência\n\n3. Nível de fundo regional: Total\n\n4. Nível de fundo regional: No interior do Estado-Membro\n\n5. Nível de fundo regional: Transfronteiriço\n\n6. Nível de fundo regional: Natural\n\n7. Incremento em nível de fundo urbano: Total\n\n8. Incremento em nível de fundo urbano: Tráfego\n\n9. Incremento em nível de fundo urbano: Indústria, incluindo produção termoeléctrica\n\n10. Incremento em nível de fundo urbano: Agricultura\n\n11. Incremento em nível de fundo urbano: Comercial e residencial\n\n12. Incremento em nível de fundo urbano: Transporte marítimo\n\n13. Incremento em nível de fundo urbano: Máquinas móveis não rodoviárias\n\n14. Incremento em nível de fundo urbano: Natural\n\n15. Incremento em nível de fundo urbano: Transfronteiriço\n\n16. Incremento local: Total\n\n17. Incremento local: Tráfego\n\n18. Incremento local: Indústria, incluindo produção termoeléctrica\n\n19. Incremento local: Agricultura\n\n20. Incremento local: Comercial e residencial\n\n21. Incremento local: Transporte marítimo\n\n22. Incremento local: Máquinas móveis não rodoviárias\n\n23. Incremento local: Natural\n\n24. Incremento local: Transfronteiriço"
+  },
+  "067a8bd7020c5bb8": {
+   "fragment_id": "J) Informações relativas ao cenário para o ano de realização do objectivo ambiental (artigo 13.º)",
+   "type": "divisao",
+   "heading": "J) Informações relativas ao cenário para o ano de realização do objectivo ambiental (artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### J) Informações relativas ao cenário para o ano de realização do objectivo ambiental (artigo 13.º)\n\n1. Código da situação de excedência (Ligação a G)\n\n2. Código do cenário\n\n3. Código do plano de qualidade do ar (Ligação a H)\n\n4. Ano de referência em relação ao qual as projecções são feitas\n\n5. Ano de referência a partir do qual as projecções têm início\n\n6. Repartição de fontes (Ligação a I)\n\n7. Publicação pertinente (Tipo de dados «Publicação»)\n\n8. Base de referência: Descrição do cenário de emissão\n\n9. Base de referência: Total de emissões na unidade geográfica considerada\n\n10. Base de referência: Medidas consideradas (Ligação a K)\n\n11. Base de referência: Níveis de concentração previstos no ano de projecção\n\n12. Base de referência: Número de excedências previsto no ano de projecção\n\n13. Projecção: Descrição do cenário de emissão\n\n14. Projecção: Total de emissões na unidade geográfica considerada\n\n15. Projecção: Medidas consideradas (Ligação a K)\n\n16. Projecção: Níveis de concentração previstos no ano de projecção\n\n17. Projecção: Número de excedências previsto no ano de projecção"
+  },
+  "7f2ad7b4e9f917e6": {
+   "fragment_id": "K) Informações relativas às medidas (artigos 13.º e 14.º)",
+   "type": "divisao",
+   "heading": "K) Informações relativas às medidas (artigos 13.º e 14.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### K) Informações relativas às medidas (artigos 13.º e 14.º)\n\n1. Código(s) da situação de excedência (Ligação a G)\n\n2. Código do plano de qualidade do ar (Ligação a H)\n\n3. Código do cenário de avaliação (Ligação a J)\n\n4. Medida: Código\n\n5. Medida: Designação\n\n6. Medida: Descrição\n\n7. Medida: Classificação\n\n8. Medida: Tipo\n\n9. Medida: Nível administrativo\n\n10. Medida: Calendário\n\n11. Medida: Sector fonte afectado\n\n12. Medida: Extensão\n\n13. Custos de realização estimados (se disponíveis)\n\n14. Realização prevista: data de início e de termo\n\n15. Data em que a medida deverá ter pleno efeito\n\n16. Outras datas importantes da realização\n\n17. Indicador para acompanhamento dos progressos registados\n\n18. Redução das emissões anuais devida à medida aplicada\n\n19. Impacto previsto no nível de concentrações no ano de projecção (se disponível)\n\n20. Impacto previsto no número de excedências no ano de projecção (se disponível)"
+  }
+ }
+}

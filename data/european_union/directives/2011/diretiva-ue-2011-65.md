@@ -36,6 +36,306 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: diretiva-ue-2011-65.versoes.json
+  count: 24
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2011-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Adaptação dos anexos ao progresso científico e técnico
+    - Altera Artigo 8.º — Deveres dos mandatários
+    - Altera Artigo 15.º — Regras e condições de aposição da marcação CE
+    - Altera Artigo 28.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Categorias de EEE abrangidos pela presente directiva
+    - Adita ANEXO II
+    - Adita Substâncias sujeitas à restrição a que se refere o n.º 1 do artigo 4.º e valores máximos de concentração ponderal
+      tolerados em materiais homogéneos
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita Aplicações isentas da restrição prevista no n.º 1 do artigo 4.º no que respeita aos dispositivos médicos e aos
+      instrumentos de monitorização e controlo
+    - Adita Equipamentos que utilizam ou detectam radiação ionizante
+    - Adita Outros
+    - Adita ANEXO V
+    - Adita Pedidos de concessão, renovação e revogação de isenções nos termos do artigo 5.º
+    - Adita ANEXO VI
+    - Adita DECLARAÇÃO DE CONFORMIDADE UE
+    - Adita ANEXO VII
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO VIII
+  - date: '2013-01-07'
+    amending: eu:celex:32012L0050:por
+    amending_title: DIRETIVA DELEGADA 2012/50/UE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de outubro de 2012;
+      DIRETIVA DELEGADA 2012/51/UE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2014-01-29'
+    amending: eu:celex:32014L0001:por
+    amending_title: DIRETIVA DELEGADA 2014/1/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013;
+      DIRETIVA DELEGADA 2014/2/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA
+      2014/3/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/4/UE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 18 de outubro de 2013; M7; DIRETIVA DELEGADA 2014/6/UE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/7/UE DA COMISSÃO Texto relevante para efeitos do
+      EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/8/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro
+      de 2013; DIRETIVA DELEGADA 2014/9/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013; DIRETIVA
+      DELEGADA 2014/10/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/11/UE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/12/UE DA COMISSÃO Texto
+      relevante para efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/13/UE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/14/UE DA COMISSÃO Texto relevante para efeitos do EEE
+      de 18 de outubro de 2013; DIRETIVA DELEGADA 2014/15/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro
+      de 2013; DIRETIVA DELEGADA 2014/16/UE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Deveres dos importadores
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2014-06-09'
+    amending: eu:celex:32014L0069:por
+    amending_title: DIRETIVA DELEGADA 2014/69/UE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março de 2014; DIRETIVA
+      DELEGADA 2014/70/UE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março de 2014; DIRETIVA DELEGADA 2014/71/UE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março de 2014; DIRETIVA DELEGADA 2014/72/UE DA COMISSÃO Texto
+      relevante para efeitos do EEE de 13 de março de 2014; DIRETIVA DELEGADA 2014/73/UE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 13 de março de 2014; DIRETIVA DELEGADA 2014/74/UE DA COMISSÃO Texto relevante para efeitos do EEE
+      de 13 de março de 2014; DIRETIVA DELEGADA 2014/75/UE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março
+      de 2014; DIRETIVA DELEGADA 2014/76/UE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2015-04-30'
+    amending: eu:celex:32015L0573:por
+    amending_title: DIRETIVA DELEGADA (UE) 2015/573 DA COMISSÃO Texto relevante para efeitos do EEE de 30 de janeiro de 2015;
+      DIRETIVA DELEGADA (UE) 2015/574 DA COMISSÃO Texto relevante para efeitos do EEE de 30 de janeiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2016-07-15'
+    amending: eu:celex:32016L1028:por
+    amending_title: DIRETIVA DELEGADA (UE) 2016/1028 DA COMISSÃO Texto relevante para efeitos do EEE de 19 de abril de 2016;
+      DIRETIVA DELEGADA (UE) 2016/1029 DA COMISSÃO Texto relevante para efeitos do EEE de 19 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2017-11-06'
+    amending: eu:celex:32016L0585:por
+    amending_title: DIRETIVA DELEGADA (UE) 2016/585 DA COMISSÃO Texto relevante para efeitos do EEE de 12 de fevereiro de
+      2016
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2017-12-11'
+    amending: eu:celex:32017L2102:por
+    amending_title: DIRETIVA (UE) 2017/2102 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15
+      de novembro de 2017
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Prevenção
+    - Altera Artigo 5.º — Adaptação dos anexos ao progresso científico e técnico
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2018-07-06'
+    amending: eu:celex:32017L1009:por
+    amending_title: DIRETIVA DELEGADA (UE) 2017/1009 DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março de 2017;
+      DIRETIVA DELEGADA (UE) 2017/1010 DA COMISSÃO Texto relevante para efeitos do EEE de 13 de março de 2017; DIRETIVA DELEGADA
+      (UE) 2017/1011 DA COMISSÃO Texto relevante para efeitos do EEE de 15 de março de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Adaptação dos anexos ao progresso científico e técnico
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2019-07-22'
+    amending: eu:celex:32015L0863:por
+    amending_title: DIRETIVA DELEGADA (UE) 2015/863 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de março de 2015;
+      DIRETIVA DELEGADA (UE) 2017/1975 DA COMISSÃO Texto relevante para efeitos do EEE de 7 de agosto de 2017; DIRETIVA DELEGADA
+      (UE) 2018/736 DA COMISSÃO Texto relevante para efeitos do EEE de 27 de fevereiro de 2018; DIRETIVA DELEGADA (UE) 2018/737
+      DA COMISSÃO Texto relevante para efeitos do EEE de 27 de fevereiro de 2018; DIRETIVA DELEGADA (UE) 2018/738 DA COMISSÃO
+      Texto relevante para efeitos do EEE de 27 de fevereiro de 2018; DIRETIVA DELEGADA (UE) 2018/739 DA COMISSÃO Texto relevante
+      para efeitos do EEE de 1 de março de 2018; DIRETIVA DELEGADA (UE) 2018/740 DA COMISSÃO Texto relevante para efeitos
+      do EEE de 1 de março de 2018; DIRETIVA DELEGADA (UE) 2018/741 DA COMISSÃO Texto relevante para efeitos do EEE de 1 de
+      março de 2018; DIRETIVA DELEGADA (UE) 2018/742 DA COMISSÃO Texto relevante para efeitos do EEE de 1 de março de 2018;
+      DIRETIVA DELEGADA (UE) 2019/178 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de novembro de 2018
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Adaptação dos anexos ao progresso científico e técnico
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+    - Adita Substâncias sujeitas à restrição a que se refere o artigo 4.º, n.º 1, e valores máximos de concentração ponderal
+      tolerados em materiais homogéneos
+    - Suprime Substâncias sujeitas à restrição a que se refere o n.º 1 do artigo 4.º e valores máximos de concentração ponderal
+      tolerados em materiais homogéneos
+  - date: '2020-03-01'
+    amending: eu:celex:32019L0169:por
+    amending_title: DIRETIVA DELEGADA (UE) 2019/169 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de novembro de 2018;
+      DIRETIVA DELEGADA (UE) 2019/170 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de novembro de 2018; DIRETIVA
+      DELEGADA (UE) 2019/171 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de novembro de 2018; DIRETIVA DELEGADA
+      (UE) 2019/172 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de novembro de 2018; DIRETIVA DELEGADA (UE) 2019/173
+      DA COMISSÃO Texto relevante para efeitos do EEE de 16 de novembro de 2018; DIRETIVA DELEGADA (UE) 2019/174 DA COMISSÃO
+      Texto relevante para efeitos do EEE de 16 de novembro de 2018; DIRETIVA DELEGADA (UE) 2019/175 DA COMISSÃO Texto relevante
+      para efeitos do EEE de 16 de novembro de 2018; DIRETIVA DELEGADA (UE) 2019/176 DA COMISSÃO Texto relevante para efeitos
+      do EEE de 16 de novembro de 2018; DIRETIVA DELEGADA (UE) 2019/177 DA COMISSÃO Texto relevante para efeitos do EEE de
+      16 de novembro de 2018
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Substâncias sujeitas à restrição a que se refere o artigo 4.º, n.º 1, e valores máximos de concentração ponderal
+      tolerados em materiais homogéneos
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2020-05-01'
+    amending: eu:celex:32019L1845:por
+    amending_title: DIRETIVA DELEGADA (UE) 2019/1845 DA COMISSÃO Texto relevante para efeitos do EEE de 8 de agosto de 2019;
+      DIRETIVA DELEGADA (UE) 2019/1846 DA COMISSÃO Texto relevante para efeitos do EEE de 8 de agosto de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2020-09-01'
+    amending: eu:celex:32020L0364:por
+    amending_title: DIRETIVA DELEGADA (UE) 2020/364 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de dezembro de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2021-04-01'
+    amending: eu:celex:32020L0360:por
+    amending_title: DIRETIVA DELEGADA (UE) 2020/360 DA COMISSÃO de 17 de dezembro de 2019; DIRETIVA DELEGADA (UE) 2020/361
+      DA COMISSÃO de 17 de dezembro de 2019; DIRETIVA DELEGADA (UE) 2020/365 DA COMISSÃO de 17 de dezembro de 2019; DIRETIVA
+      DELEGADA (UE) 2020/366 DA COMISSÃO de 17 de dezembro de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2021-11-01'
+    amending: eu:celex:32021L0647:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/647 DA COMISSÃO de 15 de janeiro de 2021; DIRETIVA DELEGADA (UE) 2021/1978
+      DA COMISSÃO de 11 de agosto de 2021; DIRETIVA DELEGADA (UE) 2021/1979 DA COMISSÃO de 11 de agosto de 2021; DIRETIVA
+      DELEGADA (UE) 2021/1980 DA COMISSÃO de 11 de agosto de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: eu:celex:32021L0884:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/884 DA COMISSÃO de 8 de março de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2022-10-01'
+    amending: eu:celex:32022L0274:por
+    amending_title: DIRETIVA DELEGADA (UE) 2022/274 DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/275
+      DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/276 DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA
+      DELEGADA (UE) 2022/277 DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/278 DA COMISSÃO de 13 de dezembro
+      de 2021; DIRETIVA DELEGADA (UE) 2022/279 DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/280 DA COMISSÃO
+      de 13 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/281 DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA DELEGADA
+      (UE) 2022/282 DA COMISSÃO de 13 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/283 DA COMISSÃO de 13 de dezembro de
+      2021; DIRETIVA DELEGADA (UE) 2022/284 DA COMISSÃO de 16 de dezembro de 2021; DIRETIVA DELEGADA (UE) 2022/287 DA COMISSÃO
+      de 13 de dezembro de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2023-03-01'
+    amending: eu:celex:32022L1631:por
+    amending_title: DIRETIVA DELEGADA (UE) 2022/1631 DA COMISSÃO de 12 de maio de 2022; DIRETIVA DELEGADA (UE) 2022/1632 DA
+      COMISSÃO de 12 de maio de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2023-09-01'
+    amending: eu:celex:32023L0171:por
+    amending_title: DIRETIVA DELEGADA (UE) 2023/171 DA COMISSÃO de 28 de outubro de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2024-02-01'
+    amending: eu:celex:32023L1437:por
+    amending_title: DIRETIVA DELEGADA (UE) 2023/1437 DA COMISSÃO de 4 de maio de 2023; DIRETIVA DELEGADA (UE) 2023/1526 DA
+      COMISSÃO de 16 de maio de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Adaptação dos anexos ao progresso científico e técnico
+    - Altera ANEXO III
+    - Altera Outros
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2024-08-01'
+    amending: eu:celex:32024L0232:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/232 DA COMISSÃO de 25 de outubro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Adaptação dos anexos ao progresso científico e técnico
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2025-01-01'
+    amending: eu:celex:32024L1416:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/1416 DA COMISSÃO de 13 de março de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
+  - date: '2026-07-01'
+    amending: eu:celex:32025L1802:por
+    amending_title: DIRETIVA DELEGADA (UE) 2025/1802 DA COMISSÃO de 8 de setembro de 2025; DIRETIVA DELEGADA (UE) 2025/2363
+      DA COMISSÃO de 8 de setembro de 2025; DIRETIVA DELEGADA (UE) 2025/2364 DA COMISSÃO de 8 de setembro de 2025
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera ANEXO III
+    - Altera DECLARAÇÃO DE CONFORMIDADE UE
+    - Altera Notas
 identifiers:
   celex: 32011L0065
   eli: http://data.europa.eu/eli/dir/2011/65/oj
@@ -50,7 +350,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6be9a15c-0644-4f7d-9911-462a649b5c0c.0013
   content_url: http://publications.europa.eu/resource/cellar/a3485ccc-53c4-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0065-20260701
-  retrieved_at: '2026-10-22T02:36:55Z'
+  retrieved_at: '2026-10-22T15:50:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T08:12:48.613+02:00'
 integrity:
@@ -59,9 +359,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:55Z'
-  notes: Texto consolidado 02011L0065-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:39Z'
+  notes: 24 versão(ões); histórico completo em diretiva-ue-2011-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -773,130 +1073,19 @@ relationships:
   source: null
 article_structure:
   article_count: 28
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:55Z'
+  checked_at: '2026-10-22T15:50:39Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de Junho de 2011
-
-> 02011L0065 — PT — 01.07.2026 — 023.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32012L0050) — [DIRETIVA DELEGADA 2012/50/UE DA COMISSÃO de 10 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0050) — L 348 — 16 — 18.12.2012
-- [►M2](http://publications.europa.eu/resource/celex/32012L0051) — [DIRETIVA DELEGADA 2012/51/UE DA COMISSÃO de 10 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0051) — L 348 — 18 — 18.12.2012
-- [►M3](http://publications.europa.eu/resource/celex/32014L0001) — [DIRETIVA DELEGADA 2014/1/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0001) — L 4 — 45 — 9.1.2014
-- [►M4](http://publications.europa.eu/resource/celex/32014L0002) — [DIRETIVA DELEGADA 2014/2/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0002) — L 4 — 47 — 9.1.2014
-- [►M5](http://publications.europa.eu/resource/celex/32014L0003) — [DIRETIVA DELEGADA 2014/3/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0003) — L 4 — 49 — 9.1.2014
-- [►M6](http://publications.europa.eu/resource/celex/32014L0004) — [DIRETIVA DELEGADA 2014/4/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0004) — L 4 — 51 — 9.1.2014
-- [M7](http://publications.europa.eu/resource/celex/32014L0005) — [DIRETIVA DELEGADA 2014/5/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0005) — L 4 — 53 — 9.1.2014
-- [►M8](http://publications.europa.eu/resource/celex/32014L0006) — [DIRETIVA DELEGADA 2014/6/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0006) — L 4 — 55 — 9.1.2014
-- [►M9](http://publications.europa.eu/resource/celex/32014L0007) — [DIRETIVA DELEGADA 2014/7/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0007) — L 4 — 57 — 9.1.2014
-- [►M10](http://publications.europa.eu/resource/celex/32014L0008) — [DIRETIVA DELEGADA 2014/8/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0008) — L 4 — 59 — 9.1.2014
-- [►M11](http://publications.europa.eu/resource/celex/32014L0009) — [DIRETIVA DELEGADA 2014/9/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0009) — L 4 — 61 — 9.1.2014
-- [►M12](http://publications.europa.eu/resource/celex/32014L0010) — [DIRETIVA DELEGADA 2014/10/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0010) — L 4 — 63 — 9.1.2014
-- [►M13](http://publications.europa.eu/resource/celex/32014L0011) — [DIRETIVA DELEGADA 2014/11/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0011) — L 4 — 65 — 9.1.2014
-- [►M14](http://publications.europa.eu/resource/celex/32014L0012) — [DIRETIVA DELEGADA 2014/12/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0012) — L 4 — 67 — 9.1.2014
-- [►M15](http://publications.europa.eu/resource/celex/32014L0013) — [DIRETIVA DELEGADA 2014/13/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0013) — L 4 — 69 — 9.1.2014
-- [M16](http://publications.europa.eu/resource/celex/32014L0014) — [DIRETIVA DELEGADA 2014/14/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0014) — L 4 — 71 — 9.1.2014
-- [M17](http://publications.europa.eu/resource/celex/32014L0015) — [DIRETIVA DELEGADA 2014/15/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0015) — L 4 — 73 — 9.1.2014
-- [►M18](http://publications.europa.eu/resource/celex/32014L0016) — [DIRETIVA DELEGADA 2014/16/UE DA COMISSÃO de 18 de outubro de 2013](http://publications.europa.eu/resource/celex/32014L0016) — L 4 — 75 — 9.1.2014
-- [►M19](http://publications.europa.eu/resource/celex/32014L0069) — [DIRETIVA DELEGADA 2014/69/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0069) — L 148 — 72 — 20.5.2014
-- [►M20](http://publications.europa.eu/resource/celex/32014L0070) — [DIRETIVA DELEGADA 2014/70/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0070) — L 148 — 74 — 20.5.2014
-- [►M21](http://publications.europa.eu/resource/celex/32014L0071) — [DIRETIVA DELEGADA 2014/71/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0071) — L 148 — 76 — 20.5.2014
-- [►M22](http://publications.europa.eu/resource/celex/32014L0072) — [DIRETIVA DELEGADA 2014/72/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0072) — L 148 — 78 — 20.5.2014
-- [M23](http://publications.europa.eu/resource/celex/32014L0073) — [DIRETIVA DELEGADA 2014/73/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0073) — L 148 — 80 — 20.5.2014
-- [►M24](http://publications.europa.eu/resource/celex/32014L0074) — [DIRETIVA DELEGADA 2014/74/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0074) — L 148 — 82 — 20.5.2014
-- [►M25](http://publications.europa.eu/resource/celex/32014L0075) — [DIRETIVA DELEGADA 2014/75/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0075) — L 148 — 84 — 20.5.2014
-- [►M26](http://publications.europa.eu/resource/celex/32014L0076) — [DIRETIVA DELEGADA 2014/76/UE DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014L0076) — L 148 — 86 — 20.5.2014
-- [M27](http://publications.europa.eu/resource/celex/32015L0573) — [DIRETIVA DELEGADA (UE) 2015/573 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015L0573) — L 94 — 4 — 10.4.2015
-- [►M28](http://publications.europa.eu/resource/celex/32015L0574) — [DIRETIVA DELEGADA (UE) 2015/574 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015L0574) — L 94 — 6 — 10.4.2015
-- [►M29](http://publications.europa.eu/resource/celex/32015L0863) — [DIRETIVA DELEGADA (UE) 2015/863 DA COMISSÃO de 31 de março de 2015](http://publications.europa.eu/resource/celex/32015L0863) — L 137 — 10 — 4.6.2015
-- [►M30](http://publications.europa.eu/resource/celex/32016L0585) — [DIRETIVA DELEGADA (UE) 2016/585 DA COMISSÃO de 12 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016L0585) — L 101 — 12 — 16.4.2016
-- [►M31](http://publications.europa.eu/resource/celex/32016L1028) — [DIRETIVA DELEGADA (UE) 2016/1028 DA COMISSÃO de 19 de abril de 2016](http://publications.europa.eu/resource/celex/32016L1028) — L 168 — 13 — 25.6.2016
-- [►M32](http://publications.europa.eu/resource/celex/32016L1029) — [DIRETIVA DELEGADA (UE) 2016/1029 DA COMISSÃO de 19 de abril de 2016](http://publications.europa.eu/resource/celex/32016L1029) — L 168 — 15 — 25.6.2016
-- [►M33](http://publications.europa.eu/resource/celex/32017L1009) — [DIRETIVA DELEGADA (UE) 2017/1009 DA COMISSÃO de 13 de março de 2017](http://publications.europa.eu/resource/celex/32017L1009) — L 153 — 21 — 16.6.2017
-- [►M34](http://publications.europa.eu/resource/celex/32017L1010) — [DIRETIVA DELEGADA (UE) 2017/1010 DA COMISSÃO de 13 de março de 2017](http://publications.europa.eu/resource/celex/32017L1010) — L 153 — 23 — 16.6.2017
-- [►M35](http://publications.europa.eu/resource/celex/32017L1011) — [DIRETIVA DELEGADA (UE) 2017/1011 DA COMISSÃO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017L1011) — L 153 — 25 — 16.6.2017
-- [M36](http://publications.europa.eu/resource/celex/32017L1975) — [DIRETIVA DELEGADA (UE) 2017/1975 DA COMISSÃO de 7 de agosto de 2017](http://publications.europa.eu/resource/celex/32017L1975) — L 281 — 29 — 31.10.2017
-- [►M37](http://publications.europa.eu/resource/celex/32017L2102) — [DIRETIVA (UE) 2017/2102 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2102) — L 305 — 8 — 21.11.2017
-- [M38](http://publications.europa.eu/resource/celex/32018L0736) — [DIRETIVA DELEGADA (UE) 2018/736 DA COMISSÃO de 27 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018L0736) — L 123 — 94 — 18.5.2018
-- [►M39](http://publications.europa.eu/resource/celex/32018L0737) — [DIRETIVA DELEGADA (UE) 2018/737 DA COMISSÃO de 27 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018L0737) — L 123 — 97 — 18.5.2018
-- [►M40](http://publications.europa.eu/resource/celex/32018L0738) — [DIRETIVA DELEGADA (UE) 2018/738 DA COMISSÃO de 27 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018L0738) — L 123 — 100 — 18.5.2018
-- [M41](http://publications.europa.eu/resource/celex/32018L0739) — [DIRETIVA DELEGADA (UE) 2018/739 DA COMISSÃO de 1 de março de 2018](http://publications.europa.eu/resource/celex/32018L0739) — L 123 — 103 — 18.5.2018
-- [M42](http://publications.europa.eu/resource/celex/32018L0740) — [DIRETIVA DELEGADA (UE) 2018/740 DA COMISSÃO de 1 de março de 2018](http://publications.europa.eu/resource/celex/32018L0740) — L 123 — 106 — 18.5.2018
-- [M43](http://publications.europa.eu/resource/celex/32018L0741) — [DIRETIVA DELEGADA (UE) 2018/741 DA COMISSÃO de 1 de março de 2018](http://publications.europa.eu/resource/celex/32018L0741) — L 123 — 109 — 18.5.2018
-- [M44](http://publications.europa.eu/resource/celex/32018L0742) — [DIRETIVA DELEGADA (UE) 2018/742 DA COMISSÃO de 1 de março de 2018](http://publications.europa.eu/resource/celex/32018L0742) — L 123 — 112 — 18.5.2018
-- [M45](http://publications.europa.eu/resource/celex/32019L0169) — [DIRETIVA DELEGADA (UE) 2019/169 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0169) — L 33 — 5 — 5.2.2019
-- [►M46](http://publications.europa.eu/resource/celex/32019L0170) — [DIRETIVA DELEGADA (UE) 2019/170 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0170) — L 33 — 8 — 5.2.2019
-- [►M47](http://publications.europa.eu/resource/celex/32019L0171) — [DIRETIVA DELEGADA (UE) 2019/171 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0171) — L 33 — 11 — 5.2.2019
-- [►M48](http://publications.europa.eu/resource/celex/32019L0172) — [DIRETIVA DELEGADA (UE) 2019/172 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0172) — L 33 — 14 — 5.2.2019
-- [►M49](http://publications.europa.eu/resource/celex/32019L0173) — [DIRETIVA DELEGADA (UE) 2019/173 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0173) — L 33 — 17 — 5.2.2019
-- [►M50](http://publications.europa.eu/resource/celex/32019L0174) — [DIRETIVA DELEGADA (UE) 2019/174 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0174) — L 33 — 20 — 5.2.2019
-- [►M51](http://publications.europa.eu/resource/celex/32019L0175) — [DIRETIVA DELEGADA (UE) 2019/175 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0175) — L 33 — 23 — 5.2.2019
-- [►M52](http://publications.europa.eu/resource/celex/32019L0176) — [DIRETIVA DELEGADA (UE) 2019/176 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0176) — L 33 — 26 — 5.2.2019
-- [►M53](http://publications.europa.eu/resource/celex/32019L0177) — [DIRETIVA DELEGADA (UE) 2019/177 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0177) — L 33 — 29 — 5.2.2019
-- [►M54](http://publications.europa.eu/resource/celex/32019L0178) — [DIRETIVA DELEGADA (UE) 2019/178 DA COMISSÃO de 16 de novembro de 2018](http://publications.europa.eu/resource/celex/32019L0178) — L 33 — 32 — 5.2.2019
-- [►M55](http://publications.europa.eu/resource/celex/32019L1845) — [DIRETIVA DELEGADA (UE) 2019/1845 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019L1845) — L 283 — 38 — 5.11.2019
-- [►M56](http://publications.europa.eu/resource/celex/32019L1846) — [DIRETIVA DELEGADA (UE) 2019/1846 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019L1846) — L 283 — 41 — 5.11.2019
-- [►M57](http://publications.europa.eu/resource/celex/32020L0360) — [DIRETIVA DELEGADA (UE) 2020/360 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0360) — L 67 — 109 — 5.3.2020
-- [►M58](http://publications.europa.eu/resource/celex/32020L0361) — [DIRETIVA DELEGADA (UE) 2020/361 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0361) — L 67 — 112 — 5.3.2020
-- [►M59](http://publications.europa.eu/resource/celex/32020L0364) — [DIRETIVA DELEGADA (UE) 2020/364 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0364) — L 67 — 122 — 5.3.2020
-- [►M60](http://publications.europa.eu/resource/celex/32020L0365) — [DIRETIVA DELEGADA (UE) 2020/365 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0365) — L 67 — 125 — 5.3.2020
-- [►M61](http://publications.europa.eu/resource/celex/32020L0366) — [DIRETIVA DELEGADA (UE) 2020/366 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0366) — L 67 — 129 — 5.3.2020
-- [►M62](http://publications.europa.eu/resource/celex/32021L0647) — [DIRETIVA DELEGADA (UE) 2021/647 DA COMISSÃO de 15 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021L0647) — L 133 — 54 — 20.4.2021
-- [►M63](http://publications.europa.eu/resource/celex/32021L0884) — [DIRETIVA DELEGADA (UE) 2021/884 DA COMISSÃO de 8 de março de 2021](http://publications.europa.eu/resource/celex/32021L0884) — L 194 — 37 — 2.6.2021
-- [►M64](http://publications.europa.eu/resource/celex/32021L1978) — [DIRETIVA DELEGADA (UE) 2021/1978 DA COMISSÃO de 11 de agosto de 2021](http://publications.europa.eu/resource/celex/32021L1978) — L 402 — 65 — 15.11.2021
-- [►M65](http://publications.europa.eu/resource/celex/32021L1979) — [DIRETIVA DELEGADA (UE) 2021/1979 DA COMISSÃO de 11 de agosto de 2021](http://publications.europa.eu/resource/celex/32021L1979) — L 402 — 69 — 15.11.2021
-- [►M66](http://publications.europa.eu/resource/celex/32021L1980) — [DIRETIVA DELEGADA (UE) 2021/1980 DA COMISSÃO de 11 de agosto de 2021](http://publications.europa.eu/resource/celex/32021L1980) — L 402 — 73 — 15.11.2021
-- [►M67](http://publications.europa.eu/resource/celex/32022L0274) — [DIRETIVA DELEGADA (UE) 2022/274 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0274) — L 43 — 25 — 24.2.2022
-- [►M68](http://publications.europa.eu/resource/celex/32022L0275) — [DIRETIVA DELEGADA (UE) 2022/275 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0275) — L 43 — 29 — 24.2.2022
-- [►M69](http://publications.europa.eu/resource/celex/32022L0276) — [DIRETIVA DELEGADA (UE) 2022/276 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0276) — L 43 — 32 — 24.2.2022
-- [►M70](http://publications.europa.eu/resource/celex/32022L0277) — [DIRETIVA DELEGADA (UE) 2022/277 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0277) — L 43 — 35 — 24.2.2022
-- [►M71](http://publications.europa.eu/resource/celex/32022L0278) — [DIRETIVA DELEGADA (UE) 2022/278 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0278) — L 43 — 38 — 24.2.2022
-- [►M72](http://publications.europa.eu/resource/celex/32022L0279) — [DIRETIVA DELEGADA (UE) 2022/279 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0279) — L 43 — 41 — 24.2.2022
-- [►M73](http://publications.europa.eu/resource/celex/32022L0280) — [DIRETIVA DELEGADA (UE) 2022/280 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0280) — L 43 — 44 — 24.2.2022
-- [►M74](http://publications.europa.eu/resource/celex/32022L0281) — [DIRETIVA DELEGADA (UE) 2022/281 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0281) — L 43 — 47 — 24.2.2022
-- [►M75](http://publications.europa.eu/resource/celex/32022L0282) — [DIRETIVA DELEGADA (UE) 2022/282 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0282) — L 43 — 51 — 24.2.2022
-- [►M76](http://publications.europa.eu/resource/celex/32022L0283) — [DIRETIVA DELEGADA (UE) 2022/283 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0283) — L 43 — 54 — 24.2.2022
-- [►M77](http://publications.europa.eu/resource/celex/32022L0284) — [DIRETIVA DELEGADA (UE) 2022/284 DA COMISSÃO de 16 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0284) — L 43 — 57 — 24.2.2022
-- [►M78](http://publications.europa.eu/resource/celex/32022L0287) — [DIRETIVA DELEGADA (UE) 2022/287 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022L0287) — L 43 — 64 — 24.2.2022
-- [►M79](http://publications.europa.eu/resource/celex/32022L1631) — [DIRETIVA DELEGADA (UE) 2022/1631 DA COMISSÃO de 12 de maio de 2022](http://publications.europa.eu/resource/celex/32022L1631) — L 245 — 45 — 22.9.2022
-- [►M80](http://publications.europa.eu/resource/celex/32022L1632) — [DIRETIVA DELEGADA (UE) 2022/1632 DA COMISSÃO de 12 de maio de 2022](http://publications.europa.eu/resource/celex/32022L1632) — L 245 — 48 — 22.9.2022
-- [►M81](http://publications.europa.eu/resource/celex/32023L0171) — [DIRETIVA DELEGADA (UE) 2023/171 DA COMISSÃO de 28 de outubro de 2022](http://publications.europa.eu/resource/celex/32023L0171) — L 24 — 33 — 26.1.2023
-- [►M82](http://publications.europa.eu/resource/celex/32023L1437) — [DIRETIVA DELEGADA (UE) 2023/1437 DA COMISSÃO de 4 de maio de 2023](http://publications.europa.eu/resource/celex/32023L1437) — L 176 — 14 — 11.7.2023
-- [►M83](http://publications.europa.eu/resource/celex/32023L1526) — [DIRETIVA DELEGADA (UE) 2023/1526 DA COMISSÃO de 16 de maio de 2023](http://publications.europa.eu/resource/celex/32023L1526) — L 185 — 26 — 24.7.2023
-- [►M84](http://publications.europa.eu/resource/celex/32024L0232) — [DIRETIVA DELEGADA (UE) 2024/232 DA COMISSÃO de 25 de outubro de 2023](http://publications.europa.eu/resource/celex/32024L0232) — L 232 — 1 — 10.1.2024
-- [►M85](http://publications.europa.eu/resource/celex/32024L1416) — [DIRETIVA DELEGADA (UE) 2024/1416 DA COMISSÃO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024L1416) — L 1416 — 1 — 21.5.2024
-- [►M86](http://publications.europa.eu/resource/celex/32025L1802) — [DIRETIVA DELEGADA (UE) 2025/1802 DA COMISSÃO de 8 de setembro de 2025](http://publications.europa.eu/resource/celex/32025L1802) — L 1802 — 1 — 21.11.2025
-- [►M87](http://publications.europa.eu/resource/celex/32025L2363) — [DIRETIVA DELEGADA (UE) 2025/2363 DA COMISSÃO de 8 de setembro de 2025](http://publications.europa.eu/resource/celex/32025L2363) — L 2363 — 1 — 21.11.2025
-- [►M88](http://publications.europa.eu/resource/celex/32025L2364) — [DIRETIVA DELEGADA (UE) 2025/2364 DA COMISSÃO de 8 de setembro de 2025](http://publications.europa.eu/resource/celex/32025L2364) — L 2364 — 1 — 21.11.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011L0065R%2801%29) — [Rectificação, JO L 209, 4.8.2012, p. 18 (2011/65/UE)](http://publications.europa.eu/resource/celex/32011L0065R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32014L0005R%2801%29) — [Rectificação, JO L 010, 15.1.2014, p. 32 (2014/5/UE)](http://publications.europa.eu/resource/celex/32014L0005R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32011L0065R%2802%29) — [Rectificação, JO L 044, 14.2.2014, p. 55 (2011/65/UE)](http://publications.europa.eu/resource/celex/32011L0065R%2802%29)
-- [►C4](http://publications.europa.eu/resource/celex/32014L0070R%2801%29) — [Rectificação, JO L 305, 24.10.2014, p. 117 (2014/70/UE)](http://publications.europa.eu/resource/celex/32014L0070R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32014L0071R%2801%29) — [Rectificação, JO L 305, 24.10.2014, p. 117 (2014/71/UE)](http://publications.europa.eu/resource/celex/32014L0071R%2801%29)
-- [C6](http://publications.europa.eu/resource/celex/32014L0072R%2801%29) — [Rectificação, JO L 305, 24.10.2014, p. 118 (2014/72/UE)](http://publications.europa.eu/resource/celex/32014L0072R%2801%29)
-- [C7](http://publications.europa.eu/resource/celex/32014L0073R%2801%29) — [Rectificação, JO L 305, 24.10.2014, p. 116 (2014/73/UE)](http://publications.europa.eu/resource/celex/32014L0073R%2801%29)
-- [►C8](http://publications.europa.eu/resource/celex/32014L0076R%2801%29) — [Rectificação, JO L 305, 24.10.2014, p. 118 (2014/76/UE)](http://publications.europa.eu/resource/celex/32014L0076R%2801%29)
-- [C9](http://publications.europa.eu/resource/celex/32017L1975R%2801%29) — [Rectificação, JO L 285, 1.11.2017, p. 32 (2017/1975)](http://publications.europa.eu/resource/celex/32017L1975R%2801%29)
-- [C10](http://publications.europa.eu/resource/celex/32023L1526R%2801%29) — [Rectificação, JO L 188, 27.7.2023, p. 59 ((UE) 2023/1526)](http://publications.europa.eu/resource/celex/32023L1526R%2801%29)
-- [►C11](http://publications.europa.eu/resource/celex/32024L1416R%2802%29) — [Rectificação, JO L 90096, 3.2.2025, p. 1 ((UE) 2024/14162024/1416)](http://publications.europa.eu/resource/celex/32024L1416R%2802%29)
-
-## DIRECTIVA 2011/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 8 de Junho de 2011
 

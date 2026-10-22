@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2011-228.versoes.json
+  count: 1
+  source_lastmod: '2011-03-29'
+  versions:
+  - date: '2011-03-09'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011R0228
   eli: http://data.europa.eu/eli/reg/2011/228/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/57fe9cac-ec68-404f-afc5-a2dfe0caab41.0015
   content_url: http://publications.europa.eu/resource/cellar/57fe9cac-ec68-404f-afc5-a2dfe0caab41.0015.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:47Z'
+  retrieved_at: '2026-10-22T15:50:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T19:18:19.447+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:47Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:59Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2011-228.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,21 +119,20 @@ relationships:
   date: '2020-06-05'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:47Z'
+  checked_at: '2026-10-22T15:50:59Z'
   warnings:
-  - Versão consolidada 02011R0228-20110329 indisponível (Sem expressão na língua por para CELEX 02011R0228-20110329.); usado
-    o texto do JO.
+  - '02011R0228-20110329: versão indisponível (Sem expressão na língua por para CELEX 02011R0228-20110329.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 228/2011 DA COMISSÃO
+# Regulamento (UE) n. ° 228/2011 da Comissão, de 7 de Março de 2011
 
 de 7 de Março de 2011
 

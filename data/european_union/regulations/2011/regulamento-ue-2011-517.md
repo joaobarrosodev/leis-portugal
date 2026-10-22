@@ -36,6 +36,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-03-10'
+version_history:
+  file: regulamento-ue-2011-517.versoes.json
+  count: 2
+  source_lastmod: '2019-03-10'
+  versions:
+  - date: '2011-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-03-10'
+    amending: eu:celex:32019R0268:por
+    amending_title: REGULAMENTO (UE) 2019/268 DA COMISSÃO de 15 de fevereiro de 2019
+    changes:
+    - Altera preambulo
+    - Altera 3.1.2. Outros excrementos e pó
+    - Altera 3.2. Método de detecção
+    - Altera 3.4. Métodos alternativos
+    - Altera 3.5. Testes de resistência antimicrobiana
+    - Altera Notas
+    - Adita 2.2.1. Amostragem pelo operador da empresa do setor alimentar
+    - Suprime 2.2.1. Amostragem pelo operador da empresa do sector alimentar
 identifiers:
   celex: 32011R0517
   eli: http://data.europa.eu/eli/reg/2011/517/oj
@@ -50,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e863484-f1b0-4932-9925-a4c3ee62b7d5.0007
   content_url: http://publications.europa.eu/resource/cellar/304651cb-6cc6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0517-20190310
-  retrieved_at: '2026-10-22T03:15:48Z'
+  retrieved_at: '2026-10-22T15:51:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T06:09:18.904+02:00'
 integrity:
@@ -59,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:48Z'
-  notes: Texto consolidado 02011R0517-20190310.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:55Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2011-517.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,33 +161,19 @@ relationships:
   date: '2006-08-02'
 article_structure:
   article_count: 6
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:48Z'
+  checked_at: '2026-10-22T15:51:55Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 517/2011 da Comissão, de 25 de Maio de 2011
-
-> 02011R0517 — PT — 10.03.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0268) — [REGULAMENTO (UE) 2019/268 DA COMISSÃO de 15 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0268) — L 46 — 11 — 18.2.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) — [Rectificação, JO L 068, 13.3.2015, p. 90 (517/2011)](http://publications.europa.eu/resource/celex/32011R0517R%2801%29)
-
-## REGULAMENTO (UE) N.º 517/2011 DA COMISSÃO
 
 de 25 de Maio de 2011
 

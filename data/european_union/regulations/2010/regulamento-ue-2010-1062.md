@@ -37,6 +37,85 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-01'
+version_history:
+  file: regulamento-ue-2010-1062.versoes.json
+  count: 3
+  source_lastmod: '2021-03-01'
+  versions:
+  - date: '2010-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-09'
+    amending: eu:celex:32014R0518:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014; REGULAMENTO DELEGADO (UE) 2017/254
+      DA COMISSÃO de 30 de novembro de 2016; M3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Responsabilidades dos fornecedores
+    - Altera Artigo 4.º — Responsabilidades dos distribuidores
+    - Altera Artigo 9.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Classe de eficiência energética
+    - Adita ANEXO II
+    - Adita Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo
+    - Adita ANEXO III
+    - Adita Ficha de produto
+    - Adita ANEXO IV
+    - Adita Documentação técnica
+    - Adita ANEXO V
+    - Adita Rótulo
+    - Adita 1. RÓTULO 1
+    - Adita 2. RÓTULO 2
+    - Adita 3. RÓTULO 3
+    - Adita 4. LABEL 4
+    - Adita ANEXO VI
+    - Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto
+    - Adita ANEXO VII
+    - Adita Medições
+    - Adita ANEXO VIII
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Adita ANEXO IX
+    - Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet
+  - date: '2021-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Responsabilidades dos fornecedores
+    - Suprime Artigo 4.º — Responsabilidades dos distribuidores
+    - Suprime Artigo 5.º — Métodos de medição
+    - Suprime Artigo 6.º — Procedimento de verificação para efeitos de vigilância do mercado
+    - Suprime Artigo 7.º — Revisão
+    - Suprime Artigo 8.º — Disposição transitória
+    - Suprime Artigo 9.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Classe de eficiência energética
+    - Suprime ANEXO II
+    - Suprime Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo
+    - Suprime ANEXO III
+    - Suprime Ficha de produto
+    - Suprime ANEXO IV
+    - Suprime Documentação técnica
+    - Suprime ANEXO V
+    - Suprime Rótulo
+    - Suprime 1. RÓTULO 1
+    - Suprime 2. RÓTULO 2
+    - Suprime 3. RÓTULO 3
+    - Suprime 4. LABEL 4
+    - Suprime ANEXO VI
+    - Suprime Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto
+    - Suprime ANEXO VII
+    - Suprime Medições
+    - Suprime ANEXO VIII
+    - Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime ANEXO IX
+    - Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet
+    - Suprime Notas
 identifiers:
   celex: 32010R1062
   eli: http://data.europa.eu/eli/reg_del/2010/1062/oj
@@ -51,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019
   content_url: http://publications.europa.eu/resource/cellar/67d2e864-7b74-11eb-9ac9-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1062-20210301
-  retrieved_at: '2026-10-22T02:59:42Z'
+  retrieved_at: '2026-10-22T15:49:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T01:22:58.076+02:00'
 integrity:
@@ -60,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:42Z'
-  notes: Texto consolidado 02010R1062-20210301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:24Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2010-1062.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,16 +233,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:42Z'
+  checked_at: '2026-10-22T15:49:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02010R1062-20101220: versão indisponível (Sem expressão na língua por para CELEX 02010R1062-20101220.)'
+  - '02010R1062-20140606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R1062-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

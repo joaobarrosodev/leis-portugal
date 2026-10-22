@@ -36,6 +36,213 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-16'
+version_history:
+  file: diretiva-ue-2011-61.versoes.json
+  count: 8
+  source_lastmod: '2026-04-16'
+  versions:
+  - date: '2011-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-20'
+    amending: eu:celex:32013L0014:por
+    amending_title: DIRETIVA 2013/14/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de maio
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Condições de acesso à actividade de GFIA
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 21.º — Depositário
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 37.º — Autorização de GFIAs extra-UE que pretendam gerir FIAs da UE ou comercializar FIAs por si geridos
+      na União nos termos dos artigos 39.º ou 40.º
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 62.º — Alteração da Directiva 2003/41/CE
+    - Altera Artigo 63.º — Alteração da Directiva 2009/65/CE
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera Artigo 67.º — Acto delegado sobre a aplicação dos artigos 35.º e 37.º a 41.º
+    - Altera Artigo 68.º — Acto delegado sobre a cessação da aplicação dos artigos 36.º e 42.º
+    - Altera Artigo 71.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita POLÍTICA DE REMUNERAÇÃO
+    - Adita ANEXO III
+    - Adita DOCUMENTAÇÃO E INFORMAÇÕES A FACULTAR EM CASO DE COMERCIALIZAÇÃO PREVISTA NO ESTADO-MEMBRO DE ORIGEM DO GFIA
+    - Adita ANEXO IV
+    - Adita DOCUMENTAÇÃO E INFORMAÇÕES A FACULTAR EM CASO DE COMERCIALIZAÇÃO PREVISTA EM ESTADOS-MEMBROS DIFERENTES DO ESTADO-MEMBRO
+      DE ORIGEM DO GFIA
+  - date: '2014-07-02'
+    amending: eu:celex:32014L0065:por
+    amending_title: DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 62.º — Alteração da Directiva 2003/41/CE
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera Notas
+    - Adita Artigo 33.º
+    - Adita Condições para a gestão de FIA da UE estabelecidos noutros Estados-Membros e para a prestação de serviços noutros
+      Estados-Membros
+    - Suprime Artigo 33.º — Condições para a gestão de FIAs da UE estabelecidos noutros Estados-Membros
+  - date: '2021-06-26'
+    amending: eu:celex:32016L2341:por
+    amending_title: DIRETIVA (UE) 2016/2341 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016; REGULAMENTO (UE)
+      2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017; DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Capital inicial e fundos próprios
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera Notas
+    - Adita Artigo 17.º
+    - Suprime Artigo 17.º — Investimento em posições de titularização
+    - Suprime Artigo 62.º — Alteração da Directiva 2003/41/CE
+  - date: '2021-08-02'
+    amending: eu:celex:32019L1160:por
+    amending_title: DIRETIVA (UE) 2019/1160 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Capital inicial e fundos próprios
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 32.º — Comercialização de unidades de participação ou acções de FIAs da UE em Estados-Membros diferentes
+      do Estado-Membro de origem do GFIA
+    - Altera Condições para a gestão de FIA da UE estabelecidos noutros Estados-Membros e para a prestação de serviços noutros
+      Estados-Membros
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera DOCUMENTAÇÃO E INFORMAÇÕES A FACULTAR EM CASO DE COMERCIALIZAÇÃO PREVISTA EM ESTADOS-MEMBROS DIFERENTES DO ESTADO-MEMBRO
+      DE ORIGEM DO GFIA
+    - Altera Notas
+    - Adita Artigo 30.º-A — Condições para a pré-comercialização na União por um GFIA da UE
+    - Adita Artigo 32.º-A — Retirada da notificação das formas previstas para a comercialização de unidades de participação
+      ou ações de alguns ou todos os FIA da UE noutros Estados-Membros que não o Estado-Membro de origem do GFIA
+    - Adita Artigo 43.º-A — Infraestruturas à disposição dos investidores não profissionais
+    - Adita Artigo 69.º-A — Avaliação do regime de passaporte
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Capital inicial e fundos próprios
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 30.º-A — Condições para a pré-comercialização na União por um GFIA da UE
+    - Altera Artigo 32.º-A — Retirada da notificação das formas previstas para a comercialização de unidades de participação
+      ou ações de alguns ou todos os FIA da UE noutros Estados-Membros que não o Estado-Membro de origem do GFIA
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera Notas
+    - Adita Artigo 69.º-B — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Capital inicial e fundos próprios
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º — Princípios gerais
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 30.º-A — Condições para a pré-comercialização na União por um GFIA da UE
+    - Altera Artigo 32.º-A — Retirada da notificação das formas previstas para a comercialização de unidades de participação
+      ou ações de alguns ou todos os FIA da UE noutros Estados-Membros que não o Estado-Membro de origem do GFIA
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera Artigo 69.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
+  - date: '2026-04-16'
+    amending: eu:celex:32024L0927:por
+    amending_title: DIRETIVA (UE) 2024/927 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Condições de acesso à actividade de GFIA
+    - Altera Artigo 7.º — Pedido de autorização
+    - Altera Artigo 8.º — Condições para a concessão de autorização
+    - Altera Artigo 9.º — Capital inicial e fundos próprios
+    - Altera Artigo 12.º — Princípios gerais
+    - Altera Artigo 14.º — Conflitos de interesses
+    - Altera Artigo 15.º — Gestão dos riscos
+    - Altera Artigo 16.º — Gestão da liquidez
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º — Princípios gerais
+    - Altera Artigo 20.º — Delegação
+    - Altera Artigo 21.º — Depositário
+    - Altera Artigo 22.º — Relatório anual
+    - Altera Artigo 23.º — Divulgação de informações aos investidores
+    - Altera Artigo 25.º — Utilização de informações por parte das autoridades competentes, cooperação no domínio da supervisão
+      e limites do nível de alavancagem
+    - Altera Artigo 26.º — Âmbito de aplicação
+    - Altera Artigo 29.º — Disposições específicas relativas aos relatórios anuais dos FIAs que controlem empresas não cotadas
+    - Altera Artigo 30.º-A — Condições para a pré-comercialização na União por um GFIA da UE
+    - Altera Artigo 32.º-A — Retirada da notificação das formas previstas para a comercialização de unidades de participação
+      ou ações de alguns ou todos os FIA da UE noutros Estados-Membros que não o Estado-Membro de origem do GFIA
+    - Altera Artigo 35.º — Condições de comercialização na União, com um passaporte, de FIAs extra-UE geridos por GFIAs da
+      UE
+    - Altera Artigo 36.º — Condições de comercialização nos Estados-Membros, sem passaporte, de FIAs extra-UE geridos por
+      GFIAs da UE
+    - Altera Artigo 37.º — Autorização de GFIAs extra-UE que pretendam gerir FIAs da UE ou comercializar FIAs por si geridos
+      na União nos termos dos artigos 39.º ou 40.º
+    - Altera Artigo 40.º — Condições de comercialização na União, com um passaporte, de FIAs extra-UE geridos por GFIAs extra-UE
+    - Altera Artigo 42.º — Condições de comercialização nos Estados-Membros, sem passaporte, de FIAs geridos por GFIAs extra-UE
+    - Altera Artigo 43.º — Comercialização de FIAs por GFIAs junto de investidores não profissionais
+    - Altera Artigo 46.º — Competência das autoridades competentes
+    - Altera Artigo 47.º — Atribuições e competência da ESMA
+    - Altera Artigo 50.º — Obrigação de cooperar
+    - Altera Artigo 59.º — Medidas de execução
+    - Altera Artigo 61.º — Disposição transitória
+    - Altera Artigo 64.º — Alteração do Regulamento (CE) n.º 1060/2009
+    - Altera Artigo 65.º — Alteração do Regulamento (UE) n.º 1095/2010
+    - Altera Artigo 69.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Artigo 60.º — Divulgação de derrogações
+    - Adita Artigo 69.º – -A — Outra revisão
+    - Adita ANEXO V
+    - Adita INSTRUMENTOS DE GESTÃO DA LIQUIDEZ À DISPOSIÇÃO DOS GFIAS QUE GEREM FIAS DE TIPO ABERTO
 identifiers:
   celex: 32011L0061
   eli: http://data.europa.eu/eli/dir/2011/61/oj
@@ -50,7 +257,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76.0003
   content_url: http://publications.europa.eu/resource/cellar/03458b81-0dbf-11f1-8870-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0061-20260416
-  retrieved_at: '2026-10-22T02:36:42Z'
+  retrieved_at: '2026-10-22T15:50:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T16:13:20.831+02:00'
 integrity:
@@ -59,9 +266,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:42Z'
-  notes: Texto consolidado 02011L0061-20260416.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:23Z'
+  notes: 8 versão(ões); histórico completo em diretiva-ue-2011-61.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -363,41 +570,20 @@ relationships:
   source: null
 article_structure:
   article_count: 76
-  section_count: 45
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 47
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:42Z'
-  warnings: []
+  checked_at: '2026-10-22T15:50:23Z'
+  warnings:
+  - '02011L0061-20110721: versão indisponível (Sem expressão na língua por para CELEX 02011L0061-20110721.)'
   errors: []
 ---
 
 # Directiva 2011/61/UE do Parlamento Europeu e do Conselho, de 8 de Junho de 2011
-
-> 02011L0061 — PT — 16.04.2026 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0014) — [DIRETIVA 2013/14/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0014) — L 145 — 1 — 31.5.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014L0065) — [DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0065) — L 173 — 349 — 12.6.2014
-- [►M3](http://publications.europa.eu/resource/celex/32016L2341) — [DIRETIVA (UE) 2016/2341 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2341) — L 354 — 37 — 23.12.2016
-- [►M4](http://publications.europa.eu/resource/celex/32017R2402) — [REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2402) — L 347 — 35 — 28.12.2017
-- [►M5](http://publications.europa.eu/resource/celex/32019L1160) — [DIRETIVA (UE) 2019/1160 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1160) — L 188 — 106 — 12.7.2019
-- [►M6](http://publications.europa.eu/resource/celex/32019L2034) — [DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2034) — L 314 — 64 — 5.12.2019
-- [►M7](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M8](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024L0927) — [DIRETIVA (UE) 2024/927 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024L0927) — L 927 — 1 — 26.3.2024
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32019L2034R%2802%29) — [Rectificação, JO L 405, 2.12.2020, p. 84 (2019/2034)](http://publications.europa.eu/resource/celex/32019L2034R%2802%29)
-
-## DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 8 de Junho de 2011
 

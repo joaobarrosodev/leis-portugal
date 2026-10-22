@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-08'
+version_history:
+  file: diretiva-ue-2012-19.versoes.json
+  count: 1
+  source_lastmod: '2024-04-08'
+  versions:
+  - date: '2024-04-08'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012L0019
   eli: http://data.europa.eu/eli/dir/2012/19/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eeb081ca-d4cb-11e1-905c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/2f392888-fbed-11ee-a251-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0019-20240408
-  retrieved_at: '2026-10-22T02:40:48Z'
+  retrieved_at: '2026-10-22T15:58:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T14:36:22.491+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:48Z'
-  notes: Texto consolidado 02012L0019-20240408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:41Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2012-19.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -277,30 +286,21 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 45
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 46
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:58:41Z'
+  warnings:
+  - '02012L0019-20120724: versão indisponível (Sem expressão na língua por para CELEX 02012L0019-20120724.)'
+  - '02012L0019-20180704: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2012/19/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012
-
-> 02012L0019 — PT — 08.04.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L0849) — [DIRETIVA (UE) 2018/849 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0849) — L 150 — 93 — 14.6.2018
-- [►M2](http://publications.europa.eu/resource/celex/32024L0884) — [DIRETIVA (UE) 2024/884 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024L0884) — L 884 — 1 — 19.3.2024
-
-## DIRETIVA 2012/19/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de julho de 2012
 

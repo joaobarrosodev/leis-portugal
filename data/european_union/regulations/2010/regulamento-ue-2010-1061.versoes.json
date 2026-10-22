@@ -1,0 +1,515 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R1061:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1061-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "2010-11-30",
+   "future": false,
+   "celex": "32010R1061",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bd4d1130586465a1",
+    "040aa8051921ff2d",
+    "02c9a263c1c58305",
+    "a62cf3d6a2c2be7e",
+    "b72038ae8721be64",
+    "522c08b79be7862b",
+    "531bb3d7f0943dc8",
+    "84239bff397bbb3b",
+    "89c5c681e322a2fb",
+    "7a7a6345bcf96486",
+    "0c03fb583ba7561c",
+    "bb2d6cdaba6f4098"
+   ]
+  },
+  {
+   "date": "2020-08-09",
+   "future": false,
+   "celex": "02010R1061-20200809",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0518:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014",
+     "published": null,
+     "celex": "32014R0518"
+    },
+    {
+     "id": "eu:celex:32017R0254:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0254"
+    },
+    {
+     "id": "eu:celex:32020R1059:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020",
+     "published": null,
+     "celex": "32020R1059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Responsabilidades dos fornecedores",
+    "Altera Artigo 4.º — Responsabilidades dos distribuidores",
+    "Altera Artigo 9.º — Disposições transitórias",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Rótulo",
+    "Adita 1. RÓTULO",
+    "Adita 2. ASPECTO DO RÓTULO",
+    "Adita ANEXO II",
+    "Adita Ficha de produto",
+    "Adita ANEXO III",
+    "Adita Documentação técnica",
+    "Adita ANEXO IV",
+    "Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Adita ANEXO V",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita ANEXO VI",
+    "Adita Classes de eficiência energética e classes de eficiência de secagem",
+    "Adita 1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+    "Adita ANEXO VII",
+    "Adita Método de cálculo do índice de eficiência energética, do consumo de água anual e do teor de humidade restante",
+    "Adita 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CÁLCULO DO CONSUMO DE ÁGUA ANUAL PONDERADO",
+    "Adita 3. CÁLCULO DO TEOR DE HUMIDADE RESTANTE PONDERADO",
+    "Adita ANEXO VIII",
+    "Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet"
+   ],
+   "fragments": [
+    "d4ba2dba0a377b1c",
+    "040aa8051921ff2d",
+    "3797288faadc05c8",
+    "5391f7ffefb14172",
+    "5486f5132cdab3db",
+    "522c08b79be7862b",
+    "531bb3d7f0943dc8",
+    "84239bff397bbb3b",
+    "89c5c681e322a2fb",
+    "77a5138086c82e69",
+    "104d32607b64f6dd",
+    "d664376e2a8dcecd",
+    "cd72cf4170b55dce",
+    "699da3fc98bc712b",
+    "b21675f0924741c3",
+    "852174729551523b",
+    "ff6e9d06d096c754",
+    "720af75c92791b10",
+    "cccf2fe4483ad92b",
+    "e03a0eb4d5b2eef3",
+    "0f65e529e4dfce17",
+    "64610ae29a6cb67c",
+    "8dae502a650a275b",
+    "90c7d2baf4d44ee2",
+    "3c0e331ab492c86a",
+    "b7170670f9e4a60c",
+    "d60704f4cda54e5f",
+    "d46ca50274582635",
+    "44249597dd2914d3",
+    "726feeec515acfe5",
+    "ef551c5e9c9fe1d4",
+    "542b4ea8c7b95c4b",
+    "1b41b51ec3248d43",
+    "b17879d82734b81d",
+    "4fbccb4c300c27e6"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "02010R1061-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Responsabilidades dos fornecedores",
+    "Suprime Artigo 4.º — Responsabilidades dos distribuidores",
+    "Suprime Artigo 5.º — Métodos de medição",
+    "Suprime Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Revogação",
+    "Suprime Artigo 9.º — Disposições transitórias",
+    "Suprime Artigo 10.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Rótulo",
+    "Suprime 1. RÓTULO",
+    "Suprime 2. ASPECTO DO RÓTULO",
+    "Suprime ANEXO II",
+    "Suprime Ficha de produto",
+    "Suprime ANEXO III",
+    "Suprime Documentação técnica",
+    "Suprime ANEXO IV",
+    "Suprime Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Suprime ANEXO V",
+    "Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime ANEXO VI",
+    "Suprime Classes de eficiência energética e classes de eficiência de secagem",
+    "Suprime 1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime 2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+    "Suprime ANEXO VII",
+    "Suprime Método de cálculo do índice de eficiência energética, do consumo de água anual e do teor de humidade restante",
+    "Suprime 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime 2. CÁLCULO DO CONSUMO DE ÁGUA ANUAL PONDERADO",
+    "Suprime 3. CÁLCULO DO TEOR DE HUMIDADE RESTANTE PONDERADO",
+    "Suprime ANEXO VIII",
+    "Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0fe82400ea7bbbcb"
+   ]
+  }
+ ],
+ "fragments": {
+  "bd4d1130586465a1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das máquinas de lavar roupa para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de Maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntr1-L_2010314PT.01004701-E0001), e, nomeadamente, o seu artigo 10.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2010/30/UE exige que a Comissão adopte actos delegados no que respeita à rotulagem dos produtos relacionados com a energia que representem um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.\n\n(2) As disposições em matéria de rotulagem energética das máquinas de lavar roupa para uso doméstico foram estabelecidas pela Directiva 95/12/CE da Comissão, de 23 de Maio de 1995, relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética de máquinas de lavar roupa para uso doméstico [([^2])](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntr2-L_2010314PT.01004701-E0002).\n\n(3) A electricidade consumida pelas máquinas de lavar roupa para uso doméstico representa uma parte importante na procura total de energia eléctrica do sector doméstico na União. Para além das melhorias de eficiência energética já alcançadas, o consumo de energia das máquinas de lavar roupa para uso doméstico pode ainda ser substancialmente reduzido.\n\n(4) Importa revogar a Directiva 95/12/CE e estabelecer novas disposições por intermédio do presente regulamento, de forma a assegurar que o rótulo energético proporciona incentivos dinâmicos para que os fornecedores melhorem ainda mais a eficiência energética das máquinas de lavar roupa para uso doméstico e acelerem a transformação do mercado rumo a tecnologias energeticamente eficientes.\n\n(5) As máquinas combinadas de lavar e secar roupa para uso doméstico são abrangidas pela Directiva 96/60/CE da Comissão, de 19 de Setembro de 1996, relativa à aplicação da Directiva 92/75/CEE do Conselho no que respeita à rotulagem energética de máquinas combinadas de lavar e secar roupa para uso doméstico [([^3])](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntr3-L_2010314PT.01004701-E0003) e devem, por conseguinte, ser excluídas do âmbito de aplicação da presente directiva. Considerando, contudo, que oferecem funcionalidades semelhantes às das máquinas de lavar roupa para uso doméstico, deve ter lugar assim que possível uma revisão da Directiva 96/60/CE.\n\n(6) As informações fornecidas no rótulo devem ser obtidas através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização, enumeradas no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^4])](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntr4-L_2010314PT.01004701-E0004).\n\n(7) O presente regulamento deve especificar um modelo e conteúdo uniformes para o rótulo das máquinas de lavar roupa para uso doméstico.\n\n(8) Além disso, o presente regulamento deve especificar os requisitos em matéria de documentação e fichas técnicas das máquinas de lavar roupa para uso doméstico.\n\n(9) Por outro lado, o presente regulamento deve especificar os requisitos relativos às informações a fornecer para quaisquer formas de vendas à distância, anúncios e material técnico de promoção das máquinas de lavar roupa para uso doméstico.\n\n(10) É adequado prever um exame das disposições do presente regulamento tendo em conta o progresso tecnológico.\n\n(11) A fim de facilitar a transição da Directiva 95/12/CE para o presente regulamento, devem ser adoptadas disposições para que as máquinas de lavar roupa para uso doméstico rotuladas em conformidade com o presente regulamento sejam consideradas conformes com a Directiva 95/12/CE.\n\n(12) A Directiva 95/12/CE deve, por conseguinte, ser revogada,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "040aa8051921ff2d": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece requisitos para a rotulagem e o fornecimento de informações adicionais sobre as máquinas de lavar roupa para uso doméstico alimentadas pela rede de electricidade e sobre as máquinas de lavar roupa para uso doméstico alimentadas pela rede de electricidade que possam também ser alimentadas por baterias, incluindo as vendidas para utilizações não domésticas e as máquinas de lavar roupa para uso doméstico encastradas.\n\n2. O presente regulamento não é aplicável às máquinas combinadas de lavar e secar roupa para uso doméstico."
+  },
+  "02c9a263c1c58305": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1) **«Máquina de lavar roupa para uso doméstico»**: uma máquina automática de lavar roupa que lava e enxagua têxteis utilizando água, que tem também uma função de extracção por centrifugação e que se destina a ser utilizada principalmente para fins não profissionais.\n\n2) **«Máquina de lavar roupa para uso doméstico encastrada»**: máquina de lavar roupa para uso doméstico destinada a ser instalada num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante.\n\n3) **«Máquina automática de lavar roupa»**: uma máquina de lavar roupa que trata totalmente a carga sem necessidade de intervenção do utilizador em nenhum ponto do programa.\n\n4) **«Máquina combinada de lavar e secar roupa»**: uma máquina de lavar roupa para uso doméstico que inclui uma função de extracção por centrifugação e uma função de secagem dos têxteis, normalmente por aquecimento e rotação.\n\n5) **«Programa»**: uma série de operações pré-definidas e declaradas pelo fornecedor como adequadas para a lavagem de certos tipos de têxteis.\n\n6) **«Ciclo»**: um processo completo de lavagem, enxaguamento e centrifugação, tal como definido para o programa seleccionado.\n\n7) **«Duração do programa»**: o tempo decorrido entre o início do programa e o fim do programa, excluindo o eventual funcionamento diferido programado pelo utilizador final.\n\n8) **«Capacidade nominal»**: a massa máxima em quilogramas declarada pelo fornecedor, a intervalos de 0,5 kg de têxteis secos de um determinado tipo, que pode ser tratada numa máquina de lavar roupa para uso doméstico no programa seleccionado, quando carregada de acordo com as instruções do fornecedor.\n\n9) **«Carga parcial»**: metade da capacidade nominal de uma máquina de lavar roupa para uso doméstico num dado programa.\n\n10) **«Teor de humidade restante»**: a taxa de humidade presente na carga no final da fase de centrifugação.\n\n11) **«Estado de desactivação»**: um estado em que a máquina de lavar roupa para uso doméstico é desligada, por meio de comandos ou interruptores acessíveis e destinados a serem operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, susceptível de persistir por tempo indeterminado, enquanto a máquina de lavar roupa para uso doméstico esteja ligada a uma fonte de energia e seja utilizada de acordo com as instruções do fornecedor. Quando não existam comandos ou interruptores acessíveis ao utilizador final, o «estado de desactivação» significa: o estado seguinte à passagem da máquina de lavar roupa para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência.\n\n12) **«Estado inactivo»**: o estado de consumo de energia mais reduzido que pode persistir por tempo indeterminado após o final do programa sem qualquer intervenção suplementar do utilizador final para além do descarregamento da máquina de lavar roupa para uso doméstico.\n\n13) **«Máquina de lavar roupa para uso doméstico equivalente»**: um modelo de máquina de lavar roupa para uso doméstico colocado no mercado cuja capacidade nominal, características técnicas e de desempenho, consumo de energia e de água e emissões de ruído aéreo durante a lavagem e a centrifugação sejam os mesmos que os de outro modelo de máquina de lavar roupa para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fornecedor.\n\n14) **«Utilizador final»**: um consumidor que compra ou se prevê que compre uma máquina de lavar roupa para uso doméstico.\n\n15) **«Ponto de venda»**: um local no qual as máquinas de lavar roupa para uso doméstico são colocadas em exposição ou postas à venda, em locação ou em locação com opção de compra."
+  },
+  "a62cf3d6a2c2be7e": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores asseguram que:\n\na) Cada máquina de lavar roupa para uso doméstico é fornecida com um rótulo impresso com o formato e as informações previstos no anexo I;\n\nb) É disponibilizada uma ficha de produto, como previsto no anexo II;\n\nc) A documentação técnica prevista no anexo III é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de máquina de lavar roupa para uso doméstico indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de máquina de lavar roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo."
+  },
+  "b72038ae8721be64": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) Cada máquina de lavar roupa para uso doméstico, no ponto de venda, ostenta o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), colocado na parte externa da máquina de lavar roupa para uso doméstico, à frente ou em cima, por forma a ser claramente visível;\n\nb) As máquinas de lavar roupa para uso doméstico colocadas à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o produto exposto, são comercializadas com as informações que os fornecedores devem facultar nos termos do anexo IV;\n\nc) Qualquer anúncio relativo a um modelo específico de máquina de lavar roupa para uso doméstico inclui uma referência à sua classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de máquina de lavar roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, contém uma referência à classe de eficiência energética do referido modelo."
+  },
+  "522c08b79be7862b": {
+   "fragment_id": "Artigo 5.º — Métodos de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de medição\n\nAs informações a facultar nos termos dos artigos 3.º e 4.º serão obtidas por métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados."
+  },
+  "531bb3d7f0943dc8": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nOs Estados-Membros aplicam o procedimento previsto no anexo V ao avaliar a conformidade da classe de eficiência energética declarada, do consumo de energia anual, do consumo de água anual, da classe de eficiência de secagem, do consumo de energia em estado de desactivação e em estado inactivo, da duração do estado inactivo, do teor de humidade restante, da velocidade de centrifugação e das emissões de ruído aéreo."
+  },
+  "84239bff397bbb3b": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento à luz do progresso tecnológico o mais tardar quatro anos após a sua entrada em vigor. Nessa revisão será feita, nomeadamente, uma avaliação das tolerâncias aplicáveis à verificação, que constam do anexo V."
+  },
+  "89c5c681e322a2fb": {
+   "fragment_id": "Artigo 8.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nA Directiva 95/12/CE é revogada com efeitos a partir de 20 de Dezembro de 2011."
+  },
+  "7a7a6345bcf96486": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam aos anúncios impressos nem ao material técnico promocional impresso publicados antes de 20 de Abril de 2012.\n\n2. As máquinas de lavar roupa para uso doméstico colocadas no mercado antes de 20 de Dezembro de 2011 devem cumprir as disposições previstas na Directiva 95/12/CE.\n\n3. Caso tenha sido adoptada uma medida de execução da Directiva 2009/125/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntr5-L_2010314PT.01004701-E0005) no que respeita aos requisitos de concepção ecológica aplicáveis às máquinas de lavar roupa para uso doméstico, as máquinas de lavar roupa para uso doméstico que cumpram o disposto nessa medida de execução no que respeita aos requisitos de eficiência de lavagem e as disposições previstas no presente regulamento, e que sejam colocadas no mercado ou postas à venda, em locação ou em locação com opção de compra antes de 20 de Dezembro de 2011 devem ser consideradas conformes com os requisitos da Directiva 95/12/CE."
+  },
+  "0c03fb583ba7561c": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 20 de Dezembro de 2011. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 20 de Abril de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 28 de Setembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "bb2d6cdaba6f4098": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntc1-L_2010314PT.01004701-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntc2-L_2010314PT.01004701-E0002) [JO L 47 de 24.2.1996, p. 35](http://publications.europa.eu/resource/oj/JOL_1996_047_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntc3-L_2010314PT.01004701-E0003) [JO L 266 de 18.10.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_266_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntc4-L_2010314PT.01004701-E0004) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/286bf7f1-84d8-4942-bbc8-4aaf45989044.0008.04/DOC_1#ntc5-L_2010314PT.01004701-E0005) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC)."
+  },
+  "d4ba2dba0a377b1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das máquinas de lavar roupa para uso doméstico\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "3797288faadc05c8": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1) «Máquina de lavar roupa para uso doméstico»: uma máquina automática de lavar roupa que lava e enxagua têxteis utilizando água, que tem também uma função de extracção por centrifugação e que se destina a ser utilizada principalmente para fins não profissionais.\n\n2) «Máquina de lavar roupa para uso doméstico encastrada»: máquina de lavar roupa para uso doméstico destinada a ser instalada num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante.\n\n3) «Máquina automática de lavar roupa»: uma máquina de lavar roupa que trata totalmente a carga sem necessidade de intervenção do utilizador em nenhum ponto do programa.\n\n4) «Máquina combinada de lavar e secar roupa»: uma máquina de lavar roupa para uso doméstico que inclui uma função de extracção por centrifugação e uma função de secagem dos têxteis, normalmente por aquecimento e rotação.\n\n5) «Programa»: uma série de operações pré-definidas e declaradas pelo fornecedor como adequadas para a lavagem de certos tipos de têxteis.\n\n6) «Ciclo»: um processo completo de lavagem, enxaguamento e centrifugação, tal como definido para o programa seleccionado.\n\n7) «Duração do programa»: o tempo decorrido entre o início do programa e o fim do programa, excluindo o eventual funcionamento diferido programado pelo utilizador final.\n\n8) «Capacidade nominal»: a massa máxima em quilogramas declarada pelo fornecedor, a intervalos de 0,5 kg de têxteis secos de um determinado tipo, que pode ser tratada numa máquina de lavar roupa para uso doméstico no programa seleccionado, quando carregada de acordo com as instruções do fornecedor.\n\n9) «Carga parcial»: metade da capacidade nominal de uma máquina de lavar roupa para uso doméstico num dado programa.\n\n10) «Teor de humidade restante»: a taxa de humidade presente na carga no final da fase de centrifugação.\n\n11) «Estado de desactivação»: um estado em que a máquina de lavar roupa para uso doméstico é desligada, por meio de comandos ou interruptores acessíveis e destinados a serem operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, susceptível de persistir por tempo indeterminado, enquanto a máquina de lavar roupa para uso doméstico esteja ligada a uma fonte de energia e seja utilizada de acordo com as instruções do fornecedor. Quando não existam comandos ou interruptores acessíveis ao utilizador final, o «estado de desactivação» significa: o estado seguinte à passagem da máquina de lavar roupa para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência.\n\n12) «Estado inactivo»: o estado de consumo de energia mais reduzido que pode persistir por tempo indeterminado após o final do programa sem qualquer intervenção suplementar do utilizador final para além do descarregamento da máquina de lavar roupa para uso doméstico.\n\n13) «Máquina de lavar roupa para uso doméstico equivalente»: um modelo de máquina de lavar roupa para uso doméstico colocado no mercado cuja capacidade nominal, características técnicas e de desempenho, consumo de energia e de água e emissões de ruído aéreo durante a lavagem e a centrifugação sejam os mesmos que os de outro modelo de máquina de lavar roupa para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fornecedor.\n\n14) «Utilizador final»: um consumidor que compra ou se prevê que compre uma máquina de lavar roupa para uso doméstico.\n\n15) «Ponto de venda»: um local no qual as máquinas de lavar roupa para uso doméstico são colocadas em exposição ou postas à venda, em locação ou em locação com opção de compra."
+  },
+  "5391f7ffefb14172": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores asseguram que:\n\na) Cada máquina de lavar roupa para uso doméstico é fornecida com um rótulo impresso com o formato e as informações previstos no anexo I;\n\nb) É disponibilizada uma ficha de produto, como previsto no anexo II;\n\nc) A documentação técnica prevista no anexo III é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de máquina de lavar roupa para uso doméstico indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de máquina de lavar roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo;\n\nf) É disponibilizado aos distribuidores um rótulo eletrónico com o formato e as informações previstos no anexo I, para cada modelo de máquina de lavar roupa para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Esse rótulo pode também ser disponibilizado aos distribuidores para outros modelos de máquina de lavar roupa para uso doméstico;\n\ng) É disponibilizada aos distribuidores uma ficha de produto eletrónica como previsto no anexo II, para cada modelo de máquina de lavar roupa para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Essa ficha pode também ser disponibilizada aos distribuidores para outros modelos de máquina de lavar roupa para uso doméstico."
+  },
+  "5486f5132cdab3db": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) Cada máquina de lavar roupa para uso doméstico, no ponto de venda, ostenta o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), colocado na parte externa da máquina de lavar roupa para uso doméstico, à frente ou em cima, por forma a ser claramente visível;\n\nb) As máquinas de lavar roupa para uso doméstico postas à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o produto exposto, são comercializadas com as informações que os fornecedores devem facultar nos termos do anexo IV. Caso a oferta seja feita através da Internet e tenham sido disponibilizados um rótulo e uma ficha de produto eletrónicos em conformidade com o artigo 3.º, alíneas f) e g), aplica-se, em vez do que precede, o disposto no anexo VIII;\n\nc) Qualquer anúncio relativo a um modelo específico de máquina de lavar roupa para uso doméstico inclui uma referência à sua classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de máquina de lavar roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, contém uma referência à classe de eficiência energética do referido modelo."
+  },
+  "77a5138086c82e69": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam aos anúncios impressos nem ao material técnico promocional impresso publicados antes de 20 de Abril de 2012.\n\n2. As máquinas de lavar roupa para uso doméstico colocadas no mercado antes de 20 de Dezembro de 2011 devem cumprir as disposições previstas na Directiva 95/12/CE.\n\n3. Caso tenha sido adoptada uma medida de execução da Directiva 2009/125/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/0379cb5e-e19d-11ea-ad25-01aa75ed71a1.0019.02/DOC_1#E0001)) no que respeita aos requisitos de concepção ecológica aplicáveis às máquinas de lavar roupa para uso doméstico, as máquinas de lavar roupa para uso doméstico que cumpram o disposto nessa medida de execução no que respeita aos requisitos de eficiência de lavagem e as disposições previstas no presente regulamento, e que sejam colocadas no mercado ou postas à venda, em locação ou em locação com opção de compra antes de 20 de Dezembro de 2011 devem ser consideradas conformes com os requisitos da Directiva 95/12/CE."
+  },
+  "104d32607b64f6dd": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 20 de Dezembro de 2011. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 20 de Abril de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cd72cf4170b55dce": {
+   "fragment_id": "Rótulo",
+   "type": "divisao",
+   "heading": "Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rótulo"
+  },
+  "699da3fc98bc712b": {
+   "fragment_id": "1. RÓTULO",
+   "type": "divisao",
+   "heading": "1. RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. RÓTULO\n\n1) O rótulo deve conter as seguintes informações:\n\nI. O nome do fornecedor ou marca comercial;\n\nII. O identificador de modelo do fornecedor, isto é, o código, geralmente alfanumérico, que distingue um modelo específico de máquina de lavar roupa para uso doméstico de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nIII. A classe de eficiência energética determinada em conformidade com a secção 1 do Anexo VI; a ponta da seta que contém a classe de eficiência energética da máquina de lavar roupa para uso doméstico deve ficar ao mesmo nível que a ponta da seta da correspondente classe de eficiência energética;\n\nIV. O consumo de energia anual ponderado (*AEC*), expresso em kWh por ano, arredondado por excesso às unidades em conformidade com o anexo VII;\n\nV. O consumo de água anual ponderado (*AW* C), expresso em litros por ano, arredondado por excesso às unidades em conformidade com o anexo VII;\n\nVI. A capacidade nominal, em quilogramas, do programa de lavagem normal de algodão a 60 °C em plena carga ou do programa de lavagem normal de algodão a 40 °C em plena carga, conforme a que for menor;\n\nVII. A classe de eficiência de secagem conforme consta da secção 2 do anexo VI;\n\nVIII. A emissão de ruído aéreo durante as fases de lavagem e centrifugação no programa de lavagem normal de algodão a 60 °C em plena carga, expressa em dB(A) re 1 pW, arredondada às unidades.\n\n2) O formato do rótulo deve ser conforme com a secção 2. Todavia, quando um modelo tenha recebido um rótulo ecológico da UE ao abrigo do Regulamento (CE) n.º 66/2010 ([^2^](http://publications.europa.eu/resource/cellar/0379cb5e-e19d-11ea-ad25-01aa75ed71a1.0019.02/DOC_1#E0002)) do Parlamento Europeu e do Conselho, pode acrescentar-se uma cópia do rótulo ecológico da UE."
+  },
+  "b21675f0924741c3": {
+   "fragment_id": "2. ASPECTO DO RÓTULO",
+   "type": "divisao",
+   "heading": "2. ASPECTO DO RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ASPECTO DO RÓTULO\n\nO rótulo deve respeitar o seguinte modelo:\n\nEm que:\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, contudo, manter-se proporcionado relativamente às especificações *supra*.\n\nb) O fundo deve ser branco.\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70 de Outubro de 00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nd) O rótulo deve cumprir todos os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo:** 5 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-0 de Outubro de 00.\n\n**Logótipo de energia:** cor: X-00-00-00.\n\n**Rebordo dos sublogótipos:** 1 pt – cor: ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— Classe superior: X-0 de Outubro de 00,\n\n— Segunda classe: 70-0 de Outubro de 00,\n\n— Terceira classe: 30-0 de Outubro de 00,\n\n— Quarta classe: 00-0 de Outubro de 00,\n\n— Quinta classe: 00-30 de Outubro de 00,\n\n— Sexta classe: 00-70 de Outubro de 00,\n\n— Última classe: 00-X-X-00.\n\n— **Texto:** Calibri bold 18 pt, maiúsculas e branco; símbolos «+»: Calibri bold 12 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto;\n\n— **Texto:** Calibri bold 29 pt, maiúsculas e branco; símbolos «+»: Calibri bold 18 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Energia:** texto: Calibri normal 11 pt, maiúsculas, 100 % preto.\n\n**Consumo de energia anual ponderado:**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 42 pt, 100 % preto; e Calibri normal 17 pt, 100 % preto.\n\n**Consumo de água anual ponderado:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Capacidade nominal**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Classe de eficiência de secagem**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri normal 16 pt, escala horizontal 75 %, 100 % preto e Calibri bold 22 pt, escala horizontal 75 %, 100 % preto.\n\n**Emissão de ruído aéreo**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Nome do fornecedor ou marca comercial**\n\n**Identificador de modelo do fornecedor**\n\nO nome do fornecedor ou marca comercial e o identificador de modelo devem caber num espaço de 92 × 15 mm.\n\n**Número do regulamento:** Calibri bold 12 pt, 100 % preto."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "ff6e9d06d096c754": {
+   "fragment_id": "Ficha de produto",
+   "type": "divisao",
+   "heading": "Ficha de produto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de produto\n\n1. As informações contidas na ficha de produto da máquina de lavar roupa para uso doméstico são facultadas pela seguinte ordem e incluídas na brochura de produto ou noutra documentação fornecida com o produto:\n\na) O nome do fornecedor ou marca comercial;\n\nb) O identificador de modelo do fornecedor, isto é, o código, geralmente alfanumérico, que distingue um modelo específico de máquina de lavar roupa para uso doméstico de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nc) A capacidade nominal em quilogramas de roupa de algodão do programa de lavagem normal de algodão a 60 °C em plena carga ou do programa de lavagem normal de algodão a 40 °C em plena carga, conforme a que for menor;\n\nd) A classe de eficiência energética determinada em conformidade com a secção 1 do Anexo VI;\n\ne) Se a máquina de lavar roupa para uso doméstico tiver recebido um rótulo ecológico da UE ao abrigo do Regulamento (CE) n.º 66/2010, estas informações podem ser incluídas;\n\nf) O consumo de energia anual ponderado (*AEC*) em kWh por ano, arredondado por excesso às unidades, descrito como: «Consumo de energia de “X” kWh por ano, com base em 220 ciclos de lavagem dos programas de lavagem normal de algodão a 60 °C e a 40 °C em plena carga e em carga parcial, e no consumo dos modos de baixo consumo de energia. O valor real do consumo de energia dependerá do modo de utilização do aparelho»;\n\ng) O consumo de energia (*Et,60*, *Et,60½*, *Et,40½*) do programa de lavagem normal de algodão a 60 °C em plena carga e em carga parcial e do programa de lavagem normal de algodão a 40 °C em carga parcial;\n\nh) O consumo, em termos de potência, ponderado em estado de desactivação e em estado inactivo;\n\ni) O consumo de água anual ponderado (*AW* C) em litros por ano, arredondado por excesso às unidades, descrito como: «Consumo de água de “X” litros por ano, com base em 220 ciclos de lavagem dos programas de lavagem normal de algodão a 60 °C e a 40 °C em plena carga e em carga parcial. O valor real do consumo de água dependerá do modo de utilização do aparelho»;\n\nj) A classe de eficiência de secagem determinada em conformidade com a secção 2 do anexo VI, expressa como «classe de eficiência de secagem “X” numa escala de G (menos eficiente) a A (mais eficiente)»; pode ser expressa por outros meios, desde que seja claro que a escala vai de G (menos eficiente) a A (mais eficiente);\n\nk) A velocidade máxima de centrifugação obtida no programa de lavagem normal de algodão a 60 °C em plena carga ou no programa de lavagem normal de algodão a 40 °C em carga parcial, conforme a que for menor, e o teor de humidade restante obtido no programa de lavagem normal de algodão a 60 °C em plena carga ou no programa de lavagem normal de algodão a 40 °C em carga parcial, conforme o que for maior;\n\nl) A indicação de que o «programa de lavagem normal de algodão a 60 °C» e o «programa de lavagem normal de algodão a 40 °C» são os programas de lavagem normal a que se referem as informações no rótulo e na ficha, de que estes programas são adequados para a lavagem de roupa de algodão com grau de sujidade normal e são os programas de maior eficiência em termos de consumo combinado de energia e água;\n\nm) A duração do «programa de lavagem normal de algodão a 60 °C» em plena carga e em carga parcial e do «programa de lavagem normal de algodão a 40 °C», em carga parcial, em minutos e arredondada ao minuto;\n\nn) A duração do estado inactivo (*Tl*) se a máquina de lavar roupa para uso doméstico estiver equipada com um sistema de gestão da energia;\n\no) A emissão de ruído aéreo, expressa em dB(A) re 1 pW, arredondada às unidades, durante as fases de lavagem e centrifugação no programa de lavagem normal de algodão a 60 °C em plena carga;\n\np) Se a máquina de lavar roupa para uso doméstico se destinar a ser encastrada, uma indicação nesse sentido.\n\n2. Uma ficha pode abranger vários modelos de máquinas de lavar roupa para uso doméstico fornecidos pelo mesmo fornecedor.\n\n3. Os dados constantes da ficha podem assumir a forma de uma cópia do rótulo, a cores ou a preto e branco. Nesse caso, devem ser também incluídos os dados enumerados na secção 1 que não estejam contidos no rótulo."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "cccf2fe4483ad92b": {
+   "fragment_id": "Documentação técnica",
+   "type": "divisao",
+   "heading": "Documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação técnica\n\n1. A documentação técnica referida no artigo 3.º, alínea c), deve incluir:\n\na) O nome e endereço do fornecedor;\n\nb) Uma descrição geral do modelo de máquina de lavar roupa para uso doméstico, suficiente para a sua identificação fácil e inequívoca;\n\nc) Se adequado, as referências das normas harmonizadas aplicadas;\n\nd) Se adequado, as outras normas e especificações técnicas utilizadas;\n\ne) A identificação e assinatura da pessoa com poderes para representar o fornecedor;\n\nf) Uma indicação segundo a qual o modelo de máquina de lavar roupa para uso doméstico liberta ou não iões de prata durante o ciclo de lavagem, com a seguinte redacção: «Este produto liberta/não liberta iões de prata durante o ciclo de lavagem.»;\n\ng) Os seguintes parâmetros técnicos para as medições:\n\ni) Consumo de energia;\n\nii) Duração do programa;\n\niii) Consumo de água;\n\niv) Consumo, em termos de potência, em «estado de desactivação»;\n\nv) Consumo, em termos de potência, em «estado inactivo»;\n\nvi) Duração do «estado inactivo»;\n\nvii) Teor de humidade restante;\n\nviii) Emissão de ruído aéreo;\n\nix) Velocidade máxima de centrifugação;\n\nh) Os resultados dos cálculos efectuados em conformidade com o anexo VII.\n\n2. Sempre que as informações incluídas na documentação técnica relativa a um dado modelo de máquina de lavar roupa para uso doméstico sejam resultantes de cálculos efectuados com base na concepção e/ou de extrapolações feitas a partir de outras máquinas de lavar roupa para uso doméstico equivalentes, a documentação deve incluir os pormenores desses cálculos e/ou extrapolações e dos ensaios realizados pelos fornecedores para verificarem a precisão dos cálculos efectuados. A documentação deve também incluir uma lista de todos os outros modelos de máquinas de lavar roupa para uso doméstico equivalentes relativamente aos quais as informações tenham sido obtidas do mesmo modo."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "0f65e529e4dfce17": {
+   "fragment_id": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "type": "divisao",
+   "heading": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto\n\n1. As informações referidas no artigo 4.º, alínea b), devem ser fornecidas pela seguinte ordem:\n\na) A capacidade nominal em quilogramas de roupa de algodão do programa de lavagem normal de algodão a 60 °C em plena carga ou do programa de lavagem normal de algodão a 40 °C em plena carga, conforme a que for menor;\n\nb) A classe de eficiência energética, tal como definida na secção 1 do Anexo VI;\n\nc) O consumo de energia anual ponderado, expresso em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 1, alínea c), do anexo VII;\n\nd) O consumo de água anual ponderado, expresso em litros por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 2, alínea a), do anexo VII;\n\ne) A classe de eficiência de secagem em conformidade com a secção 2 do Anexo VI;\n\nf) A velocidade máxima de centrifugação obtida no programa de lavagem normal de algodão a 60 °C em plena carga ou no programa de lavagem normal de algodão a 40 °C em carga parcial, conforme a que for menor, e o teor de humidade restante obtido no programa de lavagem normal de algodão a 60 °C em plena carga ou no programa de lavagem normal de algodão a 40 °C em carga parcial, conforme o que for maior;\n\ng) A emissão de ruído aéreo durante as fases de lavagem e centrifugação no programa de lavagem normal de algodão a 60 °C em plena carga, expressa em dB(A) re 1 pW, arredondada às unidades;\n\nh) Se a máquina de lavar roupa para uso doméstico for produzida para ser encastrada, uma indicação nesse sentido.\n\n2. Caso sejam apresentados outros dados constantes da ficha de informações sobre o produto, estes dados devem ser apresentados na forma e pela ordem especificadas no anexo II.\n\n3. A dimensão e o tipo de caracteres utilizados para a impressão ou indicação dos dados referidos no presente anexo devem assegurar a sua legibilidade."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "8dae502a650a275b": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelo fornecedor como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica. Os valores e classes indicados no rótulo ou na ficha de produto não podem ser mais favoráveis para o fornecedor do que os indicados na documentação técnica.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento delegado, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n(1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n(2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do artigo 5.º, alínea b), da Diretiva 2010/30/UE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fornecedor do que os valores correspondentes apresentados nos relatórios de ensaio em conformidade com o ponto iii) do referido artigo; e\n\nb) Os valores publicados no rótulo e na ficha do produto não forem mais favoráveis para o fornecedor do que os valores declarados, e a classe de eficiência energética indicada não for mais favorável para o fornecedor do que a classe determinada em função dos valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação, constantes do quadro 1.\n\n(3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de máquinas de lavar roupa para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo. Em alternativa, as três unidades adicionais selecionadas podem ser de um ou mais dos modelos indicados como modelos equivalentes na documentação técnica do fornecedor.\n\n(5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias, constantes do quadro 1.\n\n(6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de máquinas de lavar roupa para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não-conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem utilizar processos de medição que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, fiáveis, precisos e reprodutíveis, incluindo os métodos descritos em documentos cujas referências tenham sido publicadas para o efeito no *Jornal Oficial da União Europeia*. As autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo VII.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nConsumo anual de energia (*AEC*) O valor determinado não pode ser superior ao valor declarado de *AEC* em mais de 10 %.\n\nConsumo de energia (*Et*) O valor determinado não pode ser superior ao valor declarado de *Et* em mais de 10 %. Nos casos em que é necessário selecionar três unidades adicionais, a média aritmética dos valores determinados dessas três unidades não pode ser superior ao valor declarado de *Et* em mais de 6 %.\n\nDuração do programa (*Tt*) O valor determinado não pode ser superior aos valores declarados de *Tt* em mais de 10 %.\n\nConsumo de água (*Wt*) O valor determinado não pode ser superior ao valor declarado de *Wt* em mais de 10 %.\n\nTeor de humidade restante (*D*) O valor determinado não pode ser superior ao valor declarado de*D* em mais de 10 %.\n\nVelocidade de centrifugação O valor determinado não pode ser inferior ao valor declarado em mais de 10 %.\n\nConsumo de energia em estado de desativação e em estado inativo (*Po* e *Pl*) Os valores determinados do consumo de energia *Po* e *Pl* de mais de 1,00 W não podem ser superiores aos valores declarados *Po* e *Pl* em mais de 10 %. Os valores determinados do consumo de energia *Po* e *Pl* iguais ou inferiores a 1,00 W não podem ser superiores aos valores declarados *Po* e *Pl* em mais de 0,10 W.\n\nDuração do estado inativo (*Tl*) O valor determinado não pode ser superior ao valor declarado de *Tl*em mais de 10 %.\n\nEmissão de ruído aéreo O valor determinado deve corresponder ao valor declarado."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "3c0e331ab492c86a": {
+   "fragment_id": "Classes de eficiência energética e classes de eficiência de secagem",
+   "type": "divisao",
+   "heading": "Classes de eficiência energética e classes de eficiência de secagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de eficiência energética e classes de eficiência de secagem"
+  },
+  "b7170670f9e4a60c": {
+   "fragment_id": "1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CLASSES DE EFICIÊNCIA ENERGÉTICA\n\nA classe de eficiência energética de uma máquina de lavar roupa para uso doméstico é determinada com base no seu índice de eficiência energética (*EEI*) tal como estabelecido no Quadro 1.\n\nO índice de eficiência energética (*EEI*) de uma máquina de lavar roupa para uso doméstico é calculado em conformidade com a secção 1 do anexo VII.\n\nClasse de eficiência energética Índice de Eficiência Energética\n\nA+++ (a mais eficiente) *EEI* < 46\n\nA++ 46 ≤ *EEI* < 52\n\nA+ 52 ≤ *EEI* < 59\n\nA 59 ≤ *EEI* < 68\n\nB 68 ≤ *EEI* < 77\n\nC 77 ≤ *EEI* < 87\n\nD (a menos eficiente) *EEI* ≥ 87"
+  },
+  "d60704f4cda54e5f": {
+   "fragment_id": "2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+   "type": "divisao",
+   "heading": "2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CLASSES DE EFICIÊNCIA DE SECAGEM\n\nA classe de eficiência de secagem de uma máquina de lavar roupa para uso doméstico será determinada em conformidade com o teor de humidade restante (*D*) tal como estabelecido no Quadro 2.\n\nO teor de humidade restante (*D*) de uma máquina de lavar roupa para uso doméstico é calculado em conformidade com a secção 3 do anexo VII.\n\nClasse de eficiência de secagem Teor de humidade restante (%)\n\nA (a mais eficiente) *D* < 45\n\nB 45 ≤ *D* < 54\n\nC 54 ≤ *D* < 63\n\nD 63 ≤ *D* < 72\n\nE 72 ≤ *D* < 81\n\nF 81 ≤ *D* < 90\n\nG (a menos eficiente) *D* ≥ 90"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "44249597dd2914d3": {
+   "fragment_id": "Método de cálculo do índice de eficiência energética, do consumo de água anual e do teor de humidade restante",
+   "type": "divisao",
+   "heading": "Método de cálculo do índice de eficiência energética, do consumo de água anual e do teor de humidade restante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de cálculo do índice de eficiência energética, do consumo de água anual e do teor de humidade restante"
+  },
+  "726feeec515acfe5": {
+   "fragment_id": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA\n\nPara o cálculo do Índice de Eficiência Energética (*EEI*) de um modelo de máquina de lavar roupa para uso doméstico, o consumo de energia anual ponderado da referida máquina no programa de lavagem normal de algodão a 60 °C em plena carga e em carga parcial e no programa de lavagem normal de algodão a 40 °C em carga parcial é comparado com o seu consumo de energia anual normalizado.\n\na) O índice de eficiência energética (*EEI*) é calculado do seguinte modo e arredondado às décimas:\n\n| AEC | = | consumo de energia anual da máquina de lavar roupa para uso doméstico; |\n| --- | --- | --- |\n\n| SAEC | = | consumo de energia anual normalizado da máquina de lavar roupa para uso doméstico. |\n| --- | --- | --- |\n\nb) O consumo de energia anual normalizado (*SAEC*) é calculado do seguinte modo, expresso em kWh por ano e arredondado às centésimas:\n\n| c | = | capacidade nominal da máquina de lavar roupa para uso doméstico no programa de lavagem normal de algodão a 60 °C em plena carga ou no programa de lavagem normal de algodão a 40 °C em plena carga, conforme a que for menor. |\n| --- | --- | --- |\n\nc) O consumo de energia anual ponderado (*AEC*) é calculado do seguinte modo, expresso em kWh por ano e arredondado às centésimas:\n\ni)\n\n| Et | = | consumo de energia ponderado; |\n| --- | --- | --- |\n\n| Po | = | potência ponderada em «estado de desactivação»; |\n| --- | --- | --- |\n\n| Pl | = | potência ponderada em «estado inactivo»; |\n| --- | --- | --- |\n\n| Tt | = | duração ponderada do programa; |\n| --- | --- | --- |\n\n| 220 | = | número total de ciclos de lavagem normal por ano. |\n| --- | --- | --- |\n\nii) Quando a máquina de lavar roupa para uso doméstico possui um sistema de gestão da energia, em que a referida máquina passa automaticamente para o «estado de desactivação» após o fim do programa, o consumo de energia anual ponderado (*AEC*) é calculado tomando em consideração a duração efectiva do «estado inactivo», de acordo com a seguinte fórmula:\n\n| Tl | = | tempo em «estado inactivo». |\n| --- | --- | --- |\n\nd) O consumo de energia ponderado (*Et*) é calculado do seguinte modo, expresso em kWh e arredondado às milésimas:\n\n| Et,60 | = | consumo de energia do programa de lavagem normal de algodão a 60 °C em plena carga; |\n| --- | --- | --- |\n\n| Et,60½ | = | consumo de energia do programa de lavagem normal de algodão a 60 °C em carga parcial; |\n| --- | --- | --- |\n\n| Et,40½ | = | consumo de energia do programa de lavagem normal de algodão a 40 °C em carga parcial. |\n| --- | --- | --- |\n\ne) O consumo, em termos de potência, ponderado em «estado de desactivação» (*Po*) é calculado em W do seguinte modo e arredondado às centésimas:\n\n| Po,60 | = | potência em «estado de desactivação» do programa de lavagem normal de algodão a 60 °C em plena carga; |\n| --- | --- | --- |\n\n| Po,60½ | = | potência em «estado de desactivação» do programa de lavagem normal de algodão a 60 °C em carga parcial; |\n| --- | --- | --- |\n\n| Po,40½ | = | potência em «estado de desactivação» do programa de lavagem normal de algodão a 40 °C em carga parcial. |\n| --- | --- | --- |\n\nf) A potência ponderada no «estado inactivo» (*Pl*) é calculada em W do seguinte modo e arredondada às centésimas:\n\n| Pl,60 | = | potência em «estado inactivo» do programa de lavagem normal de algodão a 60 °C em plena carga; |\n| --- | --- | --- |\n\n| Pl,60½ | = | potência em «estado inactivo» do programa de lavagem normal de algodão a 60 °C em carga parcial; |\n| --- | --- | --- |\n\n| Pl,40½ | = | potência em «estado inactivo» do programa de lavagem normal de algodão a 40 °C em carga parcial. |\n| --- | --- | --- |\n\ng) A duração ponderada do programa (*Tt*) é calculada em minutos do seguinte modo e arredondada ao minuto:\n\n| Tt,60 | = | duração do programa de lavagem normal de algodão a 60 °C em plena carga; |\n| --- | --- | --- |\n\n| Tt,60½ | = | duração do programa de lavagem normal de algodão a 60 °C em carga parcial; |\n| --- | --- | --- |\n\n| Tt,40½ | = | duração do programa de lavagem normal de algodão a 40 °C em carga parcial. |\n| --- | --- | --- |\n\nh) A duração ponderada em «estado inactivo» (*Tl*) é calculada em minutos do seguinte modo e arredondado ao minuto:\n\n| Tl,60 | = | duração do «estado inactivo» do programa de lavagem normal de algodão a 60 °C em plena carga; |\n| --- | --- | --- |\n\n| Tl,60½ | = | duração do «estado inactivo» do programa de lavagem normal de algodão a 60 °C em carga parcial; |\n| --- | --- | --- |\n\n| Tl,40½ | = | duração do «estado inactivo» do programa de lavagem normal de algodão a 40 °C em carga parcial. |\n| --- | --- | --- |"
+  },
+  "ef551c5e9c9fe1d4": {
+   "fragment_id": "2. CÁLCULO DO CONSUMO DE ÁGUA ANUAL PONDERADO",
+   "type": "divisao",
+   "heading": "2. CÁLCULO DO CONSUMO DE ÁGUA ANUAL PONDERADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CÁLCULO DO CONSUMO DE ÁGUA ANUAL PONDERADO\n\nа) O consumo de água anual ponderado (*AWC*) de uma máquina de lavar roupa para uso doméstico é calculado em litros do seguinte modo e arredondado por excesso às unidades:\n\n| *Wt* | = | consumo de água ponderado; |\n| --- | --- | --- |\n\n| *220* | = | número total de ciclos de lavagem normal por ano. |\n| --- | --- | --- |\n\nb) O consumo de água ponderado (*Wt*) é calculado em litros do seguinte modo e arredondado por excesso às unidades:\n\n| *Wt,60* | = | consumo de água do programa de lavagem normal de algodão a 60 °C em plena carga; |\n| --- | --- | --- |\n\n|  | = | consumo de água do programa de lavagem normal de algodão a 60 °C em carga parcial; |\n| --- | --- | --- |\n\n|  | = | consumo de água do programa de lavagem normal de algodão a 40 °C em carga parcial. |\n| --- | --- | --- |"
+  },
+  "542b4ea8c7b95c4b": {
+   "fragment_id": "3. CÁLCULO DO TEOR DE HUMIDADE RESTANTE PONDERADO",
+   "type": "divisao",
+   "heading": "3. CÁLCULO DO TEOR DE HUMIDADE RESTANTE PONDERADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. CÁLCULO DO TEOR DE HUMIDADE RESTANTE PONDERADO\n\nO teor de humidade restante ponderado (*D*) de uma máquina de lavar roupa para uso doméstico é calculado em percentagem do seguinte modo e arredondado às unidades:\n\n*D* = (3 × *D60* + 2 × *D60½* + 2 × *D40½*)/7\n\nem que:\n\nD60 é o teor de humidade restante no programa de lavagem normal de algodão a 60 °C em plena carga, calculado em percentagem e arredondado às unidades;\n\nD60½ é o teor de humidade restante no programa de lavagem normal de algodão a 60 °C em carga parcial, calculado em percentagem e arredondado às unidades;\n\nD40½ é o teor de humidade restante no programa de lavagem normal de algodão a 40 °C em carga parcial, calculado em percentagem e arredondado às unidades."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "b17879d82734b81d": {
+   "fragment_id": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "type": "divisao",
+   "heading": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet\n\n1) Para efeitos dos pontos 2 a 5 do presente anexo, aplicam-se as seguintes definições:\n\na) «mecanismo de visualização», qualquer ecrã, inclusive um ecrã tátil, ou outra tecnologia de visualização utilizada para a apresentação de conteúdos da Internet aos utilizadores;\n\nb) «apresentação em ninho», uma interface visual em que o acesso a uma imagem ou a um conjunto de dados se faz através de um clique no rato, do movimento do rato ou da expansão em ecrã tátil sobre outra imagem ou outro conjunto de dados;\n\nc) «ecrã tátil», um ecrã que reage ao toque, como é o caso nos computadores-tablete, computadores-ardósia ou telefones inteligentes;\n\nd) «texto alternativo», texto fornecido em alternativa a um gráfico, permitindo que a informação seja apresentada em forma não gráfica, nos casos em que os dispositivos de visualização não podem produzir o gráfico ou em que se pretende melhorar a acessibilidade, nomeadamente através de aplicações de síntese de voz.\n\n2) O rótulo pertinente, disponibilizado pelos fornecedores em conformidade com o artigo 3.º, alínea f), deve ser apresentado no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que o rótulo seja claramente visível e legível e devem ser proporcionais às dimensões especificadas no ponto 2 do anexo I. O rótulo pode ser apresentado em ninho, caso em que a imagem utilizada para se aceder ao rótulo deve obedecer às especificações estabelecidas no ponto 3 do presente anexo. Caso se utilize a apresentação em ninho, o rótulo deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem.\n\n3) A imagem utilizada para se aceder ao rótulo no caso da apresentação em ninho deve:\n\na) ser uma seta de cor correspondente à classe de eficiência energética do produto indicada no rótulo;\n\nb) indicar na seta a classe de eficiência energética do produto, a branco e com carateres de tamanho equivalente ao dos do preço; e\n\nc) obedecer a um dos seguintes formatos:\n\n4) No caso da apresentação em ninho, a sequência de apresentação do rótulo deve ser a seguinte:\n\na) a imagem a que se refere o ponto 3 do presente anexo deve ser apresentada ao utilizador final na primeira apresentação e nas subsequentes apresentações de informações sobre o preço do produto;\n\nb) a imagem deve remeter, por hiperligação, para o rótulo;\n\nc) o rótulo deve ser apresentado após um clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem;\n\nd) o rótulo deve ser apresentado em janela emergente, novo separador, nova página ou inserção no ecrã;\n\ne) para ampliar o rótulo em ecrãs táteis, aplicam-se os procedimentos específicos do dispositivo para o efeito;\n\nf) a apresentação do rótulo deve cessar mediante recurso a uma opção de fecho ou a outro mecanismo de fecho normal;\n\ng) o texto alternativo à imagem, a apresentar em caso de impossibilidade de apresentação do rótulo, deve indicar a classe de eficiência energética do produto em carateres de tamanho equivalente ao dos do preço.\n\n5) A ficha de produto pertinente, disponibilizada pelos fornecedores em conformidade com o artigo 3.º, alínea g), deve ser apresentada no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que as informações sejam claramente visíveis e legíveis. A ficha de produto pode ser apresentada em ninho, caso em que a ligação utilizada para se aceder à ficha deve indicar, de forma clara e legível, «Ficha de produto». Caso se utilize a apresentação em ninho, a ficha de produto deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a ligação.\n\n---"
+  },
+  "4fbccb4c300c27e6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0379cb5e-e19d-11ea-ad25-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 285 de 31.10.2009, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0379cb5e-e19d-11ea-ad25-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 27 de 30.1.2010, p. 1."
+  },
+  "0fe82400ea7bbbcb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R1061 — PT — 01.03.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R1061) [REGULAMENTO DELEGADO (UE) N.º 1061/2010 DA COMISSÃO](http://publications.europa.eu/resource/celex/32010R1061) [de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1061) [que complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das máquinas de lavar roupa para uso doméstico](http://publications.europa.eu/resource/celex/32010R1061) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010R1061) (JO L 314, 30.11.2010, p.47)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2014 da Comissão de 11 de março de 2019](http://publications.europa.eu/resource/celex/32019R2014) — L 315 — 29 — 5.12.2019"
+  }
+ }
+}

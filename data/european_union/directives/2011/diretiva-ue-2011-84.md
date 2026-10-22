@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2011-84.versoes.json
+  count: 1
+  source_lastmod: '2011-11-18'
+  versions:
+  - date: '2011-10-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011L0084
   eli: http://data.europa.eu/eli/dir/2011/84/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/53d538de-eb20-4612-a141-47c6a5a3ab6b.0021
   content_url: http://publications.europa.eu/resource/cellar/53d538de-eb20-4612-a141-47c6a5a3ab6b.0021.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:43Z'
+  retrieved_at: '2026-10-22T15:50:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T08:05:19.629+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:43Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:26Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2011-84.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,21 +119,20 @@ relationships:
   date: '2009-11-30'
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:43Z'
+  checked_at: '2026-10-22T15:50:26Z'
   warnings:
-  - Versão consolidada 02011L0084-20111118 indisponível (Sem expressão na língua por para CELEX 02011L0084-20111118.); usado
-    o texto do JO.
+  - '02011L0084-20111118: versão indisponível (Sem expressão na língua por para CELEX 02011L0084-20111118.)'
   errors: []
 ---
 
-# DIRECTIVA 2011/84/UE DO CONSELHO
+# Directiva 2011/84/UE do Conselho, de 20 de Setembro de 2011
 
 de 20 de Setembro de 2011
 

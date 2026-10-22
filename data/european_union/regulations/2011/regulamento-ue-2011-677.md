@@ -35,6 +35,132 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-01'
+version_history:
+  file: regulamento-ue-2011-677.versoes.json
+  count: 5
+  source_lastmod: '2020-01-01'
+  versions:
+  - date: '2011-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-05-29'
+    amending: eu:celex:32013R0390:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 390/2013 DA COMISSÃO de 3 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Instituição do gestor da rede
+    - Altera Artigo 4.º — Tarefas do gestor da rede
+    - Altera Artigo 5.º — Plano estratégico da rede
+    - Altera Artigo 11.º — Cooperação civil-militar
+    - Altera Artigo 19.º — Responsabilidades do gestor da rede e da CCCAE
+    - Altera Artigo 20.º — Acompanhamento e apresentação de relatórios
+    - Altera Artigo 26.º — Alterações ao Regulamento (UE) n.º 691/2010
+    - Altera Artigo 27.º — Entrada em vigor
+    - Altera Notas
+    - Adita «3. Ambiente
+    - Adita 4. Capacidade
+    - Adita ANEXO I
+    - Adita FUNÇÃO DE CONCEPÇÃO DA REDE EUROPEIA DE ROTAS (CRER)
+    - Adita PARTE A
+    - Adita Objectivo
+    - Adita PARTE B
+    - Adita Princípios de planeamento
+    - Adita PARTE C
+    - Adita Princípios de organização do espaço aéreo
+    - Adita PARTE D
+    - Adita Acompanhamento permanente dos resultados do desempenho a nível da rede
+    - Adita ANEXO II
+    - Adita FUNÇÃO RELATIVA ÀS RADIOFREQUÊNCIAS
+    - Adita Requisitos para a execução da função
+    - Adita Requisitos para a organização da função
+    - Adita ANEXO III
+    - Adita A FUNÇÃO RELATIVA AOS CÓDIGOS DE TRANSPONDER
+    - Adita Requisitos da função relativa aos códigos de transponder
+    - Adita Requisitos do mecanismo específico de consulta
+    - Adita Requisitos para o fornecimento de dados
+    - Adita ANEXO IV
+    - Adita MODELO DE PLANO ESTRATÉGICO DA REDE
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. CONTEXTO E REQUISITOS GERAIS
+    - Adita 3. VISÃO ESTRATÉGICA
+    - Adita 4. OBJETIVOS ESTRATÉGICOS
+    - Adita 5. PLANEAMENTO ESTRATÉGICO
+    - Adita 6. AVALIAÇÃO DOS RISCOS
+    - Adita 7. RECOMENDAÇÕES
+  - date: '2014-10-03'
+    amending: eu:celex:32014R0970:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 970/2014 DA COMISSÃO de 12 de setembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Tarefas do gestor da rede
+    - Altera Artigo 5.º — Plano estratégico da rede
+    - Altera Artigo 11.º — Cooperação civil-militar
+    - Altera Artigo 14.º — Processo de consulta
+    - Altera Artigo 16.º — Conselho de Administração da Rede
+    - Altera Artigo 18.º — Criação da Célula de Coordenação de Crises da Aviação Europeia
+    - Altera Artigo 19.º — Responsabilidades do gestor da rede e da CCCAE
+    - Altera Artigo 22.º — Relações com países terceiros
+    - Altera Artigo 26.º — Alterações ao Regulamento (UE) n.º 691/2010
+    - Altera Notas
+    - Adita Artigo 23.º — Financiamento e orçamento do gestor da rede
+    - Suprime Artigo 23.º — Financiamento do gestor da rede
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Tarefas do gestor da rede
+    - Altera Artigo 5.º — Plano estratégico da rede
+    - Altera Artigo 11.º — Cooperação civil-militar
+    - Altera Notas
+    - Suprime Artigo 26.º — Alterações ao Regulamento (UE) n.º 691/2010
+    - Suprime «3. Ambiente
+    - Suprime 4. Capacidade
+  - date: '2020-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime ORGANIZAÇÃO E GESTÃO DAS FUNÇÕES DE REDE
+    - Suprime Artigo 3.º — Instituição do gestor da rede
+    - Suprime Artigo 4.º — Tarefas do gestor da rede
+    - Suprime Artigo 5.º — Plano estratégico da rede
+    - Suprime Artigo 6.º — Plano de operações da rede
+    - Suprime Artigo 7.º — Competências do gestor da rede
+    - Suprime Artigo 8.º — Relações com as partes interessadas operacionais
+    - Suprime Artigo 9.º — Relações com os Estados-Membros
+    - Suprime Artigo 10.º — Relações com os blocos funcionais de espaço aéreo
+    - Suprime Artigo 11.º — Cooperação civil-militar
+    - Suprime Artigo 12.º — Requisitos gerais das funções de rede
+    - Suprime CAPÍTULO III
+    - Suprime GESTÃO DAS FUNÇÕES DE REDE
+    - Suprime Artigo 13.º — Processo decisório cooperativo
+    - Suprime Artigo 14.º — Processo de consulta
+    - Suprime Artigo 15.º — Estruturas e processos de trabalho detalhados para as operações
+    - Suprime Artigo 16.º — Conselho de Administração da Rede
+    - Suprime Artigo 17.º — Função do Comité do Céu Único
+    - Suprime CAPÍTULO IV
+    - Suprime GESTÃO DE CRISES NA REDE
+    - Suprime Artigo 18.º — Criação da Célula de Coordenação de Crises da Aviação Europeia
+    - Suprime Artigo 19.º — Responsabilidades do gestor da rede e da CCCAE
+    - Suprime CAPÍTULO V
+    - Suprime ACOMPANHAMENTO, APRESENTAÇÃO DE RELATÓRIOS E FISCALIZAÇÃO
+    - Suprime Artigo 20.º — Acompanhamento e apresentação de relatórios
+    - Suprime Artigo 21.º — Fiscalização do gestor da rede
+    - Suprime CAPÍTULO VI
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 22.º — Relações com países terceiros
+    - Suprime Artigo 23.º — Financiamento e orçamento do gestor da rede
+    - Suprime Artigo 24.º — Responsabilidade
+    - Suprime Artigo 25.º — Avaliação
+    - Suprime Artigo 27.º — Entrada em vigor
+    - Suprime ANEXO I
 identifiers:
   celex: 32011R0677
   eli: http://data.europa.eu/eli/reg/2011/677/oj
@@ -49,7 +175,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3af628f3-8420-4fbd-bb68-17ef086b8091.0015
   content_url: http://publications.europa.eu/resource/cellar/cc29a78b-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0677-20200101
-  retrieved_at: '2026-10-22T02:45:37Z'
+  retrieved_at: '2026-10-22T15:54:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T06:30:22.077+02:00'
 integrity:
@@ -58,9 +184,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:37Z'
-  notes: Texto consolidado 02011R0677-20200101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:54:30Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2011-677.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,16 +280,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:37Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:54:30Z'
+  warnings: []
   errors: []
 ---
 

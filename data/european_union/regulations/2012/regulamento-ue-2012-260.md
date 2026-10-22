@@ -36,6 +36,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-08'
+version_history:
+  file: regulamento-ue-2012-260.versoes.json
+  count: 3
+  source_lastmod: '2024-04-08'
+  versions:
+  - date: '2012-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-31'
+    amending: eu:celex:32014R0248:por
+    amending_title: REGULAMENTO (UE) N. o 248/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Interoperabilidade
+    - Altera Artigo 5.º — Requisitos aplicáveis às operações de transferência a crédito e de débito direto
+    - Altera Artigo 16.º — Disposições transitórias
+    - Altera Artigo 17.º — Alterações ao Regulamento (CE) n.º 924/2009
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita REQUISITOS TÉCNICOS (ARTIGO 5.º)
+  - date: '2024-04-08'
+    amending: eu:celex:32024R0886:por
+    amending_title: REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Interoperabilidade
+    - Altera Artigo 11.º — Sanções
+    - Altera Artigo 16.º — Disposições transitórias
+    - Altera Artigo 17.º — Alterações ao Regulamento (CE) n.º 924/2009
+    - Altera Notas
+    - Adita Artigo 5.º-A — Operações de transferência a crédito imediata
+    - Adita Artigo 5.º-B — Encargos relativos às transferências a crédito e à verificação do beneficiário
+    - Adita Artigo 5.º-C — Verificação do beneficiário no caso de transferências a crédito
+    - Adita Artigo 5.º-D — Controlo dos PSU pelos PSP que oferecem transferências a crédito imediatas para verificar se o
+      PSU é uma pessoa ou entidade sujeita a medidas restritivas financeiras individuais
+    - Adita Artigo 15.º — Reexame
+    - Suprime Artigo 15.º — Revisão
 identifiers:
   celex: 32012R0260
   eli: http://data.europa.eu/eli/reg/2012/260/oj
@@ -50,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/663569e0-dc97-4f8a-a6ae-499c6b4142d2.0022
   content_url: http://publications.europa.eu/resource/cellar/ff7a3e82-f6bc-11ee-a251-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0260-20240408
-  retrieved_at: '2026-10-22T02:42:58Z'
+  retrieved_at: '2026-10-22T15:59:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T21:27:19.442+02:00'
 integrity:
@@ -59,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:58Z'
-  notes: Texto consolidado 02012R0260-20240408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:11Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2012-260.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,30 +236,20 @@ relationships:
   date: '2021-07-30'
 article_structure:
   article_count: 22
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:58Z'
-  warnings: []
+  checked_at: '2026-10-22T15:59:11Z'
+  warnings:
+  - '02012R0260-20120331: versão indisponível (Sem expressão na língua por para CELEX 02012R0260-20120331.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 260/2012 do Parlamento Europeu e do Conselho, de 14 de março de 2012
-
-> 02012R0260 — PT — 08.04.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0248) — [REGULAMENTO (UE) N.º 248/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0248) — L 84 — 1 — 20.3.2014
-- [►M2](http://publications.europa.eu/resource/celex/32024R0886) — [REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0886) — L 886 — 1 — 19.3.2024
-
-## REGULAMENTO (UE) N.º 260/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de março de 2012
 

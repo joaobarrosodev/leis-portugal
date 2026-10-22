@@ -34,6 +34,90 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-04-26'
+version_history:
+  file: decisao-ue-2011-344.versoes.json
+  count: 11
+  source_lastmod: '2014-04-26'
+  versions:
+  - date: '2011-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-09-16'
+    amending: eu:celex:32011D0541:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 2 de Setembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2011-10-14'
+    amending: eu:celex:32011D0683:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 11 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2012-02-17'
+    amending: eu:celex:32012D0092:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 14 de dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2012-04-27'
+    amending: eu:celex:32012D0224:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 29 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2012-07-20'
+    amending: eu:celex:32012D0409:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 10 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2012-10-25'
+    amending: eu:celex:32012D0658:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 9 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2013-01-26'
+    amending: eu:celex:32013D0064:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 20 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2013-06-27'
+    amending: eu:celex:32013D0323:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 21 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2013-12-03'
+    amending: eu:celex:32013D0703:por
+    amending_title: DECISÃO DE EXECUÇÃO DO CONSELHO de 19 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2014-04-26'
+    amending: eu:celex:32014D0197:por
+    amending_title: M10; Decisão de Execução do Conselho de 23 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Notas
 identifiers:
   celex: 32011D0344
   eli: http://data.europa.eu/eli/dec_impl/2011/344/oj
@@ -48,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9abdf156-88e6-4021-9ea7-4c668bb116d4.0018
   content_url: http://publications.europa.eu/resource/cellar/6e2dc5cf-fe27-11e3-831f-01aa75ed71a1.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011D0344-20140426
-  retrieved_at: '2026-10-22T02:45:36Z'
+  retrieved_at: '2026-10-22T15:49:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T16:13:19.855+02:00'
 integrity:
@@ -57,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:36Z'
-  notes: Texto consolidado 02011D0344-20140426.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:57Z'
+  notes: 11 versão(ões); histórico completo em decisao-ue-2011-344.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,43 +253,19 @@ relationships:
   date: '2012-07-10'
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:36Z'
+  checked_at: '2026-10-22T15:49:57Z'
   warnings: []
   errors: []
 ---
 
 # 2011/344/UE: Decisão de Execução do Conselho, de 30 de Maio de 2011
-
-> 2011D0344 — PT — 26.04.2014 — 010.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011D0541) — [Decisão de Execução do Conselho de 2 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011D0541) — L 240 — 8 — 16.9.2011
-- [►M2](http://publications.europa.eu/resource/celex/32011D0683) — [Decisão de Execução do Conselho de 11 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011D0683) — L 269 — 32 — 14.10.2011
-- [►M3](http://publications.europa.eu/resource/celex/32012D0092) — [Decisão de Execução do Conselho de 14 de dezembro de 2011](http://publications.europa.eu/resource/celex/32012D0092) — L 46 — 40 — 17.2.2012
-- [M4](http://publications.europa.eu/resource/celex/32012D0224) — [Decisão de Execução do Conselho de 29 de março de 2012](http://publications.europa.eu/resource/celex/32012D0224) — L 115 — 21 — 27.4.2012
-- [M5](http://publications.europa.eu/resource/celex/32012D0409) — [Decisão de Execução do Conselho de 10 de julho de 2012](http://publications.europa.eu/resource/celex/32012D0409) — L 192 — 12 — 20.7.2012
-- [►M6](http://publications.europa.eu/resource/celex/32012D0658) — [Decisão de Execução do Conselho de 9 de outubro de 2012](http://publications.europa.eu/resource/celex/32012D0658) — L 295 — 14 — 25.10.2012
-- [M7](http://publications.europa.eu/resource/celex/32013D0064) — [Decisão de Execução do Conselho de 20 de dezembro de 2012](http://publications.europa.eu/resource/celex/32013D0064) — L 26 — 30 — 26.1.2013
-- [►M8](http://publications.europa.eu/resource/celex/32013D0323) — [Decisão de Execução do Conselho de 21 de junho de 2013](http://publications.europa.eu/resource/celex/32013D0323) — L 175 — 47 — 27.6.2013
-- [►M9](http://publications.europa.eu/resource/celex/32013D0703) — [Decisão de Execução do Conselho de 19 de novembro de 2013](http://publications.europa.eu/resource/celex/32013D0703) — L 322 — 31 — 3.12.2013
-- [M10](http://publications.europa.eu/resource/celex/32014D0197) — [Decisão de Execução do Conselho de 18 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014D0197) — L 107 — 61 — 10.4.2014
-- [►M11](http://publications.europa.eu/resource/celex/32014D0234) — [Decisão de Execução do Conselho de 23 de abril de 2014](http://publications.europa.eu/resource/celex/32014D0234) — L 125 — 75 — 26.4.2014
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011D0344R%2801%29) — [Rectificação, JO L 178, 10.7.2012, p. 15 (344/2011)](http://publications.europa.eu/resource/celex/32011D0344R%2801%29)
-
-## DECISÃO DE EXECUÇÃO DO CONSELHO
 
 de 17 de Maio de 2011
 

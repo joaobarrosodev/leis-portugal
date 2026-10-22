@@ -35,6 +35,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-05-15'
+version_history:
+  file: diretiva-ue-2011-92.versoes.json
+  count: 2
+  source_lastmod: '2014-05-15'
+  versions:
+  - date: '2012-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-15'
+    amending: eu:celex:32014L0052:por
+    amending_title: DIRETIVA 2014/52/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de abril
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Notas
+    - Adita Artigo 8.º-A
+    - Adita Artigo 9-A
+    - Adita Artigo 10.º-A
+    - Adita ANEXO I
+    - Adita PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 1
+    - Adita ANEXO II
+    - Adita PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 2
+    - Adita 1. AGRICULTURA, SILVICULTURA E AQUICULTURA
+    - Adita 2. INDÚSTRIA EXTRACTIVA
+    - Adita 3. INDÚSTRIA DA ENERGIA
+    - Adita 4. PRODUÇÃO E TRANSFORMAÇÃO DE METAIS
+    - Adita 5. INDÚSTRIA MINERAL
+    - Adita 6. INDÚSTRIA QUÍMICA (PROJECTOS NÃO INCLUÍDOS NO ANEXO I)
+    - Adita 7. INDÚSTRIA ALIMENTAR
+    - Adita 8. INDÚSTRIAS TÊXTIL, DOS CURTUMES, DA MADEIRA E DO PAPEL
+    - Adita 9. INDÚSTRIA DA BORRACHA
+    - Adita 10. PROJECTOS DE INFRA-ESTRUTURAS
+    - Adita 11. OUTROS PROJECTOS
+    - Adita 12. TURISMO E TEMPOS LIVRES
+    - Adita ANEXO II-A
+    - Adita INFORMAÇÕES A QUE SE REFERE O ARTIGO 4.º, N.º 4
+    - Adita (INFORMAÇÕES A FORNECER PELO DONO DA OBRA SOBRE OS PROJETOS ENUMERADOS NO ANEXO II)
+    - Adita ANEXO III
+    - Adita CRITÉRIOS DE SELEÇÃO A QUE SE REFERE O ARTIGO 4.º, N.º 3
+    - Adita (CRITÉRIOS PARA DETERMINAR SE OS PROJETOS INCLUÍDOS NO ANEXO II DEVEM SER SUJEITOS A UMA AVALIAÇÃO DE IMPACTO
+      AMBIENTAL)
+    - Adita 1. Características dos projetos
 identifiers:
   celex: 32011L0092
   eli: http://data.europa.eu/eli/dir/2011/92/oj
@@ -49,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013
   content_url: http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0092-20140515
-  retrieved_at: '2026-10-22T02:37:44Z'
+  retrieved_at: '2026-10-22T15:50:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T09:15:23.665+02:00'
 integrity:
@@ -58,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:44Z'
-  notes: Texto consolidado 02011L0092-20140515.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:33Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2011-92.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -307,33 +362,19 @@ relationships:
   source: null
 article_structure:
   article_count: 19
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 33
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:44Z'
+  checked_at: '2026-10-22T15:50:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2011/92/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011
-
-> 2011L0092 — PT — 15.05.2014 — 001.003
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0052) — [DIRETIVA 2014/52/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014L0052) — L 124 — 1 — 25.4.2014
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011L0092R%2801%29) — [Rectificação, JO L 174, 3.7.2015, p. 44 (2011/92/UE,)](http://publications.europa.eu/resource/celex/32011L0092R%2801%29)
-
-## DIRECTIVA 2011/92/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de dezembro de 2011
 

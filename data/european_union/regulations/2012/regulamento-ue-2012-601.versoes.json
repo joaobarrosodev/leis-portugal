@@ -1,0 +1,1204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0601:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0601-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2012-07-12",
+   "future": false,
+   "celex": "32012R0601",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4d0c6ff338bfc4c",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "9b406af514eb9164",
+    "6b8eb4289cb0c2d6",
+    "042c7953666f318f",
+    "d066129688005202",
+    "03c989d780457d22",
+    "c42c0c2b3cabd519",
+    "3d920684eb8ab519",
+    "8d82e46a736e67bf",
+    "1f0eb0e3dffa11ee",
+    "df2363850020dc84",
+    "7837f27bf778dc1e",
+    "81d2da0ff0495049",
+    "87bd23553ee8286a",
+    "bd628126d14bb769",
+    "f0f8c960bfdbce9b",
+    "867504af85483613",
+    "9b406af514eb9164",
+    "d6e1f01825eda6d1",
+    "1965ce16cdaec1f6",
+    "4a4be040a519c22d",
+    "6c71a9a4fee8001c",
+    "25a3e8f57baaf974",
+    "9478594ce446ddf6",
+    "6223e07aa48af7dc",
+    "c42c0c2b3cabd519",
+    "9a5137d13aaefdc4",
+    "c7a3fa9a07a4b909",
+    "87cb9e5325836cd5",
+    "1e7a0903d2eed348",
+    "1009e28236b18c29",
+    "9b406af514eb9164",
+    "7fabed8a0a46afb5",
+    "61f9dd5a22faeff4",
+    "2e82b01116728ae9",
+    "0ab8df9fb792bff5",
+    "a5ce7e8cca2a6ac2",
+    "c257ebd1aa41960d",
+    "c42c0c2b3cabd519",
+    "e99e429c1361b682",
+    "bc6a099189239022",
+    "7fabed8a0a46afb5",
+    "bfec8846743d87ae",
+    "10c10d26a2964596",
+    "0064edac59192d1c",
+    "9bf10f109cd25b36",
+    "a16767e8661ca083",
+    "05fd430eeadb81ad",
+    "8cd61588f86922f6",
+    "6c5a02605d051f3e",
+    "a94855df6057b881",
+    "8f7cf10c0a28f1ad",
+    "c25d1da00316900d",
+    "e09525709945d996",
+    "be47f1ef78af35f8",
+    "655746e1de32586d",
+    "290db72ae4a8039a",
+    "9a779be8af4cf583",
+    "7d030ee45c591bd2",
+    "17ca1931e09fd61e",
+    "0638d1bbbb857ab7",
+    "be0f9a80849c338c",
+    "0fe08f49154a5ffe",
+    "5d11f7c444b85b8d",
+    "08dea42ac7078262",
+    "d797f8462ccf28b6",
+    "ac8387eef8dd0a6f",
+    "9577034d630cd9d8",
+    "c422eaeed6c84b5e",
+    "ddd98e65e2a87912",
+    "1b1152bbbc5db55c",
+    "bf109a32f08cd4ce",
+    "6aef1b7e9716b49d",
+    "f9d71b63fb24cf59",
+    "3ddad57e2000b17b",
+    "2a6934845bb7c573",
+    "4053d6d7461b9b89",
+    "4f2ab7c41696303d",
+    "69f37453e4ad75a3",
+    "1129b937895898d1",
+    "1ecfc79da3f1ac7f",
+    "ae227a5f73b73319",
+    "72db75c17fd57f88",
+    "85caa517c8ba8ff7",
+    "544b3cfa1dd423c4",
+    "fd0c18a08f935960",
+    "a10b0cfbeb9ce338",
+    "d0c1d3c2d2964769",
+    "f060fc6bf1b8304c",
+    "40ed6b62e188ac6f",
+    "b12c9ad2e380956d",
+    "080255642444bd18",
+    "8d944ea0987a24ac",
+    "dc349de67080094d",
+    "e2a1f21ae26a80b4",
+    "79fc2e69277fdcfe",
+    "2e9bc5e0377de6f9",
+    "e8140a1de4c7416a",
+    "e1e372cc730a8694",
+    "6b78c701a98b1b38",
+    "ef0099dfaa98ffdd",
+    "b76d202a844f758e",
+    "a521c720d93eaed2",
+    "38e4d0819441a8e3",
+    "c28eb2b9bbabe6ed",
+    "b9f3f64bdfcf93cd",
+    "88990a66688450c5",
+    "7f79fe35bfa45509",
+    "6026f7ab62f025df",
+    "fc630b9c20cd27c5",
+    "7fd045ac4f655f13",
+    "ec9e0bb3f0bc7a1b",
+    "6039b31c71f8efcc",
+    "b4313c6390410aff",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "8a7d1919b96e302a",
+    "9e217db227ef5fa4",
+    "6ed04ef26970cccc"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02012R0601-20210101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime SECÇÃO 1",
+    "Suprime Objeto e definições",
+    "Suprime Artigo 1.º — Objeto",
+    "Suprime Artigo 2.º — Âmbito",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime SECÇÃO 2",
+    "Suprime Princípios gerais",
+    "Suprime Artigo 4.º — Obrigação geral",
+    "Suprime Artigo 5.º — Exaustividade",
+    "Suprime Artigo 6.º — Coerência, comparabilidade e transparência",
+    "Suprime Artigo 7.º — Exatidão",
+    "Suprime Artigo 8.º — Integridade da metodologia",
+    "Suprime Artigo 9.º — Melhoria contínua",
+    "Suprime Artigo 10.º — Coordenação",
+    "Suprime CAPÍTULO II",
+    "Suprime PLANO DE MONITORIZAÇÃO",
+    "Suprime Regras gerais",
+    "Suprime Artigo 11.º — Obrigação geral",
+    "Suprime Artigo 12.º — Conteúdo e transmissão do plano de monitorização",
+    "Suprime Artigo 13.º — Planos de monitorização normalizados e simplificados",
+    "Suprime Artigo 14.º — Alterações ao plano de monitorização",
+    "Suprime Artigo 15.º — Aprovação de alterações ao plano de monitorização",
+    "Suprime Artigo 16.º — Aplicação e manutenção de registo de alterações",
+    "Suprime Viabilidade técnica e custos excessivos",
+    "Suprime Artigo 17.º — Viabilidade técnica",
+    "Suprime Artigo 18.º — Custos excessivos",
+    "Suprime CAPÍTULO III",
+    "Suprime MONITORIZAÇÃO DAS EMISSÕES DE INSTALAÇÕES FIXAS",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 19.º — Classificação das instalações e fluxos-fonte",
+    "Suprime Artigo 20.º — Fronteiras de monitorização",
+    "Suprime Artigo 21.º — Escolha da metodologia de monitorização",
+    "Suprime Artigo 22.º — Metodologia de monitorização não baseada em níveis",
+    "Suprime Artigo 23.º — Alterações temporárias ao plano de monitorização",
+    "Suprime Metodologia baseada no cálculo",
+    "Suprime Subsecção 1",
+    "Suprime Artigo 24.º — Cálculo das emissões no âmbito da metodologia normalizada",
+    "Suprime Artigo 25.º — Cálculo das emissões no âmbito da metodologia de balanço de massas",
+    "Suprime Artigo 26.º — Níveis aplicáveis",
+    "Suprime Subsecção 2",
+    "Suprime Dados da atividade",
+    "Suprime Artigo 27.º — Determinação dos dados da atividade",
+    "Suprime Artigo 28.º — Sistemas de medição sob o controlo do operador",
+    "Suprime Artigo 29.º — Sistemas de medição não controlados pelo operador",
+    "Suprime Subsecção 3",
+    "Suprime Fatores de cálculo",
+    "Suprime Artigo 30.º — Determinação dos fatores de cálculo",
+    "Suprime Artigo 31.º — Valores por defeito para os fatores de cálculo",
+    "Suprime Artigo 32.º — Fatores de cálculo baseados em análises",
+    "Suprime Artigo 33.º — Plano de amostragem",
+    "Suprime Artigo 34.º — Utilização de laboratórios",
+    "Suprime Artigo 35.º — Frequência das análises",
+    "Suprime Subsecção 4",
+    "Suprime fatores de cálculo específicos",
+    "Suprime Artigo 36.º — Fatores de emissão de CO2",
+    "Suprime Artigo 37.º — Fatores de oxidação e conversão",
+    "Suprime Subsecção 5",
+    "Suprime Abordagem para a biomassa",
+    "Suprime Artigo 38.º — Fluxos-fonte de biomassa",
+    "Suprime Artigo 39.º — Determinação da fração de biomassa e da fração fóssil",
+    "Suprime SECÇÃO 3",
+    "Suprime Metodologia baseada na medição",
+    "Suprime Artigo 40.º — Utilização da metodologia de monitorização baseada na medição",
+    "Suprime Artigo 41.º — Requisitos relativos aos níveis",
+    "Suprime Artigo 42.º — Normas de medição e laboratórios",
+    "Suprime Artigo 43.º — Determinação das emissões",
+    "Suprime Artigo 44.º — Agregação de dados",
+    "Suprime Artigo 45.º — Informações omissas",
+    "Suprime Artigo 46.º — Corroboração com cálculo das emissões",
+    "Suprime SECÇÃO 4",
+    "Suprime Disposições especiais",
+    "Suprime Artigo 47.º — Instalações com um baixo nível de emissões",
+    "Suprime Artigo 48.º — CO2 inerente",
+    "Suprime Artigo 49.º — CO2 transferido",
+    "Suprime CAPÍTULO IV",
+    "Suprime MONITORIZAÇÃO DOS DADOS RELATIVOS ÀS EMISSÕES E ÀS TONELADAS-QUILÓMETRO DA AVIAÇÃO",
+    "Suprime Artigo 50.º — Disposições gerais",
+    "Suprime Artigo 51.º — Apresentação dos planos de monitorização",
+    "Suprime Artigo 52.º — Metodologia de monitorização para as emissões das atividades da aviação",
+    "Suprime Artigo 53.º — Disposições específicas aplicáveis à biomassa",
+    "Suprime Artigo 54.º — Pequenos emissores",
+    "Suprime Artigo 55.º — Fontes de incerteza",
+    "Suprime Artigo 56.º — Determinação dos dados relativos às toneladas-quilómetro",
+    "Suprime CAPÍTULO V",
+    "Suprime GESTÃO E CONTROLO DOS DADOS",
+    "Suprime Artigo 57.º — Atividades de fluxo de dados",
+    "Suprime Artigo 58.º — Sistema de controlo",
+    "Suprime Artigo 59.º — Garantia da qualidade",
+    "Suprime Artigo 60.º — Garantia da qualidade das tecnologias da informação",
+    "Suprime Artigo 61.º — Separação de funções",
+    "Suprime Artigo 62.º — Revisões internas e validação de dados",
+    "Suprime Artigo 63.º — Correções e medidas corretivas",
+    "Suprime Artigo 64.º — Processos externalizados",
+    "Suprime Artigo 65.º — Tratamento das lacunas de dados",
+    "Suprime Artigo 66.º — Registos e documentação",
+    "Suprime CAPÍTULO VI",
+    "Suprime REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+    "Suprime Artigo 67.º — Calendário e obrigações de comunicação de informações",
+    "Suprime Artigo 68.º — Força maior",
+    "Suprime Artigo 69.º — Relatórios sobre as melhorias da metodologia de monitorização",
+    "Suprime Artigo 70.º — Determinação das emissões pela autoridade competente",
+    "Suprime Artigo 71.º — Acesso à informação",
+    "Suprime Artigo 72.º — Arredondamento dos dados",
+    "Suprime Artigo 73.º — Assegurar a coerência com outras comunicações de dados",
+    "Suprime CAPÍTULO VII",
+    "Suprime REQUISITOS EM MATÉRIA DE TECNOLOGIAS DA INFORMAÇÃO",
+    "Suprime Artigo 74.º — Formato eletrónico de intercâmbio de dados",
+    "Suprime Artigo 75.º — Utilização de sistemas automatizados",
+    "Suprime CAPÍTULO VIII",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 76.º — Revogação da Decisão 2007/589/CE e disposições transitórias",
+    "Suprime Artigo 77.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "491368bfe4c78513"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4d0c6ff338bfc4c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de junho de 2012\n\nrelativo à monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Diretiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr1-L_2012181PT.01003001-E0001), nomeadamente o artigo 14.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) A monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa, de uma forma completa, coerente, transparente e exata em conformidade com os requisitos harmonizados estabelecidos no presente regulamento, são fundamentais para a eficácia de funcionamento do regime de comércio de licenças de emissão de gases com efeito de estufa criado nos termos da Diretiva 2003/87/CE. Ao longo do segundo ciclo de cumprimento do regime de comércio de licenças de emissão de gases com efeito de estufa, abrangendo os anos de 2008 a 2012, os operadores industriais, operadores da aviação, verificadores e autoridades competentes dos Estados-Membros têm adquirido experiência na monitorização e comunicação de informações ao abrigo da Decisão 2007/589/CE da Comissão, de 18 de julho de 2007, que estabelece orientações para a monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa, nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr2-L_2012181PT.01003001-E0002). As regras para o terceiro período de comércio do regime de comércio de licenças de emissão de gases com efeito de estufa da União, que começa em 1 de janeiro de 2013, e para os períodos de comércio seguintes, devem apoiar-se nessa experiência.\n\n(2) A definição de biomassa no presente regulamento deve ser coerente com as definições dos termos «biomassa», «biolíquidos» e «biocombustíveis» contidas no artigo 2.º da Diretiva 2009/28/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à promoção da utilização de energia proveniente de fontes renováveis e que altera e subsequentemente revoga as Diretivas 2001/77/CE e 2003/30/CE [([^3])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr3-L_2012181PT.01003001-E0003), em especial pelo facto de o tratamento preferencial no que respeita às obrigações de devolução de licenças no âmbito do regime de comércio de licenças de emissão de gases com efeito de estufa da União nos termos da Diretiva 2003/87/CE constituir um «regime de apoio» na aceção do artigo 2.º, alínea k), e, por conseguinte, de apoio financeiro na aceção do artigo 17.º, n.º 1, alínea c), da Diretiva 2009/28/CE.\n\n(3) Por razões de coerência, as definições estabelecidas na Decisão 2009/450/CE da Comissão, de 8 de junho de 2009, relativa à interpretação pormenorizada das atividades da aviação enumeradas no anexo I da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr4-L_2012181PT.01003001-E0004) e na Diretiva 2009/31/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa ao armazenamento geológico de dióxido de carbono e que altera a Diretiva 85/337/CEE, as Diretivas 2000/60/CE, 2001/80/CE, 2004/35/CE, 2006/12/CE e 2008/1/CE do Parlamento Europeu e do Conselho e o Regulamento (CE) n.º 1013/2006 [([^5])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr5-L_2012181PT.01003001-E0005) devem ser aplicáveis ao presente regulamento.\n\n(4) A fim de otimizar o funcionamento do sistema de monitorização e comunicação de informações, os Estados-Membros que designam mais de uma autoridade competente devem assegurar que essas autoridades competentes coordenem os seus trabalhos em conformidade com os princípios estabelecidos no presente regulamento.\n\n(5) O plano de monitorização, que prevê documentação pormenorizada, completa e transparente sobre a metodologia de uma dada instalação ou de um operador de aeronave, deve ser um elemento fulcral do sistema estabelecido pelo presente regulamento. Esse plano deve ser objeto de atualizações regulares, tanto em resposta às conclusões do verificador como por iniciativa do próprio operador de instalação ou operador de aeronave. A principal responsabilidade pela aplicação da metodologia de monitorização, partes da qual são especificadas nos procedimentos exigidos pelo presente regulamento, deve caber ao operador de instalação ou operador de aeronave.\n\n(6) É necessário estabelecer metodologias básicas para a monitorização, a fim de reduzir ao mínimo os encargos suportados pelos operadores de instalações e operadores de aeronave e a facilitar a eficácia da monitorização e comunicação de informações sobre as emissões de gases com efeito de estufa nos termos da Diretiva 2003/87/CE. Tais metodologias devem incluir metodologias básicas de cálculo e de medição. As metodologias de cálculo devem ser ainda diferenciadas em metodologia normalizada e metodologia de balanço de massas. Há que prever a flexibilidade necessária para permitir que, numa mesma instalação, seja utilizada uma combinação de metodologias de medição, metodologia de cálculo normalizada e metodologia de balanço de massas, desde que o operador assegure a ausência de omissões ou de dupla contagem.\n\n(7) Para reduzir ainda mais os encargos suportados pelos operadores de instalações e operadores de aeronave, o requisito relativo à avaliação da incerteza deve ser simplificado, sem reduzir a exatidão. Quando os instrumentos de medição forem utilizados em condições de «conformidade com o tipo», nomeadamente se estiverem sujeitos ao controlo metrológico legal nacional, devem aplicar-se requisitos relativos à avaliação da incerteza consideravelmente reduzidos.\n\n(8) É necessário definir fatores de cálculo, que podem ser fatores por defeito ou fatores determinados por análise. Em matéria de análises, convém continuar a privilegiar o recurso a laboratórios acreditados em conformidade com a norma harmonizada EN ISO/IEC 17025 (Requisitos gerais de competência para laboratórios de ensaio e calibração) para os métodos analíticos pertinentes, e introduzir requisitos mais pragmáticos para demonstrar uma sólida equivalência no caso do recurso a laboratórios não acreditados, nomeadamente em conformidade com a norma harmonizada EN ISO/IEC 9001 (Sistemas de gestão da qualidade – Requisitos) ou com outros sistemas certificados de gestão da qualidade.\n\n(9) Deve ser estabelecida uma forma mais transparente e coerente de determinação dos custos excessivos.\n\n(10) A metodologia baseada na medição deve ser colocada em maior pé de igualdade com a metodologia baseada no cálculo, reconhecendo assim o aumento da confiança nos sistemas de monitorização em contínuo das emissões e na garantia da qualidade que lhes está subjacente. Para o efeito, há que adotar requisitos mais proporcionais a respeito das verificações cruzadas com os cálculos e clarificar os requisitos referentes ao tratamento de dados e a outros aspetos da garantia da qualidade.\n\n(11) Deve evitar-se que seja imposto um esforço de monitorização desproporcionado às instalações com um nível mais baixo e menos importante de emissões anuais, sem deixar de assegurar a manutenção de um nível de rigor aceitável. A este respeito, devem ser definidas condições especiais para as instalações com um baixo nível de emissões e para os operadores de aeronave considerados pequenos emissores.\n\n(12) O artigo 27.º da Diretiva 2003/87/CE permite aos Estados-Membros excluir do regime de comércio de licenças de emissão da União as pequenas instalações, sujeitas a medidas equivalentes, desde que sejam respeitadas as condições contidas nesse artigo. O presente regulamento não se aplica diretamente a essas instalações excluídas nos termos do artigo 27.º da Diretiva 2003/87/CE, a não ser que os Estados-Membros assim o decidam.\n\n(13) Para evitar eventuais lacunas relacionadas com a transferência de CO2 inerente ou puro, essa transferência só deve ser permitida em condições muito específicas. Assim, a transferência de CO2 inerente só poderá efetuar-se para outras instalações RCLE-UE e a transferência de CO2 puro apenas se verificará para fins de armazenamento num local de armazenamento geológico, ao abrigo do regime de comércio de licenças de emissão de gases com efeito de estufa da União, que é a única forma de armazenamento permanente de CO2 atualmente aceite por esse regime. Tais condições não devem, contudo, excluir a possibilidade de futuras inovações.\n\n(14) Devem ser definidas disposições específicas para a aviação no que respeita aos planos de monitorização e à monitorização das emissões de gases com efeito de estufa. Uma dessas disposições seria determinar a densidade através de medições a bordo e de faturas de combustível, como opções equivalentes. Outra seria aumentar de 10 000 para 25 000 toneladas de emissões de CO2 por ano o limiar a partir do qual um operador de aeronave pode ser considerado um pequeno emissor.\n\n(15) Deve ser tornada mais coerente a estimativa dos dados em falta, exigindo a utilização de processos de estimativa prudentes reconhecidos no plano de monitorização ou, se tal não for possível, através da aprovação de um procedimento adequado pela autoridade competente e sua inclusão no dito plano.\n\n(16) Tem de ser reforçada a aplicação do princípio de melhoria, que exige que os operadores revejam regularmente a sua metodologia de monitorização a fim de a melhorarem, e que considerem as recomendações formuladas pelos verificadores no âmbito do processo de verificação. Caso seja aplicada uma metodologia não baseada em níveis, ou caso não sejam respeitadas as metodologias correspondentes ao nível mais elevado, os operadores devem apresentar relatórios regulares sobre as medidas que estão a ser tomadas para respeitarem uma metodologia de monitorização baseada no sistema de níveis e atingirem o nível mais elevado que é exigido.\n\n(17) Os operadores de aeronave podem, nos termos do artigo 3.º-E, n.º 1, da Diretiva 2003/87/CE, solicitar a atribuição de licenças de emissão a título gratuito, no que respeita a atividades enumeradas no anexo I da referida Diretiva, com base nos dados verificados relativos às toneladas-quilómetro. No entanto, à luz do princípio da proporcionalidade, se um operador de aeronave for objetivamente incapaz, devido a circunstâncias graves e imprevisíveis fora do seu controlo, de fornecer dentro do prazo previsto dados verificados relativos às toneladas-quilómetro, esse operador de aeronave deve poder apresentar os melhores dados disponíveis relativos às toneladas-quilómetro desde que sejam criadas as salvaguardas necessárias.\n\n(18) Deve ser promovida a utilização de tecnologias da informação, incluindo requisitos em matéria de formatos de intercâmbio de dados e de utilização de sistemas automatizados, devendo os Estados-Membros ser, por conseguinte, autorizados a exigir aos operadores económicos a utilização de tais sistemas. Os Estados-Membros devem igualmente ser autorizados a elaborar modelos eletrónicos e especificações de modelos de ficheiros que devem, contudo, ser conformes com as normas mínimas publicadas pela Comissão.\n\n(19) A Decisão 2007/589/CE deve ser revogada. No entanto, devem ser mantidos os efeitos das suas disposições no que respeita à monitorização, comunicação e verificação das emissões e dos dados das atividades que tenham ocorrido durante o primeiro e segundo períodos de comércio do regime de comércio de licenças de emissão de gases com efeito de estufa da União.\n\n(20) Os Estados-Membros devem dispor de tempo suficiente para adotar as medidas necessárias e estabelecer o quadro institucional nacional adequado que garanta a aplicação efetiva do presente regulamento. O presente regulamento deve, pois, ser aplicável a partir da data de início do terceiro período de comércio de emissões.\n\n(21) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das Alterações Climáticas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "6b8eb4289cb0c2d6": {
+   "fragment_id": "Objeto e definições",
+   "type": "divisao",
+   "heading": "Objeto e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Objeto e definições"
+  },
+  "042c7953666f318f": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece regras para a monitorização e a comunicação de informações sobre as emissões de gases com efeito de estufa e de dados de atividade em conformidade com a Diretiva 2003/87/CE no período de comércio do regime de comércio de licenças de emissão da União com início em 1 de janeiro de 2013 e períodos subsequentes."
+  },
+  "d066129688005202": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente regulamento aplica-se à monitorização e à comunicação de informações sobre as emissões de gases com efeito de estufa especificadas no que respeita às atividades enumeradas no anexo I da Diretiva 2003/87/CE e aos dados da atividade das instalações fixas e das atividades da aviação, bem como à monitorização e à comunicação de dados relativos às toneladas-quilómetro resultantes das atividades da aviação.\n\nAplica-se às emissões e aos dados da atividade que ocorram a partir de 1 de janeiro de 2013."
+  },
+  "03c989d780457d22": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n(1) «Dados da atividade»: os dados relativos à quantidade de combustível ou de material consumida ou produzida por um processo relevante para a metodologia de monitorização baseada no cálculo, expressa em terajoules, massa em toneladas ou, para os gases, em volume em metros cúbicos normais, consoante os casos;\n\n(2) «Período de comércio»: um período de oito anos referido no artigo 13.º, n.º 1, da Diretiva 2003/87/CE;\n\n(3) «Tonelada-quilómetro»: uma tonelada de carga útil transportada numa distância de um quilómetro;\n\n(4) «Fluxo-fonte»: a) Um tipo específico de combustível, matéria-prima ou produto cujo consumo ou produção gera emissões de gases com efeito de estufa relevantes a partir de uma ou mais fontes de emissão; ou b) Um tipo específico de combustível, matéria-prima ou produto que contém carbono e é incluído no cálculo das emissões de gases com efeitos de estufa utilizando uma metodologia de balanço de massas;\n\na) Um tipo específico de combustível, matéria-prima ou produto cujo consumo ou produção gera emissões de gases com efeito de estufa relevantes a partir de uma ou mais fontes de emissão; ou\n\nb) Um tipo específico de combustível, matéria-prima ou produto que contém carbono e é incluído no cálculo das emissões de gases com efeitos de estufa utilizando uma metodologia de balanço de massas;\n\n(5) «Fonte de emissão»: uma parte identificável separadamente numa instalação ou um processo no interior de uma instalação, a partir da qual são emitidos gases com efeito de estufa relevantes ou, no caso das atividades da aviação, numa aeronave;\n\n(6) «Incerteza»: parâmetro associado ao resultado da determinação de uma quantidade, que caracteriza a dispersão dos valores que poderiam razoavelmente ser atribuídos a essa determinada quantidade, incluindo os efeitos de fatores sistemáticos e aleatórios, expresso em percentagem e que descreve um intervalo de confiança próximo do valor médio compreendendo 95 % dos valores inferidos tomando em consideração uma eventual assimetria da distribuição dos valores;\n\n(7) «Fatores de cálculo»: o poder calorífico inferior, fator de emissão, fator de emissão preliminar, fator de oxidação, fator de conversão, teor de carbono ou fração de biomassa;\n\n(8) «Nível»: um requisito utilizado para a determinação dos dados da atividade, dos fatores de cálculo, das emissões anuais e da média anual das emissões horárias, bem como da carga útil;\n\n(9) «Risco inerente»: a possibilidade de um parâmetro no relatório anual sobre as emissões ou no relatório relativo às toneladas-quilómetro conter inexatidões materiais, individualmente ou em conjunto com outras inexatidões, antes de se tomar em consideração o efeito de atividades de controlo conexas;\n\n(10) «Risco de controlo»: a possibilidade de um parâmetro no relatório anual sobre as emissões ou no relatório relativo às toneladas-quilómetro conter inexatidões materiais, individualmente ou em conjunto com outras inexatidões, não evitadas ou detetadas e corrigidas atempadamente pelo sistema de controlo;\n\n(11) «Emissões de combustão»: emissões de gases com efeito de estufa que ocorrem durante a reação exotérmica de um combustível com oxigénio;\n\n(12) «Período de informação»: o ano civil durante o qual devem ser monitorizadas e comunicadas as emissões, ou o ano de monitorização a que se referem os artigos 3.º-E e 3.º-F da Diretiva 2003/87/CE para os dados relativos às toneladas-quilómetro;\n\n(13) «Fator de emissão», a taxa média de emissão de um gás com efeito de estufa no que respeita aos dados da atividade de um fluxo-fonte, pressupondo uma oxidação completa na combustão e uma conversão completa em todas as outras reações químicas;\n\n(14) «Fator de oxidação»: o rácio do carbono oxidado em relação ao CO2, em consequência da combustão do carbono total contido no combustível, expresso sob a forma de fração, considerando o monóxido de carbono (CO) emitido para a atmosfera como a quantidade molar equivalente de CO2;\n\n(15) «Fator de conversão»: o rácio do carbono emitido como CO2 em relação ao carbono total contido no fluxo-fonte a montante do processo de emissão, expresso sob a forma de fração, considerando o monóxido de carbono (CO) emitido para a atmosfera como a quantidade molar equivalente de CO2;\n\n(16) «Exatidão»: grau de concordância entre o resultado de uma medição e o verdadeiro valor de uma dada quantidade ou um valor de referência determinado empiricamente utilizando métodos e materiais de calibração normalizados, internacionalmente aceites e rastreáveis, tendo em conta os fatores tanto aleatórios como sistemáticos;\n\n(17) «Calibração»: o conjunto de operações que estabelecem, em condições especificadas, as relações entre os valores indicados por um instrumento de medição ou um sistema de medição, ou os valores representados por uma medida materializada ou um material de referência, e os valores correspondentes de uma quantidade obtidos através de uma norma de referência;\n\n(18) «Passageiros»: as pessoas a bordo da aeronave durante um voo, excluindo os membros da sua tripulação;\n\n(19) «Prudente»: um conjunto de pressupostos definido de forma a evitar qualquer subestimação das emissões anuais ou sobre-estimação das toneladas-quilómetro;\n\n(20) «Biomassa»: a fração biodegradável de produtos, resíduos e detritos de origem biológica provenientes da agricultura (incluindo substâncias de origem vegetal e animal), da exploração florestal e de indústrias afins, incluindo da pesca e da aquicultura, bem como a fração biodegradável dos resíduos industriais e urbanos; inclui os biolíquidos e os biocombustíveis;\n\n(21) «Biolíquidos»: combustíveis líquidos para fins energéticos, com exceção dos destinados aos transportes, incluindo eletricidade, aquecimento e arrefecimento, produzidos a partir de biomassa;\n\n(22) «Biocombustíveis»: combustíveis líquidos ou gasosos para transportes, produzidos a partir de biomassa;\n\n(23) «Controlo metrológico legal»: o controlo das funções de medição pretendidas no campo de aplicação de um instrumento de medida, por razões de interesse público, saúde, ordem e segurança públicas, proteção do ambiente, cobrança de impostos e taxas, defesa dos consumidores e práticas leais de comércio;\n\n(24) «Erro máximo admissível»: o erro de medição permitido, tal como especificado no anexo I e nos anexos relativos a instrumentos específicos da Diretiva 2004/22/CE do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr6-L_2012181PT.01003001-E0006), ou na legislação nacional relativa ao controlo metrológico legal, conforme os casos;\n\n(25) «Atividades de fluxo de dados»: atividades de aquisição e tratamento de dados necessárias para elaborar um relatório de emissões com base em dados de fontes primárias;\n\n(26) «Toneladas de CO2(e)»: toneladas métricas de CO2 ou de CO2(e);\n\n(27) «CO2(e)»: um gás com efeito de estufa com exceção do CO2, enumerado no anexo II da Diretiva 2003/87/CE, com um potencial de aquecimento global equivalente ao do CO2;\n\n(28) «Sistema de medição»: um conjunto completo de instrumentos de medição e de outro equipamento, como equipamento de amostragem e tratamento de dados, utilizado para a determinação de variáveis como os dados da atividade, o teor de carbono, o poder calorífico ou o fator de emissão das emissões de CO2;\n\n(29) «Poder calorífico inferior» (PCI): a quantidade específica de energia libertada como calor quando um combustível ou material é objeto de combustão completa com oxigénio em condições normais, após dedução do calor de vaporização da água que se tenha formado;\n\n(30) «Emissões de processo»: emissões de gases com efeito de estufa, excluindo as emissões de combustão, que resultam de reações intencionais e não intencionais entre substâncias ou da sua transformação, incluindo a redução química ou eletrolítica de minérios metálicos, a decomposição térmica de substâncias e a formação de substâncias a utilizar como produtos ou matérias-primas;\n\n(31) «Combustível comercial normalizado»: os combustíveis comerciais normalizados a nível internacional que apresentam um intervalo de confiança a 95 % não superior a 1 % para o seu poder calorífico declarado, incluindo gasóleo, fuelóleo leve, gasolina, petróleo de iluminação, querosene, etano, propano, butano, querosene para motores de reação (Jet A1 ou Jet A), gasolina para motores de reação (Jet B) e gasolina de aviação (AvGas);\n\n(32) «Lote»: uma quantidade de combustível ou material com amostragem e caracterização representativas e objeto de uma transferência única ou contínua durante um período de tempo específico;\n\n(33) «Combustível misto»: combustível que contém biomassa e carbono fóssil;\n\n(34) «Material misto»: um material que contém biomassa e carbono fóssil;\n\n(35) «Fator de emissão preliminar»: o fator de emissão total presumido de um combustível ou material misto, com base no teor total de carbono composto pela fração de biomassa e pela fração fóssil antes de o multiplicar pela fração fóssil para obter o fator de emissão;\n\n(36) «Fração fóssil»: o rácio de carbono de origem fóssil em relação ao teor total de carbono de um combustível ou material, expresso sob a forma de fração;\n\n(37) «Fração de biomassa»: rácio de carbono proveniente da biomassa em relação ao teor de carbono total de um combustível ou material, expresso sob a forma de fração;\n\n(38) «Método do balanço energético»: um método para estimar a quantidade de energia utilizada como combustível numa caldeira, calculada como soma do calor utilizável e de todas as perdas de energia relevantes por radiação e transmissão e através dos gases de combustão;\n\n(39) «Medição contínua de emissões»: um conjunto de operações que tem como objetivo determinar o valor de uma quantidade por meio de medições periódicas, aplicando quer medições na chaminé quer processos de extração com um instrumento de medição localizado na proximidade da chaminé, e excluindo as metodologias de medição baseadas na recolha de amostras individuais na chaminé;\n\n(40) «CO2 inerente»: o CO2 presente na composição de um combustível;\n\n(41) «Carbono fóssil»: carbono orgânico e inorgânico que não é biomassa;\n\n(42) «Ponto de medição»: a fonte de emissão na qual são utilizados sistemas de medição contínua das emissões (CEMS) para fins de medição das emissões, ou secção de um sistema de condutas no qual o fluxo de CO2 é determinado utilizando sistemas de medição contínua;\n\n(43) «Documentação sobre massa e centragem»: a documentação especificada na aplicação nacional e internacional das normas e práticas recomendadas (SARP), conforme previsto no anexo 6 da Convenção sobre a Aviação Civil Internacional, assinada em Chicago em 7 de dezembro de 1944, e conforme especificado no anexo III, subparte J, do Regulamento (CEE) n.º 3922/91 [([^7])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr7-L_2012181PT.01003001-E0007), ou em regulamentação internacional equivalente;\n\n(44) «Distância»: a distância ortodrómica entre o aeródromo de partida e o aeródromo de chegada, para além de um fator fixo de 95 km;\n\n(45) «Aeródromo de partida»: o aeródromo em que se inicia um voo que constitui uma atividade da aviação enumerada no anexo I da Diretiva 2003/87/CE;\n\n(46) «Aeródromo de chegada»: aeródromo em que termina um voo que constitui uma atividade da aviação enumerada no anexo I da Diretiva 2003/87/CE;\n\n(47) «Carga útil»: massa total da carga, correio, passageiros e bagagem transportados a bordo da aeronave durante um voo;\n\n(48) «Emissões fugitivas»: emissões irregulares ou não intencionais de fontes não localizadas ou demasiado diversas ou pequenas para serem monitorizadas individualmente;\n\n(49) «Par de aeródromos»: par constituído pelo aeródromo de partida e pelo aeródromo de chegada;\n\n(50) «Condições normalizadas»: uma temperatura de 273,15 K e uma pressão de 101 325 Pa, definindo metros cúbicos normais (Nm^3^);\n\n(51) «Captura de CO2»: a atividade de captura nos fluxos gasosos de dióxido de carbono (CO2) que, de outro modo, seria emitido, para fins de transporte e armazenamento geológico num local de armazenamento autorizado ao abrigo da Diretiva 2009/31/CE;\n\n(52) «Transporte de CO2»: o transporte de CO2 por condutas para armazenamento geológico num local de armazenamento autorizado ao abrigo da Diretiva 2009/31/CE;\n\n(53) «Emissões de desgasagem»: emissões libertadas deliberadamente da instalação através da criação de um ponto de emissão definido;\n\n(54) «Recuperação melhorada de hidrocarbonetos»: recuperação suplementar de hidrocarbonetos para além da produzida naturalmente por injeção de água ou por outros meios;\n\n(55) «Valores de substituição»: valores anuais empiricamente fundamentados ou derivados de fontes aceites, que o operador utiliza para substituir os dados da atividade ou os fatores de cálculo, a fim de assegurar a comunicação de dados completos quando a metodologia de monitorização aplicável não permite gerar todos os dados da atividade ou fatores de cálculo requeridos.\n\nAlém disso, são aplicáveis ao presente regulamento as definições de «voo» e «aeródromo» estabelecidas no anexo da Decisão 2009/450/CE e as definições estabelecidas no artigo 3.º, n.^os^ 1, 2, 3, 5, 6 e 22, da Diretiva 2009/31/CE."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "3d920684eb8ab519": {
+   "fragment_id": "Princípios gerais",
+   "type": "divisao",
+   "heading": "Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Princípios gerais"
+  },
+  "8d82e46a736e67bf": {
+   "fragment_id": "Artigo 4.º — Obrigação geral",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigação geral\n\nOs operadores de instalações e os operadores de aeronave devem cumprir as suas obrigações em matéria de monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa nos termos da Diretiva 2003/87/CE em conformidade com os princípios estabelecidos nos artigos 5.º a 9.º."
+  },
+  "1f0eb0e3dffa11ee": {
+   "fragment_id": "Artigo 5.º — Exaustividade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exaustividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exaustividade\n\nA monitorização e a comunicação de informações devem ser exaustivas e abranger a totalidade das emissões de processo e de combustão de todas as fontes de emissão e de fluxos-fonte pertencentes às atividades enumeradas no anexo I da Diretiva 2003/87/CE e a outras atividades pertinentes abrangidas nos termos do artigo 24.º dessa Diretiva, bem como todos os gases com efeito de estufa especificados em relação a essas atividades, evitando a dupla contagem.\n\nOs operadores de instalações e operadores de aeronave devem aplicar medidas adequadas para evitar lacunas de dados durante o período de informação."
+  },
+  "df2363850020dc84": {
+   "fragment_id": "Artigo 6.º — Coerência, comparabilidade e transparência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Coerência, comparabilidade e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coerência, comparabilidade e transparência\n\n1. A monitorização e a comunicação de informações devem ser coerentes e comparáveis ao longo do tempo. Para tal, os operadores de instalações e os operadores de aeronave devem usar as mesmas metodologias de monitorização e conjuntos de dados sujeitos a alterações e derrogações aprovadas pela autoridade competente.\n\n2. Os operadores de instalações e os operadores de aeronave devem obter, registar, compilar, analisar e documentar os dados relativos à monitorização, incluindo pressupostos, referências, dados da atividade, fatores de emissão, fatores de oxidação e fatores de conversão, de uma forma transparente que permita ao verificador e à autoridade competente reproduzir a determinação das emissões."
+  },
+  "7837f27bf778dc1e": {
+   "fragment_id": "Artigo 7.º — Exatidão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Exatidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exatidão\n\nOs operadores de instalações e os operadores de aeronave devem assegurar que a determinação das emissões não seja, de forma sistemática ou consciente, inexata.\n\nDevem identificar e reduzir, na medida do possível, qualquer fonte de imprecisões.\n\nDevem exercer a devida diligência para assegurar que os cálculos e as medições das emissões sejam tão rigorosos quanto possível."
+  },
+  "81d2da0ff0495049": {
+   "fragment_id": "Artigo 8.º — Integridade da metodologia",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Integridade da metodologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Integridade da metodologia\n\nO operador de instalação ou operador de aeronave deve permitir estabelecer, com uma segurança razoável, a integridade das emissões a comunicar. Deve determinar as emissões com recurso às metodologias de monitorização adequadas estabelecidas no presente regulamento.\n\nA comunicação das emissões e os documentos conexos não devem conter inexatidões materiais, devem evitar imprecisões na seleção e na apresentação das informações e conter informações credíveis e equilibradas sobre as emissões de uma instalação ou de um operador de aeronave.\n\nNa seleção de uma metodologia de monitorização, as melhorias obtidas graças a um grau mais elevado de exatidão devem ser ponderadas face aos custos adicionais. A monitorização e a comunicação de informações sobre as emissões devem ser tão rigorosas quanto possível, a não ser que tal seja tecnicamente inviável ou implique custos excessivos."
+  },
+  "87bd23553ee8286a": {
+   "fragment_id": "Artigo 9.º — Melhoria contínua",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Melhoria contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Melhoria contínua\n\nOs operadores de instalações e operadores de aeronave devem ter em conta as recomendações incluídas nos relatórios de verificação emitidos nos termos do artigo 15.º da Diretiva 2003/87/CE nos seus futuros exercícios de monitorização e comunicação."
+  },
+  "bd628126d14bb769": {
+   "fragment_id": "Artigo 10.º — Coordenação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coordenação\n\nSe um Estado-Membro designar mais de uma autoridade competente nos termos do artigo 18.º da Diretiva 2003/87/CE, deve coordenar o trabalho efetuado por essas autoridades ao abrigo do presente regulamento."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "867504af85483613": {
+   "fragment_id": "PLANO DE MONITORIZAÇÃO",
+   "type": "divisao",
+   "heading": "PLANO DE MONITORIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PLANO DE MONITORIZAÇÃO"
+  },
+  "d6e1f01825eda6d1": {
+   "fragment_id": "Regras gerais",
+   "type": "divisao",
+   "heading": "Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras gerais"
+  },
+  "1965ce16cdaec1f6": {
+   "fragment_id": "Artigo 11.º — Obrigação geral",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Obrigação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigação geral\n\n1. Cada operador de instalação ou operador de aeronave deve monitorizar as emissões de gases com efeito de estufa com base num plano de monitorização aprovado pela autoridade competente em conformidade com o artigo 12.º, tendo em conta a natureza e o funcionamento da instalação ou da atividade da aviação a que se aplica.\n\nO plano de monitorização deve ser complementado por procedimentos escritos que o operador de instalação ou operador de aeronave estabelece, documenta, aplica e mantém para as atividades previstas no plano de monitorização, conforme adequado.\n\n2. A metodologia de monitorização a que se refere o n.º 1 deve incluir instruções para o operador de instalação e o operador de aeronave de forma lógica e simples, evitando a duplicação de esforços e tendo em conta os sistemas existentes na instalação ou utilizados pelo operador de instalação ou operador de aeronave."
+  },
+  "4a4be040a519c22d": {
+   "fragment_id": "Artigo 12.º — Conteúdo e transmissão do plano de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Conteúdo e transmissão do plano de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo e transmissão do plano de monitorização\n\n1. O operador de instalação ou operador de aeronave deve apresentar um plano de monitorização à autoridade competente para aprovação.\n\nO plano de monitorização deve ser constituído por documentação pormenorizada, completa e transparente da metodologia de monitorização de uma dada instalação ou operador de aeronave e conter, pelo menos, os elementos descritos no anexo I.\n\nJuntamente com o plano de monitorização, o operador de instalação ou operador de aeronave deve apresentar os seguintes documentos comprovativos:\n\na) Provas para cada fluxo-fonte e fonte de emissões que demonstrem a conformidade com os limiares de incerteza para os dados da atividade e elementos de cálculo, quando aplicável, relativamente aos níveis definidos no anexo II e no anexo III;\n\nb) Os resultados de uma avaliação dos riscos que provem que as atividades de controlo propostas e os procedimentos que lhes são aplicáveis são consentâneos com os riscos inerentes e os riscos de controlo identificados.\n\n2. Sempre que o anexo I contenha uma referência a um procedimento, tal procedimento deve ser estabelecido, documentado, aplicado e mantido pelo operador de instalação ou operador de aeronave separadamente do plano de monitorização.\n\nO operador de instalação ou operador de aeronave deve resumir os procedimentos no plano de monitorização, fornecendo as seguintes informações:\n\na) O título do procedimento;\n\nb) Uma referência rastreável e verificável para a identificação do procedimento;\n\nc) A identificação do posto ou departamento responsável pela aplicação do procedimento e pelos dados gerados ou geridos pelo procedimento;\n\nd) Uma descrição sucinta do procedimento, que permita ao operador de instalação ou operador de aeronave, à autoridade competente e ao verificador compreender os parâmetros essenciais e as operações realizadas;\n\ne) O local dos registos e informações pertinentes;\n\nf) O nome do sistema informático utilizado, se aplicável;\n\ng) Uma lista de normas EN ou outras normas aplicadas, se relevante.\n\nO operador de instalação ou operador de aeronave deve facultar à autoridade competente, mediante pedido, a documentação escrita dos procedimentos. Deve também facultá-la para efeitos de verificação nos termos do Regulamento (UE) n.º 600/2012 da Comissão [([^8])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr8-L_2012181PT.01003001-E0008).\n\n3. Para além dos elementos referidos nos n.^os^ 1 e 2 do presente artigo, os Estados-Membros podem exigir que sejam incluídos no plano de monitorização das instalações outros elementos a fim de satisfazer os requisitos do artigo 24.º, n.º 1, da Decisão 2011/278/UE da Comissão [([^9])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr9-L_2012181PT.01003001-E0009), de 27 de abril de 2011, sobre a determinação das regras transitórias da União relativas à atribuição harmonizada de licenças de emissão a título gratuito nos termos do artigo 10.º-A da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, incluindo o resumo de um procedimento destinado a assegurar que:\n\na) O operador verifica regularmente se as informações relativas às alterações previstas ou efetivas à capacidade, ao nível de atividade e ao funcionamento de uma instalação são pertinentes nos termos dessa decisão, e\n\nb) As informações referidas na alínea a) são transmitidas pelo operador à autoridade competente até 31 de dezembro de cada ano."
+  },
+  "6c71a9a4fee8001c": {
+   "fragment_id": "Artigo 13.º — Planos de monitorização normalizados e simplificados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Planos de monitorização normalizados e simplificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Planos de monitorização normalizados e simplificados\n\n1. Os Estados-Membros podem autorizar os operadores de instalações e operadores de aeronave a utilizar planos de monitorização normalizados ou simplificados, sem prejuízo do disposto no artigo 12.º, n.º 3.\n\nPara esse efeito, os Estados-Membros podem publicar modelos do plano de monitorização, incluindo a descrição do fluxo de dados e dos procedimentos de controlo a que se referem os artigos 57.º e 58.º, com base nos modelos e orientações publicados pela Comissão.\n\n2. Antes da aprovação de um plano de monitorização simplificado a que se refere o n.º 1, a autoridade competente deve efetuar uma avaliação dos riscos simplificada para verificar se as atividades de controlo propostas e os procedimentos que lhes são aplicáveis são consentâneos com os riscos inerentes e os riscos de controlo identificados, e justificar a utilização de tal plano de monitorização simplificado.\n\nOs Estados-Membros podem exigir que, sempre que adequado, o operador de instalação ou operador de aeronave efetue a avaliação dos riscos em conformidade com o parágrafo anterior."
+  },
+  "25a3e8f57baaf974": {
+   "fragment_id": "Artigo 14.º — Alterações ao plano de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Alterações ao plano de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações ao plano de monitorização\n\n1. Cada operador de instalação ou operador de aeronave deve verificar regularmente se o plano de monitorização reflete a natureza e o funcionamento da instalação ou da atividade da aviação em conformidade com o artigo 7.º da Diretiva 2003/87/CE, e se a metodologia de monitorização pode ser melhorada.\n\n2. O operador de instalação ou operador de aeronave deve alterar o plano de monitorização se surgir uma das seguintes situações:\n\na) Ocorrência de novas emissões em resultado de novas atividades ou da utilização de novos combustíveis ou materiais que ainda não constavam do plano de monitorização;\n\nb) Alteração da disponibilidade dos dados, devido à utilização de novos tipos de instrumentos de medição, métodos de amostragem ou métodos de análise, ou por outras razões, que conduza a um maior rigor na determinação de emissões;\n\nc) Os dados resultantes da metodologia de monitorização anteriormente aplicada terem sido considerados incorretos;\n\nd) A alteração do plano de monitorização melhorar a exatidão dos dados notificados, exceto se tal não for tecnicamente viável ou implicar custos excessivos;\n\ne) O plano de monitorização não cumprir os requisitos do presente regulamento e a autoridade competente solicitar ao operador de instalação ou operador de aeronave que o altere;\n\nf) Necessidade de dar resposta às sugestões de melhoria do plano de monitorização contidas num relatório de verificação."
+  },
+  "9478594ce446ddf6": {
+   "fragment_id": "Artigo 15.º — Aprovação de alterações ao plano de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Aprovação de alterações ao plano de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aprovação de alterações ao plano de monitorização\n\n1. O operador de instalação ou operador de aeronave deve notificar, sem demora injustificada, à autoridade competente quaisquer propostas de alteração do plano de monitorização.\n\nNo entanto, a autoridade competente pode autorizar o operador de instalação ou operador de aeronave a notificar, até 31 de dezembro do mesmo ano, as alterações ao plano de monitorização que não sejam significativas na aceção do n.º 3.\n\n2. As alterações ao plano de monitorização que sejam significativas na aceção dos n.^os^ 3 e 4 são sujeitas à aprovação da autoridade competente.\n\nCaso a autoridade competente considere que uma alteração não é significativa, deve informar sem demora o operador de instalação ou operador de aeronave desse facto.\n\n3. Entre as alterações significativas ao plano de monitorização de uma instalação figuram, nomeadamente:\n\na) Alterações da categoria da instalação;\n\nb) Sem prejuízo do disposto no artigo 47.º, n.º 8, as alterações que impliquem que a instalação seja ou não considerada uma instalação com um baixo nível de emissões;\n\nc) Alterações das fontes de emissão;\n\nd) Substituição das metodologias baseadas no cálculo por metodologias baseadas na medição, ou vice-versa, na determinação das emissões;\n\ne) Alteração do nível aplicado;\n\nf) Introdução de novos fluxos-fonte;\n\ng) Mudança na classificação dos fluxos-fonte - entre fluxos-fonte «principais», «menores» ou «de minimis»;\n\nh) Mudança do valor por defeito para um fator de cálculo, se o valor tiver de ser estabelecido no plano de monitorização;\n\ni) Introdução de novos procedimentos relativos à amostragem, à análise ou à calibração, se as alterações a esses procedimentos tiverem impacto direto na exatidão dos dados relativos às emissões;\n\nj) Aplicação ou adaptação de uma abordagem de quantificação das emissões decorrentes de fugas em locais de armazenamento.\n\n4. Entre as alterações significativas dos planos de monitorização de um operador de aeronave figuram, nomeadamente:\n\na) No que respeita ao plano de monitorização das emissões: i) uma mudança de nível relacionada com o consumo de combustível, ii) uma alteração dos valores dos fatores de emissão estabelecidos no plano de monitorização, iii) uma mudança entre métodos de cálculo, tal como estabelecidos no anexo III, iv) a introdução de novos fluxos-fonte, v) uma mudança na classificação dos fluxos-fonte que implique a passagem de um fluxo-fonte menor a fluxo-fonte principal, vi) alterações no estatuto do operador de aeronave enquanto pequeno emissor na aceção do artigo 54.º, n.º 1.\n\ni) uma mudança de nível relacionada com o consumo de combustível,\n\nii) uma alteração dos valores dos fatores de emissão estabelecidos no plano de monitorização,\n\niii) uma mudança entre métodos de cálculo, tal como estabelecidos no anexo III,\n\niv) a introdução de novos fluxos-fonte,\n\nv) uma mudança na classificação dos fluxos-fonte que implique a passagem de um fluxo-fonte menor a fluxo-fonte principal,\n\nvi) alterações no estatuto do operador de aeronave enquanto pequeno emissor na aceção do artigo 54.º, n.º 1.\n\nb) No que respeita ao plano de monitorização dos dados relativos às toneladas-quilómetro: i) uma mudança de estatuto entre não comercial e comercial, do serviço de transporte aéreo prestado, ii) uma alteração do objeto dos serviços de transporte aéreo entre passageiros, carga ou correio.\n\ni) uma mudança de estatuto entre não comercial e comercial, do serviço de transporte aéreo prestado,\n\nii) uma alteração do objeto dos serviços de transporte aéreo entre passageiros, carga ou correio."
+  },
+  "6223e07aa48af7dc": {
+   "fragment_id": "Artigo 16.º — Aplicação e manutenção de registo de alterações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Aplicação e manutenção de registo de alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aplicação e manutenção de registo de alterações\n\n1. Antes de receber a aprovação ou informação em conformidade com o artigo 15.º, n.º 2, o operador de instalação ou operador de aeronave pode efetuar a monitorização e a comunicação utilizando o plano de monitorização alterado sempre que possa razoavelmente presumir que as alterações propostas não são significativas, ou sempre que a monitorização em conformidade com o plano de monitorização original possa conduzir a dados de emissões incompletos.\n\nEm caso de dúvida, o operador de instalação ou operador de aeronave deve efetuar toda a monitorização e comunicação, bem como os documentos provisórios, em paralelo, utilizando tanto o plano de monitorização alterado como o plano de monitorização original.\n\n2. Depois de receber a aprovação ou informação em conformidade com o artigo 15.º, n.º 2, o operador de instalação ou operador de aeronave deve utilizar apenas os dados relativos ao plano de monitorização alterado e efetuar toda a monitorização e comunicação de informações utilizando apenas o plano de monitorização alterado.\n\n3. O operador de instalação ou operador de aeronave deve conservar registos de todas as alterações ao plano de monitorização. Em cada registo, é necessário especificar:\n\na) Uma descrição transparente da alteração;\n\nb) Uma justificação da alteração;\n\nc) A data de notificação da alteração à autoridade competente;\n\nd) A data da emissão, pela autoridade competente, do aviso de receção da notificação referida no artigo 15.º, n.º 1, quando disponível, e a data da aprovação ou informação em conformidade com o artigo 15.º, n.º 2;\n\ne) A data de início da aplicação do plano de monitorização alterado em conformidade com o n.º 2 do presente artigo."
+  },
+  "9a5137d13aaefdc4": {
+   "fragment_id": "Viabilidade técnica e custos excessivos",
+   "type": "divisao",
+   "heading": "Viabilidade técnica e custos excessivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Viabilidade técnica e custos excessivos"
+  },
+  "c7a3fa9a07a4b909": {
+   "fragment_id": "Artigo 17.º — Viabilidade técnica",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Viabilidade técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Viabilidade técnica\n\nSempre que um operador de instalação ou operador de aeronave alegue que a aplicação de uma dada metodologia de monitorização não é tecnicamente viável, a autoridade competente deve avaliar a viabilidade técnica tendo em conta a justificação submetida pelo operador de instalação ou operador de aeronave. Tal justificação deve ser baseada no facto de o operador de instalação ou operador de aeronave dispor dos recursos técnicos para satisfazer as necessidades de um sistema ou requisito proposto, que possam ser aplicados no prazo necessário para efeitos do presente regulamento. Esses recursos técnicos incluem a disponibilidade das necessárias técnicas e tecnologias."
+  },
+  "87cb9e5325836cd5": {
+   "fragment_id": "Artigo 18.º — Custos excessivos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Custos excessivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Custos excessivos\n\n1. Sempre que um operador de instalação ou operador de aeronave alegue que a aplicação de uma dada metodologia de monitorização implica custos excessivos, a autoridade competente deve avaliar a natureza excessiva dos custos tendo em conta a justificação do operador.\n\nA autoridade competente deve considerar que os custos são excessivos se a estimativa dos custos for superior ao benefício. Para o efeito, o benefício é calculado multiplicando um fator de melhoria por um preço de referência de 20 EUR por licença e os custos devem incluir um período de amortização adequado, baseado na duração de vida económica do equipamento.\n\n2. Ao avaliar a natureza excessiva dos custos no que respeita à escolha dos níveis para os dados da atividade, a autoridade competente deve utilizar como fator de melhoria referido no n.º 1 a diferença entre a incerteza atualmente obtida e o limiar de incerteza do nível que seria obtido por essa melhoria, multiplicada pelas emissões médias anuais causadas por esse fluxo-fonte nos três anos mais recentes.\n\nNa ausência da média anual de emissões causadas por esse fluxo-fonte durante os três anos mais recentes, o operador de instalação ou operador de aeronave deve fornecer uma estimativa prudente da média anual de emissões, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido. No caso dos instrumentos de medição sob controlo metrológico legal nacional, a incerteza atualmente obtida pode ser substituída pelo erro máximo admissível em serviço, permitido pela legislação nacional pertinente.\n\n3. Ao avaliar a natureza excessiva dos custos no que respeita às medidas que aumentam a qualidade das emissões notificadas, mas que não têm impacto direto na exatidão dos dados da atividade, a autoridade competente deve utilizar um fator de melhoria que corresponda a 1 % das emissões médias anuais dos respetivos fluxos-fonte nos três períodos de informação mais recentes. Essas medidas podem incluir:\n\na) A substituição dos valores por defeito nas análises para a determinação dos fatores de cálculo;\n\nb) Um aumento do número de análises por fluxo-fonte;\n\nc) Caso a função de medição específica não esteja abrangida pelo controlo metrológico legal nacional, a substituição dos instrumentos de medição por outros que cumpram os requisitos relevantes do controlo metrológico legal do Estado-Membro em utilizações semelhantes, ou por instrumentos de medição conformes com as regras nacionais adotadas nos termos da Diretiva 2004/22/CE ou da Diretiva 2009/23/CE do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr10-L_2012181PT.01003001-E0010);\n\nd) A redução dos intervalos de calibração e a manutenção dos instrumentos de medição;\n\ne) Melhorias das atividades de fluxo de dados e de controlo, reduzindo significativamente o risco inerente ou o risco de controlo.\n\n4. As medidas relativas à melhoria da metodologia de monitorização de uma instalação em conformidade com o artigo 69.º não devem ser consideradas como implicando custos excessivos até um montante acumulado de 2 000 EUR por período de informação. No caso das instalações com um baixo nível de emissões, este limiar é de 500 EUR por período de informação."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "1009e28236b18c29": {
+   "fragment_id": "MONITORIZAÇÃO DAS EMISSÕES DE INSTALAÇÕES FIXAS",
+   "type": "divisao",
+   "heading": "MONITORIZAÇÃO DAS EMISSÕES DE INSTALAÇÕES FIXAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONITORIZAÇÃO DAS EMISSÕES DE INSTALAÇÕES FIXAS"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "61f9dd5a22faeff4": {
+   "fragment_id": "Artigo 19.º — Classificação das instalações e fluxos-fonte",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Classificação das instalações e fluxos-fonte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Classificação das instalações e fluxos-fonte\n\n1. Cada operador deve determinar a categoria da sua instalação nos termos do n.º 2 e, se relevante, de cada fluxo-fonte nos termos do n.º 3, para efeitos de monitorização das emissões e determinação dos requisitos mínimos para os níveis.\n\n2. O operador deve classificar cada instalação numa das seguintes categorias:\n\na) Instalação da categoria A, se as emissões médias anuais verificadas do período de comércio de emissões imediatamente anterior ao atual período de comércio, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido, forem iguais ou inferiores a 50 000 toneladas de CO2(e);\n\nb) Instalação da categoria B, se as emissões médias anuais verificadas do período de comércio de emissões imediatamente anterior ao atual período de comércio, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido, forem superiores a 50 000 toneladas de CO2(e) e iguais ou inferiores a 500 000 toneladas de CO2(e);\n\nc) Instalação da categoria C, se as emissões médias anuais verificadas do período de comércio de emissões imediatamente anterior ao atual período de comércio, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido, forem superiores a 500 000 toneladas de CO2(e).\n\n3. O operador deve classificar cada fluxo-fonte, comparando-o com a soma de todos os valores absolutos de CO2 fóssil e de CO2(e) correspondentes a todos os fluxos-fonte incluídos nas metodologias baseadas no cálculo e de todas as emissões provenientes das fontes de emissão monitorizadas através de metodologias baseadas na medição, antes da subtração do CO2 transferido, numa das seguintes categorias:\n\na) «Fluxos-fonte menores», em que os fluxos-fonte selecionados pelo operador correspondem, em conjunto, a menos de 5 000 toneladas de CO2 fóssil por ano, ou a menos de 10 %, até uma contribuição total máxima de 100 000 toneladas de CO2 fóssil por ano, consoante o que for mais elevado em termos de valor absoluto;\n\nb) «Fluxos-fonte *de minimis*», em que os fluxos-fonte selecionados pelo operador correspondem, em conjunto, a menos de 1 000 toneladas de CO2 fóssil por ano, ou a menos de 2 %, até uma contribuição total máxima de 20 000 toneladas de CO2 fóssil por ano, consoante o que for mais elevado em termos de valor absoluto;\n\nc) «Fluxos-fonte principais», sempre que os fluxos-fonte não correspondem a uma das categorias referidas nas alíneas a) e b).\n\n4. Se não estiverem disponíveis para a instalação, ou não forem exatas, as emissões médias anuais verificadas do período de comércio de emissões imediatamente anterior ao atual período de comércio, o operador deve utilizar, para determinar a categoria da instalação, uma estimativa prudente das emissões médias anuais, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido."
+  },
+  "2e82b01116728ae9": {
+   "fragment_id": "Artigo 20.º — Fronteiras de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Fronteiras de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fronteiras de monitorização\n\n1. O operador deve definir as fronteiras de monitorização de cada instalação.\n\nDentro dessas fronteiras, o operador deve incluir todas as emissões de gases com efeito de estufa relevantes a partir de todas as fontes de emissão e de todos os fluxos-fonte pertencentes às atividades realizadas na instalação e enumeradas no anexo I da Diretiva 2003/87/CE, bem como das atividades e gases com efeito de estufa incluídos por um Estado-Membro nos termos do artigo 24.º da Diretiva 2003/87/CE.\n\nO operador deve igualmente incluir as emissões de operações normais e de ocorrências anormais, incluindo o início e o termo das emissões, bem como as situações de emergência registadas durante o período de informação, com exceção das emissões de máquinas móveis para transporte.\n\n2. Ao definir o processo de monitorização e comunicação de informações, o operador deve incluir os requisitos específicos do setor estabelecidos no anexo IV.\n\n3. Se forem detetadas fugas de um complexo de armazenamento na aceção da Diretiva 2009/31/CE, que resultem em emissões ou na libertação de CO2 para a coluna de água, essas fugas devem ser consideradas como fontes de emissão da respetiva instalação e monitorizadas em conformidade com o ponto 23 do anexo IV do presente regulamento.\n\nA autoridade competente pode permitir a exclusão de uma fonte de emissões por fuga do processo de monitorização e comunicação de informações quando tiverem sido tomadas medidas corretivas nos termos do artigo 16.º da Diretiva 2009/31/CE e as emissões ou a libertação para a coluna de água dessa fuga já não puderem ser detetadas."
+  },
+  "0ab8df9fb792bff5": {
+   "fragment_id": "Artigo 21.º — Escolha da metodologia de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Escolha da metodologia de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Escolha da metodologia de monitorização\n\n1. Para a monitorização das emissões de uma instalação, o operador deve optar por aplicar uma metodologia baseada no cálculo ou uma metodologia baseada na medição, sob reserva das disposições específicas do presente regulamento.\n\nA metodologia baseada no cálculo consiste em determinar as emissões de fluxos-fonte com base em dados da atividade obtidos por meio de sistemas de medição e em parâmetros adicionais obtidos a partir de análises laboratoriais ou de valores por defeito. A metodologia baseada no cálculo pode ser aplicada com a metodologia normalizada estabelecida no artigo 24.º, ou a metodologia do balanço de massas estabelecida no artigo 25.º.\n\nA metodologia baseada na medição consiste em determinar as emissões das fontes de emissão por meio de medições contínuas da concentração dos gases com efeito de estufa relevantes no gás de combustão e do fluxo do gás de combustão, incluindo a monitorização das transferências de CO2 entre instalações onde a concentração de CO2 e o fluxo do gás transferido são medidos.\n\nCaso seja aplicada a metodologia baseada no cálculo, o operador deve definir no plano de monitorização, para cada fluxo-fonte, se é utilizada a metodologia normalizada ou a metodologia do balanço de massas, incluindo os níveis pertinentes em conformidade com o anexo II.\n\n2. Com a aprovação da autoridade competente, o operador pode combinar a metodologia normalizada, a metodologia de balanço de massas e a metodologia baseada na medição para as diversas fontes de emissão e fluxos-fonte pertencentes a uma instalação, desde que não se verifiquem lacunas nem dupla contagem das emissões.\n\n3. Se o operador não escolher uma metodologia baseada na medição, deve escolher a metodologia exigida no ponto pertinente do anexo IV, exceto se provar às autoridades competentes que a utilização desta metodologia não é tecnicamente viável ou implica custos excessivos, ou ainda que outra metodologia permite uma maior exatidão global dos dados relativos às emissões."
+  },
+  "a5ce7e8cca2a6ac2": {
+   "fragment_id": "Artigo 22.º — Metodologia de monitorização não baseada em níveis",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Metodologia de monitorização não baseada em níveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Metodologia de monitorização não baseada em níveis\n\nEm derrogação ao artigo 21.º, n.º 1, o operador pode utilizar uma metodologia de monitorização que não seja baseada em níveis (a seguir denominada «a metodologia de recurso») para fluxos-fonte ou fontes das emissões selecionados, desde que sejam respeitadas todas as condições seguintes:\n\na) A aplicação de, pelo menos, o nível 1 no âmbito da metodologia baseada no cálculo para um ou mais fluxos-fonte principais ou fluxos-fonte menores, e de uma metodologia baseada na medição para, pelo menos, uma fonte de emissão relacionada com os mesmos fluxos-fonte não é tecnicamente viável, ou implicaria custos excessivos;\n\nb) O operador avalia e quantifica anualmente as incertezas de todos os parâmetros utilizados na determinação das emissões anuais em conformidade com o Guia ISO para a Expressão da Incerteza na Medição (JCGM 100:2008), ou outra norma equivalente aceite internacionalmente, e inclui os resultados no relatório anual sobre as emissões;\n\nc) O operador demonstra a contento da autoridade competente que, ao aplicar essa metodologia de monitorização de recurso, os limiares de incerteza globais para o nível anual das emissões de gases com efeito de estufa de toda a instalação não excedem 7,5 % para as instalações da categoria A, 5,0 % para as instalações da categoria B e 2,5 % para as instalações da categoria C."
+  },
+  "c257ebd1aa41960d": {
+   "fragment_id": "Artigo 23.º — Alterações temporárias ao plano de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Alterações temporárias ao plano de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alterações temporárias ao plano de monitorização\n\n1. Se, por razões de ordem técnica, for temporariamente inviável aplicar o nível previsto no plano de monitorização para os dados da atividade ou para cada fator de cálculo de um fluxo de combustíveis ou materiais aprovado pela autoridade competente, o operador em causa deve aplicar o nível mais elevado possível até estarem restabelecidas as condições para a utilização do nível aprovado constante do plano de monitorização.\n\nO operador deve tomar todas as medidas necessárias com vista ao rápido restabelecimento das condições necessárias à aplicação do nível previsto no plano de monitorização aprovado pela autoridade competente.\n\n2. O operador em causa deve notificar à autoridade competente as alterações temporárias à metodologia de monitorização referidas no n.º 1, sem atrasos indevidos, especificando:\n\na) As razões do desvio em relação ao nível;\n\nb) Em pormenor, a metodologia de monitorização provisória que o operador utiliza para determinar as emissões até estarem restabelecidas as condições para a utilização do nível previsto no plano de monitorização;\n\nc) As medidas que o operador está a tomar para restabelecer as condições para a utilização do nível previsto no plano de monitorização aprovado pela autoridade competente;\n\nd) A data em que a utilização do nível aprovado pela autoridade competente será previsivelmente retomada."
+  },
+  "e99e429c1361b682": {
+   "fragment_id": "Metodologia baseada no cálculo",
+   "type": "divisao",
+   "heading": "Metodologia baseada no cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Metodologia baseada no cálculo"
+  },
+  "bc6a099189239022": {
+   "fragment_id": "Subsecção 1",
+   "type": "divisao",
+   "heading": "Subsecção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção 1"
+  },
+  "bfec8846743d87ae": {
+   "fragment_id": "Artigo 24.º — Cálculo das emissões no âmbito da metodologia normalizada",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Cálculo das emissões no âmbito da metodologia normalizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cálculo das emissões no âmbito da metodologia normalizada\n\n1. No âmbito da metodologia normalizada, o operador calcula as emissões de combustão por fluxo-fonte multiplicando os dados da atividade relativos à quantidade de combustível queimado, expressa em terajoules com base no poder calorífico inferior (PCI), pelo fator de emissão correspondente, expresso em toneladas de CO2 por terajoule (t CO2/TJ), de modo coerente com a utilização do PCI, e pelo fator de oxidação correspondente.\n\nA autoridade competente pode autorizar a utilização de fatores de emissão para combustíveis, expressos em t CO2/t ou t CO2/Nm^3^. Nesse caso, o operador determina as emissões de combustão multiplicando os dados da atividade relativos à quantidade de combustível queimado, expressa em toneladas ou em metros cúbicos normais, pelo fator de emissão correspondente e pelo fator de oxidação correspondente.\n\n2. O operador determina as emissões de processo por fluxo-fonte multiplicando os dados da atividade relativos ao consumo, rendimento ou produção de material, expressos em toneladas ou metros cúbicos normais, pelo fator de emissão correspondente, expresso em t CO2/t ou t CO2/Nm^3^, e pelo fator de conversão correspondente.\n\n3. Caso um fator de emissão de nível 1 ou nível 2 já inclua o efeito das reações químicas incompletas, o fator de oxidação ou o fator de conversão é 1."
+  },
+  "10c10d26a2964596": {
+   "fragment_id": "Artigo 25.º — Cálculo das emissões no âmbito da metodologia de balanço de massas",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Cálculo das emissões no âmbito da metodologia de balanço de massas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cálculo das emissões no âmbito da metodologia de balanço de massas\n\n1. No âmbito da metodologia de balanço de massas, o operador calcula a quantidade de CO2 correspondente a cada fluxo-fonte incluído no balanço de massas multiplicando os dados da atividade relativos à quantidade de material que entra ou sai das fronteiras do balanço de massas pelo teor de carbono do material multiplicado por 3 664 t CO2/t C, aplicando o ponto 3 do anexo II.\n\n2. Sem prejuízo do disposto no artigo 49.º, as emissões do processo total abrangido pelo balanço de massas são a soma das quantidades de CO2 correspondentes a todos os fluxos-fonte abrangidos pelo balanço de massas. O CO emitido para a atmosfera é calculado no balanço de massas como a emissão da quantidade molar equivalente de CO2."
+  },
+  "0064edac59192d1c": {
+   "fragment_id": "Artigo 26.º — Níveis aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Níveis aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Níveis aplicáveis\n\n1. Ao definir os níveis pertinentes em conformidade com o artigo 21.º, n.º 1, para determinar os dados da atividade e cada fator de cálculo, cada operador deve aplicar os seguintes níveis:\n\na) Pelo menos os níveis indicados no anexo V, caso a instalação seja da categoria A ou caso seja exigido um fator de cálculo para um fluxo-fonte que é um combustível comercial normalizado;\n\nb) Nos casos diferentes dos referidos na alínea a), o nível mais elevado definido no anexo II.\n\nContudo, o operador pode aplicar um nível imediatamente inferior ao exigido nos termos do primeiro parágrafo para as instalações da categoria C, e até dois níveis abaixo para as instalações das categorias A e B, com um nível mínimo de 1, se demonstrar, a contento da autoridade competente, que o nível exigido nos termos do primeiro parágrafo não é tecnicamente viável ou implica custos excessivos.\n\nA autoridade competente pode autorizar, durante um período de transição máximo de três anos, que um operador aplique níveis inferiores aos referidos no segundo parágrafo, com um nível mínimo de 1, desde que sejam cumpridas as seguintes condições:\n\na) O operador demonstra, a contento da autoridade competente, que o nível exigido em aplicação do segundo parágrafo não é tecnicamente viável ou implica custos excessivos;\n\nb) O operador apresenta um plano de melhoria em que indica de que modo e até que data será atingido, pelo menos, o nível exigido nos termos do segundo parágrafo.\n\n2. Para os dados da atividade e para cada fator de cálculo de fluxos-fonte menores, o operador deve aplicar o nível mais elevado que é tecnicamente viável e que não implica custos excessivos, com um nível mínimo de 1.\n\n3. Para os dados da atividade e para cada fator de cálculo de fluxos-fonte *de minimis*, o operador pode determinar os dados da atividade e cada fator de cálculo utilizando estimativas prudentes em vez dos níveis, a menos que seja possível atingir um determinado nível sem esforço adicional.\n\n4. Para o fator de oxidação e o fator de conversão, o operador deve aplicar, pelo menos, os níveis mais baixos indicados no anexo II.\n\n5. Se a autoridade competente tiver autorizado a utilização de fatores de emissão expressos em t CO2/t ou t CO2/Nm^3^ para os combustíveis, bem como para os combustíveis entrados no processo ou utilizados nos balanços de massas em conformidade com o artigo 25.º, o poder calorífico inferior pode ser monitorizado utilizando níveis inferiores ao nível mais elevado definido no anexo II."
+  },
+  "9bf10f109cd25b36": {
+   "fragment_id": "Subsecção 2",
+   "type": "divisao",
+   "heading": "Subsecção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção 2"
+  },
+  "a16767e8661ca083": {
+   "fragment_id": "Dados da atividade",
+   "type": "divisao",
+   "heading": "Dados da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Dados da atividade"
+  },
+  "05fd430eeadb81ad": {
+   "fragment_id": "Artigo 27.º — Determinação dos dados da atividade",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Determinação dos dados da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Determinação dos dados da atividade\n\n1. O operador deve determinar os dados da atividade de um fluxo-fonte de uma das seguintes formas:\n\na) Com base na medição contínua do processo que origina as emissões;\n\nb) Com base na agregação das medições das quantidades obtidas separadamente, tomando em consideração as alterações relevantes das existências.\n\n2. Para efeitos do n.º 1, alínea b), a quantidade de combustível ou de material transformado durante o período de informação é calculada como a quantidade de combustível ou de material adquirido durante esse período, menos a quantidade de combustível ou de material exportado da instalação, mais as existências de combustível ou de material no início do período de informação, menos as existências de combustível ou de material no fim do período de informação.\n\nCaso a determinação das existências por medição direta não seja tecnicamente viável ou implique custos excessivos, o operador pode estimar essas quantidades por um dos seguintes processos:\n\na) Dados relativos a anos anteriores e correlacionados com a produção obtida durante o período de informação;\n\nb) Métodos documentados e respetivos dados em demonstrações financeiras auditadas relativas ao período de informação.\n\nCaso a determinação dos dados da atividade relativos a todo o ano civil não seja tecnicamente viável ou implique custos excessivos, o operador pode escolher o seguinte dia mais adequado para separar um ano de comunicação de informações do ano seguinte, e proceder à conciliação de acordo com o ano civil requerido. Os desvios no que respeita a um ou mais fluxos-fonte devem ser claramente registados, constituir a base de um valor representativo para o ano civil e ser tidos em conta de forma coerente em relação ao ano seguinte."
+  },
+  "8cd61588f86922f6": {
+   "fragment_id": "Artigo 28.º — Sistemas de medição sob o controlo do operador",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Sistemas de medição sob o controlo do operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sistemas de medição sob o controlo do operador\n\n1. Para determinar os dados da atividade em conformidade com o artigo 27.º, o operador deve utilizar os resultados de medição com base em sistemas de medição sob o seu próprio controlo na instalação, desde que sejam respeitadas as seguintes condições:\n\na) O operador deve efetuar uma avaliação da incerteza e assegurar o cumprimento do limiar de incerteza do nível pertinente;\n\nb) O operador deve assegurar que, pelo menos uma vez por ano, e após cada calibração dos instrumentos de medição, os resultados da calibração, multiplicados por um fator de ajustamento prudente baseado numa série temporal adequada de calibrações anteriores desses ou de instrumentos de medição semelhantes a fim de ter em conta o efeito da incerteza em serviço, são comparados com os limiares de incerteza pertinentes.\n\nCaso os limiares dos níveis aprovados em conformidade com o artigo 12.º sejam excedidos ou se verifique que o equipamento não cumpre outros requisitos, o operador deve tomar medidas corretivas, sem demora injustificada, e notificá-las à autoridade competente.\n\n2. O operador deve fornecer à autoridade competente a avaliação da incerteza a que se refere o n.º 1, alínea a), quando notificar um novo plano de monitorização ou quando tal for pertinente para uma alteração do plano de monitorização aprovado.\n\nA avaliação da incerteza deve incluir a incerteza especificada para os instrumentos de medição aplicados, a incerteza associada à calibração e qualquer outra incerteza relacionada com a utilização efetiva dos instrumentos de medição. A incerteza relacionada com alterações das existências deve ser incluída na avaliação da incerteza se as instalações de armazenamento puderem conter, pelo menos, 5 % da quantidade anual utilizada do combustível ou material considerado. Ao efetuar a avaliação, o operador deve ter em conta que os valores declarados utilizados para definir os limiares de incerteza dos níveis no anexo II se referem à incerteza ao longo de todo o período de informação.\n\nDesde que os instrumentos de medição estejam instalados num ambiente adequado para as suas especificações de utilização, o operador pode simplificar a avaliação da incerteza mediante o pressuposto de que os erros máximos admissíveis especificados para o instrumento de medição em serviço, ou, caso seja inferior, a incerteza obtida pela multiplicação da calibração por um fator de ajustamento prudente a fim de ter em conta o efeito da incerteza em serviço, devem ser considerados como a incerteza durante todo o período de informação tal como exigido nas definições dos níveis no anexo II.\n\n3. Não obstante o disposto no n.º 2, a autoridade competente pode autorizar o operador a utilizar os resultados das medições baseados nos sistemas de medição sob o seu próprio controlo na instalação, se o operador provar que os instrumentos de medição aplicados estão sujeitos ao devido controlo metrológico legal nacional.\n\nPara o efeito, o erro máximo admissível em serviço permitido pela legislação nacional em matéria de controlo metrológico legal para a função de medição em causa pode ser utilizado como valor da incerteza sem apresentação de outras provas."
+  },
+  "6c5a02605d051f3e": {
+   "fragment_id": "Artigo 29.º — Sistemas de medição não controlados pelo operador",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Sistemas de medição não controlados pelo operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Sistemas de medição não controlados pelo operador\n\n1. Sempre que, com base numa avaliação da incerteza simplificada, a utilização de sistemas de medição não controlados pelo operador, em comparação com a utilização dos sistemas sob o seu controlo nos termos do artigo 28.º, permite ao operador cumprir o nível mais elevado, produz resultados mais fiáveis e está menos sujeita aos riscos de controlo, o operador deve determinar os dados da atividade a partir dos sistemas de medição que não controla.\n\nPara o efeito, o operador pode utilizar uma das seguintes fontes de dados:\n\na) Os montantes das faturas emitidas por um parceiro comercial, desde que se realize uma transação comercial entre dois parceiros comerciais independentes;\n\nb) Leituras diretas efetuadas nesses sistemas de medição.\n\n2. O operador deve garantir a conformidade com o nível aplicável nos termos do artigo 26.º.\n\nPara o efeito, o erro máximo admissível em serviço permitido pela legislação nacional em matéria de controlo metrológico legal para a função de medição em causa pode ser utilizado como valor da incerteza sem apresentação de outras provas.\n\nQuando os requisitos aplicáveis ao abrigo do controlo metrológico legal nacional são menos rigorosos do que o nível aplicável nos termos do artigo 26.º, o operador deve obter provas sobre a incerteza aplicável junto do parceiro comercial responsável pelo sistema de medição."
+  },
+  "a94855df6057b881": {
+   "fragment_id": "Subsecção 3",
+   "type": "divisao",
+   "heading": "Subsecção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção 3"
+  },
+  "8f7cf10c0a28f1ad": {
+   "fragment_id": "Fatores de cálculo",
+   "type": "divisao",
+   "heading": "Fatores de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Fatores de cálculo"
+  },
+  "c25d1da00316900d": {
+   "fragment_id": "Artigo 30.º — Determinação dos fatores de cálculo",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Determinação dos fatores de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Determinação dos fatores de cálculo\n\n1. O operador deve determinar os fatores de cálculo como valores por defeito ou como valores baseados em análise, em função do nível aplicável.\n\n2. O operador deve determinar e comunicar os fatores de cálculo de forma coerente com o estado utilizado para os dados da atividade conexos, referindo o estado em que o combustível ou o material é adquirido ou utilizado no processo causador das emissões, antes de ser desidratado ou submetido a outro tratamento para análise laboratorial.\n\nSe tal abordagem implicar custos excessivos, ou se for possível obter maior rigor, o operador pode comunicar de forma coerente os dados da atividade e os fatores de cálculo referindo o estado em que as análises laboratoriais são realizadas."
+  },
+  "e09525709945d996": {
+   "fragment_id": "Artigo 31.º — Valores por defeito para os fatores de cálculo",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Valores por defeito para os fatores de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Valores por defeito para os fatores de cálculo\n\n1. Se o operador determinar os fatores de cálculo como valores por defeito, deve, em conformidade com o requisito do nível aplicável, estabelecido nos anexos II e VI, utilizar um dos seguintes valores:\n\na) Os fatores normalizados e os fatores estequiométricos enumerados no anexo VI;\n\nb) Os fatores normalizados utilizados pelo Estado-Membro no seu inventário nacional apresentado ao Secretariado da Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas;\n\nc) Os valores referidos na literatura acordados com a autoridade competente, incluindo os fatores normalizados publicados por esta última, que sejam compatíveis com os fatores mencionados na alínea b), mas que sejam representativos de fluxos-fonte de combustível mais desagregados;\n\nd) Os valores especificados e garantidos pelo fornecedor de um material, se o operador puder demonstrar a contento da autoridade competente que o teor de carbono apresenta um intervalo de confiança a 95 % não superior a 1 %;\n\ne) Os valores baseados em análises realizadas no passado, se o operador puder demonstrar a contento da autoridade competente que estes valores são representativos dos futuros lotes do mesmo material.\n\n2. O operador deve especificar todos os valores por defeito utilizados no plano de monitorização.\n\nQuando os valores por defeito são alterados anualmente, o operador deve especificar a fonte autorizada aplicável desse valor no plano de monitorização.\n\n3. A autoridade competente só pode aprovar uma alteração dos valores por defeito para um fator de cálculo no plano de monitorização em conformidade com o artigo 15.º, n.º 2, se o operador apresentar prova de que os novos valores por defeito permitem uma determinação mais exata das emissões.\n\n4. A pedido do operador, a autoridade competente pode autorizar que o poder calorífico inferior e os fatores de emissão dos combustíveis sejam determinados utilizando os mesmos níveis exigidos para os combustíveis comerciais normalizados, desde que o operador apresente, pelo menos de três em três anos, prova de que foi cumprido nos três últimos anos o intervalo de 1 % para o poder calorífico especificado."
+  },
+  "be47f1ef78af35f8": {
+   "fragment_id": "Artigo 32.º — Fatores de cálculo baseados em análises",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Fatores de cálculo baseados em análises",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Fatores de cálculo baseados em análises\n\n1. O operador deve assegurar que as análises, a amostragem, as calibrações e as validações relevantes para a determinação dos fatores de cálculo sejam realizadas mediante a aplicação de métodos baseados nas normas EN correspondentes.\n\nSe tais normas não estiverem disponíveis, os métodos devem basear-se em normas ISO ou normas nacionais adequadas. Se não existirem normas publicadas aplicáveis, devem ser utilizados projetos de norma adequados, orientações de melhores práticas da indústria ou outras metodologias cientificamente comprovadas, que limitem as distorções na amostragem e na medição.\n\n2. Caso se utilizem cromatógrafos de gás em linha ou analisadores de gás, com ou sem extração, na determinação de emissões, o operador deve obter a aprovação da autoridade competente para a utilização desses equipamentos. Estes só devem ser utilizados no que respeita aos dados da composição dos combustíveis e materiais gasosos. A título de medidas mínimas de garantia da qualidade, o operador deve assegurar a realização de uma validação inicial e de validações repetidas anualmente desse instrumento.\n\n3. O resultado de qualquer análise deve ser utilizado exclusivamente para o período de entrega ou o lote de combustível ou material de que foram colhidas amostras, e de que as amostras foram consideradas representativas.\n\nPara a determinação de um parâmetro específico, o operador deve utilizar os resultados de todas as análises efetuadas no que respeita a esse parâmetro."
+  },
+  "655746e1de32586d": {
+   "fragment_id": "Artigo 33.º — Plano de amostragem",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Plano de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Plano de amostragem\n\n1. Se os fatores de cálculo forem determinados por análises, o operador deve apresentar à autoridade competente para aprovação, relativamente a cada combustível ou material, um plano de amostragem sob a forma de um procedimento escrito que inclua informações sobre as metodologias de preparação das amostras, nomeadamente, informações sobre as responsabilidades, os locais, as frequências e as quantidades, e metodologias de armazenamento e transporte das amostras.\n\nO operador deve assegurar que os valores obtidos são representativos do lote ou do período de entrega relevantes e que não estão distorcidos. Os elementos relevantes do plano de amostragem devem ser acordados com o laboratório incumbido da análise do respetivo combustível ou material e devem incluir-se provas desse acordo no plano. O operador deve facultar o plano para efeitos de verificação nos termos do Regulamento (UE) n.º 600/2012.\n\n2. Com o acordo do laboratório incumbido da análise do respetivo combustível ou material e sob reserva da aprovação da autoridade competente, o operador deve adaptar os elementos do plano de amostragem se os resultados analíticos indicarem que a heterogeneidade do combustível ou do material difere significativamente das informações relativas à heterogeneidade em que se baseava o plano de amostragem inicial relativo a esse combustível ou material específico."
+  },
+  "290db72ae4a8039a": {
+   "fragment_id": "Artigo 34.º — Utilização de laboratórios",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Utilização de laboratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Utilização de laboratórios\n\n1. O operador deve assegurar que os laboratórios utilizados para efetuar análises para a determinação dos fatores de cálculo são acreditados em conformidade com a norma EN ISO/IEC 17025 para os métodos analíticos pertinentes.\n\n2. Os laboratórios não acreditados em conformidade com a norma EN ISO/IEC 17025 só podem ser utilizados para a determinação dos fatores de cálculo se o operador puder demonstrar, a contento da autoridade competente, que o acesso aos laboratórios referidos no n.º 1 não é tecnicamente viável ou implicaria custos excessivos e que o laboratório não acreditado cumpre requisitos equivalentes à norma EN ISO/IEC 17025.\n\n3. A autoridade competente considera que um laboratório cumpre os requisitos equivalentes à norma EN ISO/IEC 17025, na aceção do n.º 2, se o operador fornecer, na medida do possível, sob a mesma forma e a um nível de pormenor semelhante ao exigido para os procedimentos nos termos do artigo 12.º, n.º 2, provas em conformidade com o segundo e terceiro parágrafos do presente número.\n\nNo que respeita à gestão da qualidade, o operador deve apresentar uma certificação acreditada do laboratório em conformidade com a norma EN ISO/IEC 9001, ou outros sistemas de gestão da qualidade certificados que abranjam o laboratório. Na ausência desses sistemas de gestão da qualidade certificados, o operador deve fornecer outras provas adequadas de que o laboratório é capaz de gerir o seu pessoal, os seus procedimentos, documentos e funções de modo fiável.\n\nNo que respeita à competência técnica, o operador deve apresentar provas de que o laboratório é competente e capaz de gerar resultados tecnicamente válidos utilizando os processos analíticos relevantes. Essas provas devem incluir, pelo menos, os seguintes elementos:\n\na) Gestão da competência do pessoal para as funções específicas atribuídas;\n\nb) Adequação das condições de alojamento e ambientais;\n\nc) Seleção dos métodos analíticos e das normas relevantes;\n\nd) Quando aplicável, gestão da amostragem e da preparação das amostras, incluindo o controlo da integridade das amostras;\n\ne) Quando relevante, desenvolvimento e validação de novos métodos analíticos ou aplicação de métodos não abrangidos por normas internacionais ou nacionais;\n\nf) Estimativa da incerteza;\n\ng) Gestão do equipamento, incluindo os procedimentos de calibração, ajustamento, manutenção e reparação do mesmo, e conservação dos respetivos registos;\n\nh) Gestão e controlo dos dados, documentos e *software*;\n\ni) Gestão dos elementos de calibração e dos materiais de referência;\n\nj) Garantia da qualidade dos resultados da calibração e dos ensaios, designadamente através da participação regular em testes de proficiência, da aplicação de métodos analíticos a materiais de referência certificados ou da intercomparação com um laboratório acreditado;\n\nk) Gestão dos processos externalizados;\n\nl) Gestão das missões e das reclamações dos clientes e adoção de medidas corretivas atempadas."
+  },
+  "9a779be8af4cf583": {
+   "fragment_id": "Artigo 35.º — Frequência das análises",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Frequência das análises",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Frequência das análises\n\n1. O operador deve aplicar as frequências mínimas de análise aos combustíveis e materiais relevantes enumerados no anexo VII. O anexo VII é revisto regularmente e, pela primeira vez, não mais de 2 anos a contar da data de entrada em vigor do presente regulamento.\n\n2. A autoridade competente pode autorizar o operador a utilizar uma frequência diferente da referida no n.º 1 se não estiverem disponíveis frequências mínimas ou se o operador demonstrar que:\n\na) Com base nos dados históricos, designadamente nos valores analíticos para os respetivos combustíveis ou materiais no período de informação imediatamente anterior ao período atual, a variação nos valores analíticos para o respetivo combustível ou material não é superior a 1/3 do valor da incerteza que o operador tem de respeitar em relação à determinação dos dados da atividade do combustível ou material em causa;\n\nb) Com a frequência exigida, incorreria em custos excessivos."
+  },
+  "7d030ee45c591bd2": {
+   "fragment_id": "Subsecção 4",
+   "type": "divisao",
+   "heading": "Subsecção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção 4"
+  },
+  "17ca1931e09fd61e": {
+   "fragment_id": "fatores de cálculo específicos",
+   "type": "divisao",
+   "heading": "fatores de cálculo específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### fatores de cálculo específicos"
+  },
+  "0638d1bbbb857ab7": {
+   "fragment_id": "Artigo 36.º — Fatores de emissão de CO2",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Fatores de emissão de CO2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Fatores de emissão de CO2\n\n1. O operador deve determinar os fatores de emissão específicos da atividade para as emissões de CO2.\n\n2. Os fatores de emissão dos combustíveis, incluindo combustíveis entrados no processo, devem ser expressos em t CO2/TJ.\n\nA autoridade competente pode autorizar o operador a utilizar um fator de emissão expresso em t CO2/t ou t CO2/Nm^3^ para as emissões de combustão se a utilização de um fator de emissão expresso em t CO2/TJ implicar custos excessivos ou se for possível calcular as emissões com uma exatidão pelo menos equivalente utilizando esse fator de emissão.\n\n3. Para a conversão do teor de carbono no valor respetivo de um fator de emissão relacionado com o CO2, ou vice-versa, o operador deve utilizar o fator 3 664 t CO2/t C."
+  },
+  "be0f9a80849c338c": {
+   "fragment_id": "Artigo 37.º — Fatores de oxidação e conversão",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Fatores de oxidação e conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Fatores de oxidação e conversão\n\n1. O operador deve utilizar, pelo menos, o nível 1 para determinar os fatores de oxidação ou de conversão. Deve utilizar um valor de 1 para o fator de oxidação ou de conversão se o fator de emissão incluir o efeito da oxidação ou conversão incompletas.\n\nContudo, a autoridade competente pode exigir que os operadores utilizem sempre o nível 1.\n\n2. Caso sejam utilizados na instalação vários combustíveis e se deva utilizar o nível 3 para o fator de oxidação específico, o operador pode solicitar a aprovação da autoridade competente para um dos seguintes fins, ou para ambos:\n\na) A determinação de um fator de oxidação agregado para o processo de combustão global e sua aplicação a todos os combustíveis;\n\nb) A atribuição da oxidação incompleta a um fluxo-fonte principal e a utilização de um valor de 1 para o fator de oxidação dos outros fluxos-fonte.\n\nCaso se utilize biomassa ou combustíveis mistos, o operador deve apresentar provas de que a aplicação do primeiro parágrafo, alínea a) ou b), não leva à subestimação das emissões."
+  },
+  "0fe08f49154a5ffe": {
+   "fragment_id": "Subsecção 5",
+   "type": "divisao",
+   "heading": "Subsecção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção 5"
+  },
+  "5d11f7c444b85b8d": {
+   "fragment_id": "Abordagem para a biomassa",
+   "type": "divisao",
+   "heading": "Abordagem para a biomassa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Abordagem para a biomassa"
+  },
+  "08dea42ac7078262": {
+   "fragment_id": "Artigo 38.º — Fluxos-fonte de biomassa",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Fluxos-fonte de biomassa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Fluxos-fonte de biomassa\n\n1. O operador pode determinar os dados da atividade de fluxos-fonte de biomassa sem utilizar níveis e sem fornecer provas analíticas relativas ao teor de biomassa, se esse fluxo-fonte for exclusivamente constituído por biomassa e o operador puder garantir que não está contaminado com outros materiais ou combustíveis.\n\n2. O fator de emissão da biomassa é igual a zero.\n\nO fator de emissão de um combustível ou material misto deve ser calculado e comunicado como o fator de emissão preliminar determinado nos termos do artigo 30.º, multiplicado pela fração fóssil do combustível ou material.\n\n3. A turfa, o xilitol e as frações fósseis dos combustíveis ou materiais mistos não devem ser considerados como biomassa.\n\n4. Caso a fração de biomassa dos combustíveis ou materiais mistos seja igual ou superior a 97 %, ou se devido à quantidade de emissões associadas à fração fóssil do combustível ou material ela puder ser classificada como fluxo-fonte *de minimis*, a autoridade competente pode autorizar o operador a aplicar metodologias sem níveis, incluindo, nomeadamente, o método do balanço energético, para determinar os dados da atividade e os fatores de cálculo relevantes, exceto se o respetivo valor se destinar a ser utilizado na subtração do CO2 derivado da biomassa das emissões determinadas por medição contínua."
+  },
+  "d797f8462ccf28b6": {
+   "fragment_id": "Artigo 39.º — Determinação da fração de biomassa e da fração fóssil",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Determinação da fração de biomassa e da fração fóssil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Determinação da fração de biomassa e da fração fóssil\n\n1. Se, sob reserva do nível exigido e da disponibilidade de valores por defeito adequados a que se refere o artigo 31.º, n.º 1, a fração de biomassa de um combustível ou material específico for determinada por meio de análises, o operador deve determinar essa fração de biomassa com base numa norma relevante e nos respetivos métodos analíticos, e só aplicar essa norma se for aprovada pela autoridade competente.\n\n2. Se a determinação da fração de biomassa de um combustível ou material misto mediante análise em conformidade com o n.º 1 não for tecnicamente viável ou implicar custos excessivos, o operador deve basear o seu cálculo nos fatores de emissão normalizados e valores da fração de biomassa para combustíveis e materiais mistos publicados pela Comissão.\n\nNa ausência de tais fatores e valores normalizados, o operador deve concluir pela ausência de fração de biomassa ou apresentar à autoridade competente, para aprovação, um método de estimativa para determinar a fração de biomassa. Para os combustíveis ou materiais gerados por um processo de produção com fluxos de entrada definidos e rastreáveis, o operador pode basear essa estimativa num balanço de massas de carbono fóssil e de biomassa entradas e saídas do processo.\n\n3. Em derrogação aos n.^os^ 1 e 2 e ao artigo 30.º, se tiver sido estabelecida a garantia de origem em conformidade com o artigo 2.º, alínea j), e com o artigo 15.º da Diretiva 2009/28/CE para o biogás injetado e subsequentemente removido de uma rede de gás, o operador não deve utilizar análises para a determinação da fração de biomassa."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "9577034d630cd9d8": {
+   "fragment_id": "Metodologia baseada na medição",
+   "type": "divisao",
+   "heading": "Metodologia baseada na medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Metodologia baseada na medição"
+  },
+  "c422eaeed6c84b5e": {
+   "fragment_id": "Artigo 40.º — Utilização da metodologia de monitorização baseada na medição",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Utilização da metodologia de monitorização baseada na medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Utilização da metodologia de monitorização baseada na medição\n\nO operador deve utilizar metodologias baseadas na medição para todas as emissões de óxido nitroso (N2O), tal como previsto no anexo IV, e para quantificar o CO2 transferido nos termos do artigo 49.º.\n\nAlém disso, o operador pode utilizar metodologias baseadas na medição para as fontes de emissão de CO2, se puder provar que, para cada fonte de emissão, são cumpridos os níveis exigidos nos termos do artigo 41.º."
+  },
+  "ddd98e65e2a87912": {
+   "fragment_id": "Artigo 41.º — Requisitos relativos aos níveis",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Requisitos relativos aos níveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Requisitos relativos aos níveis\n\n1. A cada fonte de emissão que emita mais de 5 000 toneladas de CO2(e) por ano, ou que contribua com mais de 10 % das emissões anuais totais da instalação, consoante o valor que for mais elevado em termos de emissões absolutas, o operador deve aplicar o nível mais elevado indicado no ponto 1 do anexo VIII. Em relação a todas as outras fontes de emissão, o operador deve aplicar, pelo menos, um nível inferior ao mais elevado.\n\n2. Só se o operador puder demonstrar a contento da autoridade competente que a utilização do nível exigido no n.º 1 não é tecnicamente viável ou implica custos excessivos, e que a aplicação de uma metodologia de cálculo que utilize os níveis exigidos pelo artigo 26.º não é tecnicamente viável ou implica custos excessivos, pode ser aplicado o nível mais baixo seguinte à fonte de emissões em causa, utilizando no mínimo o nível 1."
+  },
+  "1b1152bbbc5db55c": {
+   "fragment_id": "Artigo 42.º — Normas de medição e laboratórios",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Normas de medição e laboratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Normas de medição e laboratórios\n\n1. Todas as medições devem ser efetuadas com a aplicação de métodos baseados na norma EN 14181 «Stationary source emissions – Quality assurance of automated measuring systems», EN 15259 «Air quality – Measurement of stationary source emissions – Requirements for measurement sections and sites and for the measurement objective, plan and report» e outras normas EN correspondentes.\n\nSe tais normas não estiverem disponíveis, os métodos devem basear-se em normas ISO, normas publicadas pela Comissão ou normas nacionais adequadas. Se não existirem normas publicadas aplicáveis, devem ser utilizados projetos de norma adequados, orientações de melhores práticas da indústria ou outras metodologias cientificamente comprovadas, que limitem distorções na amostragem e na medição.\n\nO operador deve considerar todos os aspetos relevantes do sistema de medição contínua, nomeadamente a localização do equipamento, a calibração, a medição, a garantia da qualidade e o controlo da qualidade.\n\n2. O operador deve assegurar que os laboratórios que efetuam as medições, as calibrações e as avaliações dos equipamentos relevantes para os sistemas de medição contínua das emissões (CEMS) são acreditados em conformidade com a norma EN ISO/IEC 17025 para os métodos analíticos ou atividades de calibração relevantes.\n\nSe o laboratório não tiver essa acreditação, o operador deve assegurar que são respeitados requisitos equivalentes nos termos do artigo 34.º, n.^os^ 2 a 3."
+  },
+  "bf109a32f08cd4ce": {
+   "fragment_id": "Artigo 43.º — Determinação das emissões",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Determinação das emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Determinação das emissões\n\n1. O operador deve determinar as emissões anuais de uma fonte de emissão durante o período de informação somando todos os valores horários da concentração de gases com efeito de estufa medidos ao longo desse período, multiplicados pelos valores horários do fluxo dos gases de combustão, correspondendo os valores horários às médias de todos os resultados das medições individuais da hora de funcionamento respetiva.\n\nNo caso das emissões de CO2, o operador deve determinar as emissões anuais com base na equação 1 do anexo VIII. O CO emitido para a atmosfera será tratado como a quantidade molar equivalente de CO2.\n\nNo caso do óxido nitroso (N2O), o operador deve determinar as emissões anuais com base na equação apresentada no ponto 16, B.1, do anexo IV.\n\n2. Quando existirem diversas fontes de emissão numa instalação que não possam ser medidas como uma só fonte de emissões, o operador deve medir separadamente as emissões dessas fontes e adiciona os resultados a fim de obter as emissões totais do gás específico durante o período de informação.\n\n3. O operador deve determinar a concentração de gases com efeito de estufa no gás de combustão por medição contínua num ponto representativo por um dos seguintes meios:\n\na) Medição direta;\n\nb) No caso de uma concentração elevada no gás de combustão, cálculo da concentração através de uma medição indireta da concentração utilizando a equação 3 do anexo VIII e tendo em conta os valores de concentração medidos dos restantes componentes do fluxo de gás, tal como estabelecido no plano de monitorização do operador.\n\n4. Quando relevante, o operador deve determinar separadamente a quantidade de CO2 decorrente da biomassa, utilizando metodologias de monitorização baseadas no cálculo, e subtraí-la das emissões totais medidas de CO2.\n\n5. O operador deve determinar o fluxo de gás de combustão para o cálculo, em conformidade com o n.º 1, por um dos métodos seguintes:\n\na) Cálculo mediante um balanço de massas adequado, tomando em consideração todos os parâmetros significativos tanto do lado da entrada, incluindo, para as emissões de CO2, pelo menos, as cargas de materiais entrados, o fluxo de ar entrado e a eficiência do processo, como do lado da saída, incluindo, pelo menos, os produtos saídos e as concentrações de O2, SO2 e NOx;\n\nb) Determinação por medição contínua do fluxo num ponto representativo."
+  },
+  "6aef1b7e9716b49d": {
+   "fragment_id": "Artigo 44.º — Agregação de dados",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Agregação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Agregação de dados\n\n1. O operador deve calcular as médias horárias para cada parâmetro relevante, nomeadamente as concentrações e o fluxo dos gases de combustão, relevantes para determinar as emissões com uma metodologia baseada na medição, utilizando todos os pontos de medição disponíveis para essa hora específica.\n\nSe o operador conseguir gerar, sem custos adicionais, dados para períodos de referência mais curtos, deve utilizar esses períodos para a determinação das emissões anuais em conformidade com o artigo 43.º, n.º 1.\n\n2. Se o equipamento de medição contínua de um parâmetro estiver fora de controlo, fora da escala ou fora de serviço durante parte da hora ou do período de referência referido no n.º 1, o operador deve calcular a média horária correspondente proporcionalmente aos pontos de medição restantes dessa hora ou do período de referência mais curto, desde que estejam disponíveis, pelo menos, 80 % do número máximo de pontos de medição para um dado parâmetro. Aplica-se o artigo 45.º, n.^os^ 2 a 4, quando estiverem disponíveis menos de 80 % do número máximo de pontos de medição para um dado parâmetro."
+  },
+  "f9d71b63fb24cf59": {
+   "fragment_id": "Artigo 45.º — Informações omissas",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Informações omissas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Informações omissas\n\n1. Se uma peça do equipamento de medição pertencente ao sistema de monitorização contínua das emissões não estiver a funcionar por mais de cinco dias consecutivos de um ano civil, o operador deve informar sem demora injustificada a autoridade competente e propor medidas adequadas para melhorar a qualidade do sistema de monitorização contínua das emissões afetado.\n\n2. Se não for possível fornecer uma hora ou um período de referência mais curto de dados válidos em conformidade com o artigo 44.º, n.º 1, para um ou mais parâmetros da metodologia baseada na medição, pelo facto de o equipamento estar fora de controlo, fora da escala ou fora de serviço, o operador deve determinar valores de substituição para cada hora de dados em falta.\n\n3. Se não for possível fornecer uma hora ou um período de referência mais curto de dados válidos para um parâmetro medido diretamente sob a forma de concentração, o operador deve calcular um valor de substituição como a soma de uma concentração média com duas vezes o desvio-padrão associado a essa média, utilizando a equação 4 do anexo VIII.\n\nCaso o período de informação não seja aplicável para determinar esses valores de substituição devido a alterações técnicas significativas ocorridas na instalação, o operador deve acordar com a autoridade competente um período representativo para determinar a média e o desvio-padrão, se possível com a duração de um ano.\n\n4. Se não for possível apresentar uma hora de dados válida para outro parâmetro para além da concentração, o operador deve obter valores de substituição desse parâmetro através de um modelo adequado de balanço de massas ou de um balanço energético do processo. O operador deve validar os resultados utilizando os restantes parâmetros medidos da metodologia baseada na medição e os dados em condições de funcionamento normais, considerando um período com a mesma duração que a lacuna de dados."
+  },
+  "3ddad57e2000b17b": {
+   "fragment_id": "Artigo 46.º — Corroboração com cálculo das emissões",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Corroboração com cálculo das emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Corroboração com cálculo das emissões\n\nO operador deve corroborar as emissões determinadas por uma metodologia baseada na medição, com exceção das emissões de óxido nitroso (N2O) provenientes da produção de ácido nítrico e dos gases com efeito de estufa transferidos para uma rede de transporte ou um local de armazenamento, calculando as emissões anuais de cada gás com efeito de estufa considerado para as mesmas fontes de emissão e os mesmos fluxos-fonte.\n\nNão é exigida a utilização de metodologias de níveis."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "4053d6d7461b9b89": {
+   "fragment_id": "Disposições especiais",
+   "type": "divisao",
+   "heading": "Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições especiais"
+  },
+  "4f2ab7c41696303d": {
+   "fragment_id": "Artigo 47.º — Instalações com um baixo nível de emissões",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Instalações com um baixo nível de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Instalações com um baixo nível de emissões\n\n1. A autoridade competente pode autorizar o operador a apresentar um plano de monitorização simplificado em conformidade com o artigo 13.º, desde que este explore uma instalação com um baixo nível de emissões.\n\nO primeiro parágrafo não se aplica às instalações que executam atividades que incluem N2O nos termos do anexo I da Diretiva 2003/87/CE.\n\n2. Para efeitos da aplicação do primeiro parágrafo do n.º 1, uma instalação é considerada instalação com um baixo nível de emissões se cumprir, pelo menos, uma das seguintes condições:\n\na) Se as emissões médias anuais dessa instalação comunicadas nos relatórios de emissões verificadas durante o período de comércio de emissões imediatamente anterior ao atual período de comércio, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido, forem inferiores a 25 000 toneladas de CO2(e) por ano;\n\nb) Se as emissões médias anuais referidas na alínea a) não estiverem disponíveis ou já não forem aplicáveis devido a alterações nas fronteiras das instalações ou a alterações nas condições de funcionamento da instalação, mas as emissões anuais dessa instalação para os próximos cinco anos, excluindo o CO2 proveniente da biomassa e antes da subtração do CO2 transferido, forem previsivelmente, com base num método de estimativa prudente, inferiores a 25 000 toneladas de CO2(e) por ano.\n\n3. O operador de uma instalação com um baixo nível de emissões não é obrigado a apresentar os documentos comprovativos mencionados no terceiro parágrafo do artigo 12.º, n.º 1, e fica isento do requisito de comunicação das melhorias mencionado no artigo 69.º, n.º 4.\n\n4. Em derrogação ao disposto no artigo 27.º, o operador de uma instalação com um baixo nível de emissões pode determinar a quantidade de combustível ou de material utilizando os registos de compra disponíveis e documentados e a estimativa das alterações das existências. O operador fica também isento do requisito de fornecer à autoridade competente a avaliação da incerteza referida no artigo 28.º, n.º 2.\n\n5. O operador de uma instalação com um baixo nível de emissões fica isento do requisito do artigo 28.º, n.º 2, no que respeita à determinação dos dados relativos às existências no início e no fim do período de informação, se as instalações de armazenamento puderem conter, pelo menos, 5 % do combustível ou material consumido anualmente durante o período de informação, para que a incerteza relacionada com alterações das existências seja incluída na avaliação da incerteza.\n\n6. Em derrogação ao disposto no artigo 26.º, n.º 1, o operador de uma instalação com um baixo nível de emissões pode aplicar o nível 1 como nível mínimo para efeitos da determinação dos dados da atividade e dos fatores de cálculo em relação a todos os fluxos-fonte, exceto se for possível obter uma maior exatidão sem esforço adicional para o operador, sem ter de fornecer provas de que a aplicação de um nível mais elevado não é tecnicamente viável ou implica custos excessivos.\n\n7. Para efeitos da determinação dos fatores de cálculo com base em análises em conformidade com o artigo 32.º, o operador de uma instalação com um baixo nível de emissões pode utilizar qualquer laboratório que seja tecnicamente competente e capaz de gerar resultados tecnicamente válidos utilizando os procedimentos analíticos relevantes, e fornecer provas das medidas de garantia da qualidade referidas no artigo 34.º, n.º 3.\n\n8. Se uma instalação com um baixo nível de emissões, sujeita a monitorização simplificada, exceder o limiar referido no n.º 2 num dado ano civil, o seu operador deve notificar sem demora injustificada a autoridade competente deste facto.\n\nO operador deve apresentar, sem demora, à autoridade competente uma alteração significativa do plano de monitorização na aceção do artigo 15.º, n.º 3, alínea b), para aprovação.\n\nNo entanto, a autoridade competente autoriza o operador a continuar a efetuar a monitorização simplificada desde que este demonstre, a contento da autoridade competente, que o limiar referido no n.º 2 não foi já excedido nos últimos cinco períodos de informação e não será novamente excedido a partir do período de informação seguinte."
+  },
+  "69f37453e4ad75a3": {
+   "fragment_id": "Artigo 48.º — CO2 inerente",
+   "type": "artigo",
+   "heading": "Artigo 48.º — CO2 inerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — CO2 inerente\n\n1. O CO2 inerente que é transferido para uma instalação, nomeadamente o contido no gás natural ou num efluente gasoso como o gás de alto-forno ou o gás de coqueria, deve ser incluído no fator de emissão relativo a esse combustível.\n\n2. Se o CO2 inerente for proveniente de atividades abrangidas pelo anexo I da Diretiva 2003/87/CE ou incluídas nos termos do artigo 24.º dessa diretiva e for subsequentemente transferido da instalação, integrado num combustível, para outra instalação e atividade abrangida pela diretiva, não deve ser contabilizado como emissões da instalação de que provém.\n\nContudo, se for emitido, ou transferido dessa instalação para entidades não abrangidas pela Diretiva, deve ser contabilizado como emissões da instalação de que provém.\n\n3. Os operadores podem determinar as quantidades de CO2 inerente transferido para fora da instalação tanto na instalação de transferência como na instalação de receção. Nesse caso, as quantidades de CO2 inerente respetivamente transferidas e recebidas devem ser idênticas.\n\nSe as quantidades de CO2 inerente transferidas e recebidas não forem idênticas, nos relatórios sobre as emissões das instalações de transferência e de receção deve ser utilizada a média aritmética de ambos os valores medidos, desde que o desvio entre os valores possa ser explicado pelo grau de incerteza dos sistemas de medição. Nesse caso, o relatório sobre as emissões deve fazer referência ao alinhamento desse valor.\n\nSe o desvio entre os valores medidos não puder ser explicado pelo grau de incerteza aprovado dos sistemas de medição, os operadores das instalações de transferência e de receção devem alinhar os valores medidos aplicando ajustamentos prudentes aprovados pela autoridade competente."
+  },
+  "1129b937895898d1": {
+   "fragment_id": "Artigo 49.º — CO2 transferido",
+   "type": "artigo",
+   "heading": "Artigo 49.º — CO2 transferido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — CO2 transferido\n\n1. O operador deve subtrair das emissões da instalação qualquer quantidade de CO2 proveniente de carbono fóssil em atividades abrangidas pelo anexo I da Diretiva 2003/87/CE, que não seja emitida da instalação, mas sim transferida desta para um dos seguintes locais:\n\na) Uma instalação de captura de gases com efeito de estufa para fins de transporte e armazenamento geológico de longo prazo num local de armazenamento permitido ao abrigo da Diretiva 2009/31/CE;\n\nb) Uma rede de transporte para fins de transporte e armazenamento geológico de longo prazo num local de armazenamento permitido ao abrigo da Diretiva 2009/31/CE;\n\nc) Um local de armazenamento permitido ao abrigo da Diretiva 2009/31/CE, para fins de armazenamento geológico de longo prazo.\n\nPara quaisquer outras transferências de CO2 para fora de uma instalação, não é permitida a subtração de CO2 das emissões da instalação.\n\n2. O operador da instalação para fora da qual foi transferido o CO2 deve apresentar no seu relatório anual sobre emissões o código de identificação da instalação de receção reconhecido em conformidade com o Regulamento (UE) n.º 1193/2011, de 18 de novembro de 2011, que estabelece o Registo da União relativo ao período de comércio de emissões com início em 1 de janeiro de 2013, e a subsequentes períodos de comércio de emissões, do regime de comércio de licenças de emissão da União nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho e da Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho e que altera os Regulamentos (CE) n.º 2216/2004 e (UE) n.º 920/2010 [([^11])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr11-L_2012181PT.01003001-E0011).\n\nO primeiro parágrafo é igualmente aplicável à instalação de receção no que respeita ao código de identificação da instalação de transferência.\n\n3. Para a determinação da quantidade de CO2 transferido de uma instalação para outra, o operador deve aplicar uma metodologia baseada na medição, nomeadamente em conformidade com os artigos 43.º, 44.º e 45.º. A fonte de emissão deve corresponder ao ponto de medição e as emissões devem ser expressas como a quantidade de CO2 transferido.\n\n4. Para determinar a quantidade de CO2 transferido de uma instalação para outra, o operador deve aplicar o nível 4 conforme definido no ponto 1 do anexo VIII.\n\nContudo, o operador pode aplicar o nível imediatamente inferior se provar que a aplicação do nível 4 conforme definido no ponto 1 do anexo VIII não é tecnicamente viável ou implica custos excessivos.\n\n5. Os operadores podem determinar as quantidades de CO2 transferido para fora da instalação tanto na instalação de transferência como na instalação de receção. Aplica-se, nesse caso, o artigo 48.º, n.º 3."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "ae227a5f73b73319": {
+   "fragment_id": "MONITORIZAÇÃO DOS DADOS RELATIVOS ÀS EMISSÕES E ÀS TONELADAS-QUILÓMETRO DA AVIAÇÃO",
+   "type": "divisao",
+   "heading": "MONITORIZAÇÃO DOS DADOS RELATIVOS ÀS EMISSÕES E ÀS TONELADAS-QUILÓMETRO DA AVIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONITORIZAÇÃO DOS DADOS RELATIVOS ÀS EMISSÕES E ÀS TONELADAS-QUILÓMETRO DA AVIAÇÃO"
+  },
+  "72db75c17fd57f88": {
+   "fragment_id": "Artigo 50.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Disposições gerais\n\n1. Cada operador de aeronave deve monitorizar e comunicar as emissões resultantes das atividades da aviação relativas a todos os voos incluídos no anexo I da Diretiva 2003/87/CE que sejam efetuados por esse operador de aeronave durante o período de informação e pelos quais o operador de aeronave seja responsável.\n\nPara tal, todos os voos devem ser atribuídos pelo operador de aeronave ao ano civil de acordo com a hora da partida medida em termos de Tempo Universal Coordenado.\n\n2. O operador de aeronave que tencione pedir a atribuição de licenças de emissão a título gratuito nos termos dos artigos 3.º-E ou 3.º-F da Diretiva 2003/87/CE deve monitorizar os dados relativos às toneladas-quilómetro para os mesmos voos durante os anos de monitorização mencionados nesses artigos.\n\n3. Para efeitos da identificação do operador de aeronave único, definido no artigo 3.º, alínea o), da Diretiva 2003/87/CE, responsável por um voo, é utilizado o indicativo de chamada que serve para efeitos de controlo do tráfego aéreo. O indicativo de chamada deve ser um dos seguintes:\n\na) O código de identificação da ICAO, que consta da caixa 7 do plano de voo;\n\nb) Na ausência do código de identificação da ICAO do operador de aeronave, a matrícula da aeronave.\n\n4. Se a identidade do operador de aeronave não for conhecida, a autoridade competente deve considerar o proprietário da aeronave como operador da aeronave, a menos que prove quem foi o operador de aeronave responsável."
+  },
+  "85caa517c8ba8ff7": {
+   "fragment_id": "Artigo 51.º — Apresentação dos planos de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Apresentação dos planos de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Apresentação dos planos de monitorização\n\n1. O mais tardar quatro meses antes de um operador de aeronave iniciar atividades de aviação abrangidas pelo anexo I da Diretiva 2003/87/CE, deve apresentar à autoridade competente um plano de monitorização para a monitorização e a comunicação das emissões em conformidade com o artigo 12.º.\n\nEm derrogação ao parágrafo anterior, um operador de aeronave que execute uma atividade de aviação abrangida pelo anexo I da Diretiva 2003/87/CE pela primeira vez, que não foi possível prever quatro meses antes, deve apresentar um plano de monitorização à autoridade competente, sem demora injustificada, mas nunca mais de seis semanas após essa atividade. O operador de aeronave deve fornecer à autoridade competente uma justificação adequada para o facto de não ter sido possível apresentar o plano de monitorização quatro meses antes da atividade.\n\nSe o Estado-Membro responsável a que se refere o artigo 18.º-A da Diretiva 2003/87/CE não for previamente conhecido, o operador de aeronave deve apresentar sem demora injustificada o plano de monitorização quando a informação relativa à autoridade competente do Estado-Membro responsável ficar disponível.\n\n2. Se o operador de aeronave tencionar pedir a atribuição de licenças de emissão a título gratuito nos termos dos artigos 3.º-E ou 3.º-F da Diretiva 2003/87/CE, deve apresentar também um plano de monitorização para a monitorização e a comunicação dos dados relativos às toneladas-quilómetro. Esse plano de monitorização deve ser apresentado, o mais tardar, quatro meses antes do início de um dos seguintes anos:\n\na) O ano de monitorização mencionado no artigo 3.º-E, n.º 1, da Diretiva 2003/87/CE para os pedidos ao abrigo desse artigo;\n\nb) O segundo ano civil do período referido no artigo 3.º-C, n.º 2, da Diretiva 2003/87/CE para os pedidos ao abrigo do artigo 3.º-F da mesma Diretiva."
+  },
+  "544b3cfa1dd423c4": {
+   "fragment_id": "Artigo 52.º — Metodologia de monitorização para as emissões das atividades da aviação",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Metodologia de monitorização para as emissões das atividades da aviação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Metodologia de monitorização para as emissões das atividades da aviação\n\n1. Cada operador de aeronave deve determinar as emissões anuais de CO2 das atividades da aviação multiplicando o consumo anual de cada combustível expresso em toneladas pelo respetivo fator de emissão.\n\n2. Cada operador de aeronave deve determinar o consumo de combustível para cada voo e para cada combustível, incluindo o combustível consumido pela unidade auxiliar de potência. Para esse fim, o operador de aeronave deve utilizar um dos métodos estabelecidos no ponto 1 do anexo III. O operador de aeronave deve selecionar o método que permite obter dados mais completos e em tempo útil, combinados com o mínimo de incerteza e sem implicar custos excessivos.\n\n3. Cada operador de aeronave deve determinar o abastecimento de combustível referido no ponto 1 do anexo III com base num dos seguintes dados:\n\na) Medição efetuada pelo fornecedor de combustível, conforme documentado nas notas de entrega ou nas faturas de combustível respeitantes a cada voo;\n\nb) Dados dos sistemas de medição a bordo da aeronave registados na documentação sobre massa e centragem, na caderneta técnica da aeronave ou transmitidos, por via eletrónica, da aeronave para o operador de aeronave.\n\n4. O operador de aeronave determina o combustível contido no tanque utilizando os dados dos sistemas de medição a bordo da aeronave e registados na documentação sobre massa e centragem, na caderneta técnica da aeronave ou transmitidos por via eletrónica da aeronave para o operador de aeronave.\n\n5. Os operadores de aeronave devem aplicar o nível 2, conforme estabelecido no ponto 2 do anexo III.\n\nContudo, os operadores de aeronave com emissões médias anuais comunicadas ao longo do anterior período de comércio de emissões iguais ou inferiores a 50 000 toneladas de CO2 fóssil podem aplicar, como nível mínimo, o nível 1 conforme definido no ponto 2 do anexo III. Todos os operadores de aeronave podem aplicar, como nível mínimo, o nível 1 conforme definido no ponto 2 do anexo III para os fluxos-fonte que correspondam conjuntamente a menos de 5 000 toneladas anuais de CO2 fóssil ou menos de 10 %, até uma contribuição máxima de 100 000 toneladas anuais de CO2 fóssil, consoante o que for mais elevado em termos de valores absolutos. Se, para efeitos do presente parágrafo, as emissões comunicadas não estiverem disponíveis ou já não forem aplicáveis, o operador de aeronave pode utilizar uma estimativa ou projeção prudente para determinar a média anual de emissões.\n\n6. Se a quantidade correspondente ao abastecimento de combustível ou a quantidade de combustível que subsiste nos tanques for determinada em unidades de volume, expresso em litros, o operador de aeronave converte em massa o volume correspondente a essa quantidade, utilizando os valores da densidade real. O operador de aeronave determina a densidade real utilizando um dos seguintes meios:\n\na) Os sistemas de medição de bordo;\n\nb) A densidade real medida pelo fornecedor de combustível no momento do abastecimento e registada na fatura ou nota de entrega do combustível.\n\nA densidade real é expressa em kg/litro e determinada para a temperatura aplicável a uma medição específica.\n\nQuando não estão disponíveis valores da densidade real, aplica-se, com a aprovação da autoridade competente, um fator de densidade normalizado de 0,8 kg/litro.\n\n7. Para efeitos do cálculo referido no n.º 1, o operador de aeronave utiliza os fatores de emissão por defeito indicados no quadro 2 no anexo III.\n\nPara efeitos de informação, essa abordagem é considerada de nível 1. Para os combustíveis que não figurem nesse quadro, o operador de aeronave determina o fator de emissão em conformidade com o artigo 32.º, sendo essa abordagem considerada de nível 2. Para esses combustíveis, o poder calorífico inferior será determinado e comunicado para memória.\n\n8. Em derrogação ao disposto no n.º 7, o operador de aeronave pode, com a aprovação da autoridade competente, derivar o fator de emissão ou o teor de carbono em que este se baseia, ou o poder calorífico inferior para combustíveis transacionados comercialmente, a partir dos registos de aquisição do combustível em causa, facultados pelo fornecedor do combustível, desde que se baseiem em normas internacionais reconhecidas e que não possam ser aplicados os fatores de emissão indicados no quadro 2 do anexo III."
+  },
+  "fd0c18a08f935960": {
+   "fragment_id": "Artigo 53.º — Disposições específicas aplicáveis à biomassa",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Disposições específicas aplicáveis à biomassa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Disposições específicas aplicáveis à biomassa\n\nO artigo 39.º aplica-se à determinação da fração de biomassa de um combustível misto.\n\nSem prejuízo do artigo 39.º, n.º 2, a autoridade competente autoriza a utilização de uma metodologia uniformemente aplicável em todos os Estados-Membros para a determinação da fração de biomassa, conforme adequado.\n\nAo abrigo dessa metodologia, a fração de biomassa, o poder calorífico inferior e o fator de emissão ou teor de carbono do combustível utilizado numa atividade de aviação no âmbito do RCLE-UE enumerada no anexo I da Diretiva 2003/87/CE são determinados utilizando os registos de aquisição do combustível.\n\nA metodologia baseia-se nas orientações fornecidas pela Comissão para facilitar a sua aplicação coerente em todos os Estados-Membros.\n\nA utilização de biocombustíveis para a aviação é avaliada em conformidade com o artigo 18.º da Diretiva 2009/28/CE."
+  },
+  "a10b0cfbeb9ce338": {
+   "fragment_id": "Artigo 54.º — Pequenos emissores",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Pequenos emissores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Pequenos emissores\n\n1. Os operadores de aeronave que operam menos de 243 voos por período durante três períodos consecutivos de quatro meses e os operadores de aeronave que operam voos com emissões anuais totais inferiores a 25 000 toneladas de CO2 são considerados pequenos emissores.\n\n2. Em derrogação ao disposto no artigo 52.º, os pequenos emissores podem calcular o consumo de combustível recorrendo a instrumentos aplicados pelo Eurocontrol ou outro organismo competente, que permitam tratar todas as informações de tráfego aéreo pertinentes que correspondam àquelas de que dispõe o Eurocontrol e evitar qualquer subestimação das emissões.\n\nOs instrumentos aplicáveis só podem ser utilizados se aprovados pela Comissão, incluindo a aplicação de fatores de correção para compensar eventuais imprecisões nos métodos de modelação.\n\n3. Em derrogação ao artigo 12.º, um pequeno emissor que tencione utilizar um dos instrumentos referidos no n.º 2 do presente artigo pode apresentar no plano de monitorização das emissões apenas as seguintes informações:\n\na) As informações exigidas nos termos do ponto 2, n.º 1, do anexo I;\n\nb) Prova de que são respeitados os limiares definidos para os pequenos emissores no n.º 1 do presente artigo;\n\nc) O nome ou a referência do instrumento a que se refere o n.º 2 do presente artigo que será utilizado para a estimativa do consumo de combustível.\n\nUm pequeno emissor fica isento do requisito de apresentar os documentos comprovativos previstos no terceiro parágrafo do artigo 12.º, n.º 1.\n\n4. Se um operador de aeronave utilizar um dos instrumentos referidos no n.º 2 e exceder os limiares referidos no n.º 1 durante um ano de informação, deve comunicar este facto sem demora injustificada à autoridade competente.\n\nO operador de aeronave deve apresentar sem demora injustificada à autoridade competente, para aprovação, uma alteração significativa do plano de monitorização na aceção do artigo 15.º, n.º 4, alínea a), subalínea vi).\n\nNo entanto, a autoridade competente autoriza o operador de aeronave a continuar a utilizar um instrumento referido no n.º 2 desde que o operador de aeronave demonstre, a contento da autoridade competente, que os limiares referidos no n.º 1 não foram já excedidos nos últimos cinco períodos de informação e não serão novamente excedidos a partir do período de informação seguinte."
+  },
+  "d0c1d3c2d2964769": {
+   "fragment_id": "Artigo 55.º — Fontes de incerteza",
+   "type": "artigo",
+   "heading": "Artigo 55.º — Fontes de incerteza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Fontes de incerteza\n\n1. O operador de aeronave deve identificar as fontes de incerteza e os graus de incerteza que lhes estão associados. O operador de aeronave tem em conta essa informação ao selecionar a metodologia de monitorização nos termos do artigo 52.º, n.º 2.\n\n2. Caso o operador de aeronave determine os abastecimentos de combustível em conformidade com o artigo 52.º, n.º 3, alínea a), não é obrigado a fornecer outra prova do grau de incerteza associado.\n\n3. Caso sejam utilizados sistemas de bordo para a medição do abastecimento de combustível ou do combustível contido em tanques em conformidade com o artigo 52.º, n.º 3, alínea b), o grau de incerteza associado às medições do combustível será suportado por:\n\na) Especificações do fabricante da aeronave que determinam os graus de incerteza dos sistemas de medição do combustível de bordo; e\n\nb) Provas da realização de controlos de rotina do funcionamento satisfatório dos sistemas de medição de combustível.\n\n4. Em derrogação aos n.^os^ 2 e 3, o operador de aeronave pode basear as incertezas relacionadas com todos os restantes componentes da metodologia de monitorização no juízo prudente de um perito, tendo em conta o número previsto de voos durante o período de informação.\n\n5. O operador de aeronave deve efetuar periodicamente medidas de controlo adequadas, nomeadamente verificações cruzadas entre a quantidade de combustível correspondente ao abastecimento de combustível indicada nas faturas e a quantidade correspondente ao abastecimento de combustível indicada pela medição a bordo, e adotar medidas corretivas caso se verifiquem desvios assinaláveis."
+  },
+  "f060fc6bf1b8304c": {
+   "fragment_id": "Artigo 56.º — Determinação dos dados relativos às toneladas-quilómetro",
+   "type": "artigo",
+   "heading": "Artigo 56.º — Determinação dos dados relativos às toneladas-quilómetro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Determinação dos dados relativos às toneladas-quilómetro\n\n1. O operador de aeronave que tencione pedir a atribuição de licenças de emissão a título gratuito nos termos dos artigos 3.º-E ou 3.º-F da Diretiva 2003/87/CE, deve monitorizar os dados relativos às toneladas-quilómetro para todos os voos abrangidos pelo anexo I da Diretiva 2003/87/CE nos anos de monitorização relevantes para tais pedidos.\n\n2. O operador de aeronave deve calcular os dados relativos às toneladas-quilómetro mediante a multiplicação da distância, calculada em conformidade com o disposto no ponto 4 do anexo III e expressa em quilómetros (km), pela carga útil, calculada como a soma da massa da carga, do correio, dos passageiros e da bagagem controlada, expressa em toneladas (t).\n\n3. O operador de aeronave deve determinar a massa da carga e do correio com base na massa real ou normalizada que figura na documentação sobre massa e centragem para os voos pertinentes.\n\nOs operadores de aeronave que não sejam obrigados a possuir documentação sobre massa e centragem devem propor no plano de monitorização uma metodologia adequada para determinar a massa da carga e do correio, excluindo a tara de todas as paletes e contentores que não constituem carga útil, bem como a massa para serviço.\n\n4. O operador de aeronave deve determinar a massa dos passageiros utilizando um dos seguintes níveis:\n\na) Nível 1: um valor por defeito de 100 kg por passageiro e respetiva bagagem controlada;\n\nb) Nível 2: a massa dos passageiros e da bagagem controlada que figura na documentação sobre massa e centragem para cada voo.\n\nContudo, o nível selecionado aplica-se a todos os voos nos anos de monitorização relevantes para os pedidos nos termos dos artigos 3.º-E ou 3.º-F da Diretiva 2003/87/CE."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "b12c9ad2e380956d": {
+   "fragment_id": "GESTÃO E CONTROLO DOS DADOS",
+   "type": "divisao",
+   "heading": "GESTÃO E CONTROLO DOS DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GESTÃO E CONTROLO DOS DADOS"
+  },
+  "080255642444bd18": {
+   "fragment_id": "Artigo 57.º — Atividades de fluxo de dados",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Atividades de fluxo de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Atividades de fluxo de dados\n\n1. O operador de instalação ou operador de aeronave deve estabelecer, documentar, aplicar e manter procedimentos escritos relativos às atividades de fluxo de dados para fins de monitorização e comunicação de informações sobre as emissões de gases com efeito de estufa e assegurar que o relatório anual sobre as emissões resultantes das atividades de fluxo de dados não contém declarações inexatas e é conforme com o plano de monitorização, os procedimentos escritos e o presente regulamento.\n\nSe o operador de aeronave tencionar pedir a atribuição de licenças de emissão a título gratuito nos termos dos artigos 3.º-E ou 3.º-F da Diretiva 2003/87/CE, o primeiro parágrafo aplica-se também à monitorização e comunicação dos dados relativos às toneladas-quilómetro.\n\n2. As descrições dos procedimentos relativos às atividades de fluxo de dados no plano de monitorização devem abranger, pelo menos, os seguintes elementos:\n\na) As informações enumeradas no artigo 12.º, n.º 2;\n\nb) A identificação das fontes de dados primárias;\n\nc) Cada fase do fluxo de dados, desde os dados primários até aos dados anuais relativos às emissões ou às toneladas-quilómetro, refletindo a sequência e a interação entre as atividades de fluxo de dados;\n\nd) As fases de tratamento relevantes, relacionadas com cada atividade de fluxo de dados específica, incluindo as fórmulas e os dados utilizados para determinar as emissões ou os dados relativos às toneladas-quilómetro;\n\ne) Os sistemas relevantes de tratamento e armazenamento de dados eletrónicos utilizados, bem como a interação entre esses sistemas e outros contributos, incluindo a introdução manual;\n\nf) A forma como os resultados das atividades de fluxo de dados são registados."
+  },
+  "8d944ea0987a24ac": {
+   "fragment_id": "Artigo 58.º — Sistema de controlo",
+   "type": "artigo",
+   "heading": "Artigo 58.º — Sistema de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Sistema de controlo\n\n1. O operador de instalação ou operador de aeronave deve estabelecer, documentar, aplicar e manter um sistema de controlo eficaz para garantir que o relatório anual sobre as emissões e, se aplicável, o relatório relativo às toneladas-quilómetro resultantes das atividades de fluxo de dados, não contém declarações inexatas e é conforme com o plano de monitorização aprovado e o presente regulamento.\n\n2. O sistema de controlo referido no n.º 1 deve incluir:\n\na) A avaliação por um operador de instalação ou operador de aeronave dos riscos inerentes e dos riscos de controlo;\n\nb) Procedimentos escritos relativos às atividades de controlo destinadas a atenuar os riscos identificados.\n\n3. Os procedimentos escritos relativos às atividades de controlo referidas no n.º 2, alínea b), devem incluir, pelo menos:\n\na) A garantia da qualidade do equipamento de medição;\n\nb) A garantia da qualidade do sistema de tecnologias da informação utilizado nas atividades de fluxo de dados, incluindo tecnologias informáticas de controlo de processos;\n\nc) A separação de funções nas atividades de fluxo de dados e nas atividades de controlo, bem como a gestão das competências necessárias;\n\nd) Revisões internas e validação de dados;\n\ne) Correções e ações corretivas;\n\nf) O controlo dos processos externalizados;\n\ng) A conservação de registos e documentação, incluindo a gestão das versões dos documentos.\n\n4. O operador de instalação ou operador de aeronave deve monitorizar a eficácia do sistema de controlo, procedendo, nomeadamente, a revisões internas e tomando em conta as conclusões do verificador durante a verificação dos relatórios anuais sobre as emissões e, se aplicável, dos relatórios sobre os dados relativos às toneladas-quilómetro, efetuadas nos termos do Regulamento (UE) n.º 600/2012.\n\nSempre que se constate que o sistema de controlo é ineficaz ou desfasado dos riscos identificados, o operador de instalação ou operador de aeronave deve procurar melhorar o sistema de controlo e atualizar o plano de monitorização ou os procedimentos escritos subjacentes às atividades de fluxo de dados, às avaliações dos riscos e às atividades de controlo, consoante os casos."
+  },
+  "dc349de67080094d": {
+   "fragment_id": "Artigo 59.º — Garantia da qualidade",
+   "type": "artigo",
+   "heading": "Artigo 59.º — Garantia da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Garantia da qualidade\n\n1. Para efeitos do artigo 58.º, n.º 3, alínea a), o operador de instalação ou operador de aeronave deve certificar-se de que todo o equipamento de medição relevante é calibrado, ajustado e controlado regularmente, nomeadamente antes da sua utilização, e controlado de acordo com normas de medição baseadas em normas de medição internacionais, quando disponíveis, em conformidade com os requisitos do presente regulamento e proporcionalmente aos riscos identificados.\n\nCaso alguns componentes dos sistemas de medição não possam ser calibrados, o operador de instalação ou operador de aeronave deve identificá-los no plano de monitorização e propor ações de controlo alternativas.\n\nCaso se verifique que o equipamento não corresponde ao desempenho requerido, o operador de instalação ou operador de aeronave deve, de imediato, tomar as medidas de correção necessárias.\n\n2. No que respeita aos sistemas de medição contínua das emissões, o operador deve aplicar a garantia da qualidade nos termos da norma «Quality assurance of automated measuring systems» (EN 14181), incluindo medições em paralelo com os métodos de referência executadas pelo menos uma vez por ano por pessoal competente.\n\nSe as atividades de garantia da qualidade exigirem valores-limite de emissão (VLE) como parâmetros necessários para servirem de base às verificações da calibração e do desempenho, utiliza-se a média anual das concentrações horárias desse gás com efeito de estufa como valor de substituição para cada VLE. Se o operador detetar que não são cumpridos os requisitos de garantia da qualidade e que é necessário efetuar uma recalibração, deve comunicar esse facto à autoridade competente e adotar medidas de correção sem demora injustificada."
+  },
+  "e2a1f21ae26a80b4": {
+   "fragment_id": "Artigo 60.º — Garantia da qualidade das tecnologias da informação",
+   "type": "artigo",
+   "heading": "Artigo 60.º — Garantia da qualidade das tecnologias da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Garantia da qualidade das tecnologias da informação\n\nPara efeitos do artigo 58.º, n.º 3, alínea b), o operador de instalação ou operador de aeronave deve garantir que o sistema de tecnologia da informação é concebido, documentado, ensaiado, aplicado, controlado e mantido de forma a processar dados fiáveis, precisos e em tempo útil, em conformidade com os riscos identificados nos termos do artigo 58.º, n.º 2, alínea a).\n\nO controlo das tecnologias da informação deve incluir aspetos relativos ao controlo do acesso, controlo de cópias de segurança, recuperação, planeamento da continuidade e segurança."
+  },
+  "79fc2e69277fdcfe": {
+   "fragment_id": "Artigo 61.º — Separação de funções",
+   "type": "artigo",
+   "heading": "Artigo 61.º — Separação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Separação de funções\n\nPara efeitos do artigo 58.º, n.º 3, alínea c), o operador de instalação ou operador de aeronave deve nomear pessoas responsáveis por todas as atividades de fluxo de dados e por todas as atividades de controlo, de modo a separar funções contraditórias. Na ausência de outras atividades de controlo, deve assegurar para todas as atividades de fluxo de dados, de forma proporcional aos riscos inerentes identificados, que todas as informações e dados relevantes sejam confirmados, pelo menos, por uma pessoa que não tenha estado envolvida na determinação e no registo dessas informações ou dados.\n\nO operador de instalação ou operador de aeronave deve gerir as competências necessárias para as responsabilidades envolvidas, procedendo, nomeadamente, à repartição das responsabilidades, à formação e às análises do desempenho adequadas."
+  },
+  "2e9bc5e0377de6f9": {
+   "fragment_id": "Artigo 62.º — Revisões internas e validação de dados",
+   "type": "artigo",
+   "heading": "Artigo 62.º — Revisões internas e validação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Revisões internas e validação de dados\n\n1. Para efeitos do artigo 58.º, n.º 3, alínea d), e com base nos riscos inerentes e nos riscos de controlo identificados na avaliação dos riscos referida no artigo 58.º, n.º 2, alínea a), o operador de instalação ou operador de aeronave deve rever e validar os dados resultantes das atividades de fluxo de dados referidas no artigo 57.º.\n\nEssa revisão e validação dos dados deve incluir, pelo menos:\n\na) Uma verificação da exaustividade dos dados;\n\nb) Uma comparação dos dados que o operador de instalação ou operador de aeronave obteve, monitorizou e comunicou ao longo de vários anos;\n\nc) Uma comparação de dados e valores obtidos por diferentes sistemas de recolha de dados operacionais, incluindo as seguintes comparações, quando relevante: i) comparação dos dados relativos à aquisição de combustíveis ou materiais com dados relativos a alterações das existências e dados relativos ao consumo para os fluxos-fonte aplicáveis, ii) comparação dos fatores de cálculo determinados por análise, calculados ou obtidos junto do fornecedor de combustível ou de material com fatores de emissão nacionais ou internacionais de referência para combustíveis ou materiais comparáveis, iii) comparação das emissões obtidas a partir das metodologias baseadas na medição e dos resultados da corroboração do cálculo prevista no artigo 46.º, iv) comparação dos dados agregados e dos dados em bruto.\n\ni) comparação dos dados relativos à aquisição de combustíveis ou materiais com dados relativos a alterações das existências e dados relativos ao consumo para os fluxos-fonte aplicáveis,\n\nii) comparação dos fatores de cálculo determinados por análise, calculados ou obtidos junto do fornecedor de combustível ou de material com fatores de emissão nacionais ou internacionais de referência para combustíveis ou materiais comparáveis,\n\niii) comparação das emissões obtidas a partir das metodologias baseadas na medição e dos resultados da corroboração do cálculo prevista no artigo 46.º,\n\niv) comparação dos dados agregados e dos dados em bruto.\n\n2. O operador de instalação ou operador de aeronave deve, na medida do possível, garantir que sejam conhecidos antecipadamente os critérios para a rejeição de dados como parte da revisão e validação. Para tal, os critérios para a rejeição de dados devem constar da documentação relativa aos procedimentos escritos relevantes."
+  },
+  "e8140a1de4c7416a": {
+   "fragment_id": "Artigo 63.º — Correções e medidas corretivas",
+   "type": "artigo",
+   "heading": "Artigo 63.º — Correções e medidas corretivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Correções e medidas corretivas\n\n1. Quando se concluir que qualquer parte das atividades de fluxo de dados referidas no artigo 57.º, ou das atividades de controlo referidas no artigo 58.º, não funciona eficazmente ou funciona fora dos limites estabelecidos na documentação dos procedimentos relativos a essas atividades de fluxo de dados e atividades de controlo, o operador de instalação ou operador de aeronave deve adotar as correções adequadas e corrigir os dados rejeitados, evitando a subestimação das emissões.\n\n2. Para efeitos do n.º 1, o operador de instalação ou operador de aeronave deve, pelo menos:\n\na) Avaliar a validade dos resultados dos passos aplicáveis nas atividades de fluxo de dados referidas no artigo 57.º, ou nas atividades de controlo referidas no artigo 58.º;\n\nb) Determinar a origem do mau funcionamento ou erro em causa; e\n\nc) Tomar a medida corretiva adequada, corrigindo, nomeadamente, os dados afetados no relatório sobre as emissões ou no relatório relativo às toneladas-quilómetro, consoante os casos.\n\n3. O operador de instalação ou operador de aeronave deve efetuar as correções e adotar as medidas corretivas nos termos do n.º 1 do presente artigo de modo a responderem aos riscos inerentes e aos riscos de controlo identificados na avaliação dos riscos referida no artigo 58.º."
+  },
+  "e1e372cc730a8694": {
+   "fragment_id": "Artigo 64.º — Processos externalizados",
+   "type": "artigo",
+   "heading": "Artigo 64.º — Processos externalizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Processos externalizados\n\nCaso o operador de instalação ou operador de aeronave externalize uma ou mais atividades de fluxo de dados referidas no artigo 57.º, ou atividades de controlo referidas no artigo 58.º, deve:\n\na) Verificar a qualidade das atividades de fluxo de dados e das atividades de controlo externalizadas, nos termos do presente regulamento;\n\nb) Definir requisitos adequados para os resultados dos processos externalizados, bem como os métodos utilizados nesses processos;\n\nc) Verificar a qualidade dos resultados e métodos referidos na alínea b) do presente artigo; e\n\nd) Assegurar que as atividades externalizadas são realizadas de modo a responderem aos riscos inerentes e aos riscos de controlo identificados na avaliação dos riscos referida no artigo 58.º."
+  },
+  "6b78c701a98b1b38": {
+   "fragment_id": "Artigo 65.º — Tratamento das lacunas de dados",
+   "type": "artigo",
+   "heading": "Artigo 65.º — Tratamento das lacunas de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Tratamento das lacunas de dados\n\n1. Caso faltem dados relevantes para determinar as emissões de uma instalação, o operador deve utilizar um método de estimativa adequado para determinar dados substitutos prudentes para o período e o parâmetro em falta, respetivamente.\n\nSe o operador não tiver estabelecido o método de estimativa por procedimento escrito, deve estabelecer tal procedimento escrito e apresentar à autoridade competente, para aprovação, a correspondente alteração do plano de monitorização em conformidade com o artigo 15.º.\n\n2. Caso faltem dados relevantes para determinar, para um ou mais voos, as emissões de um operador de aeronave, este último deve utilizar dados substitutos para o período respetivo, calculados de acordo com o método alternativo definido no plano de monitorização.\n\nSe não for possível determinar dados substitutos em conformidade com o primeiro parágrafo do presente número, as emissões relativas a esse voo ou voos podem ser estimadas pelo operador de aeronave a partir do consumo de combustível determinado utilizando um instrumento referido no artigo 54.º, n.º 2."
+  },
+  "ef0099dfaa98ffdd": {
+   "fragment_id": "Artigo 66.º — Registos e documentação",
+   "type": "artigo",
+   "heading": "Artigo 66.º — Registos e documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Registos e documentação\n\n1. O operador de instalação ou operador de aeronave deve manter registos de todos os dados e informações relevantes, incluindo as informações indicadas no anexo IX, durante pelo menos 10 anos.\n\nOs dados de monitorização documentados e arquivados devem permitir a verificação do relatório anual sobre as emissões ou do relatório sobre os dados relativos às toneladas-quilómetro em conformidade com o Regulamento (UE) n.º 600/2012. Pode considerar-se que os dados comunicados pelo operador de instalação ou operador de aeronave e incluídos num sistema eletrónico de comunicação e gestão de dados criado pela autoridade competente são conservados pelo operador de instalação ou operador de aeronave, se este puder aceder a esses dados.\n\n2. O operador de instalação ou operador de aeronave deve assegurar que os documentos relevantes estejam disponíveis quando e onde necessários para a execução das atividades de fluxo de dados, bem como das atividades de controlo.\n\nO operador de instalação ou operador de aeronave deve facultar, mediante pedido, essas informações à autoridade competente e ao verificador incumbido de verificar o relatório sobre as emissões ou o relatório sobre os dados relativos às toneladas-quilómetro, em conformidade com o Regulamento (UE) n.º 600/2012."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "a521c720d93eaed2": {
+   "fragment_id": "REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+   "type": "divisao",
+   "heading": "REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS EM MATÉRIA DE RELATÓRIOS"
+  },
+  "38e4d0819441a8e3": {
+   "fragment_id": "Artigo 67.º — Calendário e obrigações de comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 67.º — Calendário e obrigações de comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Calendário e obrigações de comunicação de informações\n\n1. O operador de instalação ou operador de aeronave deve apresentar à autoridade competente, até 31 de março de cada ano, um relatório sobre as emissões que abranja as emissões anuais do período de informação e que seja verificado em conformidade com o Regulamento (UE) n.º 600/2012.\n\nContudo, as autoridades competentes podem exigir aos operadores de instalações ou operadores de aeronave que apresentem antes de 31 de março, mas não antes de 28 de fevereiro, o relatório anual sobre as emissões verificado.\n\n2. Caso o operador de aeronave opte por pedir a atribuição de licenças de emissão a título gratuito nos termos do artigo 3.º-E ou 3.º-F da Diretiva 2003/87/CE, deve apresentar à autoridade competente, até 31 de março do ano seguinte ao ano de monitorização referido no artigo 3.º-E ou 3.º-F dessa Diretiva, um relatório sobre os dados relativos às toneladas-quilómetro que abranja os dados do ano de monitorização e seja verificado em conformidade com o Regulamento (UE) n.º 600/2012.\n\n3. Os relatórios anuais sobre as emissões e sobre os dados relativos às toneladas-quilómetro devem conter, pelo menos, as informações enumeradas no anexo X."
+  },
+  "c28eb2b9bbabe6ed": {
+   "fragment_id": "Artigo 68.º — Força maior",
+   "type": "artigo",
+   "heading": "Artigo 68.º — Força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Força maior\n\n1. Caso um operador de aeronave não possa, devido a circunstâncias graves e imprevisíveis fora do seu controlo, fornecer à autoridade competente dados verificados relativos às toneladas-quilómetro no prazo fixado nos termos do artigo 3.º-E, n.º 1, da Diretiva 2003/87/CE, deve apresentar à autoridade competente, para efeitos de aplicação desta disposição, os melhores dados relativos às toneladas-quilómetro que é possível disponibilizar tendo em conta as circunstâncias, incluindo dados baseados, sempre que necessário, em estimativas credíveis.\n\n2. Caso estejam cumpridas as condições estabelecidas no n.º 1, o Estado-Membro deve, para efeitos do pedido referido no artigo 3.º-E, n.º 1, da Diretiva 2003/87/CE e em conformidade com o disposto no n.º 2 do mesmo artigo, comunicar à Comissão os dados recebidos relativos ao operador de aeronave em causa, bem como uma explicação das circunstâncias que motivaram a ausência de um relatório verificado em conformidade com o Regulamento (UE) n.º 600/2012.\n\nA Comissão e os Estados-Membros devem utilizar esses dados para efeitos do artigo 3.º-E, n.^os^ 3 e 4, da Diretiva 2003/87/CE.\n\n3. Caso um Estado-Membro comunique à Comissão os dados recebidos relativos a um operador de aeronave nos termos do n.º 2 do presente artigo, o operador de aeronave em causa deve assegurar a verificação dos dados comunicados relativos às toneladas-quilómetro em conformidade com o Regulamento (UE) n.º 600/2012, o mais rapidamente possível e, em qualquer caso, depois de terminadas as circunstâncias referidas no n.º 1 do presente artigo.\n\nO operador de aeronave deve comunicar sem demora injustificada à autoridade competente os dados verificados.\n\nA autoridade competente em causa deve reduzir e publicar a atribuição revista de licenças de emissão a título gratuito ao operador de aeronave em conformidade com o artigo 3.º-E, n.º 4, da Diretiva 2003/87/CE, conforme adequado. Essa atribuição não pode ser aumentada. Quando relevante, o operador de aeronave deve devolver as eventuais licenças de emissão excedentárias que tenha recebido em conformidade com o artigo 3.º-E, n.º 5, da mesma diretiva.\n\n4. A autoridade competente deve estabelecer medidas eficazes para garantir que o operador de aeronave em causa cumpre as suas obrigações nos termos do n.º 3."
+  },
+  "b9f3f64bdfcf93cd": {
+   "fragment_id": "Artigo 69.º — Relatórios sobre as melhorias da metodologia de monitorização",
+   "type": "artigo",
+   "heading": "Artigo 69.º — Relatórios sobre as melhorias da metodologia de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Relatórios sobre as melhorias da metodologia de monitorização\n\n1. Cada operador de instalação ou operador de aeronave deve verificar regularmente se a metodologia de monitorização utilizada pode ser melhorada.\n\nUm operador de instalação deve apresentar à autoridade competente, para aprovação, um relatório que contenha as informações referidas no n.º 2 ou 3, quando relevante, nos seguintes prazos:\n\na) Para uma instalação de categoria A, até 30 de junho de quatro em quatro anos;\n\nb) Para uma instalação de categoria B, até 30 de junho de dois em dois anos;\n\nc) Para uma instalação de categoria C, até 30 de junho de cada ano;\n\nContudo, a autoridade competente pode fixar uma data alternativa para a apresentação do relatório, mas nunca após 30 de setembro do mesmo ano.\n\n2. Se o operador não aplicar, pelo menos, os níveis requeridos nos termos do primeiro parágrafo do artigo 26.º, n.º 1, e do artigo 41.º, n.º 1, deve justificar as razões pelas quais a aplicação dos níveis exigidos não é tecnicamente viável ou implica custos excessivos.\n\nContudo, caso surjam provas de que as medidas necessárias para atingir esses níveis passaram a ser tecnicamente viáveis e já não implicam custos excessivos, o operador deve notificar a autoridade competente das correspondentes alterações ao plano de monitorização em conformidade com o artigo 15.º, e apresentar propostas de aplicação das medidas conexas, incluindo o calendário previsto.\n\n3. Se o operador utilizar uma metodologia de monitorização de recurso referida no artigo 22.º, deve apresentar as razões pelas quais a aplicação de, pelo menos, o nível 1 a um ou mais fluxos-fonte importantes ou menores não é tecnicamente viável ou implica custos excessivos.\n\nContudo, caso surjam provas de que as medidas necessárias para atingir pelo menos o nível 1 para esses fluxos-fonte passaram a ser tecnicamente viáveis e já não implicam custos excessivos, o operador deve notificar a autoridade competente das correspondentes alterações ao plano de monitorização em conformidade com o artigo 15.º, e apresentar propostas de aplicação das medidas conexas, incluindo o calendário previsto.\n\n4. Caso o relatório de verificação elaborado em conformidade com o Regulamento (UE) n.º 600/2012 contenha casos de não-conformidade pendentes ou recomendações de melhorias em conformidade com os artigos 27.º, 29.º e 30.º do mesmo regulamento, o operador de instalação ou operador de aeronave deve apresentar um relatório à autoridade competente, para aprovação, até 30 de junho do ano em que o relatório de verificação for emitido pelo verificador. Esse relatório deve descrever quando e como o operador de instalação ou operador de aeronave corrigiu ou planeia corrigir os casos de não-conformidade identificados pelo verificador e aplicar as melhorias recomendadas.\n\nSe aplicável, esse relatório pode ser combinado com o relatório referido no n.º 1 do presente artigo.\n\nSe as melhorias recomendadas não resultarem numa melhoria da metodologia de monitorização, o operador de instalação ou operador de aeronave deve apresentar uma justificação para este facto. Caso as melhorias recomendadas possam implicar custos excessivos, o operador de instalação ou operador de aeronave deve fornecer provas da natureza excessiva desses custos."
+  },
+  "88990a66688450c5": {
+   "fragment_id": "Artigo 70.º — Determinação das emissões pela autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 70.º — Determinação das emissões pela autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Determinação das emissões pela autoridade competente\n\n1. A autoridade competente deve fazer uma estimativa prudente das emissões de um operador de instalação ou de aeronave em qualquer das seguintes situações:\n\na) O operador de instalação ou operador de aeronave não apresentou um relatório anual sobre as emissões verificado, no prazo exigido nos termos do artigo 67.º, n.º 1;\n\nb) O relatório anual sobre as emissões verificado referido no artigo 67.º, n.º 1, não é conforme com o presente regulamento;\n\nc) O relatório sobre as emissões de um operador de instalação ou operador de aeronave não foi verificado por um verificador acreditado nos termos do Regulamento (UE) n.º 600/2012.\n\n2. Caso um verificador tenha comunicado, no relatório de verificação ao abrigo do Regulamento (UE) n.º 600/2012, a existência de inexatidões não-materiais que não tenham sido corrigidas pelo operador de instalação ou operador de aeronave antes de emitir a declaração de verificação, a autoridade competente deve avaliar essas inexatidões e efetuar uma estimativa prudente das emissões de um operador de instalação ou de aeronave, quando relevante. A autoridade competente informa o operador de instalação ou operador de aeronave da necessidade de correções ao relatório sobre as emissões e quais as correções necessárias. O operador de instalação ou operador de aeronave deve facultar essas informações ao verificador.\n\n3. Os Estados-Membros devem estabelecer um intercâmbio de informações eficaz entre as autoridades competentes responsáveis pela aprovação dos planos de monitorização e as autoridades competentes responsáveis pela aceitação de relatórios anuais sobre as emissões."
+  },
+  "7f79fe35bfa45509": {
+   "fragment_id": "Artigo 71.º — Acesso à informação",
+   "type": "artigo",
+   "heading": "Artigo 71.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Acesso à informação\n\nOs relatórios sobre as emissões na posse da autoridade competente devem ser também colocados à disposição do público por essa autoridade, sem prejuízo das regras nacionais adotadas em conformidade com a Diretiva 2003/4/CE. No que respeita à aplicação da exceção prevista no artigo 4.º, n.º 2, alínea d), da mesma Diretiva, os operadores de instalação ou operadores de aeronave podem indicar, nos seus relatórios, quais as informações que consideram sensíveis do ponto de vista comercial."
+  },
+  "6026f7ab62f025df": {
+   "fragment_id": "Artigo 72.º — Arredondamento dos dados",
+   "type": "artigo",
+   "heading": "Artigo 72.º — Arredondamento dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Arredondamento dos dados\n\n1. O total anual das emissões deve ser quantificado, por arredondamento, em toneladas de CO2 ou CO2(e).\n\nAs toneladas-quilómetro devem ser quantificadas, por arredondamento, em toneladas-quilómetro.\n\n2. Todas as variáveis utilizadas para calcular as emissões devem ser arredondadas de modo a incluir todos os algarismos significativos para efeitos do cálculo e da comunicação das emissões.\n\n3. Todos os dados por voo devem ser arredondados de modo a incluir todos os dígitos significativos para efeitos do cálculo da distância e da carga útil nos termos do artigo 56.º, e a comunicar os dados relativos às toneladas-quilómetro."
+  },
+  "fc630b9c20cd27c5": {
+   "fragment_id": "Artigo 73.º — Assegurar a coerência com outras comunicações de dados",
+   "type": "artigo",
+   "heading": "Artigo 73.º — Assegurar a coerência com outras comunicações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Assegurar a coerência com outras comunicações de dados\n\nCada atividade enumerada no anexo I da Diretiva 2003/87/CE que seja realizada por um operador de instalação ou operador de aeronave deve ser identificada utilizando os códigos, se aplicáveis, dos seguintes sistemas de comunicação de informações:\n\na) O Modelo Comum de Relatório (CRF) dos sistemas nacionais de inventário de gases com efeito de estufa aprovados pelos órgãos competentes da Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas;\n\nb) O número de identificação de instalação no Registo Europeu das Emissões e Transferências de Poluentes nos termos do Regulamento (CE) n.º 166/2006 do Parlamento Europeu e do Conselho [([^12])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr12-L_2012181PT.01003001-E0012);\n\nc) A atividade IPPC do anexo I do Regulamento (CE) n.º 166/2006;\n\nd) O código NACE em conformidade com o Regulamento (CE) n.º 1893/2006 do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntr13-L_2012181PT.01003001-E0013)."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "ec9e0bb3f0bc7a1b": {
+   "fragment_id": "REQUISITOS EM MATÉRIA DE TECNOLOGIAS DA INFORMAÇÃO",
+   "type": "divisao",
+   "heading": "REQUISITOS EM MATÉRIA DE TECNOLOGIAS DA INFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS EM MATÉRIA DE TECNOLOGIAS DA INFORMAÇÃO"
+  },
+  "6039b31c71f8efcc": {
+   "fragment_id": "Artigo 74.º — Formato eletrónico de intercâmbio de dados",
+   "type": "artigo",
+   "heading": "Artigo 74.º — Formato eletrónico de intercâmbio de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Formato eletrónico de intercâmbio de dados\n\n1. Os Estados-Membros podem exigir que os operadores de instalações e operadores de aeronave utilizem modelos eletrónicos ou formatos de ficheiro específicos para a apresentação dos planos de monitorização e das alterações ao plano de monitorização, bem como para a apresentação dos relatórios anuais sobre as emissões, dos relatórios sobre os dados relativos às toneladas-quilómetro, dos relatórios de verificação e dos relatórios relativos a melhorias.\n\nEsses modelos e especificações de formatos de ficheiro estabelecidos pelos Estados-Membros devem conter, pelo menos, as informações previstas nos modelos eletrónicos ou especificações de formatos de ficheiro publicados pela Comissão.\n\n2. Ao estabelecer os modelos ou especificações de formatos de ficheiro referidos no n.º 1, os Estados-Membros podem escolher uma ou ambas das seguintes opções:\n\na) Especificações de formatos de ficheiros utilizando uma linguagem eletrónica normalizada para a comunicação de informações (doravante «linguagem de comunicação RCLE-UE»), baseada no formato XML, para utilização em sistemas automáticos avançados;\n\nb) Modelos publicados sob uma forma utilizável por *software* de escritório corrente, incluindo folhas de cálculo e ficheiros de tratamento de texto."
+  },
+  "b4313c6390410aff": {
+   "fragment_id": "Artigo 75.º — Utilização de sistemas automatizados",
+   "type": "artigo",
+   "heading": "Artigo 75.º — Utilização de sistemas automatizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Utilização de sistemas automatizados\n\n1. Se um Estado-Membro optar por utilizar sistemas automatizados para o intercâmbio eletrónico de dados, baseados na linguagem de comunicação RCLE-UE nos termos do artigo 74.º, n.º 2, alínea a), esses sistemas devem assegurar de uma forma eficiente em termos de custos, através da aplicação de medidas tecnológicas correspondentes ao estado atual da tecnologia, o cumprimento dos seguintes requisitos:\n\na) Integridade dos dados, de modo a que as mensagens eletrónicas não sejam alteradas durante a transmissão;\n\nb) Confidencialidade dos dados, através da utilização de técnicas de segurança, incluindo, nomeadamente, técnicas de cifragem, de modo a que os dados só possam ser acedidos pelas partes autorizadas e a interceção de dados por partes não autorizadas não seja possível;\n\nc) Autenticidade dos dados, de modo a que tanto a identidade do expedidor como a do recetor sejam conhecidas e verificadas;\n\nd) Não rejeição dos dados, de modo a que uma parte de uma transação não possa negar ter recebido dados nem a outra parte possa negar que os enviou, através da utilização de métodos como as técnicas de assinatura, ou da auditoria independente das salvaguardas do sistema.\n\n2. Quaisquer sistemas automatizados que sejam utilizados pelos Estados-Membros, baseados na linguagem de comunicação RCLE-UE, para a comunicação entre a autoridade competente, o operador de instalação e operador de aeronave, bem como o verificador e o organismo de acreditação na aceção do Regulamento (UE) n.º 600/2012, devem respeitar os seguintes requisitos não funcionais, através da aplicação de medidas tecnológicas conformes com o atual estado da tecnologia:\n\na) Controlo do acesso, de modo a que o sistema só esteja acessível a partes autorizadas e não seja possível a partes não autorizadas ler, escrever ou atualizar dados, através da aplicação de medidas tecnológicas que assegurem: i) a restrição do acesso físico ao *hardware* que suporta os sistemas automáticos, através de barreiras físicas, ii) a restrição do acesso lógico aos sistemas automatizados, através da utilização de tecnologias de identificação, autenticação e autorização;\n\ni) a restrição do acesso físico ao *hardware* que suporta os sistemas automáticos, através de barreiras físicas,\n\nii) a restrição do acesso lógico aos sistemas automatizados, através da utilização de tecnologias de identificação, autenticação e autorização;\n\nb) Disponibilidade, de modo a que a acessibilidade dos dados seja assegurada, mesmo após um período significativo e a eventual introdução de novo *software*.\n\nc) Pista de auditoria, de modo a assegurar que as alterações dos dados podem ser sempre encontradas e analisadas retrospetivamente."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "8a7d1919b96e302a": {
+   "fragment_id": "Artigo 76.º — Revogação da Decisão 2007/589/CE e disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 76.º — Revogação da Decisão 2007/589/CE e disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Revogação da Decisão 2007/589/CE e disposições transitórias\n\n1. A Decisão 2007/589/CE é revogada.\n\n2. As disposições da Decisão 2007/589/CE continuam a ser aplicáveis à monitorização, à comunicação e à verificação das emissões e, quando relevante, aos dados das atividades anteriores a 1 de janeiro de 2013."
+  },
+  "9e217db227ef5fa4": {
+   "fragment_id": "Artigo 77.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 77.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de janeiro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 21 de junho de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "6ed04ef26970cccc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc1-L_2012181PT.01003001-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc2-L_2012181PT.01003001-E0002) [JO L 229 de 31.8.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_229_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc3-L_2012181PT.01003001-E0003) [JO L 140 de 5.6.2009, p. 16](http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc4-L_2012181PT.01003001-E0004) [JO L 149 de 12.6.2009, p. 69](http://publications.europa.eu/resource/oj/JOL_2009_149_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc5-L_2012181PT.01003001-E0005) [JO L 140 de 5.6.2009, p. 114](http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc6-L_2012181PT.01003001-E0006) [JO L 135 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_135_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc7-L_2012181PT.01003001-E0007) [JO L 373 de 31.12.1991, p. 4](http://publications.europa.eu/resource/oj/JOL_1991_373_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc8-L_2012181PT.01003001-E0008) Ver página 1 do presente Jornal Oficial.\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc9-L_2012181PT.01003001-E0009) [JO L 130 de 17.5.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_130_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc10-L_2012181PT.01003001-E0010) [JO L 122 de 16.5.2009, p. 6](http://publications.europa.eu/resource/oj/JOL_2009_122_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc11-L_2012181PT.01003001-E0011) [JO L 315 de 29.11.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_315_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc12-L_2012181PT.01003001-E0012) [JO L 33 de 4.2.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_033_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008.03/DOC_1#ntc13-L_2012181PT.01003001-E0013) [JO L 393 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_393_R_TOC)."
+  },
+  "491368bfe4c78513": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02012R0601 — PT — 01.01.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32012R0601) [REGULAMENTO (UE) N.º 601/2012 DA COMISSÃO](http://publications.europa.eu/resource/celex/32012R0601) [de 21 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0601) [relativo à monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho](http://publications.europa.eu/resource/celex/32012R0601) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32012R0601) (JO L 181, 12.7.2012, p.30)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2018/2066 da Comissão de 19 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R2066) — L 334 — 1 — 31.12.2018"
+  }
+ }
+}

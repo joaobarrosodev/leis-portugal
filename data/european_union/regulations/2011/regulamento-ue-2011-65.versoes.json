@@ -1,0 +1,1075 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R0065:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0065-20121014",
+ "dre_path": null,
+ "source_lastmod": "2012-10-14",
+ "versions": [
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "02011R0065-20110101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dcf1c6b209e816e5",
+    "28b3eaf5d9031d4f",
+    "74133bab0f6b4994",
+    "f6b6105be25d14c6",
+    "7a31261fafc9554a",
+    "fdfc4af0d41554ea",
+    "5b7fb895b28ca160",
+    "774e6a8324a59078",
+    "a152f9cee9821cd4",
+    "45ba06c5044bdcf9",
+    "ffc348f463b781ad",
+    "46f63bbace8a9413",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "41958a9bbd0c746b",
+    "ecec469f25aaa199",
+    "4a6b8b50d8781e51",
+    "c5cc2f284353fb8a",
+    "f0f8c960bfdbce9b",
+    "b8dc9099a267474d",
+    "b7f52f8aff7cc154",
+    "a2b0587107dc77d3",
+    "024300f16bd0f67c",
+    "39dfd186f39f4af2",
+    "c579b677aff61f10",
+    "437822eb9222c49e",
+    "74ef6231f3186f75",
+    "007457f9d33c9dec",
+    "82cf33314f6ca6e7",
+    "d2a70f40e2322ed3",
+    "3475b2b9089c62c9",
+    "99c0545304accaf5",
+    "3f1244389e38d1a1",
+    "1fd8ac61740de3e2",
+    "98166f55d9c73e8b",
+    "f0e23992e15f2500",
+    "e0f7d649bccf391f",
+    "39dfd186f39f4af2",
+    "c579b677aff61f10",
+    "9e6a7c99673ba991",
+    "a202205e40cce963",
+    "3475b2b9089c62c9",
+    "99c0545304accaf5",
+    "8fd4ccc75f08254a",
+    "031210ebd25a3eb9",
+    "a71df16a662ac89e",
+    "0506e7cdefbfc82c",
+    "4c8bdeab3d91ec7d",
+    "77f7465b8ff93ad1",
+    "226c39ffd0a88dad",
+    "1698fd56073f7adb",
+    "ce0b878927850811",
+    "f0f8c960bfdbce9b",
+    "5d2e6fa3ee039dcb",
+    "a2b0587107dc77d3",
+    "c579b677aff61f10",
+    "39dfd186f39f4af2",
+    "7fabed8a0a46afb5",
+    "e4b3bb4c5a01472a",
+    "c0484160f61a01d9",
+    "bc8692ebaa5e50cb",
+    "64d91780b03f4f34",
+    "3475b2b9089c62c9",
+    "3600ccdf42adc916",
+    "40735cd81223ac6a",
+    "710f56717e38f096",
+    "5cdf9780b0647803",
+    "458e766287edf0c0",
+    "66501b8712044086",
+    "05b3601b652687ff",
+    "4d74cd6ba22bc529",
+    "15fc4d4e69a587a4",
+    "b6cdca4eb5e2c8c8",
+    "aeff1cd8efc85b30",
+    "aac281ce16fa570e",
+    "9d190463534a5d97",
+    "f0e23992e15f2500",
+    "99c0545304accaf5",
+    "f850d1cdd45a5233",
+    "3e5bcb13ac5aa89f",
+    "dde9cf53e9ae6c9a",
+    "2f1f313032d5083a",
+    "f443c137285057fc",
+    "5496e498e10f2d17",
+    "0a328a947ccfdcfc",
+    "6885202ba9a46240",
+    "d664376e2a8dcecd",
+    "bd0eb98616d24fdd",
+    "2256d360581935ac",
+    "4f27757f16846d9d"
+   ]
+  },
+  {
+   "date": "2012-02-28",
+   "future": false,
+   "celex": "02011R0065-20120228",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0147:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 147/2012 DA COMISSÃO de 20 de fevereiro de 2012",
+     "published": null,
+     "celex": "32012R0147"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 6.º — Âmbito de aplicação e definições",
+    "Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+    "Altera Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+    "Altera Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+    "Altera Artigo 22.º — Ordem das reduções",
+    "Altera Artigo 31.º — Apresentação de relatórios",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "6c1cbb415af03313",
+    "28b3eaf5d9031d4f",
+    "74133bab0f6b4994",
+    "f6b6105be25d14c6",
+    "10ba90e83043bc4b",
+    "fdfc4af0d41554ea",
+    "5b7fb895b28ca160",
+    "774e6a8324a59078",
+    "a152f9cee9821cd4",
+    "45ba06c5044bdcf9",
+    "ffc348f463b781ad",
+    "46f63bbace8a9413",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "8e0305392fa549b6",
+    "ecec469f25aaa199",
+    "4a6b8b50d8781e51",
+    "c5cc2f284353fb8a",
+    "f0f8c960bfdbce9b",
+    "b8dc9099a267474d",
+    "b7f52f8aff7cc154",
+    "a2b0587107dc77d3",
+    "024300f16bd0f67c",
+    "39dfd186f39f4af2",
+    "c579b677aff61f10",
+    "437822eb9222c49e",
+    "74ef6231f3186f75",
+    "007457f9d33c9dec",
+    "82cf33314f6ca6e7",
+    "bc8cb7849c173a10",
+    "3475b2b9089c62c9",
+    "99c0545304accaf5",
+    "c1093360360d4437",
+    "1520b2415ed9c7d3",
+    "98166f55d9c73e8b",
+    "f0e23992e15f2500",
+    "e0f7d649bccf391f",
+    "39dfd186f39f4af2",
+    "c579b677aff61f10",
+    "9e6a7c99673ba991",
+    "a202205e40cce963",
+    "3475b2b9089c62c9",
+    "99c0545304accaf5",
+    "8fd4ccc75f08254a",
+    "031210ebd25a3eb9",
+    "a71df16a662ac89e",
+    "c885fe968ff70ba8",
+    "4c8bdeab3d91ec7d",
+    "77f7465b8ff93ad1",
+    "226c39ffd0a88dad",
+    "1698fd56073f7adb",
+    "ce0b878927850811",
+    "f0f8c960bfdbce9b",
+    "5d2e6fa3ee039dcb",
+    "a2b0587107dc77d3",
+    "c579b677aff61f10",
+    "39dfd186f39f4af2",
+    "7fabed8a0a46afb5",
+    "e4b3bb4c5a01472a",
+    "c0484160f61a01d9",
+    "bc8692ebaa5e50cb",
+    "64d91780b03f4f34",
+    "3475b2b9089c62c9",
+    "3600ccdf42adc916",
+    "40735cd81223ac6a",
+    "710f56717e38f096",
+    "5cdf9780b0647803",
+    "458e766287edf0c0",
+    "66501b8712044086",
+    "05b3601b652687ff",
+    "4d74cd6ba22bc529",
+    "15fc4d4e69a587a4",
+    "b6cdca4eb5e2c8c8",
+    "aeff1cd8efc85b30",
+    "aac281ce16fa570e",
+    "9d190463534a5d97",
+    "f0e23992e15f2500",
+    "99c0545304accaf5",
+    "f850d1cdd45a5233",
+    "3e5bcb13ac5aa89f",
+    "dde9cf53e9ae6c9a",
+    "f9769c185e79d899",
+    "f443c137285057fc",
+    "5496e498e10f2d17",
+    "0a328a947ccfdcfc",
+    "6885202ba9a46240",
+    "d664376e2a8dcecd",
+    "bd0eb98616d24fdd",
+    "2256d360581935ac",
+    "8115230c6353e9a7"
+   ]
+  },
+  {
+   "date": "2012-10-14",
+   "future": false,
+   "celex": "02011R0065-20121014",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0937:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 937/2012 DA COMISSÃO de 12 de outubro de 2012",
+     "published": null,
+     "celex": "32012R0937"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Recuperação de pagamentos indevidos",
+    "Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+    "Altera Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+    "Altera Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "04e8ec48270a8132",
+    "28b3eaf5d9031d4f",
+    "74133bab0f6b4994",
+    "f6b6105be25d14c6",
+    "10ba90e83043bc4b",
+    "fdfc4af0d41554ea",
+    "5b7fb895b28ca160",
+    "e3812f90b824b078",
+    "a152f9cee9821cd4",
+    "45ba06c5044bdcf9",
+    "ffc348f463b781ad",
+    "46f63bbace8a9413",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "8e0305392fa549b6",
+    "ecec469f25aaa199",
+    "4a6b8b50d8781e51",
+    "c5cc2f284353fb8a",
+    "f0f8c960bfdbce9b",
+    "b8dc9099a267474d",
+    "b7f52f8aff7cc154",
+    "a2b0587107dc77d3",
+    "024300f16bd0f67c",
+    "39dfd186f39f4af2",
+    "c579b677aff61f10",
+    "437822eb9222c49e",
+    "74ef6231f3186f75",
+    "007457f9d33c9dec",
+    "82cf33314f6ca6e7",
+    "df4972e983690aec",
+    "3475b2b9089c62c9",
+    "99c0545304accaf5",
+    "fb473c06deda52c7",
+    "128fe215a23fe2d5",
+    "98166f55d9c73e8b",
+    "f0e23992e15f2500",
+    "e0f7d649bccf391f",
+    "39dfd186f39f4af2",
+    "c579b677aff61f10",
+    "9e6a7c99673ba991",
+    "a202205e40cce963",
+    "3475b2b9089c62c9",
+    "99c0545304accaf5",
+    "8fd4ccc75f08254a",
+    "031210ebd25a3eb9",
+    "a71df16a662ac89e",
+    "c885fe968ff70ba8",
+    "4c8bdeab3d91ec7d",
+    "77f7465b8ff93ad1",
+    "226c39ffd0a88dad",
+    "1698fd56073f7adb",
+    "ce0b878927850811",
+    "f0f8c960bfdbce9b",
+    "5d2e6fa3ee039dcb",
+    "a2b0587107dc77d3",
+    "c579b677aff61f10",
+    "39dfd186f39f4af2",
+    "7fabed8a0a46afb5",
+    "e4b3bb4c5a01472a",
+    "c0484160f61a01d9",
+    "bc8692ebaa5e50cb",
+    "64d91780b03f4f34",
+    "3475b2b9089c62c9",
+    "3600ccdf42adc916",
+    "40735cd81223ac6a",
+    "710f56717e38f096",
+    "5cdf9780b0647803",
+    "458e766287edf0c0",
+    "66501b8712044086",
+    "05b3601b652687ff",
+    "4d74cd6ba22bc529",
+    "15fc4d4e69a587a4",
+    "b6cdca4eb5e2c8c8",
+    "aeff1cd8efc85b30",
+    "aac281ce16fa570e",
+    "9d190463534a5d97",
+    "f0e23992e15f2500",
+    "99c0545304accaf5",
+    "f850d1cdd45a5233",
+    "3e5bcb13ac5aa89f",
+    "dde9cf53e9ae6c9a",
+    "f9769c185e79d899",
+    "f443c137285057fc",
+    "5496e498e10f2d17",
+    "0a328a947ccfdcfc",
+    "6885202ba9a46240",
+    "d664376e2a8dcecd",
+    "bd0eb98616d24fdd",
+    "2256d360581935ac",
+    "a0c30032997851c6"
+   ]
+  }
+ ],
+ "fragments": {
+  "dcf1c6b209e816e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 2011\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (Feader) ([^1^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0001)), nomeadamente o artigo 51.º, n.º 4, o artigo 74.º, n.º 4 e o artigo 91º,\n\n(1) O Regulamento (CE) n.º 1122/2009 da Comissão, de 30 de Novembro de 2009, que estabelece regras de execução de Regulamento (CE) n.º 73/2009 do Conselho no que respeita à condicionalidade, à modulação e ao sistema integrado de gestão e de controlo, no âmbito dos regimes de apoio directo aos agricultores previstos no referido regulamento, bem como regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à condicionalidade no âmbito do regime de apoio previsto para o sector vitivinícola ([^2^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0002)) revogou e substituiu o Regulamento (CE) n.º 796/2004 da Comissão, de 21 de Abril de 2004, que estabelece regras de execução relativas à condicionalidade, à modulação e ao sistema integrado de gestão e de controlo previstos no Regulamento (CE) n.º 1782/2003 e (CE) n.º 73/2009 do Conselho, bem como a aplicação da condicionalidade prevista no Regulamento (CE) n.º 479/2008 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0003)).\n\n(2) O Regulamento (CE) n.º 1975/2006 da Comissão, de 7 de Dezembro de 2006, que estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural ([^4^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0004)), contém muitas referências cruzadas às regras de gestão e de controlo previstas no Regulamento (CE) n.º 796/2004 revogado. É necessário ter em conta as alterações introduzidas a essas regras da gestão e de controlo pelo Regulamento (CE) n.º 1122/2009, respeitando, simultaneamente, os princípios estabelecidos pelo Regulamento (CE) n.º 1975/2006. Além disso, para garantir coerência, clareza e simplificação, é conveniente alterar determinadas disposições do Regulamento (CE) n.º 1975/2006, a fim de limitar ao mínimo necessário as referências ao Regulamento (CE) n.º 1122/2009. É, por conseguinte, adequado revogar e substituir o Regulamento (CE) n.º 1975/2006.\n\n(3) Os Estados-Membros devem estabelecer um sistema de controlo que garanta que são efectuados todos os controlos necessários para assegurar a verificação eficaz do respeito das condições de concessão das ajudas. Todos os critérios de elegibilidade estabelecidos pela legislação da União, pela legislação nacional ou pelos programas de desenvolvimento rural devem poder ser controlados, de acordo com um grupo de indicadores verificáveis.\n\n(4) A experiência demonstra que o sistema integrado de gestão e de controlo (a seguir, «SIGC»), estabelecido pelo título II, capítulo 4, do Regulamento (CE) n.º 73/2009 do Conselho, de 19 de Janeiro de 2009, que estabelece regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio aos agricultores, que altera os Regulamentos (CE) n.º 1290/2005, (CE) n.º 247/2006 e (CE) n.º 378/2007 e revoga o Regulamento (CE) n.º 1782/2003 ([^5^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0005)), deu provas de ser um instrumento eficaz e eficiente de aplicação dos regimes de pagamentos directos. Por conseguinte, no que respeita às medidas relacionadas com a superfície e os animais no âmbito do título IV, capítulo I, secção 2, eixo 2, do Regulamento (CE) n.º 1698/2005, as regras de gestão e de controlo, bem como as disposições respeitantes a reduções e exclusões em casos de falsas declarações, devem seguir os princípios definidos no âmbito do SIGC, nomeadamente no Regulamento (CE) n.º 1122/2009.\n\n(5) Contudo, no respeitante a certas medidas de apoio no âmbito do eixo 2 e ao apoio equivalente no âmbito do eixo 4, a que se referem as secções 2 e 4, respectivamente, do título IV, capítulo I, do Regulamento (CE) n.º 1698/2005, é necessário adaptar as regras de gestão e de controlo às suas características específicas. O mesmo é aplicável às medidas de apoio no âmbito dos eixos 1 e 3, previstas nas secções 1 e 3, respectivamente, do mesmo capítulo e ao apoio equivalente no âmbito do eixo 4. Em consequência, devem ser estabelecidas disposições especiais relativas a essas medidas de apoio.\n\n(6) Para que todas as administrações nacionais possam organizar um controlo eficiente e integrado de todos os domínios para que é solicitado pagamento no âmbito do eixo 2 e dos regimes de ajudas «superfícies» abrangidos pelo Regulamento (CE) n.º 1122/2009, os pedidos de pagamento a título de medidas «superfície» no âmbito do eixo 2 devem ser apresentados no mesmo prazo que o pedido único previsto na parte II, título II, capítulo I, do mesmo regulamento.\n\n(7) Para garantir o efeito dissuasivo do controlo, os pagamentos não devem, regra geral, ser feitos antes de as verificações da elegibilidade estarem completadas. Não obstante, é conveniente autorizar os pagamentos até um certo nível após a realização dos controlos administrativos. Na fixação desse nível, há que ter em conta o risco de sobrepagamento.\n\n(8) As regras de controlo previstas no presente regulamento devem ter em conta as características especiais das medidas a título do eixo 2 em questão. Por motivos de clareza, devem, assim, fixar-se regras específicas.\n\n(9) Os Estados-Membros podem utilizar elementos de prova recebidos de outros serviços, organismos ou organizações para verificar o respeito dos critérios de elegibilidade. Contudo, devem assegurar-se de que o funcionamento do serviço, do organismo ou da organização em causa oferece garantias suficientes quanto ao controlo do respeito desses critérios.\n\n(10) A experiência demonstrou que é necessário esclarecer determinadas disposições, nomeadamente no que respeita à determinação do número de hectares e de animais, bem como às reduções, exclusões e recuperações.\n\n(11) Nos termos do artigo 50º-A do Regulamento (CE) n.º 1698/2005, os pagamentos a título de algumas das medidas previstas nesse regulamento ficaram subordinados ao respeito da condicionalidade prevista no título II, capítulo 1, do Regulamento (CE) n.º 73/2009. Em consequência, é adequado alinhar as regras relacionadas com a condicionalidade pelas previstas nos Regulamentos (CE) n.º 73/2009 e (CE) n.º 1122/2009.\n\n(12) A experiência demonstrou que são necessárias disposições de controlo específicas para certas medidas de apoio específicas.\n\n(13) Devem efectuar-se controlos *ex post* das operações de investimento para verificar o respeito do artigo 72.º, n.º 1, do Regulamento (CE) n.º 1698/2005. É necessário especificar a base e o conteúdo desses controlos.\n\n(14) Para que a Comissão possa cumprir as suas obrigações em matéria de gestão das medidas, os Estados-Membros devem comunicar-lhe o número de controlos realizados e os respectivos resultados.\n\n(15) É conveniente estabelecer certos princípios gerais em matéria de controlo, nomeadamente o direito da Comissão de realizar controlos.\n\n(16) Os Estados-Membros devem assegurar que os organismos pagadores referidos no artigo 6.º do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^6^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0006)), disponham de informações suficientes sobre os controlos realizados por outros serviços ou organismos a fim de cumprirem as suas obrigações a título desse regulamento.\n\n(17) A fim de evitar problemas contabilísticos susceptíveis de se produzirem caso fosse necessário aplicar diferentes procedimentos de controlo relativamente ao exercício de 2011, o presente regulamento deve ser aplicável a partir de 1 de Janeiro de 2011.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Desenvolvimento Rural,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "28b3eaf5d9031d4f": {
+   "fragment_id": "PARTE I",
+   "type": "divisao",
+   "heading": "PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE I"
+  },
+  "74133bab0f6b4994": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS"
+  },
+  "f6b6105be25d14c6": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento estabelece as regras de execução relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas co-financiadas de apoio ao desenvolvimento rural adoptadas ao abrigo do Regulamento (CE) n.º 1698/2005."
+  },
+  "7a31261fafc9554a": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Pedido de apoio»: um pedido de apoio ou de participação num regime a título do Regulamento (CE) n.º 1698/2005;\n\nb) «Pedido de pagamento»: um pedido apresentado por um beneficiário com vista a um pagamento pelas autoridades nacionais;\n\nc) «Outra declaração»: qualquer declaração ou documento, com excepção dos referidos nas alíneas a) e b), que deve ser apresentado por um beneficiário ou por terceiros, ou estar na posse dos mesmos, para cumprir os requisitos específicos de certas medidas de desenvolvimento rural."
+  },
+  "fdfc4af0d41554ea": {
+   "fragment_id": "Artigo 3.º — Pedidos de apoio, pedidos de pagamento e outras declarações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Pedidos de apoio, pedidos de pagamento e outras declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedidos de apoio, pedidos de pagamento e outras declarações\n\n1. Os Estados-Membros prevêem procedimentos adequados para a apresentação dos pedidos de apoio.\n\n2. Relativamente às medidas com compromissos plurianuais, o beneficiário apresenta um pedido anual de pagamento.\n\nContudo, os Estados-Membros podem dispensar a apresentação física anual dos pedidos de pagamento se instituírem procedimentos alternativos eficazes para realizar os controlos administrativos previstos nos artigos 11.º ou 24.º, consoante o caso.\n\n3. Um pedido de apoio, um pedido de pagamento ou outra declaração podem ser total ou parcialmente retirados em qualquer momento. A prova dessa retirada deve ser registada pela autoridade competente.\n\nSe a autoridade competente já tiver informado o beneficiário da existência de irregularidades nos documentos referidos no primeiro parágrafo, ou se o tiver notificado da sua intenção de realizar um controlo *in loco* e esse controlo revelar subsequentemente irregularidades, as retiradas não são autorizadas no que respeita às partes afectadas por essas irregularidades.\n\nAs retiradas referidas no primeiro parágrafo colocam os beneficiários na situação em que se encontravam antes da apresentação dos documentos em questão, ou de parte deles.\n\n4. Os pedidos de apoio, os pedidos de pagamento e outras declarações podem ser ajustados em qualquer momento após a sua apresentação, nos casos de erros óbvios reconhecidos pela autoridade competente."
+  },
+  "5b7fb895b28ca160": {
+   "fragment_id": "Artigo 4.º — Princípios gerais de controlo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Princípios gerais de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais de controlo\n\n1. Os Estados-Membros estabelecem um sistema de controlo que garanta que são efectuados todos os controlos necessários para assegurar a verificação eficaz do respeito das condições de concessão das ajudas.\n\n2. Sem prejuízo das disposições específicas do presente regulamento, os Estados-Membros asseguram que todos os critérios de elegibilidade estabelecidos pela legislação da União Europeia ou pela legislação nacional, ou ainda pelos programas de desenvolvimento rural possam ser controlados de acordo com um grupo de indicadores verificáveis a definir pelos Estados-Membros.\n\n3. Os Estados-Membros garantem que seja aplicável um sistema de identificação único a todos os pedidos de apoio, pedidos de pagamento e outras declarações apresentados pelo mesmo beneficiário. Essa identificação é compatível com o sistema referido no artigo 15.º, n.º 1, alínea f), do Regulamento (CE) n.º 73/2009 para o registo da identidade dos agricultores.\n\n4. Sempre que seja oportuno, os controlos *in loco* previstos nos artigos 12.º, 20.º e 25.º do presente regulamento e outros controlos previstos na regulamentação da União Europeia relativa às subvenções agrícolas são realizados simultaneamente.\n\n5. Os resultados dos controlos efectuados em conformidade com os artigos 11.º, 12.º, 24.º e 25.º são avaliados para determinar se os eventuais problemas encontrados representam, de modo geral, um risco para outras operações semelhantes, outros beneficiários ou outros organismos. Essa avaliação deve identificar igualmente as causas de tais situações, os exames complementares que possam ser necessários e as medidas correctivas e preventivas necessárias.\n\n6. Os pedidos de apoio, os pedidos de pagamento e outras declarações são rejeitados se os beneficiários ou os seus representantes impedirem a realização das verificações. Quaisquer montantes já pagos por essa operação são recuperados em conformidade com os critérios previstos no artigo 18.º, n.º 2, do presente regulamento.\n\n7. Sem prejuízo do disposto no artigo 20.º, n.º 4, do presente regulamento e desde que o objectivo do controlo não seja comprometido, os controlos *in loco* podem ser objecto de aviso prévio. O aviso prévio é dado com a antecedência estritamente necessária, que não pode exceder 14 dias. Contudo, para controlos *in loco* referentes às medidas «animais», o aviso prévio não pode ser feito com mais de 48 horas de antecedência, excepto nos casos devidamente justificados.\n\n8. Sem prejuízo de disposições específicas, não são efectuados quaisquer pagamentos a beneficiários em relação aos quais se prove terem criado artificialmente as condições exigidas para conseguirem esses pagamentos a fim de obter um benefício contrário aos objectivos do regime de apoio.\n\n9. As reduções ou exclusões ao abrigo do presente regulamento não prejudicam as sanções suplementares previstas por outras disposições da legislação da União Europeia ou da legislação nacional."
+  },
+  "774e6a8324a59078": {
+   "fragment_id": "Artigo 5.º — Recuperação de pagamentos indevidos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Recuperação de pagamentos indevidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recuperação de pagamentos indevidos\n\n1. Em caso de pagamento indevido, incumbe ao beneficiário reembolsar o montante em questão acrescido de juros calculados de acordo com o n.º 2.\n\n2. Os juros são calculados em função do período decorrido entre a notificação ao beneficiário da obrigação de reembolso e o reembolso efectivo ou a dedução do montante que deve ser reembolsado.\n\nA taxa de juro aplicável é calculada em conformidade com o direito nacional, mas não deve ser inferior à taxa de juro aplicável à recuperação de montantes no âmbito das disposições nacionais.\n\n3. A obrigação de reembolso referida no n.º 1 não é aplicável se o pagamento tiver sido efectuado por erro da autoridade competente ou por erro de outra autoridade e se o erro não pudesse razoavelmente ter sido detectado pelo beneficiário.\n\nNo entanto, se o erro estiver relacionado com elementos factuais relevantes para o cálculo do pagamento em causa, o disposto no primeiro parágrafo só é aplicável se a decisão de recuperação não tiver sido comunicada nos 12 meses seguintes ao pagamento."
+  },
+  "a152f9cee9821cd4": {
+   "fragment_id": "PARTE II",
+   "type": "divisao",
+   "heading": "PARTE II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II"
+  },
+  "45ba06c5044bdcf9": {
+   "fragment_id": "REGRAS DE GESTÃO E DE CONTROLO",
+   "type": "divisao",
+   "heading": "REGRAS DE GESTÃO E DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS DE GESTÃO E DE CONTROLO"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "46f63bbace8a9413": {
+   "fragment_id": "APOIO AO DESENVOLVIMENTO RURAL PARA CERTAS MEDIDAS DO EIXO 2 E DO EIXO 4",
+   "type": "divisao",
+   "heading": "APOIO AO DESENVOLVIMENTO RURAL PARA CERTAS MEDIDAS DO EIXO 2 E DO EIXO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APOIO AO DESENVOLVIMENTO RURAL PARA CERTAS MEDIDAS DO EIXO 2 E DO EIXO 4"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "41958a9bbd0c746b": {
+   "fragment_id": "Artigo 6.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito de aplicação e definições\n\n1. O presente título é aplicável:\n\na) Ao apoio concedido nos termos do artigo 36.º do Regulamento (CE) n.º 1698/2005;\n\nb) Ao apoio concedido em conformidade com o artigo 63.º, alínea a), do Regulamento (CE) n.º 1698/2005 a operações correspondentes às medidas definidas no âmbito do eixo 2.\n\nContudo, o presente título não é aplicável às medidas referidas no artigo 36.º, alínea a), subalínea vi) e alínea b), subalíneas vi) e vii), e no artigo 39.º, n.º 5, do Regulamento (CE) n.º 1698/2005, nem a medidas a título do artigo 36.º, alínea b), subalíneas i), ii) e iii), desse regulamento no que respeita aos custos de implantação.\n\n2. Para efeitos do presente título, entende-se por:\n\na) «Medida “superfície”»: medida ou submedida para a qual o apoio é baseado na dimensão da superfície declarada;\n\nb) «Medida “animais”»: medida ou submedida para a qual o apoio é baseado no número de animais declarados;\n\nc) [**►C1**](http://publications.europa.eu/resource/celex/32011R0065R%2801%29) «Superfície determinada»: superfície dos terrenos ou das parcelas em relação aos quais é pedido apoio, determinada em conformidade com o artigo 11.º e o artigo 15.º, n.^os^ 3, 4 e 5, do presente regulamento;**◄**\n\nd) [**►C1**](http://publications.europa.eu/resource/celex/32011R0065R%2801%29) «Animais determinados»: o número de animais determinados em conformidade com o artigo 11.º e o artigo 15.º, n.º 6, do presente regulamento.**◄**"
+  },
+  "ecec469f25aaa199": {
+   "fragment_id": "Artigo 7.º — Regras aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Regras aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regras aplicáveis\n\n1. Para efeitos do presente título, são aplicáveis *mutatis mutandis* o artigo 2.º, segundo parágrafo, n.^os^ 1, 10 e 20, o artigo 6.º, n.º 1, o artigo 10.º, n.º 2, os artigos 12.º, 14.º, 16.º e 20.º, o artigo 25.º, n.º 1, segundo parágrafo, e os artigos 73.º, 74.º e 82.º do Regulamento (CE) n.º 1122/2009. Contudo, no que respeita às medidas referidas no artigo 36.º, alínea b), subalíneas iii), iv) e v), do Regulamento (CE) n.º 1698/2005, os Estados-Membros podem estabelecer sistemas alternativos adequados para identificar univocamente as terras que sejam objecto do apoio.\n\n2. Para efeitos do presente título, as referências do Regulamento (CE) n.º 1122/2009 aos «agricultores» entendem-se como referências aos «beneficiários»."
+  },
+  "4a6b8b50d8781e51": {
+   "fragment_id": "Artigo 8.º — Pedidos de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedidos de pagamento\n\n1. Relativamente a todos os compromissos que se iniciem ou aos contratos que entrem em vigor após 1 de Janeiro de 2007, os pedidos de pagamento a título de medidas «superfície» serão apresentados em conformidade com os prazos fixados no artigo 11.º, n.º 2, do Regulamento (CE) n.º 1122/2009. No entanto, os Estados-Membros podem decidir aplicar esta disposição apenas a partir do exercício de 2008.\n\n2. Se um Estado-Membro aplicar o artigo 3.º, n.º 2, segundo parágrafo, do presente regulamento, considera-se que o pedido de pagamento foi apresentado em conformidade com os prazos fixados no artigo 11.º, n.º 2, do Regulamento (CE) n.º 1122/2009.\n\n3. Os artigos 22.º e 23.º do Regulamento (CE) n.º 1122/2009 são aplicáveis, *mutatis mutandis*, aos pedidos de pagamento no âmbito do presente título. Para além das informações referidas no artigo 12.º, n.º 1, alínea d), desse regulamento, o pedido de pagamento contém igualmente as informações previstas nessa disposição no que respeita às terras não agrícolas que sejam objecto do pedido de apoio."
+  },
+  "c5cc2f284353fb8a": {
+   "fragment_id": "Artigo 9.º — Pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1. Nenhum pagamento relativo a qualquer medida ou conjunto de operações no âmbito do presente título é efectuado antes de os controlos dessa medida ou desse conjunto de operações relativos aos critérios de elegibilidade, referidos no capítulo II, secção I, estarem concluídos.\n\nContudo, os Estados-Membros podem decidir, tendo em conta o risco de sobrepagamento, pagar até 75 % da ajuda após a conclusão dos controlos administrativos previstos no artigo 11.º. A percentagem de pagamento é idêntica para todos os beneficiários da medida ou do conjunto de operações.\n\n2. No que se refere aos controlos de condicionalidade previstos no capítulo II, secção II, quando esses controlos não puderem ser completados antes do pagamento, procede-se à recuperação dos pagamentos indevidos em conformidade com o artigo 5.º."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "b8dc9099a267474d": {
+   "fragment_id": "Controlo, reduções e exclusões",
+   "type": "divisao",
+   "heading": "Controlo, reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlo, reduções e exclusões"
+  },
+  "b7f52f8aff7cc154": {
+   "fragment_id": "Artigo 10.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\n1. Os Estados-Membros utilizam o sistema integrado de gestão e de controlo previsto no título II, capítulo 4, do Regulamento (CE) n.º 73/2009 (a seguir, «SIGC»).\n\n2. A verificação do respeito dos critérios de elegibilidade consiste em controlos administrativos e em controlos *in loco*.\n\n3. O respeito da condicionalidade é verificado através de controlos *in loco* e, se for caso disso, através de controlos administrativos.\n\n4. No período abrangido por um compromisso, as parcelas para as quais seja concedido o apoio não podem ser permutadas, excepto nos casos especificamente previstos no programa de desenvolvimento rural."
+  },
+  "a2b0587107dc77d3": {
+   "fragment_id": "Secção I",
+   "type": "divisao",
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção I"
+  },
+  "024300f16bd0f67c": {
+   "fragment_id": "Respeito dos critérios de elegibilidade, dos compromissos e das obrigações conexas",
+   "type": "divisao",
+   "heading": "Respeito dos critérios de elegibilidade, dos compromissos e das obrigações conexas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Respeito dos critérios de elegibilidade, dos compromissos e das obrigações conexas"
+  },
+  "39dfd186f39f4af2": {
+   "fragment_id": "Subsecção I",
+   "type": "divisao",
+   "heading": "Subsecção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção I"
+  },
+  "c579b677aff61f10": {
+   "fragment_id": "Controlo",
+   "type": "divisao",
+   "heading": "Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlo"
+  },
+  "437822eb9222c49e": {
+   "fragment_id": "Artigo 11.º — Controlos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Controlos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlos administrativos\n\n1. Os controlos administrativos são efectuados relativamente a todos os pedidos de apoio, pedidos de pagamento e outras declarações que os beneficiário ou terceiros devem apresentar e incidem em todos os elementos que é possível e adequado controlar por meios administrativos. Os procedimentos devem assegurar o registo das actividades de controlo desenvolvidas, dos resultados das verificações e das medidas adoptadas em relação às discrepâncias.\n\n2. Sempre que possível e adequado, os controlos administrativos incluem controlos cruzados, nomeadamente com dados do SIGC. Para evitar qualquer pagamento indevido de ajudas, esses controlos cruzados incidem, pelo menos, nas parcelas e animais que sejam objecto de uma medida de apoio.\n\n3. O respeito dos compromissos de longo prazo é objecto de controlo.\n\n4. As indicações de irregularidades detectadas nos controlos cruzados são objecto dos procedimentos administrativos adequados e, se for caso disso, de controlos *in loco*.\n\n5. Se for caso disso, os controlos administrativos da elegibilidade têm em conta os resultados de verificações realizadas por outros serviços, organismos ou organizações que efectuem controlos das subvenções agrícolas."
+  },
+  "74ef6231f3186f75": {
+   "fragment_id": "Artigo 12.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlos in loco\n\n1. O número total de controlos *in loco* relacionados com os pedidos de pagamento apresentados durante cada ano civil cobre, no mínimo, 5 % do número total de beneficiários a que se aplique o presente título. Contudo, para a medida prevista no artigo 36.º, alínea a), subalínea iv), do Regulamento (CE) n.º 1698/2005, a taxa de 5 % deve ser respeitada ao nível da medida em questão.\n\nOs requerentes considerados não elegíveis, na sequência dos controlos administrativos, não são incluídos no número mínimo de beneficiários controlados em conformidade com o primeiro parágrafo.\n\n2. Se os controlos *in loco* revelarem a existência de irregularidades significativas no que se refere a uma dada medida, ou numa região ou parte de região, a autoridade competente aumenta em conformidade o número de controlos *in loco* durante o ano em curso e a percentagem de beneficiários a controlar *in loco* no ano seguinte.\n\n3. As amostras de controlo para os controlos *in loco* a realizar nos termos do n.º 1 do presente artigo são seleccionadas em conformidade com o artigo 31.º do Regulamento (CE) n.º 1122/2009. Tomando como base a análise de risco mencionada no artigo em questão, os Estados-Membros podem seleccionar medidas específicas dos beneficiários para o controlo *in loco*.\n\n4. Em relação aos beneficiários de quaisquer medidas plurianuais que impliquem pagamentos durante mais de cinco anos, os Estados-Membros podem decidir, submeter a controlo, após o quinto ano de pagamento, pelo menos, 2,5 % desses beneficiários.\n\nOs beneficiários controlados ao abrigo do primeiro parágrafo do presente número não são tidos em conta para efeitos do n.º 1, primeiro parágrafo."
+  },
+  "007457f9d33c9dec": {
+   "fragment_id": "Artigo 13.º — Relatório de controlo",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatório de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatório de controlo\n\nOs controlos *in loco* a título da presente subsecção são objecto de um relatório de controlo a elaborar nos termos do artigo 32.º do Regulamento (CE) n.º 1122/2009."
+  },
+  "82cf33314f6ca6e7": {
+   "fragment_id": "Artigo 14.º — Princípios gerais relativos aos controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Princípios gerais relativos aos controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Princípios gerais relativos aos controlos in loco\n\n1. Os controlos *in loco* são repartidos ao longo do ano de acordo com uma análise dos riscos associados aos diferentes compromissos a título de cada medida de desenvolvimento rural.\n\n2. Os controlos *in loco* relacionados com medidas seleccionadas para controlo como referido no artigo 12.º, n.º 3, do presente regulamento, incidem em todos os compromissos e obrigações de um beneficiário que possam ser controlados no momento da visita."
+  },
+  "d2a70f40e2322ed3": {
+   "fragment_id": "Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies\n\n1. Os Estados-Membros determinam os critérios e métodos de controlo que permitam controlar os diferentes compromissos e obrigações do beneficiário a fim de satisfazer os requisitos do artigo 48.º, n.º 1, do Regulamento (CE) n.º 1974/2006 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0007)).\n\n2. Se os Estados-Membros dispuserem que determinados elementos de um controlo *in loco* podem ser realizados com base numa amostra, esta deve garantir um nível de controlo fiável e representativo. Os Estados-Membros fixam os critérios para a selecção da amostra. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra são alargados em conformidade.\n\n3. No que se refere aos controlos respeitantes às medidas «superfícies», os controlos *in loco* abrangem todas as parcelas agrícolas e as terras não agrícolas para que foi solicitado apoio.\n\n4. Não obstante, a determinação efectiva da dimensão das superfícies para o controlo *in loco* pode ser limitada a uma amostra de, no mínimo, 50 % das superfícies, contanto que a amostra garanta um nível de controlo fiável e representativo, tanto no que respeita à superfície controlada, como ao apoio solicitado. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra são alargados em conformidade.\n\n5. A determinação das superfícies e a teledetecção são efectuadas em conformidade com o artigo 34.º, n.^os^ 1 a 5 e o artigo 35.º do Regulamento (CE) n.º 1122/2009.\n\nContudo, para as medidas previstas no artigo 36.º, alínea b), subalíneas iii), iv) e v), do Regulamento (CE) n.º 1698/2005, os Estados-Membros podem definir tolerâncias adequadas, que em nenhum caso são superiores ao dobro das estabelecidas no artigo 34.º, n.º 1, do Regulamento (CE) n.º 1122/2009.\n\n6. No que se refere aos controlos respeitantes às medidas «animais», os controlos *in loco* são efectuados nos termos do artigo 42.º do Regulamento (CE) n.º 1122/2009."
+  },
+  "3475b2b9089c62c9": {
+   "fragment_id": "Subsecção II",
+   "type": "divisao",
+   "heading": "Subsecção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção II"
+  },
+  "99c0545304accaf5": {
+   "fragment_id": "Reduções e exclusões",
+   "type": "divisao",
+   "heading": "Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reduções e exclusões"
+  },
+  "3f1244389e38d1a1": {
+   "fragment_id": "Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície\n\n1. Se, relativamente a um ano determinado, um beneficiário não declarar todas as superfícies agrícolas e a diferença entre a superfície agrícola total declarada no pedido de pagamento, por um lado, e a soma da superfície declarada com a superfície total das parcelas agrícolas não declaradas, por outro, exceder 3 % da superfície declarada, o montante global da ajuda a pagar a esse beneficiário, a título do ano em causa, no âmbito das medidas «superfície», é reduzido numa percentagem que pode ir até 3 %, dependendo da gravidade da omissão.\n\nO primeiro parágrafo näo é aplicável quando todas as superfícies agrícolas em causa tenham sido declaradas às autoridades competentes no âmbito:\n\na) do sistema integrado referido no artigo 15.º do Regulamento (CE) n.º 73/2009, ou\n\nb) de outros sistemas de gestão e de controlo que garantam a compatibilidade com o sistema integrado, em conformidade com o artigo 26.º do mesmo regulamento.\n\n2. Para efeitos da aplicação do presente artigo, as superfícies declaradas por um beneficiário às quais seja aplicada a mesma taxa de ajuda ao abrigo de uma medida «superfície» são consideradas como constituindo um grupo de culturas. Quando sejam utilizados montantes de ajuda degressivos, é tida em conta a média desses montantes em relação às respectivas superfícies declaradas.\n\n3. Se se verificar que a superfície determinada de um grupo de culturas é superior à declarada no pedido de pagamento, é utilizada para o cálculo da ajuda a superfície declarada.\n\nSe a superfície declarada no pedido de pagamento for superior à superfície determinada para esse grupo de culturas, a ajuda é calculada com base na superfície determinada para esse grupo de culturas.\n\nNo entanto, se a diferença entre a superfície total determinada e a superfície total declarada no pedido de pagamento para uma medida for inferior ou igual a 0,1 hectare, a superfície determinada é considerada igual à superfície declarada. Para este cálculo, apenas são tidas em conta as sobredeclarações de superfícies ao nível do grupo de culturas.\n\nO disposto no terceiro parágrafo não é aplicável se a diferença representar mais de 20 % da superfície total declarada para pagamentos.\n\nSempre que tenha sido fixado um limite máximo ou um tecto à superfície elegível para apoio, o número de hectares declarado no pedido de pagamento é reduzido para o limite ou o tecto fixado.\n\n4. Se a mesma superfície servir de base para um pedido de pagamento no âmbito de mais de uma medida «superfície», essa superfície é tida em conta separadamente para cada uma das medidas.\n\n5. No caso mencionado no n.º 3, segundo parágrafo, a ajuda é calculada com base na superfície determinada diminuída do dobro da diferença encontrada, se esta diferença for superior a 3 %, ou a dois hectares, mas não superior a 20 % da superfície determinada.\n\nSe a diferença for superior a 20 % da superfície determinada, não é concedida qualquer ajuda relativamente ao grupo de culturas em causa.\n\nSe a diferença for superior a 50 %, o beneficiário é uma vez mais excluído do benefício da ajuda, até ao montante da diferença entre a superfície declarada no pedido de pagamento e a superfície determinada.\n\n6. Se a diferença entre a superfície declarada no pedido de pagamento e a superfície determinada em conformidade com o n.º 3, segundo parágrafo, resultar de sobredeclarações intencionais, a ajuda a que o beneficiário teria direito, nos termos do referido parágrafo, não é concedida no que respeita ao ano civil em questão no âmbito da medida «superfície» em causa, se essa diferença for superior a 0,5 % da superfície determinada, ou a um hectare.\n\nSe a diferença for superior a 20 % da superfície determinada, o beneficiário é uma vez mais excluído do benefício da ajuda, até ao montante da diferença entre a superfície declarada e a superfície determinada.\n\n7. O montante resultante das exclusões previstas no n.º 5, terceiro parágrafo, e no n.º 6, segundo parágrafo, do presente artigo é deduzido em conformidade com o artigo 5.º-B do Regulamento (CE) n.º 885/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#E0008)). Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detectada, o saldo é cancelado."
+  },
+  "1fd8ac61740de3e2": {
+   "fragment_id": "Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reduções e exclusões em relação com o número de animais\n\n1. Para efeitos do presente artigo, os bovinos e os ovinos e caprinos são tratados separadamente.\n\nNo que se refere a animais diferentes dos mencionados no primeiro parágrafo, o Estado-Membro fixa um sistema de reduções e exclusões adequado.\n\n2. Sempre que seja aplicável um limite individual ou um limite máximo individual, o número de animais declarado no pedido de pagamento é reduzido para o limite ou o limite máximo fixado para o beneficiário em questão.\n\nEm nenhum caso podem ser concedidas ajudas relativamente a um número de animais superior ao declarado no pedido de pagamento.\n\nSe o número de animais declarados no pedido de pagamento for superior ao número de animais determinado na sequência de controlos administrativos ou *in loco*, a ajuda é calculada com base no número de animais determinado.\n\n3. Um bovino que tenha perdido uma das duas marcas auriculares é considerado como determinado se estiver clara e individualmente identificado pelos outros elementos do regime de identificação e registo de bovinos.\n\nNo caso de irregularidades que consistam em inscrições incorrectas no registo de bovinos ou nos passaportes dos animais, o bovino em causa só deixa de ser considerado como fazendo parte dos animais determinados se os erros forem constatados em, pelo menos, dois controlos realizados durante um período de 24 meses. Em todos os outros casos, o animal em causa deixa de ser considerado como fazendo parte dos animais determinados após a primeira constatação.\n\nO artigo 3.º, n.º 4, do presente regulamento é aplicável às inscrições e notificações no âmbito do regime de identificação e registo de bovinos.\n\n4. No caso referido no n.º 2, terceiro parágrafo, ao montante total da ajuda a que o beneficiário tem direito no âmbito da medida é deduzida a percentagem que deve ser fixada em conformidade com o n.º 6, se as irregularidades não disserem respeito a mais de três animais.\n\n5. Se as irregularidades disserem respeito a mais de três animais, o montante total da ajuda a que o beneficiário tem direito no âmbito da medida é reduzido:\n\na) Da percentagem a fixar de acordo com o n.º 6, se a mesma não for superior a 10 %;\n\nb) Do dobro da percentagem fixada de acordo com o n.º 6, se a mesma for superior a 10 %, mas inferior ou igual a 20 %.\n\nSe essa percentagem for superior a 20 %, não é concedida qualquer ajuda para a medida em causa.\n\nSe essa percentagem for superior a 50 %, o beneficiário é uma vez mais excluído de do benefício da ajuda até ao montante da diferença entre o número de animais declarado e o número de animais determinado em conformidade com o n.º 2, terceiro parágrafo. O montante resultante da exclusão é deduzido em conformidade com o artigo 5.º B do Regulamento (CE) n.º 885/2006. Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detectada, o saldo é cancelado.\n\n6. Para estabelecer as percentagens referidas nos n.^os^ 4 e 5, o número de animais em relação aos quais foram constatadas irregularidades é dividido pelo número de animais determinado.\n\nNo caso de aplicação do artigo 16.º, n.º 3, segundo parágrafo, do Regulamento (CE) n.º 1122/2009, quaisquer animais potencialmente elegíveis em relação aos quais se constate que não estão correctamente identificados ou registados no sistema de identificação e registo de bovinos são contabilizados como animais em relação aos quais foram constatadas irregularidades.\n\n7. Se a diferença entre o número de animais declarado e o determinado em conformidade com o n.º 2, terceiro parágrafo, resulte de irregularidades cometidas intencionalmente, não é concedida qualquer ajuda para a medida em causa.\n\nSe a percentagem estabelecida em conformidade com o n.º 6 for superior a 20 %, o beneficiário é uma vez mais excluído do benefício da ajuda até ao montante da diferença entre o número de animais declarado e o número de animais determinado em conformidade com o n.º 2, terceiro parágrafo. O montante resultante da exclusão é deduzido em conformidade com o artigo 5.º-B do Regulamento (CE) n.º 885/2006. Se o montante não puder inteiramente ser deduzido durante os três anos civis seguintes ao ano civil em que foi detectada a irregularidade, o saldo é cancelado."
+  },
+  "98166f55d9c73e8b": {
+   "fragment_id": "Artigo 18.º — Reduções e exclusões no caso de incumprimento de outros critérios de elegibilidade, compromissos e obrigações conexas",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Reduções e exclusões no caso de incumprimento de outros critérios de elegibilidade, compromissos e obrigações conexas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reduções e exclusões no caso de incumprimento de outros critérios de elegibilidade, compromissos e obrigações conexas\n\n1. A ajuda solicitada é reduzida ou recusada quando não estejam cumpridas as obrigações e critérios seguintes:\n\na) para as medidas referidas no artigo 36.º, alíneas a), subalíneas iv) e v), e alínea b), subalínea v), do Regulamento (CE) n.º 1698/2005, as normas obrigatórias relevantes e os requisitos mínimos relativos à utilização de adubos e produtos fitossanitários, outras normas obrigatórias mencionadas nos artigos 39.º, n.º 3, 40.º, n.º 2, e 47.º, n.º 1, do Regulamento (CE) n.º 1782/2003, assim como os compromissos que vão mais longe que essas normas e requisitos; ou\n\nb) critérios de elegibilidade diferentes dos relacionados com a dimensão da superfície ou o número de animais declarados.\n\nNo caso de compromissos plurianuais, as reduções de ajudas, as exclusões e as recuperações são também aplicáveis aos montantes já pagos nos anos anteriores por esses compromissos.\n\n2. O Estado-Membro recupera e/ou recusa o apoio, ou determina o montante da redução da ajuda, nomeadamente baseando-se severidade, na extensão e na natureza permanente do incumprimento constatado.\n\nA severidade do incumprimento depende, em especial, da importância das consequências do mesmo, tendo em conta os objectivos dos critérios não cumpridos.\n\nA extensão do incumprimento depende, nomeadamente, do seu efeito na operação no seu conjunto.\n\nA permanência de um incumprimento depende, nomeadamente, da duração dos seus efeitos, ou da possibilidade de pôr fim a esses efeitos por meios razoáveis.\n\n3. Sempre que o incumprimento resulte de irregularidades cometidas deliberadamente, o beneficiário é excluído da medida em questão no ano civil em causa e no ano civil seguinte."
+  },
+  "f0e23992e15f2500": {
+   "fragment_id": "Secção II",
+   "type": "divisao",
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção II"
+  },
+  "e0f7d649bccf391f": {
+   "fragment_id": "Condicionalidade",
+   "type": "divisao",
+   "heading": "Condicionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condicionalidade"
+  },
+  "9e6a7c99673ba991": {
+   "fragment_id": "Artigo 19.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Princípios gerais\n\n1. Sem prejuízo do disposto no artigo 51.º, n.º 3, do Regulamento (CE) n.º 1698/2005, entende-se por «condicionalidade» o respeito dos requisitos legais de gestão e das boas condições agrícolas e ambientais referidas no artigo 50.º-A, n.º 1, do mesmo regulamento, bem como dos requisitos mínimos relativos à utilização de adubos e produtos fitossanitários a que se refere o artigo 51.º, n.º 1, segundo parágrafo, do referido regulamento.\n\n2. O artigo 22.º do Regulamento (CE) n.º 73/2009 e o artigo 2.º, segundo parágrafo, pontos 2 e 32 a 37, os artigos 8.º, 47.º, 48.º e 49.º, o artigo 50.º com excepção do n.º 1, primeiro parágrafo, o artigo 51.º, n.^os^ 1, 2 e 3, os artigos 52.º, 53.º e 54º, o artigo 70.º, n.^os^ 3, 4, 6 e 7, e os artigos 71.º e 72.º do Regulamento (CE) n.º 1122/2009 são aplicáveis *mutatis mutandis* no que se refere à condicionalidade.\n\n3. Para o cálculo da redução a que se refere o artigo 21.º do presente regulamento, considera-se que os requisitos mínimos relativos à utilização de adubos e produtos fitossanitários a que se refere o artigo 39.º, n.º 3, do Regulamento (CE) n.º 1698/2005 dizem respeito aos domínios do «ambiente» e da «saúde pública, saúde animal e fitossanidade», respectivamente, nos termos do artigo 5.º, n.º 1, do Regulamento (CE) n.º 73/2009. Esses dois requisitos mínimos serão considerados como um «acto», na acepção do artigo 2.º, segundo parágrafo, ponto 33, do Regulamento (CE) n.º 1122/2009."
+  },
+  "a202205e40cce963": {
+   "fragment_id": "Artigo 20.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlos in loco\n\n1. No que se refere aos requisitos e normas por que é responsável, a autoridade de controlo competente efectua controlos *in loco* a, pelo menos, 1 % de todos os beneficiários que apresentem pedidos de pagamento a título do artigo 36.º, alínea a), subalíneas i) a v), e alínea b), subalíneas i), iv) e v), do Regulamento (CE) n.º 1698/2005.\n\n2. As amostras de beneficiários a controlar em conformidade com o n.º 1 podem ser seleccionadas a partir da amostra de beneficiários que já tenham sido seleccionados nos termos do artigo 12.º do presente regulamento aos quais se apliquem os requisitos ou normas pertinentes, ou a partir de toda a população de beneficiários que apresentem pedidos de pagamento ao abrigo do artigo 36.º, alínea a), subalíneas i) a v), e alínea b), subalíneas i), iv) e v), do Regulamento (CE) n.º 1698/2005 e que sejam obrigados a cumprir os respectivos requisitos ou normas.\n\n3. É possível combinar os procedimentos previstos no n.º 2, quando essa combinação aumente a eficácia do sistema de controlo.\n\n4. Quando os actos e normas relativos à condicionalidade exijam que os controlos *in loco* sejam realizados sem aviso prévio, o mesmo requisito é também aplicável aos controlos *in loco* da condicionalidade."
+  },
+  "8fd4ccc75f08254a": {
+   "fragment_id": "Artigo 21.º — Reduções e exclusões",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\nSem prejuízo do disposto no artigo 51.º, n.º 2, do Regulamento (CE) n.º 1698/2005, se for constatado um caso de incumprimento, as reduções e exclusões referidas no artigo 19.º, n.º 2, do presente regulamento são aplicadas ao montante global da ajuda a título do artigo 36.º, alínea a), subalíneas i) a v), e alínea b), subalíneas i), iv) e v), do Regulamento (CE) n.º 1698/2005 que tenha sido, ou deva ser, concedido ao beneficiário em questão, na sequência de pedidos de pagamento que o mesmo tenha apresentado, ou venha a apresentar, durante o ano civil em que o incumprimento é constatado."
+  },
+  "031210ebd25a3eb9": {
+   "fragment_id": "Secção III",
+   "type": "divisao",
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção III"
+  },
+  "a71df16a662ac89e": {
+   "fragment_id": "Ordem das reduções",
+   "type": "divisao",
+   "heading": "Ordem das reduções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ordem das reduções"
+  },
+  "0506e7cdefbfc82c": {
+   "fragment_id": "Artigo 22.º — Ordem das reduções",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Ordem das reduções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Ordem das reduções\n\nSempre que sejam aplicáveis diversas reduções, seguem estas pela ordem a seguir indicada:\n\n— Primeiro, em conformidade com o artigo 16.º, n.^os^ 5 e 6, e o artigo 17.º, n.^os^ 4 e 5, do presente regulamento,\n\n— Seguidamente, em conformidade com o artigo 18.º do presente regulamento,\n\n— Seguidamente, para as apresentações fora do prazo, em conformidade com o artigo 23.º do Regulamento (CE) n.º 1122/2009,\n\n— Seguidamente, em conformidade com o artigo 16.º, n.º 1, do presente regulamento,\n\n— Seguidamente, em conformidade com o artigo 21.º do presente regulamento,\n\n— Por último, em conformidade com o artigo 16.º, n.º 7, e o artigo 17.º, n.º 7, do presente regulamento."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "77f7465b8ff93ad1": {
+   "fragment_id": "APOIO AO DESENVOLVIMENTO RURAL A TÍTULO DOS EIXOS 1 E 3 E DE CERTAS MEDIDAS DOS EIXOS 2 E 4",
+   "type": "divisao",
+   "heading": "APOIO AO DESENVOLVIMENTO RURAL A TÍTULO DOS EIXOS 1 E 3 E DE CERTAS MEDIDAS DOS EIXOS 2 E 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APOIO AO DESENVOLVIMENTO RURAL A TÍTULO DOS EIXOS 1 E 3 E DE CERTAS MEDIDAS DOS EIXOS 2 E 4"
+  },
+  "1698fd56073f7adb": {
+   "fragment_id": "Disposições introdutórias",
+   "type": "divisao",
+   "heading": "Disposições introdutórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições introdutórias"
+  },
+  "ce0b878927850811": {
+   "fragment_id": "Artigo 23.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito de aplicação\n\nO presente título é aplicável a despesas do âmbito do Regulamento (CE) n.º 1698/2005 não abrangidas pelo título I do presente regulamento."
+  },
+  "5d2e6fa3ee039dcb": {
+   "fragment_id": "Controlos, reduções e exclusões",
+   "type": "divisao",
+   "heading": "Controlos, reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlos, reduções e exclusões"
+  },
+  "e4b3bb4c5a01472a": {
+   "fragment_id": "Artigo 24.º — Controlos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Controlos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Controlos administrativos\n\n1. Os controlos administrativos são efectuados relativamente a todos os pedidos de apoio, pedidos de pagamento ou outras declarações que os beneficiários ou terceiros devem apresentar e incidem em todos os elementos que seja possível e adequado controlar por meios administrativos. Os procedimentos devem assegurar o registo das actividades de controlo realizadas, dos resultados das verificações e das medidas adoptadas em relação às discrepâncias.\n\n2. Os controlos administrativos dos pedidos de apoio incluem, nomeadamente, a verificação:\n\na) Da elegibilidade da operação para a qual é pedido o apoio;\n\nb) Do respeito dos critérios de selecção definidos no programa de desenvolvimento rural;\n\nc) Da conformidade da operação para a qual é pedido apoio com as regras nacionais e da União Europeia respeitantes, nomeadamente, se for caso disso, aos contratos públicos e aos auxílios estatais, bem como com as outras normas obrigatórias pertinentes estabelecidas pela legislação nacional, ou no programa de desenvolvimento rural;\n\nd) Do carácter razoável dos custos propostos, que são avaliados através de um sistema de avaliação adequado, tais como custos de referência, comparação de diferentes propostas ou um comité de avaliação;\n\ne) Da fiabilidade do beneficiário, por referência a quaisquer operações co-financiadas anteriores realizadas desde 2000.\n\n3. Os controlos administrativos dos pedidos de pagamento incluem, nomeadamente, e tanto quanto seja adequado relativamente ao pedido em causa, a verificação:\n\na) Da entrega dos produtos e serviços co-financiados;\n\nb) Da realidade das despesas declaradas;\n\nc) Da operação concluída, por comparação com a operação para a qual o pedido de apoio foi apresentado e concedido.\n\n4. Os controlos administrativos relativos a operações de investimento incluem, pelo menos, uma visita aos locais da operação objecto do apoio, ou aos locais do investimento, a fim de verificar a realização do investimento.\n\nNo entanto, os Estados-Membros podem decidir não realizar essas visitas por razões devidamente justificadas, como as seguintes:\n\na) A operação está incluída na amostra para controlo *in loco*, a realizar em conformidade com o artigo 25.º;\n\nb) A operação em questão constitui um pequeno investimento;\n\nc) O Estado-Membro considera que o risco de as condições para beneficiar da ajuda não serem cumpridas ou de o investimento não ser realizado é reduzido.\n\nA decisão referida no segundo parágrafo e a sua justificação são registadas.\n\n5. Os controlos administrativos incluem procedimentos para evitar o duplo financiamento irregular através de outros regimes da União Europeia ou nacionais e de outros períodos de programação. Sempre que existam outras fontes de financiamento, esses controlos devem assegurar que a ajuda total recebida respeita os limites máximos de ajuda autorizados.\n\n6. Os pagamentos pelos beneficiários são comprovados por facturas e documentos que provem o pagamento. Se tal não for possível, os pagamentos são comprovados por documentos de valor probatório equivalente."
+  },
+  "c0484160f61a01d9": {
+   "fragment_id": "Artigo 25.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Controlos in loco\n\n1. Os Estados-Membros organizam controlos *in loco* das operações aprovadas com base numa amostragem adequada. Esses controlos são realizados, tanto quanto possível, antes de o pagamento final relativo a uma operação ter lugar.\n\n2. As despesas objecto dos controlos *in loco* representam, pelo menos, 4 % das despesas a que se refere o artigo 23.º, que são financiadas pelo Fundo Europeu Agrícola de Desenvolvimento Rural (Feader) e devem ser pagas pelo organismo pagador em cada ano civil. Só são tomados em consideração os controlos realizados até ao fim do ano em questão.\n\nPara todo o período de programação, as despesas controladas representam, no mínimo, 5 % das despesas financiadas pelo Feader.\n\n3. Na constituição da amostra de operações aprovadas a controlar em conformidade com o n.º 1 tem-se em conta, nomeadamente:\n\na) A necessidade de controlar uma gama adequada de tipos e dimensões de operações;\n\nb) Eventuais factores de risco identificados pelos controlos nacionais ou da União Europeia;\n\nc) A necessidade de manter um equilíbrio entre os eixos e as medidas;\n\nd) A necessidade de seleccionar aleatoriamente entre 20 % e 25 % das despesas.\n\n4. Os inspectores que procedem aos controlos *in loco* não devem ter participado em controlos administrativos relativos à mesma operação."
+  },
+  "bc8692ebaa5e50cb": {
+   "fragment_id": "Artigo 26.º — Conteúdo dos controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Conteúdo dos controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conteúdo dos controlos in loco\n\n1. Através dos controlos *in loco*, os Estados-Membros esforçam-se por verificar:\n\na) Que os pedidos de pagamento apresentados pelo beneficiário são comprovados por documentos contabilísticos ou outros, incluindo, se for caso disso, um controlo da exactidão dos dados que constam do pedido de pagamento com base em dados ou documentação comercial na posse de terceiros;\n\nb) Em relação a um número adequado de rubricas de despesa, que a natureza e o período de realização da despesa em causa respeitam as disposições da União Europeia e correspondem às especificações aprovadas da operação e aos trabalhos realmente executados ou serviços fornecidos;\n\nc) Que a utilização efectiva ou prevista da operação corresponde à utilização descrita no pedido de apoio;\n\nd) Que as operações objecto de um financiamento público foram realizadas em conformidade com as regras e políticas da União Europeia, em especial as regras aplicáveis aos contratos públicos e as normas obrigatórias pertinentes estabelecidas pela legislação nacional ou no programa de desenvolvimento rural.\n\n2. Os controlos *in loco* de pedidos de pagamento seleccionados para controlo, como referido no artigo 25.º, n.º 3, do presente regulamento, incidem em todos os compromissos e obrigações de um beneficiário que seja possível controlar no momento da visita.\n\n3. Excepto em circunstâncias excepcionais, devidamente registadas e explicadas pelas autoridades nacionais, os controlos *in loco* incluem uma visita aos locais da operação ou, se a operação for incorpórea, ao promotor da operação.\n\n4. Só os controlos que satisfaçam a totalidade dos requisitos do presente artigo podem ser tidos em conta para o cumprimento da taxa de controlo estabelecida no artigo 27º, n.º 2."
+  },
+  "64d91780b03f4f34": {
+   "fragment_id": "Artigo 27.º — Relatório de controlo",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Relatório de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Relatório de controlo\n\n1. Cada controlo *in loco* e cada controlo *ex-post* a título da presente secção é objecto de um relatório que permita passar em revista os pormenores dos controlos realizados. O relatório indica, nomeadamente:\n\na) As medidas e os pedidos controlados;\n\nb) As pessoas presentes;\n\nc) Se o beneficiário foi advertido da visita e, em caso afirmativo, a antecedência dessa informação;\n\nd) Os resultados dos controlos e, se for caso disso, quaisquer observações específicas;\n\ne) Outras acções de controlo a efectuar.\n\n2. O beneficiário tem a possibilidade de assinar o relatório, para certificar a sua presença quando do controlo, e de acrescentar observações. Se forem constatadas irregularidades, o beneficiário recebe uma cópia do relatório de controlo."
+  },
+  "3600ccdf42adc916": {
+   "fragment_id": "Disposições de controlo suplementares para medidas específicas",
+   "type": "divisao",
+   "heading": "Disposições de controlo suplementares para medidas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições de controlo suplementares para medidas específicas"
+  },
+  "40735cd81223ac6a": {
+   "fragment_id": "Artigo 28.º — Jovens agricultores",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Jovens agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Jovens agricultores\n\nEm relação à medida prevista no artigo 22.º, n.º 1, do Regulamento (CE) n.º 1698/2005, os Estados-Membros avaliam o cumprimento do plano empresarial, em conformidade com o artigo 13.º, n.º 3, do Regulamento (CE) n.º 1974/2006, mediante controlos administrativos e, baseando-se em amostras, mediante controlos *in loco*."
+  },
+  "710f56717e38f096": {
+   "fragment_id": "Artigo 28.º-A — Reforma antecipada",
+   "type": "artigo",
+   "heading": "Artigo 28.º-A — Reforma antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-A — Reforma antecipada\n\nEm relação à medida prevista no artigo 23.º do Regulamento (CE) n.º 1698/2005, os Estados-Membros avaliam o cumprimento dos requisitos do artigo 23.º, n.º 2, alínea b), e do artigo 23.º, n.º 3, do mesmo regulamento, após a transferência da exploração agrícola. Os Estados-Membros podem prescindir dos controlos *in loco* após o primeiro pagamento do apoio, desde que os controlos administrativos, incluindo controlos cruzados adequados, nomeadamente com as informações contidas na base de dados informatizada referida no artigo 16º do Regulamento (CE) n.º 73/2009, ofereçam as necessárias garantias da legalidade e regularidade dos pagamentos."
+  },
+  "5cdf9780b0647803": {
+   "fragment_id": "Artigo 28.º-B — Ajuda aos sistemas de qualidade dos alimentos reconhecidos pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 28.º-B — Ajuda aos sistemas de qualidade dos alimentos reconhecidos pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-B — Ajuda aos sistemas de qualidade dos alimentos reconhecidos pelos Estados-Membros\n\nEm relação à medida prevista no artigo 32.º do Regulamento (CE) n.º 1698/2005, os organismos pagadores podem, se for caso disso, utilizar provas recebidas de outros serviços, organismos ou organizações para verificar o respeito dos critérios de elegibilidade. Contudo, devem assegurar-se de que o funcionamento do serviço, organismo ou organização em causa oferece garantias suficientes quanto ao controlo do respeito desses critérios."
+  },
+  "458e766287edf0c0": {
+   "fragment_id": "Artigo 28.º-C — Agricultura de semi-subsistência",
+   "type": "artigo",
+   "heading": "Artigo 28.º-C — Agricultura de semi-subsistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-C — Agricultura de semi-subsistência\n\nEm relação à medida prevista no artigo 34.º do Regulamento (CE) n.º 1698/2005, os Estados-Membros avaliam o estado de adiantamento do plano empresarial, em conformidade com n.º 2 desse artigo, mediante controlos administrativos e, baseando-se em amostras, mediante controlos *in loco*."
+  },
+  "66501b8712044086": {
+   "fragment_id": "Artigo 28.º-D — Agrupamentos de produtores",
+   "type": "artigo",
+   "heading": "Artigo 28.º-D — Agrupamentos de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-D — Agrupamentos de produtores\n\nEm relação à medida prevista no artigo 35.º do Regulamento (CE) n.º 1698/2005, os Estados-Membros reconhecem o agrupamento de produtores, após a verificação do cumprimento pelo mesmo dos critérios previstos no n.º 1 desse artigo, bem como das regras nacionais. Após o reconhecimento, a continuidade do cumprimento dos critérios de reconhecimento é verificada pelo menos uma vez durante o período quinquenal, mediante um controlo *in loco*."
+  },
+  "05b3601b652687ff": {
+   "fragment_id": "Artigo 28.º -E — Explorações em reestruturação",
+   "type": "artigo",
+   "heading": "Artigo 28.º -E — Explorações em reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º -E — Explorações em reestruturação\n\nEm relação à medida prevista no artigo 35.º-A do Regulamento (CE) n.º 1698/2005, os Estados-Membros avaliam o estado de adiantamento do plano empresarial, em conformidade com n.º 2 desse artigo, mediante controlos administrativos e, baseando-se em amostras, mediante controlos *in loco*."
+  },
+  "4d74cd6ba22bc529": {
+   "fragment_id": "Artigo 28.º-F — Leader",
+   "type": "artigo",
+   "heading": "Artigo 28.º-F — Leader",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-F — Leader\n\n1. Os Estados-Membros instauram um sistema adequado para a supervisão dos grupos de acção local.\n\n2. No caso das despesas efectuadas a título do artigo 63.º, alíneas a) e b), do Regulamento (CE) n.º 1698/2005, os Estados-Membros podem delegar a realização dos controlos administrativos referidos no artigo 24.º do presente regulamento a grupos de acção local mediante um acto jurídico formal. No entanto, o Estado-Membro é responsável por verificar se esses grupos de acção local têm a capacidade administrativa e de controlo necessária para a realização dessa tarefa.\n\nNo caso da delegação referida no primeiro parágrafo, os Estados-Membros efectuam controlos regulares das operações dos grupos de acção local, incluindo controlos de contabilidade e a repetição dos controlos administrativos por amostragem.\n\nOs Estados-Membros efectuam também controlos *in loco* em conformidade com o artigo 26.º do presente regulamento. Na amostra das operações aprovadas a controlar *in loco*, em conformidade com o artigo 25.º, n.º 1, do presente regulamento, a percentagem das despesas referentes a Leader é, pelo menos, igual à das despesas indicadas no artigo 23.º do presente regulamento.\n\n3. No caso de despesas efectuadas no âmbito do artigo 63.º, alínea c), do Regulamento (CE) n.º 1698/2005, os controlos são realizados por pessoas independentes do grupo de acção local em causa."
+  },
+  "15fc4d4e69a587a4": {
+   "fragment_id": "Artigo 28.º-G — Bonificações de taxas de juro",
+   "type": "artigo",
+   "heading": "Artigo 28.º-G — Bonificações de taxas de juro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-G — Bonificações de taxas de juro\n\nNo caso de despesas efectuadas no âmbito do artigo 49.º do Regulamento (CE) n.º 1974/2006, os controlos administrativos e os controlos *in loco* são realizados com referência ao beneficiário e em função da realização da operação em causa. A análise de risco em conformidade com artigo 25.º, n.º 3, alínea b), do presente regulamento abrange, pelo menos uma vez, a operação em causa, com base no valor actualizado da bonificação.\n\nAlém disso, os Estados-Membros asseguram, mediante controlos administrativos e, se for caso disso, de visitas no local às instituições financeiras intermediárias e ao beneficiário, que os pagamentos às instituições financeiras intermediárias estão em conformidade com a legislação da União Europeia e com o acordo celebrado entre o organismo pagador do Estado-Membro e a instituição financeira intermediária, em conformidade com o artigo 49.º do Regulamento (CE) n.º 1974/2006."
+  },
+  "b6cdca4eb5e2c8c8": {
+   "fragment_id": "Artigo 28.º-H — Outras acções de engenharia financeira",
+   "type": "artigo",
+   "heading": "Artigo 28.º-H — Outras acções de engenharia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º-H — Outras acções de engenharia financeira\n\nEm relação às despesas efectuadas nos termos do artigo 50.º do Regulamento (CE) n.º 1974/2006, os Estados-Membros asseguram, mediante controlos administrativos e, se for caso disso, de visitas no local aos co-financiadores ou patrocinadores dos fundos, o respeito das condições fixadas nos artigos 51.º e 52.º desse regulamento. Verificam, nomeadamente, a utilização correcta dos fundos e o encerramento no final do período de programação."
+  },
+  "aeff1cd8efc85b30": {
+   "fragment_id": "Subsecção III",
+   "type": "divisao",
+   "heading": "Subsecção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subsecção III"
+  },
+  "aac281ce16fa570e": {
+   "fragment_id": "Controlos ex post",
+   "type": "divisao",
+   "heading": "Controlos ex post",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlos ex post"
+  },
+  "9d190463534a5d97": {
+   "fragment_id": "Artigo 29.º — Controlos ex post",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Controlos ex post",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Controlos ex post\n\n1. São realizados controlos *ex post* das operações de investimento para verificar o respeito dos compromissos, nos termos do artigo 72.º, n.º 1, do Regulamento (CE) n.º 1698/2005, ou definidas no programa de desenvolvimento rural.\n\n2. Os controlos *ex post* incidem, em cada ano civil, em, pelo menos, 1 % das despesas do Feader respeitantes às operações de investimento ainda sujeitas a compromissos referidas no n.º 1 e relativamente às quais o Feader tenha efectuado o pagamento final. Só são tomados em consideração os controlos realizados até ao fim do ano em questão.\n\n3. A amostra das operações que devem ser controladas em conformidade com o n.º 1 baseia-se numa análise dos riscos e do impacto financeiro das diferentes operações, grupos de operações, ou medidas. Parte da amostra é seleccionada de forma aleatória."
+  },
+  "f850d1cdd45a5233": {
+   "fragment_id": "Artigo 30.º — Reduções e exclusões",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reduções e exclusões\n\n1. Os pagamentos são calculados com base no que se considere elegível no decurso dos controlos administrativos.\n\nO Estado-Membro examina o pedido de pagamento recebido do beneficiário e estabelece os montantes elegíveis para o apoio. O Estado-Membro estabelecerá:\n\na) O montante pagável ao beneficiário unicamente com base no pedido de pagamento;\n\nb) O montante pagável ao beneficiário após um exame da elegibilidade do pedido de pagamento.\n\nSe o montante estabelecido nos termos da alínea a) exceder o montante estabelecido nos termos da alínea b) em mais de 3 %, o montante estabelecido nos termos da alínea b) é objecto de uma redução. Essa redução é igual à diferença entre os dois montantes.\n\nNo entanto, não é aplicada qualquer redução se o beneficiário puder demonstrar que não cometeu qualquer infracção no que se refere à inclusão do montante não elegível.\n\n2. Sempre que se verifique que um beneficiário prestou deliberadamente uma falsa declaração, a operação em causa é excluída de apoio do Feader e quaisquer montantes já pagos relativamente a essa operação são recuperados. Além disso, o beneficiário é excluído do benefício do apoio a título da mesma medida no ano civil da constatação e no ano civil seguinte.\n\n3. As reduções e exclusões referidas nos n.^os^ 1 e 2 são aplicáveis *mutatis mutandis* às despesas não elegíveis identificadas durante os controlos previstos a título dos artigos 25.º e 29.º."
+  },
+  "3e5bcb13ac5aa89f": {
+   "fragment_id": "PARTE III",
+   "type": "divisao",
+   "heading": "PARTE III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE III"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "2f1f313032d5083a": {
+   "fragment_id": "Artigo 31.º — Apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Apresentação de relatórios\n\nOs Estados-Membros enviam à Comissão até 15 de Julho de cada ano um relatório que cubra:\n\na) Os resultados dos controlos dos pedidos de pagamento apresentados ao abrigo do título I no ano civil anterior, indicando, em especial, os seguintes pontos:\n\ni) o número de pedidos de pagamento para cada medida e o montante total controlado em relação a esses pedidos, bem como a superfície total e o número total de animais abrangidos por controlos *in loco* nos termos dos artigos 11.º, 12.º e 20.º,\n\nii) para o apoio «superfície», a superfície total, discriminada por regime de ajuda,\n\niii) para as medidas «animais», o número total de animais, discriminado por regime de ajuda,\n\niv) o resultado dos controlos realizados, indicando as reduções e exclusões aplicadas nos termos dos artigos 16.º, 17.º, 18.º e 21.º;\n\nb) Os controlos e os resultados dos controlos relativos aos pedidos de pagamento realizados nos termos dos artigos 24.º e 25.º para os pagamentos efectuados durante o ano civil anterior;\n\nc) Os controlos e os resultados dos controlos realizados nos termos dos artigos 28.º e 29.º durante ano civil anterior."
+  },
+  "f443c137285057fc": {
+   "fragment_id": "Artigo 32.º — Controlo pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Controlo pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Controlo pela Comissão\n\nO artigo 27.º, n.º 2, do Regulamento (CE) n.º 73/2009 é aplicável ao apoio pago a título do Regulamento (CE) n.º 1698/2005."
+  },
+  "5496e498e10f2d17": {
+   "fragment_id": "Artigo 33.º — Comunicação dos controlos aos organismos pagadores",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Comunicação dos controlos aos organismos pagadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comunicação dos controlos aos organismos pagadores\n\n1. Sempre que os controlos não sejam realizados pelo organismo pagador responsável, o Estado-Membro assegura que esse organismo receba informações suficientes sobre os controlos realizados e os seus resultados. Compete ao organismo pagador definir as suas necessidades em matéria de informação. As informações podem consistir num relatório sobre cada controlo realizado ou, se adequado, num relatório de síntese.\n\n2. Deve ser mantida uma pista de controlo suficiente. Consta do anexo a descrição indicativa dos requisitos de uma pista de controlo satisfatória.\n\n3. O organismo pagador tem o direito de verificar a qualidade dos controlos executados por outros organismos e de receber quaisquer outras informações de que necessite para o desempenho das suas funções."
+  },
+  "0a328a947ccfdcfc": {
+   "fragment_id": "Artigo 34.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Revogação\n\n1. É revogado o Regulamento (CE) n.º 1975/2006, com efeitos a partir de 1 de Janeiro de 2011.\n\nNão obstante, continuará a ser aplicável no que respeita a pedidos de pagamento apresentados antes de 1 de Janeiro de 2011.\n\n2. As referências ao Regulamento (CE) n.º 1975/2006 são consideradas como referências ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo II do presente regulamento."
+  },
+  "6885202ba9a46240": {
+   "fragment_id": "Artigo 35.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "bd0eb98616d24fdd": {
+   "fragment_id": "Descrição indicativa das informações necessárias para uma pista de controlo suficiente",
+   "type": "divisao",
+   "heading": "Descrição indicativa das informações necessárias para uma pista de controlo suficiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Descrição indicativa das informações necessárias para uma pista de controlo suficiente\n\nExiste uma pista de controlo suficiente, como previsto no artigo 33.º, n.º 2, quando, para uma dada intervenção, essa pista:\n\na) Permite a conciliação entre os montantes globais declarados à Comissão e as facturas, os documentos contabilísticos e outros documentos comprovativos mantidos pelo organismo pagador ou por outro serviço relativamente a todas as operações objecto do apoio do FEADER;\n\nb) Permite a verificação do pagamento das despesas públicas ao beneficiário;\n\nc) Permite a verificação da aplicação de critérios de selecção às operações financiadas pelo FEADER;\n\nd) Contém, na medida do necessário, o plano financeiro, relatórios de actividades, documentos referentes à concessão do apoio, documentos respeitantes aos procedimentos de concursos públicos e relatórios sobre os controlos executados."
+  },
+  "2256d360581935ac": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento (CE) n.º 1975/2006 Presente Regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 4.º, n.^os^ 3, 6, 7 e 9, artigo 5.º, artigo 7.º, n.º 1\n\nArtigo 3.º Artigo 2.º\n\nArtigo 4.º Artigo 3.º\n\nArtigo 5.º Artigo 4.º, n.^os^ 2, 4 e 8\n\nArtigo 6.º Artigo 6.º\n\nArtigo 7.º Artigo 7.º, n.º 1, artigo 8.º, n.º 3, artigo 16.º, n.º 1\n\nArtigo 8.º, n.º 3 Artigo 7.º, n.º 1 e artigo 8.º, n.º 3\n\nArtigo 9.º Artigo 9.º\n\nArtigo 10.º, n.^os^ 1 e 2 Artigo 4.º, n.º 1\n\nArtigo 10.º, n.^os^ 3 a 6 Artigo 10.º, n.^os^ 1 a 4\n\nArtigo 11.º Artigo 11.º\n\nArtigo 12.º, n.^os^ 1, 3 e 4 Artigo 12.º, n.^os^ 1, 3 e 4\n\nArtigo 12.º, n.º 2 Artigo 12.º, n.º 2 e artigo 15.º, n.º 3\n\nArtigo 13.º Artigo 13.º\n\nArtigo 14.º Artigo 14.º\n\nArtigo 15.º Artigo 15.º\n\nArtigo 16.º, n.º 1 Artigo 16.º, n.^os^ 2 e 3\n\nArtigo 16.º, n.º 2 Artigo 16.º, n.º 5\n\nArtigo 16.º, n.º 4 —\n\nArtigo 16.º, n.^os^ 5 e 6 Artigo 16.º, n.^os^ 6 e 7, respectivamente\n\nArtigo 17.º, n.º 1 Artigo 17.º, n.^os^ 2 e 3\n\nArtigo 17.º, n.º 2 Artigo 17.º, n.^os^ 4, 5 e 6\n\nArtigo 17.º, n.º 3 Artigo 17.º, n.^os^ 5 e 7\n\nArtigo 17.º, n.º 4 Artigo 17.º, n.º 1\n\nArtigo 18.º Artigo 18.º\n\nArtigo 19.º, n.º 1 Artigo 19.º, n.º 1\n\nArtigo 19.º, n.º 2 Artigo 19.º, n.º 2\n\nArtigo 20.º, n.º 1 Artigo 20.º, n.º 1\n\nArtigo 20.º, n.º 2 Artigo 19.º, n.º 2\n\nArtigo 21.º, n.º 1 Artigo 19.º, n.º 2\n\nArtigo 21.º, n.^os^ 2 e 3 Artigo 20.º, n.º 2\n\nArtigo 21.º, n.º 4 Artigo 20.º, n.º 3\n\nArtigo 22.º Artigo 19.º, n.º 2\n\nArtigo 23.º, n.º 1, primeiro parágrafo Artigo 21.º\n\nArtigo 23.º, n.º 1, segundo e terceiro parágrafos Artigo 19.º, n.º 2\n\nArtigo 23.º, n.º 2 Artigo 19.º, n.º 3\n\nArtigo 24.º Artigo 22.º\n\nArtigo 25.º Artigo 23.º\n\nArtigo 26.º, n.^os^ 1, 2, 3 e 4 Artigo 24.º, n.^os^ 1, 2, 3 e 4, respectivamente\n\nArtigo 26.º, n.º 5 Artigo 24.º, n.º 6\n\nArtigo 26.º, n.º 6 Artigo 24.º, n.º 5\n\nArtigo 26.º, n.º 7 Artigo 28.º-B\n\nArtigo 27.º, n.^os^ 1, 2 e 3 Artigo 25.º\n\nArtigo 27.º, n.º 4 Artigo 4.º, n.º 5\n\nArtigo 28.º Artigo 26.º\n\nArtigo 28.º-A Artigo 27.º\n\nArtigo 29.º Artigos 28.º-A e 28.º-C\n\nArtigo 30.º, n.^os^ 1 e 2 Artigo 29.º, n.º 1\n\nArtigo 30.º, n.º 3 Artigo 29.º, n.º 2\n\nArtigo 30.º, n.º 4, primeiro parágrafo Artigo 29.º, n.º 3\n\nArtigo 30º, n.º 4, segundo parágrafo —\n\nArtigo 31.º, n.º 1, primeiro, segundo e terceiro parágrafos Artigo 30.º, n.º 1, primeiro, segundo e terceiro parágrafos, respectivamente\n\nArtigo 31.º, n.º 1, quarto parágrafo Artigo 30.º, n.º 3\n\nArtigo 31.º, n.º 2 Artigo 30.º, n.º 2\n\nArtigo 32.º Artigo 28.º-F, n.º 3\n\nArtigo 33.º Artigo 28.º-F, n.º 2\n\nArtigo 34.º, alínea a) Artigo 31.º, alínea a)\n\nArtigo 34.º, alíneas b) e c) Artigo 31.º, alínea b)\n\nArtigo 34.º, alínea d) Artigo 31.º, alínea c)\n\nArtigo 35.º Artigo 32.º\n\nArtigo 36.º, n.º 1 Artigo 19.º, n.º 2\n\nArtigo 36.º, n.^os^ 2, 3 e 4 Artigo 33.º, n.^os^ 1, 2 e 3\n\nArtigo 37.º Artigo 35.º\n\n---"
+  },
+  "4f27757f16846d9d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0001)) JO L 277 de 21.10.2005, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0002)) JO L 316 de 2.12.2009, p. 65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0003)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0004)) JO L 368 de 23.12.2006, p. 74.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0005)) JO L 30 de 31.1.2009, p. 16.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0006)) JO L 209 de 11.8.2005, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0007)) JO L 368 de 23.12.2006, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/31e7701d-8540-4772-8382-fd09bcab445b.0018.03/DOC_1#src.E0008)) JO L 171 de 23.6.2006, p. 90."
+  },
+  "6c1cbb415af03313": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 2011\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (Feader) ([^1^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0001)), nomeadamente o artigo 51.º, n.º 4, o artigo 74.º, n.º 4 e o artigo 91º,\n\n(1) O Regulamento (CE) n.º 1122/2009 da Comissão, de 30 de Novembro de 2009, que estabelece regras de execução de Regulamento (CE) n.º 73/2009 do Conselho no que respeita à condicionalidade, à modulação e ao sistema integrado de gestão e de controlo, no âmbito dos regimes de apoio directo aos agricultores previstos no referido regulamento, bem como regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à condicionalidade no âmbito do regime de apoio previsto para o sector vitivinícola ([^2^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0002)) revogou e substituiu o Regulamento (CE) n.º 796/2004 da Comissão, de 21 de Abril de 2004, que estabelece regras de execução relativas à condicionalidade, à modulação e ao sistema integrado de gestão e de controlo previstos no Regulamento (CE) n.º 1782/2003 e (CE) n.º 73/2009 do Conselho, bem como a aplicação da condicionalidade prevista no Regulamento (CE) n.º 479/2008 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0003)).\n\n(2) O Regulamento (CE) n.º 1975/2006 da Comissão, de 7 de Dezembro de 2006, que estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural ([^4^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0004)), contém muitas referências cruzadas às regras de gestão e de controlo previstas no Regulamento (CE) n.º 796/2004 revogado. É necessário ter em conta as alterações introduzidas a essas regras da gestão e de controlo pelo Regulamento (CE) n.º 1122/2009, respeitando, simultaneamente, os princípios estabelecidos pelo Regulamento (CE) n.º 1975/2006. Além disso, para garantir coerência, clareza e simplificação, é conveniente alterar determinadas disposições do Regulamento (CE) n.º 1975/2006, a fim de limitar ao mínimo necessário as referências ao Regulamento (CE) n.º 1122/2009. É, por conseguinte, adequado revogar e substituir o Regulamento (CE) n.º 1975/2006.\n\n(3) Os Estados-Membros devem estabelecer um sistema de controlo que garanta que são efectuados todos os controlos necessários para assegurar a verificação eficaz do respeito das condições de concessão das ajudas. Todos os critérios de elegibilidade estabelecidos pela legislação da União, pela legislação nacional ou pelos programas de desenvolvimento rural devem poder ser controlados, de acordo com um grupo de indicadores verificáveis.\n\n(4) A experiência demonstra que o sistema integrado de gestão e de controlo (a seguir, «SIGC»), estabelecido pelo título II, capítulo 4, do Regulamento (CE) n.º 73/2009 do Conselho, de 19 de Janeiro de 2009, que estabelece regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio aos agricultores, que altera os Regulamentos (CE) n.º 1290/2005, (CE) n.º 247/2006 e (CE) n.º 378/2007 e revoga o Regulamento (CE) n.º 1782/2003 ([^5^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0005)), deu provas de ser um instrumento eficaz e eficiente de aplicação dos regimes de pagamentos directos. Por conseguinte, no que respeita às medidas relacionadas com a superfície e os animais no âmbito do título IV, capítulo I, secção 2, eixo 2, do Regulamento (CE) n.º 1698/2005, as regras de gestão e de controlo, bem como as disposições respeitantes a reduções e exclusões em casos de falsas declarações, devem seguir os princípios definidos no âmbito do SIGC, nomeadamente no Regulamento (CE) n.º 1122/2009.\n\n(5) Contudo, no respeitante a certas medidas de apoio no âmbito do eixo 2 e ao apoio equivalente no âmbito do eixo 4, a que se referem as secções 2 e 4, respectivamente, do título IV, capítulo I, do Regulamento (CE) n.º 1698/2005, é necessário adaptar as regras de gestão e de controlo às suas características específicas. O mesmo é aplicável às medidas de apoio no âmbito dos eixos 1 e 3, previstas nas secções 1 e 3, respectivamente, do mesmo capítulo e ao apoio equivalente no âmbito do eixo 4. Em consequência, devem ser estabelecidas disposições especiais relativas a essas medidas de apoio.\n\n(6) Para que todas as administrações nacionais possam organizar um controlo eficiente e integrado de todos os domínios para que é solicitado pagamento no âmbito do eixo 2 e dos regimes de ajudas «superfícies» abrangidos pelo Regulamento (CE) n.º 1122/2009, os pedidos de pagamento a título de medidas «superfície» no âmbito do eixo 2 devem ser apresentados no mesmo prazo que o pedido único previsto na parte II, título II, capítulo I, do mesmo regulamento.\n\n(7) Para garantir o efeito dissuasivo do controlo, os pagamentos não devem, regra geral, ser feitos antes de as verificações da elegibilidade estarem completadas. Não obstante, é conveniente autorizar os pagamentos até um certo nível após a realização dos controlos administrativos. Na fixação desse nível, há que ter em conta o risco de sobrepagamento.\n\n(8) As regras de controlo previstas no presente regulamento devem ter em conta as características especiais das medidas a título do eixo 2 em questão. Por motivos de clareza, devem, assim, fixar-se regras específicas.\n\n(9) Os Estados-Membros podem utilizar elementos de prova recebidos de outros serviços, organismos ou organizações para verificar o respeito dos critérios de elegibilidade. Contudo, devem assegurar-se de que o funcionamento do serviço, do organismo ou da organização em causa oferece garantias suficientes quanto ao controlo do respeito desses critérios.\n\n(10) A experiência demonstrou que é necessário esclarecer determinadas disposições, nomeadamente no que respeita à determinação do número de hectares e de animais, bem como às reduções, exclusões e recuperações.\n\n(11) Nos termos do artigo 50º-A do Regulamento (CE) n.º 1698/2005, os pagamentos a título de algumas das medidas previstas nesse regulamento ficaram subordinados ao respeito da condicionalidade prevista no título II, capítulo 1, do Regulamento (CE) n.º 73/2009. Em consequência, é adequado alinhar as regras relacionadas com a condicionalidade pelas previstas nos Regulamentos (CE) n.º 73/2009 e (CE) n.º 1122/2009.\n\n(12) A experiência demonstrou que são necessárias disposições de controlo específicas para certas medidas de apoio específicas.\n\n(13) Devem efectuar-se controlos *ex post* das operações de investimento para verificar o respeito do artigo 72.º, n.º 1, do Regulamento (CE) n.º 1698/2005. É necessário especificar a base e o conteúdo desses controlos.\n\n(14) Para que a Comissão possa cumprir as suas obrigações em matéria de gestão das medidas, os Estados-Membros devem comunicar-lhe o número de controlos realizados e os respectivos resultados.\n\n(15) É conveniente estabelecer certos princípios gerais em matéria de controlo, nomeadamente o direito da Comissão de realizar controlos.\n\n(16) Os Estados-Membros devem assegurar que os organismos pagadores referidos no artigo 6.º do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^6^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0006)), disponham de informações suficientes sobre os controlos realizados por outros serviços ou organismos a fim de cumprirem as suas obrigações a título desse regulamento.\n\n(17) A fim de evitar problemas contabilísticos susceptíveis de se produzirem caso fosse necessário aplicar diferentes procedimentos de controlo relativamente ao exercício de 2011, o presente regulamento deve ser aplicável a partir de 1 de Janeiro de 2011.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Desenvolvimento Rural,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "10ba90e83043bc4b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Pedido de apoio»: um pedido de apoio ou de participação num regime a título do Regulamento (CE) n.º 1698/2005;\n\nb) «Pedido de pagamento»: um pedido apresentado por um beneficiário com vista a um pagamento pelas autoridades nacionais;\n\nc) «Outra declaração»: qualquer declaração ou documento, com excepção dos referidos nas alíneas a) e b), que deve ser apresentado por um beneficiário ou por terceiros, ou estar na posse dos mesmos, para cumprir os requisitos específicos de certas medidas de desenvolvimento rural;\n\nd) «Medidas “superfície”»: medidas ou submedidas para as quais o apoio é baseado na dimensão da superfície declarada;\n\ne) «Medidas “animais”»: medidas ou submedidas para as quais o apoio é baseado no número de animais declarados."
+  },
+  "8e0305392fa549b6": {
+   "fragment_id": "Artigo 6.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito de aplicação e definições\n\n1. O presente título é aplicável:\n\na) Ao apoio concedido nos termos do artigo 36.º do Regulamento (CE) n.º 1698/2005;\n\nb) Ao apoio concedido em conformidade com o artigo 63.º, alínea a), do Regulamento (CE) n.º 1698/2005 a operações correspondentes às medidas definidas no âmbito do eixo 2.\n\nContudo, o presente título não é aplicável às medidas referidas no artigo 36.º, alínea a), subalínea vi) e alínea b), subalíneas vi) e vii), e no artigo 39.º, n.º 5, do Regulamento (CE) n.º 1698/2005, nem a medidas a título do artigo 36.º, alínea b), subalíneas i), ii) e iii), desse regulamento no que respeita aos custos de implantação.\n\n2. Para efeitos do presente título, entende-se por:\n\nc) [**►C1**](http://publications.europa.eu/resource/celex/32011R0065R%2801%29) «Superfície determinada»: superfície dos terrenos ou das parcelas em relação aos quais é pedido apoio, determinada em conformidade com o artigo 11.º e o artigo 15.º, n.^os^ 3, 4 e 5, do presente regulamento;**◄**\n\nd) [**►C1**](http://publications.europa.eu/resource/celex/32011R0065R%2801%29) «Animais determinados»: o número de animais determinados em conformidade com o artigo 11.º e o artigo 15.º, n.º 6, do presente regulamento.**◄**"
+  },
+  "bc8cb7849c173a10": {
+   "fragment_id": "Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies\n\n1. Os Estados-Membros determinam os critérios e métodos de controlo que permitam controlar os diferentes compromissos e obrigações do beneficiário a fim de satisfazer os requisitos do artigo 48.º, n.º 1, do Regulamento (CE) n.º 1974/2006 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0007)).\n\n2. Se os Estados-Membros dispuserem que determinados elementos de um controlo *in loco* podem ser realizados com base numa amostra, esta deve garantir um nível de controlo fiável e representativo. Os Estados-Membros fixam os critérios para a selecção da amostra. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra são alargados em conformidade.\n\n3. No que se refere aos controlos respeitantes às medidas «superfícies», os controlos *in loco* abrangem todas as parcelas agrícolas e as terras não agrícolas para que foi solicitado apoio.\n\n4. Não obstante, a determinação efectiva da dimensão das superfícies para o controlo *in loco* pode ser limitada a uma amostra de, no mínimo, 50 % das superfícies, contanto que a amostra garanta um nível de controlo fiável e representativo, tanto no que respeita à superfície controlada, como ao apoio solicitado. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra são alargados em conformidade.\n\n5. A determinação das superfícies e a teledetecção são efectuadas em conformidade com o artigo 34.º, n.^os^ 1 a 5 e o artigo 35.º do Regulamento (CE) n.º 1122/2009.\n\nContudo, para as medidas previstas no artigo 36.º, alínea b), subalíneas iii), iv) e v), do Regulamento (CE) n.º 1698/2005, os Estados-Membros podem definir tolerâncias adequadas, que em nenhum caso são superiores ao dobro das estabelecidas no artigo 34.º, n.º 1, do Regulamento (CE) n.º 1122/2009.\n\n6. No que se refere aos controlos respeitantes às medidas «animais», os controlos *in loco* são efectuados nos termos do artigo 42.º do Regulamento (CE) n.º 1122/2009."
+  },
+  "c1093360360d4437": {
+   "fragment_id": "Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície\n\n1. Se, relativamente a um ano determinado, um beneficiário não declarar todas as superfícies agrícolas e a diferença entre a superfície agrícola total declarada no pedido de pagamento, por um lado, e a soma da superfície declarada com a superfície total das parcelas agrícolas não declaradas, por outro, exceder 3 % da superfície declarada, o montante global da ajuda a pagar a esse beneficiário, a título do ano em causa, no âmbito das medidas «superfície», é reduzido numa percentagem que pode ir até 3 %, dependendo da gravidade da omissão.\n\nO primeiro parágrafo näo é aplicável quando todas as superfícies agrícolas em causa tenham sido declaradas às autoridades competentes no âmbito:\n\na) do sistema integrado referido no artigo 15.º do Regulamento (CE) n.º 73/2009, ou\n\nb) de outros sistemas de gestão e de controlo que garantam a compatibilidade com o sistema integrado, em conformidade com o artigo 26.º do mesmo regulamento.\n\n2. Para efeitos da aplicação do presente artigo, as superfícies declaradas por um beneficiário às quais seja aplicada a mesma taxa de ajuda ao abrigo de uma medida «superfície» são consideradas como constituindo um grupo de culturas. Quando sejam utilizados montantes de ajuda degressivos, é tida em conta a média desses montantes em relação às respectivas superfícies declaradas.\n\n3. Se se verificar que a superfície determinada de um grupo de culturas é superior à declarada no pedido de pagamento, é utilizada para o cálculo da ajuda a superfície declarada.\n\nSe a superfície declarada no pedido de pagamento for superior à superfície determinada para esse grupo de culturas, a ajuda é calculada com base na superfície determinada para esse grupo de culturas.\n\nNo entanto, se a diferença entre a superfície total determinada e a superfície total declarada no pedido de pagamento para uma medida for inferior ou igual a 0,1 hectare, a superfície determinada é considerada igual à superfície declarada. Para este cálculo, apenas são tidas em conta as sobredeclarações de superfícies ao nível do grupo de culturas.\n\nO disposto no terceiro parágrafo não é aplicável se a diferença representar mais de 20 % da superfície total declarada para pagamentos.\n\nSempre que tenha sido fixado um limite máximo ou um tecto à superfície elegível para apoio, o número de hectares declarado no pedido de pagamento é reduzido para o limite ou o tecto fixado.\n\n4. Se a mesma superfície servir de base para um pedido de pagamento no âmbito de mais de uma medida «superfície», essa superfície é tida em conta separadamente para cada uma das medidas.\n\n5. No caso mencionado no n.º 3, segundo parágrafo, a ajuda é calculada com base na superfície determinada diminuída do dobro da diferença encontrada, se esta diferença for superior a 3 %, ou a dois hectares, mas não superior a 20 % da superfície determinada.\n\nSe a diferença for superior a 20 % da superfície determinada, não é concedida qualquer ajuda relativamente ao grupo de culturas em causa.\n\nSe a diferença for superior a 50 %, o beneficiário é uma vez mais excluído do benefício da ajuda, até ao montante da diferença entre a superfície declarada no pedido de pagamento e a superfície determinada.\n\n6. Se a diferença entre a superfície declarada no pedido de pagamento e a superfície determinada em conformidade com o n.º 3, segundo parágrafo, resultar de sobredeclarações intencionais, a ajuda a que o beneficiário teria direito, nos termos do referido parágrafo, não é concedida no que respeita ao ano civil em questão no âmbito da medida «superfície» em causa, se essa diferença for superior a 0,5 % da superfície determinada, ou a um hectare.\n\nSe a diferença for superior a 20 % da superfície determinada, o beneficiário é uma vez mais excluído do benefício da ajuda, até ao montante da diferença entre a superfície declarada e a superfície determinada.\n\n7. O montante resultante das exclusões previstas no n.º 5, terceiro parágrafo, e no n.º 6, segundo parágrafo, do presente artigo é deduzido em conformidade com o artigo 5.º-B do Regulamento (CE) n.º 885/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0008)). Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detectada, o saldo é cancelado."
+  },
+  "1520b2415ed9c7d3": {
+   "fragment_id": "Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reduções e exclusões em relação com o número de animais\n\n1. Para efeitos do presente artigo, os bovinos e os ovinos e caprinos são tratados separadamente.\n\nNo que se refere a animais diferentes dos mencionados no primeiro parágrafo, o Estado-Membro fixa um sistema de reduções e exclusões adequado.\n\n2. Sempre que seja aplicável um limite individual ou um limite máximo individual, o número de animais declarado no pedido de pagamento é reduzido para o limite ou o limite máximo fixado para o beneficiário em questão.\n\nEm nenhum caso podem ser concedidas ajudas relativamente a um número de animais superior ao declarado no pedido de pagamento.\n\nSe o número de animais declarados no pedido de pagamento for superior ao número de animais determinado na sequência de controlos administrativos ou *in loco*, a ajuda é calculada com base no número de animais determinado.\n\n3. Um bovino que tenha perdido uma das duas marcas auriculares é considerado como determinado se estiver clara e individualmente identificado pelos outros elementos do regime de identificação e registo de bovinos. Além disso, quando um só bovino de uma exploração tiver perdido as duas marcas auriculares, o animal é considerado como fazendo parte dos animais determinados se puder ser identificado pelo registo, pelo passaporte de animal, pela base de dados ou por outros meios estabelecidos no Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0009)) e desde que o seu detentor possa fornecer provas de que já tomara medidas para corrigir a situação antes do anúncio do controlo *in loco*.\n\nNo caso de irregularidades que consistam em inscrições incorrectas no registo de bovinos ou nos passaportes dos animais, o bovino em causa só deixa de ser considerado como fazendo parte dos animais determinados se os erros forem constatados em, pelo menos, dois controlos realizados durante um período de 24 meses. Em todos os outros casos, o animal em causa deixa de ser considerado como fazendo parte dos animais determinados após a primeira constatação.\n\nO artigo 3.º, n.º 4, do presente regulamento é aplicável às inscrições e notificações no âmbito do regime de identificação e registo de bovinos.\n\n3-A. Um ovino ou caprino que tenha perdido uma marca auricular é considerado como fazendo parte dos animais determinados se puder ser identificado por um primeiro meio de identificação, em conformidade com o artigo 4.º, n.º 2, alínea a), do Regulamento (CE) n.º 21/2004 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#E0010)), e se estiverem preenchidos todos os outros requisitos do sistema de identificação e registo de ovinos e caprinos.\n\n3-B. Quando um beneficiário não tenha informado a autoridade competente, nos termos do artigo 16.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1122/2009, da mudança dos animais para outro local durante o período de retenção, os animais em questão são considerados como fazendo parte dos animais determinados se tiverem sido imediatamente localizados na exploração durante o controlo *in loco*.\n\n4. No caso referido no n.º 2, terceiro parágrafo, ao montante total da ajuda a que o beneficiário tem direito no âmbito da medida é deduzida a percentagem que deve ser fixada em conformidade com o n.º 6, se as irregularidades não disserem respeito a mais de três animais.\n\n5. Se as irregularidades disserem respeito a mais de três animais, o montante total da ajuda a que o beneficiário tem direito no âmbito da medida é reduzido:\n\na) Da percentagem a fixar de acordo com o n.º 6, se a mesma não for superior a 10 %;\n\nb) Do dobro da percentagem fixada de acordo com o n.º 6, se a mesma for superior a 10 %, mas inferior ou igual a 20 %.\n\nSe essa percentagem for superior a 20 %, não é concedida qualquer ajuda para a medida em causa.\n\nSe essa percentagem for superior a 50 %, o beneficiário é uma vez mais excluído de do benefício da ajuda até ao montante da diferença entre o número de animais declarado e o número de animais determinado em conformidade com o n.º 2, terceiro parágrafo. [**►M1**](http://publications.europa.eu/resource/celex/32012R0147) —————**◄** Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detectada, o saldo é cancelado.\n\n6. Para estabelecer as percentagens referidas nos n.^os^ 4 e 5, o número de animais em relação aos quais foram constatadas irregularidades é dividido pelo número de animais determinado.\n\nNo caso de aplicação do artigo 16.º, n.º 3, segundo parágrafo, do Regulamento (CE) n.º 1122/2009, quaisquer animais potencialmente elegíveis em relação aos quais se constate que não estão correctamente identificados ou registados no sistema de identificação e registo de bovinos são contabilizados como animais em relação aos quais foram constatadas irregularidades.\n\n7. Se a diferença entre o número de animais declarado e o determinado em conformidade com o n.º 2, terceiro parágrafo, resulte de irregularidades cometidas intencionalmente, não é concedida qualquer ajuda para a medida em causa.\n\nSe a percentagem estabelecida em conformidade com o n.º 6 for superior a 20 %, o beneficiário é uma vez mais excluído do benefício da ajuda até ao montante da diferença entre o número de animais declarado e o número de animais determinado em conformidade com o n.º 2, terceiro parágrafo. [**►M1**](http://publications.europa.eu/resource/celex/32012R0147) —————**◄** Se o montante não puder inteiramente ser deduzido durante os três anos civis seguintes ao ano civil em que foi detectada a irregularidade, o saldo é cancelado.\n\n8. O montante resultante das exclusões previstas no n.º 5, terceiro parágrafo, e no n.º 7, segundo parágrafo, do presente artigo é deduzido em conformidade com o artigo 5.º-B do Regulamento (CE) n.º 885/2006 da Comissão. Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detetada, o saldo é cancelado."
+  },
+  "c885fe968ff70ba8": {
+   "fragment_id": "Artigo 22.º — Ordem das reduções",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Ordem das reduções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Ordem das reduções\n\nSempre que sejam aplicáveis diversas reduções, seguem estas pela ordem a seguir indicada:\n\n— Primeiro, em conformidade com o artigo 16.º, n.^os^ 5 e 6, e o artigo 17.º, n.^os^ 4 e 5, do presente regulamento,\n\n— Seguidamente, em conformidade com o artigo 18.º do presente regulamento,\n\n— Seguidamente, para as apresentações fora do prazo, em conformidade com o artigo 23.º do Regulamento (CE) n.º 1122/2009,\n\n— Seguidamente, em conformidade com o artigo 16.º, n.º 1, do presente regulamento,\n\n— Seguidamente, em conformidade com o artigo 21.º do presente regulamento,\n\n— Por último, em conformidade com o artigo 16.º, n.º 7, e o artigo 17.º, n.º 8, do presente regulamento."
+  },
+  "f9769c185e79d899": {
+   "fragment_id": "Artigo 31.º — Apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Apresentação de relatórios\n\nOs Estados-Membros enviam à Comissão até 15 de Julho de cada ano um relatório que cubra:\n\na) Os resultados dos controlos dos pedidos de pagamento apresentados ao abrigo do título I no ano civil anterior, indicando, em especial, os seguintes pontos:\n\ni) o número de pedidos de pagamento para cada medida e o montante total controlado em relação a esses pedidos, bem como a superfície total e o número total de animais abrangidos por controlos *in loco* nos termos dos artigos 11.º, 12.º e 20.º,\n\nii) para as medidas «superfície», a superfície total, discriminada por regime de ajuda,\n\niii) para as medidas «animais», o número total de animais, discriminado por regime de ajuda,\n\niv) o resultado dos controlos realizados, indicando as reduções e exclusões aplicadas nos termos dos artigos 16.º, 17.º, 18.º e 21.º;\n\nb) Os controlos e os resultados dos controlos relativos aos pedidos de pagamento realizados nos termos dos artigos 24.º e 25.º para os pagamentos efectuados durante o ano civil anterior;\n\nc) Os controlos e os resultados dos controlos realizados nos termos dos artigos 28.º e 29.º durante ano civil anterior."
+  },
+  "8115230c6353e9a7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0001)) JO L 277 de 21.10.2005, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0002)) JO L 316 de 2.12.2009, p. 65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0003)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0004)) JO L 368 de 23.12.2006, p. 74.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0005)) JO L 30 de 31.1.2009, p. 16.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0006)) JO L 209 de 11.8.2005, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0007)) JO L 368 de 23.12.2006, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0008)) JO L 171 de 23.6.2006, p. 90.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0009)) JO L 204 de 11.8.2000, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f09a919a-1b7d-434c-a68f-1fa4b66c2248.0018.03/DOC_1#src.E0010)) JO L 5 de 9.1.2004, p. 8."
+  },
+  "04e8ec48270a8132": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 2011\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (Feader) ([^1^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0001)), nomeadamente o artigo 51.º, n.º 4, o artigo 74.º, n.º 4 e o artigo 91º,\n\n(1) O Regulamento (CE) n.º 1122/2009 da Comissão, de 30 de Novembro de 2009, que estabelece regras de execução de Regulamento (CE) n.º 73/2009 do Conselho no que respeita à condicionalidade, à modulação e ao sistema integrado de gestão e de controlo, no âmbito dos regimes de apoio directo aos agricultores previstos no referido regulamento, bem como regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à condicionalidade no âmbito do regime de apoio previsto para o sector vitivinícola ([^2^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0002)) revogou e substituiu o Regulamento (CE) n.º 796/2004 da Comissão, de 21 de Abril de 2004, que estabelece regras de execução relativas à condicionalidade, à modulação e ao sistema integrado de gestão e de controlo previstos no Regulamento (CE) n.º 1782/2003 e (CE) n.º 73/2009 do Conselho, bem como a aplicação da condicionalidade prevista no Regulamento (CE) n.º 479/2008 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0003)).\n\n(2) O Regulamento (CE) n.º 1975/2006 da Comissão, de 7 de Dezembro de 2006, que estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural ([^4^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0004)), contém muitas referências cruzadas às regras de gestão e de controlo previstas no Regulamento (CE) n.º 796/2004 revogado. É necessário ter em conta as alterações introduzidas a essas regras da gestão e de controlo pelo Regulamento (CE) n.º 1122/2009, respeitando, simultaneamente, os princípios estabelecidos pelo Regulamento (CE) n.º 1975/2006. Além disso, para garantir coerência, clareza e simplificação, é conveniente alterar determinadas disposições do Regulamento (CE) n.º 1975/2006, a fim de limitar ao mínimo necessário as referências ao Regulamento (CE) n.º 1122/2009. É, por conseguinte, adequado revogar e substituir o Regulamento (CE) n.º 1975/2006.\n\n(3) Os Estados-Membros devem estabelecer um sistema de controlo que garanta que são efectuados todos os controlos necessários para assegurar a verificação eficaz do respeito das condições de concessão das ajudas. Todos os critérios de elegibilidade estabelecidos pela legislação da União, pela legislação nacional ou pelos programas de desenvolvimento rural devem poder ser controlados, de acordo com um grupo de indicadores verificáveis.\n\n(4) A experiência demonstra que o sistema integrado de gestão e de controlo (a seguir, «SIGC»), estabelecido pelo título II, capítulo 4, do Regulamento (CE) n.º 73/2009 do Conselho, de 19 de Janeiro de 2009, que estabelece regras comuns para os regimes de apoio directo aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio aos agricultores, que altera os Regulamentos (CE) n.º 1290/2005, (CE) n.º 247/2006 e (CE) n.º 378/2007 e revoga o Regulamento (CE) n.º 1782/2003 ([^5^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0005)), deu provas de ser um instrumento eficaz e eficiente de aplicação dos regimes de pagamentos directos. Por conseguinte, no que respeita às medidas relacionadas com a superfície e os animais no âmbito do título IV, capítulo I, secção 2, eixo 2, do Regulamento (CE) n.º 1698/2005, as regras de gestão e de controlo, bem como as disposições respeitantes a reduções e exclusões em casos de falsas declarações, devem seguir os princípios definidos no âmbito do SIGC, nomeadamente no Regulamento (CE) n.º 1122/2009.\n\n(5) Contudo, no respeitante a certas medidas de apoio no âmbito do eixo 2 e ao apoio equivalente no âmbito do eixo 4, a que se referem as secções 2 e 4, respectivamente, do título IV, capítulo I, do Regulamento (CE) n.º 1698/2005, é necessário adaptar as regras de gestão e de controlo às suas características específicas. O mesmo é aplicável às medidas de apoio no âmbito dos eixos 1 e 3, previstas nas secções 1 e 3, respectivamente, do mesmo capítulo e ao apoio equivalente no âmbito do eixo 4. Em consequência, devem ser estabelecidas disposições especiais relativas a essas medidas de apoio.\n\n(6) Para que todas as administrações nacionais possam organizar um controlo eficiente e integrado de todos os domínios para que é solicitado pagamento no âmbito do eixo 2 e dos regimes de ajudas «superfícies» abrangidos pelo Regulamento (CE) n.º 1122/2009, os pedidos de pagamento a título de medidas «superfície» no âmbito do eixo 2 devem ser apresentados no mesmo prazo que o pedido único previsto na parte II, título II, capítulo I, do mesmo regulamento.\n\n(7) Para garantir o efeito dissuasivo do controlo, os pagamentos não devem, regra geral, ser feitos antes de as verificações da elegibilidade estarem completadas. Não obstante, é conveniente autorizar os pagamentos até um certo nível após a realização dos controlos administrativos. Na fixação desse nível, há que ter em conta o risco de sobrepagamento.\n\n(8) As regras de controlo previstas no presente regulamento devem ter em conta as características especiais das medidas a título do eixo 2 em questão. Por motivos de clareza, devem, assim, fixar-se regras específicas.\n\n(9) Os Estados-Membros podem utilizar elementos de prova recebidos de outros serviços, organismos ou organizações para verificar o respeito dos critérios de elegibilidade. Contudo, devem assegurar-se de que o funcionamento do serviço, do organismo ou da organização em causa oferece garantias suficientes quanto ao controlo do respeito desses critérios.\n\n(10) A experiência demonstrou que é necessário esclarecer determinadas disposições, nomeadamente no que respeita à determinação do número de hectares e de animais, bem como às reduções, exclusões e recuperações.\n\n(11) Nos termos do artigo 50º-A do Regulamento (CE) n.º 1698/2005, os pagamentos a título de algumas das medidas previstas nesse regulamento ficaram subordinados ao respeito da condicionalidade prevista no título II, capítulo 1, do Regulamento (CE) n.º 73/2009. Em consequência, é adequado alinhar as regras relacionadas com a condicionalidade pelas previstas nos Regulamentos (CE) n.º 73/2009 e (CE) n.º 1122/2009.\n\n(12) A experiência demonstrou que são necessárias disposições de controlo específicas para certas medidas de apoio específicas.\n\n(13) Devem efectuar-se controlos *ex post* das operações de investimento para verificar o respeito do artigo 72.º, n.º 1, do Regulamento (CE) n.º 1698/2005. É necessário especificar a base e o conteúdo desses controlos.\n\n(14) Para que a Comissão possa cumprir as suas obrigações em matéria de gestão das medidas, os Estados-Membros devem comunicar-lhe o número de controlos realizados e os respectivos resultados.\n\n(15) É conveniente estabelecer certos princípios gerais em matéria de controlo, nomeadamente o direito da Comissão de realizar controlos.\n\n(16) Os Estados-Membros devem assegurar que os organismos pagadores referidos no artigo 6.º do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^6^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0006)), disponham de informações suficientes sobre os controlos realizados por outros serviços ou organismos a fim de cumprirem as suas obrigações a título desse regulamento.\n\n(17) A fim de evitar problemas contabilísticos susceptíveis de se produzirem caso fosse necessário aplicar diferentes procedimentos de controlo relativamente ao exercício de 2011, o presente regulamento deve ser aplicável a partir de 1 de Janeiro de 2011.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Desenvolvimento Rural,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e3812f90b824b078": {
+   "fragment_id": "Artigo 5.º — Recuperação de pagamentos indevidos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Recuperação de pagamentos indevidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recuperação de pagamentos indevidos\n\n1. Em caso de pagamento indevido, incumbe ao beneficiário reembolsar o montante em questão acrescido de juros calculados de acordo com o n.º 2.\n\n2. Os juros são calculados em função do período decorrido entre o prazo de pagamento para o beneficiário indicado na ordem de recuperação, que não deve ser fixado em mais de 60 dias, e a data do reembolso ou dedução.\n\nA taxa de juro aplicável é calculada em conformidade com o direito nacional, mas não deve ser inferior à taxa de juro aplicável à recuperação de montantes no âmbito das disposições nacionais.\n\n3. A obrigação de reembolso referida no n.º 1 não é aplicável se o pagamento tiver sido efectuado por erro da autoridade competente ou por erro de outra autoridade e se o erro não pudesse razoavelmente ter sido detectado pelo beneficiário.\n\nNo entanto, se o erro estiver relacionado com elementos factuais relevantes para o cálculo do pagamento em causa, o disposto no primeiro parágrafo só é aplicável se a decisão de recuperação não tiver sido comunicada nos 12 meses seguintes ao pagamento."
+  },
+  "df4972e983690aec": {
+   "fragment_id": "Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies\n\n1. Os Estados-Membros determinam os critérios e métodos de controlo que permitam controlar os diferentes compromissos e obrigações do beneficiário a fim de satisfazer os requisitos do artigo 48.º, n.º 1, do Regulamento (CE) n.º 1974/2006 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0007)).\n\n2. Se os Estados-Membros dispuserem que determinados elementos de um controlo *in loco* podem ser realizados com base numa amostra, esta deve garantir um nível de controlo fiável e representativo. Os Estados-Membros fixam os critérios para a selecção da amostra. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra são alargados em conformidade.\n\n3. No que se refere aos controlos respeitantes às medidas «superfícies», os controlos *in loco* abrangem todas as parcelas agrícolas e as terras não agrícolas para que foi solicitado apoio.\n\n4. Não obstante, a determinação efectiva da dimensão das superfícies para o controlo *in loco* pode ser limitada a uma amostra de, no mínimo, 50 % das superfícies, contanto que a amostra garanta um nível de controlo fiável e representativo, tanto no que respeita à superfície controlada, como ao apoio solicitado. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra são alargados em conformidade.\n\n5. A determinação das superfícies e a teledetecção são efectuadas em conformidade com o artigo 34.º, n.^os^ 1 a 5 e o artigo 35.º do Regulamento (CE) n.º 1122/2009.\n\nContudo, para as medidas previstas no artigo 36.º, alínea b), subalíneas iii), iv) e v), do Regulamento (CE) n.º 1698/2005, os Estados-Membros podem definir tolerâncias adequadas, que em nenhum caso são superiores ao dobro das estabelecidas no artigo 34.º, n.º 1, do Regulamento (CE) n.º 1122/2009.\n\n6. No que se refere aos controlos respeitantes às medidas «animais», os controlos *in loco* são efectuados nos termos do artigo 42.º do Regulamento (CE) n.º 1122/2009."
+  },
+  "fb473c06deda52c7": {
+   "fragment_id": "Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reduções e exclusões em relação com a dimensão da superfície\n\n1. Se, relativamente a um ano determinado, um beneficiário não declarar todas as superfícies agrícolas e a diferença entre a superfície agrícola total declarada no pedido de pagamento, por um lado, e a soma da superfície declarada com a superfície total das parcelas agrícolas não declaradas, por outro, exceder 3 % da superfície declarada, o montante global da ajuda a pagar a esse beneficiário, a título do ano em causa, no âmbito das medidas «superfície», é reduzido numa percentagem que pode ir até 3 %, dependendo da gravidade da omissão.\n\nO primeiro parágrafo näo é aplicável quando todas as superfícies agrícolas em causa tenham sido declaradas às autoridades competentes no âmbito:\n\na) do sistema integrado referido no artigo 15.º do Regulamento (CE) n.º 73/2009, ou\n\nb) de outros sistemas de gestão e de controlo que garantam a compatibilidade com o sistema integrado, em conformidade com o artigo 26.º do mesmo regulamento.\n\n2. Para efeitos da aplicação do presente artigo, as superfícies declaradas por um beneficiário às quais seja aplicada a mesma taxa de ajuda ao abrigo de uma medida «superfície» são consideradas como constituindo um grupo de culturas. Quando sejam utilizados montantes de ajuda degressivos, é tida em conta a média desses montantes em relação às respectivas superfícies declaradas.\n\n3. Se se verificar que a superfície determinada de um grupo de culturas é superior à declarada no pedido de pagamento, é utilizada para o cálculo da ajuda a superfície declarada.\n\nSe a superfície declarada no pedido de pagamento for superior à superfície determinada para esse grupo de culturas, a ajuda é calculada com base na superfície determinada para esse grupo de culturas.\n\nNo entanto, se a diferença entre a superfície total determinada e a superfície total declarada no pedido de pagamento para uma medida for inferior ou igual a 0,1 hectare, a superfície determinada é considerada igual à superfície declarada. Para este cálculo, apenas são tidas em conta as sobredeclarações de superfícies ao nível do grupo de culturas.\n\nO disposto no terceiro parágrafo não é aplicável se a diferença representar mais de 20 % da superfície total declarada para pagamentos.\n\nSempre que tenha sido fixado um limite máximo ou um tecto à superfície elegível para apoio, o número de hectares declarado no pedido de pagamento é reduzido para o limite ou o tecto fixado.\n\n4. Se a mesma superfície servir de base para um pedido de pagamento no âmbito de mais de uma medida «superfície», essa superfície é tida em conta separadamente para cada uma das medidas.\n\n5. No caso mencionado no n.º 3, segundo parágrafo, a ajuda é calculada com base na superfície determinada diminuída do dobro da diferença encontrada, se esta diferença for superior a 3 %, ou a dois hectares, mas não superior a 20 % da superfície determinada.\n\nSe a diferença for superior a 20 % da superfície determinada, não é concedida qualquer ajuda relativamente ao grupo de culturas em causa.\n\nSe a diferença for superior a 50 %, o beneficiário é uma vez mais excluído do benefício da ajuda, até ao montante da diferença entre a superfície declarada no pedido de pagamento e a superfície determinada.\n\n6. Se a diferença entre a superfície declarada no pedido de pagamento e a superfície determinada em conformidade com o n.º 3, segundo parágrafo, resultar de sobredeclarações intencionais, a ajuda a que o beneficiário teria direito, nos termos do referido parágrafo, não é concedida no que respeita ao ano civil em questão no âmbito da medida «superfície» em causa, se essa diferença for superior a 0,5 % da superfície determinada, ou a um hectare.\n\nSe a diferença for superior a 20 % da superfície determinada, o beneficiário é uma vez mais excluído do benefício da ajuda, até ao montante da diferença entre a superfície declarada e a superfície determinada.\n\n7. O montante resultante das exclusões previstas no n.º 5, terceiro parágrafo, e no n.º 6, segundo parágrafo, do presente artigo é deduzido em conformidade com o artigo 5.º-B do Regulamento (CE) n.º 885/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0008)). Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detectada, o saldo é cancelado."
+  },
+  "128fe215a23fe2d5": {
+   "fragment_id": "Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Reduções e exclusões em relação com o número de animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reduções e exclusões em relação com o número de animais\n\n1. Para efeitos do presente artigo, os bovinos e os ovinos e caprinos são tratados separadamente.\n\nNo que se refere a animais diferentes dos mencionados no primeiro parágrafo, o Estado-Membro fixa um sistema de reduções e exclusões adequado.\n\n2. Sempre que seja aplicável um limite individual ou um limite máximo individual, o número de animais declarado no pedido de pagamento é reduzido para o limite ou o limite máximo fixado para o beneficiário em questão.\n\nEm nenhum caso podem ser concedidas ajudas relativamente a um número de animais superior ao declarado no pedido de pagamento.\n\nSe o número de animais declarados no pedido de pagamento for superior ao número de animais determinado na sequência de controlos administrativos ou *in loco*, a ajuda é calculada com base no número de animais determinado.\n\n3. Um bovino que tenha perdido uma das duas marcas auriculares é considerado como determinado se estiver clara e individualmente identificado pelos outros elementos do regime de identificação e registo de bovinos. Além disso, quando um só bovino de uma exploração tiver perdido as duas marcas auriculares, o animal é considerado como fazendo parte dos animais determinados se puder ser identificado pelo registo, pelo passaporte de animal, pela base de dados ou por outros meios estabelecidos no Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0009)) e desde que o seu detentor possa fornecer provas de que já tomara medidas para corrigir a situação antes do anúncio do controlo *in loco*.\n\nNo caso de irregularidades que consistam em inscrições incorrectas no registo de bovinos ou nos passaportes dos animais, o bovino em causa só deixa de ser considerado como fazendo parte dos animais determinados se os erros forem constatados em, pelo menos, dois controlos realizados durante um período de 24 meses. Em todos os outros casos, o animal em causa deixa de ser considerado como fazendo parte dos animais determinados após a primeira constatação.\n\nO artigo 3.º, n.º 4, do presente regulamento é aplicável às inscrições e notificações no âmbito do regime de identificação e registo de bovinos.\n\n3-A. Um ovino ou caprino que tenha perdido uma marca auricular é considerado como fazendo parte dos animais determinados se puder ser identificado por um primeiro meio de identificação, em conformidade com o artigo 4.º, n.º 2, alínea a), do Regulamento (CE) n.º 21/2004 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#E0010)), e se estiverem preenchidos todos os outros requisitos do sistema de identificação e registo de ovinos e caprinos.\n\n3-B. Quando um beneficiário não tenha informado a autoridade competente, nos termos do artigo 16.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1122/2009, da mudança dos animais para outro local durante o período de retenção, os animais em questão são considerados como fazendo parte dos animais determinados se tiverem sido imediatamente localizados na exploração durante o controlo *in loco*.\n\n4. No caso referido no n.º 2, terceiro parágrafo, ao montante total da ajuda a que o beneficiário tem direito no âmbito da medida é deduzida a percentagem que deve ser fixada em conformidade com o n.º 6, se as irregularidades não disserem respeito a mais de três animais.\n\n5. Se as irregularidades disserem respeito a mais de três animais, o montante total da ajuda a que o beneficiário tem direito no âmbito da medida é reduzido:\n\na) Da percentagem a fixar de acordo com o n.º 6, se a mesma não for superior a 10 %;\n\nb) Do dobro da percentagem fixada de acordo com o n.º 6, se a mesma for superior a 10 %, mas inferior ou igual a 20 %.\n\nSe essa percentagem for superior a 20 %, não é concedida qualquer ajuda para a medida em causa.\n\nSe essa percentagem for superior a 50 %, o beneficiário é uma vez mais excluído de do benefício da ajuda até ao montante da diferença entre o número de animais declarado e o número de animais determinado em conformidade com o n.º 2, terceiro parágrafo. [**►M1**](http://publications.europa.eu/resource/celex/32012R0147) —————**◄** Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detectada, o saldo é cancelado.\n\n6. Para estabelecer as percentagens referidas nos n.^os^ 4 e 5, o número de animais em relação aos quais foram constatadas irregularidades é dividido pelo número de animais determinado.\n\nNo caso de aplicação do artigo 16.º, n.º 3, segundo parágrafo, do Regulamento (CE) n.º 1122/2009, quaisquer animais potencialmente elegíveis em relação aos quais se constate que não estão correctamente identificados ou registados no sistema de identificação e registo de bovinos são contabilizados como animais em relação aos quais foram constatadas irregularidades.\n\n7. Se a diferença entre o número de animais declarado e o determinado em conformidade com o n.º 2, terceiro parágrafo, resulte de irregularidades cometidas intencionalmente, não é concedida qualquer ajuda para a medida em causa.\n\nSe a percentagem estabelecida em conformidade com o n.º 6 for superior a 20 %, o beneficiário é uma vez mais excluído do benefício da ajuda até ao montante da diferença entre o número de animais declarado e o número de animais determinado em conformidade com o n.º 2, terceiro parágrafo. [**►M1**](http://publications.europa.eu/resource/celex/32012R0147) —————**◄** Se o montante não puder inteiramente ser deduzido durante os três anos civis seguintes ao ano civil em que foi detectada a irregularidade, o saldo é cancelado.\n\n8. O montante resultante das exclusões previstas no n.º 5, terceiro parágrafo, e no n.º 7, segundo parágrafo, do presente artigo é deduzido em conformidade com o artigo 5.º-B do Regulamento (CE) n.º 885/2006 da Comissão. Se o montante não puder ser totalmente deduzido em conformidade com esse artigo nos três anos civis seguintes ao ano em que a diferença seja detetada, o saldo é cancelado."
+  },
+  "a0c30032997851c6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0001)) JO L 277 de 21.10.2005, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0002)) JO L 316 de 2.12.2009, p. 65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0003)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0004)) JO L 368 de 23.12.2006, p. 74.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0005)) JO L 30 de 31.1.2009, p. 16.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0006)) JO L 209 de 11.8.2005, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0007)) JO L 368 de 23.12.2006, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0008)) JO L 171 de 23.6.2006, p. 90.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0009)) JO L 204 de 11.8.2000, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/35fe402c-84f0-4f84-84fb-5342e0801f04.0018.03/DOC_1#src.E0010)) JO L 5 de 9.1.2004, p. 8."
+  }
+ }
+}

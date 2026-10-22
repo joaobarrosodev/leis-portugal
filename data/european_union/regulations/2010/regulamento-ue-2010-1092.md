@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-10'
+version_history:
+  file: regulamento-ue-2010-1092.versoes.json
+  count: 3
+  source_lastmod: '2025-11-10'
+  versions:
+  - date: '2010-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-30'
+    amending: eu:celex:32019R2176:por
+    amending_title: REGULAMENTO (UE) 2019/2176 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4º. — Estrutura
+    - Altera Artigo 5.º — Presidente e Vice-Presidentes do ESRB
+    - Altera Artigo 6.º — Conselho Geral
+    - Altera Artigo 7.º — Imparcialidade
+    - Altera Artigo 8.º — Sigilo profissional
+    - Altera Artigo 9.º — Reuniões do Conselho Geral
+    - Altera Artigo 11.º — Comité Director
+    - Altera Artigo 12.º — Comité Científico Consultivo
+    - Altera Artigo 13.º — Comité Técnico Consultivo
+    - Altera Artigo 14.º — Outras fontes de aconselhamento
+    - Altera Artigo 15.º — Recolha e troca de informações
+    - Altera Artigo 16.º — Alertas e recomendações
+    - Altera Artigo 17.º — Acompanhamento das recomendações do ESRB
+    - Altera Artigo 18.º — Alertas e recomendações públicos
+    - Altera Artigo 19.º — Obrigação de prestar contas e de informar
+    - Altera Artigo 20.º — Cláusula de revisão
+    - Altera Artigo 21.º — Entrada em vigor
+    - Altera Notas
+  - date: '2025-11-10'
+    amending: eu:celex:32025R2088:por
+    amending_title: REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025
+    changes:
+    - Altera Artigo 4º. — Estrutura
+    - Altera Artigo 5.º — Presidente e Vice-Presidentes do ESRB
+    - Altera Artigo 6.º — Conselho Geral
+    - Altera Artigo 8.º — Sigilo profissional
+    - Altera Artigo 15.º — Recolha e troca de informações
+    - Altera Artigo 16.º — Alertas e recomendações
+    - Altera Notas
 identifiers:
   celex: 32010R1092
   eli: http://data.europa.eu/eli/reg/2010/1092/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c77cb24f-e594-4165-9b28-386bc317114a.0009
   content_url: http://publications.europa.eu/resource/cellar/61f8cb90-bf27-11f0-a612-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1092-20251110
-  retrieved_at: '2026-10-22T02:40:46Z'
+  retrieved_at: '2026-10-22T15:49:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T06:50:23.623+02:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:46Z'
-  notes: Texto consolidado 02010R1092-20251110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:05Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2010-1092.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,30 +214,19 @@ relationships:
   date: '2025-02-06'
 article_structure:
   article_count: 21
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:46Z'
+  checked_at: '2026-10-22T15:49:05Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 1092/2010 do Parlamento Europeu e do Conselho, de 24 de Novembro de 2010
-
-> 02010R1092 — PT — 10.11.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R2176) — [REGULAMENTO (UE) 2019/2176 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019R2176) — L 334 — 146 — 27.12.2019
-- [►M2](http://publications.europa.eu/resource/celex/32025R2088) — [REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2088) — L 2088 — 1 — 21.10.2025
-
-## REGULAMENTO (UE) N.º 1092/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de Novembro de 2010
 

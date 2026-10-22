@@ -36,6 +36,205 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-14'
+version_history:
+  file: regulamento-ue-2011-10.versoes.json
+  count: 8
+  source_lastmod: '2026-07-14'
+  versions:
+  - date: '2011-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-09-23'
+    amending: eu:celex:32011R0321:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 321/2011 DA COMISSÃO de 1 de Abril de 2011; REGULAMENTO (UE) N. o 1282/2011
+      DA COMISSÃO de 28 de Novembro de 2011; REGULAMENTO (UE) N. o 1183/2012 DA COMISSÃO de 30 de novembro de 2012; REGULAMENTO
+      (UE) N. o 202/2014 DA COMISSÃO de 3 de março de 2014; M5; REGULAMENTO (UE) 2015/174 DA COMISSÃO de 5 de fevereiro de
+      2015; REGULAMENTO (UE) 2016/1416 DA COMISSÃO de 24 de agosto de 2016; REGULAMENTO (UE) 2017/752 DA COMISSÃO de 28 de
+      abril de 2017; REGULAMENTO (UE) 2018/79 DA COMISSÃO de 18 de janeiro de 2018; REGULAMENTO (UE) 2018/213 DA COMISSÃO
+      de 12 de fevereiro de 2018; REGULAMENTO (UE) 2018/831 DA COMISSÃO de 5 de junho de 2018; REGULAMENTO (UE) 2019/37 DA
+      COMISSÃO de 10 de janeiro de 2019; M13; REGULAMENTO (UE) 2019/1338 DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO (UE)
+      2020/1245 DA COMISSÃO de 2 de setembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 6.º — Derrogações para substâncias não incluídas na lista da União
+    - Altera Artigo 11.º — Limites de migração específica
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 17.º — Expressão dos resultados do ensaio de migração
+    - Altera Artigo 18.º — Regras para avaliar a conformidade com os limites de migração
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera Artigo 23.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Substâncias
+    - Adita 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Adita 2. Restrições de grupo aplicáveis a substâncias
+    - Adita 3. Notas sobre a verificação da conformidade
+    - Adita 4. Especificações pormenorizadas das substâncias
+    - Adita ANEXO II
+    - Adita Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Adita ANEXO III
+    - Adita Simuladores alimentares
+    - Adita 1. Simuladores alimentares
+    - Adita 2. Atribuição geral de simuladores alimentares a alimentos
+    - Adita 3. Atribuição específica de simuladores alimentares a alimentos para ensaios de migração de materiais e objetos
+      que ainda não se encontram em contacto com alimentos
+    - Adita 4. Atribuição de simuladores alimentares para os ensaios de migração global
+    - Adita 5. Derrogação geral à atribuição de simuladores alimentares
+    - Adita ANEXO IV
+    - Adita Declaração de conformidade
+    - Adita ANEXO V
+    - Adita VERIFICAÇÃO DA CONFORMIDADE
+    - Adita CAPÍTULO 1
+    - Adita Ensaios de migração específica de materiais e objectos que já se encontram em contacto com os alimentos
+    - Adita 1.1. Preparação da amostra
+    - Adita 1.2. Condições de ensaio
+    - Adita 1.3. Análise das substâncias que migraram
+    - Adita 1.4. Tomada em conta de substâncias com origem noutras fontes
+    - Adita CAPÍTULO 2
+    - Adita Ensaios de migração específica de materiais e objectos que ainda não se encontram em contacto com os alimentos
+    - Adita 2.1. Método de verificação
+  - date: '2023-08-01'
+    amending: eu:celex:32023R1442:por
+    amending_title: REGULAMENTO (UE) 2023/1442 DA COMISSÃO de 11 de julho de 2023
+    changes:
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Altera 2. Restrições de grupo aplicáveis a substâncias
+    - Altera 3. Notas sobre a verificação da conformidade
+    - Altera Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Altera 2.1. Método de verificação
+    - Altera 2.2. Abordagens de determinação por aproximação
+    - Altera 3.3. Verificação da conformidade
+    - Altera 3.4. Abordagens de determinação por aproximação
+    - Altera Notas
+    - Suprime 2.1.1. Preparação da amostra
+    - Suprime 2.1.2. Escolha do simulador alimentar
+    - Suprime 2.1.3. Condições de contacto ao usar simuladores alimentares
+    - Suprime 2.1.4. Condições específicas aplicáveis a tempos de contacto superiores a 30 dias, à temperatura ambiente ou
+      a temperaturas inferiores
+    - Suprime 2.1.5. Condições específicas para a combinação entre tempos de contacto e temperaturas
+    - Suprime 2.1.6. Materiais e objetos reutilizáveis
+    - Suprime 2.1.7. Análise das substâncias que migraram
+    - Suprime 2.1.8. Verificação da conformidade através da quantidade residual por área superficial em contacto com o alimento
+      (QMA)
+    - Suprime 2.2.1. Substituir a migração específica pela migração global
+    - Suprime 2.2.2. Quantidade residual
+    - Suprime 2.2.3. Modelização da migração
+    - Suprime 2.2.4. Substitutos de simuladores alimentares
+    - Suprime 2.2.5. Ensaio único para combinações sucessivas de tempo e temperatura
+    - Suprime 3.3.1. Materiais e objetos de uso único
+    - Suprime 3.3.2. Materiais e objetos reutilizáveis
+    - Suprime 3.4.1. Quantidade residual
+    - Suprime 3.4.2. Substitutos de simuladores alimentares
+  - date: '2023-08-31'
+    amending: eu:celex:32023R1627:por
+    amending_title: REGULAMENTO (UE) 2023/1627 DA COMISSÃO de 10 de agosto de 2023
+    changes:
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Altera Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Altera 2.1. Método de verificação
+    - Altera 3.3. Verificação da conformidade
+    - Altera Notas
+  - date: '2025-01-20'
+    amending: eu:celex:32024R3190:por
+    amending_title: REGULAMENTO (UE) 2024/3190 DA COMISSÃO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 6.º — Derrogações para substâncias não incluídas na lista da União
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Altera Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Altera 2.1. Método de verificação
+    - Altera 3.3. Verificação da conformidade
+    - Altera Notas
+  - date: '2025-03-16'
+    amending: eu:celex:32025R0351:por
+    amending_title: REGULAMENTO (UE) 2025/351 DA COMISSÃO de 21 de fevereiro de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 5.º — Lista da União de substâncias autorizadas
+    - Altera Artigo 6.º — Derrogações para substâncias não incluídas na lista da União
+    - Altera Artigo 8.º — Requisitos gerais aplicáveis às substâncias
+    - Altera Artigo 9.º — Requisitos específicos aplicáveis às substâncias
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 14.º — Materiais e objectos multimateriais multicamadas
+    - Altera Artigo 16.º — Documentos comprovativos
+    - Altera Artigo 17.º — Expressão dos resultados do ensaio de migração
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Altera Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Altera 3. Atribuição específica de simuladores alimentares a alimentos para ensaios de migração de materiais e objetos
+      que ainda não se encontram em contacto com alimentos
+    - Altera Declaração de conformidade
+    - Altera VERIFICAÇÃO DA CONFORMIDADE
+    - Altera 2.1. Método de verificação
+    - Altera 3.3. Verificação da conformidade
+    - Altera Notas
+    - Adita Artigo 3.º-A — Elevado grau de pureza
+    - Adita Artigo 10.º — Restrições e requisitos gerais relativos à composição dos materiais e objetos de matéria plástica
+    - Adita ROTULAGEM, DECLARAÇÃO DE CONFORMIDADE E DOCUMENTAÇÃO
+    - Adita Artigo 14.º-A — Rotulagem
+    - Suprime Artigo 7.º — Elaboração e gestão da lista provisória
+    - Suprime Artigo 10.º — Restrições gerais aplicáveis aos materiais e objectos de matéria plástica
+    - Suprime DECLARAÇÃO DE CONFORMIDADE E DOCUMENTAÇÃO
+  - date: '2026-02-23'
+    amending: eu:celex:32026R0245:por
+    amending_title: REGULAMENTO (UE) 2026/245 DA COMISSÃO de 2 de fevereiro de 2026
+    changes:
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 6.º — Derrogações para substâncias não incluídas na lista da União
+    - Altera Artigo 10.º — Restrições e requisitos gerais relativos à composição dos materiais e objetos de matéria plástica
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 14.º — Materiais e objectos multimateriais multicamadas
+    - Altera Artigo 17.º — Expressão dos resultados do ensaio de migração
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Altera 3. Notas sobre a verificação da conformidade
+    - Altera Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Altera VERIFICAÇÃO DA CONFORMIDADE
+    - Altera 2.1. Método de verificação
+    - Altera Notas
+    - Adita DECLARAÇÃO DE CONFORMIDADE E DOCUMENTAÇÃO
+    - Suprime ROTULAGEM, DECLARAÇÃO DE CONFORMIDADE E DOCUMENTAÇÃO
+  - date: '2026-07-14'
+    amending: eu:celex:32026R1380:por
+    amending_title: M21
+    changes:
+    - Altera Artigo 4.º — Colocação no mercado dos materiais e objectos de matéria plástica
+    - Altera Artigo 6.º — Derrogações para substâncias não incluídas na lista da União
+    - Altera Artigo 10.º — Restrições e requisitos gerais relativos à composição dos materiais e objetos de matéria plástica
+    - Altera Artigo 12.º — Limite de migração global
+    - Altera Artigo 13.º — Materiais e objectos de matéria plástica multicamadas
+    - Altera Artigo 17.º — Expressão dos resultados do ensaio de migração
+    - Altera Artigo 20.º — Alteração de actos legislativos da UE
+    - Altera 1. Lista de monómeros, outras substâncias iniciadoras, macromoléculas obtidas por fermentação microbiana, aditivos
+      e adjuvantes de polimerização autorizados na União Europeia
+    - Altera Restrições aplicáveis aos materiais e objetos de matéria plástica
+    - Altera 2.1. Método de verificação
+    - Altera Notas
 identifiers:
   celex: 32011R0010
   eli: http://data.europa.eu/eli/reg/2011/10/oj
@@ -50,7 +249,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/84665a0a-f9e5-4eae-aac5-af4fd4c8ac94.0020
   content_url: http://publications.europa.eu/resource/cellar/edfb24c5-906d-11f1-9262-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0010-20260714
-  retrieved_at: '2026-10-22T02:42:55Z'
+  retrieved_at: '2026-10-22T15:51:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T11:57:19.300+02:00'
 integrity:
@@ -59,9 +258,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:55Z'
-  notes: Texto consolidado 02011R0010-20260714.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:48Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2011-10.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -370,49 +569,32 @@ relationships:
   date: '2011-01-31'
 article_structure:
   article_count: 24
-  section_count: 57
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 58
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:55Z'
-  warnings: []
+  checked_at: '2026-10-22T15:51:48Z'
+  warnings:
+  - '02011R0010-20110422: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20111230: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20140324: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20150226: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20160914: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20170519: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20180208: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20180626: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20180914: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20190519: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20190708: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0010-20190829: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 10/2011 da Comissão, de 14 de Janeiro de 2011
-
-> 02011R0010 — PT — 14.07.2026 — 021.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32011R0321) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 321/2011 DA COMISSÃO de 1 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0321) — L 87 — 1 — 2.4.2011
-- [►M2](http://publications.europa.eu/resource/celex/32011R1282) — [REGULAMENTO (UE) N.º 1282/2011 DA COMISSÃO de 28 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1282) — L 328 — 22 — 10.12.2011
-- [►M3](http://publications.europa.eu/resource/celex/32012R1183) — [REGULAMENTO (UE) N.º 1183/2012 DA COMISSÃO de 30 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1183) — L 338 — 11 — 12.12.2012
-- [►M4](http://publications.europa.eu/resource/celex/32014R0202) — [REGULAMENTO (UE) N.º 202/2014 DA COMISSÃO de 3 de março de 2014](http://publications.europa.eu/resource/celex/32014R0202) — L 62 — 13 — 4.3.2014
-- [M5](http://publications.europa.eu/resource/celex/32014R0865) — [REGULAMENTO (UE) N.º 865/2014 DA COMISSÃO de 8 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0865) — L 238 — 1 — 9.8.2014
-- [►M6](http://publications.europa.eu/resource/celex/32015R0174) — [REGULAMENTO (UE) 2015/174 DA COMISSÃO de 5 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0174) — L 30 — 2 — 6.2.2015
-- [►M7](http://publications.europa.eu/resource/celex/32016R1416) — [REGULAMENTO (UE) 2016/1416 DA COMISSÃO de 24 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1416) — L 230 — 22 — 25.8.2016
-- [►M8](http://publications.europa.eu/resource/celex/32017R0752) — [REGULAMENTO (UE) 2017/752 DA COMISSÃO de 28 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0752) — L 113 — 18 — 29.4.2017
-- [►M9](http://publications.europa.eu/resource/celex/32018R0079) — [REGULAMENTO (UE) 2018/79 DA COMISSÃO de 18 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0079) — L 14 — 31 — 19.1.2018
-- [M10](http://publications.europa.eu/resource/celex/32018R0213) — [REGULAMENTO (UE) 2018/213 DA COMISSÃO de 12 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0213) — L 41 — 6 — 14.2.2018
-- [►M11](http://publications.europa.eu/resource/celex/32018R0831) — [REGULAMENTO (UE) 2018/831 DA COMISSÃO de 5 de junho de 2018](http://publications.europa.eu/resource/celex/32018R0831) — L 140 — 35 — 6.6.2018
-- [►M12](http://publications.europa.eu/resource/celex/32019R0037) — [REGULAMENTO (UE) 2019/37 DA COMISSÃO de 10 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0037) — L 9 — 88 — 11.1.2019
-- [M13](http://publications.europa.eu/resource/celex/32019R0988) — [REGULAMENTO (UE) 2019/988 DA COMISSÃO de 17 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0988) — L 160 — 10 — 18.6.2019
-- [M14](http://publications.europa.eu/resource/celex/32019R1338) — [REGULAMENTO (UE) 2019/1338 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1338) — L 209 — 5 — 9.8.2019
-- [►M15](http://publications.europa.eu/resource/celex/32020R1245) — [REGULAMENTO (UE) 2020/1245 DA COMISSÃO de 2 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1245) — L 288 — 1 — 3.9.2020
-- [►M16](http://publications.europa.eu/resource/celex/32023R1442) — [REGULAMENTO (UE) 2023/1442 DA COMISSÃO de 11 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1442) — L 177 — 45 — 12.7.2023
-- [►M17](http://publications.europa.eu/resource/celex/32023R1627) — [REGULAMENTO (UE) 2023/1627 DA COMISSÃO de 10 de agosto de 2023](http://publications.europa.eu/resource/celex/32023R1627) — L 201 — 4 — 11.8.2023
-- [►M18](http://publications.europa.eu/resource/celex/32024R3190) — [REGULAMENTO (UE) 2024/3190 DA COMISSÃO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3190) — L 3190 — 1 — 31.12.2024
-- [►M19](http://publications.europa.eu/resource/celex/32025R0351) — [REGULAMENTO (UE) 2025/351 DA COMISSÃO de 21 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0351) — L 351 — 1 — 24.2.2025
-- [►M20](http://publications.europa.eu/resource/celex/32026R0245) — [REGULAMENTO (UE) 2026/245 DA COMISSÃO de 2 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0245) — L 245 — 1 — 3.2.2026
-- [M21](http://publications.europa.eu/resource/celex/32026R1380) — [REGULAMENTO (UE) 2026/1380 DA COMISSÃO de 23 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1380) — L 1380 — 1 — 24.6.2026
-
-## REGULAMENTO (UE) N.º 10/2011 DA COMISSÃO
 
 de 14 Janeiro de 2011
 

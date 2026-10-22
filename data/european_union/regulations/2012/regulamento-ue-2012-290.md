@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-04-08'
+version_history:
+  file: regulamento-ue-2012-290.versoes.json
+  count: 2
+  source_lastmod: '2015-04-08'
+  versions:
+  - date: '2012-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-08'
+    amending: eu:celex:32015R0445:por
+    amending_title: REGULAMENTO (UE) 2015/445 DA COMISSÃO de 17 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO V
+    - Adita QUALIFICAÇÃO DOS TRIPULANTES DE CABINA ENVOLVIDOS EM OPERAÇÕES DE TRANSPORTE AÉREO COMERCIAL
+    - Adita [PARTE CC]
+    - Adita SUBPARTE GEN
+    - Adita REQUISITOS GERAIS
+    - Adita SUBPARTE CCA
+    - Adita REQUISITOS ESPECIFICAMENTE APLICÁVEIS AOS CERTIFICADOS DE TRIPULANTE DE CABINA
+    - Adita SUBPARTE TRA
+    - Adita REQUISITOS DE FORMAÇÃO APLICÁVEIS AOS REQUERENTES E AOS TITULARES DE CERTIFICADOS DE TRIPULANTE DE CABINA
+    - Adita Apêndice 1 à Parte CC
+    - Adita Curso de formação inicial e exame
+    - Adita PROGRAMA DE FORMAÇÃO
+    - Adita ANEXO VI
+    - Adita REQUISITOS DA AUTORIDADE PARA OS TRIPULANTES DE VOO
+    - Adita [PARTE ARA]
+    - Adita SUBPARTE FCL
+    - Adita REQUISITOS ESPECÍFICOS PARA A ATRIBUIÇÃO DE LICENÇAS DE TRIPULANTE DE VOO
+    - Adita SUBPARTE CC
+    - Adita REQUISITOS ESPECÍFICOS PARA OS TRIPULANTES DE CABINA
+    - Adita SUBPARTE ATO
+    - Adita REQUISITOS ESPECÍFICOS PARA AS ORGANIZAÇÕES DE FORMAÇÃO AUTORIZADAS (ATO)
+    - Adita SUBPARTE FSTD
+    - Adita REQUISITOS ESPECÍFICOS PARA A QUALIFICAÇÃO DOS DISPOSITIVOS DE TREINO DE SIMULAÇÃO DE VOO (FSTD)
+    - Adita SUBPARTE AeMC
+    - Adita REQUISITOS ESPECÍFICOS PARA OS CENTROS DE MEDICINA AERONÁUTICA (AeMC)
+    - Adita SUBPARTE MED
+    - Adita REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Adita Apêndice I ao ANEXO VI DA PARTE ARA
+    - Adita Licença de tripulante de voo
+    - Adita Apêndice II ao ANEXO VI DA PARTE ARA
+    - Adita Modelo AESA de certificado de tripulante de cabina
+    - Adita Apêndice III ao ANEXO VI DA PARTE ARA
+    - Adita Apêndice IV ao ANEXO VI DA PARTE ARA
+    - Adita CERTIFICADO DE QUALIFICAÇÃO DE DISPOSITIVO DE TREINO DE SIMULAÇÃO DE VOO
+    - Adita Introdução
 identifiers:
   celex: 32012R0290
   eli: http://data.europa.eu/eli/reg/2012/290/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/360b3c17-b7d8-46db-b461-e5057e957692.0012
   content_url: http://publications.europa.eu/resource/cellar/8c475ea3-dd63-4c54-af22-336df5405544.0015.02/DOC_16
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0290-20150408
-  retrieved_at: '2026-10-22T02:53:13Z'
+  retrieved_at: '2026-10-22T15:59:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-22T12:14:35.806+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:13Z'
-  notes: Texto consolidado 02012R0290-20150408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:27Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2012-290.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,33 +226,20 @@ relationships:
   date: '2026-06-22'
 article_structure:
   article_count: 2
-  section_count: 53
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 54
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:13Z'
-  warnings: []
+  checked_at: '2026-10-22T15:59:27Z'
+  warnings:
+  - '02012R0290-20120408: versão indisponível (Sem expressão na língua por para CELEX 02012R0290-20120408.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 290/2012 da Comissão, de 30 de março de 2012
-
-> 02012R0290 — PT — 08.04.2015 — 001.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0445) — [REGULAMENTO (UE) 2015/445 DA COMISSÃO de 17 de março de 2015](http://publications.europa.eu/resource/celex/32015R0445) — L 74 — 1 — 18.3.2015
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R0290R%2807%29) — [Rectificação, JO L 292, 10.11.2017, p. 119 (n.o 290/2012)](http://publications.europa.eu/resource/celex/32012R0290R%2807%29)
-
-## REGULAMENTO (UE) N.º 290/2012 DA COMISSÃO
 
 de 30 de março de 2012
 

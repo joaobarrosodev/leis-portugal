@@ -1,0 +1,341 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0200:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0200-20190310",
+ "dre_path": null,
+ "source_lastmod": "2019-03-10",
+ "versions": [
+  {
+   "date": "2012-03-09",
+   "future": false,
+   "celex": "02012R0200-20120309",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "12cc7f1de7113344",
+    "7c7a72e64f59db62",
+    "15275a22f38368a9",
+    "166718e9f19d0b21",
+    "48229289c3b60a88",
+    "10220b9774fa9034",
+    "36a097ef2c62d3f4",
+    "3ed1b59d6cff50d1",
+    "649fef02fbd70c32",
+    "43a2026ce63fc428",
+    "9626310324f1f3aa",
+    "9040b493949e617b",
+    "dae5967ea379fefa",
+    "fe8f8828278e075b",
+    "1a6bcf3a67508441",
+    "a0969da3aaed4eab",
+    "9b41ce543e815079",
+    "9be9bc9b026d6943",
+    "1e48374f17549c0f",
+    "4bd6544528c68307",
+    "eef323f07bf8cafa",
+    "c6dbe3d2b9319926",
+    "f46a336ace87a3f3",
+    "bdc9be1947e31723",
+    "4c7bb59667c34997"
+   ]
+  },
+  {
+   "date": "2019-03-10",
+   "future": false,
+   "celex": "02012R0200-20190310",
+   "acts": [
+    {
+     "id": "eu:celex:32019R0268:por",
+     "title": "REGULAMENTO (UE) 2019/268 DA COMISSÃO de 15 de fevereiro de 2019",
+     "published": null,
+     "celex": "32019R0268"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 3.2. Método de deteção",
+    "Altera 3.4. Métodos alternativos",
+    "Altera 3.5. Armazenagem das estirpes",
+    "Altera 4.2. Relatórios",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "d792f95ae46adc23",
+    "7c7a72e64f59db62",
+    "15275a22f38368a9",
+    "166718e9f19d0b21",
+    "48229289c3b60a88",
+    "10220b9774fa9034",
+    "36a097ef2c62d3f4",
+    "3ed1b59d6cff50d1",
+    "649fef02fbd70c32",
+    "43a2026ce63fc428",
+    "9626310324f1f3aa",
+    "9040b493949e617b",
+    "dae5967ea379fefa",
+    "fe8f8828278e075b",
+    "1a6bcf3a67508441",
+    "a0969da3aaed4eab",
+    "9b41ce543e815079",
+    "c99dd482ab92c249",
+    "1e48374f17549c0f",
+    "123270cb6f705a64",
+    "566135c7d8b2e508",
+    "c6dbe3d2b9319926",
+    "f46a336ace87a3f3",
+    "bf5ef0def93e68e3",
+    "510ef24e0967fb56"
+   ]
+  }
+ ],
+ "fragments": {
+  "12cc7f1de7113344": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de março de 2012\n\nrelativo ao objetivo da União de redução de *Salmonella enteritidis* e *Salmonella typhimurium* em bandos de frangos, tal como previsto no Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, relativo ao controlo de salmonelas e outros agentes zoonóticos específicos de origem alimentar ([^1^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0001)), nomeadamente o artigo 4.º, n.º 1, segundo parágrafo, o artigo 8.º, n.º 1, segundo parágrafo, e o artigo 13, segundo parágrafo,\n\n(1) O objetivo do Regulamento (CE) n.º 2160/2003 consiste em assegurar que são tomadas medidas adequadas e eficazes para detetar e controlar, designadamente, as salmonelas em todas as fases importantes e, em especial, a nível da produção primária, ou seja, nos bandos, a fim de reduzir a prevalência de agentes patogénicos de origem alimentar e, consequentemente, o risco que constituem para a saúde pública.\n\n(2) O artigo 4.º, n.º 5, do Regulamento (CE) n.º 2160/2003 prevê o estabelecimento de objetivos da União destinados a reduzir a prevalência nos frangos de todos os serótipos de salmonelas significativos em matéria de saúde pública. Essa redução é essencial para garantir o cumprimento dos critérios em matéria de salmonelas em carne de frango fresca definida no anexo II, parte E, daquele regulamento e no anexo I, capítulo 1, do Regulamento (CE) n.º 2073/2005, de 15 de novembro de 2005, relativo a critérios microbiológicos aplicáveis aos géneros alimentícios ([^2^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0002)).\n\n(3) O Regulamento (CE) n.º 2160/2003 estabelece que o objetivo da União deve incluir uma expressão numérica da percentagem máxima de unidades epidemiológicas que permanecem positivas e/ou da percentagem mínima de redução do número de unidades epidemiológicas que permanecem positivas, o prazo máximo durante o qual o objetivo deve ser alcançado e a definição dos regimes de testes necessários para verificar a consecução do objetivo. Deve incluir ainda a definição, sempre que aplicável, de serótipos significativos em matéria de saúde pública.\n\n(4) O Regulamento (CE) n.º 2160/2003 determina que, no estabelecimento de objetivos da União, deve ter-se em consideração a experiência adquirida com as medidas nacionais em vigor, assim como as informações transmitidas à Comissão ou à Autoridade Europeia para a Segurança dos Alimentos (AESA) ao abrigo das exigências da União existentes, nomeadamente no âmbito da informação prevista na Diretiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Diretiva 92/117/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0003)), especialmente no seu artigo 5.º\n\n(5) O artigo 1.º, n.º 1, do Regulamento (CE) n.º 646/2007 da Comissão, de 12 de junho de 2007, que dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objetivo comunitário de redução da prevalência de *Salmonella enteritidis* e *Salmonella typhimurium* em frangos e que revoga o Regulamento (CE) n.º 1091/2005 ([^4^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0004)), estabelece o objetivo de reduzir para 1 %, ou menos, a percentagem máxima de bandos de frangos positivos a estes dois serótipos de salmonelas até 31 de dezembro de 2011.\n\n(6) O relatório de síntese da UE sobre as tendências e origens das zoonoses, dos agentes zoonóticos e surtos de origem alimentar na União Europeia em 2009 ([^5^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0005)) revelou que a *Salmonella enteritidis* e a *Salmonella typhimurium* são os serovares mais frequentemente associados a doenças humanas. Os casos humanos provocados por *Salmonella enteritidis* diminuíram significativamente em 2009, apesar de se ter observado um aumento dos casos de *Salmonella typhimurium*.\n\n(7) Em julho de 2011, a AESA adotou um parecer científico sobre a avaliação quantitativa do impacto para a saúde pública da definição de um novo objetivo para a redução de salmonelas em frangos ([^6^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0006)). O parecer concluiu que a *Salmonella enteritidis* é o serótipo de salmonela zoonótica cuja transmissão vertical entre aves de capoeira é mais eficaz. A AESA concluiu igualmente que as medidas de controlo da União relativas a frangos contribuíram para a redução considerável do número de casos de salmonelose em humanos associada a frangos, em comparação com a situação em 2006. O objetivo deve, por conseguinte, ser confirmado.\n\n(8) As estirpes monofásicas de *Salmonella typhimurium* tornaram-se um dos serótipos de salmonelas mais frequentemente detetados em várias espécies de animais e em isolados clínicos de seres humanos nos últimos anos. O parecer científico da AESA de 2010 sobre a vigilância e a avaliação dos riscos para a saúde pública das «estirpes do tipo *Salmonella typhimurium*», adotado a 22 de setembro de 2010 ([^7^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0007)), afirmava também que as estirpes monofásicas de *Salmonella typhimurium* com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R0200R%2801%29) 1,4,[5],12:i:-**◄**, que inclui estirpes com e sem o antigénio O5, têm de ser consideradas variantes de *Salmonella typhimurium* e um risco para a saúde pública comparável ao das outras estirpes de *Salmonella typhimurium*. As estirpes de *Salmonella typhimurium* com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R0200R%2801%29) 1,4,[5],12:i:-**◄** devem, pois, ser incluídas no objetivo.\n\n(9) Para verificar a consecução do objetivo da União, é necessário efetuar repetidamente a amostragem dos bandos de frangos. Para avaliar e comparar os resultados, é necessário elaborar um regime de testes comum para verificar a consecução do objetivo da União.\n\n(10) Os programas nacionais de controlo para a realização do objetivo da União para 2012 em bandos de frangos da espécie *Gallus gallus* foram apresentados para cofinanciamento da União, em conformidade com a Decisão 2009/470/CE do Conselho, de 25 de maio de 2009, relativa a determinadas despesas no domínio veterinário ([^8^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0008)). As alterações técnicas introduzidas no anexo do presente regulamento são diretamente aplicáveis. Consequentemente, a Comissão não tem de reaprovar os programas nacionais de controlo que dão execução ao presente regulamento. Assim, não é necessário qualquer período de transição.\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "7c7a72e64f59db62": {
+   "fragment_id": "Artigo 1.º — Objetivo da União",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objetivo da União\n\n1. O objetivo da União, referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003, para a redução da prevalência de *Salmonella enteritidis* e *Salmonella typhimurium* nos frangos (adiante designado por «objetivo da União») consiste numa redução para 1 %, ou menos, da percentagem máxima anual de bandos de frangos que permanecem positivos à *Salmonella enteritidis* e à *Salmonella typhimurium*.\n\nNo que se refere à *Salmonella typhimurium* monofásica, devem ser incluídos no objetivo da União os serótipos com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R0200R%2801%29) 1,4,[5],12:i:-**◄**.\n\n2. O regime de testes necessário para verificar os progressos na consecução do objetivo da União consta do anexo («regime de testes»)."
+  },
+  "15275a22f38368a9": {
+   "fragment_id": "Artigo 2.º — Reexame do objetivo da União",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Reexame do objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reexame do objetivo da União\n\nO objetivo da União será reexaminado pela Comissão, tendo em conta a informação recolhida em conformidade com o regime de testes e os critérios estabelecidos no artigo 4.º, n.º 6, alínea c), do Regulamento (CE) n.º 2160/2003."
+  },
+  "166718e9f19d0b21": {
+   "fragment_id": "Artigo 3.º — Revogação do Regulamento (CE) n.º 646/2007",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Revogação do Regulamento (CE) n.º 646/2007",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação do Regulamento (CE) n.º 646/2007\n\nO Regulamento (CE) n.º 646/2007 é revogado.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento."
+  },
+  "48229289c3b60a88": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "36a097ef2c62d3f4": {
+   "fragment_id": "Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2",
+   "type": "divisao",
+   "heading": "Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2"
+  },
+  "3ed1b59d6cff50d1": {
+   "fragment_id": "1. BASE DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "1. BASE DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. BASE DE AMOSTRAGEM\n\nA base de amostragem deve abranger todos os bandos de frangos da espécie *Gallus gallus* («frangos»), no âmbito dos programas nacionais de controlo previstos no artigo 5.º do Regulamento (CE) n.º 2160/2003."
+  },
+  "649fef02fbd70c32": {
+   "fragment_id": "2. MONITORIZAÇÃO DOS FRANGOS",
+   "type": "divisao",
+   "heading": "2. MONITORIZAÇÃO DOS FRANGOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. MONITORIZAÇÃO DOS FRANGOS"
+  },
+  "43a2026ce63fc428": {
+   "fragment_id": "2.1. Frequência da amostragem",
+   "type": "divisao",
+   "heading": "2.1. Frequência da amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Frequência da amostragem\n\na) Os operadores de empresas do setor alimentar devem efetuar a amostragem de todos os bandos de frangos num prazo de três semanas antes do abate.\n\ni) se usar um sistema de «tudo-dentro-tudo-fora» para todos os bandos da exploração,\n\nii) se aplicar a mesma gestão a todos os bandos,\n\niii) o fornecimento de alimentos e água for comum a todos os bandos,\n\niv) durante, pelo menos, os últimos seis ciclos de produção, a autoridade competente tiver realizado testes a *Salmonella* spp., de acordo com o regime de amostragem previsto no primeiro parágrafo, a todos os bandos da exploração e, em pelo menos um ciclo de produção, tiverem sido colhidas amostras de todos os bandos,\n\nv) todos os resultados dos testes de deteção de *Salmonella enteritidis* e *Salmonella typhimurium*, previstos no primeiro parágrafo e na alínea b) tiverem sido negativos.\n\nb) A autoridade competente deve efetuar anualmente a amostragem de, pelo menos, um bando de frangos em 10 % das explorações com mais de 5 000 aves. Essa amostragem pode ser realizada com base nos riscos e cada vez que a autoridade competente achar conveniente."
+  },
+  "9626310324f1f3aa": {
+   "fragment_id": "2.2. Protocolo de amostragem",
+   "type": "divisao",
+   "heading": "2.2. Protocolo de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Protocolo de amostragem"
+  },
+  "9040b493949e617b": {
+   "fragment_id": "2.2.1. Instruções gerais para a amostragem",
+   "type": "divisao",
+   "heading": "2.2.1. Instruções gerais para a amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Instruções gerais para a amostragem\n\nA autoridade competente ou os operadores de empresas do setor alimentar devem garantir que as amostras são colhidas por pessoas com formação adequada.\n\nDevem colher-se para amostragem pelo menos dois pares de botas para esfregaço. Os esfregaços são colocados nas botas e a amostra é colhida andando na instalação. Os esfregaços provenientes de um bando de frangos podem ser reunidos numa única amostra.\n\nAntes de calçar as botas para esfregaço, a sua superfície deve ser humidificada através de:\n\n(a) Aplicação de «Maximum Recovery Diluent» (MRD: 0,8% de cloreto de sódio, 0,1% de peptona em água desionizada estéril);\n\n(b) Aplicação de água estéril;\n\n(c) Aplicação de qualquer outro diluente aprovado pelo laboratório nacional de referência mencionado no artigo 11.º, n.º 3, do Regulamento (CE) n.º 2160/2003; ou\n\n(d) Autoclavagem num recipiente juntamente com os diluentes.\n\nPara humedecer as botas para esfregaço deve verter-se o líquido no seu interior antes de as calçar ou agitá-las num recipiente contendo o diluente.\n\nDeve garantir-se que todas as secções da instalação se encontram representadas proporcionalmente na amostragem. Cada par de botas para esfregaço deve representar cerca de 50 % da superfície da instalação.\n\nConcluída a amostragem, devem retirar-se cuidadosamente as botas para esfregaço, de modo a não remover o material aderente. As botas para esfregaço podem ser viradas ao contrário para reter o material. Devem ser colocadas num saco ou recipiente e rotuladas.\n\nA autoridade competente pode decidir aumentar o número mínimo de amostras, a fim de assegurar a realização de uma amostragem representativa numa avaliação caso a caso de parâmetros epidemiológicos, tais como condições de biossegurança, distribuição ou dimensão do bando.\n\nSe a autoridade competente assim o aprovar, um par de botas para esfregaço pode ser substituída por uma amostra de 100 gramas de pó, colhida em diversos locais em toda a instalação em superfícies onde a presença de pó seja visível. Em alternativa, podem ser utilizados um ou vários tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ de área total, para recolher o pó de várias superfícies em toda a instalação. Cada esfregaço deve estar bem coberto de pó nos dois lados."
+  },
+  "dae5967ea379fefa": {
+   "fragment_id": "2.2.2. Instruções específicas para certos tipos de explorações",
+   "type": "divisao",
+   "heading": "2.2.2. Instruções específicas para certos tipos de explorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2. Instruções específicas para certos tipos de explorações\n\na) Para os bandos de frangos de criação ao ar livre, as amostras devem apenas ser colhidas no interior da instalação;\n\nb) Sempre que o acesso às instalações não seja possível devido a limitações de espaço em bandos com menos de 100 frangos, e em que não seja possível, por conseguinte, utilizar botas para esfregaço, estas podem ser substituídas pelo mesmo tipo de tecido que o utilizado na recolha de pó, devendo os esfregaços ser passados sobre superfícies contaminadas por excrementos recentes ou, se tal não for possível, por outras técnicas de amostragem para excrementos adequadas ao objetivo pretendido."
+  },
+  "fe8f8828278e075b": {
+   "fragment_id": "2.2.3. Amostragem pela autoridade competente",
+   "type": "divisao",
+   "heading": "2.2.3. Amostragem pela autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.3. Amostragem pela autoridade competente\n\nA autoridade competente deve certificar-se, através da realização de outros testes e/ou controlos documentais, conforme adequado, que os resultados não são alterados pela presença de agentes antimicrobianos ou de outras substâncias inibidoras do crescimento bacteriano.\n\nSempre que não for detetada a presença de *Salmonella enteritidis* nem *Salmonella typhimurium*, mas forem encontrados agentes antimicrobianos ou um efeito inibidor do crescimento bacteriano, o bando de frangos deve ser considerado como um bando infetado, para efeitos do objetivo da União referido no artigo 1.º, n.º 2."
+  },
+  "1a6bcf3a67508441": {
+   "fragment_id": "2.2.4. Transporte",
+   "type": "divisao",
+   "heading": "2.2.4. Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.4. Transporte\n\nAs amostras devem ser enviadas sem demora indevida por correio expresso ou por serviço de correio privado, aos laboratórios mencionados nos artigos 11.º e 12.º do Regulamento (CE) n.º 2160/2003. Durante o transporte, as amostras não devem ser expostas a uma temperatura superior a 25 °C nem à luz solar.\n\nSe não for possível enviar as amostras num prazo de 24 horas a contar da hora de colheita, as mesmas devem manter-se refrigeradas."
+  },
+  "a0969da3aaed4eab": {
+   "fragment_id": "3. ANÁLISES DE LABORATÓRIO",
+   "type": "divisao",
+   "heading": "3. ANÁLISES DE LABORATÓRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. ANÁLISES DE LABORATÓRIO"
+  },
+  "9b41ce543e815079": {
+   "fragment_id": "3.1. Preparação das amostras",
+   "type": "divisao",
+   "heading": "3.1. Preparação das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Preparação das amostras\n\nNo laboratório, as amostras devem ser mantidas refrigeradas até ao seu exame. O exame deve começar num prazo de 48 horas a contar da hora de receção das amostras e num prazo de quatro dias a contar da data da colheita.\n\nAs amostras de pó devem ser analisadas separadamente. No entanto, a autoridade competente pode decidir reuni-las com o par de botas para esfregaço antes da análise.\n\nAgitar a amostra para a saturar completamente e continuar a cultura através do método de deteção indicado no ponto 3.2.\n\nOs dois pares de botas para esfregaço devem ser cuidadosamente desembrulhados de forma a evitar a retirada da matéria fecal aderente, a qual deve ser combinada e colocada em 225 ml de água peptonada tamponada (BPW), previamente aquecida à temperatura ambiente, ou os 225 ml de diluente devem ser acrescentados diretamente aos dois pares de botas para esfregaço, no seu recipiente, tal como recebidas no laboratório.\n\nAs botas para esfregaço devem ficar completamente imersas na água peptonada tamponada, a fim de haver suficiente líquido livre à volta da amostra para permitir que as salmonelas migrem da amostra, podendo, por conseguinte, ser acrescentada mais água peptonada tamponada se necessário.\n\nCaso sejam acordadas normas EN/ISO sobre a preparação da matéria fecal para a deteção de salmonelas, essas normas devem substituir, se adequado, as disposições do presente ponto relativas à preparação das amostras."
+  },
+  "9be9bc9b026d6943": {
+   "fragment_id": "3.2. Método de deteção",
+   "type": "divisao",
+   "heading": "3.2. Método de deteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de deteção\n\nA deteção de *Salmonella* deve ser realizada de acordo com a Alteração 1 da norma EN/ISO 6579 «Microbiologia de alimentos para consumo humano e animal – Método horizontal para a deteção de *Salmonella* spp. – Alteração 1: Anexo D: deteção de *Salmonella* spp. em excrementos animais e em amostras ambientais da fase de produção primária» da Organização Internacional de Normalização."
+  },
+  "1e48374f17549c0f": {
+   "fragment_id": "3.3. Serotipagem",
+   "type": "divisao",
+   "heading": "3.3. Serotipagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Serotipagem\n\nPara cada amostra positiva colhida pela autoridade competente, deve fazer-se a serotipagem de pelo menos um isolado, segundo o atual sistema White-Kaufmann- Le Minor.\n\nOs operadores de empresas do setor alimentar devem garantir que, para todos os isolados, se exclui, pelo menos, que não pertencem aos serótipos *Salmonella enteritidis* e *Salmonella typhimurium*."
+  },
+  "4bd6544528c68307": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nNo atinente às amostras colhidas por iniciativa dos operadores de empresas do setor alimentar, podem ser utilizados os métodos de análise previstos no artigo 11.º do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0010)), em substituição dos métodos de preparação de amostras, dos métodos de deteção e de serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a norma EN/ISO 16140."
+  },
+  "eef323f07bf8cafa": {
+   "fragment_id": "3.5. Armazenagem das estirpes",
+   "type": "divisao",
+   "heading": "3.5. Armazenagem das estirpes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Armazenagem das estirpes\n\nA autoridade competente deve assegurar a armazenagem, para futura fagotipagem ou teste de suscetibilidade antimicrobiana, de pelo menos uma estirpe dos serótipos de salmonelas por instalação e por ano, isolada a partir da amostragem como elemento dos controlos oficiais, usando os métodos estabelecidos de coleção de culturas, que devem assegurar a integridade das estirpes durante um período mínimo de dois anos a contar da data da análise.\n\nA autoridade competente pode decidir que os isolados provenientes da amostragem efetuada pelos operadores de empresas do setor alimentar devem também ser armazenados para futura fagotipagem ou teste de suscetibilidade antimicrobiana, por forma a que os isolados sejam testados em conformidade com o artigo 2.º da Decisão 2007/407/CE da Comissão ([^11^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0011))."
+  },
+  "c6dbe3d2b9319926": {
+   "fragment_id": "4. RESULTADOS E RELATÓRIOS",
+   "type": "divisao",
+   "heading": "4. RESULTADOS E RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. RESULTADOS E RELATÓRIOS"
+  },
+  "f46a336ace87a3f3": {
+   "fragment_id": "4.1. Cálculo da prevalência para verificação do objetivo da União",
+   "type": "divisao",
+   "heading": "4.1. Cálculo da prevalência para verificação do objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Cálculo da prevalência para verificação do objetivo da União\n\nPara efeitos da verificação da consecução do objetivo da União, um bando de frangos deve ser considerado positivo sempre que tenha sido detetada no bando a presença de *Salmonella enteritidis* e/ou *Salmonella typhimurium* (com exceção das estirpes vacinais).\n\nOs bandos positivos devem ser contabilizados apenas uma vez por ciclo de produção, independentemente do número de operações de colheita de amostras e de análises efetuadas e devem apenas ser notificados no ano da primeira amostragem positiva."
+  },
+  "bdc9be1947e31723": {
+   "fragment_id": "4.2. Relatórios",
+   "type": "divisao",
+   "heading": "4.2. Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Relatórios\n\nOs relatórios devem incluir:\n\na) O número total de bandos de frangos que foram testados no mínimo uma vez durante o ano a que se refere o relatório;\n\nb) O número total de bandos de frangos positivos a qualquer serótipo de salmonela no Estado-Membro;\n\nc) O número de bandos de frangos positivos, pelo menos uma vez, à *Salmonella enteritidis* e à *Salmonella typhimurium* incluindo as estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R0200R%2801%29) 1,4,[5],12:i:-**◄**;\n\nd) O número de bandos de frangos positivos a cada serótipo de salmonelas ou a salmonelas não especificadas (isolados não tipáveis ou não submetidos a serotipagem).\n\nA informação deve ser fornecida separadamente para a amostragem no âmbito do programa global de controlo nacional das salmonelas, previsto no ponto 2.1, alíneas a) e b), da mostragem efetuada pelos operadores de empresas do setor alimentar, prevista no ponto 2.1, alínea a), e da amostragem efetuada pelas autoridades competentes prevista no ponto 2.1, alínea b).\n\nOs resultados dos testes devem ser considerados como informações pertinentes relativas à cadeia alimentar, tal como previsto no anexo II, secção III, do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0012)).\n\nDeve ser disponibilizada à autoridade competente pelo menos a seguinte informação relativa a cada bando de frangos testado:\n\na) Referência única e inalterável da exploração;\n\nb) Referência única e inalterável da instalação;\n\nc) Mês da amostragem.\n\nOs resultados e quaisquer informações adicionais relevantes devem ser notificados como parte do relatório sobre tendências e origens previsto no artigo 9.º, n.º 1, da Diretiva 2003/99/CE ([^13^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#E0013)).\n\nO operador da empresa do setor alimentar deve notificar, sem demora indevida, a autoridade competente da deteção confirmada de *Salmonella enteritidis* e *Salmonella typhimurium*. O operador da empresa do setor alimentar deve dar instruções nesse sentido ao laboratório encarregue da análise.\n\n---"
+  },
+  "4c7bb59667c34997": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0001)) JO L 325 de 12.12.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0002)) JO L 338 de 22.12.2005, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0003)) JO L 325 de 12.12.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0004)) JO L 151 de 13.6.2007, p. 21.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0005)) *The EFSA Journal* 2011; 9(3):2090.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0006)) *The EFSA Journal* 2011; 9(7):2106.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0007)) *The EFSA Journal* 2010; 8(10):1826.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0008)) JO L 155 de 18.6.2009, p. 30.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0009)) JO L 250 de 18.9.2008, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0010)) JO L 165 de 30.4.2004, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0011)) JO L 153 de 14.6.2007, p. 26.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0012)) JO L 226 de 25.6.2004, p. 22.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/376cb3f8-d685-42d4-b9f1-2d51fe636d0a.0015.02/DOC_1#src.E0013)) JO L 325 de 12.12.2003, p. 31."
+  },
+  "d792f95ae46adc23": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de março de 2012\n\nrelativo ao objetivo da União de redução de *Salmonella enteritidis* e *Salmonella typhimurium* em bandos de frangos, tal como previsto no Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c99dd482ab92c249": {
+   "fragment_id": "3.2. Método de deteção",
+   "type": "divisao",
+   "heading": "3.2. Método de deteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de deteção\n\nA deteção de *Salmonella* spp. é realizada de acordo com a norma EN ISO 6579-1."
+  },
+  "123270cb6f705a64": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nPodem ser utilizados métodos alternativos, em substituição dos métodos de deteção e de serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a norma EN ISO 16140-2 (para métodos alternativos de deteção)."
+  },
+  "566135c7d8b2e508": {
+   "fragment_id": "3.5. Armazenagem das estirpes",
+   "type": "divisao",
+   "heading": "3.5. Armazenagem das estirpes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Armazenagem das estirpes\n\nA autoridade competente deve assegurar a armazenagem, para futura fagotipagem ou teste de suscetibilidade antimicrobiana, de pelo menos uma estirpe dos serótipos de salmonelas por instalação e por ano, isolada a partir da amostragem como elemento dos controlos oficiais, usando os métodos estabelecidos de coleção de culturas, que devem assegurar a integridade das estirpes durante um período mínimo de dois anos a contar da data da análise.\n\nA autoridade competente pode decidir que os isolados provenientes da amostragem efetuada pelos operadores de empresas do setor alimentar devem também ser armazenados para futura fagotipagem ou teste de suscetibilidade antimicrobiana, por forma a que os isolados sejam testados em conformidade com o artigo 2.º da Decisão 2007/407/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0002))."
+  },
+  "bf5ef0def93e68e3": {
+   "fragment_id": "4.2. Relatórios",
+   "type": "divisao",
+   "heading": "4.2. Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Relatórios\n\nOs relatórios devem incluir:\n\na) O número total de bandos de frangos que foram testados no mínimo uma vez durante o ano a que se refere o relatório;\n\nb) O número total de bandos de frangos positivos a qualquer serótipo de salmonela no Estado-Membro;\n\nc) O número de bandos de frangos positivos, pelo menos uma vez, à *Salmonella enteritidis* e à *Salmonella typhimurium* incluindo as estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R0200R%2801%29) 1,4,[5],12:i:-**◄**;\n\nd) O número de bandos de frangos positivos a cada serótipo de salmonelas ou a salmonelas não especificadas (isolados não tipáveis ou não submetidos a serotipagem).\n\nA informação deve ser fornecida separadamente para a amostragem no âmbito do programa global de controlo nacional das salmonelas, previsto no ponto 2.1, alíneas a) e b), da mostragem efetuada pelos operadores de empresas do setor alimentar, prevista no ponto 2.1, alínea a), e da amostragem efetuada pelas autoridades competentes prevista no ponto 2.1, alínea b).\n\nOs resultados dos testes devem ser considerados como informações pertinentes relativas à cadeia alimentar, tal como previsto no anexo II, secção III, do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\nDeve ser disponibilizada à autoridade competente pelo menos a seguinte informação relativa a cada bando de frangos testado:\n\na) Referência única e inalterável da exploração;\n\nb) Referência única e inalterável da instalação;\n\nc) Mês da amostragem.\n\nOs resultados e quaisquer informações adicionais relevantes devem ser notificados como parte do relatório sobre tendências e origens previsto no artigo 9.º, n.º 1, da Diretiva 2003/99/CE ([^4^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0004)).\n\nO operador da empresa do setor alimentar deve notificar, sem demora indevida, a autoridade competente da deteção confirmada de *Salmonella enteritidis* e *Salmonella typhimurium*. O operador da empresa do setor alimentar deve dar instruções nesse sentido ao laboratório encarregue da análise.\n\n---"
+  },
+  "510ef24e0967fb56": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 250 de 18.9.2008, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 153 de 14.6.2007, p. 26.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 226 de 25.6.2004, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/37f3996f-6ce6-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 325 de 12.12.2003, p. 31."
+  }
+ }
+}

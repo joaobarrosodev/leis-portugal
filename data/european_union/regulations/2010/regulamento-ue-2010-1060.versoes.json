@@ -1,0 +1,559 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R1060:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1060-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "2010-11-30",
+   "future": false,
+   "celex": "32010R1060",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "39d5984463a2236a",
+    "117bc986f895e43a",
+    "c69445f2f11afa81",
+    "47e9e8c3be165aa8",
+    "6600b0df654a2f85",
+    "73fd68d12c7ff50c",
+    "23c2c5c1712a21e2",
+    "9e01f9cb703691be",
+    "6877ee9042fd175e",
+    "66eaa84fd9d3028a",
+    "160875d4ec5aff03",
+    "b96b45dbef602984"
+   ]
+  },
+  {
+   "date": "2020-08-09",
+   "future": false,
+   "celex": "02010R1060-20200809",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0518:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014",
+     "published": null,
+     "celex": "32014R0518"
+    },
+    {
+     "id": "eu:celex:32017R0254:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0254"
+    },
+    {
+     "id": "eu:celex:32020R1059:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/1059 DA COMISSÃO de 27 de abril de 2020",
+     "published": null,
+     "celex": "32020R1059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Responsabilidades dos fornecedores",
+    "Altera Artigo 4.º — Responsabilidades dos distribuidores",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Definições aplicáveis para efeitos dos anexos II a IX",
+    "Adita ANEXO II",
+    "Adita Rótulo",
+    "Adita 1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA A+++ A C",
+    "Adita 2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA D A G",
+    "Adita 3. ASPECTO DO RÓTULO",
+    "Adita ANEXO III",
+    "Adita Ficha de produto",
+    "Adita ANEXO IV",
+    "Adita Documentação técnica",
+    "Adita ANEXO V",
+    "Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Adita ANEXO VI",
+    "Adita Medições",
+    "Adita ANEXO VII",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita ANEXO VIII",
+    "Adita Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do índice de eficiência energética",
+    "Adita 1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO",
+    "Adita 2. CÁLCULO DO VOLUME EQUIVALENTE",
+    "Adita Notas:",
+    "Adita 3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Adita ANEXO IX",
+    "Adita Classes de eficiência energética",
+    "Adita ANEXO X",
+    "Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet"
+   ],
+   "fragments": [
+    "d0781bda278ffaa5",
+    "117bc986f895e43a",
+    "fc2e49f20bb66624",
+    "a0fa69fb6e9ebd7c",
+    "1126aaae831d4396",
+    "73fd68d12c7ff50c",
+    "23c2c5c1712a21e2",
+    "9e01f9cb703691be",
+    "6877ee9042fd175e",
+    "66eaa84fd9d3028a",
+    "d1d8b8fb2e2bc8b2",
+    "d664376e2a8dcecd",
+    "46c637bb153c26b6",
+    "852174729551523b",
+    "cd72cf4170b55dce",
+    "bd4e8f3e07d9d6bd",
+    "f2fc35e31f84b60a",
+    "9acecbd62a1a5792",
+    "720af75c92791b10",
+    "4a35ae7b8af6bc2e",
+    "e03a0eb4d5b2eef3",
+    "8741897cc9346979",
+    "64610ae29a6cb67c",
+    "0b4c5d137c63eae3",
+    "90c7d2baf4d44ee2",
+    "2e516d49b167d551",
+    "d46ca50274582635",
+    "9d7d4345fef89f5e",
+    "1b41b51ec3248d43",
+    "4f7b9c52ed522d44",
+    "17a15f4b7a268be1",
+    "86f4155c5c719ce1",
+    "7bc9c5d3ff0b52c7",
+    "7cc9fd7cc91d76af",
+    "0d51a1f1dbc67f23",
+    "953641e58475eff6",
+    "f40461fa9b212b21",
+    "82c866f33a162c59",
+    "71492d171210a11b",
+    "b05b65d6cf75ff19"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "02010R1060-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Responsabilidades dos fornecedores",
+    "Suprime Artigo 4.º — Responsabilidades dos distribuidores",
+    "Suprime Artigo 5.º — Métodos de medição",
+    "Suprime Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Revogação",
+    "Suprime Artigo 9.º — Disposições transitórias",
+    "Suprime Artigo 10.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Definições aplicáveis para efeitos dos anexos II a IX",
+    "Suprime ANEXO II",
+    "Suprime Rótulo",
+    "Suprime 1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA A+++ A C",
+    "Suprime 2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA D A G",
+    "Suprime 3. ASPECTO DO RÓTULO",
+    "Suprime ANEXO III",
+    "Suprime Ficha de produto",
+    "Suprime ANEXO IV",
+    "Suprime Documentação técnica",
+    "Suprime ANEXO V",
+    "Suprime Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Suprime ANEXO VI",
+    "Suprime Medições",
+    "Suprime ANEXO VII",
+    "Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime ANEXO VIII",
+    "Suprime Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do índice de eficiência energética",
+    "Suprime 1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO",
+    "Suprime 2. CÁLCULO DO VOLUME EQUIVALENTE",
+    "Suprime Notas:",
+    "Suprime 3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime ANEXO IX",
+    "Suprime Classes de eficiência energética",
+    "Suprime ANEXO X",
+    "Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5966a782ec7af5f0"
+   ]
+  }
+ ],
+ "fragments": {
+  "39d5984463a2236a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aparelhos de refrigeração para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de Maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntr1-L_2010314PT.01001701-E0001), e, nomeadamente, o seu artigo 10.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2010/30/UE exige que a Comissão adopte actos delegados no que respeita à rotulagem dos produtos relacionados com a energia que representem um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.\n\n(2) Foram estabelecidas disposições em matéria de rotulagem energética dos aparelhos de refrigeração para uso doméstico pela Directiva 94/2/CE da Comissão, de 21 de Janeiro de 1994, que dá execução à Directiva 92/75/CEE do Conselho no que diz respeito à rotulagem energética dos frigoríficos, congeladores e respectivas combinações [([^2])](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntr2-L_2010314PT.01001701-E0002).\n\n(3) A electricidade consumida pelos aparelhos de refrigeração para uso doméstico representa uma parte importante na procura global de energia eléctrica na União. Para além das melhorias de eficiência energética já alcançadas, o consumo de energia dos aparelhos de refrigeração para uso doméstico pode ainda ser substancialmente reduzido.\n\n(4) Importa revogar a Directiva 94/2/CE e estabelecer novas disposições por intermédio do presente regulamento, de forma a assegurar que o rótulo energético proporciona incentivos dinâmicos para que os fornecedores melhorem ainda mais a eficiência energética dos aparelhos de refrigeração para uso doméstico e acelerem a transformação do mercado rumo a tecnologias energeticamente eficientes.\n\n(5) O efeito combinado das disposições do presente regulamento e do Regulamento (CE) n.º 643/2009 da Comissão, de 22 de Julho de 2009, que dá execução à Directiva 20095/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica aplicáveis aos aparelhos de refrigeração para uso doméstico [([^3])](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntr3-L_2010314PT.01001701-E0003), poderá representar uma poupança anual de electricidade de 6 TWh até 2020 [([^4])](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntr4-L_2010314PT.01001701-E0004), em comparação com uma situação em que não sejam tomadas medidas.\n\n(6) Os produtos presentes nos crescentes mercados dos aparelhos de refrigeração por absorção e dos aparelhos de armazenagem de vinhos representam também uma oportunidade para poupar energia. Esses aparelhos devem, pois, ser incluídos no âmbito do presente regulamento.\n\n(7) Os aparelhos de refrigeração por absorção são silenciosos, mas consomem muito mais energia que os aparelhos de refrigeração por compressão. Para que os utilizadores finais tomem uma decisão informada, devem ser incluídas no rótulo informações sobre a emissão de ruído aéreo dos aparelhos de refrigeração para uso doméstico.\n\n(8) As informações fornecidas no rótulo devem ser obtidas através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização, enumeradas no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^5])](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntr5-L_2010314PT.01001701-E0005).\n\n(9) O presente regulamento deve especificar um formato e conteúdo uniformes para o rótulo dos aparelhos de refrigeração para uso doméstico.\n\n(10) Além disso, o presente regulamento deve especificar os requisitos em matéria de documentação e fichas técnicas dos aparelhos de refrigeração para uso doméstico.\n\n(11) Por outro lado, o presente regulamento deve especificar os requisitos relativos às informações a fornecer para quaisquer formas de venda à distância, anúncios e material técnico de promoção dos aparelhos de refrigeração para uso doméstico.\n\n(12) É adequado prever a revisão das disposições do presente regulamento tendo em conta o progresso tecnológico.\n\n(13) A fim de facilitar a transição da Directiva 94/2/CE para o presente regulamento, os aparelhos de refrigeração para uso doméstico rotulados em conformidade com o presente regulamento devem ser considerados conformes com a Directiva 94/2/CE.\n\n(14) A Directiva 94/2/CE deve, por conseguinte, ser revogada,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "117bc986f895e43a": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece os requisitos em matéria de rotulagem e de fornecimento de informações suplementares sobre os aparelhos de refrigeração para uso doméstico alimentados pela rede de electricidade, com um volume útil compreendido entre 10 e 1 500 litros.\n\n2. O presente regulamento é aplicável aos aparelhos de refrigeração para uso doméstico alimentados pela rede de electricidade, incluindo os vendidos para usos não domésticos ou para a refrigeração de artigos que não sejam géneros alimentícios e incluindo os aparelhos encastrados.\n\nÉ igualmente aplicável aos aparelhos eléctricos de refrigeração para uso doméstico alimentados pela rede de electricidade que possam ser alimentados por baterias.\n\n3. O presente regulamento não é aplicável a:\n\na) Aparelhos de refrigeração alimentados principalmente por fontes de energia diferentes da electricidade, como o gás de petróleo liquefeito (GPL), o querosene e o biodiesel;\n\nb) Aparelhos de refrigeração alimentados por baterias que possam ser ligados à rede através de um conversor CA/CC, comprado separadamente;\n\nc) Aparelhos de refrigeração fabricados em exemplar único por encomenda e que não sejam equivalentes a outros modelos de aparelhos de refrigeração;\n\nd) Aparelhos de refrigeração para aplicação no sector terciário nos quais a retirada de géneros alimentícios refrigerados é detectada electronicamente, com transmissão automática da informação por ligação em rede a um sistema de controlo remoto, para contabilização;\n\ne) Aparelhos cuja função principal não seja armazenar alimentos com refrigeração, tais como máquinas de gelo autónomas ou distribuidores de bebidas ultra-refrigeradas."
+  },
+  "c69445f2f11afa81": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições previstas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1. **«Géneros alimentícios»**: os alimentos, ingredientes, bebidas, incluindo vinho, e outros artigos destinados principalmente à alimentação, que exijam refrigeração a temperaturas especificadas.\n\n2. **«Aparelho de refrigeração para uso doméstico»**: um armário isolado, com um ou mais compartimentos, destinado à refrigeração ou congelação de géneros alimentícios, ou à armazenagem de géneros alimentícios refrigerados ou congelados para fins não profissionais, arrefecido por um ou mais processos que consomem energia, incluindo os aparelhos vendidos como elementos de sistemas a serem montados pelo utilizador final.\n\n3. **«Aparelho encastrado»**: um aparelho de refrigeração fixo destinado a ser instalado num armário, numa reentrância da parede ou num local semelhante, com adaptação ao equipamento circundante.\n\n4. **«Frigorífico»**: um aparelho de refrigeração destinado à conservação de géneros alimentícios com um compartimento, pelo menos, adequado para a armazenagem de alimentos frescos e/ou bebidas, incluindo vinho.\n\n5. **«Aparelho de refrigeração por compressão»**: um aparelho de refrigeração em que a refrigeração resulta da acção de um motocompressor.\n\n6. **«Aparelho de refrigeração por absorção»**: um aparelho de refrigeração em que a refrigeração resulta de um processo de absorção que utiliza o calor como fonte de energia.\n\n7. **«Frigorífico-congelador»**: um aparelho de refrigeração com, pelo menos, um compartimento para armazenar alimentos frescos e, pelo menos, um compartimento para congelar alimentos frescos e armazenar géneros alimentícios congelados em condições de conservação de três estrelas (compartimento de congelação de alimentos).\n\n8. **«Armário para armazenagem de alimentos congelados»**: um aparelho de refrigeração com um ou mais compartimentos adequados para armazenar géneros alimentícios congelados.\n\n9. **«Congelador de alimentos»**: um aparelho de refrigeração com um ou mais compartimentos adequados para congelar géneros alimentícios a temperaturas compreendidas entre a temperatura ambiente e – 18 °C e também para armazenar géneros alimentícios congelados em condições de conservação de três estrelas; um congelador de alimentos pode também incluir secções e/ou compartimentos de duas estrelas, no compartimento ou armário.\n\n10. **«Aparelho de armazenagem de vinhos»**: um aparelho de refrigeração que não possui senão um ou mais compartimentos para armazenagem de vinhos.\n\n11. **«Aparelho polivalente»**: um aparelho de refrigeração que não possui senão um ou mais compartimentos polivalentes.\n\n12. **«Aparelho de refrigeração para uso doméstico equivalente»**: um modelo de aparelho de refrigeração para uso doméstico colocado no mercado cujo volume bruto, volume útil, características técnicas, de eficiência e de desempenho e tipos de compartimentos sejam os mesmos que os de outro modelo de aparelho de refrigeração para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fabricante.\n\n13. **«Utilizador final»**: um consumidor que compra ou se prevê que compre um aparelho de refrigeração para uso doméstico.\n\n14. **«Ponto de venda»**: um local no qual os aparelhos de refrigeração para uso doméstico são colocados em exposição ou postos à venda, em locação ou em locação com opção de compra.\n\nSão igualmente aplicáveis as definições constantes do anexo I."
+  },
+  "47e9e8c3be165aa8": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores asseguram que:\n\na) Cada aparelho de refrigeração para uso doméstico é fornecido com um rótulo impresso com o formato e as informações previstos no anexo II;\n\nb) É disponibilizada uma ficha de produto, como previsto no anexo III;\n\nc) A documentação técnica prevista no anexo IV é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de aparelho de refrigeração para uso doméstico indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de aparelho de refrigeração para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo."
+  },
+  "6600b0df654a2f85": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) Cada aparelho de refrigeração para uso doméstico ostenta, no ponto de venda, o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), colocado na parte externa do aparelho, à frente ou em cima, por forma a ser claramente visível;\n\nb) Os aparelhos de refrigeração para uso doméstico colocados à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o produto exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do anexo V;\n\nc) Qualquer anúncio relativo a um modelo específico de aparelho de refrigeração para uso doméstico indica a respectiva classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de aparelho de refrigeração para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo."
+  },
+  "73fd68d12c7ff50c": {
+   "fragment_id": "Artigo 5.º — Métodos de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de medição\n\nAs informações a facultar nos termos do artigo 3.º serão obtidas por métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, em conformidade com o previsto no anexo VI."
+  },
+  "23c2c5c1712a21e2": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nOs Estados-Membros aplicam o procedimento previsto no anexo VII ao avaliar a conformidade da classe de eficiência energética declarada, do consumo de energia anual, dos volumes de alimentos frescos e congelados, do poder de congelação e da emissão de ruído aéreo."
+  },
+  "9e01f9cb703691be": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão procederá à revisão do presente regulamento à luz do progresso tecnológico o mais tardar quatro anos após a sua entrada em vigor. Nessa revisão será feita, nomeadamente, uma avaliação das tolerâncias aplicáveis à verificação, que constam do anexo VII, e das possibilidades de eliminar ou reduzir o valor dos factores de correcção que constam do anexo VIII."
+  },
+  "6877ee9042fd175e": {
+   "fragment_id": "Artigo 8.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nA Directiva 94/2/CE é revogada com efeitos a partir de 30 de Novembro de 2011."
+  },
+  "66eaa84fd9d3028a": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam aos anúncios impressos nem ao material técnico promocional impresso publicados antes de 30 de Março de 2012.\n\n2. Os aparelhos de refrigeração para uso doméstico colocados no mercado antes de 30 de Novembro de 2011 devem cumprir as disposições previstas na Directiva 94/2/CE.\n\n3. Os aparelhos de refrigeração para uso doméstico que cumprem as disposições do presente regulamento e que sejam colocados no mercado ou postos à venda, em locação ou em locação com opção de compra antes de 30 de Novembro de 2011 devem ser considerados conformes com os requisitos da Directiva 94/2/CE."
+  },
+  "160875d4ec5aff03": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 30 de Novembro de 2011. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 30 de Março de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 28 de Setembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "b96b45dbef602984": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntc1-L_2010314PT.01001701-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntc2-L_2010314PT.01001701-E0002) [JO L 45 de 17.2.1994, p. 1](http://publications.europa.eu/resource/oj/JOL_1994_045_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntc3-L_2010314PT.01001701-E0003) [JO L 191 de 23.7.2009, p. 53](http://publications.europa.eu/resource/oj/JOL_2009_191_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntc4-L_2010314PT.01001701-E0004) Medição efectuada segundo a norma Cenelec EN 153, Fevereiro de 2006/EN ISO 15502, Outubro de 2005.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/46cc32e2-7cdd-4f3a-af60-7b5faf8b5963.0004.04/DOC_1#ntc5-L_2010314PT.01001701-E0005) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC)."
+  },
+  "d0781bda278ffaa5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aparelhos de refrigeração para uso doméstico\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "fc2e49f20bb66624": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições previstas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1. «Géneros alimentícios»: os alimentos, ingredientes, bebidas, incluindo vinho, e outros artigos destinados principalmente à alimentação, que exijam refrigeração a temperaturas especificadas.\n\n2. «Aparelho de refrigeração para uso doméstico»: um armário isolado, com um ou mais compartimentos, destinado à refrigeração ou congelação de géneros alimentícios, ou à armazenagem de géneros alimentícios refrigerados ou congelados para fins não profissionais, arrefecido por um ou mais processos que consomem energia, incluindo os aparelhos vendidos como elementos de sistemas a serem montados pelo utilizador final.\n\n3. «Aparelho encastrado»: um aparelho de refrigeração fixo destinado a ser instalado num armário, numa reentrância da parede ou num local semelhante, com adaptação ao equipamento circundante.\n\n4. «Frigorífico»: um aparelho de refrigeração destinado à conservação de géneros alimentícios com um compartimento, pelo menos, adequado para a armazenagem de alimentos frescos e/ou bebidas, incluindo vinho.\n\n5. «Aparelho de refrigeração por compressão»: um aparelho de refrigeração em que a refrigeração resulta da acção de um motocompressor.\n\n6. «Aparelho de refrigeração por absorção»: um aparelho de refrigeração em que a refrigeração resulta de um processo de absorção que utiliza o calor como fonte de energia.\n\n7. «Frigorífico-congelador»: um aparelho de refrigeração com, pelo menos, um compartimento para armazenar alimentos frescos e, pelo menos, um compartimento para congelar alimentos frescos e armazenar géneros alimentícios congelados em condições de conservação de três estrelas (compartimento de congelação de alimentos).\n\n8. «Armário para armazenagem de alimentos congelados»: um aparelho de refrigeração com um ou mais compartimentos adequados para armazenar géneros alimentícios congelados.\n\n9. «Congelador de alimentos»: um aparelho de refrigeração com um ou mais compartimentos adequados para congelar géneros alimentícios a temperaturas compreendidas entre a temperatura ambiente e – 18 °C e também para armazenar géneros alimentícios congelados em condições de conservação de três estrelas; um congelador de alimentos pode também incluir secções e/ou compartimentos de duas estrelas, no compartimento ou armário.\n\n10. «Aparelho de armazenagem de vinhos»: um aparelho de refrigeração que não possui senão um ou mais compartimentos para armazenagem de vinhos.\n\n11. «Aparelho polivalente»: um aparelho de refrigeração que não possui senão um ou mais compartimentos polivalentes.\n\n12. «Aparelho de refrigeração para uso doméstico equivalente»: um modelo de aparelho de refrigeração para uso doméstico colocado no mercado cujo volume bruto, volume útil, características técnicas, de eficiência e de desempenho e tipos de compartimentos sejam os mesmos que os de outro modelo de aparelho de refrigeração para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fabricante.\n\n13. «Utilizador final»: um consumidor que compra ou se prevê que compre um aparelho de refrigeração para uso doméstico.\n\n14. «Ponto de venda»: um local no qual os aparelhos de refrigeração para uso doméstico são colocados em exposição ou postos à venda, em locação ou em locação com opção de compra.\n\nSão igualmente aplicáveis as definições constantes do anexo I."
+  },
+  "a0fa69fb6e9ebd7c": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores asseguram que:\n\na) Cada aparelho de refrigeração para uso doméstico é fornecido com um rótulo impresso com o formato e as informações previstos no anexo II;\n\nb) É disponibilizada uma ficha de produto, como previsto no anexo III;\n\nc) A documentação técnica prevista no anexo IV é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de aparelho de refrigeração para uso doméstico indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de aparelho de refrigeração para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo;\n\nf) É disponibilizado aos distribuidores um rótulo eletrónico com o formato e as informações previstos no anexo II, para cada modelo de aparelho de refrigeração para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Esse rótulo pode também ser disponibilizado aos distribuidores para outros modelos de aparelho de refrigeração para uso doméstico;\n\ng) É disponibilizada aos distribuidores uma ficha de produto eletrónica como previsto no anexo III, para cada modelo de aparelho de refrigeração para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Essa ficha pode também ser disponibilizada aos distribuidores para outros modelos de aparelho de refrigeração para uso doméstico."
+  },
+  "1126aaae831d4396": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) Cada aparelho de refrigeração para uso doméstico ostenta, no ponto de venda, o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), colocado na parte externa do aparelho, à frente ou em cima, por forma a ser claramente visível;\n\nb) Os aparelhos de refrigeração para uso doméstico postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o produto exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do anexo V. Caso a oferta seja feita através da Internet e tenham sido disponibilizados um rótulo e uma ficha de produto eletrónicos em conformidade com o artigo 3.º, alíneas f) e g), aplica-se, em vez do que precede, o disposto no anexo X;\n\nc) Qualquer anúncio relativo a um modelo específico de aparelho de refrigeração para uso doméstico indica a respectiva classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de aparelho de refrigeração para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo."
+  },
+  "d1d8b8fb2e2bc8b2": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 30 de Novembro de 2011. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 30 de Março de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "46c637bb153c26b6": {
+   "fragment_id": "Definições aplicáveis para efeitos dos anexos II a IX",
+   "type": "divisao",
+   "heading": "Definições aplicáveis para efeitos dos anexos II a IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições aplicáveis para efeitos dos anexos II a IX\n\nPara efeitos dos anexos II a IX, entende-se por:\n\na) «Sistema de frio ventilado»: um sistema automático que impede a formação permanente de gelo, sendo o arrefecimento obtido por ventilação forçada, o evaporador ou evaporadores descongelados por um sistema de descongelação automática e a água de descongelação evacuada automaticamente;\n\nb) «Compartimento de frio ventilado»: qualquer compartimento descongelado por um sistema de frio ventilado;\n\nc) «Frigorífico-cave»: um aparelho de refrigeração que disponha, pelo menos, de um compartimento de armazenagem de alimentos frescos e de um compartimento-cave, mas não de um compartimento de armazenagem de alimentos congelados, de ultra-refrigeração ou de produção de gelo;\n\nd) «Cave»: um aparelho de refrigeração que não disponha senão de um ou mais compartimentos-cave;\n\ne) «Frigorífico-ultra-refrigerador»: um aparelho de refrigeração que disponha, pelo menos, de um compartimento de armazenagem de alimentos frescos e de um compartimento de ultra-refrigeração, mas não de um compartimento de armazenagem de alimentos congelados;\n\nf) «Compartimentos»: quaisquer compartimentos enumerados nas alíneas g) a n);\n\ng) «Compartimento de armazenagem de alimentos frescos»: um compartimento concebido para armazenar géneros alimentícios não congelados, que pode estar dividido em subcompartimentos;\n\nh) «Compartimento-cave»: um compartimento destinado à armazenagem de géneros alimentícios ou bebidas específicos a uma temperatura superior à do compartimento de armazenagem de alimentos frescos;\n\ni) «Compartimento de ultra-refrigeração»: um compartimento destinado especificamente à armazenagem de géneros alimentícios muito perecíveis;\n\nj) «Compartimento de produção de gelo»: um compartimento de baixa temperatura destinado especificamente à produção e armazenagem de gelo;\n\nk) «Compartimento de armazenagem de alimentos congelados»: um compartimento de baixa temperatura destinado especificamente à armazenagem de géneros alimentícios congelados, classificado em função da temperatura do seguinte modo: i) «compartimento de uma estrela»: um compartimento de armazenagem de alimentos congelados no qual a temperatura não exceda – 6 °C, ii) «compartimento de duas estrelas»: um compartimento de armazenagem de alimentos congelados no qual a temperatura não exceda – 12 °C, iii) «compartimento de três estrelas»: um compartimento de armazenagem de alimentos congelados no qual a temperatura não exceda – 18 °C, iv) «compartimento congelador de alimentos» (ou «compartimento de quatro estrelas»): um compartimento adequado para congelar pelo menos 4,5 kg de géneros alimentícios por 100 l de volume útil, e, em qualquer caso, nunca menos de 2 kg, fazendo-os passar da temperatura ambiente para – 18 °C num período de 24 horas, bem como para armazenar alimentos congelados em condições de armazenagem de três estrelas, e que pode incluir no seu interior secções de duas estrelas, v) «compartimento sem estrelas»: um compartimento de armazenagem de alimentos congelados cuja temperatura é inferior a 0 °C e que também pode ser utilizado para produzir e armazenar gelo, mas que não se destina à armazenagem de géneros alimentícios muito perecíveis;\n\ni) «compartimento de uma estrela»: um compartimento de armazenagem de alimentos congelados no qual a temperatura não exceda – 6 °C,\n\nii) «compartimento de duas estrelas»: um compartimento de armazenagem de alimentos congelados no qual a temperatura não exceda – 12 °C,\n\niii) «compartimento de três estrelas»: um compartimento de armazenagem de alimentos congelados no qual a temperatura não exceda – 18 °C,\n\niv) «compartimento congelador de alimentos» (ou «compartimento de quatro estrelas»): um compartimento adequado para congelar pelo menos 4,5 kg de géneros alimentícios por 100 l de volume útil, e, em qualquer caso, nunca menos de 2 kg, fazendo-os passar da temperatura ambiente para – 18 °C num período de 24 horas, bem como para armazenar alimentos congelados em condições de armazenagem de três estrelas, e que pode incluir no seu interior secções de duas estrelas,\n\nv) «compartimento sem estrelas»: um compartimento de armazenagem de alimentos congelados cuja temperatura é inferior a 0 °C e que também pode ser utilizado para produzir e armazenar gelo, mas que não se destina à armazenagem de géneros alimentícios muito perecíveis;\n\nl) «Compartimento de armazenagem de vinhos»: um compartimento concebido exclusivamente para a armazenagem de vinhos a curto prazo, de forma a pô-los à temperatura ideal de consumo, ou a longo prazo, para permitir a sua maturação, e que possui as seguintes características: i) temperatura de armazenagem constante, pré-definida ou regulável manualmente de acordo com as instruções do fabricante, compreendida entre + 5 °C e + 20 °C, ii) temperatura(s) de armazenagem com variações ao longo do tempo inferiores a 0,5 K para cada temperatura ambiente declarada, determinada pelas classes climáticas definidas para os aparelhos de refrigeração para uso doméstico, iii) controlo activo ou passivo da humidade no compartimento, entre 50 % e 80 %, iv) construído de forma a diminuir a transmissão ao compartimento de vibrações, provenientes quer do compressor do frigorífico quer de qualquer fonte externa;\n\nm) «Compartimento polivalente»: um compartimento destinado a ser utilizado a duas ou mais das temperaturas dos tipos de compartimentos pertinentes, que pode ser regulado pelo utilizador final de acordo com as instruções do fabricante, para manter continuamente o intervalo de temperaturas de funcionamento aplicável a cada tipo de compartimento; contudo, um compartimento com um dispositivo que permite alterar a temperatura no seu interior, fazendo-a passar para outro intervalo de temperaturas de funcionamento apenas por um período limitado (como a função de congelamento rápido), não é um «compartimento polivalente» na acepção do presente regulamento;\n\nn) «Outro compartimento»: um compartimento, excepto um compartimento de armazenagem de vinhos, destinado a armazenar determinados géneros alimentícios a uma temperatura superior a + 14 °C;\n\no) «Secção de duas estrelas»: uma parte de um congelador de alimentos, de um compartimento congelador de alimentos, de um compartimento de três estrelas ou de um armário de armazenagem de alimentos congelados de três estrelas, sem porta de acesso ou tampa própria, na qual a temperatura não é superior a – 12 °C;\n\np) «Arca congeladora»: um congelador de alimentos em que o acesso ao(s) compartimento(s) se faz pela parte superior do aparelho, ou com compartimentos com abertura superior e compartimentos verticais, mas em que o volume bruto do(s) compartimento(s) com abertura superior excede 75 % do volume bruto total do aparelho;\n\nq) «Com abertura superior» ou «tipo arca»: um aparelho de refrigeração em que o acesso ao(s) compartimento(s) se faz pela parte de cima;\n\nr) «Tipo vertical»: um aparelho de refrigeração em que o acesso ao(s) compartimento(s) se faz pela parte da frente do aparelho;\n\ns) «Congelamento rápido»: uma função reversível, a activar pelo utilizador final de acordo com as instruções do fabricante, que diminui a temperatura de armazenagem do congelador ou do compartimento congelador de alimentos de forma a acelerar a congelação de géneros alimentícios não congelados;\n\nt) «Identificador de modelo»: o código, geralmente alfanumérico, que distingue um modelo específico de aparelho de refrigeração de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "cd72cf4170b55dce": {
+   "fragment_id": "Rótulo",
+   "type": "divisao",
+   "heading": "Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rótulo"
+  },
+  "bd4e8f3e07d9d6bd": {
+   "fragment_id": "1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA A+++ A C",
+   "type": "divisao",
+   "heading": "1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA A+++ A C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA A+++ A C\n\n1) O rótulo deve conter as seguintes informações:\n\nI. O nome do fornecedor ou marca comercial;\n\nII. O identificador de modelo do fornecedor;\n\nIII. A classe de eficiência energética determinada em conformidade com o anexo IX; a ponta da seta que contém a classe de eficiência energética do aparelho de refrigeração para uso doméstico deve ficar ao mesmo nível que a ponta da seta correspondente à classe de eficiência energética;\n\nIV. O consumo de energia anual (*AEC*), expresso em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 3, ponto 2, do anexo VIII;\n\nV. A soma dos volumes úteis de todos os compartimentos a que não foram atribuídas estrelas (ou seja, com uma temperatura de funcionamento > - 6 °C), arredondada às unidades;\n\nVI. A soma dos volumes úteis de todos os compartimentos de armazenagem de alimentos congelados a que não foram atribuídas estrelas (ou seja, com uma temperatura de funcionamento ≤ - 6 °C), arredondada às unidades e o número de estrelas do compartimento com a maior percentagem dessa soma; caso os aparelhos de refrigeração para uso doméstico não disponham de compartimento(s) de armazenagem de alimentos congelados, o fornecedor deve indicar «- L» em vez do valor e deixar em branco o campo destinado às estrelas;\n\nVII. O nível de emissões de ruído expresso em dB(A) re1 pW, arredondado às unidades.\n\n2) O formato do rótulo deve ser conforme com a secção 3, ponto 1, do presente anexo. Todavia, quando um modelo tenha recebido um rótulo ecológico da UE ao abrigo do Regulamento (CE) n.º 66/2010 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001)), pode acrescentar-se uma cópia do rótulo ecológico da UE."
+  },
+  "f2fc35e31f84b60a": {
+   "fragment_id": "2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA D A G",
+   "type": "divisao",
+   "heading": "2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA D A G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. RÓTULO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO CLASSIFICADOS NAS CLASSES DE EFICIÊNCIA ENERGÉTICA D A G\n\n1) As informações enumeradas na secção 1, ponto 1, devem ser incluídas no presente rótulo.\n\n2) O formato do rótulo deve ser conforme com a secção 3, ponto 2, do presente anexo. Todavia, quando um modelo tenha recebido um rótulo ecológico da UE ao abrigo do Regulamento (CE) n.º 66/2010, pode acrescentar-se uma cópia do rótulo ecológico da UE."
+  },
+  "9acecbd62a1a5792": {
+   "fragment_id": "3. ASPECTO DO RÓTULO",
+   "type": "divisao",
+   "heading": "3. ASPECTO DO RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. ASPECTO DO RÓTULO\n\n1) Para os aparelhos de refrigeração para uso doméstico classificados nas classes de eficiência energética A+++ a C, com excepção dos aparelhos de armazenagem de vinhos, o rótulo deve respeitar o seguinte modelo:\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, contudo, manter-se proporcionado relativamente às especificações *supra*.\n\nb) O fundo do rótulo deve ser branco.\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nd) O rótulo deve respeitar os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo do rótulo UE:** 5 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-0-X-00.\n\n**Logótipo de energia**: cor: X-00-00-00. Pictograma apresentado: logótipo UE + logótipo de energia largura: 92 mm, altura: 17 mm.\n\n**Rebordo do sublogótipo:** 1 pt – cor: Ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— **Texto:** Calibri bold 19 pt, maiúsculas e branco; símbolos «+»: Calibri bold 13 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto;\n\n— **Texto:** Calibri bold 29 pt, maiúsculas e branco; símbolos «+»: Calibri bold 18 pt, maiúsculas, branco e alinhado numa fila única.\n\n**Energia**\n\n— **Texto:** Calibri normal 11 pt, maiúsculas, preto.\n\n**Consumo de energia anual:**\n\n— **Rebordo:** 3 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 45 pt, 100 % preto.\n\n— **Segunda linha:** Calibri normal 17 pt, 100 % preto.\n\n**Volumes úteis de todos os compartimentos a que não foram atribuídas estrelas:**\n\n— **Rebordo:** 3 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 25 pt, 100 % preto. Calibri normal 17 pt, 100 % preto.\n\n**Emissão de ruído aéreo:**\n\n— **Rebordo:** 3 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n—\n\n| **Valor** | : | Calibri bold 25 pt, 100 % preto. Calibri normal 17 pt, 100 % preto. |\n| --- | --- | --- |\n\n**Volumes úteis de todos os compartimentos a que foram atribuídas estrelas:**\n\n— **Rebordo:** 3 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n—\n\n| **Valor** | : | Calibri bold 25 pt, 100 % preto. Calibri normal 17 pt, 100 % preto. |\n| --- | --- | --- |\n\n**Nome do fornecedor ou marca comercial**\n\n**Identificador de modelo do fornecedor**\n\nO nome do fornecedor ou marca comercial e o identificador de modelo devem caber num espaço de 90 x 15 mm.\n\n**Número do regulamento:**\n\n2) Para os aparelhos de refrigeração para uso doméstico classificados nas classes de eficiência energética D a G, com excepção dos aparelhos de armazenagem de vinhos, o rótulo deve respeitar o seguinte modelo:\n\n**Consumo de energia anual:**\n\n— **Rebordo:** 3 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 32 pt 100 % preto.\n\n— **Segunda linha:** Calibri normal 14 pt, 100 % preto.\n\n3) Para os aparelhos de armazenagem de vinhos, o rótulo deve respeitar o seguinte modelo:\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo foi impresso num formato maior, o seu conteúdo deve, contudo, manter-se proporcionado relativamente às especificações *supra*.\n\nb) O fundo do rótulo deve ser branco.\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nd) O rótulo deve respeitar os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo do rótulo UE:** 5 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-0-X-00.\n\n**Logótipo de energia**: cor: X-00-00-00. Pictograma apresentado: logótipo UE + logótipo de energia largura: 92 mm, altura: 17 mm.\n\n**Rebordo do sublogótipo:** 1 pt – cor: Ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— **Texto:** Calibri bold 19 pt, maiúsculas e branco; símbolos «+»: Calibri bold 13 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto;\n\n— **Texto:** Calibri bold 29 pt, maiúsculas, branco; símbolos «+»: Calibri bold 18 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Energia**\n\n— **Texto:** Calibri normal 11 pt, maiúsculas, preto.\n\n**Consumo de energia anual:**\n\n— **Rebordo:** 2 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 30 pt, 100 % preto.\n\n— **Segunda linha:** Calibri normal 14 pt, 100 % preto.\n\n**Capacidade nominal em número de garrafas de vinho normais:**\n\n— **Rebordo:** 2 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n—\n\n| **Valor** | : | Calibri bold 28 pt, 100 % preto. Calibri normal 15 pt, 100 % preto. |\n| --- | --- | --- |\n\n**Emissão de ruído aéreo:**\n\n— **Rebordo:** 2 pt – cor: Ciano 100 % – cantos redondos: 3,5 mm.\n\n—\n\n| **Valor** | : | Calibri bold 25 pt, 100 % preto. Calibri normal 17 pt, 100 % preto. |\n| --- | --- | --- |\n\n**Nome do fornecedor ou marca comercial**\n\n**Identificador de modelo do fornecedor**\n\nO nome do fornecedor ou marca comercial e o identificador de modelo devem caber num espaço de 90 x 15 mm\n\n**Número do regulamento:**"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "4a35ae7b8af6bc2e": {
+   "fragment_id": "Ficha de produto",
+   "type": "divisao",
+   "heading": "Ficha de produto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de produto\n\n1. As informações contidas na ficha de produto são facultadas pela seguinte ordem e incluídas na brochura de produto ou noutra documentação fornecida com o produto:\n\na) O nome do fornecedor ou marca comercial;\n\nb) O identificador de modelo do fornecedor, tal como definido na alínea t) do anexo I;\n\nc) A categoria de aparelho de refrigeração para uso doméstico, tal como definida na secção 1 do anexo VIII;\n\nd) A classe de eficiência energética do modelo tal como definido no anexo IX;\n\ne) Se, ao abrigo do Regulamento (CE) n.º 66/2010, tiver sido atribuído ao modelo um rótulo ecológico da UE, esta informação poderá ser incluída;\n\nf) O consumo de energia anual (*AEC*), expresso em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 3, ponto 2, do anexo VIII; é descrito como: «Consumo de energia de “XYZ” kWh por ano, com base nos resultados do ensaio normalizado durante 24 horas. O valor real do consumo de energia dependerá do modo de utilização do aparelho e da sua localização»;\n\ng) O volume útil de cada compartimento e o número de estrelas aplicável em conformidade com a secção 1, ponto 1)VI, do anexo II, caso tenham sido atribuídas;\n\nh) A temperatura de projecto dos «outros compartimentos» na acepção da alínea n) do anexo I. Para os compartimentos de armazenagem de vinhos, deve ser indicada a temperatura de armazenagem mais baixa, pré-definida no compartimento ou regulável manualmente pelo utilizador final e podendo ser mantida continuamente de acordo com as instruções do fabricante;\n\ni) A menção «sem gelo» para o(s) compartimento(s) relevante(s), em conformidade com a definição prevista na alínea b) do anexo I;\n\nj) O «tempo máximo de conservação sem energia eléctrica “X” h», definido como «tempo de subida da temperatura»;\n\nk) O «poder de congelação» em kg/24 h;\n\nl) A «classe climática» em conformidade com a secção 1, quadro 3, do anexo VIII, e expressa como: «Classe climática: W [*classe climática*]. Este aparelho destina-se a ser utilizado a uma temperatura ambiente entre “X” [*a temperatura mais baixa*] °C e “X” [*a temperatura mais elevada*] °C»;\n\nm) O nível de emissões de ruído expresso em dB(A) re1 pW, arredondado às unidades;\n\nn) Caso o modelo se destine a ser encastrado, uma indicação nesse sentido;\n\no) Para os aparelhos de armazenagem de vinhos, a seguinte informação: «Este aparelho destina-se exclusivamente à armazenagem de vinhos». O presente ponto não se aplica aos aparelhos de refrigeração que não são especificamente concebidos para a armazenagem de vinhos mas que podem, contudo, ser utilizados para esse fim, nem aos aparelhos que têm um compartimento de armazenagem de vinhos combinado com qualquer outro tipo de compartimento.\n\n2. Uma ficha pode abranger vários modelos de aparelhos de refrigeração fornecidos pelo mesmo fornecedor.\n\n3. Os dados constantes da ficha podem assumir a forma de uma cópia do rótulo, a cores ou a preto e branco. Nesse caso, devem ser também incluídos os dados enumerados na secção 1 que não estejam contidos no rótulo."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "8741897cc9346979": {
+   "fragment_id": "Documentação técnica",
+   "type": "divisao",
+   "heading": "Documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação técnica\n\n1. A documentação técnica referida no artigo 3.º, alínea c), deve incluir:\n\na) O nome e endereço do fornecedor;\n\nb) Uma descrição geral do modelo de aparelho de refrigeração, suficiente para a sua identificação inequívoca e rápida;\n\nc) Se adequado, as referências das normas harmonizadas aplicadas;\n\nd) Se for o caso, outras normas e especificações técnicas utilizadas;\n\ne) A identificação e assinatura da pessoa com poderes para representar o fornecedor;\n\nf) Os parâmetros técnicos para as medições, estabelecidos em conformidade com o anexo VIII:\n\ni) dimensões globais,\n\nii) espaço global necessário, em funcionamento,\n\niii) volumes(s) bruto(s) total(is),\n\niv) volume(s) útil(eis) e volume(s) útil(eis) total(is),\n\nv) estrelas atribuídas ao(s) compartimento(s) de armazenagem de alimentos congelados,\n\nvi) tipo de descongelação,\n\nvii) temperatura de armazenagem,\n\nviii) consumo de energia,\n\nix) tempo de aumento de temperatura,\n\nx) poder de congelação,\n\nxi) consumo em termos de potência,\n\nxii) humidade do compartimento de armazenagem de vinhos,\n\nxiii) emissão de ruído aéreo;\n\ng) Os resultados de cálculos efectuados em conformidade com o anexo VIII.\n\n2. Sempre que as informações dadas na documentação técnica relativamente a um dado modelo de aparelho de refrigeração para uso doméstico sejam resultantes de cálculos efectuados com base na concepção e/ou de extrapolações feitas a partir de outros aparelhos de refrigeração equivalentes, a documentação deve incluir os pormenores desses cálculos e/ou extrapolações e dos ensaios realizados pelos fornecedores para verificarem a precisão dos cálculos efectuados. A documentação deve também incluir uma lista de todos os outros modelos de aparelhos de refrigeração equivalentes relativamente aos quais as informações tenham sido obtidas do mesmo modo."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "0b4c5d137c63eae3": {
+   "fragment_id": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "type": "divisao",
+   "heading": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto\n\n1. As informações referidas no artigo 4.º, alínea b), devem ser fornecidas pela seguinte ordem:\n\na) A classe de eficiência energética do modelo tal como definida no anexo IX;\n\nb) O consumo de energia anual, expresso em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 3, ponto 2, do anexo VIII;\n\nc) O volume útil de cada compartimento e o número de estrelas aplicável em conformidade com a secção 1, ponto 1)VI, do anexo II, caso tenham sido atribuídas;\n\nd) A «classe climática» em conformidade com a secção 1, quadro 3, do anexo VIII;\n\ne) O nível de emissões de ruído aéreo expresso em dB(A) re1 pW, arredondado às unidades;\n\nf) Caso o modelo se destine a ser encastrado, uma indicação nesse sentido;\n\ng) Para os aparelhos de armazenagem de vinhos, a seguinte informação: «Este aparelho destina-se exclusivamente à armazenagem de vinhos». O presente ponto não se aplica aos aparelhos de refrigeração que não são especificamente concebidos para a armazenagem de vinhos mas que podem, contudo, ser utilizados para esse fim, nem aos aparelhos que têm um compartimento de armazenagem de vinhos combinado com qualquer outro tipo de compartimento.\n\n2. Caso sejam apresentados outros dados constantes da ficha de informações sobre o produto, estes dados deverão ser apresentados na forma e pela ordem especificadas no anexo III.\n\n3. A dimensão e o tipo de caracteres utilizados para a impressão ou apresentação dos dados referidos no presente anexo devem assegurar a sua legibilidade."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "2e516d49b167d551": {
+   "fragment_id": "Medições",
+   "type": "divisao",
+   "heading": "Medições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medições\n\n1. Para efeitos da conformidade e da verificação da conformidade com os requisitos do presente regulamento, as medições devem ser efectuadas por um processo de medição fiável, preciso e reprodutível, que tome em consideração os métodos de medição geralmente reconhecidos como os mais avançados, incluindo os que constem de documentos cujas referências tenham sido publicadas para o efeito no *Jornal Oficial da União Europeia*.\n\n2. CONDIÇÕES GERAIS DE ENSAIOSão aplicáveis as seguintes condições de ensaio: 1) Os aquecedores anti-condensação que possam ser ligados e desligados pelo utilizador final, se forem fornecidos, devem estar ligados e – quando forem reguláveis – regulados para o aquecimento máximo; 2) Se forem fornecidos dispositivos que atravessam a porta (tais como distribuidores de gelo ou de água/bebidas ultra-refrigeradas) que possam ser ligados e desligados pelo utilizador final, esses dispositivos devem estar ligados mas não ser postos em funcionamento durante o ensaio de consumo de energia; 3) Para os aparelhos e compartimentos polivalentes, a temperatura de armazenagem durante a medição do consumo de energia será a temperatura nominal do compartimento mais frio, conforme declarada para uma utilização normal contínua de acordo com as instruções do fabricante; 4) O consumo de energia de um aparelho de refrigeração é determinado na sua configuração de frio máximo, de acordo com as instruções do fabricante para uma utilização normal contínua, para qualquer «outro compartimento» na acepção do quadro 5 do anexo VIII.\n\n3. PARÂMETROS TÉCNICOSSão estabelecidos os seguintes parâmetros: a) «Dimensões globais», arredondadas ao milímetro; b) «Espaço global necessário, em funcionamento», arredondado ao milímetro; c) «Volume(s) bruto(s) total(is)», arredondado(s) ao decímetro cúbico ou ao litro; d) «Volume(s) útil(eis) e volume(s) útil(eis) total(is)», arredondado(s) ao decímetro cúbico ou ao litro; e) «Tipo de descongelação»; f) «Temperatura de armazenagem»; g) «Consumo de energia», expresso em kilowatts-hora por 24 horas (kWh/24h), arredondado às centésimas; h) «Tempo de aumento de temperatura»; i) «Poder de congelação»; j) «Humidade do compartimento de armazenagem de vinhos», expressa em percentagem e arredondada às unidades; e k) «Emissão de ruído aéreo»."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "9d7d4345fef89f5e": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelo fornecedor como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica. Os valores e classes indicados no rótulo ou na ficha de produto não podem ser mais favoráveis para o fornecedor do que os indicados na documentação técnica.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento delegado, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n(1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n(2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do artigo 5.º, alínea b), da Diretiva 2010/30/UE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fornecedor do que os valores correspondentes apresentados nos relatórios de ensaio em conformidade com o ponto iii) do referido artigo; e\n\nb) Os valores publicados no rótulo e na ficha do produto não forem mais favoráveis para o fornecedor do que os valores declarados, e a classe de eficiência energética indicada não for mais favorável para o fornecedor do que a classe determinada em função dos valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação, constantes do quadro 1.\n\n(3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de aparelhos de refrigeração para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo. Em alternativa, as três unidades adicionais selecionadas podem ser de um ou mais dos modelos indicados como modelos equivalentes na documentação técnica do fornecedor.\n\n(5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias, constantes do quadro 1.\n\n(6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de aparelhos de refrigeração para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não-conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem utilizar os métodos de medição e de cálculo estabelecidos nos anexos VI e VIII.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nVolume bruto O valor determinado não pode ser inferior ao valor declarado em mais de 3 % ou de 1 litro, prevalecendo o maior destes limites.\n\nVolume útil de armazenagem O valor determinado não pode ser inferior ao valor declarado em mais de 3 % ou de 1 litro, prevalecendo o maior destes limites. Se os volumes do compartimento-cave e do compartimento de armazenagem de alimentos frescos forem mutuamente ajustáveis pelo utilizador, o volume deve ser ensaiado quando o compartimento-cave está ajustado ao volume mínimo.\n\nPoder de congelação O valor determinado não pode ser inferior ao valor declarado em mais de 10 %.\n\nConsumo de energia O valor determinado não pode ser superior ao valor declarado (*E24h*) em mais de 10 %.\n\nHumidade dos aparelhos de armazenagem de vinhos O valor determinado para a humidade relativa observada no ensaio não pode ser superior ao intervalo declarado em mais de 10 %, em qualquer direção.\n\nEmissão de ruído aéreo O valor determinado deve corresponder ao valor declarado."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "4f7b9c52ed522d44": {
+   "fragment_id": "Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do índice de eficiência energética",
+   "type": "divisao",
+   "heading": "Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do índice de eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classificação dos aparelhos de refrigeração para uso doméstico, método de cálculo do volume equivalente e do índice de eficiência energética"
+  },
+  "17a15f4b7a268be1": {
+   "fragment_id": "1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO",
+   "type": "divisao",
+   "heading": "1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CLASSIFICAÇÃO DOS APARELHOS DE REFRIGERAÇÃO PARA USO DOMÉSTICO\n\nOs aparelhos de refrigeração para uso doméstico classificam-se nas categorias enumeradas no quadro 1.\n\nUma categoria define-se pelos compartimentos específicos de que se compõe, de acordo com o quadro 2, independentemente do número de portas e/ou gavetas.\n\nCategoria Designação\n\n1 Frigorífico com um ou mais compartimentos de armazenagem de alimentos frescos\n\n2 Frigorífico-cave, cave e aparelhos de armazenagem de vinhos\n\n3 Frigorífico-ultra-refrigerador e frigorífico com um compartimento sem estrelas\n\n4 Frigorífico com um compartimento de 1 estrela\n\n5 Frigorífico com um compartimento de 2 estrelas\n\n6 Frigorífico com um compartimento de 3 estrelas\n\n7 Frigorífico-congelador\n\n8 Congelador vertical\n\n9 Arca congeladora\n\n10 Aparelhos polivalentes e outros aparelhos de refrigeração\n\nOs aparelhos de refrigeração para uso doméstico que não possam ser classificados nas categorias 1 a 9 devido à temperatura dos compartimentos classificam-se na categoria 10.\n\n| Temperatura nominal (para o EEI) (°C) | T de projecto | + 12 | + 12 | + 5 | 0 | 0 | – 6 | – 12 | – 18 | – 18 | Categoria (número) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Tipo de compartimento | Outro | Armazenagem de vinhos | Cave | Armazenagem de alimentos frescos | Ultrarefrigeração | 0 estrelas/Produção de gelo | 1 estrela | 2 estrelas | 3 estrelas | 4 estrelas |  |\n| Categoria do aparelho | Composição no que respeita aos compartimentos |  |  |  |  |  |  |  |  |  |  |\n| Frigorífico com um ou mais compartimentos de armazenagem de alimentos frescos | N | N | N | S | N | N | N | N | N | N | 1 |\n| Frigorífico-cave, cave e aparelho de armazenagem de vinhos | F | F | F | S | N | N | N | N | N | N | 2 |\n| F | F | S | N | N | N | N | N | N | N |  |  |\n| N | S | N | N | N | N | N | N | N | N |  |  |\n| Frigorífico-ultra-refrigerador e frigorífico com um compartimento sem estrelas | F | F | F | S | S | F | N | N | N | N | 3 |\n| F | F | F | S | F | S | N | N | N | N |  |  |\n| Frigorífico com um compartimento de 1 estrela | F | F | F | S | F | F | S | N | N | N | 4 |\n| Frigorífico com um compartimento de 2 estrelas | F | F | F | S | F | F | F | S | N | N | 5 |\n| Frigorífico com um compartimento de 3 estrelas | F | F | F | S | F | F | F | F | S | N | 6 |\n| Frigorífico-congelador | F | F | F | S | F | F | F | F | F | S | 7 |\n| Congelador vertical | N | N | N | N | N | N | N | F | (S) [()](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0002) | S | 8 |\n| Arca congeladora | N | N | N | N | N | N | N | F | N | S | 9 |\n| Aparelhos polivalentes e outros aparelhos | F | F | F | F | F | F | F | F | F | F | 10 |\n| (^1^)Inclui também armários de armazenagem de alimentos congelados de 3 estrelas. *Notas:* S = compartimento presente; N = compartimento ausente; F = compartimento facultativo; |  |  |  |  |  |  |  |  |  |  |  |\n\nOs aparelhos de refrigeração para uso doméstico classificam-se numa ou mais classes climáticas constantes do quadro 3.\n\n| Classe | Símbolo | Temperatura média ambiente °C |\n| --- | --- | --- |\n| Temperada alargada | SN | + 10 a + 32 |\n| Temperada | N | + 16 a + 32 |\n| Subtropical | ST | + 16 a + 38 |\n| Tropical | T | + 16 a + 43 |\n\nO aparelho de refrigeração deve poder manter as temperaturas de armazenagem exigidas nos diversos compartimentos, simultaneamente e sem exceder os desvios de temperatura permitidos (durante o ciclo de descongelação) especificados no quadro 4 para os diferentes tipos de aparelhos de refrigeração para uso doméstico e as classes climáticas adequadas.\n\nOs aparelhos e compartimentos polivalentes devem poder manter as temperaturas de armazenagem exigidas nos diferentes tipos de compartimentos, caso essas temperaturas possam ser reguladas pelo utilizador final de acordo com as instruções do fabricante.\n\n| Temperaturas de armazenagem (°C) |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Outro comparti-mento | Comparti-mento de armazenagem de vinhos | Comparti-mento-cave | Comparti-mento de armazena-gem de alimentos frescos | Compartimento de ultra-refrigeração | Comparti-mento de uma estrela | Comparti-mento/secção de duas estrelas | Congelador de alimentos e comparti-mento/armá-rio de três estrelas |\n| tom | twma | tcm | t1m, t2m, t3m, tma | tcc | t* | t** | t*** |\n| > + 14 | + 5 ≤ twma ≤ + 20 | + 8 ≤ tcm ≤ + 14 | 0 ≤ t1m, t2m, t3m ≤ + 8; tma ≤ + 4 | – 2 ≤ tcc ≤ + 3 | ≤ – 6 | ≤ – 12 [()](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0003) | ≤ – 18 [()](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0003) |\n| (^1^)Nos aparelhos de refrigeração para uso doméstico com frio ventilado sem gelo, durante o ciclo de descongelação, é admissível um desvio da temperatura não superior a 3 K num período de 4 horas ou de 20 % da duração do ciclo de funcionamento, conforme o que for mais curto. *Notas:* — tom: temperatura de armazenagem do outro compartimento — twma: temperatura de armazenagem do compartimento de armazenagem de vinhos, com uma variação de 0,5 K — tcm: temperatura de armazenagem do compartimento-cave — t1m, t2m, t3m: temperaturas de armazenagem do compartimento de alimentos frescos — tma: temperatura média de armazenagem do compartimento de alimentos frescos — tcc: temperatura instantânea de armazenagem do compartimento de ultra-refrigeração — t*, t**, t***: temperaturas máximas do compartimento de armazenagem de alimentos congelados — a temperatura de armazenagem do compartimento de produção de gelo e do compartimento de «0 estrelas» é inferior a 0 °C. |  |  |  |  |  |  |  |"
+  },
+  "86f4155c5c719ce1": {
+   "fragment_id": "2. CÁLCULO DO VOLUME EQUIVALENTE",
+   "type": "divisao",
+   "heading": "2. CÁLCULO DO VOLUME EQUIVALENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CÁLCULO DO VOLUME EQUIVALENTE\n\nO volume equivalente de um aparelho de refrigeração para uso doméstico é a soma dos volumes equivalentes de todos os compartimentos. É calculado em litros e arredondado às unidades, do seguinte modo:\n\nem que:\n\n— *n* representa o número de compartimentos\n\n— *Vc* representa o volume útil do(s) compartimento(s)\n\n— *Tc* representa a temperatura nominal do(s) compartimento(s) indicada no quadro 2\n\n—\n\n— *FFc*, *CC* e *BI* são os factores de correcção do volume indicados no quadro 6.\n\nO factor de correcção termodinâmico representa a diferença entre a temperatura nominal de um compartimento, *Tc* (definida no quadro 2), e a temperatura ambiente em condições normais de ensaio a + 25 °C, expressa como rácio da mesma diferença para um compartimento de alimentos frescos a + 5 °C.\n\nOs factores termodinâmicos para os compartimentos descritos nas alíneas g) a n) do anexo I constam do quadro 5.\n\n| Compartimento | Temperatura nominal | (25-*Tc*)/20 |\n| --- | --- | --- |\n| Outro compartimento | Temperatura de projecto |  |\n| Compartimento-cave/Compartimento de armazenagem de vinhos | + 12 °C | 0,65 |\n| Compartimento de armazenagem de alimentos frescos | + 5 °C | 1,00 |\n| Compartimento de ultra-refrigeração | 0 °C | 1,25 |\n| Compartimento de produção de gelo e compartimento sem estrelas | 0 °C | 1,25 |\n| Compartimento de uma estrela | – 6 °C | 1,55 |\n| Compartimento de duas estrelas | – 12 °C | 1,85 |\n| Compartimento de três estrelas | – 18 °C | 2,15 |\n| Compartimento congelador de alimentos (compartimento de quatro estrelas) | – 18 °C | 2,15 |"
+  },
+  "7bc9c5d3ff0b52c7": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Notas:\n\ni) O factor termodinâmico dos compartimentos polivalentes é determinado pela temperatura nominal indicada no quadro 2 para o tipo de compartimento mais frio, que pode ser regulada pelo utilizador final e mantida continuamente de acordo com as instruções do fabricante;\n\nii) O factor termodinâmico de qualquer secção de duas estrelas (de um congelador) é determinado à temperatura *Tc* = – 12 °C;\n\niii) Para os outros compartimentos, o factor termodinâmico é determinado pela temperatura de projecto mais baixa que possa ser regulada pelo utilizador final e mantida continuamente de acordo com as instruções do fabricante.\n\n| Factor de correcção | Valor | Condições |\n| --- | --- | --- |\n| *FF* (*frost free* – sem gelo) | 1,2 | Para compartimentos de frio ventilado destinados a armazenar alimentos congelados |\n| 1 | Outros |  |\n| *CC* (classe climática) | 1,2 | Para aparelhos da classe T (tropical) |\n| 1,1 | Para aparelhos da classe ST (subtropical) |  |\n| 1 | Outros |  |\n| *BI* (*built in* – encastrados) | 1,2 | Para aparelhos encastrados de largura < 58 cm |\n| 1 | Outros |  |"
+  },
+  "7cc9fd7cc91d76af": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Notas:\n\ni) *FF* é o factor de correcção do volume para os compartimentos de frio ventilado.\n\nii) *CC* é o factor de correcção do volume para uma dada classe climática. Se um aparelho de refrigeração estiver classificado em mais de uma classe climática, será utilizada para o cálculo do volume equivalente a classe climática com o maior factor de correcção.\n\niii) *BI* é o factor de correcção do volume para os aparelhos encastrados."
+  },
+  "0d51a1f1dbc67f23": {
+   "fragment_id": "3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA\n\nPara o cálculo do índice de eficiência energética (EEI) de um modelo de aparelho de refrigeração para uso doméstico, o consumo de energia anual do aparelho de refrigeração para uso doméstico é comparado com o seu consumo de energia anual normalizado.\n\n1) O índice de eficiência energética (EEI) é calculado do seguinte modo e arredondado às décimas:\n\n| AEC | = | consumo de energia anual do aparelho de refrigeração para uso doméstico |\n| --- | --- | --- |\n\n| SAEC | = | consumo de energia anual normalizado do aparelho de refrigeração para uso doméstico. |\n| --- | --- | --- |\n\n2) O consumo de energia anual (*AEC*) é calculado do seguinte modo, expresso em kWh/ano e arredondado às centésimas:\n\n*E24h* é o consumo de energia do aparelho de refrigeração para uso doméstico em kWh/24h, arredondado às milésimas.\n\n3) O consumo de energia anual normalizado (*SAEC*) é calculado do seguinte modo, expresso em kWh/ano e arredondado às centésimas:\n\n| Categoria | *M* | *N* |\n| --- | --- | --- |\n| 1 | 0,233 | 245 |\n| 2 | 0,233 | 245 |\n| 3 | 0,233 | 245 |\n| 4 | 0,643 | 191 |\n| 5 | 0,450 | 245 |\n| 6 | 0,777 | 303 |\n| 7 | 0,777 | 303 |\n| 8 | 0,539 | 315 |\n| 9 | 0,472 | 286 |\n| 10 | [(^*1^)](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0004) | [(^*1^)](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0004) |\n| (^*1^) *Nota:* Para os aparelhos de refrigeração para uso doméstico da categoria 10, os valores de *M* e *N* dependem da temperatura e do número de estrelas do compartimento com a temperatura mais baixa que possa ser regulada pelo utilizador final e mantida continuamente de acordo com as instruções do fabricante. Se estiver presente apenas um «outro compartimento», na acepção do quadro 2 e da alínea n) do anexo I, utilizar-se-ão os valores de *M* e *N* para a categoria 1. Os aparelhos com compartimentos de três estrelas ou compartimentos congeladores de alimentos são considerados frigoríficos-congeladores. |  |  |"
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "f40461fa9b212b21": {
+   "fragment_id": "Classes de eficiência energética",
+   "type": "divisao",
+   "heading": "Classes de eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de eficiência energética\n\nA classe de eficiência energética de um aparelho de refrigeração para uso doméstico é determinada com base no seu índice de eficiência energética (*EEI*) tal como estabelecido no quadro 1 de 20 de Dezembro de 2011 a 30 de Junho de 2014 e no quadro 2 a partir de 1 de Julho de 2014.\n\nO índice de eficiência energética de um aparelho de refrigeração para uso doméstico é determinado em conformidade com a secção 3 do anexo VIII.\n\nClasse de eficiência energética Índice de eficiência energética\n\nA+++ (a mais eficiente) *EEI* < 22\n\nA++ 22 ≤ *EEI* < 33\n\nA+ 33 ≤ *EEI* < **44**\n\nA **44** ≤ *EEI* < 55\n\nB 55 ≤ *EEI* < 75\n\nC 75 ≤ *EEI* < 95\n\nD 95 ≤ *EEI* < 110\n\nE 110 ≤ *EEI* < 125\n\nF 125 ≤ *EEI* < 150\n\nG (a menos eficiente) *EEI* ≥ 150\n\nClasse de eficiência energética Índice de eficiência energética\n\nA+++ (a mais eficiente) *EEI* < 22\n\nA++ 22 ≤ *EEI* < 33\n\nA+ 33 ≤ *EEI* < **42**\n\nA **42** ≤ *EEI* < 55\n\nB 55 ≤ *EEI* < 75\n\nC 75 ≤ *EEI* < 95\n\nD 95 ≤ *EEI* < 110\n\nE 110 ≤ *EEI* < 125\n\nF 125 ≤ *EEI* < 150\n\nG (a menos eficiente) *EEI* ≥ 150"
+  },
+  "82c866f33a162c59": {
+   "fragment_id": "ANEXO X",
+   "type": "divisao",
+   "heading": "ANEXO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X"
+  },
+  "71492d171210a11b": {
+   "fragment_id": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "type": "divisao",
+   "heading": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet\n\n1) Para efeitos dos pontos 2 a 5 do presente anexo, aplicam-se as seguintes definições:\n\na) «mecanismo de visualização», qualquer ecrã, inclusive um ecrã tátil, ou outra tecnologia de visualização utilizada para a apresentação de conteúdos da Internet aos utilizadores;\n\nb) «apresentação em ninho», uma interface visual em que o acesso a uma imagem ou a um conjunto de dados se faz através de um clique no rato, do movimento do rato ou da expansão em ecrã tátil sobre outra imagem ou outro conjunto de dados;\n\nc) «ecrã tátil», um ecrã que reage ao toque, como é o caso nos computadores-tablete, computadores-ardósia ou telefones inteligentes;\n\nd) «texto alternativo», texto fornecido em alternativa a um gráfico, permitindo que a informação seja apresentada em forma não gráfica, nos casos em que os dispositivos de visualização não podem produzir o gráfico ou em que se pretende melhorar a acessibilidade, nomeadamente através de aplicações de síntese de voz.\n\n2) O rótulo pertinente, disponibilizado pelos fornecedores em conformidade com o artigo 3.º, alínea f), deve ser apresentado no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que o rótulo seja claramente visível e legível e devem ser proporcionais às dimensões especificadas no ponto 3 do anexo II. O rótulo pode ser apresentado em ninho, caso em que a imagem utilizada para se aceder ao rótulo deve obedecer às especificações estabelecidas no ponto 3 do presente anexo. Caso se utilize a apresentação em ninho, o rótulo deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem.\n\n3) A imagem utilizada para se aceder ao rótulo no caso da apresentação em ninho deve:\n\na) ser uma seta de cor correspondente à classe de eficiência energética do produto indicada no rótulo;\n\nb) indicar na seta a classe de eficiência energética do produto, a branco e com carateres de tamanho equivalente ao dos do preço; e\n\nc) obedecer a um dos seguintes formatos:\n\n4) No caso da apresentação em ninho, a sequência de apresentação do rótulo deve ser a seguinte:\n\na) a imagem a que se refere o ponto 3 do presente anexo deve ser apresentada ao utilizador final na primeira apresentação e nas subsequentes apresentações de informações sobre o preço do produto;\n\nb) a imagem deve remeter, por hiperligação, para o rótulo;\n\nc) o rótulo deve ser apresentado após um clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem;\n\nd) o rótulo deve ser apresentado em janela emergente, novo separador, nova página ou inserção no ecrã;\n\ne) para ampliar o rótulo em ecrãs táteis, aplicam-se os procedimentos específicos do dispositivo para o efeito;\n\nf) a apresentação do rótulo deve cessar mediante recurso a uma opção de fecho ou a outro mecanismo de fecho normal;\n\ng) o texto alternativo à imagem, a apresentar em caso de impossibilidade de apresentação do rótulo, deve indicar a classe de eficiência energética do produto em carateres de tamanho equivalente ao dos do preço.\n\n5) A ficha de produto pertinente, disponibilizada pelos fornecedores em conformidade com o artigo 3.º, alínea g), deve ser apresentada no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que as informações sejam claramente visíveis e legíveis. A ficha de produto pode ser apresentada em ninho, caso em que a ligação utilizada para se aceder à ficha deve indicar, de forma clara e legível, «Ficha de produto». Caso se utilize a apresentação em ninho, a ficha de produto deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a ligação.\n\n---"
+  },
+  "b05b65d6cf75ff19": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a11bdeda-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 27 de 30.1.2010, p. 1."
+  },
+  "5966a782ec7af5f0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R1060 — PT — 01.03.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R1060) [REGULAMENTO DELEGADO (UE) N.º 1060/2010 DA COMISSÃO](http://publications.europa.eu/resource/celex/32010R1060) [de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1060) [que complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aparelhos de refrigeração para uso doméstico](http://publications.europa.eu/resource/celex/32010R1060) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010R1060) (JO L 314, 30.11.2010, p.17)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2016 da Comissão de 11 de março de 2019](http://publications.europa.eu/resource/celex/32019R2016) — L 315 — 102 — 5.12.2019"
+  }
+ }
+}

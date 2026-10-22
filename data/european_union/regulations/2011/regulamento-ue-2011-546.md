@@ -36,6 +36,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-11-21'
+version_history:
+  file: regulamento-ue-2011-546.versoes.json
+  count: 3
+  source_lastmod: '2022-11-21'
+  versions:
+  - date: '2011-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-05-24'
+    amending: eu:celex:32018R0676:por
+    amending_title: REGULAMENTO (UE) 2018/676 DA COMISSÃO de 3 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita PRINCÍPIOS UNIFORMES APLICÁVEIS À AVALIAÇÃO E AUTORIZAÇÃO DOS PRODUTOS FITOFARMACÊUTICOS PREVISTOS NO ARTIGO 29.º,
+      N.º 6, DO REGULAMENTO (CE) N.º 1107/2009
+    - Adita PARTE I
+    - Adita Princípios uniformes aplicáveis à avaliação e autorização dos produtos fitofarmacêuticos químicos
+    - Adita A. INTRODUÇÃO
+    - Adita B. AVALIAÇÃO
+    - Adita 1. Princípios gerais
+    - Adita 2. Princípios específicos
+    - Adita 2.1. Eficácia
+    - Adita 2.2. Ausência de efeitos inaceitáveis sobre os vegetais e produtos vegetais
+    - Adita 2.3. Impacto nos vertebrados a combater
+    - Adita 2.4. Impacto na saúde humana e animal
+    - Adita 2.4.1. Impacto na saúde humana e animal decorrente do produto fitofarmacêutico
+    - Adita 2.4.2. Impacto na saúde humana e animal decorrente dos resíduos
+    - Adita 2.5. Impacto no ambiente
+    - Adita 2.5.1. Destino e distribuição no ambiente
+    - Adita 2.5.2. Impacto em espécies não visadas
+    - Adita 2.6. Métodos de análise
+    - Adita 2.7. Propriedades físico-químicas
+    - Adita C. PROCESSO DE DECISÃO
+    - Adita PARTE II
+    - Adita Princípios uniformes para a avaliação e autorização dos produtos fitofarmacêuticos que contêm microrganismos
+    - Adita 2.1. Identidade
+    - Adita 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Adita 2.1.2. Identidade do produto fitofarmacêutico
+    - Adita 2.2. Propriedades biológicas, físicas, químicas e técnicas
+    - Adita 2.2.1. Propriedades biológicas do microrganismo presente no produto fitofarmacêutico
+    - Adita 2.2.2. Propriedades físicas, químicas e técnicas do produto fitofarmacêutico
+    - Adita 2.3. Informações adicionais
+    - Adita 2.3.1. Controlo da qualidade da produção do microrganismo no produto fitofarmacêutico
+    - Adita 2.3.2. Controlo da qualidade do produto fitofarmacêutico
+    - Adita 2.4. Eficácia
+    - Adita 2.5. Métodos de identificação/detecção e quantificação
+    - Adita 2.5.1. Métodos de análise para o produto fitofarmacêutico
+    - Adita 2.5.1.1. Componentes não viáveis
+    - Adita 2.5.1.2. Componentes viáveis
+    - Adita 2.5.2. Métodos de análise para a determinação de resíduos
+  - date: '2022-11-21'
+    amending: eu:celex:32022R1441:por
+    amending_title: REGULAMENTO (UE) 2022/1441 DA COMISSÃO de 31 de agosto de 2022
+    changes:
+    - Altera Princípios uniformes aplicáveis à avaliação e autorização dos produtos fitofarmacêuticos químicos
+    - Altera Notas
+    - Adita INTRODUÇÃO GERAL
+    - Adita 1. PRINCÍPIOS GERAIS
+    - Adita 2. AVALIAÇÃO - PRINCÍPIOS GERAIS
+    - Adita 3. PROCESSO DE DECISÃO - PRINCÍPIOS GERAIS
+    - Adita PARTE A
+    - Adita 1. AVALIAÇÃO
+    - Adita 2. PROCESSO DE DECISÃO
+    - Adita PARTE B
+    - Adita PRINCÍPIOS UNIFORMES PARA A AVALIAÇÃO E AUTORIZAÇÃO DOS PRODUTOS FITOFARMACÊUTICOS QUE CONTENHAM UMA SUBSTÂNCIA
+      ATIVA QUE É UM MICRORGANISMO
+    - Adita Definições
+    - Adita 2. Processo de decisão
+    - Suprime PRINCÍPIOS UNIFORMES APLICÁVEIS À AVALIAÇÃO E AUTORIZAÇÃO DOS PRODUTOS FITOFARMACÊUTICOS PREVISTOS NO ARTIGO
+      29.º, N.º 6, DO REGULAMENTO (CE) N.º 1107/2009
+    - Suprime PARTE I
+    - Suprime A. INTRODUÇÃO
+    - Suprime B. AVALIAÇÃO
+    - Suprime 1. Princípios gerais
+    - Suprime 2. Princípios específicos
+    - Suprime 2.1. Eficácia
+    - Suprime 2.2. Ausência de efeitos inaceitáveis sobre os vegetais e produtos vegetais
+    - Suprime 2.3. Impacto nos vertebrados a combater
+    - Suprime 2.4. Impacto na saúde humana e animal
+    - Suprime 2.4.1. Impacto na saúde humana e animal decorrente do produto fitofarmacêutico
+    - Suprime 2.4.2. Impacto na saúde humana e animal decorrente dos resíduos
+    - Suprime 2.5. Impacto no ambiente
+    - Suprime 2.5.1. Destino e distribuição no ambiente
+    - Suprime 2.5.2. Impacto em espécies não visadas
+    - Suprime 2.6. Métodos de análise
+    - Suprime 2.7. Propriedades físico-químicas
+    - Suprime C. PROCESSO DE DECISÃO
+    - Suprime PARTE II
+    - Suprime Princípios uniformes para a avaliação e autorização dos produtos fitofarmacêuticos que contêm microrganismos
+    - Suprime 2.1. Identidade
+    - Suprime 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Suprime 2.1.2. Identidade do produto fitofarmacêutico
+    - Suprime 2.2. Propriedades biológicas, físicas, químicas e técnicas
+    - Suprime 2.2.1. Propriedades biológicas do microrganismo presente no produto fitofarmacêutico
+    - Suprime 2.2.2. Propriedades físicas, químicas e técnicas do produto fitofarmacêutico
+    - Suprime 2.3. Informações adicionais
 identifiers:
   celex: 32011R0546
   eli: http://data.europa.eu/eli/reg/2011/546/oj
@@ -50,7 +150,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f4cf2af6-f2b7-4acf-860c-03917efb391d.0014
   content_url: http://publications.europa.eu/resource/cellar/6aaaa3dc-59d4-11ed-92ed-01aa75ed71a1.0022.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0546-20221121
-  retrieved_at: '2026-10-22T03:15:49Z'
+  retrieved_at: '2026-10-22T15:53:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T13:09:20.006+02:00'
 integrity:
@@ -59,9 +159,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:49Z'
-  notes: Texto consolidado 02011R0546-20221121.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:53:28Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-546.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,34 +201,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/c2514307-b9a4-4a7b-9f36-a9f3662df21b
 article_structure:
   article_count: 2
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:49Z'
+  checked_at: '2026-10-22T15:53:28Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 546/2011 da Comissão, de 10 de Junho de 2011
-
-> 02011R0546 — PT — 21.11.2022 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32018R0676) — [REGULAMENTO (UE) 2018/676 DA COMISSÃO de 3 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0676) — L 114 — 8 — 4.5.2018
-- [►M2](http://publications.europa.eu/resource/celex/32022R1441) — [REGULAMENTO (UE) 2022/1441 DA COMISSÃO de 31 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1441) — L 227 — 70 — 1.9.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R1441R%2801%29) — [Rectificação, JO L 304, 24.11.2022, p. 100 (2022/1441)](http://publications.europa.eu/resource/celex/32022R1441R%2801%29)
-
-## REGULAMENTO (UE) N.º 546/2011 DA COMISSÃO
 
 de 10 de Junho de 2011
 

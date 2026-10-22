@@ -1,0 +1,443 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R0805:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0805-20110831",
+ "dre_path": null,
+ "source_lastmod": "2011-08-31",
+ "versions": [
+  {
+   "date": "2011-08-11",
+   "future": false,
+   "celex": "32011R0805",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c2e6d2c4bf0f30b2",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "0adc1dfd2b93420b",
+    "0fa1fa3ceec943b9",
+    "e8319be4932be1a4",
+    "5586e09b57476e37",
+    "f0f8c960bfdbce9b",
+    "1a8a79703526c891",
+    "11cde1e743d16f40",
+    "752082ba29fef8fc",
+    "edb428cd739d760d",
+    "d2e0aaad0ae8e089",
+    "ca65244410fc8ae2",
+    "e06722895c6ac109",
+    "15aaf36872492767",
+    "e7e8974814a159f4",
+    "7cb27649ee404df6",
+    "c2569b6ff1f3e111",
+    "1e7a0903d2eed348",
+    "1f6592881332c6c1",
+    "d4caab3a555c9485",
+    "d2ad961359c0f177",
+    "233c0cc85088fa10",
+    "1ecfc79da3f1ac7f",
+    "950e705c4a298c21",
+    "388e5b40288ff692",
+    "f19d4c20ba15b709",
+    "d332bb9f30687d5c",
+    "40ed6b62e188ac6f",
+    "a421ee0fe38640b5",
+    "95065371e84e11f3",
+    "80eca6c01b21de2a",
+    "60d23d91f27b4886",
+    "6182500e1f711582",
+    "c0aaa5111697561d",
+    "284580fe4908500e",
+    "fbd45c4ef2a9efe3",
+    "b1457cd46f82de3c",
+    "a6e74ccce597d5e9",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "7dfd5b958fd42902",
+    "66116b639f3e4e3a",
+    "68652418f599b16b",
+    "f272c853072531fb",
+    "2f50de03254ee5bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "c2e6d2c4bf0f30b2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto de 2011\n\nque estabelece regras detalhadas para as licenças de controlador de tráfego aéreo e certos certificados em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE [([^1])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr1-L_2011206PT.01002101-E0001) do Conselho, nomeadamente o seu artigo 8.º C, n.º 10,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 216/2008 visa estabelecer e manter um nível elevado e uniforme de segurança da aviação civil na Europa e prevê os meios para atingir os objectivos visados, assim como outros objectivos, no domínio da segurança da aviação civil.\n\n(2) A aplicação do Regulamento (CE) n.º 216/2008, bem como a nova legislação relativa ao Céu Único Europeu II [([^2])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr2-L_2011206PT.01002101-E0002), exigem o estabelecimento de regras de execução mais detalhadas, nomeadamente em matéria de licenciamento dos controladores de tráfego aéreo, por forma a manter um nível elevado e uniforme de segurança da aviação civil na Europa, garantir os mais elevados níveis de responsabilidade e competência, aumentar a disponibilidade de controladores de tráfego aéreo e promover o reconhecimento mútuo das licenças, perseguindo simultaneamente o objectivo de melhoria global da segurança do tráfego aéreo e das competências dos profissionais do sector.\n\n(3) Os controladores de tráfego aéreo, bem como as pessoas e organizações envolvidas na sua formação, avaliação, controlo ou exames médicos, devem cumprir os requisitos essenciais aplicáveis previstos no anexo V-b do Regulamento (CE) n.º 216/2008. Nos termos desse regulamento, os controladores de tráfego aéreo, assim como as pessoas e organizações envolvidas na sua formação, devem ser certificados ou licenciados depois de comprovado que cumprem os requisitos essenciais.\n\n(4) A licença introduzida pela Directiva 2006/23/CE do Parlamento Europeu e do Conselho, de 5 de Abril de 2006, relativa à licença comunitária de controlador de tráfego aéreo [([^3])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr3-L_2011206PT.01002101-E0003), provou ser uma boa ferramenta para reconhecer a função específica cumprida pelos controladores de tráfego aéreo na prestação segura de serviços de controlo do tráfego aéreo. O estabelecimento de normas de competência válidas em toda a União reduziu a fragmentação neste domínio, tornando mais eficiente a organização do trabalho no âmbito de uma colaboração regional crescente entre os prestadores de serviços de navegação aérea. Por conseguinte, a manutenção e a melhoria do sistema comum de licenciamento para os controladores de tráfego aéreo na União Europeia é um elemento essencial do sistema de controlo do tráfego aéreo europeu.\n\n(5) A Directiva 2006/23/CE foi revogada pelo Regulamento (CE) n.º 1108/2009 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr4-L_2011206PT.01002101-E0004). No entanto, as disposições da Directiva 2006/23/CE continuam a aplicar-se até à data de aplicação das medidas referidas no artigo 8.º C, n.º 10, do Regulamento (CE) n.º 216/2008. O presente regulamento estabelece essas medidas.\n\n(6) As disposições do presente regulamento reflectem os avanços tecnológicos, incluindo as melhores práticas e os progressos científicos e técnicos, no domínio da formação de controladores de tráfego aéreo. Foram elaboradas com base na Directiva 2006/23/CE e prevêem para os Estados-Membros a transposição comum das normas e práticas recomendadas estabelecidas na Convenção sobre a Aviação Civil Internacional, assinada em Chicago, em 7 de Dezembro de 1944, e dos Requisitos Regulamentares sobre Segurança da Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol), instituída pela Convenção Internacional de 13 de Dezembro de 1960.\n\n(7) A necessidade de assegurar uma aplicação uniforme dos requisitos comuns relativos à concessão do certificado médico e da licença de controlador de tráfego aéreo exige que as autoridades competentes dos Estados-Membros e, se for caso disso, a Agência Europeia para a Segurança da Aviação, a seguir designada «a Agência», sigam procedimentos comuns para avaliar o cumprimento desses requisitos; a Agência deverá elaborar especificações de certificação, meios de conformidade aceitáveis e outros documentos de orientação para facilitar a necessária uniformidade legislativa.\n\n(8) As características particulares do tráfego aéreo da União Europeia exigem a criação e a aplicação efectiva de normas de competência comuns para os controladores de tráfego aéreo empregados por prestadores de serviços de navegação aérea que prestam serviços de gestão do tráfego aéreo e serviços de navegação aérea (ATM/ANS) ao público.\n\n(9) Contudo, os Estados-Membros deverão, na medida do possível, garantir que os serviços prestados ou disponibilizados ao público por militares ofereçam um nível de segurança pelo menos equivalente ao exigido pelos requisitos essenciais estabelecidos no anexo V-b do Regulamento de base. Por conseguinte, os Estados-Membros poderão também optar por aplicar o presente regulamento ao pessoal militar que presta serviços ao público, mencionado no artigo 1.º, n.º 2, alínea c), do referido regulamento.\n\n(10) As autoridades responsáveis pela supervisão e verificação da conformidade deverão ser suficientemente independentes dos prestadores de serviços de navegação aérea e das organizações de formação. As autoridades deverão igualmente manter a sua capacidade para desempenhar eficazmente as tarefas que lhes incumbem. A autoridade competente designada para efeitos do presente regulamento poderá ser o mesmo organismo ou organismos nomeados ou criados em conformidade com o artigo 4.º do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu [([^5])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr5-L_2011206PT.01002101-E0005), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1070/2009. Para efeitos do presente regulamento, a Agência deverá actuar como autoridade competente para a emissão e renovação dos certificados das organizações de formação de controladores de tráfego aéreo localizadas fora do território dos Estados-Membros e, se pertinente, do seu pessoal.\n\n(11) A prestação de serviços de navegação aérea exige pessoal altamente qualificado, cuja competência possa ser demonstrada por vários meios. Para o controlo do tráfego aéreo, o meio adequado é a manutenção de um sistema comum de concessão de licenças aos controladores do tráfego aéreo na União, que devem ser consideradas uma espécie de diploma para cada controlador de tráfego aéreo. A qualificação («*rating*») inscrita numa licença deverá indicar o tipo de serviço de tráfego aéreo para cuja prestação o controlador tem competência. Simultaneamente, os averbamentos incluídos na licença indicam quer as competências específicas do controlador, quer a autorização das autoridades competentes para a prestação de serviços a determinados sectores ou grupos de sectores. Por esse motivo, as autoridades devem estar em condições de avaliar a competência dos controladores de tráfego aéreo ao emitirem licenças ou ao prolongarem a validade dos averbamentos. As autoridades competentes devem igualmente poder suspender a licença, a qualificação ou os averbamentos, quando tiverem dúvidas quanto às competências.\n\n(12) Reconhecendo a necessidade de reforçar ainda mais a cultura de segurança, sobretudo através da integração de um sistema fiável de notificação de incidentes e do princípio da atribuição justa da responsabilidade para retirar ensinamentos dos incidentes, o presente regulamento não deverá associar automaticamente a um incidente a suspensão da licença, da qualificação ou dos averbamentos. A revogação da licença deverá ser considerada o último recurso, para casos extremos.\n\n(13) Para consolidar a confiança mútua dos Estados-Membros nos seus sistemas de licenciamento dos controladores de tráfego aéreo, são indispensáveis regras comuns sobre a obtenção e a manutenção das licenças. Por conseguinte, é importante harmonizar, para garantir o mais elevado nível de segurança, os requisitos em matéria de formação, qualificação, competências e acesso à profissão de controlador de tráfego aéreo. Essa harmonização deverá traduzir-se na prestação de serviços de controlo do tráfego aéreo seguros e de elevada qualidade, assim como no reconhecimento das licenças em toda a União Europeia, aumentando assim a liberdade de circulação e o número de controladores de tráfego aéreo disponíveis.\n\n(14) O presente regulamento não deverá dar origem ao desrespeito das disposições nacionais em vigor que regem os direitos e obrigações aplicáveis às relações de trabalho entre o empregador e os candidatos a controladores de tráfego aéreo.\n\n(15) Para tornar as competências comparáveis em toda a União, há que estruturá-las de um modo claro e generalizadamente aceite. Essa estruturação contribuirá para garantir a segurança não só dentro do espaço aéreo sob o controlo de um prestador de serviços de navegação aérea mas também, e especialmente, na interface entre diferentes prestadores de serviços.\n\n(16) Em muitos incidentes e acidentes, a comunicação desempenha um papel importante. Por conseguinte, o presente regulamento estabelece requisitos detalhados em matéria de conhecimentos linguísticos para os controladores de tráfego aéreo. Esses requisitos baseiam-se nos adoptados pela Organização da Aviação Civil Internacional (ICAO) e são um meio de tornar obrigatório o cumprimento dessas normas internacionalmente aceites. A fim de incentivar a livre circulação garantindo simultaneamente a segurança, torna-se necessária a observância dos princípios da não discriminação, da transparência e da proporcionalidade em matéria de requisitos linguísticos.\n\n(17) Os objectivos da formação inicial são descritos na *Specification for the ATCO Common Core Content Initial Training* (Especificação relativa ao conteúdo essencial comum da formação inicial de controladores de tráfego aéreo), elaborada a pedido dos membros do Eurocontrol, e considerados as normas adequadas. No que respeita à formação operacional no órgão de controlo, a inexistência de normas generalizadamente aceites deve ser compensada por um leque de medidas, entre as quais a aprovação dos examinadores e dos avaliadores de competências, que deverão garantir elevados níveis de competência. Esta medida é tanto mais importante quanto a formação operacional no órgão de controlo é extremamente cara e decisiva para a segurança. A ICAO também elaborou normas para aplicação em domínios onde não existem requisitos de formação comuns ao nível europeu. Na ausência de requisitos de formação europeus, os Estados-Membros poderão orientar-se pelas referidas normas da ICAO.\n\n(18) A pedido dos Estados membros do Eurocontrol, foram elaborados requisitos médicos, os quais são considerados normas aceitáveis para garantir a conformidade com o presente regulamento. A emissão dos certificados médicos, concretamente, deverá ser feita de acordo com os requisitos para a obtenção do certificado médico europeu da classe 3 pelos controladores de tráfego aéreo, estabelecidos pelo Eurocontrol.\n\n(19) Do ponto de vista da segurança, a certificação das organizações de formação deverá ser considerada um dos factores decisivos para a qualidade da formação dos controladores de tráfego aéreo. Por conseguinte, é necessário estabelecer requisitos para essas organizações. A formação deve ser considerada um serviço semelhante aos serviços de navegação aérea e igualmente sujeita a um processo de certificação. O presente regulamento deverá tornar possível certificar a formação por tipo de formação, por pacote de serviços de formação ou por pacote de formação e serviços de navegação aérea, sem perder de vista as características particulares da formação.\n\n(20) O presente regulamento confirma a jurisprudência assente do Tribunal de Justiça da União Europeia no domínio do reconhecimento mútuo de diplomas e da liberdade de circulação dos trabalhadores. O princípio da proporcionalidade, a justificação fundamentada para a imposição de medidas compensatórias e a previsão de procedimentos adequados de recurso constituem princípios básicos que devem aplicar-se ao sector da gestão do tráfego aéreo de maneira mais visível. Os Estados-Membros deverão ter a possibilidade de recusar o reconhecimento de licenças que não tenham sido emitidas nos termos do presente regulamento. Uma vez que se destina a garantir o reconhecimento mútuo das licenças, o presente regulamento não regula as condições de acesso à profissão.\n\n(21) A profissão de controlador do tráfego aéreo está sujeita a inovações técnicas que exigem a actualização regular das competências. As necessárias adaptações do presente regulamento à evolução técnica e ao progresso científico deverão seguir o procedimento adequado, com controlo, previsto no artigo 5.º -A da Decisão 1999/468/CE do Conselho [([^6])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr6-L_2011206PT.01002101-E0006).\n\n(22) O presente regulamento pode ter efeitos a nível das práticas seguidas pelos controladores de tráfego aéreo no seu trabalho quotidiano. Os parceiros sociais deverão ser devidamente informados e consultados sobre todas as medidas que tenham implicações sociais significativas. Por conseguinte, os parceiros sociais foram consultados nos termos do procedimento «acelerado» da Agência. O Comité de Diálogo Sectorial, criado pela Decisão 98/500/CE da Comissão, de 20 de Maio de 1998, relativa à criação de Comités de diálogo sectorial para promover o diálogo entre os parceiros sociais a nível europeu [([^7])](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntr7-L_2011206PT.01002101-E0007), deverá ser devidamente consultado sobre as futuras medidas de execução tomadas pela Comissão.\n\n(23) As condições gerais necessárias para a obtenção de uma licença que digam respeito aos requisitos de idade, médicos, de habilitações e de formação inicial não deverão afectar os titulares das actuais licenças. As licenças e os certificados médicos emitidos pelos Estados-Membros em conformidade com a Directiva 2006/23/CE deverão ser considerados como tendo sido emitidos ao abrigo do presente regulamento, por forma a garantir a continuação dos privilégios das licenças existentes e uma transição suave para todos os titulares de licenças e para as autoridades competentes.\n\n(24) Deverão ser concedidas derrogações para permitir a continuação da aplicação de práticas nacionais divergentes no que respeita aos pontos em que não tenham ainda sido estabelecidas regras comuns durante o procedimento acelerado seguido para estas medidas de execução da primeira fase.\n\n(25) A Agência deverá efectuar uma avaliação do sistema europeu de licenciamento dos controladores de tráfego aéreo e das melhorias eventualmente necessárias para promover uma «abordagem global do sistema de aviação» e garantir a conformidade total com os requisitos essenciais descritos no anexo V-b do Regulamento (CE) n.º 216/2008, com vista a fornecer um parecer à Comissão, incluindo a introdução de possíveis alterações ao presente regulamento.\n\n(26) Esse parecer também deverá abordar as questões em que, numa primeira fase, ao abrigo do procedimento acelerado, não tenha sido possível estabelecer regras comuns que se sobeponham à variedade de regras nacionais divergentes e, por conseguinte, propõe-se que a aplicabilidade da legislação nacional dos Estados-Membros seja mantida, se for caso disso, durante um período de transição.\n\n(27) As medidas previstas no presente regulamento têm por base o parecer emitido pela Agência nos termos do artigo 17.º, n.º 2, alínea b), e do artigo 19.º, n.º 1, do Regulamento (CE) n.º 216/2008.\n\n(28) As medidas previstas no presente regulamento são conformes com o parecer do comité a que se refere o artigo 65.º do Regulamento (CE) n.º 216/2008,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "0adc1dfd2b93420b": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente regulamento tem por objectivo aumentar os padrões de segurança e melhorar o funcionamento do sistema de controlo do tráfego aéreo na União Europeia através da emissão de licenças de controlador de tráfego aéreo com base em requisitos comuns de licenciamento."
+  },
+  "0fa1fa3ceec943b9": {
+   "fragment_id": "Artigo 2.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece regras de execução para a emissão, suspensão e revogação das licenças de controlador de tráfego aéreo e de instruendo de controlo de tráfego aéreo, das qualificações, averbamentos e certificados médicos associados e dos certificados das organizações de formação, bem como as condições para a sua validade, renovação, revalidação e utilização.\n\n2. O presente regulamento aplica-se:\n\n(a) aos instruendos de controlo de tráfego aéreo;\n\n(b) aos controladores de tráfego aéreo que exercem as suas funções em conformidade com o Regulamento (CE) n.º 216/2008; e\n\n(c) às pessoas e organizações envolvidas no licenciamento, formação, avaliação, controlo ou avaliação médica dos candidatos em conformidade com o presente regulamento.\n\n3. Sob reserva do artigo 1.º, n.º 3, do Regulamento (CE) n.º 216/2008, os Estados-Membros devem assegurar, na medida do possível, que os serviços fornecidos ou disponibilizados ao público por militares, referidos no artigo 1.º, n.º 2, alínea c), desse regulamento, ofereçam um nível de segurança pelo menos equivalente ao nível exigido pelos requisitos essenciais definidos no anexo V-b desse regulamento.\n\n4. Com o objectivo de atingir um nível harmonizado de segurança no espaço aéreo da União Europeia, os Estados-Membros podem decidir aplicar o presente regulamento aos seus efectivos militares que prestam ao público os serviços mencionados no artigo 1.º, n.º 2, alínea c) do referido regulamento.\n\n5. Os serviços de controlo do tráfego aéreo abrangidos pelo Regulamento (CE) n.º 216/2008 só podem ser prestados por controladores titulares de licenças emitidas em conformidade com o presente regulamento."
+  },
+  "e8319be4932be1a4": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento entende-se por:\n\n1. «Serviço de controlo do tráfego aéreo», um serviço prestado para prevenir colisões entre aeronaves e, na área de manobra, entre as aeronaves e os obstáculos, e manter um fluxo ordenado e expedito de tráfego aéreo;\n\n2. «Prestadores de serviços de navegação aérea», qualquer entidade pública ou privada que presta serviços de navegação aérea ao tráfego aéreo geral;\n\n3. «Tráfego aéreo geral», todos os movimentos de aeronaves civis, bem como de aeronaves estatais (incluindo aeronaves militares, dos serviços aduaneiros e policiais), quando tais movimentos são efectuados em conformidade com os procedimentos da ICAO;\n\n4. «Licença», um certificado, seja qual for a sua denominação, emitido e aprovado nos termos do presente regulamento, que dá ao seu legítimo titular o direito de prestar serviços de controlo de tráfego aéreo de acordo com as qualificações e os averbamentos dele constantes;\n\n5. «Qualificação», a autorização inscrita na licença ou a ela associada e que dela faz parte integrante, que indica as condições, os privilégios ou as restrições específicos próprios dessa licença;\n\n6. «Averbamento de qualificação», a autorização inscrita numa licença e que dela faz parte integrante, que indica as condições, privilégios ou restrições específicos relacionados com a qualificação em causa;\n\n7. «Averbamento de órgão de controlo», a autorização inscrita numa licença e que dela faz parte integrante, que designa o indicador de local ICAO e os sectores e/ou posições operacionais em que o titular da licença está habilitado a trabalhar;\n\n8. «Averbamento linguístico», a autorização inscrita numa licença e que dela faz parte integrante, que indica as competências linguísticas do titular;\n\n9. «Averbamento de instrutor», a autorização inscrita numa licença e que dela faz parte integrante, que indica a competência do titular para dar formação com tráfego real enquanto instrutor;\n\n10. «Indicador de local ICAO», o código de quatro letras formulado de acordo com as regras prescritas pela ICAO no seu manual DOC 7910 e atribuído ao local de uma estação aeronáutica fixa;\n\n11. «Sector», parte de uma área de controlo e/ou parte de uma região de informação de voo/região de informação de voo superior;\n\n12. «Formação», o conjunto completo de cursos teóricos, exercícios práticos, incluindo com simuladores, e formação com tráfego real, necessário para adquirir e manter competências específicas para prestar serviços de controlo de tráfego aéreo seguros e de alta qualidade. A formação consiste no seguinte: a) formação inicial, que engloba a formação básica e a formação para a qualificação, finda a qual se obtém uma licença de instruendo; b) formação operacional no órgão de controlo, que compreende uma fase de transição com tráfego simulado e uma fase com tráfego real, findas as quais se obtém uma licença de controlador de tráfego aéreo; c) formação contínua, que mantém válidos os averbamentos da licença; d) formação de instrutores para a formação com tráfego real, finda a qual se obtém um averbamento de instrutor; e) formação de titulares de licenças autorizados a exercer as funções de examinadores de competências e/ou avaliadores de competências em conformidade com o artigo 24.º;\n\na) formação inicial, que engloba a formação básica e a formação para a qualificação, finda a qual se obtém uma licença de instruendo;\n\nb) formação operacional no órgão de controlo, que compreende uma fase de transição com tráfego simulado e uma fase com tráfego real, findas as quais se obtém uma licença de controlador de tráfego aéreo;\n\nc) formação contínua, que mantém válidos os averbamentos da licença;\n\nd) formação de instrutores para a formação com tráfego real, finda a qual se obtém um averbamento de instrutor;\n\ne) formação de titulares de licenças autorizados a exercer as funções de examinadores de competências e/ou avaliadores de competências em conformidade com o artigo 24.º;\n\n13. «Organização de formação», uma organização que tenha sido certificada pela autoridade competente para ministrar um ou mais tipos de formação;\n\n14. «Plano de competências do órgão de controlo», um plano aprovado que indica o método através do qual o órgão de controlo mantém a competência dos titulares de licenças que o integram;\n\n15. «Plano de formação no órgão de controlo», um plano aprovado que descreve pormenorizadamente os processos e o prazo necessários para autorizar a aplicação dos procedimentos locais do órgão de controlo, sob a supervisão de um instrutor encarregado da formação com tráfego real."
+  },
+  "5586e09b57476e37": {
+   "fragment_id": "Artigo 4.º — Autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade competente\n\nPara efeitos do presente regulamento, entende-se por «autoridade competente» a autoridade designada ou criada por cada Estado-Membro como autoridade supervisora nacional para assumir as funções que lhe são atribuídas pelo presente regulamento, com excepção da certificação das organizações de formação referidas no artigo 27.º, para a qual a autoridade competente será:\n\na) a autoridade designada ou criada pelo Estado-Membro em que a organização requerente tem o seu principal local de actividade ou, se for caso disso, a sua sede, salvo disposição em contrário de acordos bi- ou multilaterais entre Estados-Membros ou autoridades competentes;\n\nb) a Agência, caso a organização requerente possua o seu principal local de actividade ou, se for caso disso, a sua sede, fora do território dos Estados-Membros."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "1a8a79703526c891": {
+   "fragment_id": "LICENÇAS, QUALIFICAÇÕES E AVERBAMENTOS",
+   "type": "divisao",
+   "heading": "LICENÇAS, QUALIFICAÇÕES E AVERBAMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LICENÇAS, QUALIFICAÇÕES E AVERBAMENTOS"
+  },
+  "11cde1e743d16f40": {
+   "fragment_id": "Artigo 5.º — Pedido e emissão de licenças, qualificações e averbamentos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Pedido e emissão de licenças, qualificações e averbamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido e emissão de licenças, qualificações e averbamentos\n\n1. Um requerimento para emissão, revalidação ou renovação de licenças e das qualificações e/ou averbamentos associados deve ser apresentado à autoridade competente de acordo com o procedimento estabelecido por essa autoridade.\n\n2. O requerimento deve ser acompanhado por provas de que o requerente tem competência para exercer as funções de controlador de tráfego aéreo ou de instruendo de controlo de tráfego aéreo de acordo com os requisitos do presente regulamento. Os elementos que permitem provar a competência do requerente têm de incidir sobre os seus conhecimentos, experiência, competências e proficiência linguística.\n\n3. A licença deve conter todas as informações pertinentes sobre os privilégios concedidos por esse documento e cumprir as especificações constantes do anexo I.\n\n4. A licença é propriedade da pessoa a quem é atribuída e que a assina."
+  },
+  "752082ba29fef8fc": {
+   "fragment_id": "Artigo 6.º — Suspensão e revogação das licenças, qualificações e averbamentos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Suspensão e revogação das licenças, qualificações e averbamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Suspensão e revogação das licenças, qualificações e averbamentos\n\nEm conformidade com o artigo 22.º, n.º 2:\n\na) a licença, as qualificações ou os averbamentos podem ser suspensos quando existirem dúvidas quanto à competência do controlador de tráfego aéreo ou em caso de conduta irregular;\n\nb) a licença pode ser revogada sempre que se verifiquem casos de negligência grave ou abuso."
+  },
+  "edb428cd739d760d": {
+   "fragment_id": "Artigo 7.º — Exercício dos privilégios decorrentes das licenças",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Exercício dos privilégios decorrentes das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exercício dos privilégios decorrentes das licenças\n\nO exercício dos privilégios conferidos por uma licença depende da validade das qualificações, dos averbamentos e do certificado médico."
+  },
+  "d2e0aaad0ae8e089": {
+   "fragment_id": "Artigo 8.º — Licença de instruendo de controlo de tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Licença de instruendo de controlo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença de instruendo de controlo de tráfego aéreo\n\n1. A licença de instruendo de controlo de tráfego aéreo autoriza o seu titular a prestar serviços de controlo de tráfego aéreo sob a supervisão de um instrutor responsável pela formação com tráfego real, em conformidade com as qualificações e averbamentos de qualificação constantes da respectiva licença.\n\n2. Os requerentes de uma licença de instruendo de controlo de tráfego aéreo devem:\n\na) ter completado 18 anos;\n\nb) possuir, no mínimo, um diploma que garanta o acesso à universidade ou grau de estudos equivalente, ou qualquer outro diploma do ensino secundário que lhes permita concluir a sua formação de controlador de tráfego aéreo;\n\nc) ter concluído com aproveitamento uma formação inicial homologada pertinente para a qualificação e, se for caso disso, para o averbamento da qualificação, como previsto na parte A do anexo II;\n\nd) possuir um certificado médico válido;\n\ne) ter demonstrado um nível adequado de proficiência linguística, de acordo com os requisitos enunciados no artigo 13.º.\n\n3. A licença de instruendo incluirá o(s) averbamento(s) linguístico(s) e, pelo menos, uma qualificação e, se for caso disso, um averbamento de qualificação."
+  },
+  "ca65244410fc8ae2": {
+   "fragment_id": "Artigo 9.º — Licença de controlador de tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Licença de controlador de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Licença de controlador de tráfego aéreo\n\n1. O titular de uma licença de controlador de tráfego aéreo é autorizado a prestar serviços de controlo de tráfego aéreo de acordo com as qualificações e averbamentos constantes da licença.\n\n2. Os privilégios de uma licença de controlador de tráfego aéreo incluem os privilégios de uma licença de instruendo de controlo de tráfego aéreo, tal como referidos no artigo 8.º, n.º 1.\n\n3. O requerente de uma licença de controlador de tráfego aéreo deve:\n\na) ter completado 21 anos; os Estados-Membros podem, no entanto, prever um limite de idade inferior em casos devidamente justificados;\n\nb) ser titular de uma licença de instruendo de controlo de tráfego aéreo;\n\nc) ter concluído um plano homologado de formação operacional no órgão de controlo e obtido aprovação nos exames ou avaliações adequados, de acordo com os requisitos previstos na parte B do anexo II;\n\nd) possuir um certificado médico válido;\n\ne) ter demonstrado um nível adequado de proficiência linguística, de acordo com os requisitos enunciados no artigo 13.º.\n\n4. A licença de controlador de tráfego aéreo é validada mediante a inscrição de uma ou mais qualificações e dos averbamentos de qualificação, de órgão de controlo e linguísticos pertinentes em relação aos quais a formação tenha sido concluída com aproveitamento."
+  },
+  "e06722895c6ac109": {
+   "fragment_id": "Artigo 10.º — Qualificações do controlador de tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Qualificações do controlador de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Qualificações do controlador de tráfego aéreo\n\n1. As licenças incluem uma ou mais das seguintes qualificações, de modo a indicar o tipo de serviço que o titular da licença pode prestar:\n\na) A qualificação «Controlo de Aeródromo Visual» [*Aerodrome Control Visual* (ADV)], que indica que o titular da licença tem competência para prestar um serviço de controlo de tráfego aéreo para o tráfego de aeródromo num aeródromo para o qual não existam procedimentos publicados de aproximação ou descolagem por instrumentos;\n\nb) A qualificação «Controlo de Aeródromo por Instrumentos» [*Aerodrome Control Instrument* (ADI)], que indica que o titular da licença tem competência para prestar um serviço de controlo de tráfego aéreo para o tráfego de aeródromo num aeródromo para o qual existam procedimentos publicados de aproximação ou descolagem por instrumentos, e tem de conter, pelo menos, um dos averbamentos de qualificação descritos no artigo 11.º, n.º 1;\n\nc) A qualificação «Controlo de Aproximação Convencional» [*Approach Control Procedural* (APP)], que indica que o titular da licença tem competência para prestar serviços de controlo de tráfego aéreo nas fases de chegada, partida e trânsito das aeronaves sem utilizar equipamentos de vigilância;\n\nd) A qualificação «Controlo de Aproximação de Vigilância» (*Approach Control Surveillance* -APS), que indica que o titular da licença tem competência para prestar serviços de controlo de tráfego aéreo às aeronaves nas fases de chegada, partida e trânsito, utilizando equipamentos de vigilância, e tem de conter, pelo menos, um dos averbamentos de qualificação descritos no artigo 11.º, n.º 2;\n\ne) A qualificação «Controlo Regional Convencional» [*Area Control Procedural* (ACP)], que indica que o titular da licença tem competência para prestar serviços de controlo de tráfego aéreo às aeronaves sem utilizar equipamentos de vigilância;\n\n(f) A qualificação «Controlo Regional de Vigilância» [*Area Control Surveillance* (ACS)], que indica que o titular da licença tem competência para prestar serviços de controlo de tráfego aéreo às aeronaves utilizando equipamentos de vigilância e tem de conter, pelo menos, um dos averbamentos de qualificação descritos no artigo 11.º, n.º 3.\n\n2. O titular de uma qualificação que não tenha exercido os privilégios associados a essa qualificação durante um período de quatro anos consecutivos só pode encetar uma formação operacional no órgão de controlo nessa qualificação se, depois de devidamente avaliado, se concluir que continua a satisfazer as condições dessa qualificação e depois de cumpridas as exigências de formação que eventualmente resultem dessa avaliação."
+  },
+  "15aaf36872492767": {
+   "fragment_id": "Artigo 11.º — Averbamentos de qualificação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Averbamentos de qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Averbamentos de qualificação\n\n1. A qualificação «Controlo de Aeródromo por Instrumentos» (*Aerodrome Control Instrument* - ADI) tem de conter, pelo menos, um dos seguintes averbamentos:\n\na) «Controlo de Torre» (*Tower Control* - TWR), que indica que o titular tem competência para prestar serviços de controlo quando o controlo do aeródromo é efectuado a partir de uma posição de trabalho;\n\nb) «Controlo de Movimentos no Solo» (*Ground Movement Control* - GMC), que indica que o titular da licença tem competência para efectuar o controlo de movimentos no solo;\n\nc) «Vigilância de Movimentos no Solo» (*Ground Movement Surveillance* - GMS), concedido como complemento do averbamento «Controlo de Movimentos no Solo» ou do averbamento «Controlo de Torre», que indica que o titular tem competência para efectuar o controlo dos movimentos no solo com a ajuda de sistemas aeroportuários de orientação dos movimentos no solo;\n\nd) «Controlo no ar» (*Air Control* - AIR), que indica que o titular da licença tem competência para efectuar o controlo aéreo;\n\ne) «Radar» (*Aerodrome Radar Control* - RAD), concedido como complemento do averbamento «Controlo no ar» ou «Controlo de Torre», que indica que o titular da licença tem competência para efectuar o controlo do aeródromo com a ajuda de equipamentos de vigilância por radar.\n\n2. A qualificação «Controlo de Aproximação de Vigilância» [*Approach Control Surveillance* (APS)] tem de conter, pelo menos, um dos seguintes averbamentos:\n\na) «Radar» (RAD), que indica que o titular da licença tem competência para prestar um serviço de controlo de aproximação utilizando equipamentos de radar primários e/ou secundários;\n\nb) «Aproximação Radar de Precisão» (*Precision Approach Radar* - PAR), concedido como complemento do averbamento «Radar», que indica que o titular da licença tem competência para prestar serviços de controlo em terra de aproximações de precisão, utilizando equipamentos de radar que visam a precisão na fase final de aproximação à pista;\n\nc) «Aproximação de Vigilância Radar» [*Surveillance Radar Approach* (SRA)], concedido como complemento do averbamento «Radar», que indica que o titular tem competência para prestar às aeronaves serviços de controlo em terra de aproximações de não precisão, utilizando equipamentos de vigilância na fase final de aproximação à pista;\n\nd) «Vigilância Automática Dependente» [*Automatic Dependent Surveillance* (ADS)], que indica que o titular tem competência para prestar um serviço de controlo de aproximação utilizando sistemas de vigilância automática dependente;\n\ne) «Controlo Terminal» (*Terminal Control* - TCL), concedido como complemento dos averbamentos «Radar» ou «Vigilância Automática Dependente», que indica que o titular tem competência para prestar serviços de controlo de tráfego aéreo às aeronaves que operam numa área terminal especificada e/ou sectores adjacentes, utilizando quaisquer equipamentos de vigilância.\n\n3. A qualificação «Controlo Regional de Vigilância» [*Area Control Surveillance* (ACS)] tem de conter, pelo menos, um dos seguintes averbamentos:\n\na) «Radar» (RAD), que indica que o titular tem competência para prestar serviços de controlo de área utilizando equipamentos de vigilância por radar;\n\nb) «Vigilância Automática Dependente» (*Automatic Dependent Surveillance* - ADS), que indica que o titular tem competência para prestar serviços de controlo regional utilizando o sistema de vigilância automática dependente;\n\nc) «Controlo Terminal» (*Terminal Control* - TCL), concedido como complemento dos averbamentos «Radar» ou «Vigilância Automática Dependente», que indica que o titular tem competência para prestar serviços de controlo de tráfego aéreo às aeronaves que operam numa área terminal especificada e/ou sectores adjacentes, utilizando quaisquer equipamentos de vigilância;\n\nd) «Controlo Oceânico» (*Oceanic Control* - OCN), que indica que o titular tem competência para prestar serviços de controlo de tráfego aéreo às aeronaves que operam numa Área de Controlo Oceânico.\n\n4. O titular de um averbamento de qualificação que não tenha exercido os privilégios associados a esse averbamento durante um período de quatro anos consecutivos só pode iniciar uma formação operacional no órgão de controlo nesse averbamento se, depois de devidamente avaliado, se concluir que continua a satisfazer as condições dessa qualificação e depois de cumpridas as exigências de formação que eventualmente resultem dessa avaliação."
+  },
+  "e7e8974814a159f4": {
+   "fragment_id": "Artigo 12.º — Averbamentos de órgão de controlo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Averbamentos de órgão de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Averbamentos de órgão de controlo\n\n1. O averbamento de órgão de controlo indica que o titular da licença tem competência para a prestação de serviços de controlo do tráfego aéreo num determinado sector, grupo de sectores ou posições de trabalho sob a responsabilidade de um órgão de controlo de serviços de tráfego aéreo.\n\n2. Os averbamentos de órgão de controlo são válidos por um período inicial de 12 meses.\n\n3. A validade desses averbamentos será prolongada por mais 12 meses para além do período previsto no n.º 2, se o prestador de serviços de navegação aérea demonstrar à autoridade competente que:\n\na) o requerente exerceu, nos 12 meses anteriores, os privilégios da licença durante um número mínimo de horas, como indicado no plano aprovado de competências do órgão de controlo;\n\nb) a competência do requerente foi avaliada segundo as normas previstas na parte C do anexo II; e\n\nc) o requerente possui um certificado médico válido.\n\nPara efeitos de aplicação do disposto na alínea a) do primeiro parágrafo, os órgãos de controlo operacionais dos prestadores de serviços de navegação aérea devem manter registos das horas de trabalho efectivo nos sectores, grupos de sectores ou posições de trabalho de cada titular de licença que trabalhe no órgão e fornecer esses dados às autoridades competentes e aos titulares de licença que os solicitem.\n\n4. Para os instrutores responsáveis pela formação em situação de tráfego real, o número mínimo de horas de trabalho, excluindo as tarefas de instrução, necessário para manter a validade do averbamento poderá ser reduzido na proporção do tempo gasto com os instruendos nas posições de trabalho para as quais o prolongamento tenha sido requerido, tal como indicado no plano aprovado de competências do órgão de controlo.\n\n5. Quando cessa a validade de um averbamento de órgão de controlo, deve ser concluído com aproveitamento um plano de formação operacional no órgão de controlo para revalidar o averbamento."
+  },
+  "7cb27649ee404df6": {
+   "fragment_id": "Artigo 13.º — Averbamentos linguísticos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Averbamentos linguísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Averbamentos linguísticos\n\n1. Os controladores de tráfego aéreo e os instruendos de controlo de tráfego aéreo não podem exercer os privilégios previstos na sua licença se não tiverem averbada a competência em língua inglesa.\n\n2. Os Estados-Membros podem impor requisitos linguísticos locais, se tal for considerado necessário por razões de segurança.\n\nTais requisitos serão não discriminatórios, proporcionados e transparentes e serão notificados à Agência o mais depressa possível.\n\n3. Para efeitos dos n.^os^ 1 e 2, o requerente de um averbamento linguístico deve demonstrar uma competência correspondente pelo menos ao nível operacional (nível 4) de proficiência linguística, quer em termos de utilização de fraseologia especializada quer de utilização da linguagem corrente.\n\nPara tal, o requerente deve ser capaz de:\n\na) comunicar eficazmente tanto em situações não presenciais de forma exclusivamente vocal (telefone/radiotelefone) como em situações presenciais;\n\nb) comunicar sobre temas correntes, concretos e profissionais com precisão e clareza;\n\nc) utilizar estratégias de comunicação apropriadas para trocar mensagens e reconhecer e resolver mal-entendidos num contexto geral ou profissional;\n\nd) resolver e responder com relativa facilidade aos desafios linguísticos apresentados por complicações ou situações imprevistas surgidas no contexto de uma situação de trabalho de rotina ou de tarefa de comunicação que lhe é normalmente familiar; e\n\ne) utilizar um dialecto ou sotaque compreensível para a comunidade aeronáutica.\n\n4. O nível de proficiência linguística será classificado de acordo com a escala de classificação constante do anexo III.\n\n5. Sem prejuízo do disposto no n.º 3, o prestador de serviços de navegação aérea pode exigir o nível avançado (nível 5) da escala de classificação constante do anexo III para aplicação do número 1 e 2, nos casos em que, por razões imperativas de segurança, as circunstâncias operacionais da qualificação ou do averbamento em causa justifiquem um nível mais elevado. Tal exigência será não discriminatória, proporcionada, transparente e objectivamente justificada pelo prestador de serviços de navegação aérea que pretende aplicar um nível superior de proficiência linguística, devendo ainda ser aprovada pela autoridade competente.\n\n6. A proficiência linguística do requerente deve ser objecto de uma avaliação oficial periódica.\n\nExcepto para os requerentes que tenham demonstrado uma competência linguística de nível superior (nível 6) de acordo com o anexo III, o averbamento linguístico é válido por um período renovável de:\n\na) três anos, se o nível demonstrado for o nível operacional (nível 4) de acordo com o anexo III ou\n\nb) seis anos, se o nível demonstrado for o nível avançado (nível 5) de acordo com o anexo III.\n\n7. A proficiência linguística é demonstrada por um certificado emitido após um processo de avaliação transparente e objectivo, aprovado pela autoridade competente."
+  },
+  "c2569b6ff1f3e111": {
+   "fragment_id": "Artigo 14.º — Averbamento de instrutor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Averbamento de instrutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Averbamento de instrutor\n\n1. O titular de um averbamento de instrutor está autorizado a supervisionar e dar formação operacional, numa posição de trabalho, nos domínios abrangidos por um averbamento válido de órgão de controlo.\n\n2. O requerente de um averbamento de instrutor deve:\n\na) ser titular de uma licença de controlador de tráfego aéreo;\n\nb) ter exercido os privilégios conferidos por uma licença de controlador de tráfego aéreo num período imediatamente anterior de um ano, no mínimo, ou num período superior fixado pela autoridade competente tendo em conta as qualificações e averbamentos correspondentes à instrução ministrada; e\n\nc) ter concluído com aproveitamento um curso homologado de instrutor encarregado da formação em situação de tráfego real, durante o qual tenham sido avaliados através de exames adequados os conhecimentos e habilitações pedagógicas necessários.\n\n3. O averbamento de instrutor é válido por um período renovável de três anos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "1f6592881332c6c1": {
+   "fragment_id": "CERTIFICAÇÃO MÉDICA",
+   "type": "divisao",
+   "heading": "CERTIFICAÇÃO MÉDICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICAÇÃO MÉDICA"
+  },
+  "d4caab3a555c9485": {
+   "fragment_id": "Artigo 15.º — Pedido e emissão de certificados médicos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Pedido e emissão de certificados médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pedido e emissão de certificados médicos\n\n1. Os pedidos de emissão, revalidação ou renovação de certificados médicos devem ser apresentados à autoridade competente de acordo com o procedimento estabelecido por essa autoridade.\n\n2. Os certificados médicos são emitidos por um organismo médico competente da autoridade competente ou por examinadores médicos aeronáuticos ou centros de medicina aeronáutica aprovados por essa autoridade.\n\n3. A emissão dos certificados médicos é feita de acordo com o disposto no anexo I da Convenção de Chicago sobre Aviação Civil Internacional e com os requisitos para a obtenção do certificado médico europeu da classe 3 pelos controladores de tráfego aéreo, estabelecidos pelo Eurocontrol.\n\n4. As autoridades competentes garantem o estabelecimento de procedimentos eficazes de revisão ou recurso com a participação adequada de consultores médicos independentes."
+  },
+  "d2ad961359c0f177": {
+   "fragment_id": "Artigo 16.º — Validade dos certificados médicos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Validade dos certificados médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Validade dos certificados médicos\n\n1. Os certificados médicos são válidos por um período de:\n\na) 24 meses, enquanto o controlador de tráfego aéreo não completar 40 anos de idade;\n\nb) 12 meses após os 40 anos de idade.\n\n2. Os períodos mencionados no n.º 1 são calculados a contar da data do exame médico no caso da primeira emissão e da renovação de um certificado médico e, no caso da revalidação, a contar da data de expiração do mais recente certificado médico.\n\n3. Os exames para a revalidação de um certificado médico podem ser efectuados até 45 dias antes da sua data de expiração.\n\n4. Se, até à data de expiração de um certificado, o controlador de tráfego aéreo não se submeter a um exame para revalidação, é obrigatório um exame para renovação.\n\n5. O certificado médico pode ser limitado, suspenso ou revogado a qualquer momento, caso o estado de saúde do titular assim o exija."
+  },
+  "233c0cc85088fa10": {
+   "fragment_id": "Artigo 17.º — Diminuição da aptidão física ou mental",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Diminuição da aptidão física ou mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Diminuição da aptidão física ou mental\n\n1. Os titulares de uma licença devem:\n\na) abster-se de exercer os privilégios conferidos pela respectiva licença se, em qualquer altura, notarem uma degradação da sua condição física que os incapacite para exercerem devidamente e com segurança os privilégios previstos na licença.\n\nb) informar os serviços de navegação aérea competentes de que notam uma degradação da sua condição física ou de que estão sob a influência de alguma substância psicoactiva ou medicamento que os pode incapacitar para exercerem devidamente e com segurança os privilégios previstos na licença.\n\n2. Os prestadores de serviços de navegação aérea estabelecem procedimentos para gerir o impacto a nível operacional dos casos de diminuição da aptidão física ou mental e informam a autoridade competente quando um titular de uma licença seja considerado medicamente inapto.\n\n3. Os procedimentos referidos no n.º 2 são aprovados pela autoridade competente."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "950e705c4a298c21": {
+   "fragment_id": "REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES DE FORMAÇÃO",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES DE FORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES DE FORMAÇÃO"
+  },
+  "388e5b40288ff692": {
+   "fragment_id": "Artigo 18.º — Certificação das organizações de formação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Certificação das organizações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Certificação das organizações de formação\n\n1. Os pedidos de certificação das organizações de formação são apresentados à autoridade competente de acordo com o procedimento estabelecido pela mesma autoridade.\n\n2. As organizações de formação devem provar que dispõem de pessoal e equipamento adequado e funcionam num ambiente apropriado para a prestação da formação necessária para obter ou manter licenças de instruendo de controlo de tráfego aéreo e licenças de controlador de tráfego aéreo.\n\n3. As organizações de formação devem permitir o acesso de pessoas autorizadas pela autoridade competente às instalações pertinentes, para examinarem os registos, dados e procedimentos relevantes e qualquer outro material relevante para a exercício das funções da autoridade competente."
+  },
+  "f19d4c20ba15b709": {
+   "fragment_id": "Artigo 19.º — Sistema de gestão das organizações de formação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Sistema de gestão das organizações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sistema de gestão das organizações de formação\n\nAs organizações de formação devem:\n\na) dispor de um sistema de gestão eficaz e de pessoal em número suficiente e com qualificações e experiência adequadas para ministrar uma formação conforme com o presente regulamento;\n\nb) definir claramente linhas de responsabilidade pela segurança em toda a organização de formação homologada, incluindo uma responsabilidade directa pela segurança por parte da direcção;\n\nc) dispor de instalações, equipamento e locais apropriados para o tipo de formação a ministrar;\n\nd) fornecer prova da existência de um sistema de gestão da qualidade que é parte integrante do sistema de gestão instaurado para controlar a conformidade e a adequação dos sistemas e procedimentos que garantem que os serviços de formação prestados satisfazem os requisitos estipulados no presente regulamento;\n\ne) prever um sistema de registo que permita armazenar adequadamente e rastrear de forma fiável as actividades relevantes;\n\nf) demonstrar a existência de financiamento suficiente para conduzir a formação em conformidade com o presente regulamento e de um seguro suficiente para cobrir os riscos das actividades que desenvolvem, de acordo com a natureza da formação ministrada."
+  },
+  "d332bb9f30687d5c": {
+   "fragment_id": "Artigo 20.º — Requisitos para os cursos de formação, para os planos de formação inicial e operacional no órgão de controlo e para os planos de competências do órgão de controlo",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Requisitos para os cursos de formação, para os planos de formação inicial e operacional no órgão de controlo e para os planos de competências do órgão de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Requisitos para os cursos de formação, para os planos de formação inicial e operacional no órgão de controlo e para os planos de competências do órgão de controlo\n\n1. As organizações de formação comunicam à autoridade competente o método utilizado para definir detalhadamente o conteúdo, a organização e a duração dos cursos de formação, e, se for caso disso, dos planos de formação operacional no órgão de controlo e dos planos de competências do órgão de controlo.\n\n2. O mesmo se exige sobre o modo como os exames ou avaliações são organizados. No que diz respeito aos exames relativos à formação inicial, incluindo a formação em simulador, as qualificações dos examinadores e avaliadores devem ser pormenorizadamente indicadas."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "a421ee0fe38640b5": {
+   "fragment_id": "REQUISITOS APLICÁVEIS ÀS AUTORIDADES COMPETENTES",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS ÀS AUTORIDADES COMPETENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS ÀS AUTORIDADES COMPETENTES"
+  },
+  "95065371e84e11f3": {
+   "fragment_id": "Artigo 21.º — Independência da autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Independência da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Independência da autoridade competente\n\n1. As autoridades competentes são independentes dos prestadores de serviços de navegação aérea e das organizações de formação. Essa independência é garantida pela separação adequada, pelo menos a nível funcional, entre as autoridades competentes e aqueles prestadores de serviços. Os Estados-Membros devem garantir que as autoridades competentes exerçam as suas atribuições de modo imparcial e transparente.\n\n2. Os Estados-Membros comunicam à Agência os nomes e endereços das autoridades competentes, bem como eventuais alterações dos mesmos."
+  },
+  "80eca6c01b21de2a": {
+   "fragment_id": "Artigo 22.º — Atribuições das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Atribuições das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições das autoridades competentes\n\n1. Para garantir os níveis de competência indispensáveis para que os controladores de tráfego aéreo desempenhem as suas funções segundo padrões de segurança elevados, as autoridades competentes garantem a supervisão e o controlo da sua formação.\n\n2. As suas funções incluem:\n\na) a emissão e revogação de licenças, qualificações e averbamentos em relação aos quais a formação e avaliação apropriadas tenham sido concluídas no domínio de responsabilidade da autoridade competente;\n\nb) a revalidação, renovação e suspensão de qualificações e averbamentos cujos privilégios tenham sido exercidos sob a sua responsabilidade;\n\nc) a certificação das organizações de formação;\n\nd) a homologação dos cursos de formação, dos planos de formação operacional no órgão de controlo e dos planos de competências do órgão de controlo;\n\ne) a aprovação dos examinadores ou avaliadores de competências;\n\nf) o controlo e a auditoria dos sistemas de formação;\n\ng) o estabelecimento de mecanismos adequados de recurso e notificação;\n\nh) a aprovação da necessidade do nível avançado (nível 5) de competência linguística em conformidade com o artigo 13.º, n.º 5;\n\ni) a aprovação dos procedimentos relativos à diminuição da aptidão física e mental, em conformidade com o artigo 17.º, n.º 3."
+  },
+  "60d23d91f27b4886": {
+   "fragment_id": "Artigo 23.º — Emissão e manutenção de licenças, qualificações, averbamentos e certificados",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Emissão e manutenção de licenças, qualificações, averbamentos e certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Emissão e manutenção de licenças, qualificações, averbamentos e certificados\n\n1. A autoridade competente define os procedimentos em matéria de requerimentos e de emissão, renovação e revalidação das licenças e das qualificações, averbamentos e certificados médicos associados.\n\n2. Após recepção de um requerimento, a autoridade competente verifica se o requerente cumpre os requisitos do presente regulamento.\n\n3. Depois de comprovada a conformidade do requerente com os requisitos do presente regulamento, a autoridade competente emite, renova ou revalida a licença em causa ou a qualificação, o averbamento ou o certificado médico associados.\n\n4. A licença emitida pela autoridade competente inclui os elementos constantes do anexo I.\n\n5. Se emitida numa língua que não a inglesa, a licença tem de incluir uma tradução para inglês dos elementos enunciados no anexo I."
+  },
+  "6182500e1f711582": {
+   "fragment_id": "Artigo 24.º — Avaliação de competências",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Avaliação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação de competências\n\n1. As autoridades competentes aprovam os titulares de licenças habilitados a exercer funções de examinadores ou avaliadores de competências para a formação operacional no órgão de controlo e a formação contínua.\n\n2. A aprovação é válida por um período renovável de três anos."
+  },
+  "c0aaa5111697561d": {
+   "fragment_id": "Artigo 25.º — Conservação de registos",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Conservação de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conservação de registos\n\nAs autoridades competentes asseguram a manutenção de uma base de dados com as competências de todos os titulares de licenças sob a sua responsabilidade e a validade dos respectivos averbamentos."
+  },
+  "284580fe4908500e": {
+   "fragment_id": "Artigo 26.º — Troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Troca de informações\n\nNo respeito pelos princípios da confidencialidade mencionados no artigo 15.º, n.º 3, do Regulamento (CE) n.º 216/2008, as autoridades competentes trocam as informações adequadas e prestam-se assistência mútua para garantirem a aplicação efectiva do presente regulamento, em particular nos casos que envolvam a livre circulação de controladores de tráfego aéreo no espaço da União."
+  },
+  "fbd45c4ef2a9efe3": {
+   "fragment_id": "Artigo 27.º — Procedimento de certificação das organizações de formação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Procedimento de certificação das organizações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Procedimento de certificação das organizações de formação\n\n1. As autoridades competentes definem os procedimentos para o pedido, a emissão e a manutenção da validade dos certificados das organizações de formação.\n\n2. As autoridades competentes emitem os certificados, se a organização de formação requerente cumprir os requisitos previstos no Capítulo IV.\n\n3. O certificado pode ser emitido para um dado tipo de formação ou para uma combinação com outros serviços de navegação aérea, devendo, neste último caso, o tipo de formação e o tipo de serviço de navegação aérea ser certificados como um pacote de serviços.\n\n4. O certificado deve conter as informações previstas no anexo IV."
+  },
+  "b1457cd46f82de3c": {
+   "fragment_id": "Artigo 28.º — Monitorização das actividades das organizações de formação e medidas repressivas",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Monitorização das actividades das organizações de formação e medidas repressivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Monitorização das actividades das organizações de formação e medidas repressivas\n\n1. As autoridades competentes controlam o cumprimento dos requisitos e condições associados ao certificado da organização de formação.\n\n2. As autoridades competentes efectuam regularmente uma auditoria às organizações de formação, com vista a garantir o cumprimento efectivo das normas estabelecidas no presente regulamento.\n\n3. Para além da auditoria regular, as autoridades competentes podem realizar inspecções sem pré-aviso para verificarem o cumprimento dos requisitos estabelecidos pelo presente regulamento.\n\n4. Caso verifique que a organização de formação titular de um certificado deixou de satisfazer os requisitos ou condições do seu certificado, a autoridade competente toma as medidas repressivas adequadas, que podem incluir a retirada do certificado.\n\n5. Os certificados emitidos em conformidade com as disposições do presente regulamento serão mutuamente reconhecidos."
+  },
+  "a6e74ccce597d5e9": {
+   "fragment_id": "Artigo 29.º — Reconhecimento das licenças",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Reconhecimento das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reconhecimento das licenças\n\n1. Os Estados-Membros reconhecem as licenças de controlador de tráfego aéreo e de instruendo de controlo do tráfego aéreo e as qualificações, averbamentos de qualificações e averbamentos linguísticos associados, assim como os certificados médicos, emitidos pelos outros Estados-Membros em conformidade com o presente regulamento.\n\nNo entanto, se um Estado-Membro tiver estabelecido um limite de idade inferior a 21 anos, em conformidade com o artigo 9.º, n.º 3, o direito a exercer os privilégios do titular da licença de controlador de tráfego aéreo é limitado ao território do Estado-Membro que emitiu a licença até o titular completar 21 anos.\n\nNos casos em que exerça os privilégios conferidos pela licença num Estado-Membro que não aquele em que a licença foi emitida, o titular da licença tem o direito de trocar a sua licença por outra, emitida no Estado-Membro em que os privilégios são exercidos, sem que lhe sejam impostas quaisquer condições suplementares.\n\nPara conceder um averbamento de órgão de controlo, a autoridade competente exige ao requerente que satisfaça as condições particulares associadas a esse averbamento, especificando o órgão de controlo, o sector ou a posição de trabalho. Ao estabelecer o plano de formação operacional no órgão de controlo, a organização de formação tem na devida conta as competências adquiridas e a experiência do requerente.\n\n2. A autoridade competente aprova ou rejeita o plano de formação operacional no órgão de controlo do qual consta a formação proposta para o requerente o mais tardar seis semanas após a apresentação da documentação, sem prejuízo de atrasos provocados por recursos eventualmente interpostos. A autoridade competente garante o respeito dos princípios da não discriminação e da proporcionalidade."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "7dfd5b958fd42902": {
+   "fragment_id": "Artigo 30.º — Conformidade com os requisitos essenciais",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Conformidade com os requisitos essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conformidade com os requisitos essenciais\n\nA Agência efectua uma avaliação do sistema de licenciamento dos controladores de tráfego aéreo estabelecido pelo presente regulamento e de outras melhorias que sejam necessárias para promover uma «abordagem global do sistema de aviação» e garantir a conformidade total com os requisitos essenciais descritos no anexo V-b do Regulamento (CE) n.º 216/2008, com vista a apresentar um parecer à Comissão, incluindo possíveis alterações ao presente regulamento."
+  },
+  "66116b639f3e4e3a": {
+   "fragment_id": "Artigo 31.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Derrogações\n\n1. Por derrogação ao artigo 11.º do presente regulamento, os Estados-Membros que tenham previsto averbamentos nacionais de qualificação com base no artigo 7.º, n.º 4, da Directiva 2006/23/CE podem continuar a aplicar as disposições pertinentes da legislação nacional em vigor à data de entrada em vigor do presente regulamento.\n\n2. Por derrogação ao artigo 12.º do presente regulamento, os Estados-Membros que tenham previsto, com base no artigo 10.º da Directiva 2006/23/CE, que os privilégios decorrentes de um averbamento de órgão de controlo apenas podem ser exercidos pelos titulares de licenças até um determinado limite de idade podem continuar a aplicar as disposições pertinentes da legislação nacional em vigor à data de entrada em vigor do presente regulamento.\n\n3. Os Estados-Membros que decidam aplicar as derrogações previstas nos n.^os^ 1 e 2 devem notificar a Comissão e a Agência."
+  },
+  "68652418f599b16b": {
+   "fragment_id": "Artigo 32.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Disposições transitórias\n\n1. Por derrogação ao anexo II, parte A, do presente regulamento, as organizações de formação podem continuar a aplicar os planos de formação com base na edição de Dezembro de 2004 das «Orientações sobre o Conteúdo Essencial Comum da Formação Inicial de Controladores de Tráfego Aéreo» (*Guidelines for air traffic controllers Common Core Content Initial Training*) do Eurocontrol durante um período de um ano a contar da data de entrada em vigor do presente regulamento.\n\n2. Considera-se que as licenças, qualificações, averbamentos, certificados médicos e certificados de organização de formação emitidos em conformidade com as disposições pertinentes das legislações nacionais baseadas na Directiva 2006/23/CE à data de entrada em vigor do presente regulamento foram emitidos em conformidade com o presente regulamento.\n\n3. Os requerentes de uma licença, qualificação, averbamento, certificado médico ou certificado de organização de formação que tenham apresentado o seu requerimento antes da data de entrada em vigor do presente regulamento e que ainda não tenham obtido a licença, qualificação, averbamento, certificado médico ou certificado de organização de formação devem demonstrar a conformidade com as disposições do presente regulamento antes da emissão dos mesmos.\n\n4. A autoridade competente de um Estado-Membro à qual as organizações de formação sob a alçada da Agência enquanto autoridade competente, em conformidade com o artigo 4.º, tenham apresentado requerimento para a emissão de um certificado antes da data de entrada em vigor do presente regulamento finaliza o processo de certificação em coordenação com a Agência e transfere o processo para a Agência após a emissão do certificado.\n\n5. A autoridade competente de um Estado-Membro que tenha tido a responsabilidade de fiscalizar a segurança das organizações de formação sob a alçada da Agência enquanto autoridade competente, em conformidade com o artigo 4.º, transfere para a Agência a função de fiscalização da segurança dessas organizações seis meses após a data de entrada em vigor do presente regulamento."
+  },
+  "f272c853072531fb": {
+   "fragment_id": "Artigo 33.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 10 de Agosto de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "2f50de03254ee5bd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc1-L_2011206PT.01002101-E0001) [JO L 79 de 19.3.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc2-L_2011206PT.01002101-E0002) Regulamento (CE) n.º 1070/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009, que altera os Regulamentos (CE) n.º 549/2004, (CE) n.º 550/2004, (CE) n.º 551/2004 e (CE) n.º 552/2004 a fim de melhorar o desempenho e a sustentabilidade do sistema de aviação europeu ([JO L 300 de 14.11.2009, p. 34](http://publications.europa.eu/resource/oj/JOL_2009_300_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc3-L_2011206PT.01002101-E0003) [JO L 114 de 27.4.2006, p. 22](http://publications.europa.eu/resource/oj/JOL_2006_114_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc4-L_2011206PT.01002101-E0004) [JO L 309 de 24.11.2009, p. 51](http://publications.europa.eu/resource/oj/JOL_2009_309_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc5-L_2011206PT.01002101-E0005) [JO L 96 de 31.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc6-L_2011206PT.01002101-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1#ntc7-L_2011206PT.01002101-E0007) [JO L 225 de 12.8.1998, p. 27](http://publications.europa.eu/resource/oj/JOL_1998_225_R_TOC)."
+  }
+ }
+}

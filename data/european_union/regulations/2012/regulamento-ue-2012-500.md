@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-500.versoes.json
+  count: 1
+  source_lastmod: '2016-10-06'
+  versions:
+  - date: '2012-06-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0500
   eli: http://data.europa.eu/eli/reg/2012/500/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e0135fa4-5c5f-4847-8aba-bbbfde06f09a.0012
   content_url: http://publications.europa.eu/resource/cellar/e0135fa4-5c5f-4847-8aba-bbbfde06f09a.0012.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:53Z'
+  retrieved_at: '2026-10-22T15:59:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T08:54:20.372+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:53Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:32Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-500.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -123,21 +132,21 @@ relationships:
   date: '2016-09-16'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:53Z'
+  checked_at: '2026-10-22T15:59:32Z'
   warnings:
-  - Versão consolidada 02012R0500-20161006 indisponível (Sem expressão na língua por para CELEX 02012R0500-20161006.); usado
-    o texto do JO.
+  - '02012R0500-20120623: versão indisponível (Sem expressão na língua por para CELEX 02012R0500-20120623.)'
+  - '02012R0500-20161006: versão indisponível (Sem expressão na língua por para CELEX 02012R0500-20161006.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 500/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. ° 500/2012 do Parlamento Europeu e do Conselho, de 13 de junho de 2012
 
 de 13 de junho de 2012
 

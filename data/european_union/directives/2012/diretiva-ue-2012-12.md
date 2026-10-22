@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-04-27'
+version_history:
+  file: diretiva-ue-2012-12.versoes.json
+  count: 1
+  source_lastmod: '2012-04-27'
+  versions:
+  - date: '2012-04-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012L0012
   eli: http://data.europa.eu/eli/dir/2012/12/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7fcd07c6-cf45-4ebe-8562-b9259635d88c.0010
   content_url: http://publications.europa.eu/resource/cellar/44a2bcb4-74d4-4bda-8baf-5b4debcf847e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0012-20120427
-  retrieved_at: '2026-10-22T02:59:52Z'
+  retrieved_at: '2026-10-22T15:58:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T02:11:19.392+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:52Z'
-  notes: Texto consolidado 02012L0012-20120427.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:34Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2012-12.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,29 +142,19 @@ relationships:
   date: '2019-03-07'
 article_structure:
   article_count: 5
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:52Z'
+  checked_at: '2026-10-22T15:58:34Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2012/12/EU do Parlamento Europeu e do Conselho, de 19 de abril de 2012
-
-> 2012L0012 — PT — 27.04.2012 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012L0012R%2801%29) — [Rectificação, JO L 031, 31.1.2013, p. 83 (2012/12)](http://publications.europa.eu/resource/celex/32012L0012R%2801%29)
-
-## DIRETIVA 2012/12/EU DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de abril de 2012
 

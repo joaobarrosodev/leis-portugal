@@ -35,6 +35,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-08-01'
+version_history:
+  file: regulamento-ue-2011-492.versoes.json
+  count: 5
+  source_lastmod: '2021-08-01'
+  versions:
+  - date: '2011-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-05-12'
+    amending: eu:celex:32016R0589:por
+    amending_title: REGULAMENTO (UE) 2016/589 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 13.º
+    - Altera Artigo 42.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 38.º
+  - date: '2018-05-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 13.º
+    - Altera Notas
+  - date: '2019-07-31'
+    amending: eu:celex:32019R1149:por
+    amending_title: REGULAMENTO (UE) 2019/1149 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita REGULAMENTO REVOGADO COM A LISTA DAS SUCESSIVAS ALTERAÇÕES
+    - Adita Tabela de correspondência
+  - date: '2021-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 26.º
+    - Altera Notas
+    - Suprime Artigo 29.º
+    - Suprime Artigo 30.º
+    - Suprime Artigo 31.º
+    - Suprime Artigo 32.º
+    - Suprime Artigo 33.º
+    - Suprime Artigo 34.º
 identifiers:
   celex: 32011R0492
   eli: http://data.europa.eu/eli/reg/2011/492/oj
@@ -49,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/41e24e15-dbd6-44b6-935b-950b289d7664.0022
   content_url: http://publications.europa.eu/resource/cellar/7045452e-f479-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0492-20210801
-  retrieved_at: '2026-10-22T03:15:48Z'
+  retrieved_at: '2026-10-22T15:51:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T12:20:19.918+02:00'
 integrity:
@@ -58,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:48Z'
-  notes: Texto consolidado 02011R0492-20210801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:54Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2011-492.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -260,30 +323,19 @@ relationships:
   date: '1992-08-26'
 article_structure:
   article_count: 26
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:48Z'
+  checked_at: '2026-10-22T15:51:54Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 492/2011 do Parlamento Europeu e do Conselho, de 5 de Abril de 2011
-
-> 02011R0492 — PT — 01.08.2021 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R0589) — [REGULAMENTO (UE) 2016/589 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0589) — L 107 — 1 — 22.4.2016
-- [►M2](http://publications.europa.eu/resource/celex/32019R1149) — [REGULAMENTO (UE) 2019/1149 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1149) — L 186 — 21 — 11.7.2019
-
-## REGULAMENTO (UE) N.º 492/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Abril de 2011
 

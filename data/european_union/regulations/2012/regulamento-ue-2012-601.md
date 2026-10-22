@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2012-601.versoes.json
+  count: 2
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2012-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime SECÇÃO 1
+    - Suprime Objeto e definições
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito
+    - Suprime Artigo 3.º — Definições
+    - Suprime SECÇÃO 2
+    - Suprime Princípios gerais
+    - Suprime Artigo 4.º — Obrigação geral
+    - Suprime Artigo 5.º — Exaustividade
+    - Suprime Artigo 6.º — Coerência, comparabilidade e transparência
+    - Suprime Artigo 7.º — Exatidão
+    - Suprime Artigo 8.º — Integridade da metodologia
+    - Suprime Artigo 9.º — Melhoria contínua
+    - Suprime Artigo 10.º — Coordenação
+    - Suprime CAPÍTULO II
+    - Suprime PLANO DE MONITORIZAÇÃO
+    - Suprime Regras gerais
+    - Suprime Artigo 11.º — Obrigação geral
+    - Suprime Artigo 12.º — Conteúdo e transmissão do plano de monitorização
+    - Suprime Artigo 13.º — Planos de monitorização normalizados e simplificados
+    - Suprime Artigo 14.º — Alterações ao plano de monitorização
+    - Suprime Artigo 15.º — Aprovação de alterações ao plano de monitorização
+    - Suprime Artigo 16.º — Aplicação e manutenção de registo de alterações
+    - Suprime Viabilidade técnica e custos excessivos
+    - Suprime Artigo 17.º — Viabilidade técnica
+    - Suprime Artigo 18.º — Custos excessivos
+    - Suprime CAPÍTULO III
+    - Suprime MONITORIZAÇÃO DAS EMISSÕES DE INSTALAÇÕES FIXAS
+    - Suprime Disposições gerais
+    - Suprime Artigo 19.º — Classificação das instalações e fluxos-fonte
+    - Suprime Artigo 20.º — Fronteiras de monitorização
+    - Suprime Artigo 21.º — Escolha da metodologia de monitorização
+    - Suprime Artigo 22.º — Metodologia de monitorização não baseada em níveis
+    - Suprime Artigo 23.º — Alterações temporárias ao plano de monitorização
+    - Suprime Metodologia baseada no cálculo
+    - Suprime Subsecção 1
+    - Suprime Artigo 24.º — Cálculo das emissões no âmbito da metodologia normalizada
 identifiers:
   celex: 32012R0601
   eli: http://data.europa.eu/eli/reg/2012/601/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a025c83e-c7f9-4f94-87bb-3522f4ff930d.0008
   content_url: http://publications.europa.eu/resource/cellar/c7001dff-3b2e-11eb-b27b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0601-20210101
-  retrieved_at: '2026-10-22T02:42:58Z'
+  retrieved_at: '2026-10-22T15:59:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T10:44:22.355+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:58Z'
-  notes: Texto consolidado 02012R0601-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:53Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2012-601.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -213,16 +266,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:58Z'
+  checked_at: '2026-10-22T15:59:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02012R0601-20120801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0601-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0601-20140730: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0601-20190101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -36,6 +36,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-20'
+version_history:
+  file: diretiva-ue-2012-29.versoes.json
+  count: 2
+  source_lastmod: '2026-07-20'
+  versions:
+  - date: '2012-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-20'
+    amending: eu:celex:32026L1472:por
+    amending_title: DIRETIVA (UE) 2026/1472 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Direito de receber informações sobre o processo
+    - Altera Artigo 7.º — Direito a interpretação e a tradução
+    - Altera Artigo 8.º — Direito de acesso aos serviços de apoio às vítimas
+    - Altera Artigo 9.º — Apoio dos serviços de apoio às vítimas
+    - Altera Artigo 13.º — Direito a apoio judiciário
+    - Altera Artigo 16.º — Direito a uma decisão de indemnização pelo autor do crime durante o processo penal
+    - Altera Artigo 17.º — Direitos das vítimas residentes noutro Estado-Membro
+    - Altera Artigo 23.º — Direito a proteção das vítimas com necessidades específicas de proteção durante o processo penal
+    - Altera Artigo 24.º — Direito das crianças vítimas a proteção durante o processo penal
+    - Altera Artigo 25.º — Formação dos profissionais
+    - Altera Artigo 26.º — Cooperação e coordenação dos serviços
+    - Altera Artigo 28.º — Comunicação de dados e estatísticas
+    - Altera Artigo 32.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 3.º-A — Linhas de apoio para vítimas
+    - Adita Artigo 5.º-A — Denúncias de crimes
+    - Adita Artigo 9.º-A — Serviços de apoio personalizados e integrados para crianças vítimas
+    - Adita Artigo 10.º-A — Direito a assistência nas instalações dos tribunais
+    - Adita Artigo 10.º-B — Direito à informação relativamente a decisões tomadas durante os processos judiciais e direito
+      ao reexame
+    - Adita Artigo 18.º-A — Direito adicional à proteção
+    - Adita Artigo 19.º — Direito à inexistência de contactos com o autor do crime
+    - Adita Artigo 21.º
+    - Adita Direito à proteção da vida privada e à não divulgação de dados pessoais
+    - Adita Artigo 22.º
+    - Adita Avaliação individual das vítimas para identificação de necessidades específicas de apoio e proteção
+    - Adita Artigo 25.º-A — Sensibilização e comunicação no que respeita aos direitos das vítimas
+    - Adita Artigo 26.º-A — Protocolos ou orientações para coordenação e cooperação nos Estados-Membros
+    - Adita Artigo 26.º-B — Utilização de tecnologias da informação e comunicação
+    - Adita Artigo 26.º-C — Direitos das vítimas com deficiência
+    - Adita Artigo 28.º-B — Recursos
+    - Adita Artigo 29.º — Relatório da Comissão e revisão
+    - Suprime Artigo 19.º — Direito à inexistência de contactos entre a vítima e o autor do crime
+    - Suprime Artigo 21.º — Direito à proteção da vida privada
+    - Suprime Artigo 22.º — Avaliação individual das vítimas para identificar as suas necessidades específicas de proteção
+    - Suprime Artigo 29.º — Relatório
 identifiers:
   celex: 32012L0029
   eli: http://data.europa.eu/eli/dir/2012/29/oj
@@ -50,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9d67fc14-2d99-11e2-ad46-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5ee58fad-8ac1-11f1-910d-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0029-20260720
-  retrieved_at: '2026-10-22T02:53:06Z'
+  retrieved_at: '2026-10-22T15:58:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T22:19:28.806+02:00'
 integrity:
@@ -59,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:06Z'
-  notes: Texto consolidado 02012L0029-20260720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:44Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2012-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -211,29 +262,20 @@ relationships:
   source: null
 article_structure:
   article_count: 43
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:06Z'
-  warnings: []
+  checked_at: '2026-10-22T15:58:44Z'
+  warnings:
+  - '02012L0029-20121115: versão indisponível (Sem expressão na língua por para CELEX 02012L0029-20121115.)'
   errors: []
 ---
 
 # Diretiva 2012/29/UE do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
-
-> 02012L0029 — PT — 20.07.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026L1472) — [DIRETIVA (UE) 2026/1472 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2026](http://publications.europa.eu/resource/celex/32026L1472) — L 1472 — 1 — 30.6.2026
-
-## DIRETIVA 2012/29/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2012
 

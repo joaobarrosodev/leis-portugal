@@ -35,6 +35,141 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-10-24'
+version_history:
+  file: regulamento-ue-2011-543.versoes.json
+  count: 5
+  source_lastmod: '2022-10-24'
+  versions:
+  - date: '2011-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32011R0726:por
+    amending_title: M1; M2; M3; M4; M5; M6; M7; REGULAMENTO DE EXECUÇÃO (UE) N. o 302/2012 DA COMISSÃO de 4 de abril de 2012;
+      M9; M10; M11; M12; M13; M14; M15; M16; M17; REGULAMENTO DE EXECUÇÃO (UE) N. o 594/2013 DA COMISSÃO de 21 de junho de
+      2013; M19; M20; M21; M22; M23; M24; M25; M26; M27; M28; REGULAMENTO DELEGADO (UE) 2017/891 DA COMISSÃO de 13 de março
+      de 2017; M30; REGULAMENTO DELEGADO (UE) 2019/428 DA COMISSÃO de 12 de julho de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2020/2102
+      DA COMISSÃO de 15 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Excepções e dispensas de aplicação das normas de comercialização
+    - Altera Artigo 5.º — Menções
+    - Altera Artigo 6.º — Menções no estádio retalhista
+    - Altera Artigo 7.º — Misturas
+    - Altera Artigo 10.º — Base de dados dos operadores
+    - Altera Artigo 12.º — Operadores aprovados
+    - Altera Artigo 15.º — Aprovação dos controlos de conformidade realizados pelos países terceiros antes da importação para
+      a União
+    - Altera Artigo 36.º — Apresentação do plano de reconhecimento
+    - Altera Artigo 37.º — Conteúdo do plano de reconhecimento
+    - Altera Artigo 38.º — Aprovação do plano de reconhecimento
+    - Altera Artigo 39.º — Execução do plano de reconhecimento
+    - Altera Artigo 43.º — Financiamento dos planos de reconhecimento
+    - Altera Artigo 44.º — Ajudas aos investimentos necessários para o reconhecimento
+    - Altera Artigo 47.º — Participação da União
+    - Altera Artigo 150.º — Disposições transitórias
+    - Altera Artigo 151.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita NORMAS DE COMERCIALIZAÇÃO A QUE SE REFERE O ARTIGO 3.º
+    - Adita PARTE A
+    - Adita Norma de comercialização geral
+    - Adita PARTE B
+    - Adita Normas de comercialização específicas
+    - Adita ANEXO II
+    - Adita MODELO REFERIDO NO ARTIGO 12.º, N.º 1
+    - Adita ANEXO III
+    - Adita CERTIFICADO DE CONFORMIDADE COM AS NORMAS DE COMERCIALIZAÇÃO DA UNIÃO EUROPEIA APLICÁVEIS ÀS FRUTAS E PRODUTOS
+      HORTÍCOLAS FRESCOS, REFERIDO NOS ARTIGOS 12.º, 13.º E 14.º
+    - Adita ANEXO IV
+    - Adita Países terceiros cujos controlos de conformidade foram aprovados nos termos do artigo 15.º e produtos em causa
+    - Adita ANEXO V
+    - Adita MÉTODOS DE CONTROLO REFERIDOS NO ARTIGO 17.º, N.º 1
+    - Adita 1. DEFINIÇÕES
+    - Adita 2. EXECUÇÃO DO CONTROLO DE CONFORMIDADE
+    - Adita ANEXO V-A
+    - Adita INVESTIMENTOS NÃO ELEGÍVEIS REFERIDOS NO SEGUNDO PARÁGRAFO DO ARTIGO 37.º
+    - Adita ANEXO V-b
+    - Adita Modelos para comunicação, por agrupamento de produtores, a que se refere o artigo 38.º, n.º 4
+    - Adita ANEXO XIX
+    - Adita ANEXO XX
+  - date: '2021-11-05'
+    amending: eu:celex:32021R1890:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1890 DA COMISSÃO de 2 de agosto de 2021
+    changes:
+    - Altera Artigo 5.º — Menções
+    - Altera Artigo 6.º — Menções no estádio retalhista
+    - Altera Artigo 7.º — Misturas
+    - Altera Artigo 47.º — Participação da União
+    - Altera Artigo 150.º — Disposições transitórias
+    - Altera Norma de comercialização geral
+    - Altera Normas de comercialização específicas
+    - Altera Países terceiros cujos controlos de conformidade foram aprovados nos termos do artigo 15.º e produtos em causa
+    - Altera 2. EXECUÇÃO DO CONTROLO DE CONFORMIDADE
+    - Altera REGULAMENTOS REFERIDOS NO ARTIGO 150.º, N.º 2
+    - Altera Notas
+    - Adita 1. Características mínimas
+    - Adita 2. Características mínimas de maturação
+    - Adita 3. Tolerância
+    - Adita 4. Marcação
+    - 'Adita PARTE 1: NORMA DE COMERCIALIZAÇÃO APLICÁVEL ÀS MAÇÃS'
+    - Adita Apêndice
+    - Adita Lista não exaustiva de variedades de maçãs
+    - 'Adita PARTE 2: NORMA DE COMERCIALIZAÇÃO APLICÁVEL AOS CITRINOS'
+    - Adita I. DEFINIÇÃO DO PRODUTO
+    - Adita II. DISPOSIÇÕES RELATIVAS À QUALIDADE
+    - Adita III. DISPOSIÇÕES RELATIVAS À CALIBRAGEM
+    - Adita IV. DISPOSIÇÕES RELATIVAS ÀS TOLERÂNCIAS
+    - Adita V. DISPOSIÇÕES RELATIVAS À APRESENTAÇÃO
+    - Adita VI. DISPOSIÇÕES RELATIVAS À MARCAÇÃO
+    - 'Adita PARTE 3: NORMA DE COMERCIALIZAÇÃO APLICÁVEL AOS QUIVIS'
+    - 'Adita PARTE 4: NORMA DE COMERCIALIZAÇÃO APLICÁVEL ÀS ALFACES, ÀS CHICÓRIAS FRISADAS E ÀS ESCAROLAS'
+    - 'Adita PARTE 5: NORMA DE COMERCIALIZAÇÃO APLICÁVEL AOS PÊSSEGOS E ÀS NECTARINAS'
+    - 'Adita PARTE 6: NORMA DE COMERCIALIZAÇÃO APLICÁVEL ÀS PERAS'
+    - Adita Lista não exaustiva de variedades de frutos grandes e de peras de verão
+    - 'Adita PARTE 7: NORMA DE COMERCIALIZAÇÃO APLICÁVEL AOS MORANGOS'
+    - 'Adita PARTE 8: NORMA DE COMERCIALIZAÇÃO APLICÁVEL AOS PIMENTOS DOCES OU PIMENTÕES'
+    - 'Adita PARTE 9: NORMA DE COMERCIALIZAÇÃO APLICÁVEL ÀS UVAS DE MESA'
+    - 'Adita PARTE 10: NORMA DE COMERCIALIZAÇÃO APLICÁVEL AOS TOMATES'
+  - date: '2021-11-15'
+    amending: eu:celex:32021R1926:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1926 DA COMISSÃO de 5 de novembro de 2021
+    changes:
+    - Altera Artigo 5.º — Menções
+    - Altera Artigo 6.º — Menções no estádio retalhista
+    - Altera Artigo 7.º — Misturas
+    - Altera Artigo 47.º — Participação da União
+    - Altera Artigo 150.º — Disposições transitórias
+    - Altera 4. Marcação
+    - 'Altera PARTE 1: NORMA DE COMERCIALIZAÇÃO APLICÁVEL ÀS MAÇÃS'
+    - Altera II. DISPOSIÇÕES RELATIVAS À QUALIDADE
+    - Altera III. DISPOSIÇÕES RELATIVAS À CALIBRAGEM
+    - Altera V. DISPOSIÇÕES RELATIVAS À APRESENTAÇÃO
+    - Altera VI. DISPOSIÇÕES RELATIVAS À MARCAÇÃO
+    - Altera Países terceiros cujos controlos de conformidade foram aprovados nos termos do artigo 15.º e produtos em causa
+    - Altera 2. EXECUÇÃO DO CONTROLO DE CONFORMIDADE
+    - Altera REGULAMENTOS REFERIDOS NO ARTIGO 150.º, N.º 2
+    - Altera Notas
+  - date: '2022-10-24'
+    amending: eu:celex:32022R1845:por
+    amending_title: M35
+    changes:
+    - Altera Artigo 5.º — Menções
+    - Altera Artigo 6.º — Menções no estádio retalhista
+    - Altera Artigo 7.º — Misturas
+    - Altera Artigo 47.º — Participação da União
+    - Altera Artigo 150.º — Disposições transitórias
+    - Altera 4. Marcação
+    - 'Altera PARTE 1: NORMA DE COMERCIALIZAÇÃO APLICÁVEL ÀS MAÇÃS'
+    - Altera II. DISPOSIÇÕES RELATIVAS À QUALIDADE
+    - Altera III. DISPOSIÇÕES RELATIVAS À CALIBRAGEM
+    - Altera V. DISPOSIÇÕES RELATIVAS À APRESENTAÇÃO
+    - Altera VI. DISPOSIÇÕES RELATIVAS À MARCAÇÃO
+    - Altera Países terceiros cujos controlos de conformidade foram aprovados nos termos do artigo 15.º e produtos em causa
+    - Altera 2. EXECUÇÃO DO CONTROLO DE CONFORMIDADE
+    - Altera REGULAMENTOS REFERIDOS NO ARTIGO 150.º, N.º 2
+    - Altera Notas
 identifiers:
   celex: 32011R0543
   eli: http://data.europa.eu/eli/reg_impl/2011/543/oj
@@ -49,7 +184,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/222668cd-a996-4f67-ae1a-088b461adeb0.0009
   content_url: http://publications.europa.eu/resource/cellar/d62b63a6-54a8-11ed-92ed-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0543-20221024
-  retrieved_at: '2026-10-22T02:40:48Z'
+  retrieved_at: '2026-10-22T15:53:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-11-24T18:50:46.996+01:00'
 integrity:
@@ -58,9 +193,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:48Z'
-  notes: Texto consolidado 02011R0543-20221024.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:53:22Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2011-543.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -560,68 +695,45 @@ relationships:
   date: '2011-06-01'
 article_structure:
   article_count: 34
-  section_count: 121
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 122
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:53:22Z'
+  warnings:
+  - '02011R0543-20110901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20111001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20111011: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20111101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20120101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20120129: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20120405: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20120428: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20120530: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20120901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20121026: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20130419: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20131012: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20140517: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20141001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20141028: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20150430: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20151116: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20151204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20160430: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20161201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20170601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20170711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0543-20190326: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # 543/2011/UE: Regulamento de Execução (UE) n. ° 543/2011 da Comissão, de 7 de Junho de 2011
-
-> 02011R0543 — PT — 24.10.2022 — 030.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32011R0726) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 726/2011 DA COMISSÃO de 25 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0726) — L 194 — 25 — 26.7.2011
-- [M2](http://publications.europa.eu/resource/celex/32011R0898) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 898/2011 DA COMISSÃO de 7 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011R0898) — L 231 — 11 — 8.9.2011
-- [M3](http://publications.europa.eu/resource/celex/32011R0996) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 996/2011 DA COMISSÃO de 7 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R0996) — L 264 — 25 — 8.10.2011
-- [M4](http://publications.europa.eu/resource/celex/32011R1020) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1020/2011 DA COMISSÃO de 14 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1020) — L 270 — 14 — 15.10.2011
-- [M5](http://publications.europa.eu/resource/celex/32011R1095) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1095/2011 DA COMISSÃO de 28 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1095) — L 283 — 32 — 29.10.2011
-- [M6](http://publications.europa.eu/resource/celex/32011R1325) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1325/2011 DA COMISSÃO de 16 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011R1325) — L 335 — 66 — 17.12.2011
-- [M7](http://publications.europa.eu/resource/celex/32012R0072) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 72/2012 DA COMISSÃO de 27 de janeiro de 2012](http://publications.europa.eu/resource/celex/32012R0072) — L 26 — 26 — 28.1.2012
-- [►M8](http://publications.europa.eu/resource/celex/32012R0302) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 302/2012 DA COMISSÃO de 4 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0302) — L 99 — 21 — 5.4.2012
-- [M9](http://publications.europa.eu/resource/celex/32012R0366) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 366/2012 DA COMISSÃO de 27 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0366) — L 116 — 10 — 28.4.2012
-- [M10](http://publications.europa.eu/resource/celex/32012R0450) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 450/2012 DA COMISSÃO de 29 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0450) — L 140 — 53 — 30.5.2012
-- [M11](http://publications.europa.eu/resource/celex/32012R0701) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 701/2012 DA COMISSÃO de 30 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0701) — L 203 — 60 — 31.7.2012
-- [M12](http://publications.europa.eu/resource/celex/32012R0755) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 755/2012 DA COMISSÃO de 16 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0755) — L 223 — 6 — 21.8.2012
-- [M13](http://publications.europa.eu/resource/celex/32012R0781) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 781/2012 DA COMISSÃO de 28 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0781) — L 232 — 5 — 29.8.2012
-- [M14](http://publications.europa.eu/resource/celex/32012R0988) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 988/2012 DA COMISSÃO de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R0988) — L 297 — 9 — 26.10.2012
-- [M15](http://publications.europa.eu/resource/celex/32013R0353) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 353/2013 DA COMISSÃO de 18 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0353) — L 109 — 1 — 19.4.2013
-- [M16](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [M17](http://publications.europa.eu/resource/celex/32013R0565) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 565/2013 DA COMISSÃO de 18 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0565) — L 167 — 26 — 19.6.2013
-- [►M18](http://publications.europa.eu/resource/celex/32013R0594) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 594/2013 DA COMISSÃO de 21 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0594) — L 170 — 43 — 22.6.2013
-- [M19](http://publications.europa.eu/resource/celex/32013R0956) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 956/2013 DA COMISSÃO de 4 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0956) — L 263 — 9 — 5.10.2013
-- [M20](http://publications.europa.eu/resource/celex/32013R0979) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 979/2013 DA COMISSÃO de 11 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0979) — L 272 — 35 — 12.10.2013
-- [M21](http://publications.europa.eu/resource/celex/32014R0443) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 443/2014 DA COMISSÃO de 30 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0443) — L 130 — 41 — 1.5.2014
-- [M22](http://publications.europa.eu/resource/celex/32014R0499) — [REGULAMENTO DELEGADO (UE) N.º 499/2014 DA COMISSÃO de 11 de março de 2014](http://publications.europa.eu/resource/celex/32014R0499) — L 145 — 5 — 16.5.2014
-- [M23](http://publications.europa.eu/resource/celex/32014R1139) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1139/2014 DA COMISSÃO de 27 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1139) — L 307 — 34 — 28.10.2014
-- [M24](http://publications.europa.eu/resource/celex/32015R0678) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/678 DA COMISSÃO de 29 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0678) — L 111 — 24 — 30.4.2015
-- [M25](http://publications.europa.eu/resource/celex/32015R2000) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2000 DA COMISSÃO de 9 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2000) — L 292 — 4 — 10.11.2015
-- [M26](http://publications.europa.eu/resource/celex/32015R2244) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2244 DA COMISSÃO de 3 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2244) — L 318 — 23 — 4.12.2015
-- [M27](http://publications.europa.eu/resource/celex/32016R0674) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/674 DA COMISSÃO de 29 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0674) — L 116 — 23 — 30.4.2016
-- [M28](http://publications.europa.eu/resource/celex/32016R2097) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2097 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2097) — L 326 — 9 — 1.12.2016
-- [►M29](http://publications.europa.eu/resource/celex/32017R0891) — [REGULAMENTO DELEGADO (UE) 2017/891 DA COMISSÃO de 13 de março de 2017](http://publications.europa.eu/resource/celex/32017R0891) — L 138 — 4 — 25.5.2017
-- [M30](http://publications.europa.eu/resource/celex/32017R1185) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017](http://publications.europa.eu/resource/celex/32017R1185) — L 171 — 113 — 4.7.2017
-- [►M31](http://publications.europa.eu/resource/celex/32019R0428) — [REGULAMENTO DELEGADO (UE) 2019/428 DA COMISSÃO de 12 de julho de 2018](http://publications.europa.eu/resource/celex/32019R0428) — L 75 — 1 — 19.3.2019
-- [M32](http://publications.europa.eu/resource/celex/32020R2102) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2102 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2102) — L 425 — 84 — 16.12.2020
-- [►M33](http://publications.europa.eu/resource/celex/32021R1890) — [REGULAMENTO DELEGADO (UE) 2021/1890 DA COMISSÃO de 2 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1890) — L 384 — 23 — 29.10.2021
-- [►M34](http://publications.europa.eu/resource/celex/32021R1926) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1926 DA COMISSÃO de 5 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1926) — L 393 — 9 — 8.11.2021
-- [M35](http://publications.europa.eu/resource/celex/32022R1845) — [REGULAMENTO DELEGADO (UE) 2022/1845 DA COMISSÃO de 29 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1845) — L 256 — 1 — 4.10.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0543R%2802%29) — [Rectificação, JO L 299, 17.11.2011, p. 13 (543/2011)](http://publications.europa.eu/resource/celex/32011R0543R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32012R0302R%2802%29) — [Rectificação, JO L 179, 11.7.2012, p. 23 (302/2012)](http://publications.europa.eu/resource/celex/32012R0302R%2802%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 543/2011 DA COMISSÃO
 
 de 7 de Junho de 2011
 

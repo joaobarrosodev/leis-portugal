@@ -36,6 +36,282 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-19'
+version_history:
+  file: regulamento-ue-2012-528.versoes.json
+  count: 11
+  source_lastmod: '2026-08-19'
+  versions:
+  - date: '2012-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-23'
+    amending: eu:celex:32013R0736:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 736/2013 DA COMISSÃO de 17 de maio de 2013; REGULAMENTO DELEGADO (UE) N.
+      o 837/2013 DA COMISSÃO de 25 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 20.º — Requisitos dos pedidos de autorização
+    - Altera Artigo 28.º — Alteração do Anexo I
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera Artigo 97.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Adita TÍTULO 1
+    - Adita SUBSTÂNCIAS QUÍMICAS
+    - Adita TÍTULO 2
+    - Adita MICRORGANISMOS
+    - Adita ANEXO III
+    - Adita REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA OS PRODUTOS BIOCIDAS
+    - Adita PRODUTOS QUÍMICOS
+    - Adita ANEXO IV
+    - Adita REGRAS GERAIS PARA A ADAPTAÇÃO DOS REQUISITOS EM MATÉRIA DE DADOS
+    - Adita 1. ENSAIOS QUE SE AFIGURAM DESNECESSÁRIOS DO PONTO DE VISTA CIENTÍFICO
+    - Adita 1.1. Utilização de dados já existentes
+    - Adita 1.2. Suficiência de prova
+    - Adita 1.3. Relação qualitativa ou quantitativa estrutura-atividade — (Q)SAR
+    - Adita 1.4. Métodos in vitro
+    - Adita 1.5. Agrupamento de substâncias e métodos comparativos por interpolação
+    - Adita 2. IMPOSSIBILIDADE TÉCNICA DE REALIZAR OS ENSAIOS
+    - Adita 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS AO PRODUTO
+    - Adita ANEXO V
+    - Adita TIPOS DE PRODUTOS BIOCIDAS E SUA DESCRIÇÃO, NA ACEÇÃO DO ARTIGO 2.º, N.º 1
+    - 'Adita GRUPO 1: Desinfetantes'
+    - 'Adita Tipo de produtos 1: Higiene humana'
+    - 'Adita Tipo de produtos 2: Desinfetantes e algicidas não destinados a aplicação direta em seres humanos ou animais'
+    - 'Adita Tipo de produtos 3: Higiene veterinária'
+    - 'Adita Tipo de produtos 4: Superfícies em contacto com os géneros alimentícios e alimentos para animais'
+  - date: '2014-04-25'
+    amending: eu:celex:32014R0334:por
+    amending_title: REGULAMENTO (UE) N. o 334/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 23.º — Avaliação comparativa de produtos biocidas
+    - Altera Artigo 34.º — Reconhecimento mútuo paralelo
+    - Altera Artigo 35.º — Comunicação das objeções ao grupo de coordenação
+    - Altera Artigo 37.º — Derrogações ao reconhecimento mútuo
+    - Altera Artigo 45.º — Apresentação e aceitação dos pedidos
+    - Altera Artigo 53.º — Comércio paralelo
+    - Altera Artigo 54.º — Avaliação da equivalência técnica
+    - Altera Artigo 56.º — Investigação e desenvolvimento
+    - Altera Artigo 58.º — Colocação no mercado de artigos tratados
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 60.º — Períodos de proteção dos dados
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 67.º — Acesso do público por via eletrónica
+    - Altera Artigo 76.º — Secretariado da Agência
+    - Altera Artigo 77.º — Recurso
+    - Altera Artigo 78.º — Orçamento da Agência
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera Artigo 92.º — Medidas transitórias relativas aos produtos biocidas autorizados/registados ao abrigo da Diretiva
+      98/8/CE
+    - Altera Artigo 93.º — Medidas transitórias relativas aos produtos biocidas não abrangidos pelo âmbito de aplicação da
+      Diretiva 98/8/CE
+    - Altera Artigo 94.º — Medidas transitórias relativas aos artigos tratados
+    - Altera Artigo 95.º — Medidas transitórias relativas ao acesso ao dossier da substância ativa
+    - Altera Artigo 96.º — Revogação
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - 'Altera Tipo de produtos 4: Superfícies em contacto com os géneros alimentícios e alimentos para animais'
+    - Altera TERMOS E DEFINIÇÕES
+    - Altera CONCLUSÕES
+    - Altera Notas
+    - Adita Artigo 52.º — Período de graça
+    - Adita Artigo 86.º — Substâncias ativas incluídas no anexo I da Diretiva 98/8/CE
+    - Suprime Artigo 52.º — Período derrogatório
+    - Suprime Artigo 86.º — Substâncias ativas incluídas no Anexo I da Diretiva 98/8/CE
+  - date: '2019-11-20'
+    amending: eu:celex:32019R1819:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1819 da Comissão de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1820
+      DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1821 DA Comissão de 8 de agosto de 2019; REGULAMENTO
+      DELEGADO (UE) 2019/1822 DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1823 DA COMISSÃO de 8 de
+      agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1824 DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1825
+      DA COMISSÃO de 8 de agosto de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera TERMOS E DEFINIÇÕES
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2021-03-29'
+    amending: eu:celex:32021R0407:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/407 DA COMISSÃO de 3 de novembro de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera 1. ENSAIOS QUE SE AFIGURAM DESNECESSÁRIOS DO PONTO DE VISTA CIENTÍFICO
+    - 'Altera GRUPO 1: Desinfetantes'
+    - 'Altera GRUPO 2: Conservantes'
+    - 'Altera GRUPO 3: Produtos de controlo de animais prejudiciais'
+    - 'Altera GRUPO 4: Outros produtos biocidas'
+    - Altera TERMOS E DEFINIÇÕES
+    - Altera CONCLUSÕES
+    - Altera Notas
+    - Suprime 1.1. Utilização de dados já existentes
+    - Suprime 1.2. Suficiência de prova
+    - Suprime 1.3. Relação qualitativa ou quantitativa estrutura-atividade — (Q)SAR
+    - Suprime 1.4. Métodos in vitro
+    - Suprime 1.5. Agrupamento de substâncias e métodos comparativos por interpolação
+    - 'Suprime Tipo de produtos 1: Higiene humana'
+    - 'Suprime Tipo de produtos 2: Desinfetantes e algicidas não destinados a aplicação direta em seres humanos ou animais'
+    - 'Suprime Tipo de produtos 3: Higiene veterinária'
+    - 'Suprime Tipo de produtos 4: Superfícies em contacto com os géneros alimentícios e alimentos para animais'
+    - 'Suprime Tipo de produtos 5: Água potável'
+    - 'Suprime Tipo de produtos 6: Conservantes para produtos durante o armazenamento'
+    - 'Suprime Tipo de produtos 7: Produtos de proteção de películas'
+    - 'Suprime Tipo de produtos 8: Produtos de proteção da madeira'
+    - 'Suprime Tipo de produtos 9: Produtos de proteção de fibras, couro, borracha e materiais polimerizados'
+    - 'Suprime Tipo de produtos 10: Produtos de proteção de materiais de construção'
+    - 'Suprime Tipo de produtos 11: Produtos de proteção de líquidos utilizados nos sistemas de arrefecimento e processamento'
+    - 'Suprime Tipo de produtos 12: Produtos de proteção contra secreções viscosas'
+    - 'Suprime Tipo de produtos 13: Produtos de proteção para os fluidos utilizados no processamento ou corte'
+    - 'Suprime Tipo de produtos 14: Rodenticidas'
+    - 'Suprime Tipo de produtos 15: Avicidas'
+  - date: '2021-06-10'
+    amending: eu:celex:32021R0806:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/806 DA COMISSÃO de 10 de março de 2021; REGULAMENTO DELEGADO (UE) 2021/807
+      DA COMISSÃO de 10 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2022-04-15'
+    amending: eu:celex:32021R0525:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/525 DA COMISSÃO de 19 de outubro de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera MICRORGANISMOS
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA OS PRODUTOS BIOCIDAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2024-05-26'
+    amending: eu:celex:32024R1290:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1290 DA COMISSÃO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2024-06-11'
+    amending: eu:celex:32024R1398:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1398 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2026-06-15'
+    amending: eu:celex:32026R1165:por
+    amending_title: REGULAMENTO (UE) 2026/1165 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 60.º — Períodos de proteção dos dados
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera Artigo 95.º — Medidas transitórias relativas ao acesso ao dossier da substância ativa
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2026-08-19'
+    amending: eu:celex:32026R0447:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/447 DA COMISSÃO de 27 de fevereiro de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
 identifiers:
   celex: 32012R0528
   eli: http://data.europa.eu/eli/reg/2012/528/oj
@@ -50,7 +326,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0528-20260819
-  retrieved_at: '2026-10-22T02:40:50Z'
+  retrieved_at: '2026-10-22T16:00:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T21:08:19.123+02:00'
 integrity:
@@ -59,9 +335,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:50Z'
-  notes: Texto consolidado 02012R0528-20260819.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:00:14Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2012-528.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -883,51 +1159,19 @@ relationships:
   date: '2012-05-11'
 article_structure:
   article_count: 97
-  section_count: 74
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 75
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:50Z'
+  checked_at: '2026-10-22T16:00:14Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012
-
-> 02012R0528 — PT — 19.08.2026 — 010.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0736) — [REGULAMENTO DELEGADO (UE) N.º 736/2013 DA COMISSÃO de 17 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0736) — L 204 — 25 — 31.7.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013R0837) — [REGULAMENTO DELEGADO (UE) N.º 837/2013 DA COMISSÃO de 25 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0837) — L 234 — 1 — 3.9.2013
-- [►M3](http://publications.europa.eu/resource/celex/32014R0334) — [REGULAMENTO (UE) N.º 334/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2014](http://publications.europa.eu/resource/celex/32014R0334) — L 103 — 22 — 5.4.2014
-- [►M4](http://publications.europa.eu/resource/celex/32019R1819) — [REGULAMENTO DELEGADO (UE) 2019/1819 da Comissão de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1819) — L 279 — 1 — 31.10.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019R1820) — [REGULAMENTO DELEGADO (UE) 2019/1820 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1820) — L 279 — 4 — 31.10.2019
-- [►M6](http://publications.europa.eu/resource/celex/32019R1821) — [REGULAMENTO DELEGADO (UE) 2019/1821 DA Comissão de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1821) — L 279 — 7 — 31.10.2019
-- [►M7](http://publications.europa.eu/resource/celex/32019R1822) — [REGULAMENTO DELEGADO (UE) 2019/1822 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1822) — L 279 — 10 — 31.10.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019R1823) — [REGULAMENTO DELEGADO (UE) 2019/1823 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1823) — L 279 — 13 — 31.10.2019
-- [►M9](http://publications.europa.eu/resource/celex/32019R1824) — [REGULAMENTO DELEGADO (UE) 2019/1824 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1824) — L 279 — 16 — 31.10.2019
-- [►M10](http://publications.europa.eu/resource/celex/32019R1825) — [REGULAMENTO DELEGADO (UE) 2019/1825 DA COMISSÃO de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1825) — L 279 — 19 — 31.10.2019
-- [►M11](http://publications.europa.eu/resource/celex/32021R0407) — [REGULAMENTO DELEGADO (UE) 2021/407 DA COMISSÃO de 3 de novembro de 2020](http://publications.europa.eu/resource/celex/32021R0407) — L 81 — 15 — 9.3.2021
-- [►M12](http://publications.europa.eu/resource/celex/32021R0525) — [REGULAMENTO DELEGADO (UE) 2021/525 DA COMISSÃO de 19 de outubro de 2020](http://publications.europa.eu/resource/celex/32021R0525) — L 106 — 3 — 26.3.2021
-- [►M13](http://publications.europa.eu/resource/celex/32021R0806) — [REGULAMENTO DELEGADO (UE) 2021/806 DA COMISSÃO de 10 de março de 2021](http://publications.europa.eu/resource/celex/32021R0806) — L 180 — 78 — 21.5.2021
-- [►M14](http://publications.europa.eu/resource/celex/32021R0807) — [REGULAMENTO DELEGADO (UE) 2021/807 DA COMISSÃO de 10 de março de 2021](http://publications.europa.eu/resource/celex/32021R0807) — L 180 — 81 — 21.5.2021
-- [►M15](http://publications.europa.eu/resource/celex/32024R1290) — [REGULAMENTO DELEGADO (UE) 2024/1290 DA COMISSÃO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R1290) — L 1290 — 1 — 6.5.2024
-- [►M16](http://publications.europa.eu/resource/celex/32024R1398) — [REGULAMENTO DELEGADO (UE) 2024/1398 DA COMISSÃO de 14 de março de 2024](http://publications.europa.eu/resource/celex/32024R1398) — L 1398 — 1 — 22.5.2024
-- [►M17](http://publications.europa.eu/resource/celex/32026R1165) — [REGULAMENTO (UE) 2026/1165 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2026](http://publications.europa.eu/resource/celex/32026R1165) — L 1165 — 1 — 26.5.2026
-- [►M18](http://publications.europa.eu/resource/celex/32026R0447) — [REGULAMENTO DELEGADO (UE) 2026/447 DA COMISSÃO de 27 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0447) — L 447 — 1 — 30.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0334R%2801%29) — [Rectificação, JO L 083, 27.3.2015, p. 41 (334/2014)](http://publications.europa.eu/resource/celex/32014R0334R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32012R0528R%2808%29) — [Rectificação, JO L 280, 28.10.2017, p. 57 (528/2012)](http://publications.europa.eu/resource/celex/32012R0528R%2808%29)
-
-## REGULAMENTO (UE) N.º 528/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de maio de 2012
 

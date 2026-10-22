@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-547.versoes.json
+  count: 1
+  source_lastmod: '2017-01-09'
+  versions:
+  - date: '2012-06-26'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0547
   eli: http://data.europa.eu/eli/reg/2012/547/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/88c99e33-bf7c-11e1-b84a-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/88c99e33-bf7c-11e1-b84a-01aa75ed71a1.0018.04/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:16:13Z'
+  retrieved_at: '2026-10-22T15:59:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T08:28:25.607+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:13Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:44Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-547.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,21 +110,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:13Z'
+  checked_at: '2026-10-22T15:59:44Z'
   warnings:
-  - 'Versão consolidada 02012R0547-20170109 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02012R0547-20170109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 547/2012 DA COMISSÃO
+# Regulamento (UE) n. ° 547/2012 da Comissão, de 25 de junho de 2012
 
 de 25 de junho de 2012
 

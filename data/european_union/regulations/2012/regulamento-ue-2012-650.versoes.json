@@ -1,0 +1,920 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0650:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0650-20120705",
+ "dre_path": null,
+ "source_lastmod": "2012-07-05",
+ "versions": [
+  {
+   "date": "2012-07-05",
+   "future": false,
+   "celex": "02012R0650-20120705",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "767270a52f3b9815",
+    "226c39ffd0a88dad",
+    "5ab355e9e3267ddf",
+    "68e739def0c1aba9",
+    "6fc62d9601fec69b",
+    "9759996240da10f8",
+    "f0f8c960bfdbce9b",
+    "7ae5b24037df0aac",
+    "49654fe7cf2e4437",
+    "ce7a24d4d16349f1",
+    "312ed540ff3d6423",
+    "6b6da4f453884de1",
+    "d1ef691cbf8dab79",
+    "dffeb1b476627326",
+    "254a173d10a279da",
+    "74f299d74cd8f3ea",
+    "a2f3656beaae5498",
+    "cdde95a63923a6cd",
+    "42246f5357ad3acc",
+    "b50e4244092ab213",
+    "a3b5deff9a1be39a",
+    "e09122874041d6e3",
+    "dae89ccbd6b4459e",
+    "38cd5bb43e382d5a",
+    "1e7a0903d2eed348",
+    "0a658ea3eb7d18c6",
+    "c74e6a834ede5a6b",
+    "a0f183616c83abe4",
+    "9111119c5bf7b0af",
+    "029f433b8cbb1e50",
+    "f75f3caa9766293b",
+    "10a36d20a1e29a7a",
+    "462fb2ad10d04df8",
+    "f2112b17a1b51185",
+    "057ef34d4113b390",
+    "f61ba39630a99101",
+    "d9886a2c4d2b7461",
+    "bdd6a63c7f18aaaf",
+    "5674f2a847bf30b7",
+    "093b4d72f7aaff47",
+    "bcc1abb781ed8832",
+    "b624ad96527dd6fe",
+    "e6f06253764ce103",
+    "3814830fd1c46721",
+    "bbe864f64112186d",
+    "1ecfc79da3f1ac7f",
+    "6e63c3e8cea49656",
+    "dbce04152d1acffa",
+    "fcb989dc6343c51e",
+    "5efdf482f9ac026f",
+    "1d345df841634792",
+    "b5df7a37d0d919ef",
+    "1ade66049f5d088e",
+    "8d99dfb08cb328d0",
+    "d86796995fb58644",
+    "9d40efa5670f2b3e",
+    "745de0ed7893748f",
+    "bc7a021bf4c35d0b",
+    "19735956d94a167d",
+    "badba9542a08c63c",
+    "27011eb3c63aa9dc",
+    "89c38d2491f9ec00",
+    "05ad350ebdfc7685",
+    "69813f2a2e3a3611",
+    "64e6d85f89dc3b3b",
+    "7b66e28564bf727b",
+    "7f34c0bf326fe4ff",
+    "40ed6b62e188ac6f",
+    "e9b95e9e12baf738",
+    "5d264846bbfcc139",
+    "c209c934f040533b",
+    "444a7083675a48db",
+    "b76d202a844f758e",
+    "e1e9d8f1fde1e305",
+    "6fd3986156cb225b",
+    "65f437f1ba264add",
+    "ebe406dd6f437579",
+    "9ac34dd149bb69af",
+    "4e1fbcceaca06997",
+    "eb2e3db2a701788b",
+    "0b32154c88443260",
+    "4d0abb5740dcd5c1",
+    "0d406e0060579e8a",
+    "e4cbfda385e97db6",
+    "773b3a55ae20f65b",
+    "3e0c1d15b146d667",
+    "7fd045ac4f655f13",
+    "966d3b11fd5a17ca",
+    "6baca01e447192b6",
+    "c1f09c81c2c2e61a",
+    "85f8b6df5fa91211",
+    "82691b920fe1e99a",
+    "01131a741fc600be",
+    "e1fe0ae837060e3a",
+    "6bc5b69a8c7db672",
+    "9ff27003eebaaff2",
+    "eb47de3591f989c4",
+    "7a9d6898044f5381",
+    "72201131e3985cc9",
+    "c77bba30e42a1751"
+   ]
+  }
+ ],
+ "fragments": {
+  "767270a52f3b9815": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de julho de 2012\n\nrelativo à competência, à lei aplicável, ao reconhecimento e execução das decisões, e à aceitação e execução dos atos autênticos em matéria de sucessões e à criação de um Certificado Sucessório Europeu"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "68e739def0c1aba9": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável às sucessões por morte. Não é aplicável às matérias fiscais, aduaneiras e administrativas.\n\n2. São excluídos do âmbito de aplicação do presente regulamento:\n\na) O estado das pessoas singulares, bem como as relações familiares e as relações que a lei aplicável considera produzirem efeitos comparáveis;\n\nb) A capacidade jurídica das pessoas singulares, sem prejuízo do artigo 23.º, n.º 2, alínea c), e do artigo 26.º;\n\nc) As questões relacionadas com o desaparecimento, a ausência ou a morte presumida de uma pessoa singular;\n\nd) As questões relacionadas com regimes matrimoniais e regimes patrimoniais no âmbito de relações que a lei aplicável considera produzirem efeitos comparáveis ao casamento;\n\ne) As obrigações de alimentos com exceção das resultantes do óbito;\n\nf) A validade formal das disposições por morte feitas oralmente;\n\ng) Os direitos e os bens criados ou transferidos fora do âmbito da sucessão, tais como as liberalidades, a propriedade conjunta de várias pessoas com reversibilidade a favor da pessoa sobreviva, os planos de reforma, os contratos de seguros e as disposições análogas, sem prejuízo do artigo 23.º, n.º 2, alínea i);\n\nh) As questões regidas pelo direito das sociedades e pelo direito aplicável a outras entidades, dotadas ou não de personalidade jurídica, como as cláusulas contidas nos atos constitutivos e nos estatutos das sociedades e outras entidades, dotadas ou não de personalidade jurídica, que fixam o destino das quotas aquando da morte dos seus membros;\n\ni) A dissolução, extinção e fusão de sociedades e outras entidades, dotadas ou não de personalidade jurídica;\n\nj) A criação, administração e dissolução de *trust*;\n\nk) A natureza dos direitos reais; e\n\nl) Qualquer inscrição num registo de direitos sobre um bem imóvel ou móvel, incluindo os requisitos legais para essa inscrição, e os efeitos da inscrição ou não inscrição desses direitos num registo."
+  },
+  "6fc62d9601fec69b": {
+   "fragment_id": "Artigo 2.º — Competência em matéria de sucessões nos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Competência em matéria de sucessões nos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência em matéria de sucessões nos Estados-Membros\n\nO presente regulamento não afeta a competência das autoridades dos Estados-Membros para tratar matérias sucessórias."
+  },
+  "9759996240da10f8": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento entende-se por:\n\na) «Sucessão», a sucessão por morte, abrangendo qualquer forma de transferência de bens, direitos e obrigações por morte, quer se trate de um ato voluntário de transferência ao abrigo de uma disposição por morte, quer de uma transferência por sucessão sem testamento;\n\nb) «Pacto sucessório», um acordo, incluindo um acordo resultante de testamentos mútuos, que crie, altere ou anule, com ou sem contrapartida, direitos na herança ou heranças futuras de uma ou mais pessoas que sejam partes no acordo;\n\nc) «Testamento de mão comum», o testamento redigido por duas ou mais pessoas num único ato;\n\nd) «Disposição por morte», um testamento, um testamento de mão comum ou um pacto sucessório;\n\ne) «Estado-Membro de origem», o Estado-Membro no qual foi proferida a decisão, aprovada ou concluída a transação judicial, exarado o ato autêntico ou emitido o certificado sucessório europeu;\n\nf) «Estado-Membro de execução», o Estado-Membro no qual é requerido o reconhecimento, a executoriedade ou a execução da decisão, da transação judicial ou do ato autêntico;\n\ng) «Decisão», qualquer decisão em matéria de sucessões proferida por um órgão jurisdicional de um Estado-Membro, independentemente da designação que lhe é dada, incluindo uma decisão sobre a fixação pelo secretário do órgão jurisdicional do montante das custas do processo;\n\nh) «Transação judicial», uma transação em matéria sucessória homologada por um tribunal ou celebrada perante um tribunal no decurso de uma ação;\n\ni) «Ato autêntico», um documento em matéria sucessória que tenha sido formalmente redigido ou registado como tal num Estado-Membro e cuja autenticidade:\n\ni) esteja associada à assinatura e ao conteúdo do ato autêntico, e\n\nii) tenha sido atestada por uma autoridade pública ou outra autoridade habilitada para o efeito pelo Estado-Membro de origem.\n\n2. Para efeitos do presente regulamento, a noção de «órgão jurisdicional» inclui os tribunais e as outras autoridades e profissionais do direito competentes em matéria sucessória que exerçam funções jurisdicionais ou ajam no exercício de uma delegação de poderes conferida por um tribunal ou sob o controlo deste, desde que essas outras autoridades e profissionais do direito ofereçam garantias no que respeita à sua imparcialidade e ao direito de todas as partes a serem ouvidas, e desde que as suas decisões nos termos da lei do Estado-Membro onde estão estabelecidos:\n\na) Possam ser objeto de recurso perante um tribunal ou de controlo por este; e\n\nb) Tenham força e efeitos equivalentes aos de uma decisão de um tribunal na mesma matéria.\n\nOs Estados-Membros notificam à Comissão as outras autoridades e profissionais do direito a que se refere o primeiro parágrafo nos termos do artigo 79.º."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7ae5b24037df0aac": {
+   "fragment_id": "COMPETÊNCIA",
+   "type": "divisao",
+   "heading": "COMPETÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMPETÊNCIA"
+  },
+  "49654fe7cf2e4437": {
+   "fragment_id": "Artigo 4.º — Competência geral",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Competência geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência geral\n\nSão competentes para decidir do conjunto da sucessão os órgãos jurisdicionais do Estado-Membro em que o falecido tinha a sua residência habitual no momento do óbito."
+  },
+  "ce7a24d4d16349f1": {
+   "fragment_id": "Artigo 5.º — Acordo de eleição do foro",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Acordo de eleição do foro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acordo de eleição do foro\n\n1. Caso a lei escolhida pelo falecido para regular a sua sucessão nos termos do artigo 22.º seja a lei de um Estado-Membro, as partes em causa podem acordar em que um ou os órgãos jurisdicionais do Estado-Membro cuja lei foi escolhida tenham competência exclusiva para decidir de toda e qualquer questão em matéria sucessória.\n\n2. O acordo de eleição do foro é reduzido a escrito, datado e assinado pelas partes em causa. Qualquer comunicação por via eletrónica que permita um registo duradouro do acordo equivale à forma escrita."
+  },
+  "312ed540ff3d6423": {
+   "fragment_id": "Artigo 6.º — Declaração de incompetência no caso de uma escolha de lei",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Declaração de incompetência no caso de uma escolha de lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Declaração de incompetência no caso de uma escolha de lei\n\nSempre que a lei escolhida pelo falecido para regular a sua sucessão nos termos do artigo 22.º seja a lei de um Estado-Membro, o órgão jurisdicional onde a ação foi intentada nos termos do artigo 4.º ou do artigo 10.º:\n\na) Pode, a pedido de uma das partes na ação, declarar-se incompetente se considerar que os órgãos jurisdicionais do Estado-Membro cuja lei foi escolhida estão mais aptos a decidir da sucessão tendo em conta as circunstâncias práticas da mesma, tais como a residência habitual das partes e a localização dos bens; ou\n\nb) Declara-se incompetente se as partes na ação tiverem acordado, nos termos do artigo 5.º, em conferir competência a um órgão jurisdicional ou aos órgãos jurisdicionais do Estado-Membro cuja lei foi escolhida."
+  },
+  "6b6da4f453884de1": {
+   "fragment_id": "Artigo 7.º — Competência no caso de uma escolha de lei",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Competência no caso de uma escolha de lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência no caso de uma escolha de lei\n\nOs órgãos jurisdicionais do Estado-Membro cuja lei tenha sido escolhida pelo falecido nos termos do artigo 22.º são competentes para decidir da sucessão:\n\na) Se um órgão jurisdicional onde a ação tenha sido intentada se tiver declarado incompetente no mesmo processo, nos termos do artigo 6.º;\n\nb) Se as partes na ação tiverem acordado, nos termos do artigo 5.º, em conferir competência a um órgão jurisdicional ou aos órgãos jurisdicionais desse Estado-Membro; ou\n\nc) Se as partes na ação tiverem expressamente aceite a competência do órgão jurisdicional onde a mesma foi intentada."
+  },
+  "d1ef691cbf8dab79": {
+   "fragment_id": "Artigo 8.º — Extinção oficiosa da instância no caso de uma escolha de lei",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Extinção oficiosa da instância no caso de uma escolha de lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Extinção oficiosa da instância no caso de uma escolha de lei\n\nO órgão jurisdicional que tenha oficiosamente dado início à ação sucessória nos termos dos artigos 4.º ou 10.º, extingue a instância se as partes tiverem acordado em resolver a sucessão por via amigável e extrajudicialmente no Estado-Membro cuja lei tenha sido escolhida pelo falecido nos termos do artigo 22.º."
+  },
+  "dffeb1b476627326": {
+   "fragment_id": "Artigo 9.º — Competência baseada na comparência",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Competência baseada na comparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência baseada na comparência\n\n1. Caso se verifique, no decurso de uma ação perante um órgão jurisdicional do Estado-Membro que exerça a sua competência nos termos do artigo 7.º, que nem todas as partes nessa ação são partes no acordo de eleição do foro, o órgão jurisdicional continua a exercer a sua competência se as partes na ação que não participaram no acordo comparecerem sem contestar a competência do órgão jurisdicional.\n\n2. Se a competência do órgão jurisdicional a que se refere o n.º 1 for contestada pelas partes na ação que não são partes no acordo em causa, o órgão jurisdicional declara-se incompetente.\n\nNesse caso, a competência para decidir da sucessão incumbe aos órgãos jurisdicionais competentes nos termos do artigo 4.º ou do artigo 10.º."
+  },
+  "254a173d10a279da": {
+   "fragment_id": "Artigo 10.º — Competências residuais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Competências residuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências residuais\n\n1. Sempre que a residência habitual do falecido no momento do óbito não esteja situada num Estado-Membro, os órgãos jurisdicionais do Estado-Membro onde se encontram os bens da herança são, contudo, competentes para decidir do conjunto da sucessão se:\n\na) O falecido possuir a nacionalidade desse Estado-Membro no momento do óbito; ou, se tal não se verificar;\n\nb) O falecido tiver tido a sua residência habitual anterior nesse Estado-Membro e se a ação for intentada no prazo de cinco anos a contar da data da mudança da residência habitual.\n\n2. Quando nenhum órgão jurisdicional de um Estado-Membro for competente por força do n.º 1, os órgãos jurisdicionais do Estado-Membro onde se encontram os bens da herança são competentes para se pronunciar sobre esses bens."
+  },
+  "74f299d74cd8f3ea": {
+   "fragment_id": "Artigo 11.º — Forum necessitatis",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Forum necessitatis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forum necessitatis\n\nCaso nenhum órgão jurisdicional de um Estado-Membro seja competente por força do disposto no presente regulamento, os órgãos jurisdicionais de um Estado-Membro podem, em casos excecionais, decidir da sucessão se uma ação não puder ser razoavelmente intentada ou conduzida ou se revelar impossível num Estado terceiro com o qual esteja estreitamente relacionada.\n\nO processo deve apresentar uma conexão suficiente com o Estado-Membro do órgão jurisdicional em que foi instaurado."
+  },
+  "a2f3656beaae5498": {
+   "fragment_id": "Artigo 12.º — Limitação da ação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Limitação da ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Limitação da ação\n\n1. Caso a herança do falecido inclua bens situados num Estado terceiro, o órgão jurisdicional chamado a decidir da sucessão pode, a pedido de uma das partes, decidir não se pronunciar sobre um ou mais desses bens se for expectável que a sua decisão relativamente a tais bens não será reconhecida nem, se for caso disso, declarada executória nesse Estado terceiro.\n\n2. O n.º 1 não afeta o direito das partes de limitarem o âmbito da ação nos termos da lei do Estado-Membro onde a mesma foi intentada."
+  },
+  "cdde95a63923a6cd": {
+   "fragment_id": "Artigo 13.º — Aceitação ou repúdio da sucessão, de um legado ou da legítima",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Aceitação ou repúdio da sucessão, de um legado ou da legítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aceitação ou repúdio da sucessão, de um legado ou da legítima\n\nPara além do órgão jurisdicional competente para decidir da sucessão, nos termos do disposto no presente regulamento, os órgãos jurisdicionais do Estado-Membro em cujo território se situa a residência habitual de qualquer pessoa que, nos termos da lei aplicável à sucessão, possa fazer perante um órgão jurisdicional uma declaração relativa à aceitação ou ao repúdio da sucessão, de um legado ou da legítima ou uma declaração destinada a limitar a responsabilidade da pessoa em causa no que respeita às dívidas da herança, são competentes para receber essas declarações sempre que, nos termos da lei desse Estado-Membro, tais declarações possam ser feitas perante um órgão jurisdicional."
+  },
+  "42246f5357ad3acc": {
+   "fragment_id": "Artigo 14.º — Início da ação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Início da ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Início da ação\n\nPara efeitos do presente capítulo, considera-se que a ação se inicia:\n\na) Na data em que foi apresentada ao órgão jurisdicional a petição que determina o início da instância ou um ato equivalente, desde que o requerente não tenha posteriormente deixado de tomar as medidas que lhe incumbem para que seja feita a citação ou notificação ao requerido; ou\n\nb) Se o ato tiver de ser citado ou notificado antes de ser apresentado ao órgão jurisdicional, na data em que for recebido pela autoridade responsável pela citação ou notificação, desde que o requerente não tenha posteriormente deixado de tomar as medidas que lhe incumbem para que o ato seja apresentado ao órgão jurisdicional; ou\n\nc) Se a ação for iniciada oficiosamente pelo órgão jurisdicional, no momento em que é tomada pelo órgão jurisdicional a decisão de dar início à instância, ou, se tal decisão não for exigida, no momento em que o processo é registado pelo órgão jurisdicional."
+  },
+  "b50e4244092ab213": {
+   "fragment_id": "Artigo 15.º — Verificação da competência",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Verificação da competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Verificação da competência\n\nO órgão jurisdicional de um Estado-Membro perante o qual tenha sido intentada uma ação em matéria sucessória para o qual não seja competente por força do presente regulamento declara oficiosamente não ter competência."
+  },
+  "a3b5deff9a1be39a": {
+   "fragment_id": "Artigo 16.º — Verificação da admissibilidade",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Verificação da admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Verificação da admissibilidade\n\n1. Se um requerido que tenha residência habitual num Estado que não seja o Estado-Membro onde foi intentada a ação não comparecer, o órgão jurisdicional competente deve suspender a instância enquanto não for demonstrado que o requerido foi devidamente citado e notificado do ato introdutório da instância, ou ato equivalente, com tempo suficiente para poder deduzir a sua defesa, ou que foram efetuadas todas as diligências nesse sentido.\n\n2. É aplicável o disposto no artigo 19.º do Regulamento (CE) n.º 1393/2007 do Parlamento Europeu e do Conselho, de 13 de novembro de 2007, relativo à citação e à notificação dos atos judiciais e extrajudiciais em matérias civil e comercial nos Estados-Membros (citação e à notificação dos atos) ([^1^](http://publications.europa.eu/resource/cellar/06e4940f-eb4f-4e63-8e29-c3b9c0bd45af.0019.03/DOC_2#E0001)), em vez do n.º 1 do presente artigo, se o ato introdutório da instância, ou ato equivalente, tiver sido transmitido de um Estado-Membro para outro ao abrigo do referido regulamento.\n\n3. Se o disposto no Regulamento (CE) n.º 1393/2007 não for aplicável, aplica-se o disposto no artigo 15.º da Convenção de Haia de 15 de novembro de 1965, relativa à citação e à notificação no estrangeiro dos atos judiciais e extrajudiciais em matéria civil ou comercial, se o ato introdutório da instância, ou ato equivalente, tiver sido transmitido para o estrangeiro em execução da referida convenção."
+  },
+  "e09122874041d6e3": {
+   "fragment_id": "Artigo 17.º — Litispendência",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Litispendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Litispendência\n\n1. Caso sejam intentadas ações com o mesmo pedido e a mesma causa de pedir entre as mesmas partes, perante órgãos jurisdicionais de diferentes Estados-Membros, o órgão jurisdicional onde a ação foi intentada em segundo lugar suspende oficiosamente a instância até ser determinada a competência do órgão jurisdicional onde a ação foi intentada em primeiro lugar.\n\n2. Quando estiver estabelecida a competência do órgão jurisdicional a que a ação foi intentada em primeiro lugar, o segundo órgão jurisdicional declara-se incompetente a favor daquele."
+  },
+  "dae89ccbd6b4459e": {
+   "fragment_id": "Artigo 18.º — Conexão",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Conexão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conexão\n\n1. Quando estiverem pendentes em órgãos jurisdicionais de diferentes Estados Membros pedidos conexos, o órgão jurisdicional onde a ação foi intentada em segundo lugar pode suspender a instância.\n\n2. Se esses pedidos estiverem pendentes em primeira instância, o órgão jurisdicional onde a ação foi intentada em segundo lugar pode igualmente declinar a sua competência, a pedido de uma das partes, se o órgão jurisdicional onde a ação foi intentada em primeiro lugar for competente para conhecer dos pedidos em questão e a sua lei permitir a respetiva apensação.\n\n3. Para efeitos do presente artigo, consideram-se conexos os pedidos ligados entre si por um nexo tão estreito que há interesse em que sejam instruídos e julgados simultaneamente a fim de evitar decisões que possam ser inconciliáveis se as causas forem julgadas separadamente."
+  },
+  "38cd5bb43e382d5a": {
+   "fragment_id": "Artigo 19.º — Medidas provisórias e medidas cautelares",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Medidas provisórias e medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Medidas provisórias e medidas cautelares\n\nAs medidas provisórias, incluindo as medidas cautelares, previstas na lei de um Estado-Membro podem ser requeridas aos órgãos jurisdicionais desse Estado-Membro, mesmo que, por força do presente regulamento, um órgão jurisdicional de outro Estado-Membro seja competente para conhecer do mérito da causa."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0a658ea3eb7d18c6": {
+   "fragment_id": "LEI APLICÁVEL",
+   "type": "divisao",
+   "heading": "LEI APLICÁVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LEI APLICÁVEL"
+  },
+  "c74e6a834ede5a6b": {
+   "fragment_id": "Artigo 20.º — Aplicação universal",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Aplicação universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação universal\n\nÉ aplicável a lei designada pelo presente regulamento, mesmo que não seja a lei de um Estado-Membro."
+  },
+  "a0f183616c83abe4": {
+   "fragment_id": "Artigo 21.º — Regra geral",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regra geral\n\n1. Salvo disposição em contrário do presente regulamento, a lei aplicável ao conjunto da sucessão é a lei do Estado onde o falecido tinha residência habitual no momento do óbito.\n\n2. Caso, a título excecional, resulte claramente do conjunto das circunstâncias do caso que, no momento do óbito, o falecido tinha uma relação manifestamente mais estreita com um Estado diferente do Estado cuja lei seria aplicável nos termos do n.º 1, é aplicável à sucessão a lei desse outro Estado."
+  },
+  "9111119c5bf7b0af": {
+   "fragment_id": "Artigo 22.º — Escolha da lei",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Escolha da lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Escolha da lei\n\n1. Uma pessoa pode escolher como lei para regular toda a sua sucessão a lei do Estado de que é nacional no momento em que faz a escolha ou no momento do óbito.\n\nUma pessoa com nacionalidade múltipla pode escolher a lei de qualquer dos Estados de que é nacional no momento em que faz a escolha ou no momento do óbito.\n\n2. A escolha deve ser feita expressamente numa declaração que revista a forma de uma disposição por morte ou resultar dos termos dessa disposição.\n\n3. A validade material do ato pelo qual foi feita a escolha da lei é regulada pela lei escolhida.\n\n4. Qualquer alteração ou a revogação da escolha da lei deve preencher os requisitos formais aplicáveis à alteração ou à revogação de uma disposição por morte."
+  },
+  "029f433b8cbb1e50": {
+   "fragment_id": "Artigo 23.º — Âmbito da lei aplicável",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Âmbito da lei aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito da lei aplicável\n\n1. A lei designada nos termos do artigo 21.º ou do artigo 22.º regula toda a sucessão.\n\n2. Essa lei rege, nomeadamente:\n\na) As causas, o momento e o lugar da abertura da sucessão;\n\nb) A determinação dos beneficiários, das respetivas quotas-partes e das obrigações que lhes podem ser impostas pelo falecido, bem como a determinação dos outros direitos sucessórios, incluindo os direitos sucessórios do cônjuge ou parceiro sobrevivo;\n\nc) A capacidade sucessória;\n\nd) A deserdação e a incapacidade por indignidade;\n\ne) A transmissão dos bens, direitos e obrigações que compõem a herança aos herdeiros e, consoante o caso, aos legatários, incluindo as condições e os efeitos da aceitação da sucessão ou do legado ou do seu repúdio;\n\nf) Os poderes dos herdeiros, dos executores testamentários e outros administradores da herança, nomeadamente no que respeita à venda dos bens e ao pagamento dos credores, sem prejuízo dos poderes a que se refere o artigo 29.º, n.^os^ 2 e 3;\n\ng) Responsabilidade pelas dívidas da sucessão;\n\nh) A quota disponível da herança, a legítima e outras restrições à disposição por morte, bem como as pretensões que pessoas próximas do falecido possam deduzir contra a herança ou os herdeiros;\n\ni) A colação e a redução das liberalidades, adiantamentos ou legados aquando da determinação das quotas dos diferentes beneficiários;\n\nj) A partilha da herança."
+  },
+  "f75f3caa9766293b": {
+   "fragment_id": "Artigo 24.º — Disposições por morte diferentes dos pactos sucessórios",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Disposições por morte diferentes dos pactos sucessórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Disposições por morte diferentes dos pactos sucessórios\n\n1. As disposições por morte diferentes dos pactos sucessórios regem-se, no que toca à sua admissibilidade e validade material, pela lei que, por força do presente regulamento, seria aplicável à sucessão do autor da disposição se este tivesse falecido no dia em que fez a disposição.\n\n2. Não obstante o n.º 1, uma pessoa pode escolher como lei reguladora da sua disposição por morte, no que respeita à sua admissibilidade e validade material, a lei que essa pessoa teria podido escolher nos termos do artigo 22.º, e nas condições nele previstas.\n\n3. O disposto no n.º 1 aplica-se, se for caso disso, à alteração ou à revogação da disposição por morte diferente de um pacto sucessório. Em caso de uma escolha de lei nos termos do n.º 2, a alteração ou a revogação regula-se pela lei escolhida."
+  },
+  "10a36d20a1e29a7a": {
+   "fragment_id": "Artigo 25.º — Pacto sucessório",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Pacto sucessório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pacto sucessório\n\n1. Um pacto sucessório relativo à sucessão de uma só pessoa rege-se, no que respeita à sua admissibilidade, à sua validade material e aos seus efeitos vinculativos entre as partes, incluindo as condições da sua dissolução, pela lei que, por força do presente regulamento, seria aplicável à sucessão dessa pessoa se esta tivesse falecido no dia em que o pacto foi celebrado.\n\n2. Um pacto sucessório relativo à sucessão de várias pessoas só é admissível se for admissível ao abrigo de todas as leis que, por força do presente regulamento, teriam regido a sucessão de todas as pessoas em causa se estas tivessem falecido no dia em que o pacto foi celebrado.\n\nUm pacto sucessório que seja admissível nos termos do primeiro parágrafo rege-se, no que respeita à sua validade material e aos seus efeitos vinculativos entre as partes, incluindo as condições da sua dissolução, pela lei, de entre as referidas no primeiro parágrafo, com a qual tem uma ligação mais estreita.\n\n3. Não obstante os n.^os^ 1 e 2 do presente artigo, as partes podem escolher como lei reguladora do seu pacto sucessório, no que respeita à sua admissibilidade, à sua validade material e aos seus efeitos vinculativos entre as partes, incluindo as condições da sua dissolução, a lei que a pessoa ou uma das pessoas cuja herança está em causa teria podido escolher nos termos do artigo 22.º, nas condições nele previstas."
+  },
+  "462fb2ad10d04df8": {
+   "fragment_id": "Artigo 26.º — Validade material das disposições por morte",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Validade material das disposições por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Validade material das disposições por morte\n\n1. Para efeitos do disposto nos artigos 24.º e 25.º, relevam da validade material:\n\na) A capacidade do autor da disposição por morte para fazer tal disposição;\n\nb) As causas concretas que impedem o autor da disposição de dispor a favor de determinadas pessoas ou que impedem uma determinada pessoa de receber bens da sucessão do autor da disposição;\n\nc) A admissibilidade de representação para efeitos de fazer uma disposição por morte;\n\nd) A interpretação da disposição;\n\ne) A fraude, a coação, o erro e quaisquer outros aspetos que se prendam com o consentimento ou a vontade do autor da disposição.\n\n2. Caso uma pessoa tenha capacidade para fazer uma disposição por morte ao abrigo da lei aplicável nos termos dos artigos 24.º ou 25.º, a posterior alteração da lei aplicável não afeta a sua capacidade para alterar ou revogar essa disposição."
+  },
+  "f2112b17a1b51185": {
+   "fragment_id": "Artigo 27.º — Validade formal das disposições por morte feitas por escrito",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Validade formal das disposições por morte feitas por escrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Validade formal das disposições por morte feitas por escrito\n\n1. Uma disposição por morte feita por escrito é válida do ponto de vista formal se a sua forma respeitar a lei:\n\na) Do Estado onde a disposição foi feita ou o pacto sucessório celebrado;\n\nb) De um Estado de que o testador, ou pelo menos uma das pessoas cuja sucessão seja objeto de um pacto sucessório, era nacional, quer no momento em que a disposição foi feita ou o pacto celebrado, quer no momento do óbito;\n\nc) De um Estado onde o testador, ou pelo menos uma das pessoas cuja sucessão seja objeto de um pacto sucessório, tinha o seu domicílio, quer no momento em que a disposição foi feita ou o pacto celebrado, quer no momento do óbito;\n\nd) Do Estado onde o testador, ou pelo menos uma das pessoas cuja sucessão seja objeto de um pacto sucessório, tinha a sua residência habitual, quer no momento em que a disposição foi feita ou o pacto celebrado, quer no momento do óbito; ou\n\ne) Caso se trate de um bem imóvel, do Estado onde este se encontra situado.\n\nPara determinar se o testador ou uma das pessoas cuja sucessão é objeto do pacto sucessório tinham ou não o seu domicílio num determinado Estado aplica-se a lei desse Estado.\n\n2. O n.º 1 aplica-se igualmente às disposições por morte que alterem ou revoguem uma disposição anterior. A alteração ou revogação é igualmente válida quanto à forma se respeitar uma das leis nos termos da qual, de acordo com o n.º 1, a disposição por morte que foi alterada ou revogada era válida.\n\n3. Para efeitos do presente artigo, considera-se que diz respeito a questões de forma qualquer disposição legal que limite as formas autorizadas das disposições por morte referentes à idade, nacionalidade ou outras características pessoais do testador ou das pessoas cuja sucessão é objeto de um pacto sucessório. É aplicável a mesma regra às características que devem possuir quaisquer testemunhas exigidas para a validade de uma disposição por morte."
+  },
+  "057ef34d4113b390": {
+   "fragment_id": "Artigo 28.º — Validade quanto à forma da aceitação ou do repúdio",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Validade quanto à forma da aceitação ou do repúdio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Validade quanto à forma da aceitação ou do repúdio\n\nUma declaração relativa à aceitação ou ao repúdio da sucessão, de um legado ou da legítima, ou uma declaração destinada a limitar a responsabilidade do autor da declaração, é igualmente válida quanto à forma se respeitar os requisitos:\n\na) Da lei aplicável à sucessão por força do artigo 21.º ou do artigo 22.º; ou\n\nb) Da lei do Estado onde o autor da declaração tem residência habitual."
+  },
+  "f61ba39630a99101": {
+   "fragment_id": "Artigo 29.º — Regras especiais sobre a nomeação e os poderes dos administradores de heranças em determinadas situações",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Regras especiais sobre a nomeação e os poderes dos administradores de heranças em determinadas situações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regras especiais sobre a nomeação e os poderes dos administradores de heranças em determinadas situações\n\n1. Sempre que a nomeação de um administrador seja obrigatória ou obrigatória mediante pedido por força da lei do Estado-Membro cujos órgãos jurisdicionais sejam competentes para decidir da sucessão nos termos do presente regulamento e que a lei aplicável à sucessão seja uma lei estrangeira, os órgãos jurisdicionais desse Estado-Membro podem, quando chamados a pronunciar-se, nomear um ou mais administradores da herança nos termos do seu direito interno, nas condições estabelecidas no presente artigo.\n\nO ou os administradores nomeados nos termos do presente número devem ser as pessoas habilitadas a executar o testamento do falecido e/ou a administrar a herança nos termos da lei aplicável à sucessão. Sempre que a lei não preveja a administração da herança por uma pessoa que não seja beneficiária, os órgãos jurisdicionais do Estado-Membro em que o administrador deve ser nomeado podem nomear um terceiro como administrador nos termos da sua própria lei, se essa lei assim o exigir e se houver um grave conflito de interesses entre os beneficiários, ou entre os beneficiários e os credores ou outras pessoas que tenham garantido as dívidas do falecido, se existir um desacordo entre os beneficiários sobre a administração da herança ou se a administração de uma herança for complexa devido à natureza dos bens.\n\nApenas o ou os administradores nomeados nos termos do presente número podem exercer os poderes a que se referem os n.^os^ 2 ou 3.\n\n2. Os administradores nomeados nos termos do n.º 1 exercem os poderes de administração da herança que lhes são conferidos nos termos da lei aplicável à sucessão. O órgão jurisdicional que procede à nomeação pode definir, na sua decisão, condições específicas para o exercício desses poderes nos termos da lei aplicável à sucessão.\n\nSempre que a lei aplicável à sucessão não preveja poderes suficientes para preservar os bens da herança ou para proteger os direitos dos credores ou de outras pessoas que tenham garantido as dívidas do falecido, o órgão jurisdicional que procede à nomeação pode decidir autorizar o ou os administradores a exercer, a título residual, os poderes que a própria lei prevê para esse fim e pode definir, na sua decisão, condições específicas para o exercício desses poderes de acordo com essa lei.\n\nNo entanto, no exercício dos poderes residuais, os administradores devem respeitar a lei aplicável à sucessão no que se refere à transferência de propriedade dos bens da sucessão, à responsabilidade pelas dívidas no âmbito da sucessão, aos direitos dos beneficiários, nomeadamente, se aplicável, o direito de aceitar ou repudiar a sucessão, e, se for o caso, os poderes do executor do testamento do falecido.\n\n3. Não obstante o disposto no n.º 2, o órgão jurisdicional que procede à nomeação dos administradores nos termos do n.º 1 pode, a título excecional, se a lei aplicável à sucessão for a lei de um Estado terceiro, decidir investir esses administradores dos poderes de administração previstos pela lei do Estado-Membro em que são nomeados.\n\nNo entanto, no âmbito do exercício desses poderes, os administradores devem respeitar, em particular, a determinação dos beneficiários e dos respetivos direitos sucessórios, nomeadamente os direitos à legítima ou as pretensões que possam deduzir contra a herança ou os herdeiros nos termos da lei aplicável à sucessão."
+  },
+  "d9886a2c4d2b7461": {
+   "fragment_id": "Artigo 30.º — Regras especiais que imponham restrições quanto à sucessão ou a afetem relativamente a certos bens",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Regras especiais que imponham restrições quanto à sucessão ou a afetem relativamente a certos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regras especiais que imponham restrições quanto à sucessão ou a afetem relativamente a certos bens\n\nSe a lei do Estado onde estão situados determinados bens imóveis, determinadas empresas, ou outras categorias especiais de bens incluir regras especiais que, devido a considerações económicas, familiares ou sociais, imponham restrições quanto à sucessão ou a afetem no respeitante a esses bens, tais regras especiais aplicam-se à sucessão na medida em que sejam aplicáveis, segundo a lei daquele Estado, independentemente da lei que rege a sucessão."
+  },
+  "bdd6a63c7f18aaaf": {
+   "fragment_id": "Artigo 31.º — Adaptação dos direitos reais",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Adaptação dos direitos reais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Adaptação dos direitos reais\n\nNo caso de uma pessoa invocar um direito real sobre um bem a que tenha direito ao abrigo da lei aplicável à sucessão e a legislação do Estado-Membro em que o direito é invocado não reconhecer o direito real em causa, esse direito deve, se necessário e na medida do possível, ser adaptado ao direito real equivalente mais próximo que esteja previsto na legislação desse Estado, tendo em conta os objetivos e os interesses do direito real em questão e os efeitos que lhe estão associados."
+  },
+  "5674f2a847bf30b7": {
+   "fragment_id": "Artigo 32.º — Comorientes",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Comorientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comorientes\n\nSempre que duas ou mais pessoas cujas sucessões são regidas por leis diferentes morram em circunstâncias em que haja incerteza quanto à ordem em que os óbitos ocorreram e que essas leis regulem esta situação de forma diferente ou não a regulem, nenhuma destas pessoas tem direito à sucessão da outra ou das outras."
+  },
+  "093b4d72f7aaff47": {
+   "fragment_id": "Artigo 33.º — Herança vaga",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Herança vaga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Herança vaga\n\nNa medida em que, nos termos da lei aplicável à sucessão por força do presente regulamento, não houver herdeiros nem legatários de quaisquer bens ao abrigo de uma disposição por morte, nem qualquer pessoa singular que possa ser considerada herdeiro por via legal, a aplicação da lei assim determinada não impede que um Estado-Membro ou uma entidade designada para o efeito por esse Estado-Membro possa apropriar-se, nos termos da sua própria lei, dos bens da herança situados no seu território, desde que os credores tenham o direito de obter a satisfação dos seus créditos a partir da totalidade dos bens da herança."
+  },
+  "bcc1abb781ed8832": {
+   "fragment_id": "Artigo 34.º — Reenvio",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Reenvio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Reenvio\n\n1. Nos termos do presente regulamento, por aplicação da lei de um Estado terceiro, entende-se a aplicação das normas jurídicas em vigor nesse Estado, incluindo as normas de direito internacional privado, na medida em que aquelas regras remetam para:\n\na) A lei de um Estado-Membro; ou\n\nb) A lei de outro Estado terceiro que aplicaria a sua própria lei.\n\n2. Não se aplica o reenvio no que diz respeito às leis a que se referem o artigo 21.º, n.º 2, o artigo 22.º, o artigo 27.º, o artigo 28.º, alínea b) e o artigo 30.º."
+  },
+  "b624ad96527dd6fe": {
+   "fragment_id": "Artigo 35.º — Ordem pública (ordre public)",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Ordem pública (ordre public)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Ordem pública (ordre public)\n\nA aplicação de uma disposição da lei de um Estado designada pelo presente regulamento só pode ser afastada se essa aplicação for manifestamente incompatível com a ordem pública do Estado-Membro do foro."
+  },
+  "e6f06253764ce103": {
+   "fragment_id": "Artigo 36.º — Ordenamentos jurídicos plurilegislativos – conflitos territoriais de leis",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Ordenamentos jurídicos plurilegislativos – conflitos territoriais de leis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Ordenamentos jurídicos plurilegislativos – conflitos territoriais de leis\n\n1. Caso a lei designada pelo presente regulamento seja a de um Estado que englobe várias unidades territoriais, tendo cada uma delas as suas próprias normas jurídicas em matéria de sucessões, as normas internas de conflitos de leis desse Estado determinam a unidade territorial cujas normas jurídicas são aplicáveis.\n\n2. Na ausência de tais regras internas de conflitos de leis:\n\na) Qualquer referência à lei do Estado a que se refere o n.º 1 é entendida, para efeitos de determinação da lei aplicável nos termos das disposições relativas à residência habitual do falecido, como referindo-se à lei da unidade territorial em que o falecido tinha a sua residência habitual no momento do óbito;\n\nb) Qualquer referência à lei do Estado a que se refere o n.º 1 é entendida, para efeitos de determinação da lei aplicável nos termos das disposições relativas à nacionalidade do falecido, como referindo-se à lei da unidade territorial com a qual o falecido tinha uma ligação mais estreita;\n\nc) Qualquer referência à lei do Estado referido no n.º 1 é entendida, para efeitos de determinação da lei aplicável nos termos de quaisquer outras disposições relativas a elementos que não sejam fatores de conexão, como referência à lei da unidade territorial em que se encontra o elemento pertinente.\n\n3. Não obstante o disposto no n.º 2, qualquer referência à lei do Estado a que se refere o n.º 1 é entendida, para efeitos de determinação da lei aplicável nos termos do artigo 27.º, na ausência de normas internas de conflito de leis nesse Estado, como referindo-se à lei da unidade territorial com a qual o testador ou as pessoas cuja sucessão é objeto do pacto sucessório tinha uma ligação mais estreita."
+  },
+  "3814830fd1c46721": {
+   "fragment_id": "Artigo 37.º — Ordenamentos jurídicos plurilegislativos – conflitos de leis interpessoais",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Ordenamentos jurídicos plurilegislativos – conflitos de leis interpessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Ordenamentos jurídicos plurilegislativos – conflitos de leis interpessoais\n\nCaso um Estado tenha dois ou mais sistemas jurídicos ou conjuntos de regras aplicáveis às diferentes categorias de pessoas em matéria de sucessão, qualquer referência à lei desse Estado é entendida como referindo-se ao sistema jurídico ou ao conjunto de normas determinado pelas regras em vigor nesse Estado. Na ausência de tais regras, aplica-se o sistema jurídico ou o conjunto de normas com o qual o falecido tinha uma ligação mais estreita."
+  },
+  "bbe864f64112186d": {
+   "fragment_id": "Artigo 38.º — Não aplicação do presente regulamento a conflitos de leis internos",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Não aplicação do presente regulamento a conflitos de leis internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Não aplicação do presente regulamento a conflitos de leis internos\n\nUm Estado-Membro que englobe várias unidades territoriais, tendo cada uma delas as suas próprias normas jurídicas respeitantes à sucessão, não é obrigado a aplicar o presente regulamento aos conflitos de leis que digam exclusivamente respeito a essas unidades territoriais."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "6e63c3e8cea49656": {
+   "fragment_id": "RECONHECIMENTO, EXECUTORIEDADE E EXECUÇÃO DAS DECISÕES",
+   "type": "divisao",
+   "heading": "RECONHECIMENTO, EXECUTORIEDADE E EXECUÇÃO DAS DECISÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECONHECIMENTO, EXECUTORIEDADE E EXECUÇÃO DAS DECISÕES"
+  },
+  "dbce04152d1acffa": {
+   "fragment_id": "Artigo 39.º — Reconhecimento",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reconhecimento\n\n1. As decisões proferidas num Estado-Membro são reconhecidas nos outros Estados-Membros, sem necessidade de recurso a qualquer procedimento.\n\n2. Em caso de contestação, qualquer parte interessada que invoque o reconhecimento de uma decisão a título principal pode pedir, nos termos do procedimento previsto nos artigos 45.º a 58.º, o reconhecimento da decisão.\n\n3. Se o reconhecimento for invocado a título incidental perante um órgão jurisdicional de um Estado-Membro, este é competente para dele conhecer."
+  },
+  "fcb989dc6343c51e": {
+   "fragment_id": "Artigo 40.º — Fundamentos do não reconhecimento",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Fundamentos do não reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Fundamentos do não reconhecimento\n\nUma decisão não é reconhecida:\n\na) Se o reconhecimento for manifestamente contrário à ordem pública do Estado-Membro requerido;\n\nb) Caso tenha sido pronunciada à revelia, se o ato que inicia a instância, ou ato equivalente, não tiver sido citado ou notificado ao demandado em tempo útil e de modo a permitir-lhe defender-se, a menos que o demandado não tenha recorrido da decisão, embora tivesse a possibilidade de o fazer;\n\nc) Se for inconciliável com uma decisão proferida numa ação entre as mesmas partes no Estado-Membro requerido;\n\nd) Se for inconciliável com uma decisão proferida anteriormente noutro Estado-Membro ou num Estado terceiro entre as mesmas partes, numa ação com o mesmo pedido e a mesma causa de pedir, quando a decisão proferida anteriormente reúna as condições necessárias para ser reconhecida no Estado-Membro em que é pedido o reconhecimento."
+  },
+  "5efdf482f9ac026f": {
+   "fragment_id": "Artigo 41.º — Ausência de revisão quanto ao mérito",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Ausência de revisão quanto ao mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Ausência de revisão quanto ao mérito\n\nAs decisões proferidas num Estado-Membro não podem, em caso algum, ser objeto de revisão quanto ao mérito."
+  },
+  "1d345df841634792": {
+   "fragment_id": "Artigo 42.º — Suspensão da instância",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Suspensão da instância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Suspensão da instância\n\nO órgão jurisdicional de um Estado-Membro a que seja pedido o reconhecimento de uma decisão proferida noutro Estado-Membro pode suspender a instância se a decisão for objeto de recurso ordinário no Estado-Membro de origem."
+  },
+  "b5df7a37d0d919ef": {
+   "fragment_id": "Artigo 43.º — Executoriedade",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Executoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Executoriedade\n\nAs decisões proferidas num Estado-Membro que sejam executórias nesse Estado são executórias noutro Estado-Membro quando, a pedido de qualquer parte interessada, tenham sido declaradas executórias no outro Estado-Membro de acordo com o procedimento previsto nos artigos 45.º a 58.º."
+  },
+  "1ade66049f5d088e": {
+   "fragment_id": "Artigo 44.º — Determinação do domicílio",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Determinação do domicílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Determinação do domicílio\n\nPara determinar, para efeitos do procedimento previsto nos artigos 45.º a 58.º, se uma parte tem domicílio no Estado-Membro de execução, o órgão jurisdicional a que foi submetida a questão aplica a sua lei interna."
+  },
+  "8d99dfb08cb328d0": {
+   "fragment_id": "Artigo 45.º — Competência territorial",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Competência territorial\n\n1. O pedido de declaração de executoriedade deve ser apresentado ao órgão jurisdicional ou à autoridade competente do Estado-Membro de execução comunicado por esse Estado-Membro à Comissão nos termos do artigo 78.º.\n\n2. O órgão jurisdicional territorialmente competente é determinado em função do local de domicílio da parte contra a qual a execução for requerida, ou do local de execução."
+  },
+  "d86796995fb58644": {
+   "fragment_id": "Artigo 46.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Procedimento\n\n1. O procedimento de apresentação do pedido regula-se pela lei do Estado-Membro de execução.\n\n2. Não deverá ser exigido ao requerente que tenha um endereço postal ou um representante autorizado no Estado-Membro de execução.\n\n3. O pedido deverá ser acompanhado dos seguintes documentos:\n\na) Uma cópia da decisão que reúna as condições necessárias para comprovar a sua autenticidade;\n\nb) A certidão emitida pelo órgão jurisdicional ou autoridade competente do Estado-Membro de origem, utilizando o formulário estabelecido de acordo com o procedimento consultivo a que se refere o artigo 81.º, n.º 2, sem prejuízo do disposto no artigo 47.º."
+  },
+  "9d40efa5670f2b3e": {
+   "fragment_id": "Artigo 47.º — Não-apresentação da certidão",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Não-apresentação da certidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Não-apresentação da certidão\n\n1. Na falta de apresentação da certidão referida no artigo 46.º, n.º 3, alínea b), o órgão jurisdicional ou a autoridade competente pode fixar um prazo para a sua apresentação ou aceitar um documento equivalente ou, se se julgar suficientemente esclarecido, dispensá-los.\n\n2. Se o órgão jurisdicional ou a autoridade competente o exigir, deve ser apresentada tradução dos documentos. A tradução deve ser efetuada por uma pessoa habilitada para esse efeito num dos Estados-Membros."
+  },
+  "745de0ed7893748f": {
+   "fragment_id": "Artigo 48.º — Declaração de executoriedade",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Declaração de executoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Declaração de executoriedade\n\nA decisão é declarada executória imediatamente após o cumprimento dos trâmites previstos no artigo 46.º, sem verificação dos motivos referidos no artigo 40.º. A parte contra a qual a execução é requerida não pode apresentar observações nesta fase do processo."
+  },
+  "bc7a021bf4c35d0b": {
+   "fragment_id": "Artigo 49.º — Notificação da decisão relativa ao pedido de declaração de executoriedade",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Notificação da decisão relativa ao pedido de declaração de executoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Notificação da decisão relativa ao pedido de declaração de executoriedade\n\n1. A decisão sobre o pedido de declaração de executoriedade é imediatamente levada ao conhecimento do requerente, na forma determinada pela lei do Estado-Membro de execução.\n\n2. A declaração de executoriedade é notificada à parte contra a qual é requerida a execução e é acompanhada da decisão, se esta não tiver sido já notificada a essa parte."
+  },
+  "19735956d94a167d": {
+   "fragment_id": "Artigo 50.º — Recurso contra a decisão relativa ao pedido de declaração de executoriedade",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Recurso contra a decisão relativa ao pedido de declaração de executoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Recurso contra a decisão relativa ao pedido de declaração de executoriedade\n\n1. Qualquer das partes pode interpor recurso da decisão sobre o pedido de declaração de executoriedade.\n\n2. O recurso é interposto junto do órgão jurisdicional cujo nome tenha sido comunicado à Comissão pelo Estado-Membro em causa nos termos do artigo 78.º.\n\n3. O recurso é tratado segundo as regras decorrentes do princípio do contraditório.\n\n4. Se a parte contra a qual a execução é requerida não comparecer perante o órgão jurisdicional de recurso nas ações relativas a um recurso interposto pelo requerente, aplica-se o disposto no artigo 16.º, mesmo que a parte contra a qual a execução é requerida não tenha domicílio num dos Estados-Membros.\n\n5. O recurso contra a declaração de executoriedade é interposto no prazo de 30 dias a contar da sua citação ou notificação. Se a parte contra a qual a execução é requerida tiver domicílio num Estado-Membro diferente daquele onde foi proferida a declaração de executoriedade, o prazo é de 60 dias e começa a correr desde o dia em que tiver sido feita a citação ou notificação pessoal ou domiciliária. Este prazo não é suscetível de prorrogação em razão da distância."
+  },
+  "badba9542a08c63c": {
+   "fragment_id": "Artigo 51.º — Recurso contra decisão proferida no recurso",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Recurso contra decisão proferida no recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Recurso contra decisão proferida no recurso\n\nA decisão proferida no recurso apenas pode ser objeto de recurso nos termos comunicados pelos Estado-Membro à Comissão por força do artigo 78.º."
+  },
+  "27011eb3c63aa9dc": {
+   "fragment_id": "Artigo 52.º — Recusa ou revogação de uma declaração de executoriedade",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Recusa ou revogação de uma declaração de executoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Recusa ou revogação de uma declaração de executoriedade\n\nO órgão jurisdicional em que foi interposto recurso ao abrigo dos artigos 50.º ou 51.º só deve recusar ou revogar a declaração de executoriedade por um dos motivos especificados no artigo 40.º. O órgão jurisdicional decide sem demora."
+  },
+  "89c38d2491f9ec00": {
+   "fragment_id": "Artigo 53.º — Suspensão da instância",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Suspensão da instância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Suspensão da instância\n\nO órgão jurisdicional em que foi interposto recurso ao abrigo dos artigos 50.º ou 51.º deve, a pedido da parte contra a qual a execução é requerida, suspender a instância, se a executoriedade da decisão for suspensa no Estado-Membro de origem por motivo de recurso."
+  },
+  "05ad350ebdfc7685": {
+   "fragment_id": "Artigo 54.º — Medidas provisórias e cautelares",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Medidas provisórias e cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Medidas provisórias e cautelares\n\n1. Sempre que uma decisão tiver de ser reconhecida de acordo com a presente secção, nada impede o requerente de recorrer a medidas provisórias e cautelares nos termos da lei do Estado-Membro de execução, sem ser necessária a declaração de executoriedade na aceção do artigo 48.º.\n\n2. A declaração de executoriedade implica, de pleno direito, a autorização para tomar tais medidas cautelares.\n\n3. Durante o prazo de recurso previsto no artigo 50.º, n.º 5, contra a declaração de executoriedade e na pendência de decisão sobre o mesmo, só podem tomar-se medidas cautelares sobre os bens da parte contra a qual a execução é requerida."
+  },
+  "69813f2a2e3a3611": {
+   "fragment_id": "Artigo 55.º — Executoriedade parcial",
+   "type": "artigo",
+   "heading": "Artigo 55.º — Executoriedade parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Executoriedade parcial\n\n1. Caso tenha sido pronunciada uma decisão sobre vários pedidos e a declaração de executoriedade não puder ser proferida quanto a todos, o órgão jurisdicional ou a autoridade competente profere-a relativamente a um ou vários de entre eles.\n\n2. O requerente pode pedir uma declaração de executoriedade limitada a partes de uma decisão."
+  },
+  "64e6d85f89dc3b3b": {
+   "fragment_id": "Artigo 56.º — Apoio judiciário",
+   "type": "artigo",
+   "heading": "Artigo 56.º — Apoio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Apoio judiciário\n\nO requerente que no Estado-Membro de origem tiver beneficiado, no todo ou em parte, de assistência judiciária ou de isenção de preparos e de custas beneficia, no processo de declaração de executoriedade, da assistência judiciária mais favorável ou da isenção mais ampla prevista na lei do Estado-Membro de execução."
+  },
+  "7b66e28564bf727b": {
+   "fragment_id": "Artigo 57.º — Caução ou depósito",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Caução ou depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Caução ou depósito\n\nNão pode ser exigida qualquer caução ou depósito, seja qual for a sua designação, a uma parte que requeira num Estado-Membro o reconhecimento, executoriedade ou execução de uma decisão proferida noutro Estado-Membro com fundamento no facto de ser nacional de outro país ou de não estar domiciliada ou não ser residente no Estado-Membro de execução."
+  },
+  "7f34c0bf326fe4ff": {
+   "fragment_id": "Artigo 58.º — Imposto, direito ou taxa",
+   "type": "artigo",
+   "heading": "Artigo 58.º — Imposto, direito ou taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Imposto, direito ou taxa\n\nNenhum imposto, direito ou taxa proporcional ao valor do litígio pode ser cobrado no Estado-Membro de execução no processo de emissão de uma declaração de executoriedade."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "e9b95e9e12baf738": {
+   "fragment_id": "ATOS AUTÊNTICOS E TRANSAÇÕES JUDICIAIS",
+   "type": "divisao",
+   "heading": "ATOS AUTÊNTICOS E TRANSAÇÕES JUDICIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ATOS AUTÊNTICOS E TRANSAÇÕES JUDICIAIS"
+  },
+  "5d264846bbfcc139": {
+   "fragment_id": "Artigo 59.º — Aceitação dos atos autênticos",
+   "type": "artigo",
+   "heading": "Artigo 59.º — Aceitação dos atos autênticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Aceitação dos atos autênticos\n\n1. Um ato autêntico exarado num Estado-Membro tem noutro Estado-Membro a mesma força probatória que tem no Estado-Membro de origem, ou efeitos o mais equiparáveis possível, desde que tal não seja manifestamente contrário à ordem pública do Estado-Membro em causa.\n\nQuem pretender utilizar um ato autêntico noutro Estado-Membro, pode solicitar à autoridade que exarou o ato no Estado-Membro de origem que preencha o formulário estabelecido de acordo com o procedimento consultivo a que se refere o artigo 81.º, n.º 2, descrevendo a força probatória do ato autêntico no Estado-Membro de origem.\n\n2. Se a autenticidade de um ato autêntico for objeto de contestação, esta será apresentada perante os órgãos jurisdicionais do Estado-Membro de origem, que sobre ela decidem à luz da lei deste Estado. O ato autêntico contestado não tem força probatória noutro Estado-Membro enquanto a contestação estiver pendente no órgão jurisdicional competente.\n\n3. Qualquer contestação relativa aos atos jurídicos ou relações jurídicas registadas em atos autênticos será apresentada perante os órgãos jurisdicionais competentes ao abrigo do presente regulamento e será decidida nos termos da lei aplicável de acordo com o Capítulo III. O ato autêntico contestado não tem qualquer valor probatório noutro Estado-Membro que não o Estado-Membro de origem no que respeita à matéria contestada, enquanto a contestação estiver pendente perante o órgão jurisdicional competente\n\n4. Se os atos jurídicos ou as relações jurídicas consignados num ato autêntico em matéria sucessória forem invocados a título incidental perante um órgão jurisdicional de um Estado-Membro, este é competente para dele conhecer."
+  },
+  "c209c934f040533b": {
+   "fragment_id": "Artigo 60.º — Executoriedade dos atos autênticos",
+   "type": "artigo",
+   "heading": "Artigo 60.º — Executoriedade dos atos autênticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Executoriedade dos atos autênticos\n\n1. Os atos autênticos com força executória no Estado-Membro de origem são declarados executórios noutro Estado-Membro a pedido de qualquer das partes interessadas, de acordo com o procedimento previsto nos artigos 45.º a 58.º.\n\n2. Para efeitos do disposto no artigo 46.º, n.º 3, alínea b), a autoridade que exarou o ato autêntico deve, a pedido de qualquer das partes interessadas, emitir uma certidão utilizando para tal o formulário estabelecido de acordo com procedimento consultivo a que se refere o artigo 81.º, n.º 2.\n\n3. O órgão jurisdicional perante o qual é interposto um recurso nos termos dos artigos 50.º ou 51.º só recusa ou revoga uma declaração de executoriedade se a execução do ato autêntico for manifestamente contrária à ordem pública do Estado-Membro de execução."
+  },
+  "444a7083675a48db": {
+   "fragment_id": "Artigo 61.º — Executoriedade das transações judiciais",
+   "type": "artigo",
+   "heading": "Artigo 61.º — Executoriedade das transações judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Executoriedade das transações judiciais\n\n1. As transações judiciais que forem executórias no Estado-Membro de origem são declaradas executórias noutro Estado-Membro a pedido de qualquer das partes interessadas, de acordo com o procedimento previsto nos artigos 45.º a 58.º.\n\n2. Para efeitos do disposto no artigo 46.º, n.º 3, alínea b), o órgão jurisdicional que aprovou a transação judicial ou perante o qual esta foi celebrada deve, a pedido de qualquer das partes interessadas, emitir uma certidão utilizando para tal o formulário estabelecido de acordo com o procedimento consultivo a que se refere o artigo 81.º, n.º 2.\n\n3. O órgão jurisdicional perante o qual é interposto um recurso nos termos dos artigos 50.º ou 51.º apenas poder recusar ou revogar uma declaração de executoriedade se a execução da transação judicial for manifestamente contrária à ordem pública do Estado-Membro de execução."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "e1e9d8f1fde1e305": {
+   "fragment_id": "CERTIFICADO SUCESSÓRIO EUROPEU",
+   "type": "divisao",
+   "heading": "CERTIFICADO SUCESSÓRIO EUROPEU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO SUCESSÓRIO EUROPEU"
+  },
+  "6fd3986156cb225b": {
+   "fragment_id": "Artigo 62.º — Criação de um certificado sucessório europeu",
+   "type": "artigo",
+   "heading": "Artigo 62.º — Criação de um certificado sucessório europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Criação de um certificado sucessório europeu\n\n1. O presente regulamento cria um certificado sucessório europeu (a seguir designado «certificado»), que deve ser emitido para fins de utilização noutro Estado-Membro e produzir os efeitos enunciados no artigo 69.º.\n\n2. O recurso ao certificado não é obrigatório.\n\n3. O certificado não substitui os documentos internos utilizados para efeitos análogos nos Estados-Membros. Todavia, uma vez emitido com vista a ser utilizado noutro Estado-Membro, o certificado produz também os efeitos enunciados no artigo 69.º no Estado-Membro cujas autoridades o emitiram por força do presente capítulo."
+  },
+  "65f437f1ba264add": {
+   "fragment_id": "Artigo 63.º — Finalidade do certificado",
+   "type": "artigo",
+   "heading": "Artigo 63.º — Finalidade do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Finalidade do certificado\n\n1. O certificado destina-se a ser utilizado pelos herdeiros, pelos legatários que tenham direitos na sucessão e pelos executores testamentários ou administradores de heranças que necessitem de invocar noutro Estado-Membro a sua qualidade ou exercer os seus direitos de herdeiros ou legatários e/ou os seus poderes de executores testamentários ou administradores de uma herança.\n\n2. O certificado pode ser utilizado, nomeadamente, para comprovar um ou mais dos seguintes elementos específicos:\n\na) A qualidade e/ou direitos de cada herdeiro ou legatário, consoante o caso, mencionado no certificado e as respetivas quotas-partes da herança;\n\nb) A atribuição de um bem ou bens determinados específicos que façam parte da herança ao herdeiro ou herdeiros ou ao legatário ou legatários, consoante o caso, mencionados no certificado;\n\nc) Os poderes da pessoa mencionada no certificado para executar o testamento ou administrar a herança."
+  },
+  "ebe406dd6f437579": {
+   "fragment_id": "Artigo 64.º — Competência para emitir o certificado",
+   "type": "artigo",
+   "heading": "Artigo 64.º — Competência para emitir o certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Competência para emitir o certificado\n\nO certificado é emitido no Estado-Membro cujos órgãos jurisdicionais sejam competentes por força do artigo 4.º, do artigo 7.º, do artigo 10.º ou do artigo 11.º. A autoridade emissora deve ser:\n\na) Um órgão jurisdicional, tal como definido no artigo 3.º, n.º 2; ou\n\nb) Outra autoridade que, nos termos da legislação nacional, tenha competência para tratar matérias sucessórias."
+  },
+  "9ac34dd149bb69af": {
+   "fragment_id": "Artigo 65.º — Pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 65.º — Pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Pedido de certificado\n\n1. O certificado é emitido a pedido de qualquer das pessoas referidas no artigo 63.º, n.º 1 (a seguir designada «requerente»).\n\n2. Para apresentar o pedido, o requerente pode utilizar o formulário estabelecido de acordo com o procedimento consultivo a que se refere o artigo 81.º, n.º 2.\n\n3. O pedido deve incluir as informações abaixo enunciadas, na medida em que sejam do conhecimento do requerente e em que a autoridade emissora delas necessite para poder atestar os elementos que o requerente pretende sejam atestados, e ser acompanhado de todos os documentos pertinentes, quer no original quer em cópias, que preencham as condições necessárias para comprovar a sua autenticidade, sem prejuízo do artigo 66.º, n.º 2:\n\na) Dados relativos ao falecido: apelido (eventualmente, apelido de solteiro), nome(s) próprio(s), sexo, local e data de nascimento, estado civil, nacionalidade, número de identificação (se disponível), endereço à data do óbito e data e local do óbito;\n\nb) Dados relativos ao requerente: apelido (eventualmente, apelido de solteiro), nome(s) próprio(s), sexo, local e data de nascimento, estado civil, nacionalidade, número de identificação (se disponível), endereço e grau de parentesco ou vínculo com o falecido, se houver;\n\nc) Dados relativos ao representante legal do requerente, se houver: apelido (eventualmente apelido de solteiro), nome(s) próprio(s), endereço e qualidade de representante;\n\nd) Dados relativos ao cônjuge ou parceiro do falecido e, eventualmente, ao(s) seu(s) ex-cônjuge(s) ou ex-parceiro(s): apelido (eventualmente apelido de solteiro), nome(s) próprio(s), sexo, local e data de nascimento, estado civil, nacionalidade, número de identificação (se disponível) e endereço;\n\ne) Dados relativos a outros eventuais beneficiários ao abrigo de uma disposição por morte ou por lei: apelido e nome(s) próprio(s) ou razão social, número de identificação (se disponível) e endereço;\n\nf) Finalidade a que se destina o certificado, nos termos do artigo 63.º;\n\ng) Eventualmente, contactos do órgão jurisdicional ou de outra autoridade competente que se ocupe ou se tenha ocupado da sucessão enquanto tal;\n\nh) Os elementos em que o requerente baseia, consoante o caso, o direito invocado aos bens da sucessão na qualidade de beneficiário e/ou o direito a executar o testamento do falecido e/ou a administrar a herança;\n\ni) Uma indicação de que o falecido fez, ou não, uma disposição por morte; se não tiver sido apenso nem o original nem uma cópia, indicação relativa à localização do original;\n\nj) Uma indicação relativa à celebração ou não, pelo falecido, de um contrato matrimonial ou de um contrato respeitante a uma relação que possa ter efeitos comparáveis ao casamento; se não tiver sido apenso nem o original nem uma cópia do contrato, indicação relativa à localização do original;\n\nk) Uma indicação quanto à declaração feita ou não por um dos beneficiários relativamente à aceitação ou ao repúdio da sucessão;\n\nl) Uma declaração afirmando que, tanto quanto é do conhecimento do requerente, não está pendente nenhum litígio quanto aos elementos a atestar;\n\nm) Quaisquer outras informações que o requerente considere úteis para efeitos da emissão do certificado."
+  },
+  "4e1fbcceaca06997": {
+   "fragment_id": "Artigo 66.º — Apreciação do pedido",
+   "type": "artigo",
+   "heading": "Artigo 66.º — Apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Apreciação do pedido\n\n1. Ao receber o pedido, a autoridade emissora verifica as informações e declarações e os documentos e outros elementos de prova facultados pelo requerente. A autoridade emissora procede às investigações necessárias à verificação por iniciativa própria, se tal se encontrar previsto ou autorizado no seu direito interno, ou convida o requerente a apresentar quaisquer outras provas que considere necessárias.\n\n2. Se não tiver sido possível ao requerente apresentar cópias dos documentos pertinentes que preencham as condições necessárias para comprovar a sua autenticidade, a autoridade emissora pode decidir aceitar outros tipos de elementos de prova.\n\n3. Se tal estiver previsto no seu direito interno e nos termos nele estipulados, a autoridade emissora pode solicitar que as declarações sejam feitas sob juramento ou mediante declaração solene substitutiva do juramento.\n\n4. A autoridade emissora toma todas as medidas necessárias para informar os beneficiários sobre o pedido de certificado. Deve, se necessário para estabelecer os elementos a atestar, ouvir as pessoas interessadas e os eventuais executores ou administradores, bem como publicar anúncios destinados a dar a outros eventuais beneficiários a oportunidade de fazerem valer os seus direitos.\n\n5. Para efeitos do presente artigo, a autoridade competente de um Estado-Membro deve, mediante pedido, facultar à autoridade emissora de outro Estado-Membro informações contidas, nomeadamente, nos registos prediais, nos registos civis e nos registos de que constam documentos e factos pertinentes para a sucessão ou para o regime matrimonial de bens ou regime de bens equivalente do falecido, caso a legislação nacional autorize a referida autoridade competente a facultar tais informações a outra autoridade nacional."
+  },
+  "eb2e3db2a701788b": {
+   "fragment_id": "Artigo 67.º — Emissão do certificado",
+   "type": "artigo",
+   "heading": "Artigo 67.º — Emissão do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Emissão do certificado\n\n1. A autoridade emissora deve emitir sem demora o certificado, segundo o procedimento previsto no presente capítulo, caso os elementos a atestar tenham sido estabelecidos nos termos da lei aplicável à sucessão ou de qualquer outra legislação aplicável a elementos específicos. Utilizará o formulário estabelecido de acordo com o procedimento consultivo a que se refere o artigo 81.º, n.º 2.\n\nA autoridade emissora não pode emitir o certificado, nomeadamente:\n\na) Se os elementos a certificar forem objeto de contestação; ou\n\nb) Se o certificado não estiver em conformidade com uma decisão relativa aos mesmos elementos.\n\n2. A autoridade emissora toma todas as medidas necessárias para informar os beneficiários sobre a emissão do certificado."
+  },
+  "0b32154c88443260": {
+   "fragment_id": "Artigo 68.º — Conteúdo do certificado",
+   "type": "artigo",
+   "heading": "Artigo 68.º — Conteúdo do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Conteúdo do certificado\n\nTanto quanto seja necessário para a finalidade da emissão, o certificado inclui as seguintes informações:\n\na) Nome e endereço da autoridade emissora;\n\nb) Número de referência do processo;\n\nc) Os elementos com base nos quais a autoridade emissora se considera competente para emitir o certificado;\n\nd) A data de emissão;\n\ne) Dados relativos ao requerente: apelido (eventualmente, apelido de solteiro), nome(s) próprio(s), sexo, local e data de nascimento, estado civil, nacionalidade, número de identificação (se disponível), endereço e vínculo com o falecido, se houver;\n\nf) Dados relativos ao falecido: apelido (eventualmente, apelido de solteiro), nome(s) próprio(s), sexo, local e data de nascimento, estado civil, nacionalidade, número de identificação (se disponível), endereço à data do óbito e data e local do óbito;\n\ng) Dados relativos aos beneficiários: apelido (eventualmente, apelido de solteiro), nome(s) próprio(s) e número de identificação (se disponível);\n\nh) Informações sobre um eventual contrato matrimonial celebrado pelo falecido ou, se tal for o caso, sobre um contrato celebrado pelo falecido no contexto de uma relação considerada pela lei aplicável como tendo efeitos comparáveis ao casamento, e informações relativas ao regime matrimonial de bens ou regime de bens equivalente;\n\ni) A lei aplicável à sucessão e os elementos que estiveram na base da determinação dessa lei;\n\nj) Informações sobre se o caráter testamentário ou não da sucessão ao abrigo de uma disposição por morte, incluindo informações sobre os elementos dos quais decorrem os direitos e/ou os poderes dos herdeiros, legatários, executores testamentários ou administradores da herança;\n\nk) Se for caso disso, indicação da natureza da aceitação ou repúdio da sucessão relativamente a cada beneficiário;\n\nl) A quota-parte que cabe a cada herdeiro, bem como, se for caso disso, a lista dos bens e/ou direitos que cabem a um determinado herdeiro;\n\nm) A lista dos bens e/ou direitos que cabem a um determinado legatário;\n\nn) As restrições ao direito do(s) herdeiro(s) e, se tal for o caso, do(s) legatário(s) ao abrigo da lei aplicável à sucessão e/ou da disposição por morte;\n\no) Os poderes do executor testamentário e/ou do administrador da herança e as restrições a esses poderes por força da lei aplicável à sucessão e/ou da disposição por morte."
+  },
+  "4d0abb5740dcd5c1": {
+   "fragment_id": "Artigo 69.º — Efeitos do certificado",
+   "type": "artigo",
+   "heading": "Artigo 69.º — Efeitos do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Efeitos do certificado\n\n1. O certificado produz efeitos em todos os Estados-Membros sem necessidade de recurso a qualquer procedimento.\n\n2. Presume-se que o certificado comprova com exatidão os elementos estabelecidos nos termos da lei aplicável à sucessão ou de qualquer outra legislação aplicável a determinados elementos. Presume-se que quem o certificado mencionar como herdeiro, legatário, executor testamentário ou administrador da herança tem a qualidade mencionada no certificado e/ou é titular dos direitos ou dos poderes indicados no certificado e que não estão associadas a esses direitos ou poderes outras condições e/ou restrições para além das referidas no certificado.\n\n3. Quem, agindo com base nas informações atestadas num certificado, efetuar pagamentos ou entregar bens a outra pessoa mencionada no certificado como estando habilitado a aceitar pagamentos ou bens, é considerada como tendo efetuado a transação com uma pessoa habilitada a aceitar pagamentos ou bens, a menos que tenha conhecimento de que o conteúdo do certificado não é exato ou ignore tal inexatidão devido a negligência grosseira.\n\n4. Caso uma pessoa mencionada no certificado como estando habilitada a dispor de bens da sucessão disponha desses bens a favor de outra pessoa, considera-se que esta última, se agir com base nas informações atestadas no certificado, efetuou uma transação com a pessoa habilitada a dispor dos bens em causa, a menos que tenha conhecimento de que o conteúdo do certificado não é exato ou ignore tal inexatidão devido a negligência grosseira.\n\n5. O certificado constitui um documento válido para a inscrição de bens da sucessão no registo competente de um Estado-Membro, sem prejuízo do disposto no artigo 1.º, n.º 2, alíneas k) e l)."
+  },
+  "0d406e0060579e8a": {
+   "fragment_id": "Artigo 70.º — Cópias autenticadas do certificado",
+   "type": "artigo",
+   "heading": "Artigo 70.º — Cópias autenticadas do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Cópias autenticadas do certificado\n\n1. O original do certificado é conservado pela autoridade emissora, que entrega uma ou mais cópias autenticadas ao requerente e a qualquer pessoa que demonstre possuir um interesse legítimo.\n\n2. Para efeitos do disposto no artigo 71.º, n.º 3, e no artigo 73.º, n.º 2, a autoridade emissora mantém uma lista das pessoas a quem foram entregues cópias autenticadas nos termos do n.º 1 do presente artigo.\n\n3. As cópias autenticadas entregues são válidas durante um prazo limitado de seis meses, a indicar na cópia autenticada como data de validade. Em casos excecionais devidamente justificados, a autoridade emissora pode, não obstante, decidir que o prazo de validade é maior. Decorrido este prazo, qualquer detentor de uma cópia autenticada deve, para poder utilizar o certificado para os fins indicados no artigo 63.º, solicitar à autoridade emissora uma prorrogação do prazo de validade da cópia autenticada ou uma nova cópia autenticada."
+  },
+  "e4cbfda385e97db6": {
+   "fragment_id": "Artigo 71.º — Retificação, suspensão ou anulação do certificado",
+   "type": "artigo",
+   "heading": "Artigo 71.º — Retificação, suspensão ou anulação do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Retificação, suspensão ou anulação do certificado\n\n1. Em caso de erro material, a autoridade emissora deve retificar o certificado, quer a pedido de qualquer pessoa que demonstre possuir um interesse legítimo, quer por iniciativa própria.\n\n2. A autoridade emissora deve, a pedido de qualquer pessoa que demonstre possuir um interesse legítimo, ou, se a legislação nacional o permitir, por sua própria iniciativa, modificar ou revogar o certificado caso se verifique a sua inexatidão, no todo ou em parte.\n\n3. A autoridade emissora deve informar sem demora todas as pessoas a quem foram entregues cópias autenticadas do certificado nos termos do artigo 70.º, n.º 1, de qualquer retificação, modificação ou revogação do certificado."
+  },
+  "773b3a55ae20f65b": {
+   "fragment_id": "Artigo 72.º — Vias de recurso",
+   "type": "artigo",
+   "heading": "Artigo 72.º — Vias de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Vias de recurso\n\n1. As decisões tomadas pela autoridade emissora nos termos do artigo 67.º podem ser objeto de recurso pelas pessoas com direito a pedir um certificado.\n\nAs decisões tomadas pela autoridade emissora nos termos dos artigos 71.º e73.º, n.º 1, alínea a), podem ser contestadas por qualquer pessoa que demonstre possuir um interesse legítimo.\n\nA contestação é apresentada a uma autoridade judicial do Estado-Membro da autoridade emissora nos termos da legislação desse Estado.\n\n2. Se, em resultado da contestação a que se refere o n.º 1, ficar determinada a inexatidão do certificado emitido, a autoridade judicial competente deve retificar, modificar ou revogar o certificado ou assegurar a sua retificação, modificação ou revogação pela autoridade emissora.\n\nSe, em resultado da contestação a que se refere o n.º 1, ficar determinado que a recusa de emissão do certificado era injustificada, a autoridade judicial competente deverá emitir o certificado ou assegurar que a autoridade emissora reanalise o caso e tome uma nova decisão."
+  },
+  "3e0c1d15b146d667": {
+   "fragment_id": "Artigo 73.º — Suspensão dos efeitos do certificado",
+   "type": "artigo",
+   "heading": "Artigo 73.º — Suspensão dos efeitos do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Suspensão dos efeitos do certificado\n\n1. Os efeitos do certificado podem ser suspensos:\n\na) Pela autoridade emissora, a pedido de qualquer pessoa que demonstre possuir um interesse legítimo, na pendência da modificação ou revogação do certificado nos termos do artigo 71.º, ou\n\nb) Pela autoridade judicial, a pedido de qualquer pessoa com direito a contestar uma decisão tomada pela autoridade emissora nos termos do artigo 72.º, na pendência de tal contestação.\n\n2. A autoridade emissora ou, consoante o caso, a autoridade judicial deve informar sem demora todas as pessoas a quem foram entregues cópias autenticadas do certificado nos termos do artigo 70.º, n.º 1, de qualquer suspensão dos efeitos do certificado.\n\nDurante a suspensão dos efeitos do certificado não podem ser entregues novas cópias autenticadas do mesmo."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "6baca01e447192b6": {
+   "fragment_id": "Artigo 74.º — Legalização e outras formalidades análogas",
+   "type": "artigo",
+   "heading": "Artigo 74.º — Legalização e outras formalidades análogas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Legalização e outras formalidades análogas\n\nNão é exigida legalização ou outras formalidades análogas para os documentos emitidos por um Estado-Membro no âmbito do presente regulamento."
+  },
+  "c1f09c81c2c2e61a": {
+   "fragment_id": "Artigo 75.º — Relações com convenções internacionais existentes",
+   "type": "artigo",
+   "heading": "Artigo 75.º — Relações com convenções internacionais existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Relações com convenções internacionais existentes\n\n1. O presente regulamento não prejudica a aplicação das convenções internacionais de que um ou mais Estados-Membros sejam partes na data da adoção do presente regulamento e que digam respeito a matérias por ele regidas.\n\nEm particular, os Estados-Membros Partes Contratantes na Convenção da Haia de 5 de outubro de 1961 sobre os conflitos de leis em matéria de forma das disposições testamentárias continuam a aplicar as disposições dessa Convenção em vez do artigo 27.º do presente regulamento no que diz respeito à validade formal dos testamentos e dos testamentos de mão comum.\n\n2. Não obstante o disposto no n.º 1, o presente regulamento prevalece, entre os Estados-Membros, sobre as convenções celebradas exclusivamente entre dois ou mais Estados-Membros, na medida em que estas incidam sobre matérias por ele regidas.\n\n3. O presente regulamento não obsta à aplicação da Convenção de 19 de novembro de 1934 entre a Dinamarca, a Finlândia, a Islândia, a Noruega e a Suécia relativa a disposições de direito internacional privado em matéria de sucessões, testamentos e administração de heranças, tal como revista pelo acordo intergovernamental entre os mesmos Estados, de 1 de junho de 2012, pelos Estados-Membros Partes nessa Convenção, na medida em que esta prevê:\n\na) Regras relativas aos aspetos processuais da administração de heranças, tal como definidas na Convenção, e assistência nesse contexto pelas autoridades dos Estados Partes Contratantes na Convenção; e\n\nb) Procedimentos simplificados e mais expeditos para o reconhecimento e a execução de decisões em matéria sucessória."
+  },
+  "85f8b6df5fa91211": {
+   "fragment_id": "Artigo 76.º — Articulação com o Regulamento (CE) n.º 1346/2000 do Conselho",
+   "type": "artigo",
+   "heading": "Artigo 76.º — Articulação com o Regulamento (CE) n.º 1346/2000 do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Articulação com o Regulamento (CE) n.º 1346/2000 do Conselho\n\nO presente regulamento não afeta a aplicação do Regulamento (CE) n.º 1346/2000 do Conselho, de 29 de maio de 2000, relativo aos processos de insolvência ([^2^](http://publications.europa.eu/resource/cellar/06e4940f-eb4f-4e63-8e29-c3b9c0bd45af.0019.03/DOC_2#E0002))."
+  },
+  "82691b920fe1e99a": {
+   "fragment_id": "Artigo 77.º — Informações disponibilizadas ao público",
+   "type": "artigo",
+   "heading": "Artigo 77.º — Informações disponibilizadas ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Informações disponibilizadas ao público\n\nTendo em vista a disponibilização de informações ao público no âmbito da Rede Judiciária Europeia em matéria civil e comercial, os Estados-Membros fornecem à Comissão um resumo sucinto da legislação e dos procedimentos nacionais em matéria de sucessão, incluindo informações sobre o tipo de autoridade competente nesta matéria e informações sobre o tipo de autoridade competente para receber declarações de aceitação ou repúdio da sucessão, de um legado ou da legítima.\n\nOs Estados-Membros fornecem igualmente fichas informativas que enumerem todos os documentos e/ou informações habitualmente exigidos para efeitos de registo de bens imóveis situados no seu território.\n\nOs Estados-Membros mantêm essas informações permanentemente atualizadas."
+  },
+  "01131a741fc600be": {
+   "fragment_id": "Artigo 78.º — Informações sobre contactos e procedimentos",
+   "type": "artigo",
+   "heading": "Artigo 78.º — Informações sobre contactos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Informações sobre contactos e procedimentos\n\n1. Até 16 de novembro de 2014, os Estados-Membros devem comunicar à Comissão:\n\na) Os nomes e os dados de contacto dos órgãos jurisdicionais ou autoridades competentes para deliberar sobre pedidos de declaração de executoriedade, nos termos do artigo 45.º, n.º 1, e sobre recursos contra decisões relativas a esses pedidos, nos termos do artigo 50.º, n.º 2;\n\nb) Os recursos a que se refere o artigo 51.º;\n\nc) Informações pertinentes sobre as autoridades competentes para emitir o certificado nos termos do artigo 64.º; e\n\nd) As vias de recurso a que se refere o artigo 72.º.\n\nOs Estados-Membros informam a Comissão de qualquer alteração posterior a essas informações.\n\n2. A Comissão publica no *Jornal Oficial da União Europeia* as informações comunicadas nos termos do n.º 1, com exceção dos endereços e outros dados de contacto dos órgãos jurisdicionais e das autoridades referidas no n.º 1, alínea a).\n\n3. A Comissão faculta ao público todas as informações comunicadas nos termos do n.º 1 através de quaisquer outros meios adequados, nomeadamente a Rede Judiciária Europeia em Matéria Civil e Comercial."
+  },
+  "e1fe0ae837060e3a": {
+   "fragment_id": "Artigo 79.º — Estabelecimento e subsequente alteração da lista contendo a informação a que se refere o artigo 3.º, n.º 2",
+   "type": "artigo",
+   "heading": "Artigo 79.º — Estabelecimento e subsequente alteração da lista contendo a informação a que se refere o artigo 3.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Estabelecimento e subsequente alteração da lista contendo a informação a que se refere o artigo 3.º, n.º 2\n\n1. A Comissão estabelece, com base nas notificações dos Estados-Membros, a lista das outras autoridades e profissionais do direito a que se refere o artigo 3.º, n.º 2.\n\n2. Os Estados-Membros comunicam à Comissão qualquer alteração ulterior dessa lista. A Comissão altera a lista no mesmo sentido.\n\n3. A Comissão publica a lista, bem como todas as alterações ulteriores, no *Jornal Oficial da União Europeia*.\n\n4. A Comissão faculta ao público todas as informações notificadas nos termos dos n.^os^ 1 e 2 através de quaisquer outros meios adequados, nomeadamente a Rede Judiciária Europeia em Matéria Civil e Comercial."
+  },
+  "6bc5b69a8c7db672": {
+   "fragment_id": "Artigo 80.º — Estabelecimento e subsequente alteração das certidões e formulários a que se referem os artigos 46.º, 59.º, 60.º, 61.º, 65.º e 67.º",
+   "type": "artigo",
+   "heading": "Artigo 80.º — Estabelecimento e subsequente alteração das certidões e formulários a que se referem os artigos 46.º, 59.º, 60.º, 61.º, 65.º e 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Estabelecimento e subsequente alteração das certidões e formulários a que se referem os artigos 46.º, 59.º, 60.º, 61.º, 65.º e 67.º\n\nA Comissão adota os atos de execução relativos ao estabelecimento e subsequente alteração das certidões e formulários a que se referem os artigos 46.º, 59.º, 60.º, 61.º, 65.º e 67.º. Esses atos de execução são adotados nos termos do procedimento consultivo a que se refere o artigo 81.º, n.º 2."
+  },
+  "9ff27003eebaaff2": {
+   "fragment_id": "Artigo 81.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 81.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Comité\n\n1. A Comissão é assistida por um comité. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Sempre que se faça referência ao presente número, é aplicável o artigo 4.º do Regulamento (UE) n.º 182/2011."
+  },
+  "eb47de3591f989c4": {
+   "fragment_id": "Artigo 82.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 82.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Reexame\n\nAté 18 de agosto de 2025, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório relativo à aplicação do presente regulamento, incluindo uma avaliação de eventuais problemas práticos encontrados em relação à resolução de litígios por via extrajudicial em matéria sucessória efetuadas paralelamente em diferentes Estados-Membros ou em relação às resolução de litígios por via extrajudicial efetuadas num Estado-Membro paralelamente a uma transação judicial perante uma autoridade judicial de outro Estado-Membro. Se for caso disso, o relatório é acompanhado de propostas de alteração."
+  },
+  "7a9d6898044f5381": {
+   "fragment_id": "Artigo 83.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 83.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Disposições transitórias\n\n1. O presente regulamento é aplicável às sucessões das pessoas falecidas em 17 de agosto de 2015 ou após essa data.\n\n2. Caso o falecido tenha escolhido a lei aplicável à sua sucessão antes de 17 de Agosto de 2015, essa escolha é válida, se respeitar as condições previstas no Capítulo III ou se for válida em aplicação das regras do direito internacional privado em vigor no momento em que a escolha foi feita, no Estado em que o falecido tinha a sua residência habitual ou em qualquer dos Estados de que era nacional.\n\n3. Sempre que o falecido tenha feito uma disposição por morte antes de 17 de agosto de 2015, essa disposição é admissível e válida quanto ao mérito e quanto à forma, se respeitar as condições previstas no Capítulo III ou se for admissível e válida quanto ao mérito e à forma em aplicação das regras do direito internacional privado em vigor no momento em que a escolha foi feita, no Estado em que o falecido tinha a sua residência habitual ou em qualquer dos Estados de que era nacional ou no Estado-Membro da autoridade que trata da sucessão.\n\n4. Sempre que o falecido tenha feito uma disposição por morte antes de 17 de agosto de 2015 nos termos da lei que o falecido tivesse podido escolher por força do presente regulamento, considera-se que essa lei foi escolhida como lei aplicável à sucessão."
+  },
+  "72201131e3985cc9": {
+   "fragment_id": "Artigo 84.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 84.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 17 de agosto de 2015, [**►C1**](http://publications.europa.eu/resource/celex/32012R0650R%2801%29) com exceção dos artigos 77.º e 78.º que são aplicáveis a partir de 16 de novembro de 2014**◄** e dos artigos 79.º, 80.º e 81.º, que são aplicáveis a partir de 5 de julho de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros, em conformidade com os Tratados.\n\n---"
+  },
+  "c77bba30e42a1751": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/06e4940f-eb4f-4e63-8e29-c3b9c0bd45af.0019.03/DOC_2#src.E0001)) JO L 324 de 10.12.2007, p. 79.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/06e4940f-eb4f-4e63-8e29-c3b9c0bd45af.0019.03/DOC_2#src.E0002)) JO L 160 de 30.6.2000, p. 1."
+  }
+ }
+}

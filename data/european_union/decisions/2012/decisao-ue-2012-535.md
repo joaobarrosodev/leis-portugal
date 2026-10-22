@@ -36,6 +36,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-04-23'
+version_history:
+  file: decisao-ue-2012-535.versoes.json
+  count: 4
+  source_lastmod: '2018-04-23'
+  versions:
+  - date: '2012-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-02-13'
+    amending: eu:celex:32015D0226:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/226 DA COMISSÃO de 11 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 3.º — Testes laboratoriais
+    - Altera Artigo 13.º — Autorização de instalações de tratamento
+    - Altera Artigo 14.º — Autorização de marcação
+    - Altera Artigo 21.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Medidas de erradicação previstas no artigo 6.º
+    - Adita ANEXO II
+    - Adita Medidas de contenção previstas no artigo 7.º
+    - Adita ANEXO III
+    - Adita Condições aplicáveis à circulação de vegetais suscetíveis e à madeira e à casca suscetíveis na União, tal como
+      previsto no artigo 10.º
+    - Adita SECÇÃO 1
+    - Adita Condições de circulação de vegetais suscetíveis e da madeira e da casca suscetíveis de zonas demarcadas para zonas
+      que não sejam demarcadas e de zonas infestadas para zonas tampão
+    - Adita SECÇÃO 2
+    - Adita Condições para a circulação de vegetais suscetíveis e de madeira e casca suscetíveis dentro de zonas infestadas
+      objeto de medidas de erradicação
+  - date: '2017-03-10'
+    amending: eu:celex:32017D0427:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/427 DA COMISSÃO de 8 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 3.º — Testes laboratoriais
+    - Altera Artigo 4.º — Planos de Contingência
+    - Altera Artigo 9.º — Comunicação relativa às medidas nacionais
+    - Altera Artigo 11.º — Controlos relativos à circulação a partir de zonas demarcadas para zonas que não sejam zonas demarcadas
+      e de zonas infestadas para zonas tampão
+    - Altera Artigo 13.º — Autorização de instalações de tratamento
+    - Altera Medidas de erradicação previstas no artigo 6.º
+    - Altera Medidas de contenção previstas no artigo 7.º
+    - Altera Condições de circulação de vegetais suscetíveis e da madeira e da casca suscetíveis de zonas demarcadas para
+      zonas que não sejam demarcadas e de zonas infestadas para zonas tampão
+    - Altera Notas
+  - date: '2018-04-23'
+    amending: eu:celex:32018D0618:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/618 DA COMISSÃO de 19 de abril de 2018
+    changes:
+    - Altera Artigo 3.º — Testes laboratoriais
+    - Altera Artigo 13.º — Autorização de instalações de tratamento
+    - Altera Medidas de erradicação previstas no artigo 6.º
+    - Altera Medidas de contenção previstas no artigo 7.º
+    - Altera Condições de circulação de vegetais suscetíveis e da madeira e da casca suscetíveis de zonas demarcadas para
+      zonas que não sejam demarcadas e de zonas infestadas para zonas tampão
+    - Altera Notas
 identifiers:
   celex: 32012D0535
   eli: http://data.europa.eu/eli/dec_impl/2012/535/oj
@@ -50,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2199d69e-6a9f-4cab-b70c-efebc662daf5.0014
   content_url: http://publications.europa.eu/resource/cellar/ebfa2bd4-b20e-4d74-b120-c2c3400a1a43.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012D0535-20180423
-  retrieved_at: '2026-10-22T02:40:47Z'
+  retrieved_at: '2026-10-22T15:58:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T16:55:20.702+02:00'
 integrity:
@@ -59,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:47Z'
-  notes: Texto consolidado 02012D0535-20180423.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:25Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2012-535.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,31 +254,19 @@ relationships:
   date: '2012-03-27'
 article_structure:
   article_count: 21
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:47Z'
+  checked_at: '2026-10-22T15:58:25Z'
   warnings: []
   errors: []
 ---
 
 # 2012/535/UE: Decisão de Execução da Comissão, de 26 de setembro de 2012
-
-> 02012D0535 — PT — 23.04.2018 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015D0226) — [DECISÃO DE EXECUÇÃO (UE) 2015/226 DA COMISSÃO de 11 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015D0226) — L 37 — 21 — 13.2.2015
-- [►M2](http://publications.europa.eu/resource/celex/32017D0427) — [DECISÃO DE EXECUÇÃO (UE) 2017/427 DA COMISSÃO de 8 de março de 2017](http://publications.europa.eu/resource/celex/32017D0427) — L 64 — 109 — 10.3.2017
-- [►M3](http://publications.europa.eu/resource/celex/32018D0618) — [DECISÃO DE EXECUÇÃO (UE) 2018/618 DA COMISSÃO de 19 de abril de 2018](http://publications.europa.eu/resource/celex/32018D0618) — L 102 — 17 — 23.4.2018
-
-## DECISÃO DE EXECUÇÃO DA COMISSÃO
 
 de 26 de setembro de 2012
 

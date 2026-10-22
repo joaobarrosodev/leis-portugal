@@ -36,6 +36,79 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2011-1206.versoes.json
+  count: 3
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2011-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-05-20'
+    amending: eu:celex:32020R0587:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/587 DA COMISSÃO de 29 de abril de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Artigo 9.º — Requisitos complementares para os operadores
+    - Altera Artigo 12.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4
+    - Adita ANEXO II
+    - Adita Requisitos de desempenho a que se refere o artigo 4.º, n.º 3
+    - Adita ANEXO III
+    - Adita Requisitos de desempenho a que se refere o artigo 4.º, n.º 4
+    - Adita ANEXO IV
+    - Adita Requisitos a que se refere o artigo 5.º
+    - Adita ANEXO V
+    - Adita Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo
+      6.º
+    - Adita ANEXO VI
+    - Adita Condições a que se refere o artigo 7.º, n.^os^ 1 e 2
+    - Adita ANEXO VII
+    - Adita PARTE A
+    - Adita Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1
+    - Adita PARTE B
+    - Adita Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Requisitos de desempenho
+    - Suprime Artigo 5.º — Requisitos de segurança
+    - Suprime Artigo 6.º — Conformidade ou adequação para utilização dos componentes
+    - Suprime Artigo 7.º — Verificação dos sistemas
+    - Suprime Artigo 8.º — Requisitos complementares para os prestadores de serviços de navegação aérea
+    - Suprime Artigo 9.º — Requisitos complementares para os operadores
+    - Suprime Artigo 10.º — Requisitos complementares para os Estados-Membros
+    - Suprime Artigo 11.º — Isenções
+    - Suprime Artigo 12.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4
+    - Suprime ANEXO II
+    - Suprime Requisitos de desempenho a que se refere o artigo 4.º, n.º 3
+    - Suprime ANEXO III
+    - Suprime Requisitos de desempenho a que se refere o artigo 4.º, n.º 4
+    - Suprime ANEXO IV
+    - Suprime Requisitos a que se refere o artigo 5.º
+    - Suprime ANEXO V
+    - Suprime Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo
+      6.º
+    - Suprime ANEXO VI
+    - Suprime Condições a que se refere o artigo 7.º, n.^os^ 1 e 2
+    - Suprime ANEXO VII
+    - Suprime PARTE A
+    - Suprime Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1
+    - Suprime PARTE B
+    - Suprime Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2
+    - Suprime Notas
 identifiers:
   celex: 32011R1206
   eli: http://data.europa.eu/eli/reg_impl/2011/1206/oj
@@ -50,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011
   content_url: http://publications.europa.eu/resource/cellar/40ed42cb-8576-11ee-99ba-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1206-20231005
-  retrieved_at: '2026-10-22T02:53:04Z'
+  retrieved_at: '2026-10-22T15:58:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T20:38:20.151+02:00'
 integrity:
@@ -59,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:04Z'
-  notes: Texto consolidado 02011R1206-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:04Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-1206.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,16 +194,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:04Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:58:04Z'
+  warnings: []
   errors: []
 ---
 

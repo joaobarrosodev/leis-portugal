@@ -35,6 +35,65 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-24'
+version_history:
+  file: regulamento-ue-2011-327.versoes.json
+  count: 4
+  source_lastmod: '2026-07-24'
+  versions:
+  - date: '2011-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-02'
+    amending: eu:celex:32013R0666:por
+    amending_title: REGULAMENTO (UE) N. o 666/2013 DA COMISSÃO de 8 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Requisitos de concepção ecológica
+    - Altera Artigo 8º. — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA AS VENTOINHAS
+    - Adita 1. Definições para efeitos do anexo I
+    - Adita 2. Requisitos de eficiência energética das ventoinhas
+    - Adita 3. Requisitos aplicáveis à informação sobre o produto que deve acompanhar as ventoinhas
+    - Adita ANEXO II
+    - Adita MEDIÇÕES E CÁLCULOS
+    - Adita 1. Definições para efeitos do anexo II
+    - Adita 2. Método de medição
+    - Adita 3. Método de cálculo
+    - Adita 4. Metodologia para o cálculo da meta de eficiência energética
+    - Adita 5. Aplicação da meta de eficiência energética
+    - Adita ANEXO III
+    - Adita PROCEDIMENTO DE VERIFICAÇÃO PARA EFEITOS DE FISCALIZAÇÃO DO MERCADO
+    - Adita ANEXO IV
+    - Adita PADRÕES DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º
+  - date: '2017-01-09'
+    amending: eu:celex:32016R2282:por
+    amending_title: REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Notas
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime PROCEDIMENTO DE VERIFICAÇÃO PARA EFEITOS DE FISCALIZAÇÃO DO MERCADO
+  - date: '2026-07-24'
+    amending: eu:celex:32024R1834:por
+    amending_title: REGULAMENTO (UE) 2024/1834 DA COMISSÃO de 3 de julho de 2024
+    changes:
+    - Altera 3. Método de cálculo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de concepção ecológica
+    - Suprime Artigo 4.º — Avaliação da conformidade
+    - Suprime Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado
+    - Suprime Artigo 6.º — Padrões de referência indicativos
+    - Suprime Artigo 7.º — Revisão
+    - Suprime Artigo 8º. — Entrada em vigor
+    - Suprime ANEXO IV
+    - Suprime PADRÕES DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º
+    - Suprime Notas
 identifiers:
   celex: 32011R0327
   eli: http://data.europa.eu/eli/reg/2011/327/oj
@@ -49,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c765ffb6-5f03-4a3f-ac61-08fc3f3874b7.0001
   content_url: http://publications.europa.eu/resource/cellar/4a2c6766-699a-11f1-ae88-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0327-20260724
-  retrieved_at: '2026-10-22T03:15:46Z'
+  retrieved_at: '2026-10-22T15:51:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T00:56:21.511+02:00'
 integrity:
@@ -58,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:46Z'
-  notes: Texto consolidado 02011R0327-20260724.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:31Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2011-327.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,31 +191,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:46Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
+  checked_at: '2026-10-22T15:51:31Z'
+  warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 327/2011 da Comissão, de 30 de Março de 2011
-
-> 02011R0327 — PT — 24.07.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013R0666) — [REGULAMENTO (UE) N.º 666/2013 DA COMISSÃO de 8 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0666) — L 192 — 24 — 13.7.2013
-- [►M2](http://publications.europa.eu/resource/celex/32016R2282) — [REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2282) — L 346 — 51 — 20.12.2016
-- [►M3](http://publications.europa.eu/resource/celex/32024R1834) — [REGULAMENTO (UE) 2024/1834 DA COMISSÃO de 3 de julho de 2024](http://publications.europa.eu/resource/celex/32024R1834) — L 1834 — 1 — 4.7.2024
-
-## REGULAMENTO (UE) N.º 327/2011 DA COMISSÃO
 
 de 30 de Março de 2011
 

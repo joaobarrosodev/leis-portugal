@@ -1,0 +1,693 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011L0092:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0092-20140515",
+ "dre_path": null,
+ "source_lastmod": "2014-05-15",
+ "versions": [
+  {
+   "date": "2012-01-28",
+   "future": false,
+   "celex": "32011L0092",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3345927f2a8e7bba",
+    "640e261a2064b41a",
+    "1a2d3389bad92828",
+    "a11da0f104033a17",
+    "01431efe6d86635c",
+    "619f9cf0f2ebad30",
+    "ac17fb4ea90382d0",
+    "a434421a3b9ffe18",
+    "e607e8de614b01ed",
+    "81b00c021e5e93a3",
+    "0d2b0c2dc64b644a",
+    "e60dc3f37e3344f5",
+    "4c4d6f1b36abf377",
+    "3bd79a4cc1103111",
+    "d8632d9d92c35db2",
+    "6422c19feddf9585",
+    "67f78496b1428736",
+    "d8ed976ce399523a"
+   ]
+  },
+  {
+   "date": "2014-05-15",
+   "future": false,
+   "celex": "02011L0092-20140515",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0052:por",
+     "title": "DIRETIVA 2014/52/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de abril de 2014",
+     "published": null,
+     "celex": "32014L0052"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Notas",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 9-A",
+    "Adita Artigo 10.º-A",
+    "Adita ANEXO I",
+    "Adita PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 1",
+    "Adita ANEXO II",
+    "Adita PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 2",
+    "Adita 1. AGRICULTURA, SILVICULTURA E AQUICULTURA",
+    "Adita 2. INDÚSTRIA EXTRACTIVA",
+    "Adita 3. INDÚSTRIA DA ENERGIA",
+    "Adita 4. PRODUÇÃO E TRANSFORMAÇÃO DE METAIS",
+    "Adita 5. INDÚSTRIA MINERAL",
+    "Adita 6. INDÚSTRIA QUÍMICA (PROJECTOS NÃO INCLUÍDOS NO ANEXO I)",
+    "Adita 7. INDÚSTRIA ALIMENTAR",
+    "Adita 8. INDÚSTRIAS TÊXTIL, DOS CURTUMES, DA MADEIRA E DO PAPEL",
+    "Adita 9. INDÚSTRIA DA BORRACHA",
+    "Adita 10. PROJECTOS DE INFRA-ESTRUTURAS",
+    "Adita 11. OUTROS PROJECTOS",
+    "Adita 12. TURISMO E TEMPOS LIVRES",
+    "Adita ANEXO II-A",
+    "Adita INFORMAÇÕES A QUE SE REFERE O ARTIGO 4.º, N.º 4",
+    "Adita (INFORMAÇÕES A FORNECER PELO DONO DA OBRA SOBRE OS PROJETOS ENUMERADOS NO ANEXO II)",
+    "Adita ANEXO III",
+    "Adita CRITÉRIOS DE SELEÇÃO A QUE SE REFERE O ARTIGO 4.º, N.º 3",
+    "Adita (CRITÉRIOS PARA DETERMINAR SE OS PROJETOS INCLUÍDOS NO ANEXO II DEVEM SER SUJEITOS A UMA AVALIAÇÃO DE IMPACTO AMBIENTAL)",
+    "Adita 1. Características dos projetos",
+    "Adita 2. Localização dos projetos",
+    "Adita 3. Tipo e características do impacto potencial",
+    "Adita ANEXO IV",
+    "Adita INFORMAÇÕES A QUE SE REFERE O ARTIGO 5.º, N.º 1",
+    "Adita (INFORMAÇÕES PARA O RELATÓRIO DE AVALIAÇÃO DO IMPACTO AMBIENTAL)",
+    "Adita ANEXO V",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO VI"
+   ],
+   "fragments": [
+    "f03556ce43f34ab7",
+    "bcf874806c674d21",
+    "cb78be19bbcd09c5",
+    "8f62e98bafdfc0a0",
+    "cc2c13bcf4754aab",
+    "41002f36582128a4",
+    "fc5ff57dc0e58159",
+    "974c2d8b78df458b",
+    "b6b63e3fdd4ca37a",
+    "eff182439e226a7b",
+    "a94ba7de294c50ac",
+    "fff23db28de7d9ff",
+    "9b6f0a0b38b98b14",
+    "4b5df91fa2cbc1d5",
+    "e60dc3f37e3344f5",
+    "a9256bd3cbc1e9f0",
+    "3bd79a4cc1103111",
+    "d8632d9d92c35db2",
+    "6422c19feddf9585",
+    "a3a9a230dba3efea",
+    "d664376e2a8dcecd",
+    "f6f15619e73cd73d",
+    "852174729551523b",
+    "6a6afe73c439375b",
+    "64666a3bc225db05",
+    "7688111d919238e3",
+    "bb900f8b985cdfef",
+    "a3fd0297f5edf0eb",
+    "59e61b45c5fb4b2c",
+    "4c90f961e746ac0c",
+    "1e9d177cb6f7f1c3",
+    "646c3f8e7c5f249a",
+    "73b914ec20c223d1",
+    "617932b11ab71c4c",
+    "46a7286b011acd43",
+    "361af03cd200a3a9",
+    "03434b26d5185998",
+    "6507d7a3297417f8",
+    "9388c74b31c86053",
+    "720af75c92791b10",
+    "cc1166fec09d6765",
+    "8da19d80835c12d1",
+    "d7f896ec121de9d2",
+    "03ebd3100d24afa6",
+    "dc502046b80ba76c",
+    "e03a0eb4d5b2eef3",
+    "dc576e448d460313",
+    "847d865057271719",
+    "64610ae29a6cb67c",
+    "0808af7e284c35ba",
+    "72abe20b1061cb67",
+    "fa12905b6493a8af",
+    "a084eb6a4a968552"
+   ]
+  }
+ ],
+ "fragments": {
+  "3345927f2a8e7bba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de dezembro de 2011\n\nrelativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente\n\n(codificação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 192.º, n.º 1,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntr1-L_2012026PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntr2-L_2012026PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente [([^3])](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntr3-L_2012026PT.01000101-E0003) foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntr4-L_2012026PT.01000101-E0004), sendo conveniente, por uma questão de lógica e clareza, proceder à sua codificação.\n\n(2) Nos termos do artigo 191.º do Tratado sobre o Funcionamento da União Europeia, a politica da União no domínio do ambiente basear-se-á nos princípios da precaução e da acção preventiva, da correcção, prioritariamente na fonte, dos danos causados ao ambiente e do poluidor-pagador. O impacto no ambiente de todos os processos técnicos de planificação e de decisão deverá ser tido em conta, no mais breve prazo.\n\n(3) Afigura-se necessário que sejam harmonizados os princípios de avaliação dos efeitos no ambiente, no que respeita, nomeadamente, aos projectos que deveriam ser sujeitos a avaliação, às principais obrigações dos donos da obra e ao conteúdo da avaliação. Os Estados-Membros podem estabelecer regras mais restritivas em matéria de protecção do ambiente.\n\n(4) Por outro lado, é necessário realizar um dos objectivos da União no domínio da protecção do meio ambiente e da qualidade de vida.\n\n(5) A legislação da União em matéria de ambiente inclui disposições que permitem aos poderes públicos ou outros organismos tomar decisões que podem ter um efeito significativo no ambiente, bem como na saúde e no bem-estar dos indivíduos.\n\n(6) Deveriam ser estabelecidos princípios gerais de avaliação dos efeitos no ambiente, com vista a completar e coordenar os processos de aprovação dos projectos públicos e privados que possam ter um impacto importante no ambiente.\n\n(7) A aprovação dos projectos públicos e privados que possam ter um impacto significativo no ambiente só deverá ser concedida após avaliação dos efeitos significativos que estes projectos possam ter no ambiente. Essa avaliação deverá efectuar-se com base na informação adequada fornecida pelo dono da obra e eventualmente completada pelas autoridades e bem como pelo público a quem o projecto seja susceptível de interessar.\n\n(8) Os projectos que pertencem a determinadas categorias têm um impacto significativo no ambiente e esses projectos deverão em princípio ser sujeitos a uma avaliação sistemática.\n\n(9) Os projectos pertencentes a outras categorias não têm necessariamente um impacto significativo no ambiente em todos os casos e deverão ser sujeitos a uma avaliação caso os Estados-Membros considerem que são susceptíveis de ter um impacto significativo no ambiente.\n\n(10) Os Estados-Membros poderão fixar limiares ou critérios com vista a determinar os projectos que deverão ser avaliados em função da importância do seu impacto no ambiente. Os Estados-Membros não deverão ser obrigados a analisar caso a caso os projectos que não atinjam esses limiares ou não obedeçam a esses critérios.\n\n(11) Ao fixarem esses limiares ou critérios ou ao apreciarem projectos caso a caso com vista a determinar que projectos deverão ser sujeitos a avaliação com base nos seus impactos significativos sobre o ambiente, os Estados-Membros deverão ter em conta os critérios de selecção pertinentes previstos na presente directiva. Em conformidade com o princípio da subsidiariedade, os Estados-Membros estão na melhor posição para aplicar esses critérios aos casos concretos.\n\n(12) Para os projectos que ficam sujeitos a uma avaliação, deverão ser prestadas determinadas informações mínimas relativas ao projecto e aos seus efeitos.\n\n(13) É conveniente estabelecer um procedimento que permita ao dono da obra obter um parecer das autoridades competentes sobre o conteúdo e o alcance das informações a elaborar e a prestar com vista à avaliação. No âmbito deste processo, os Estados-Membros podem exigir que o dono da obra forneça, nomeadamente, alternativas para os projectos relativamente aos quais tenciona apresentar um pedido.\n\n(14) Os efeitos de um projecto no ambiente deverão ser avaliados para proteger a saúde humana, para contribuir através de um ambiente melhor para a qualidade de vida, para garantir a manutenção da diversidade das espécies e para conservar a capacidade de reprodução do ecossistema enquanto recurso fundamental da vida.\n\n(15) É desejável estabelecer disposições reforçadas relativas à ava1iação do impacto ambiental num contexto transfronteiriço, de modo a ter em conta a evo1ução a nível internacional. A Comunidade Europeia assinou, em 25 de Fevereiro de 1991 e ratificou em 24 de Junho de 1997, a Convenção relativa à avaliação dos impactos ambientais num contexto transfronteiriço.\n\n(16) A efectiva participação do público na tomada de decisões permite ao público exprimir, e a quem toma as decisões ter em consideração, as opiniões e preocupações que podem ser relevantes para essas decisões, aumentado assim a responsabilização e transparência do processo de tomada de decisões e contribuindo para a sensibilização do público às questões ambientais e o apoio às decisões tomadas.\n\n(17) A participação, incluindo a participação por parte de associações, organizações e grupos, em especial organizações não governamentais que promovem a protecção do ambiente, deverá ser consequentemente incentivada através, nomeadamente, da promoção da educação do público em matéria ambiental.\n\n(18) A Comunidade Europeia assinou a Convenção da Comissão Económica para a Europa das Nações Unidas sobre o acesso à informação, a participação do público e o acesso à justiça no domínio do ambiente («Convenção de Aarhus») em 25 de Junho de 1998 e ratificou-a em 17 de Fevereiro de 2005.\n\n(19) Um dos objectivos da Convenção de Aarhus é o de garantir os direitos de participação do público na tomada de decisões em questões ambientais, a fim de contribuir para a protecção do direito dos indivíduos de viverem num ambiente propício à sua saúde e bem-estar.\n\n(20) O artigo 6.º da Convenção de Aarhus prevê a participação do público em decisões sobre actividades específicas enumeradas no anexo I da convenção e sobre actividades não incluídas nessa lista que podem ter um efeito significativo no ambiente.\n\n(21) O artigo 9.º, n.^os^ 2 e 4, da Convenção de Aarhus prevê o acesso a processos judiciais ou outros processos com vista à impugnação da legalidade substantiva ou processual de decisões, actos ou omissões sujeitos às disposições de participação do público estabelecidas no artigo 6.º dessa convenção.\n\n(22) Todavia, a presente directiva não deverá aplicar-se a projectos cujos pormenores são adoptados por um acto legislativo nacional específico, visto os objectivos da presente directiva, incluindo o objectivo de prestar informações, serem atingidos através do processo legislativo.\n\n(23) Além disso, em casos excepcionais pode revelar-se oportuno dispensar um projecto específico dos processos de avaliação previstos na presente directiva, sem prejuízo de informar convenientemente a Comissão e o público interessado.\n\n(24) Atendendo a que os objectivos da presente directiva não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão e aos efeitos da acção prevista, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade, consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(25) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas indicadas na parte B do anexo V,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "640e261a2064b41a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva aplica-se à avaliação dos efeitos no ambiente de projectos públicos e privados susceptíveis de terem um impacto considerável no ambiente.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) **«Projecto»**:\n\n— a realização de obras de construção ou de outras instalações ou obras,\n\n— outras intervenções no meio natural ou na paisagem, incluindo as intervenções destinadas à exploração dos recursos do solo;\n\nb) **«Dono da obra»**: o autor de um pedido de aprovação de um projecto privado, ou a autoridade pública que toma a iniciativa relativa a um projecto;\n\nc) **«Aprovação»**: a decisão da autoridade ou das autoridades competentes que confere ao dono da obra o direito de realizar o projecto;\n\nd) **«Público»**: uma ou mais pessoas singulares ou colectivas, bem como, de acordo com a legislação ou práticas nacionais, as suas associações, organizações ou agrupamentos;\n\ne) **«Público em causa»**: o público afectado ou susceptível de ser afectado pelos processos de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, ou neles interessado. Para efeitos da presente definição, consideram-se interessadas as organizações não estatais que promovem a protecção do ambiente e cumprem os requisitos previstos na legislação nacional;\n\nf) **«Autoridade ou autoridades competentes»**: a entidade ou entidades que os Estados-Membros designarem como responsáveis pelo desempenho das tarefas resultantes da presente directiva.\n\n3. Os Estados-Membros podem decidir, avaliando caso a caso e de acordo com a legislação nacional, não aplicar a presente directiva aos projectos que respondam às necessidades de defesa nacional, caso considerem que essa aplicação possa ter efeitos adversos nessas necessidades.\n\n4. A presente directiva não se aplica aos projectos que são adoptados em pormenor por um acto legislativo nacional específico, visto os objectivos da presente directiva, incluindo o de prestar informações, serem atingidos através do processo legislativo."
+  },
+  "1a2d3389bad92828": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros tomarão as disposições necessárias para garantir que, antes de concedida a aprovação, os projectos que possam ter um impacto significativo no ambiente, nomeadamente pela sua natureza, dimensão ou localização, fiquem sujeitos a um pedido de aprovação e a uma avaliação dos seus efeitos. Esses projectos são definidos no artigo 4.º.\n\n2. A avaliação do impacto no ambiente pode ser integrada nos processos de aprovação dos projectos existentes nos Estados-Membros, ou na falta deles, noutros processos ou em processos a estabelecer para responder aos objectivos da presente directiva.\n\n3. Os Estados-Membros poderão prever um procedimento único para cumprir o disposto na presente directiva e na Directiva 2008/1/CE do Parlamento Europeu e do Conselho, de 15 de Janeiro de 2008, relativa à prevenção e controlo integrados da poluição [([^5])](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntr5-L_2012026PT.01000101-E0005).\n\n4. Sem prejuízo do disposto no artigo 7.º, os Estados-Membros podem, em casos excepcionais, isentar um projecto específico, na totalidade ou em parte, das disposições previstas na presente directiva.\n\nNesse caso, os Estados-Membros:\n\na) Examinam a conveniência de outras formas de avaliação;\n\nb) Colocam à disposição do público interessado a informação recolhida através das outras formas de avaliação nos termos da alínea a), a informação relativa à decisão que concede a isenção e os motivos para a concessão da mesma;\n\nc) Informarão a Comissão, antes de concederem a aprovação, dos motivos que justificam a isenção concedida e fornecer-lhe-ão as informações que porão, sempre que aplicável, à disposição dos seus nacionais.\n\nA Comissão transmite imediatamente aos outros Estados-Membros os documentos recebidos.\n\nA Comissão informará anualmente o Parlamento Europeu e o Conselho da aplicação do presente número."
+  },
+  "a11da0f104033a17": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA avaliação de impacto ambiental identificará, descreverá e avaliará de modo adequado, em função de cada caso particular e nos termos dos artigos 4.º a 12.º, os efeitos directos e indirectos de um projecto sobre os seguintes factores:\n\na) O homem, a fauna e a flora;\n\nb) O solo, a água, o ar, o clima e a paisagem;\n\nc) Os bens materiais e o património cultural;\n\nd) A interacção entre os factores referidos nas alíneas a), b) e c)."
+  },
+  "01431efe6d86635c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do disposto no artigo 2.º, n.º 4, os projectos incluídos no anexo I serão submetidos a uma avaliação nos termos dos artigos 5.º a 10.º.\n\n2. Sem prejuízo do disposto no artigo 2.º, n.º 4, os Estados-Membros determinarão, relativamente aos projectos incluídos no anexo II, se o projecto deve ser submetido a uma avaliação nos termos dos artigos 5.º a 10.º. Os Estados-Membros procedem a essa determinação:\n\na) Com base numa análise caso a caso; ou\n\nb) Com base nos limiares ou critérios por eles fixados.\n\nOs Estados-Membros podem decidir aplicar os dois procedimentos referidos nas alíneas a) e b).\n\n3. Quando forem efectuadas análises caso a caso ou fixados limiares ou critérios para efeitos do disposto no n.º 2, serão tidos em conta os critérios de selecção relevantes fixados no anexo III.\n\n4. Os Estados-Membros assegurarão que a decisão adoptada pelas autoridades competentes ao abrigo do n.º 2 seja disponibilizada ao público."
+  },
+  "619f9cf0f2ebad30": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. No caso de projectos que, em conformidade com o disposto no artigo 4.º, devem ser submetidos a uma avaliação de impacto no ambiente, nos termos do presente artigo e dos artigos 6.º a 10.º, os Estados-Membros adoptarão as medidas necessárias para assegurar que o dono da obra forneça, de uma forma adequada, as informações especificadas no anexo IV, na medida em que:\n\na) Os Estados-Membros considerem que essas informações são adequadas a uma determinada fase do processo de aprovação e às características específicas de um projecto determinado ou de um tipo de projecto e dos elementos do ambiente que possam ser afectados;\n\nb) Os Estados-Membros considerem que pode exigir-se razoavelmente que um dono da obra reúna essas informações, atendendo, nomeadamente, aos conhecimentos e aos métodos de avaliação existentes.\n\n2. Os Estados-Membros adoptarão as medidas necessárias para garantir que, se o dono da obra o solicitar antes de apresentar um pedido de aprovação, a autoridade competente dê um parecer sobre as informações a fornecer pelo dono da obra de acordo com o disposto no n.º 1. A autoridade competente consultará o dono da obra e as autoridades referidas no artigo 6.º, n.º 1, antes de dar o seu parecer. O facto de a referida autoridade ter dado um parecer nos termos do presente número não obsta a que solicite posteriormente ao dono da obra informações complementares.\n\nOs Estados-Membros poderão igualmente requerer o parecer das autoridades competentes, independentemente do facto de o dono da obra o ter ou não solicitado.\n\n3. As informações a fornecer pelo dono da obra nos termos do disposto no n.º 1 devem incluir, pelo menos:\n\na) Uma descrição do projecto incluindo as informações relativas à sua localização, à sua concepção e às suas dimensões;\n\nb) Uma descrição das medidas previstas para evitar, reduzir e, se possível, compensar os efeitos negativos significativos;\n\nc) Os dados necessários para identificar e avaliar os principais impactos que o projecto possa ter no ambiente;\n\nd) Um resumo das principais soluções alternativas estudadas pelo dono da obra e a indicação das principais razões da sua escolha, atendendo aos efeitos no ambiente;\n\ne) Um resumo não técnico das informações referidas nas alíneas a) a d).\n\n4. Sempre que o considerem necessário, os Estados-Membros providenciam para que as autoridades que possuem informações relevantes, em especial atendendo ao artigo 3.º, as coloquem à disposição do dono da obra."
+  },
+  "ac17fb4ea90382d0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros tomam as medidas necessárias para assegurar que as autoridades a quem o projecto possa interessar, em virtude da sua responsabilidade específica em matéria de ambiente, tenham a possibilidade de emitir o seu parecer sobre as informações fornecidas pelo dono da obra e sobre o pedido de aprovação. Para o efeito, os Estados-Membros designam as autoridades a consultar, em geral ou caso a caso. As informações reunidas nos termos do artigo 5.º devem ser transmitidas a essas autoridades. As regras relativas à consulta são fixadas pelos Estados-Membros.\n\n2. O público deve ser informado, através de avisos públicos ou por outros meios adequados, como meios electrónicos sempre que disponíveis, dos elementos a seguir referidos, no início dos processos de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, e, o mais tardar, logo que seja razoavelmente possível disponibilizar a informação:\n\na) Pedido de aprovação;\n\nb) O facto de o projecto estar sujeito a um processo de avaliação de impacto ambiental e, se for o caso, o facto de ser aplicável o artigo 7.º;\n\nc) Indicação pormenorizada das autoridades competentes responsáveis pela tomada de decisões, das que podem fornecer informações relevantes e daquelas às quais podem ser apresentadas observações ou questões, bem como pormenores do calendário para o envio de observações ou questões;\n\nd) A natureza de possíveis decisões ou o projecto de decisão, caso exista;\n\ne) Indicação da disponibilidade da informação recolhida nos termos do artigo 5.º;\n\nf) Indicação da data e dos locais em que a informação relevante será disponibilizada, bem como os respectivos meios de disponibilização;\n\ng) Informações pormenorizadas sobre as regras de participação do público decorrentes do n.º 5 do presente artigo.\n\n3. Os Estados-Membros devem assegurar que seja disponibilizado ao público em causa, em prazos razoáveis, o acesso:\n\na) A toda a informação recolhida nos termos do artigo 5.º;\n\nb) De acordo com a legislação nacional, aos principais relatórios e pareceres apresentados à autoridade ou autoridades competentes no momento em que o público em causa deve ser informado nos termos do n.º 2 do presente artigo;\n\nc) De acordo com o disposto na Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre ambiente [([^6])](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntr6-L_2012026PT.01000101-E0006), a outra informação não referida no n.º 2 do presente artigo que seja relevante para a decisão nos termos do artigo 8.º desta directiva e que só esteja disponível depois de o público em causa ser informado nos termos do n.º 2 do presente artigo.\n\n4. Ao público em causa deve ser dada a oportunidade efectiva de participar suficientemente cedo nos processos de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, devendo ter, para esse efeito, o direito de apresentar as suas observações e opiniões, quando estão ainda abertas todas as opções, à autoridade ou autoridades competentes antes de ser tomada a decisão sobre o pedido de aprovação.\n\n5. Compete aos Estados-Membros estabelecer as regras de informação do público (por exemplo, através da afixação de cartazes numa determinada área ou da publicação em jornais locais) e de consulta do público em causa (por exemplo, por escrito ou por inquérito público).\n\n6. Devem ser fixados prazos razoáveis para as diferentes fases, a fim de permitir que se disponha de tempo suficiente para informar o público e para que o público interessado se possa preparar e possa participar efectivamente ao longo do processo de tomada de decisão em matéria de ambiente sob reserva do disposto no presente artigo."
+  },
+  "a434421a3b9ffe18": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Sempre que um Estado-Membro tiver conhecimento de que um projecto pode vir a ter efeitos significativos no ambiente de outro Estado-Membro ou sempre que um Estado-Membro que possa vir a ser significativamente afectado o solicitar, o Estado-Membro em cujo território se prevê a realização do projecto deve enviar ao Estado-Membro afectado, o mais rapidamente possível e o mais tardar quando informar o seu próprio público, nomeadamente:\n\na) Uma descrição do projecto, acompanhada de toda a informação disponível sobre os seus eventuais impactos transfronteiriços;\n\nb) Informação sobre a natureza da decisão que poderá ser tomada.\n\nO Estado-Membro em cujo território se prevê a realização do projecto deve dar ao outro Estado-Membro um prazo razoável para que este informe se deseja participar no processo de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, podendo incluir a informação referida no n.º 2 do presente artigo.\n\n2. Se o Estado-Membro que receber informação nos termos do n.º 1 indicar que tenciona participar no processo de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, o Estado-Membro em cujo território se prevê a realização do projecto deve enviar ao Estado-Membro afectado, se não o tiver já feito, a informação que deve ser transmitida nos termos do artigo 6.º, n.º 2, e disponibilizada nos termos do artigo 6.º, n.º 3, alíneas a) e b).\n\n3. Os Estados-Membros em causa, na parte que a cada um diz respeito, deverão também:\n\na) Providenciar para que as informações referidas nos n.^os^ 1 e 2 sejam, num prazo razoável, postas à disposição das autoridades referidas no artigo 6.º, n.º 1, e do público no território do Estado-Membro susceptível de ser significativamente afectado; e\n\nb) Assegurar que, antes de a aprovação do projecto ser concedida, as autoridades referidas no artigo 6.º, n.º 1, e o público em causa tenham a possibilidade de apresentar, num prazo razoável, o seu parecer sobre as informações fornecidas à autoridade competente do Estado-Membro em cujo território se prevê a realização do projecto.\n\n4. Os Estados-Membros em causa deverão consultar-se reciprocamente, designadamente sobre os potenciais efeitos transfronteiriços do projecto e sobre as medidas previstas para reduzir ou eliminar esses efeitos e fixarão um prazo razoável para o período de consultas.\n\n5. As regras de execução das disposições do presente artigo podem ser estabelecidas pelo Estado-Membro em causa e devem permitir ao público em causa no território do Estado-Membro afectado participar efectivamente nos processos de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2."
+  },
+  "e607e8de614b01ed": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs resultados das consultas e as informações obtidas nos termos dos artigos 5.º, 6.º e 7.º serão tomados em consideração no âmbito do processo de aprovação."
+  },
+  "81b00c021e5e93a3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Quando a aprovação tiver sido concedida ou recusada, a autoridade ou as autoridades competentes comunicarão esse facto ao público, de acordo com os procedimentos adequados, e porão à disposição do público as seguintes informações:\n\na) O teor da decisão e as condições que eventualmente a acompanhem;\n\nb) Tendo examinado as preocupações e opiniões expressas pelo público interessado, os motivos e considerações principais em que se baseia a decisão, incluindo a informação sobre o processo de participação do público;\n\nc) Uma descrição, caso seja necessário, das principais medidas a evitar, reduzir e, se possível, contrabalançar os maiores efeitos adversos.\n\n2. A autoridade ou as autoridades competentes devem informar qualquer Estado-Membro que tenha sido consultado nos termos do artigo 7.º, enviando-lhes a informação referida no n.º 1 do presente artigo.\n\nOs Estados-Membros consultados devem assegurar que essa informação seja colocada, de forma adequada, à disposição do público em causa no seu próprio território."
+  },
+  "0d2b0c2dc64b644a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs disposições da presente directiva não prejudicam a obrigação de as autoridades competentes respeitarem os limites impostos pelas disposições legais, regulamentares e administrativas nacionais e pelas práticas jurídicas estabelecidas em matéria de segredo industrial e comercial, incluindo a propriedade intelectual, bem como a protecção do interesse público.\n\nNos casos em que for aplicável o artigo 7.º, a transmissão de informações a outro Estado-Membro e a recepção de informações por outro Estado-Membro estão sujeitas às restrições em vigor no Estado-Membro em que o projecto foi proposto."
+  },
+  "e60dc3f37e3344f5": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-Membros devem assegurar que, de acordo com o sistema jurídico nacional relevante, os membros do público em causa que:\n\na) Tenham um interesse suficiente ou, em alternativa;\n\nb) Invoquem a violação de um direito, sempre que a legislação de processo administrativo de um Estado-Membro assim o exija como requisito prévio,\n\ntenham a possibilidade de interpor recurso perante um tribunal ou outro órgão independente e imparcial criado por lei para impugnar a legalidade substantiva ou processual de qualquer decisão, acto ou omissão abrangidos pelas disposições de participação do público estabelecidas na presente directiva.\n\n2. Os Estados-Membros devem determinar a fase na qual as decisões, actos ou omissões podem ser impugnados.\n\n3. Os Estados-Membros devem determinar o que constitui um interesse suficiente e a violação de um direito, de acordo com o objectivo que consiste em proporcionar ao público em causa um vasto acesso à justiça. Para tal, considera-se suficiente, para efeitos do n.º 1, alínea a), do presente artigo, o interesse de qualquer organização não governamental que cumpra os requisitos referidos no artigo 1.º, n.º 2. Igualmente se considera, para efeitos do n.º 1, alínea b), do presente artigo, que tais organizações têm direitos susceptíveis de ser violados.\n\n4. O presente artigo não exclui a possibilidade de um recurso preliminar para uma autoridade administrativa e não afecta o requisito de exaustão dos recursos administrativos prévios aos recursos judiciais, caso esse requisito exista na legislação nacional.\n\nO referido processo deve ser justo, equitativo, atempado e não exageradamente dispendioso.\n\n5. Para melhorar a eficácia das disposições do presente artigo, os Estados-Membros devem garantir que sejam postas à disposição do público informações práticas relativas ao acesso às vias de recurso administrativo e judicial."
+  },
+  "4c4d6f1b36abf377": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-Membros e a Comissão trocarão informações sobre a experiência adquirida com a aplicação da presente directiva.\n\n2. Em especial, os Estados-Membros informarão a Comissão dos critérios e/ou dos limiares fixados para a selecção dos projectos em questão, nos termos do disposto no artigo 4.º, n.º 2.\n\n3. Com base nessa troca de informações, a Comissão apresenta, se necessário, propostas suplementares ao Parlamento Europeu e ao Conselho, tendo em vista assegurar uma aplicação suficientemente coordenada da presente directiva."
+  },
+  "3bd79a4cc1103111": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-Membros comunicarão à Comissão o texto das disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "d8632d9d92c35db2": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA Directiva 85/337/CEE, com as alterações que lhe foram introduzidas pelas directivas referidas na parte A do anexo V, é revogada, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional indicados na parte B do anexo V.\n\nAs referências à directiva revogada devem entender-se como sendo feitas para a presente directiva, e devem ser lidas de acordo com o quadro de correspondência constante do anexo VI."
+  },
+  "6422c19feddf9585": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "67f78496b1428736": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs destinatários da presente directiva são os Estados-Membros.\n\nFeito em Estrasburgo, em 13 de dezembro de 2011.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. SZPUNAR**\n\n---"
+  },
+  "d8ed976ce399523a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntc1-L_2012026PT.01000101-E0001) [JO C 248 de 25.8.2011, p. 154](http://publications.europa.eu/resource/oj/JOC_2011_248_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntc2-L_2012026PT.01000101-E0002) Posição do Parlamento Europeu de 13 de Setembro de 2011 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 15 de Novembro de 2011.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntc3-L_2012026PT.01000101-E0003) [JO L 175 de 5.7.1985, p. 40](http://publications.europa.eu/resource/oj/JOL_1985_175_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntc4-L_2012026PT.01000101-E0004) Ver parte A do anexo VI.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntc5-L_2012026PT.01000101-E0005) [JO L 24 de 29.1.2008, p. 8](http://publications.europa.eu/resource/oj/JOL_2008_024_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0013.02/DOC_1#ntc6-L_2012026PT.01000101-E0006) [JO L 41 de 14.2.2003, p. 26](http://publications.europa.eu/resource/oj/JOL_2003_041_R_TOC)."
+  },
+  "f03556ce43f34ab7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de dezembro de 2011\n\nrelativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente\n\n(codificação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 192.º, n.º 1,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário ([^2^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0002)),\n\n(1) A Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^3^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0003)) foi por várias vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0004)), sendo conveniente, por uma questão de lógica e clareza, proceder à sua codificação.\n\n(2) Nos termos do artigo 191.º do Tratado sobre o Funcionamento da União Europeia, a politica da União no domínio do ambiente basear-se-á nos princípios da precaução e da acção preventiva, da correcção, prioritariamente na fonte, dos danos causados ao ambiente e do poluidor-pagador. O impacto no ambiente de todos os processos técnicos de planificação e de decisão deverá ser tido em conta, no mais breve prazo.\n\n(3) Afigura-se necessário que sejam harmonizados os princípios de avaliação dos efeitos no ambiente, no que respeita, nomeadamente, aos projectos que deveriam ser sujeitos a avaliação, às principais obrigações dos donos da obra e ao conteúdo da avaliação. Os Estados-Membros podem estabelecer regras mais restritivas em matéria de protecção do ambiente.\n\n(4) Por outro lado, é necessário realizar um dos objectivos da União no domínio da protecção do meio ambiente e da qualidade de vida.\n\n(5) A legislação da União em matéria de ambiente inclui disposições que permitem aos poderes públicos ou outros organismos tomar decisões que podem ter um efeito significativo no ambiente, bem como na saúde e no bem-estar dos indivíduos.\n\n(6) Deveriam ser estabelecidos princípios gerais de avaliação dos efeitos no ambiente, com vista a completar e coordenar os processos de aprovação dos projectos públicos e privados que possam ter um impacto importante no ambiente.\n\n(7) A aprovação dos projectos públicos e privados que possam ter um impacto significativo no ambiente só deverá ser concedida após avaliação dos efeitos significativos que estes projectos possam ter no ambiente. Essa avaliação deverá efectuar-se com base na informação adequada fornecida pelo dono da obra e eventualmente completada pelas autoridades e bem como pelo público a quem o projecto seja susceptível de interessar.\n\n(8) Os projectos que pertencem a determinadas categorias têm um impacto significativo no ambiente e esses projectos deverão em princípio ser sujeitos a uma avaliação sistemática.\n\n(9) Os projectos pertencentes a outras categorias não têm necessariamente um impacto significativo no ambiente em todos os casos e deverão ser sujeitos a uma avaliação caso os Estados-Membros considerem que são susceptíveis de ter um impacto significativo no ambiente.\n\n(10) Os Estados-Membros poderão fixar limiares ou critérios com vista a determinar os projectos que deverão ser avaliados em função da importância do seu impacto no ambiente. Os Estados-Membros não deverão ser obrigados a analisar caso a caso os projectos que não atinjam esses limiares ou não obedeçam a esses critérios.\n\n(11) Ao fixarem esses limiares ou critérios ou ao apreciarem projectos caso a caso com vista a determinar que projectos deverão ser sujeitos a avaliação com base nos seus impactos significativos sobre o ambiente, os Estados-Membros deverão ter em conta os critérios de selecção pertinentes previstos na presente directiva. Em conformidade com o princípio da subsidiariedade, os Estados-Membros estão na melhor posição para aplicar esses critérios aos casos concretos.\n\n(12) Para os projectos que ficam sujeitos a uma avaliação, deverão ser prestadas determinadas informações mínimas relativas ao projecto e aos seus efeitos.\n\n(13) [**►C1**](http://publications.europa.eu/resource/celex/32011L0092R%2801%29) É conveniente estabelecer um procedimento que permita ao dono da obra obter um parecer das autoridades competentes sobre o conteúdo e o alcance das informações a precisar e a prestar com vista à avaliação**◄**. No âmbito deste processo, os Estados-Membros podem exigir que o dono da obra forneça, nomeadamente, alternativas para os projectos relativamente aos quais tenciona apresentar um pedido.\n\n(14) Os efeitos de um projecto no ambiente deverão ser avaliados para proteger a saúde humana, para contribuir através de um ambiente melhor para a qualidade de vida, para garantir a manutenção da diversidade das espécies e para conservar a capacidade de reprodução do ecossistema enquanto recurso fundamental da vida.\n\n(15) É desejável estabelecer disposições reforçadas relativas à ava1iação do impacto ambiental num contexto transfronteiriço, de modo a ter em conta a evo1ução a nível internacional. A Comunidade Europeia assinou, em 25 de Fevereiro de 1991 e ratificou em 24 de Junho de 1997, a Convenção relativa à avaliação dos impactos ambientais num contexto transfronteiriço.\n\n(16) A efectiva participação do público na tomada de decisões permite ao público exprimir, e a quem toma as decisões ter em consideração, as opiniões e preocupações que podem ser relevantes para essas decisões, aumentado assim a responsabilização e transparência do processo de tomada de decisões e contribuindo para a sensibilização do público às questões ambientais e o apoio às decisões tomadas.\n\n(17) A participação, incluindo a participação por parte de associações, organizações e grupos, em especial organizações não governamentais que promovem a protecção do ambiente, deverá ser consequentemente incentivada através, nomeadamente, da promoção da educação do público em matéria ambiental.\n\n(18) A Comunidade Europeia assinou a Convenção da Comissão Económica para a Europa das Nações Unidas sobre o acesso à informação, a participação do público e o acesso à justiça no domínio do ambiente («Convenção de Aarhus») em 25 de Junho de 1998 e ratificou-a em 17 de Fevereiro de 2005.\n\n(19) Um dos objectivos da Convenção de Aarhus é o de garantir os direitos de participação do público na tomada de decisões em questões ambientais, a fim de contribuir para a protecção do direito dos indivíduos de viverem num ambiente propício à sua saúde e bem-estar.\n\n(20) O artigo 6.º da Convenção de Aarhus prevê a participação do público em decisões sobre actividades específicas enumeradas no anexo I da convenção e sobre actividades não incluídas nessa lista que podem ter um efeito significativo no ambiente.\n\n(21) O artigo 9.º, n.^os^ 2 e 4, da Convenção de Aarhus prevê o acesso a processos judiciais ou outros processos com vista à impugnação da legalidade substantiva ou processual de decisões, actos ou omissões sujeitos às disposições de participação do público estabelecidas no artigo 6.º dessa convenção.\n\n(22) Todavia, a presente directiva não deverá aplicar-se a projectos cujos pormenores são adoptados por um acto legislativo nacional específico, visto os objectivos da presente directiva, incluindo o objectivo de prestar informações, serem atingidos através do processo legislativo.\n\n(23) Além disso, em casos excepcionais pode revelar-se oportuno dispensar um projecto específico dos processos de avaliação previstos na presente directiva, sem prejuízo de informar convenientemente a Comissão e o público interessado.\n\n(24) Atendendo a que os objectivos da presente directiva não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão e aos efeitos da acção prevista, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade, consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(25) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas indicadas na parte B do anexo V,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "bcf874806c674d21": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva aplica-se à avaliação dos efeitos no ambiente de projectos públicos e privados susceptíveis de terem um impacto considerável no ambiente.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) «Projecto»: — a realização de obras de construção ou de outras instalações ou obras, — outras intervenções no meio natural ou na paisagem, incluindo as intervenções destinadas à exploração dos recursos do solo;\n\nb) «Dono da obra»: o autor de um pedido de aprovação de um projecto privado, ou a autoridade pública que toma a iniciativa relativa a um projecto;\n\nc) «Aprovação»: a decisão da autoridade ou das autoridades competentes que confere ao dono da obra o direito de realizar o projecto;\n\nd) «Público»: uma ou mais pessoas singulares ou colectivas, bem como, de acordo com a legislação ou práticas nacionais, as suas associações, organizações ou agrupamentos;\n\ne) «Público em causa»: o público afectado ou susceptível de ser afectado pelos processos de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, ou neles interessado. Para efeitos da presente definição, consideram-se interessadas as organizações não estatais que promovem a protecção do ambiente e cumprem os requisitos previstos na legislação nacional;\n\nf) «Autoridade ou autoridades competentes»: a entidade ou entidades que os Estados-Membros designarem como responsáveis pelo desempenho das tarefas resultantes da presente directiva;\n\ng) “Avaliação de impacto ambiental”: um processo que consiste: i) na preparação de um relatório de avaliação do impacto ambiental pelo dono da obra, tal como referido no artigo 5.º, n.^os^ 1 e 2, ii) na realização de consultas a que se refere o artigo 6.º e, se aplicável, o artigo 7.º, iii) na análise pela autoridade competente da informação apresentada no estudo de impacto ambiental e de qualquer informação suplementar fornecida, se necessário, pelo dono da obra de acordo com o artigo 5.º, n.º 3, bem como todas as informações relevantes recebidas por via das consultas previstas nos artigos 6.º e 7.º, iv) na conclusão fundamentada pela autoridade competente sobre os efeitos significativos do projeto no ambiente, tendo em conta os resultados da análise referida no ponto (iii) e, se adequado, do seu próprio exame complementar, e v) na integração da conclusão fundamentada pela autoridade competente, em qualquer das decisões referidas no artigo 8.º-A.\n\n3. Os Estados-Membros podem decidir, avaliando caso a caso e se a legislação nacional assim o previr, não aplicar a presente diretiva aos projetos, ou partes de projetos, que tenham como único objetivo a defesa ou aos projetos que tenham como único objetivo a resposta a emergências civis, caso considerem que essa aplicação poderia ter efeitos negativos nesses objetivos."
+  },
+  "cb78be19bbcd09c5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros tomarão as disposições necessárias para garantir que, antes de concedida a aprovação, os projetos que possam ter impactos significativos no ambiente, nomeadamente pela sua natureza, dimensão ou localização, fiquem sujeitos a um pedido de autorização e a uma avaliação dos seus impactos no ambiente. Esses projetos são definidos no artigo 4.º.\n\n2. A avaliação de impacto ambiental pode ser integrada nos processos existentes para aprovação de projetos nos Estados-Membros, ou, na falta deles, noutros processos ou em processos a estabelecer para responder aos objetivos da presente diretiva.\n\n3. No caso dos projetos para os quais a obrigação de efetuar uma avaliação dos efeitos no ambiente decorra simultaneamente da presente diretiva e da Diretiva 92/43/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0005)) e/ou da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0006)), os Estados-Membros devem, se necessário, garantir que são estabelecidos os processos coordenados e/ou conjuntos que cumpram os requisitos daquela legislação da União.\n\nNo caso de projetos para os quais a obrigação de proceder a avaliações dos efeitos no ambiente decorre simultaneamente da presente diretiva e de legislação da União distinta das diretivas enumeradas no primeiro parágrafo, os Estados-Membros podem estabelecer processos coordenados e/ou conjuntos.\n\nNo âmbito do processo coordenado a que se referem o primeiro e o segundo parágrafos, os Estados-Membros devem envidar esforços no sentido de coordenar as várias avaliações individuais do impacto no ambiente de um determinado projeto impostas pela legislação relevante da União, designando uma autoridade para esse efeito, sem prejuízo de eventuais disposições em contrário previstas noutra legislação aplicável da União.\n\nNo âmbito do processo conjunto a que se referem o primeiro e o segundo parágrafos, os Estados-Membros devem envidar esforços no sentido de prever uma única avaliação dos impactos no ambiente de um determinado projeto imposta pela legislação relevante da União, sem prejuízo de eventuais disposições em contrário previstas noutra legislação aplicável da União.\n\nA Comissão deve fornecer orientações no que diz respeito à definição de processos coordenados ou conjuntos para projetos que são simultaneamente sujeitos a avaliações nos termos da presente diretiva e das diretivas 92/43/CEE, 2000/60/CE, 2009/147/CE e 2010/75/UE;\n\n4. Sem prejuízo do disposto no artigo 7.º, os Estados-Membros podem, em casos excecionais, isentar um projeto específico das disposições previstas na presente diretiva, caso a aplicação dessas disposições contrarie o objetivo do projeto, desde que sejam cumpridos os objetivos da presente diretiva.\n\nNesse caso, os Estados-Membros:\n\na) Examinam a conveniência de outras formas de avaliação;\n\nb) Colocam à disposição do público interessado a informação recolhida através das outras formas de avaliação nos termos da alínea a), a informação relativa à decisão que concede a isenção e os motivos para a concessão da mesma;\n\nc) Informarão a Comissão, antes de concederem a aprovação, dos motivos que justificam a isenção concedida e fornecer-lhe-ão as informações que porão, sempre que aplicável, à disposição dos seus nacionais.\n\nA Comissão transmite imediatamente aos outros Estados-Membros os documentos recebidos.\n\nA Comissão informará anualmente o Parlamento Europeu e o Conselho da aplicação do presente número.\n\n5. Sem prejuízo do disposto no artigo 7.º, nos casos em que um projeto seja adotado por um ato legislativo nacional específico, os Estados-Membros podem isentar esse projeto do cumprimento das disposições relacionadas com a consulta pública estabelecidas na presente diretiva, desde que sejam cumpridos os objetivos da presente diretiva.\n\nDe dois em dois anos a contar de 16 de maio de 2017, os Estados-Membros informam a Comissão da aplicação da isenção a que se refere o primeiro parágrafo."
+  },
+  "8f62e98bafdfc0a0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A avaliação de impacto ambiental deve identificar, descrever e avaliar de modo adequado, em função de cada caso particular, os efeitos significativos diretos e indiretos de um projeto sobre os seguintes fatores:\n\na) População e saúde humana;\n\nb) Biodiversidade, com particular ênfase nas espécies e *habitats* protegidos ao abrigo da Diretiva 92/43/CEE do Conselho e da Diretiva 2009/147/CE;\n\nc) Terra, solo, água, ar e clima;\n\nd) Bens materiais, património cultural e paisagem;\n\ne) Interação entre os fatores referidos nas alíneas a) a d).\n\n2. Os efeitos a que se refere o n.º 1 sobre os fatores nele enunciados incluem os efeitos esperados decorrentes da vulnerabilidade do projeto perante os riscos de acidentes graves e/ou de catástrofes que sejam relevantes para o projeto em causa."
+  },
+  "cc2c13bcf4754aab": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do disposto no artigo 2.º, n.º 4, os projectos incluídos no anexo I serão submetidos a uma avaliação nos termos dos artigos 5.º a 10.º.\n\n2. Sem prejuízo do disposto no artigo 2.º, n.º 4, os Estados-Membros determinarão, relativamente aos projectos incluídos no anexo II, se o projecto deve ser submetido a uma avaliação nos termos dos artigos 5.º a 10.º. Os Estados-Membros procedem a essa determinação:\n\na) Com base numa análise caso a caso;\n\nb) Com base nos limiares ou critérios por eles fixados.\n\nOs Estados-Membros podem decidir aplicar os dois procedimentos referidos nas alíneas a) e b).\n\n3. Se forem efetuadas análises caso a caso ou fixados limiares ou critérios para efeitos do disposto no n.º 2, são tidos em conta os critérios de seleção relevantes fixados no Anexo III. Os Estados-Membros podem fixar limiares ou critérios para determinar os casos em que não é necessário que os projetos sejam objeto de uma determinação nos termos dos n.^os^ 4 e 5, nem necessitem de uma avaliação de impacto ambiental, e/ou limiares ou critérios para determinar os casos em que os projetos devem, impreterivelmente, ser sujeitos a uma avaliação de impacto ambiental, sem serem objeto da determinação estabelecida nos n.^os^ 4 e 5.\n\n4. Caso os Estados-Membros decidam exigir uma determinação para os projetos enumerados no Anexo II, o dono da obra deve fornecer informações sobre as características do projeto e os seus eventuais efeitos significativos no ambiente. A lista detalhada das informações a fornecer é especificada no Anexo II-A. O dono da obra deve ter em conta, se necessário, os resultados disponíveis de outras avaliações dos efeitos no ambiente realizadas por força de legislação da União diversa da presente diretiva. O dono da obra pode também fornecer uma descrição das características do projeto e/ou das medidas previstas para evitar ou prevenir potenciais efeitos negativos significativos no ambiente.\n\n5. A autoridade competente procede à sua determinação com base nas informações fornecidas pelo dono da obra nos termos do n.º 4, tendo em conta, se relevante, os resultados de verificações preliminares ou avaliações dos efeitos no ambiente realizadas por força de legislação da União diversa da presente diretiva. A determinação deve ser disponibilizada ao público e:\n\na) Caso seja decidido que é necessária uma avaliação do impacto ambiental, indicar as principais razões para a exigência dessa avaliação, tendo como referência os critérios relevantes enumerados no Anexo III; ou\n\nb) Caso seja decidido que não é necessária uma avaliação de impacto ambiental, indicar as principais razões para a não exigência dessa avaliação, tendo como referência os critérios relevantes enumerados no Anexo III, e, se proposto pelo dono da obra, indicar as características do projeto e/ou as medidas previstas para evitar ou prevenir o que, de outro modo, teria resultado em efeitos negativos significativos no ambiente.\n\n6. Os Estados-Membros asseguram que a autoridade competente procede à sua determinação o mais rapidamente possível e num prazo não superior a 90 dias a contar da data em que o dono da obra tiver entregado todas as informações exigidas nos termos do n.º 4. Em casos excecionais relacionados, por exemplo, com a natureza, complexidade, localização e dimensão do projeto, a autoridade competente pode prolongar o prazo para proceder à sua determinação; nesse caso, a autoridade competente informa o dono da obra por escrito das razões que justificam a prorrogação do prazo e da data na qual prevê proceder à sua determinação."
+  },
+  "41002f36582128a4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Caso seja necessária uma avaliação de impacto ambiental, o dono da obra elabora e apresenta um estudo de impacto ambiental. As informações a fornecer pelo dono da obra devem incluir, pelo menos:\n\na) Uma descrição do projeto, incluindo as informações relativas à sua localização, conceção, dimensões e outras características relevantes do projeto;\n\nb) Uma descrição dos potenciais efeitos significativos do projeto no ambiente;\n\nc) Uma descrição das características do projeto e/ou das medidas previstas para evitar, prevenir ou reduzir e, se possível, compensar os potenciais efeitos negativos significativos no ambiente;\n\nd) Uma descrição das alternativas razoáveis estudadas pelo dono da obra, que são relevantes para o projeto e para as suas características específicas, e a indicação das principais razões para a opção escolhida, tendo em conta os efeitos do projeto no ambiente;\n\ne) Um resumo não técnico das informações referidas nas alíneas a) a d); e\n\nf) Quaisquer informações suplementares especificadas no Anexo IV relevantes para as características específicas de um determinado projeto ou tipo de projeto e para os elementos ambientais suscetíveis de serem afetados.\n\nCaso seja emitido um parecer nos termos do n.º 2, o relatório de avaliação do impacto ambiental baseia-se nesse parecer, e inclui as informações que possam com razoabilidade ser exigidas para se formar uma conclusão fundamentada sobre os efeitos significativos do projeto no ambiente, tendo em conta os conhecimentos e os métodos de avaliação atuais. Para evitar a duplicação das avaliações, o dono da obra deve, na elaboração do relatório de avaliação de impacto ambiental, ter em conta os resultados de outras avaliações pertinentes disponíveis ao abrigo da legislação da União ou da legislação nacional.\n\n2. Se solicitado pelo dono da obra, as autoridades competentes, tendo em conta as informações fornecidas pelo próprio, em especial, sobre as características específicas do projeto, incluindo a sua localização e capacidade técnica, e o seu provável impacto no ambiente, deve emitir um parecer sobre o âmbito e o nível de pormenor das informações a incluir pelo dono da obra no relatório de avaliação do impacto ambiental, nos termos do n.º 1 do presente artigo. Antes de emitir o seu parecer, a autoridade competente consulta as autoridades referidas no artigo 6.º, n.º 1.\n\nOs Estados-Membros também podem requerer o parecer das autoridades competentes tal como referido no primeiro parágrafo, independentemente do facto de o dono da obra o ter ou não solicitado.\n\n3. A fim de assegurar a exaustividade e qualidade dos relatórios de avaliação do impacto ambiental:\n\na) O dono da obra assegura que o relatório de avaliação do impacto ambiental é preparado por peritos competentes;\n\nb) A autoridade competente assegura que dispõe de peritos suficientes, ou tem possibilidade de recorrer, se necessário, a peritos, para examinar o relatório de avaliação do impacto ambiental; e\n\nc) Se necessário, a autoridade competente solicita informações suplementares ao dono da obra, nos termos do Anexo IV, que sejam diretamente relevantes para formar a sua conclusão fundamentada sobre os efeitos significativos do projeto no ambiente.\n\n4. Sempre que o considerem necessário, os Estados-Membros providenciam para que as autoridades que possuem informações relevantes, em especial atendendo ao artigo 3.º, as coloquem à disposição do dono da obra."
+  },
+  "fc5ff57dc0e58159": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros tomam as medidas necessárias para assegurar que as autoridades a quem o projeto possa interessar, em virtude da sua responsabilidade específica em matéria de ambiente ou das suas competências a nível local e regional, tenham a possibilidade de emitir o seu parecer sobre as informações fornecidas pelo dono da obra e sobre o pedido de autorização, tendo em conta, se for caso disso, os casos referidos no artigo 8.º-A, n.º 3. Para o efeito, os Estados-Membros designam as autoridades a consultar, em geral ou caso a caso. As informações reunidas nos termos do artigo 5.º são transmitidas a essas autoridades. As regras relativas à consulta são fixadas pelos Estados-Membros.\n\n2. A fim de assegurar a efetiva participação do público interessado no processo de tomada de decisão, o público é informado por via eletrónica e através de avisos públicos ou por outros meios adequados, das seguintes questões no início do processo de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, o mais tardar, logo que seja razoavelmente possível fornecer a informação:\n\na) Pedido de aprovação;\n\nb) O facto de o projecto estar sujeito a um processo de avaliação de impacto ambiental e, se for o caso, o facto de ser aplicável o artigo 7.º;\n\nc) Indicação pormenorizada das autoridades competentes responsáveis pela tomada de decisões, das que podem fornecer informações relevantes e daquelas às quais podem ser apresentadas observações ou questões, bem como pormenores do calendário para o envio de observações ou questões;\n\nd) A natureza de possíveis decisões ou o projecto de decisão, caso exista;\n\ne) Indicação da disponibilidade da informação recolhida nos termos do artigo 5.º;\n\nf) Indicação da data e dos locais em que a informação relevante será disponibilizada, bem como os respectivos meios de disponibilização;\n\ng) Informações pormenorizadas sobre as regras de participação do público decorrentes do n.º 5 do presente artigo.\n\n3. Os Estados-Membros devem assegurar que seja disponibilizado ao público em causa, em prazos razoáveis, o acesso:\n\na) A toda a informação recolhida nos termos do artigo 5.º;\n\nb) De acordo com a legislação nacional, aos principais relatórios e pareceres apresentados à autoridade ou autoridades competentes no momento em que o público em causa deve ser informado nos termos do n.º 2 do presente artigo;\n\nc) De acordo com o disposto na Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre ambiente ([^7^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0007)), a outra informação não referida no n.º 2 do presente artigo que seja relevante para a decisão nos termos do artigo 8.º desta directiva e que só esteja disponível depois de o público em causa ser informado nos termos do n.º 2 do presente artigo.\n\n4. Ao público em causa deve ser dada a oportunidade efectiva de participar suficientemente cedo nos processos de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, devendo ter, para esse efeito, o direito de apresentar as suas observações e opiniões, quando estão ainda abertas todas as opções, à autoridade ou autoridades competentes antes de ser tomada a decisão sobre o pedido de aprovação.\n\n5. Compete aos Estados-Membros estabelecer as modalidades concretas relativas à informação do público (por exemplo, através da afixação de cartazes numa determinada área ou da publicação em jornais locais) e à consulta do público em causa (por exemplo, por escrito ou por inquérito público). Os Estados-Membros adotam as medidas necessárias para assegurar que as informações relevantes são acessíveis ao público por via eletrónica, através de, pelo menos, um portal central ou pontos de acesso facilmente acessíveis, ao nível administrativo adequado.\n\n6. São fixados prazos razoáveis para as diferentes fases, de modo a prever tempo suficiente para:\n\na) Informar as autoridades a que se refere o n.º 1, e o público; e\n\nb) As autoridades a que se refere o n.º 1, e o público em causa prepararem e participarem efetivamente no processo de tomada de decisão ambiental, sem prejuízo do disposto no presente artigo.;\n\n7. Os prazos para a consulta do público em causa sobre o relatório de avaliação do impacto ambiental a que se refere o artigo 5.º, n.º 1, não podem ser inferiores a 30 dias."
+  },
+  "974c2d8b78df458b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Sempre que um Estado-Membro tiver conhecimento de que um projecto pode vir a ter efeitos significativos no ambiente de outro Estado-Membro ou sempre que um Estado-Membro que possa vir a ser significativamente afectado o solicitar, o Estado-Membro em cujo território se prevê a realização do projecto deve enviar ao Estado-Membro afectado, o mais rapidamente possível e o mais tardar quando informar o seu próprio público, nomeadamente:\n\na) Uma descrição do projecto, acompanhada de toda a informação disponível sobre os seus eventuais impactos transfronteiriços;\n\nb) Informação sobre a natureza da decisão que poderá ser tomada.\n\nO Estado-Membro em cujo território se prevê a realização do projecto deve dar ao outro Estado-Membro um prazo razoável para que este informe se deseja participar no processo de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, podendo incluir a informação referida no n.º 2 do presente artigo.\n\n2. Se o Estado-Membro que receber informação nos termos do n.º 1 indicar que tenciona participar no processo de tomada de decisão no domínio do ambiente a que se refere o artigo 2.º, n.º 2, o Estado-Membro em cujo território se prevê a realização do projecto deve enviar ao Estado-Membro afectado, se não o tiver já feito, a informação que deve ser transmitida nos termos do artigo 6.º, n.º 2, e disponibilizada nos termos do artigo 6.º, n.º 3, alíneas a) e b).\n\n3. Os Estados-Membros em causa, na parte que a cada um diz respeito, deverão também:\n\na) Providenciar para que as informações referidas nos n.^os^ 1 e 2 sejam, num prazo razoável, postas à disposição das autoridades referidas no artigo 6.º, n.º 1, e do público no território do Estado-Membro susceptível de ser significativamente afectado; e\n\nb) Assegurar que, antes de a aprovação do projecto ser concedida, as autoridades referidas no artigo 6.º, n.º 1, e o público em causa tenham a possibilidade de apresentar, num prazo razoável, o seu parecer sobre as informações fornecidas à autoridade competente do Estado-Membro em cujo território se prevê a realização do projecto.\n\n4. Os Estados-Membros em causa devem consultar-se reciprocamente, designadamente sobre os potenciais efeitos transfronteiriços do projeto e sobre as medidas previstas para reduzir ou eliminar esses efeitos e fixam um prazo razoável para o período de consultas.\n\nEssas consultas podem ser efetuadas através de um organismo conjunto adequado\n\n5. As disposições de execução do disposto nos números 1 a 4 do presente artigo, incluindo o estabelecimento de prazos para as consultas, são determinadas pelos Estados-Membros em causa, com base nas disposições e prazos referidos no artigo 6.º, n.^os^ 5 a 7, e devem ser de molde a permitir que o público em causa do território do Estado-Membro afetado participe efetivamente nos processos de tomada de decisões ambientais a que se refere o artigo 2.º, n.º 2, relativos ao projeto."
+  },
+  "b6b63e3fdd4ca37a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs resultados das consultas e as informações obtidas por força dos artigos 5.º a 7.º devem ser tomados em devida consideração no âmbito do processo de aprovação."
+  },
+  "eff182439e226a7b": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\n1. A decisão que concede a autorização deve incorporar, pelo menos, as seguintes informações:\n\na) A conclusão fundamentada a que se refere o artigo 1.º, n.º 2, alínea g), subalínea iv);\n\nb) As condições ambientais apensas à decisão, uma descrição das principais características do projeto e/ou das medidas previstas para evitar, prevenir ou reduzir e, se possível, compensar os efeitos negativos significativos no ambiente e, se adequado, as medidas de monitorização.\n\n2. A decisão de recusa da aprovação deve indicar as principais razões da recusa.\n\n3. No caso de Estados-Membros que utilizam os procedimentos referidos no artigo 2.º, n.º 2, que não sejam procedimentos de aprovação, os requisitos previstos nos n.^os^ 1 e 2 do presente artigo, consoante o caso, são considerados cumpridos quando qualquer decisão proferida no contexto destes procedimentos contenha as informações previstas nesses números e existam mecanismos que permitam o cumprimento do disposto no n.º 6 do presente artigo.\n\n4. De acordo com os requisitos previstos no n.º 1, alínea b), os Estados-Membros asseguram que as características do projeto e/ou as medidas previstas para evitar, prevenir ou reduzir e, se possível, compensar os efeitos negativos significativos no ambiente sejam executadas pelo dono da obra e determinam os procedimentos relativos à monitorização dos efeitos negativos significativos no ambiente.\n\nO tipo de parâmetros a monitorizar e a duração da monitorização devem ser proporcionais à natureza, localização e dimensão do projeto, bem como à importância dos seus efeitos no ambiente.\n\nPodem ser utilizadas, se for caso disso, disposições de monitorização já existentes, resultantes de legislação da União, diversa da presente diretiva, e de legislação nacional, a fim de evitar a duplicação da monitorização.\n\n5. Os Estados-Membros asseguram que a autoridade competente tome a decisão referida nos n.^os^ 1 a 3 dentro de um prazo razoável.\n\n6. A autoridade competente deve assegurar-se de que a conclusão fundamentada referida no artigo 1.º, n.º 2, alínea g), subalínea iv), ou qualquer uma das decisões referidas no n.º 3 do presente artigo, está ainda atualizada na data de adoção da decisão que concede a aprovação. Para o efeito, os Estados-Membros podem fixar prazos para a validade da conclusão fundamentada referida no artigo 1.º, n.º 2, alínea g), subalínea iv), ou de qualquer uma das decisões referidas no n.º 3 do presente artigo."
+  },
+  "a94ba7de294c50ac": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Depois de tomada a decisão de conceder ou recusar a autorização, a autoridade ou autoridades competentes devem informar prontamente do facto o público e as autoridades a que se refere o artigo 6.º, n.º 1, de acordo com os procedimentos nacionais, e garantir que as seguintes informações são postas à disposição do público e das autoridades referidas no artigo 6.º, n.º 1, tendo em conta, se for caso disso, os casos a que se refere o artigo 8.º-A, n.º 3:\n\na) O teor da decisão e as condições que eventualmente a acompanhem, tal como referido no artigo 8.º-A, n.^os^ 1 e 2;\n\nb) Os motivos e considerações principais em que se baseia a decisão, incluindo informações sobre o processo de participação do público; Incluem-se igualmente o resumo dos resultados das consultas e as informações obtidas nos termos dos artigos 5.º a 7.º e a forma como esses resultados foram incorporadas ou diversamente tidas em conta, em especial as observações recebidas do Estado-Membro afetado referido no artigo 7.º.\n\n2. A autoridade ou as autoridades competentes devem informar qualquer Estado-Membro que tenha sido consultado nos termos do artigo 7.º, enviando-lhes a informação referida no n.º 1 do presente artigo.\n\nOs Estados-Membros consultados devem assegurar que essa informação seja colocada, de forma adequada, à disposição do público em causa no seu próprio território."
+  },
+  "fff23db28de7d9ff": {
+   "fragment_id": "Artigo 9-A",
+   "type": "artigo",
+   "heading": "Artigo 9-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9-A\n\nOs Estados-Membros asseguram que a autoridade ou autoridades competentes cumpram as obrigações decorrentes da presente diretiva de um modo objetivo e não se encontram numa situação suscetível de dar origem a um conflito de interesses.\n\nNos casos em que a autoridade competente é simultaneamente o dono da obra, os Estados-Membros devem, pelo menos, aplicar, na sua organização de competências administrativas, uma separação adequada entre as funções conflituantes dessas autoridades no desempenho das tarefas resultantes da presente diretiva."
+  },
+  "9b6f0a0b38b98b14": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSem prejuízo do disposto na Diretiva 2003/4/CE, as disposições da presente diretiva não prejudicam a obrigação de as autoridades competentes respeitarem os limites impostos pelas disposições legais, regulamentares e administrativas nacionais e pelas práticas jurídicas estabelecidas em matéria de segredo industrial e comercial, incluindo a propriedade intelectual, bem como a proteção do interesse público.\n\nNos casos em que for aplicável o artigo 7.º, a transmissão de informações a outro Estado-Membro e a recepção de informações por outro Estado-Membro estão sujeitas às restrições em vigor no Estado-Membro em que o projecto foi proposto."
+  },
+  "4b5df91fa2cbc1d5": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\nOs Estados-Membros estabelecem as regras relativas às sanções aplicáveis às violações das disposições nacionais aprovadas em aplicação da presente diretiva. As sanções previstas devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "a9256bd3cbc1e9f0": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-Membros e a Comissão trocarão informações sobre a experiência adquirida com a aplicação da presente directiva.\n\n2. Em particular, de seis em seis anos a contar de 16 de maio de 2017, os Estados-Membros devem, caso tal informação esteja disponível, informar a Comissão do seguinte:\n\na) Número de projetos a que se referem os Anexos I e II que foram objeto de avaliação do impacto ambiental nos termos dos artigos 5.º a 10.º;\n\nb) Repartição das avaliações do impacto ambiental de acordo com as categorias de projetos previstas nos Anexos I e II;\n\nc) Número de projetos a que se refere o Anexo II que foram objeto de uma determinação nos termos do artigo 4.º, n.º 2;\n\nd) Duração média do processo de avaliação do impacto ambiental;\n\ne) Estimativas gerais sobre o custo médio direto das avaliações de impacto ambiental, incluindo o impacto decorrente da aplicação da presente diretiva às PME.\n\n3. Com base nessa troca de informações, a Comissão apresenta, se necessário, propostas suplementares ao Parlamento Europeu e ao Conselho, tendo em vista assegurar uma aplicação suficientemente coordenada da presente directiva."
+  },
+  "a3a9a230dba3efea": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs destinatários da presente directiva são os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f6f15619e73cd73d": {
+   "fragment_id": "PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 1",
+   "type": "divisao",
+   "heading": "PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 1\n\n1. Refinarias de petróleo bruto (excluindo as empresas que produzem unicamente lubrificantes a partir do petróleo bruto) e instalações de gaseificação e de liquefacção de pelo menos 500 toneladas de carvão ou de xisto betuminoso por dia.\n\na) Centrais térmicas e outras instalações de combustão com uma potência calorífica de pelo menos 300 MW;\n\nb) Centrais nucleares e outros reactores nucleares, incluindo o desmantelamento e a desactivação dessas centrais nucleares ou dos reactores nucleares ([^8^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0008)) (excluindo as instalações de investigação para a produção e transformação de matérias cindíveis e férteis cuja potência máxima não ultrapasse 1 kW de carga térmica contínua).\n\na) Instalações de reprocessamento de combustíveis nucleares irradiados;\n\nb) Instalações destinadas:\n\ni) à produção ou ao enriquecimento de combustível nuclear,\n\nii) ao processamento de combustível nuclear irradiado ou resíduos altamente radioactivos,\n\niii) à eliminação final de combustível nuclear irradiado,\n\niv) exclusivamente à eliminação final de resíduos radioactivos,\n\nv) exclusivamente à armazenagem (planeada para mais de dez anos) de combustíveis nucleares irradiados ou outros resíduos radioactivos, num local que não seja o local da produção.\n\na) Instalações integradas para a primeira fusão de ferro fundido e de aço;\n\nb) Instalações para a produção de metais brutos não ferrosos a partir de minérios, de concentrados ou de matérias-primas secundárias por processos metalúrgicos, químicos ou electrolíticos.\n\n5. Instalações destinadas à extracção de amianto e ao processamento e transformação de amianto e de produtos que contenham amianto: no caso dos produtos de fibrocimento, com uma produção anual de mais de 20 000 toneladas de produtos acabados; no caso de material de atrito, com uma produção anual de mais de 50 toneladas de produtos acabados; para outras utilizações de amianto, utilização de mais de 200 toneladas por ano.\n\n6. Instalações químicas integradas, ou seja, instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos:\n\na) Produtos químicos orgânicos de base;\n\nb) Produtos químicos inorgânicos de base;\n\nc) Adubos à base de fósforo, azoto ou potássio (adubos simples ou compostos);\n\nd) Produtos fitofarmacêuticos de base e biocidas;\n\ne) Produtos farmacêuticos de base, que utilizem processos químicos ou biológicos;\n\nf) Explosivos.\n\na) Construção de vias para o tráfego ferroviário de longo curso e de aeroportos ([^9^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0009)) cuja pista de descolagem e de aterragem tenha um comprimento de, pelo menos, 2 100 metros;\n\nb) Construção de auto-estradas e vias rápidas ([^10^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0010));\n\nc) Construção de novas estradas com quatro ou mais faixas de rodagem ou rectificação e/ou alargamento de estradas já existentes com duas ou menos faixas para quatro ou mais faixas, quando essas novas estradas ou esses segmentos de estrada rectificados e/ou alargados tiverem, pelo menos, 10 quilómetros de troço contínuo.\n\na) Vias navegáveis interiores e portos para navegação interior que permitam o acesso a embarcações de tonelagem superior a 1 350 toneladas;\n\nb) Portos comerciais, cais para carga e descarga com ligação a terra e portos exteriores (excluindo os cais para barcos de passageiros) que possam receber navios de mais de 1 350 toneladas.\n\n9. Instalações de eliminação de resíduos destinadas à incineração, tratamento químico, tal como definido no anexo I, ponto D 9, da Directiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos ([^11^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0011)), ou aterro de resíduos perigosos, tais como definidos no ponto 2 do artigo 3.º dessa directiva.\n\n10. Instalações de eliminação de resíduos destinadas à incineração ou ao tratamento químico, tal como definido no anexo I, ponto D 9, da Directiva 2008/98/CE, de resíduos não perigosos com capacidade superior a 100 toneladas por dia.\n\n11. Sistemas de captação de águas subterrâneas ou de recarga artificial dos lençóis freáticos em que o volume anual de água captado ou de recarga seja equivalente ou superior a 10 milhões de metros cúbicos.\n\na) Obras de transferência de recursos hídricos entre bacias hidrográficas sempre que esta transferência se destine a prevenir as carências de água e em que o volume de água transferido seja superior a 100 milhões de metros cúbicos por ano.\n\nb) Todos os outros casos de obras de transferência de recursos hídricos entre bacias hidrográficas em que o caudal médio plurianual na bacia de captação exceda 2 000 milhões de metros cúbicos por ano e em que o volume de água transferida exceda 5 % desse caudal.\n\n13. Estações de tratamento de águas residuais de capacidade superior a 150 000 hab/eq. segundo a definição constante do artigo 2.º, ponto 6, da Directiva 91/271/CEE do Conselho, de 21 de maio de 1991, relativa ao tratamento de águas residuais urbanas ([^12^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0012)).\n\n14. Extracção de petróleo e gás natural para fins comerciais, quando a quantidade extraída for superior a 500 toneladas por dia no caso do petróleo e 500 000 metros cúbicos por dia no caso do gás.\n\n15. Barragens e outras instalações concebidas para a retenção ou o armazenagem permanente de água, em que um novo volume ou um volume adicional de água retida ou armazenada seja superior a 10 milhões de metros cúbicos.\n\n16. Condutas com diâmetro superior a 800 mm e comprimento superior a 40 km:\n\na) Para o transporte de gás, petróleo ou produtos químicos;\n\nb) Para o transporte de fluxos de dióxido de carbono (CO2) para efeitos de armazenamento geológico, incluindo estações de bombagem associadas.\n\n17. Instalações para a criação intensiva de aves de capoeira ou de suínos, com espaço para mais de:\n\na) 85 000 frangos, 60 000 galinhas;\n\nb) 3 000 porcos de engorda (de mais de 30 quilogramas); ou\n\nc) 900 porcas.\n\n18. Instalações industriais de:\n\na) Fabrico de pasta de papel a partir de madeira ou de outras substâncias fibrosas;\n\nb) Fabrico de papel e cartão com uma capacidade de produção superior a 200 toneladas por dia.\n\n19. Pedreiras e minas a céu aberto numa área superior a 25 hectares ou extracção de turfa numa área superior a 150 hectares.\n\n20. Construção de linhas aéreas de transporte de electricidade com uma tensão igual ou superior a 220 kV, e cujo comprimento seja superior a 15 quilómetros.\n\n21. Instalações de armazenagem de petróleo, produtos petroquímicos ou produtos químicos com uma capacidade de pelo menos 200 000 toneladas.\n\n22. Locais de armazenamento conformes com a Directiva 2009/31/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa ao armazenamento geológico de dióxido de carbono ([^13^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0013)).\n\n23. Instalações destinadas à captura para efeitos de armazenamento geológico nos termos da Directiva 2009/31/CE de fluxos de CO2 provenientes de instalações abrangidas pelo presente anexo ou nas quais a captura anual total de CO2 é de 1,5 megatoneladas ou mais.\n\n24. Qualquer alteração ou ampliação de projectos incluídos no presente anexo, se essa alteração ou ampliação, em si mesma, corresponder aos eventuais limiares estabelecidos no presente anexo."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "6a6afe73c439375b": {
+   "fragment_id": "PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 2",
+   "type": "divisao",
+   "heading": "PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROJECTOS ABRANGIDOS PELO ARTIGO 4.º, N.º 2"
+  },
+  "64666a3bc225db05": {
+   "fragment_id": "1. AGRICULTURA, SILVICULTURA E AQUICULTURA",
+   "type": "divisao",
+   "heading": "1. AGRICULTURA, SILVICULTURA E AQUICULTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. AGRICULTURA, SILVICULTURA E AQUICULTURA\n\na) Projectos de emparcelamento rural;\n\nb) Projectos de reconversão de terras não cultivadas ou de zonas seminaturais para agricultura intensiva;\n\nc) Projectos de gestão de recursos hídricos para a agricultura, incluindo projectos de irrigação e de drenagem de terras;\n\nd) Florestação inicial e desflorestação destinada à conversão para outro tipo de utilização das terras;\n\ne) Instalações de pecuária intensiva (projectos não incluídos no anexo I);\n\nf) Criação intensiva de peixes;\n\ng) Recuperação de terras ao mar."
+  },
+  "7688111d919238e3": {
+   "fragment_id": "2. INDÚSTRIA EXTRACTIVA",
+   "type": "divisao",
+   "heading": "2. INDÚSTRIA EXTRACTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. INDÚSTRIA EXTRACTIVA\n\na) Pedreiras, minas a céu aberto e extracção de turfa (projectos não incluídos no anexo I);\n\nb) Extracção subterrânea;\n\nc) Extracção de minerais por dragagem marinha ou fluvial;\n\nd) Perfurações em profundidade, nomeadamente:\n\ni) perfurações geotérmicas,\n\nii) perfurações para armazenagem de resíduos nucleares,\n\niii) perfurações para o abastecimento de água,\n\ne) Instalações industriais de superfície para a extracção de hulha, petróleo, gás natural, minérios e xistos betuminosos."
+  },
+  "bb900f8b985cdfef": {
+   "fragment_id": "3. INDÚSTRIA DA ENERGIA",
+   "type": "divisao",
+   "heading": "3. INDÚSTRIA DA ENERGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. INDÚSTRIA DA ENERGIA\n\na) Instalações industriais destinadas à produção de energia eléctrica, de vapor e de água quente (projectos não incluídos no anexo I);\n\nb) Instalações industriais destinadas ao transporte de gás, vapor e água quente, transporte de energia eléctrica por cabos aéreos (projectos não incluídos no anexo I);\n\nc) Armazenagem de gás natural à superfície;\n\nd) Armazenagem subterrânea de gases combustíveis;\n\ne) Armazenagem de combustíveis fósseis à superfície;\n\nf) Fabrico industrial de briquetes, de hulha e de linhite;\n\ng) Instalações para processamento e armazenagem de resíduos radioactivos (a menos que constem do anexo I);\n\nh) Instalações para produção de energia hidroeléctrica;\n\ni) Instalações para aproveitamento da energia eólica para a produção de electricidade (centrais eólicas);\n\nj) Instalações destinadas à captura para efeitos de armazenamento geológico nos termos da Directiva 2009/31/CE de fluxos de CO2 provenientes de instalações não abrangidas pelo Anexo I da presente directiva."
+  },
+  "a3fd0297f5edf0eb": {
+   "fragment_id": "4. PRODUÇÃO E TRANSFORMAÇÃO DE METAIS",
+   "type": "divisao",
+   "heading": "4. PRODUÇÃO E TRANSFORMAÇÃO DE METAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. PRODUÇÃO E TRANSFORMAÇÃO DE METAIS\n\na) Instalações de produção de gusa ou aço (fusão primária ou secundária), incluindo os equipamentos de vazamento contínuo;\n\nb) Instalações para o processamento de metais ferrosos por:\n\ni) laminagem a quente,\n\nii) forjamento a martelo,\n\niii) aplicação de revestimentos protectores em metal fundido.\n\nc) Fundições de metais ferrosos;\n\nd) Instalações para a fusão, incluindo ligas, de metais não ferrosos, excluindo os metais preciosos, incluindo produtos de recuperação (afinação, moldagem em fundição, etc.);\n\ne) Instalações de tratamento de superfície de metais e matérias plásticas que utilizem um processo electrolítico ou químico;\n\nf) Fabrico e montagem de veículos automóveis e fabrico de motores de automóveis;\n\ng) Estaleiros navais;\n\nh) Instalações para a construção e reparação de aeronaves;\n\ni) Fabrico de equipamento ferroviário;\n\nj) Estampagem de fundos por explosivos;\n\nk) Instalações de calcinação e de sinterização de minérios metálicos."
+  },
+  "59e61b45c5fb4b2c": {
+   "fragment_id": "5. INDÚSTRIA MINERAL",
+   "type": "divisao",
+   "heading": "5. INDÚSTRIA MINERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. INDÚSTRIA MINERAL\n\na) Instalações para o fabrico de coque (destilação seca do carvão);\n\nb) Instalações para o fabrico de cimento;\n\nc) Instalações para a produção de amianto e de fabrico de produtos à base de amianto (projectos não incluídos no anexo I);\n\nd) Instalações para a produção de vidro, incluindo as destinadas à produção de fibra de vidro;\n\ne) Instalações para a fusão de matérias minerais, incluindo as destinadas à produção de fibras minerais;\n\nf) Fabrico de produtos cerâmicos por cozedura, nomeadamente telhas, tijolos, tijolos refractários, ladrilhos, produtos de grés ou porcelanas."
+  },
+  "4c90f961e746ac0c": {
+   "fragment_id": "6. INDÚSTRIA QUÍMICA (PROJECTOS NÃO INCLUÍDOS NO ANEXO I)",
+   "type": "divisao",
+   "heading": "6. INDÚSTRIA QUÍMICA (PROJECTOS NÃO INCLUÍDOS NO ANEXO I)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. INDÚSTRIA QUÍMICA (PROJECTOS NÃO INCLUÍDOS NO ANEXO I)\n\na) Tratamento de produtos intermediários e fabrico de produtos químicos;\n\nb) Fabrico de pesticidas, de produtos farmacêuticos, de tintas e vernizes, elastómeros e peróxidos;\n\nc) Instalações para armazenagem de petróleo e de produtos petroquímicos e químicos."
+  },
+  "1e9d177cb6f7f1c3": {
+   "fragment_id": "7. INDÚSTRIA ALIMENTAR",
+   "type": "divisao",
+   "heading": "7. INDÚSTRIA ALIMENTAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. INDÚSTRIA ALIMENTAR\n\na) Indústria de óleos e gorduras vegetais e animais;\n\nb) Embalagem e fabrico de conservas de produtos animais e vegetais;\n\nc) Produção de lacticínios;\n\nd) Indústria de cerveja e de malte;\n\ne) Confeitaria e fabrico de xaropes;\n\nf) Instalações destinadas ao abate de animais;\n\ng) Instalações para o fabrico industrial de amido;\n\nh) Fábricas de farinha de peixe e de óleo de peixe;\n\ni) Açucareiras."
+  },
+  "646c3f8e7c5f249a": {
+   "fragment_id": "8. INDÚSTRIAS TÊXTIL, DOS CURTUMES, DA MADEIRA E DO PAPEL",
+   "type": "divisao",
+   "heading": "8. INDÚSTRIAS TÊXTIL, DOS CURTUMES, DA MADEIRA E DO PAPEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. INDÚSTRIAS TÊXTIL, DOS CURTUMES, DA MADEIRA E DO PAPEL\n\na) Instalações industriais para fabrico de papel e cartão (projectos não incluídos no anexo I);\n\nb) Instalações destinadas ao tratamento inicial (operações de lavagem, branqueamento, mercerização) ou à tintagem de fibras ou têxteis;\n\nc) Instalações destinadas ao curtimento de peles;\n\nd) Instalações para a produção e tratamento de celulose."
+  },
+  "73b914ec20c223d1": {
+   "fragment_id": "9. INDÚSTRIA DA BORRACHA",
+   "type": "divisao",
+   "heading": "9. INDÚSTRIA DA BORRACHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. INDÚSTRIA DA BORRACHA\n\nFabrico e tratamento de produtos à base de elastómeros."
+  },
+  "617932b11ab71c4c": {
+   "fragment_id": "10. PROJECTOS DE INFRA-ESTRUTURAS",
+   "type": "divisao",
+   "heading": "10. PROJECTOS DE INFRA-ESTRUTURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. PROJECTOS DE INFRA-ESTRUTURAS\n\na) Ordenamento de zonas industriais;\n\nb) Ordenamento urbano, incluindo a construção de centros comerciais e de parques de estacionamento;\n\nc) Construção de vias-férreas e instalações de transbordo intermodal e de terminais intermodais (projectos não incluídos no anexo I);\n\nd) Construção de aeroportos (projectos não incluídos no anexo I);\n\ne) Construção de estradas, portos e instalações portuárias, incluindo portos de pesca (projectos não incluídos no anexo I);\n\nf) Construção de vias navegáveis não incluídas no anexo I, obras de canalização e regularização de cursos de água;\n\ng) Barragens e outras instalações destinadas a reter a água ou a armazená-la de forma permanente (projectos não incluídos no anexo I);\n\nh) Linhas de eléctrico, linhas de metropolitano aéreas e subterrâneas, linhas suspensas ou análogas de tipo específico, utilizadas exclusiva ou principalmente para transporte de passageiros;\n\ni) Instalações de oleodutos e gasodutos e condutas para o transporte de fluxos de CO2 para efeitos de armazenamento geológico (projectos que não constem do anexo I).\n\nj) Construção de aquedutos de grande extensão;\n\nk) Obras costeiras destinadas a combater a erosão marítimas tendentes a modificar a costa como, por exemplo, construção de diques, pontões, paredões e outras obras de defesa contra a acção do mar, excluindo a manutenção e a reconstrução dessas obras;\n\nl) Sistemas de captação e de realimentação artificial de águas subterrâneas não incluídos no anexo I;\n\nm) Obras de transferência de recursos hídricos entre bacias hidrográficas não incluídas no anexo I."
+  },
+  "46a7286b011acd43": {
+   "fragment_id": "11. OUTROS PROJECTOS",
+   "type": "divisao",
+   "heading": "11. OUTROS PROJECTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. OUTROS PROJECTOS\n\na) Pistas permanentes de corridas e de treinos para veículos a motor;\n\nb) Instalações de eliminação de resíduos (projectos não incluídos no anexo I);\n\nc) Estações de tratamento de águas residuais (projectos não incluídos no anexo I);\n\nd) Locais para depósito de lamas;\n\ne) Armazenagem de sucatas, incluindo sucatas de automóveis;\n\nf) Bancos de ensaio para motores, turbinas ou reactores;\n\ng) Instalações para o fabrico de fibras minerais artificiais;\n\nh) Instalações para a recuperação ou destruição de substâncias explosivas;\n\ni) Instalações de esquartejamento."
+  },
+  "361af03cd200a3a9": {
+   "fragment_id": "12. TURISMO E TEMPOS LIVRES",
+   "type": "divisao",
+   "heading": "12. TURISMO E TEMPOS LIVRES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. TURISMO E TEMPOS LIVRES\n\na) Pistas de esqui, elevadores de esqui e teleféricos e infra-estruturas de apoio;\n\nb) Marinas;\n\nc) Aldeamentos turísticos e complexos hoteleiros fora das zonas urbanas e projectos associados;\n\nd) Parques de campismo e de caravanismo permanentes;\n\ne) Parques temáticos.\n\n13. a) Qualquer alteração ou ampliação de projectos incluídos no anexo I ou no presente anexo, já autorizados, executados ou em execução, que possam ter impactos negativos importantes no ambiente (alteração ou ampliação não incluída no anexo I); b) Projectos do anexo I que se destinem exclusiva ou essencialmente a desenvolver e ensaiar novos métodos ou produtos e que não sejam utilizados durante mais de dois anos."
+  },
+  "03434b26d5185998": {
+   "fragment_id": "ANEXO II-A",
+   "type": "divisao",
+   "heading": "ANEXO II-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II-A"
+  },
+  "6507d7a3297417f8": {
+   "fragment_id": "INFORMAÇÕES A QUE SE REFERE O ARTIGO 4.º, N.º 4",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A QUE SE REFERE O ARTIGO 4.º, N.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A QUE SE REFERE O ARTIGO 4.º, N.º 4"
+  },
+  "9388c74b31c86053": {
+   "fragment_id": "(INFORMAÇÕES A FORNECER PELO DONO DA OBRA SOBRE OS PROJETOS ENUMERADOS NO ANEXO II)",
+   "type": "divisao",
+   "heading": "(INFORMAÇÕES A FORNECER PELO DONO DA OBRA SOBRE OS PROJETOS ENUMERADOS NO ANEXO II)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (INFORMAÇÕES A FORNECER PELO DONO DA OBRA SOBRE OS PROJETOS ENUMERADOS NO ANEXO II)\n\n1. Descrição do projeto, incluindo, em especial:\n\na) Uma descrição das características físicas do projeto no seu conjunto e, se pertinente, dos trabalhos de demolição;\n\nb) Uma descrição do local do projeto, dando especial atenção à sensibilidade ambiental das zonas geográficas suscetíveis de serem afetadas.\n\n2. Uma descrição dos aspetos do ambiente suscetíveis de serem afetados significativamente pelo projeto.\n\n3. Uma descrição de todos os prováveis efeitos significativos do projeto no ambiente, na medida da informação disponível acerca de tais efeitos, resultantes:\n\na) Dos resíduos e emissões previstos e da produção de detritos, se for o caso;\n\nb) Da utilização de recursos naturais, em particular o solo, a terra, a água e a biodiversidade.\n\n4. Os critérios previstos no Anexo III devem ser tomados em consideração, se for caso disso, aquando da compilação das informações nos termos dos pontos 1 a 3."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "cc1166fec09d6765": {
+   "fragment_id": "CRITÉRIOS DE SELEÇÃO A QUE SE REFERE O ARTIGO 4.º, N.º 3",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE SELEÇÃO A QUE SE REFERE O ARTIGO 4.º, N.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE SELEÇÃO A QUE SE REFERE O ARTIGO 4.º, N.º 3"
+  },
+  "8da19d80835c12d1": {
+   "fragment_id": "(CRITÉRIOS PARA DETERMINAR SE OS PROJETOS INCLUÍDOS NO ANEXO II DEVEM SER SUJEITOS A UMA AVALIAÇÃO DE IMPACTO AMBIENTAL)",
+   "type": "divisao",
+   "heading": "(CRITÉRIOS PARA DETERMINAR SE OS PROJETOS INCLUÍDOS NO ANEXO II DEVEM SER SUJEITOS A UMA AVALIAÇÃO DE IMPACTO AMBIENTAL)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (CRITÉRIOS PARA DETERMINAR SE OS PROJETOS INCLUÍDOS NO ANEXO II DEVEM SER SUJEITOS A UMA AVALIAÇÃO DE IMPACTO AMBIENTAL)"
+  },
+  "d7f896ec121de9d2": {
+   "fragment_id": "1. Características dos projetos",
+   "type": "divisao",
+   "heading": "1. Características dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Características dos projetos\n\nDevem ser tidas em conta as características dos projetos, sobretudo as seguintes:\n\na) A dimensão e conceção de todo o projeto;\n\nb) A acumulação com outros projetos existentes e/ou autorizados;\n\nc) A utilização de recursos naturais, em particular a terra, o solo, a água e a biodiversidade;\n\nd) A produção de resíduos;\n\ne) A poluição e os incómodos causados;\n\nf) Os riscos de acidentes graves e/ou de catástrofes que sejam relevantes para o projeto em causa, incluindo os causados pelas alterações climáticas, em conformidade com os conhecimentos científicos;\n\ng) Os riscos para a saúde humana (por exemplo, devido à contaminação da água ou à poluição atmosférica);"
+  },
+  "03ebd3100d24afa6": {
+   "fragment_id": "2. Localização dos projetos",
+   "type": "divisao",
+   "heading": "2. Localização dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Localização dos projetos\n\nDeve ser considerada a sensibilidade ambiental das zonas geográficas suscetíveis de serem afetadas pelos projetos, sobretudo no que respeita ao seguinte:\n\na) O ordenamento do território, atual e aprovado;\n\nb) A riqueza relativa, a disponibilidade, a qualidade e a capacidade de regeneração dos recursos naturais da zona e no seu subsolo (incluindo o solo, a terra, a água e a biodiversidade);\n\nc) A capacidade de absorção do ambiente natural, com especial atenção às seguintes zonas:\n\ni) zonas húmidas, zonas ribeirinhas, fozes de rios,\n\nii) zonas costeiras e o meio marinho,\n\niii) zonas montanhosas e florestais,\n\niv) reservas e parques naturais,\n\nv) zonas classificadas ou protegidas pela legislação nacional; zonas pertencentes à rede Natura 2000 designadas pelos Estados-Membros, nos termos da Diretiva 92/43/CEE e da Diretiva 2009/147/CE,\n\nvi) zonas em que já se verificou um desrespeito das normas de qualidade ambiental, estabelecidas pela legislação da União e pertinentes para o projeto, ou em que se considere que se verifica esse desrespeito,\n\nvii) zonas de forte densidade demográfica,\n\nviii) paisagens e sítios importantes do ponto de vista histórico, cultural ou arqueológico."
+  },
+  "dc502046b80ba76c": {
+   "fragment_id": "3. Tipo e características do impacto potencial",
+   "type": "divisao",
+   "heading": "3. Tipo e características do impacto potencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Tipo e características do impacto potencial\n\nOs potenciais efeitos significativos dos projetos no ambiente devem ser considerados à luz dos critérios definidos nos pontos 1 e 2 do presente anexo, relativamente ao impacto do projeto sobre os fatores referidos no artigo 3.º, n.º 1, tendo em conta o seguinte:\n\na) A magnitude e extensão espacial do impacto (tal como a zona geográfica e dimensão da população suscetível de ser afetada);\n\nb) A natureza do impacto;\n\nc) A natureza transfronteiriça do impacto;\n\nd) A intensidade e complexidade do impacto;\n\ne) A probabilidade do impacto;\n\nf) A ocorrência esperada, duração, frequência e reversibilidade do impacto;\n\ng) A acumulação dos impactos com os de outros projetos existentes e/ou aprovados;\n\nh) A possibilidade de redução do impacto de maneira eficaz."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "dc576e448d460313": {
+   "fragment_id": "INFORMAÇÕES A QUE SE REFERE O ARTIGO 5.º, N.º 1",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A QUE SE REFERE O ARTIGO 5.º, N.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A QUE SE REFERE O ARTIGO 5.º, N.º 1"
+  },
+  "847d865057271719": {
+   "fragment_id": "(INFORMAÇÕES PARA O RELATÓRIO DE AVALIAÇÃO DO IMPACTO AMBIENTAL)",
+   "type": "divisao",
+   "heading": "(INFORMAÇÕES PARA O RELATÓRIO DE AVALIAÇÃO DO IMPACTO AMBIENTAL)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (INFORMAÇÕES PARA O RELATÓRIO DE AVALIAÇÃO DO IMPACTO AMBIENTAL)\n\n1. Descrição do projeto, incluindo, em especial:\n\na) Uma descrição da localização do projeto;\n\nb) Uma descrição das características físicas de todo o projeto, incluindo, se pertinente, os trabalhos de demolição necessários e as exigências em matérias de utilização de terras durante as fases de construção e de funcionamento;\n\nc) Uma descrição das principais características da fase de exploração do projeto (em especial, os processos de produção), por exemplo, a procura de energia e a energia utilizada, a natureza e a quantidade de materiais e recursos naturais utilizados (nomeadamente água, terra, solo e biodiversidade);\n\nd) Uma estimativa dos tipos e quantidades de resíduos e emissões (como poluição da água, da atmosfera, do solo e do subsolo, ruído, vibração, luz, calor, radiação) e as quantidades e tipos de resíduos produzidos durante a fase de construção e exploração.\n\n2. Uma descrição das alternativas razoáveis (por exemplo, em termos de conceção do projeto, tecnologia, localização, dimensão e escala) estudadas pelo dono da obra, que são relevantes para o projeto proposto e as suas características específicas, e uma indicação das principais razões para a seleção da opção escolhida, incluindo uma comparação dos efeitos no ambiente.\n\n3. Uma descrição dos aspetos relevantes do estado atual do ambiente (cenário de base) e um esboço da sua provável evolução caso o projeto não seja executado na medida em que as alterações naturais do cenário de base possam ser avaliadas através de um esforço razoável, em função da disponibilidade de dados ambientais e de conhecimentos científicos.\n\n4. Uma descrição dos fatores indicados no artigo 3.º, n.º 1, suscetíveis de serem significativamente afetados pelo projeto: a população, a saúde humana, a biodiversidade (por exemplo, fauna e flora), o território (por exemplo, ocupação do território), o solo (por exemplo, matéria orgânica, erosão, compactação, impermeabilização), a água (por exemplo, alterações hidromorfológicas, quantidade e qualidade), o ar, o clima (por exemplo, emissões de gases com efeito de estufa, os impactos pertinentes para a adaptação), os bens materiais, o património cultural, incluindo os aspetos arquitetónicos e arqueológicos, e a paisagem;\n\n5. Uma descrição dos prováveis efeitos significativos do projeto no ambiente, resultantes, nomeadamente:\n\na) Da construção e da exploração do projeto, incluindo, se relevante, os trabalhos de demolição;\n\nb) Da utilização de recursos naturais, em particular a terra, o solo, a água e a biodiversidade, tendo em conta, na medida do possível, a disponibilidade sustentável desses recursos;\n\nc) Da emissão de poluentes, ruído, vibrações, luz, calor e radiação, da criação de incómodos e da eliminação e valorização de resíduos;\n\nd) Dos riscos para a saúde humana, para o património cultural ou para o ambiente (por exemplo, devido a acidentes ou catástrofes);\n\ne) Da acumulação de efeitos com outros projetos existentes e/ou aprovados, tendo em conta os problemas ambientais relacionados com as zonas de especial importância ambiental suscetíveis de serem afetadas ou a utilização dos recursos naturais;\n\nf) Do impacto do projeto sobre o clima (por exemplo, a natureza e o volume das emissões de gases com efeito de estufa), e da vulnerabilidade do projeto às alterações climáticas;\n\ng) Das tecnologias e das substâncias utilizadas.\n\n6. Uma descrição dos métodos de previsão ou de prova, utilizados para identificar e avaliar os efeitos significativos no ambiente, incluindo pormenores sobre as dificuldades (por exemplo, as deficiências técnicas ou falta de conhecimentos) encontradas durante a compilação das informações requeridas e as principais incertezas envolvidas.\n\n7. Uma descrição das medidas previstas para evitar, prevenir, reduzir ou, se possível, compensar os eventuais efeitos negativos significativos no ambiente identificados e, se adequado, das eventuais disposições propostas em matéria de monitorização, (por exemplo, a elaboração de uma análise pós-projeto). Essa descrição deve explicar em que medida os efeitos negativos significativos no ambiente são evitados, prevenidos, reduzidos ou compensados e abranger, tanto a fase de construção, como a de exploração.\n\n8. Uma descrição dos efeitos negativos significativos esperados do projeto no ambiente, decorrentes do risco de acidentes graves e/ou de catástrofes aos quais o projeto pode ser vulnerável, que sejam relevantes para o projeto em causa. As informações pertinentes disponíveis, obtidas através de avaliações de riscos de acordo com a legislação da União, como a Diretiva 2012/18/UE do Parlamento Europeu e do Conselho ([^14^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0014)) ou a Diretiva 2009/71/Euratom do Conselho ([^15^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#E0015)), ou as avaliações relevantes efetuadas nos termos da legislação nacional, podem ser utilizadas para este fim, desde que sejam preenchidos os requisitos da presente diretiva. Se adequado, a descrição deverá incluir medidas previstas para prevenir ou minimizar os efeitos negativos significativos dessas ocorrências no ambiente e os pormenores relativos à prontidão e à resposta proposta para estas emergências.\n\n9. Um resumo não técnico das informações fornecidas em conformidade com os pontos 1 a 8.\n\n10. Uma lista de referência com uma discriminação das fontes utilizadas para as descrições e avaliações efetuadas incluídas no relatório."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "0808af7e284c35ba": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 85/337/CEE do Conselho (JO L 175 de 5.7.1985, p. 40).\n\nDirectiva 97/11/CE do Conselho (JO L 73 de 14.3.1997, p. 5).\n\nDirectiva 2003/35/CE do Parlamento Europeu e do Conselho (JO L 156 de 25.6.2003, p. 17). Apenas o artigo 3.º\n\nDirectiva 2009/31/CE do Parlamento Europeu e do Conselho (JO L 140 de 5.6.2009, p. 114). Apenas o artigo 31.º"
+  },
+  "72abe20b1061cb67": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectiva Prazo de transposição\n\n85/337/CEE 3 de Julho de1988\n\n97/11/CE 14 de Março de 1999\n\n2003/35/CE 25 de Junho de 2005\n\n2009/31/CE 25 de Junho de 2011"
+  },
+  "fa12905b6493a8af": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nDirectiva 85/337/CEE Presente Directiva\n\nArtigo 1.º, n.º 1 Artigo 1.º, n.º 1\n\nArtigo 1.º, n.º 2, primeiro parágrafo Artigo 1.º, n.º 2, parte introdutória\n\nArtigo 1.º, n.º 2, segundo parágrafo, parte introdutória Artigo 1.º, n.º 2, alínea a), parte introdutória\n\nArtigo 1.º, n.º 2, segundo parágrafo, primeiro travessão Artigo 1.º, n.º 2, alínea a), primeiro travessão\n\nArtigo 1.º, n.º 2, segundo parágrafo, segundo travessão Artigo 1.º, n.º 2, alínea a), segundo travessão\n\nArtigo 1.º, n.º 2, terceiro parágrafo Artigo 1.º, n.º 2, alínea b)\n\nArtigo 1.º, n.º 2, quarto parágrafo Artigo 1.º, n.º 2, alínea c)\n\nArtigo 1.º, n.º 2, quinto parágrafo Artigo 1.º, n.º 2, alínea d)\n\nArtigo 1.º, n.º 2, sexto parágrafo Artigo 1.º, n.º 2, alínea e)\n\nArtigo 1.º, n.º 3 Artigo 1.º, n.º 2, alínea f)\n\nArtigo 1.º, n.º 4 Artigo 1.º, n.º 3\n\nArtigo 1.º, n.º 5 Artigo 1.º, n.º 4\n\nArtigo 2.º, n.º 1 Artigo 2.º, n.º 1\n\nArtigo 2.º, n.º 2 Artigo 2.º, n.º 2\n\nArtigo 2.º, n.º 2A Artigo 2.º, n.º 3\n\nArtigo 2.º, n.º 3 Artigo 2.º, n.º 4\n\nArtigo 3.º, parte introdutória Artigo 3.º, parte introdutória\n\nArtigo 3.º, primeiro travessão Artigo 3.º, alínea a)\n\nArtigo 3.º, segundo travessão Artigo 3.º, alínea b)\n\nArtigo 3.º, terceiro travessão Artigo 3.º, alínea c)\n\nArtigo 3.º, quarto travessão Artigo 3.º, alínea d)\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5.º, n.º 1 Artigo 5.º, n.º 1\n\nArtigo 5.º, n.º 2 Artigo 5.º, n.º 2\n\nArtigo 5.º, n.º 3, parte introdutória Artigo 5.º, n.º 3, parte introdutória\n\nArtigo 5.º, n.º 3, primeiro travessão Artigo 5.º, n.º 3, alínea a)\n\nArtigo 5.º, n.º 3, segundo travessão Artigo 5.º, n.º 3, alínea b)\n\nArtigo 5.º, n.º 3, terceiro travessão Artigo 5.º, n.º 3, alínea c)\n\nArtigo 5.º, n.º 3, quarto travessão Artigo 5.º, n.º 3, alínea d)\n\nArtigo 5.º, n.º 3, quinto travessão Artigo 5.º, n.º 3, alínea e)\n\nArtigo 5.º, n.º 4 Artigo 5.º, n.º 4\n\nArtigo 6.º Artigo 6.º\n\nArtigo 7.º, n.º 1, parte introdutória Artigo 7.º, n.º 1, primeiro parágrafo, parte introdutória\n\nArtigo 7.º, n.º 1, alínea a) Artigo 7.º, n.º 1, primeiro parágrafo, alínea a)\n\nArtigo 7.º, n.º 1, alínea b) Artigo 7.º, n.º 1, primeiro parágrafo, alínea b)\n\nArtigo 7.º, n.º 1, parte final Artigo 7.º, n.º 1, segundo parágrafo\n\nArtigo 7.º, n.^os^ 2 a 5 Artigo 7.º, n.^os^ 2 a 5\n\nArtigo 8.º Artigo 8.º\n\nArtigo 9.º, n.º 1, parte introdutória Artigo 9.º, parte introdutória\n\nArtigo 9.º, n.º 1, primeiro travessão Artigo 9.º, n.º 1, alínea a)\n\nArtigo 9.º, n.º 1, segundo travessão Artigo 9.º, n.º 1, alínea b)\n\nArtigo 9.º, n.º 1, terceiro travessão Artigo 9.º, n.º 1, alínea c)\n\nArtigo 9.º, n.º 2 Artigo 9.º, n.º 2\n\nArtigo 10.º Artigo 10.º\n\nArtigo 10.º-A, primeiro parágrafo Artigo 11.º, n.º 1\n\nArtigo 10.º-A, segundo parágrafo Artigo 11.º, n.º 2\n\nArtigo 10.º-A, terceiro parágrafo Artigo 11.º, n.º 3\n\nArtigo 10.º-A, quarto e quinto parágrafos Artigo 11.º, n.º 4, primeiro e segundo parágrafos\n\nArtigo 10.º-A, sexto parágrafo Artigo 11.º, n.º 5\n\nArtigo 11.º, n.º 1 Artigo 12.º, n.º 1\n\nArtigo 11.º, n.º 2 Artigo 12.º, n.º 2\n\nArtigo 11.º, n.º 3 —\n\nArtigo 11.º, n.º 4 Artigo 12.º, n.º 3\n\nArtigo 12.º, n.º 1 —\n\nArtigo 12.º, n.º 2 Artigo 13.º\n\n— Artigo 14.º\n\n— Artigo 15.º\n\nArtigo 14.º Artigo 16.º\n\nAnexo I, ponto 1 Anexo I, ponto 1\n\nAnexo I, ponto 2, primeiro travessão Anexo I, ponto 2, alínea a)\n\nAnexo I, ponto 2, segundo travessão Anexo I, ponto 2, alínea b)\n\nAnexo I, ponto 3, alínea a) Anexo I, ponto 3, alínea a)\n\nAnexo I, ponto 3, alínea b), parte introdutória Anexo I, ponto 3, alínea b), parte introdutória\n\nAnexo I, ponto 3, alínea b), primeiro travessão Anexo I, ponto 3, alínea b), subalínea i)\n\nAnexo I, ponto 3, alínea b), segundo travessão Anexo I, ponto 3, alínea b), subalínea ii)\n\nAnexo I, ponto 3, alínea b), terceiro travessão Anexo I, ponto 3, alínea b), subalínea iii)\n\nAnexo I, ponto 3, alínea b), quarto travessão Anexo I, ponto 3, alínea b), subalínea iv)\n\nAnexo I, ponto 3, alínea b), quinto travessão Anexo I, ponto 3, alínea b), subalínea v)\n\nAnexo I, ponto 4, primeiro travessão Anexo I, ponto 4, alínea a)\n\nAnexo I, ponto 4, segundo travessão Anexo I, ponto 4, alínea b)\n\nAnexo I, ponto 5 Anexo I, ponto 5\n\nAnexo I, ponto 6, parte introdutória Anexo I, ponto 6, parte introdutória\n\nAnexo I, ponto 6, subalínea i) Anexo I, ponto 6, alínea a)\n\nAnexo I, ponto 6, subalínea ii) Anexo I, ponto 6, alínea b)\n\nAnexo I, ponto 6, subalínea iii) Anexo I, ponto 6, alínea c)\n\nAnexo I, ponto 6, subalínea iv) Anexo I, ponto 6, alínea d)\n\nAnexo I, ponto 6, subalínea v) Anexo I, ponto 6, alínea e)\n\nAnexo I, ponto 6, subalínea vi) Anexo I, ponto 6, alínea f)\n\nAnexo I, pontos 7 a 15 Anexo I, pontos 7 a 15\n\nAnexo I, ponto 16, parte introdutória Anexo I, ponto 16, parte introdutória\n\nAnexo I, ponto 16, primeiro travessão Anexo I, ponto 16, alínea a)\n\nAnexo I, ponto 16, segundo travessão Anexo I, ponto 16, alínea b)\n\nAnexo I, pontos 17 a 21 Anexo I, pontos 17 a 21\n\nAnexo I, ponto 22 Anexo I, ponto 24\n\nAnexo I, ponto 23 Anexo I, ponto 22\n\nAnexo I, ponto 24 Anexo I, ponto 23\n\nAnexo II, ponto 1 Anexo II, ponto 1\n\nAnexo II, ponto 2, alíneas a), b) e c) Anexo II, ponto 2, alíneas a), b) e c)\n\nAnexo II, ponto 2, alínea d), parte introdutória Anexo II, ponto 2, alínea d), parte introdutória\n\nAnexo II, ponto 2, alínea d), primeiro travessão Anexo II, ponto 2, alínea d), subalínea i)\n\nAnexo II, ponto 2, alínea d), segundo travessão Anexo II, ponto 2, alínea d), subalínea ii)\n\nAnexo II, ponto 2, alínea d), terceiro travessão Anexo II, ponto 2, alínea d), subalínea iii)\n\nAnexo II, ponto 2, alínea d), parte final Anexo II, ponto 2, alínea d), parte final\n\nAnexo II, ponto 2, alínea e) Anexo II, ponto 2, alínea e)\n\nAnexo II, pontos 3-12 Anexo II, pontos 3-12\n\nAnexo II, ponto 13, primeiro travessão Anexo II, ponto 13, alínea a)\n\nAnexo II, ponto 13, segundo travessão Anexo II, ponto 13, alínea b)\n\nAnexo III, ponto 1, parte introdutória Anexo III, ponto 1, parte introdutória\n\nAnexo III, ponto 1, primeiro travessão Anexo III, ponto 1, alínea a)\n\nAnexo III, ponto 1, segundo travessão Anexo III, ponto 1, alínea b)\n\nAnexo III, ponto 1, terceiro travessão Anexo III, ponto 1, alínea c)\n\nAnexo III, ponto 1, quarto travessão Anexo III, ponto 1, alínea d)\n\nAnexo III, ponto 1, quinto travessão Anexo III, ponto 1, alínea e)\n\nAnexo III, ponto 1, sexto travessão Anexo III, ponto 1, alínea f)\n\nAnexo III, ponto 2, parte introdutória Anexo III, ponto 2, parte introdutória\n\nAnexo III, ponto 2, primeiro travessão Anexo III, ponto 2, alínea a)\n\nAnexo III, ponto 2, segundo travessão Anexo III, ponto 2, alínea b)\n\nAnexo III, ponto 2, terceiro travessão, termos introdutivos Anexo III, ponto 2, alínea c), termos introdutivos\n\nAnexo III, ponto 2, terceiro travessão, alínea a) Anexo III, ponto 2, alínea c), subalínea i)\n\nAnexo III, ponto 2, terceiro travessão, alínea b) Anexo III, ponto 2, alínea c), subalínea ii)\n\nAnexo III, ponto 2, terceiro travessão, alínea c) Anexo III, ponto 2, alínea c), subalínea iii)\n\nAnexo III, ponto 2, terceiro travessão, alínea d) Anexo III, ponto 2, alínea c), subalínea iv)\n\nAnexo III, ponto 2, terceiro travessão, alínea e) Anexo III, ponto 2, alínea c), subalínea v)\n\nAnexo III, ponto 2, terceiro travessão, alínea f) Anexo III, ponto 2, alínea c), subalínea vi)\n\nAnexo III, ponto 2, terceiro travessão, alínea g) Anexo III, ponto 2, alínea c), subalínea vii)\n\nAnexo III, ponto 2, terceiro travessão, alínea h) Anexo III, ponto 2, alínea c), subalínea viii)\n\nAnexo III, ponto 3, parte introdutória Anexo III, ponto 3, parte introdutória\n\nAnexo III, ponto 3, primeiro travessão Anexo III, ponto 3, alínea a)\n\nAnexo III, ponto 3, segundo travessão Anexo III, ponto 3, alínea b)\n\nAnexo III, ponto 3, terceiro travessão Anexo III, ponto 3, alínea c)\n\nAnexo III, ponto 3, quarto travessão Anexo III, ponto 3, alínea d)\n\nAnexo III, ponto 3, quinto travessão Anexo III, ponto 3, alínea e)\n\nAnexo IV, ponto 1, parte introdutória Anexo IV, ponto 1, parte introdutória\n\nAnexo IV, ponto 1, primeiro travessão Anexo IV, ponto 1, alínea a)\n\nAnexo IV, ponto 1, segundo travessão Anexo IV, ponto 1, alínea b)\n\nAnexo IV, ponto 1, terceiro travessão Anexo IV, ponto 1, alínea c)\n\nAnexo IV, pontos 2 e 3 Anexo IV, pontos 2 e 3\n\nAnexo IV, ponto 4, parte introdutória Anexo IV, ponto 4, primeiro parágrafo, parte introdutória\n\nAnexo IV, ponto 4, primeiro travessão Anexo IV, ponto 4, primeiro parágrafo, alínea a)\n\nAnexo IV, ponto 4, segundo travessão Anexo IV, ponto 4, primeiro parágrafo, alínea b)\n\nAnexo IV, ponto 4, terceiro travessão Anexo IV, ponto 4, primeiro parágrafo, alínea c)\n\nAnexo IV, ponto 4, parte final Anexo IV, ponto 5\n\nAnexo IV, ponto 5 Anexo IV, ponto 6\n\nAnexo IV, ponto 6 Anexo IV, ponto 7\n\nAnexo IV, ponto 7 Anexo IV, ponto 8\n\n— Anexo V\n\n— Anexo VI\n\n---"
+  },
+  "a084eb6a4a968552": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0001)) JO C 248 de 25.8.2011, p. 154.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0002)) Posição do Parlamento Europeu de 13 de Setembro de 2011 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 15 de Novembro de 2011.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0003)) JO L 175 de 5.7.1985, p. 40.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0004)) Ver parte A do anexo VI.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0005)) Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos *habitats* naturais e da fauna e da flora selvagens (JO L 206 de 22.7.1992, p. 7).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0006)) Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens (JO L 20 de 26.1.2010, p. 7).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0007)) JO L 41 de 14.2.2003, p. 26.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0008)) As centrais nucleares e outros reactores nucleares deixam de ser considerados instalações de tal tipo quando todo o combustível nuclear e outros elementos contaminados radioactivamente tiverem sido removidos definitivamente da instalação.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0009)) Para efeitos da presente directiva, entende-se por «aeroporto» um aeroporto que corresponde à definição da Convenção de Chicago de 1944 relativa à criação da Organização da Aviação Internacional (Anexo 14).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0010)) Para efeitos da presente directiva, entende-se por «via rápida» uma estrada que corresponde à definição do Acordo europeu de 15 de novembro de 1975 sobre as grandes vias de tráfego internacional.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0011)) JO L 312 de 22.11.2008, p. 3.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0012)) JO L 135 de 30.5.1991, p. 40.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0013)) JO L 140 de 5.6.2009, p. 114.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0014)) Diretiva 2012/18/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, que altera e subsequentemente revoga a Diretiva 96/82/CE do Conselho (JO L 197 de 24.7.2012, p. 1).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/e3348586-8603-4308-aa95-8c9dedd031d4.0014.02/DOC_2#src.E0015)) Diretiva 2009/71/Euratom do Conselho, de 25 de junho de 2009, que estabelece um quadro comunitário para a segurança nuclear das instalações nucleares (JO L 172 de 2.7.2009, p. 18)."
+  }
+ }
+}

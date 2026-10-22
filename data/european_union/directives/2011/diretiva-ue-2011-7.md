@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2011-7.versoes.json
+  count: 1
+  source_lastmod: '2011-03-15'
+  versions:
+  - date: '2011-02-23'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011L0007
   eli: http://data.europa.eu/eli/dir/2011/7/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/07b9575f-efc1-492a-b529-a51dd5652762.0005
   content_url: http://publications.europa.eu/resource/cellar/07b9575f-efc1-492a-b529-a51dd5652762.0005.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:39:53Z'
+  retrieved_at: '2026-10-22T15:50:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T03:47:54.624+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:53Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:00Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2011-7.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -303,21 +312,20 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:53Z'
+  checked_at: '2026-10-22T15:50:00Z'
   warnings:
-  - Versão consolidada 02011L0007-20110315 indisponível (Sem expressão na língua por para CELEX 02011L0007-20110315.); usado
-    o texto do JO.
+  - '02011L0007-20110315: versão indisponível (Sem expressão na língua por para CELEX 02011L0007-20110315.)'
   errors: []
 ---
 
-# DIRECTIVA 2011/7/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2011/7/UE do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 2011
 
 de 16 de Fevereiro de 2011
 

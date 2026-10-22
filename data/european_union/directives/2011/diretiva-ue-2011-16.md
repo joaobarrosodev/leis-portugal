@@ -34,6 +34,225 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: diretiva-ue-2011-16.versoes.json
+  count: 7
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2015-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-05'
+    amending: eu:celex:32015L2376:por
+    amending_title: DIRETIVA (UE) 2015/2376 DO CONSELHO de 8 de dezembro de 2015; DIRETIVA (UE) 2016/881 DO CONSELHO de 25
+      de maio de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Âmbito de aplicação e condições da troca automática de informações obrigatória
+    - Altera Artigo 16.º — Divulgação de informações e de documentos
+    - Altera Artigo 20.º — Formulários normalizados e informatizados
+    - Altera Artigo 21.º — Modalidades práticas
+    - Altera Artigo 23.º — Avaliação
+    - Altera Artigo 25.º — Protecção de dados
+    - Altera Notas
+    - Adita Artigo 8.º-A — Âmbito de aplicação e condições da troca automática de informações obrigatória em matéria de decisões
+      fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Adita Artigo 8.º-AA — Âmbito de aplicação e condições da troca automática de informações obrigatória sobre a declaração
+      por país
+    - Adita Artigo 8.º-B — Estatísticas sobre as trocas automáticas
+    - Adita Artigo 23.º-A — Confidencialidade das informações
+    - Adita Artigo 25.º-A — Sanções
+    - Adita Artigo 26.º — Procedimento de comité
+    - Adita ANEXO III
+    - Adita REGRAS DE APRESENTAÇÃO APLICÁVEIS AOS GRUPOS DE EMPRESAS MULTINACIONAIS
+    - Adita REQUISITOS GERAIS DE RELATO
+    - Adita DECLARAÇÃO POR PAÍS
+    - Adita Α. Modelo da declaração por país
+    - 'Adita Quadro 3: Informações adicionais'
+    - Adita B. Instruções gerais de preenchimento da declaração por país
+    - Adita 1. Objetivo
+    - Adita 2. Tratamento de sucursais e estabelecimentos estáveis
+    - Adita 3. Período abrangido pelo modelo anual
+    - Adita 4. Fonte dos dados
+    - Adita C. Instruções específicas de preenchimento da declaração por país
+    - Adita 1. Perspetiva geral da afetação do rendimento, impostos e atividades empresariais por jurisdição fiscal (quadro
+      1)
+    - Adita 1.1. Jurisdição fiscal
+    - Adita 1.2. Rendimentos
+    - Adita 1.3. Lucro (perda) antes do imposto sobre o rendimento
+    - Adita 1.4. Imposto sobre o rendimento pago (numa base de contabilidade de caixa)
+    - Adita 1.5. Imposto sobre o rendimento devido (ano em curso)
+    - Adita 1.6. Capital social
+    - Adita 1.7. Ganhos acumulados
+    - Adita 1.8. Número de empregados
+    - Adita 1.9. Ativos tangíveis que não sejam caixa nem equivalentes de caixa
+    - Adita 2. Lista de todas as Entidades constituintes do Grupo de empresas multinacionais incluídas em cada agregação por
+      jurisdição fiscal (quadro 2)
+    - Adita 2.1. Entidades constituintes residentes na jurisdição fiscal
+    - Adita 2.2. Jurisdição fiscal de organização ou constituição, se diferente da jurisdição fiscal de residência
+  - date: '2018-01-01'
+    amending: eu:celex:32016L2258:por
+    amending_title: DIRETIVA (UE) 2016/2258 DO CONSELHO de 6 de dezembro de 2016
+    changes:
+    - Altera Artigo 8.º — Âmbito de aplicação e condições da troca automática de informações obrigatória
+    - Altera Artigo 8.º-A — Âmbito de aplicação e condições da troca automática de informações obrigatória em matéria de decisões
+      fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Altera Artigo 16.º — Divulgação de informações e de documentos
+    - Altera Artigo 22.º — Obrigações específicas
+    - Altera Artigo 26.º — Procedimento de comité
+    - Altera Α. Modelo da declaração por país
+    - Altera Notas
+  - date: '2020-07-01'
+    amending: eu:celex:32018L0822:por
+    amending_title: DIRETIVA (UE) 2018/822 DO CONSELHO de 25 de maio de 2018; DIRETIVA (UE) 2020/876 DO CONSELHO de 24 de
+      junho de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Âmbito de aplicação e condições da troca automática de informações obrigatória
+    - Altera Artigo 8.º-A — Âmbito de aplicação e condições da troca automática de informações obrigatória em matéria de decisões
+      fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Altera Artigo 16.º — Divulgação de informações e de documentos
+    - Altera Artigo 20.º — Formulários normalizados e informatizados
+    - Altera Artigo 21.º — Modalidades práticas
+    - Altera Artigo 22.º — Obrigações específicas
+    - Altera Artigo 23.º — Avaliação
+    - Altera Artigo 25.º-A — Sanções
+    - Altera Artigo 26.º — Procedimento de comité
+    - Altera Artigo 27.º — Apresentação de relatórios
+    - Altera Α. Modelo da declaração por país
+    - Altera Notas
+    - Adita Artigo 8.º-AB — Âmbito de aplicação e condições relativas à troca automática de informações obrigatória sobre
+      mecanismos transfronteiriços a comunicar
+    - Adita Artigo 27.º‐A — Diferimento facultativo de prazos devido à pandemia da doença COVID-19
+    - Adita Artigo 27.º‐B — Prorrogação do período de diferimento
+    - Adita ANEXO IV
+    - Adita CARACTERÍSTICAS-CHAVE
+    - Adita Parte I. Teste do benefício principal
+    - Adita Parte II. Categorias de características-chave
+    - Adita A. Características-chave genéricas relacionadas com o teste do benefício principal
+    - Adita B. Características-chave específicas relacionadas com o teste do benefício principal
+    - Adita C. Características-chave específicas relacionadas com as operações transfronteiriças
+    - Adita D. Características-chave específicas relativas à troca automática de informações e aos beneficiários efetivos
+    - Adita E. Características-chave específicas relativas a preços de transferência
+  - date: '2023-01-01'
+    amending: eu:celex:32021L0514:por
+    amending_title: DIRETIVA (UE) 2021/514 DO CONSELHO de 22 de março de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Inquéritos administrativos
+    - Altera Artigo 7.º — Prazos
+    - Altera Artigo 8.º — Âmbito de aplicação e condições da troca automática de informações obrigatória
+    - Altera Artigo 8.º-A — Âmbito de aplicação e condições da troca automática de informações obrigatória em matéria de decisões
+      fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Altera Artigo 8.º-B — Estatísticas sobre as trocas automáticas
+    - Altera Artigo 11.º — Âmbito de aplicação e condições
+    - Altera Artigo 12.º — Controlos simultâneos
+    - Altera Artigo 16.º — Divulgação de informações e de documentos
+    - Altera Artigo 20.º — Formulários normalizados e informatizados
+    - Altera Artigo 21.º — Modalidades práticas
+    - Altera Artigo 22.º — Obrigações específicas
+    - Altera Artigo 23.º-A — Confidencialidade das informações
+    - Altera Artigo 25.º-A — Sanções
+    - Altera Artigo 26.º — Procedimento de comité
+    - Altera DECLARAÇÃO POR PAÍS
+    - Altera Parte II. Categorias de características-chave
+    - Altera Notas
+    - Adita Artigo 5.º-A — Relevância previsível
+    - Adita Artigo 8.º-AC — Âmbito de aplicação e condições da troca automática obrigatória de informações comunicadas pelos
+      Operadores de plataformas
+    - Adita Artigo 25.º — Proteção de dados
+    - Adita ANEXO V
+    - Adita PROCEDIMENTOS DE DILIGÊNCIA DEVIDA, OBRIGAÇÕES DE COMUNICAÇÃO E OUTRAS REGRAS APLICÁVEIS AOS OPERADORES DE PLATAFORMAS
+    - Adita PROCEDIMENTOS DE DILIGÊNCIA DEVIDA
+    - Adita OBRIGAÇÕES DE COMUNICAÇÃO
+    - Adita EXECUÇÃO EFETIVA
+    - Suprime Artigo 25.º — Protecção de dados
+    - Suprime Α. Modelo da declaração por país
+    - 'Suprime Quadro 3: Informações adicionais'
+    - Suprime B. Instruções gerais de preenchimento da declaração por país
+    - Suprime 1. Objetivo
+    - Suprime 2. Tratamento de sucursais e estabelecimentos estáveis
+    - Suprime 3. Período abrangido pelo modelo anual
+    - Suprime 4. Fonte dos dados
+    - Suprime C. Instruções específicas de preenchimento da declaração por país
+    - Suprime 1. Perspetiva geral da afetação do rendimento, impostos e atividades empresariais por jurisdição fiscal (quadro
+      1)
+    - Suprime 1.1. Jurisdição fiscal
+    - Suprime 1.2. Rendimentos
+    - Suprime 1.3. Lucro (perda) antes do imposto sobre o rendimento
+    - Suprime 1.4. Imposto sobre o rendimento pago (numa base de contabilidade de caixa)
+  - date: '2024-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 8.º — Âmbito de aplicação e condições da troca automática de informações obrigatória
+    - Altera Artigo 8.º-A — Âmbito de aplicação e condições da troca automática de informações obrigatória em matéria de decisões
+      fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Altera Artigo 16.º — Divulgação de informações e de documentos
+    - Altera Artigo 22.º — Obrigações específicas
+    - Altera Artigo 25.º — Proteção de dados
+    - Altera Artigo 26.º — Procedimento de comité
+    - Altera DECLARAÇÃO POR PAÍS
+    - Altera EXECUÇÃO EFETIVA
+    - Altera Notas
+    - Adita SECÇÃO II-a
+    - Adita Auditorias conjuntas
+    - Adita Artigo 12.º-A — Auditorias conjuntas
+  - date: '2026-01-01'
+    amending: eu:celex:32023L2226:por
+    amending_title: DIRETIVA (UE) 2023/2226 DO CONSELHO de 17 de outubro de 2023; DIRETIVA (UE) 2025/872 DO CONSELHO de 14
+      de abril de 2025
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Âmbito de aplicação e condições da troca automática de informações obrigatória
+    - Altera Artigo 8.º-A — Âmbito de aplicação e condições da troca automática de informações obrigatória em matéria de decisões
+      fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Altera Artigo 8.º-AB — Âmbito de aplicação e condições relativas à troca automática de informações obrigatória sobre
+      mecanismos transfronteiriços a comunicar
+    - Altera Artigo 8.º-AC — Âmbito de aplicação e condições da troca automática obrigatória de informações comunicadas pelos
+      Operadores de plataformas
+    - Altera Artigo 8.º-B — Estatísticas sobre as trocas automáticas
+    - Altera Artigo 16.º — Divulgação de informações e de documentos
+    - Altera Artigo 18.º — Obrigações
+    - Altera Artigo 20.º — Formulários normalizados e informatizados
+    - Altera Artigo 21.º — Modalidades práticas
+    - Altera Artigo 22.º — Obrigações específicas
+    - Altera Artigo 23.º — Avaliação
+    - Altera Artigo 25.º — Proteção de dados
+    - Altera Artigo 25.º-A — Sanções
+    - Altera Artigo 26.º — Procedimento de comité
+    - Altera Artigo 27.º — Apresentação de relatórios
+    - Altera REQUISITOS GERAIS DE COMUNICAÇÃO
+    - Altera DILIGÊNCIA DEVIDA PARA CONTAS NOVAS DE ENTIDADES
+    - Altera REGRAS ESPECIAIS DE DILIGÊNCIA DEVIDA
+    - Altera A. Instituição financeira reportante
+    - Altera B. Instituição financeira não reportante
+    - Altera C. Conta financeira
+    - Altera D. Conta sujeita a comunicação
+    - Altera E. Diversos
+    - Altera EXECUÇÃO PRÁTICA
+    - Altera DECLARAÇÃO POR PAÍS
+    - Altera PROCEDIMENTOS DE DILIGÊNCIA DEVIDA
+    - Altera OBRIGAÇÕES DE COMUNICAÇÃO
+    - Altera EXECUÇÃO EFETIVA
+    - Altera Notas
+    - Adita Artigo 8.º-AD — Âmbito e condições para a troca automática obrigatória de informações comunicadas pelos Prestadores
+      de serviços de criptoativos reportantes
+    - Adita Artigo 8.º-AE — Formato de apresentação e troca de informações no que respeita às declarações de informação sobre
+      o imposto complementar nos termos do artigo 44.º da Diretiva (UE) 2022/2523
+    - Adita Artigo 9.º-A — Colaboração em matéria de correções, conformidade e execução no que diz respeito às declarações
+      de informação sobre o imposto complementar
+    - Adita Artigo 27.º-C — Comunicação de informações e comunicação do NIF
+    - Adita Artigo 27.º-D — Primeiro exercício fiscal de relato e primeira transmissão de informações a nos termos do artigo
+      8.º-AE
+    - Adita SECÇÃO XI
+    - Adita MEDIDAS TRANSITÓRIAS
+    - Adita ANEXO VI
+    - Adita OBRIGAÇÕES DE COMUNICAÇÃO, PROCEDIMENTOS DE DILIGÊNCIA DEVIDA, E OUTRAS REGRAS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS
+      DE CRIPTOATIVOS REPORTANTES
+    - Adita OBRIGAÇÕES DOS PRESTADORES DE SERVIÇOS DE CRIPTOATIVOS REPORTANTES
 identifiers:
   celex: 32011L0016
   eli: http://data.europa.eu/eli/dir/2011/16/oj
@@ -48,7 +267,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9c0b4723-7e53-4595-9fa7-1b78e5ddf337.0007
   content_url: http://publications.europa.eu/resource/cellar/4328aa6c-1209-11f1-8870-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0016-20260101
-  retrieved_at: '2026-10-22T02:36:38Z'
+  retrieved_at: '2026-10-22T15:50:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T06:30:21.750+02:00'
 integrity:
@@ -57,9 +276,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:38Z'
-  notes: Texto consolidado 02011L0016-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:10Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-2011-16.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -310,42 +529,20 @@ relationships:
   source: null
 article_structure:
   article_count: 47
-  section_count: 116
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 117
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:38Z'
-  warnings: []
+  checked_at: '2026-10-22T15:50:10Z'
+  warnings:
+  - '02011L0016-20110311: versão indisponível (Sem expressão na língua por para CELEX 02011L0016-20110311.)'
   errors: []
 ---
 
 # Directiva 2011/16/UE do Conselho, de 15 de Fevereiro de 2011
-
-> 02011L0016 — PT — 01.01.2026 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0107) — [DIRETIVA 2014/107/UE DO CONSELHO de 9 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014L0107) — L 359 — 1 — 16.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32015L2376) — [DIRETIVA (UE) 2015/2376 DO CONSELHO de 8 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015L2376) — L 332 — 1 — 18.12.2015
-- [►M3](http://publications.europa.eu/resource/celex/32016L0881) — [DIRETIVA (UE) 2016/881 DO CONSELHO de 25 de maio de 2016](http://publications.europa.eu/resource/celex/32016L0881) — L 146 — 8 — 3.6.2016
-- [M4](http://publications.europa.eu/resource/celex/32016L2258) — [DIRETIVA (UE) 2016/2258 DO CONSELHO de 6 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2258) — L 342 — 1 — 16.12.2016
-- [►M5](http://publications.europa.eu/resource/celex/32018L0822) — [DIRETIVA (UE) 2018/822 DO CONSELHO de 25 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0822) — L 139 — 1 — 5.6.2018
-- [►M6](http://publications.europa.eu/resource/celex/32020L0876) — [DIRETIVA (UE) 2020/876 DO CONSELHO de 24 de junho de 2020](http://publications.europa.eu/resource/celex/32020L0876) — L 204 — 46 — 26.6.2020
-- [►M7](http://publications.europa.eu/resource/celex/32021L0514) — [DIRETIVA (UE) 2021/514 DO CONSELHO de 22 de março de 2021](http://publications.europa.eu/resource/celex/32021L0514) — L 104 — 1 — 25.3.2021
-- [►M8](http://publications.europa.eu/resource/celex/32023L2226) — [DIRETIVA (UE) 2023/2226 DO CONSELHO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023L2226) — L 2226 — 1 — 24.10.2023
-- [►M9](http://publications.europa.eu/resource/celex/32025L0872) — [DIRETIVA (UE) 2025/872 DO CONSELHO de 14 de abril de 2025](http://publications.europa.eu/resource/celex/32025L0872) — L 872 — 1 — 6.5.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018L0822R%2803%29) — [Rectificação, JO L 031, 1.2.2019, p. 108 (2018/822)](http://publications.europa.eu/resource/celex/32018L0822R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023L2226R%2801%29) — [Rectificação, JO L 90947, 26.11.2025, p. 1 (2023/2226)](http://publications.europa.eu/resource/celex/32023L2226R%2801%29)
-
-## DIRECTIVA 2011/16/UE DO CONSELHO
 
 de 15 de Fevereiro de 2011
 

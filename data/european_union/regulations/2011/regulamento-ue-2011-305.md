@@ -37,6 +37,171 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-29'
+version_history:
+  file: regulamento-ue-2011-305.versoes.json
+  count: 7
+  source_lastmod: '2026-05-29'
+  versions:
+  - date: '2011-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Fornecimento da declaração de desempenho
+    - Altera Artigo 11.º — Deveres dos fabricantes
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera Artigo 60.º — Actos delegados
+    - Altera Artigo 68.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS BÁSICOS DAS OBRAS DE CONSTRUÇÃO
+    - Adita 1. Resistência mecânica e estabilidade
+    - Adita 2. Segurança contra incêndio
+    - Adita 3. Higiene, saúde e ambiente
+    - Adita 4. Segurança e acessibilidade na utilização
+    - Adita 5. Protecção contra o ruído
+    - Adita 6. Economia de energia e isolamento térmico
+    - Adita 7. Utilização sustentável dos recursos naturais
+    - Adita ANEXO II
+    - Adita PROCEDIMENTO DE APROVAÇÃO DO DOCUMENTO DE AVALIAÇÃO EUROPEU
+    - Adita 1. Pedido de Avaliação Técnica Europeia
+    - Adita 2. Contrato
+    - Adita 3. Programa de trabalho
+    - Adita 4. Projecto de Documento de Avaliação Europeu
+    - Adita 5. Participação da Comissão
+    - Adita 6. Prorrogação e atrasos
+    - Adita 7. Alterações e aprovação de um Documento de Avaliação Europeu
+    - Adita 8. Versão final do Documento de Avaliação Europeu a publicar
+    - Adita ANEXO III
+    - Adita DECLARAÇÃO DE DESEMPENHO
+    - Adita N.º …
+    - Adita ANEXO IV
+    - Adita GAMAS DE PRODUTOS E REQUISITOS APLICÁVEIS AOS OAT
+    - Adita ANEXO V
+    - Adita AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Adita 1. SISTEMAS DE AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Adita 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Adita 3. CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO TÉCNICA HARMONIZADA
+      PERTINENTE
+  - date: '2014-06-16'
+    amending: eu:celex:32014R0568:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 568/2014 DA COMISSÃO de 18 de fevereiro de 2014; REGULAMENTO DELEGADO (UE)
+      N. o 574/2014 DA COMISSÃO de 21 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera 1. SISTEMAS DE AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Altera 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Altera Notas
+    - Adita N.º
+    - Adita Instruções para elaboração da declaração de desempenho
+    - Adita 1. ASPETOS GERAIS
+    - Adita 2. FLEXIBILIDADE
+    - Adita 3. INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO
+    - Adita 1.1. Sistema 1+
+    - Adita 1.2. Sistema 1
+    - Adita 1.3. Sistema 2+
+    - Adita 1.4. Sistema 3
+    - Adita 1.5. Sistema 4
+    - Adita 1.6. Produtos de construção para os quais tenha sido emitida uma Avaliação Técnica Europeia
+    - 'Adita 3. NOTIFICAÇÕES HORIZONTAIS: CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO
+      TÉCNICA HARMONIZADA PERTINENTE'
+    - Suprime N.º …
+    - Suprime 3. CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO TÉCNICA HARMONIZADA
+      PERTINENTE
+  - date: '2021-07-16'
+    amending: eu:celex:32019R1020:por
+    amending_title: REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera Artigo 56.º — Procedimento aplicável a nível nacional a produtos de construção que constituam um risco
+    - Altera N.º
+    - Altera Notas
+  - date: '2024-11-17'
+    amending: eu:celex:32024R2769:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2769 DA COMISSÃO de 30 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Fornecimento da declaração de desempenho
+    - Altera Artigo 11.º — Deveres dos fabricantes
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera 1.6. Produtos de construção para os quais tenha sido emitida uma Avaliação Técnica Europeia
+    - Altera 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - 'Altera 3. NOTIFICAÇÕES HORIZONTAIS: CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO
+      TÉCNICA HARMONIZADA PERTINENTE'
+    - Altera Notas
+    - Adita 1.4-A. Sistema 3+
+  - date: '2026-01-08'
+    amending: eu:celex:32024R3110:por
+    amending_title: REGULAMENTO (UE) 2024/3110 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 64.º — Comité
+    - Altera Notas
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 3.º — Requisitos básicos das obras de construção e características essenciais dos produtos de construção
+    - Suprime Artigo 10.º — Pontos de contacto para produtos do sector da construção
+    - Suprime Artigo 19.º — Documento de Avaliação Europeu
+    - Suprime Artigo 20.º — Princípios para a elaboração e aprovação dos Documentos de Avaliação Europeus
+    - Suprime Artigo 21.º — Deveres do OAT que recebe um pedido de Avaliação Técnica Europeia
+    - Suprime Artigo 22.º — Publicação
+    - Suprime Artigo 23.º — Resolução de litígios em caso de desacordo entre OAT
+    - Suprime Artigo 24.º — Conteúdo dos Documentos de Avaliação Europeus
+    - Suprime Artigo 25.º — Objecções formais contra Documentos de Avaliação Europeus
+    - Suprime Artigo 26.º — Avaliação Técnica Europeia
+    - Suprime Artigo 29.º — Designação, controlo e avaliação dos OAT
+    - Suprime Artigo 30.º — Requisitos aplicáveis aos OAT
+    - Suprime Artigo 31.º — Coordenação dos OAT
+    - Suprime Artigo 32.º — Financiamento da União
+    - Suprime Artigo 33.º — Disposições financeiras
+    - Suprime Artigo 34.º — Gestão e controlo
+    - Suprime Artigo 35.º — Protecção dos interesses financeiros da União
+    - Suprime Artigo 41.º — Requisitos aplicáveis às autoridades notificadoras
+    - Suprime Artigo 42.º — Dever de informação dos Estados-Membros
+    - Suprime Artigo 43.º — Requisitos aplicáveis aos organismos notificados
+    - Suprime Artigo 44.º — Presunção de conformidade
+    - Suprime Artigo 45.º — Filiais e subcontratados dos organismos notificados
+    - Suprime Artigo 46.º — Utilização de instalações fora do laboratório de ensaios dos organismos notificados
+    - Suprime Artigo 50.º — Alterações à notificação
+    - Suprime Artigo 51.º — Contestação da competência dos organismos notificados
+    - Suprime Artigo 54.º — Troca de experiências
+    - Suprime Artigo 56.º — Procedimento aplicável a nível nacional a produtos de construção que constituam um risco
+    - Suprime Artigo 57.º — Procedimento de salvaguarda da União
+    - Suprime Artigo 58.º — Produtos de construção conformes que todavia constituem um risco para a saúde e a segurança
+    - Suprime Artigo 59.º — Não conformidade formal
+    - Suprime Artigo 65.º — Revogação
+    - Suprime Artigo 66.º — Disposições transitórias
+    - Suprime Artigo 67.º — Relatório da Comissão
+    - Suprime Artigo 68.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime REQUISITOS BÁSICOS DAS OBRAS DE CONSTRUÇÃO
+  - date: '2026-05-29'
+    amending: eu:celex:32024R2748:por
+    amending_title: REGULAMENTO (UE) 2024/2748 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 64.º — Comité
+    - Altera 1.4-A. Sistema 3+
+    - Altera Notas
+    - Adita CAPÍTULO VI-A
+    - Adita PROCEDIMENTOS DE EMERGÊNCIA
+    - Adita Artigo 38.º-A — Aplicação de procedimentos de emergência
+    - Adita Artigo 38.º-B — Prioridade da avaliação e verificação da regularidade do desempenho de produtos de construção
+      designados como bens relevantes em situação de crise
+    - Adita Artigo 38.º-C — Avaliação e declaração de desempenho com base em normas e especificações comuns
+    - Adita Artigo 38.º-D — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
 identifiers:
   celex: 32011R0305
   eli: http://data.europa.eu/eli/reg/2011/305/oj
@@ -51,7 +216,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d9dc2b2a-47b7-4fb3-b055-9b55731a48a5.0020
   content_url: http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0305-20260529
-  retrieved_at: '2026-10-22T02:37:45Z'
+  retrieved_at: '2026-10-22T15:51:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T16:50:18.720+02:00'
 integrity:
@@ -60,9 +225,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:45Z'
-  notes: Texto consolidado 02011R0305-20260529.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:26Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2011-305.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -305,39 +470,19 @@ relationships:
   date: '1989-02-11'
 article_structure:
   article_count: 37
-  section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:45Z'
+  checked_at: '2026-10-22T15:51:26Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 305/2011 do Parlamento Europeu e do Conselho, de 9 de Março de 2011
-
-> 02011R0305 — PT — 29.05.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0568) — [REGULAMENTO DELEGADO (UE) N.º 568/2014 DA COMISSÃO de 18 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0568) — L 157 — 76 — 27.5.2014
-- [►M2](http://publications.europa.eu/resource/celex/32014R0574) — [REGULAMENTO DELEGADO (UE) N.º 574/2014 DA COMISSÃO de 21 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0574) — L 159 — 41 — 28.5.2014
-- [M3](http://publications.europa.eu/resource/celex/32019R1020) — [REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1020) — L 169 — 1 — 25.6.2019
-- [►M4](http://publications.europa.eu/resource/celex/32024R2769) — [REGULAMENTO DELEGADO (UE) 2024/2769 DA COMISSÃO de 30 de maio de 2024](http://publications.europa.eu/resource/celex/32024R2769) — L 2769 — 1 — 28.10.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R2748) — [REGULAMENTO (UE) 2024/2748 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2748) — L 2748 — 1 — 8.11.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024R3110) — [REGULAMENTO (UE) 2024/3110 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R3110) — L 3110 — 1 — 18.12.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0305R%2805%29) — [Rectificação, JO L 103, 12.4.2013, p. 10 (305/2011)](http://publications.europa.eu/resource/celex/32011R0305R%2805%29)
-- [►C2](http://publications.europa.eu/resource/celex/32024R2769R%2801%29) — [Rectificação, JO L 90226, 20.3.2026, p. 1 ((UE) 2024/27692024/2769)](http://publications.europa.eu/resource/celex/32024R2769R%2801%29)
-
-## REGULAMENTO (UE) N.º 305/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de Março de 2011
 

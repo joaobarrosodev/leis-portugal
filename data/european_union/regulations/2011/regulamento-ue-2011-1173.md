@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2011-1173.versoes.json
+  count: 1
+  source_lastmod: '2011-12-13'
+  versions:
+  - date: '2011-11-23'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011R1173
   eli: http://data.europa.eu/eli/reg/2011/1173/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1e01fc71-0fa2-4fa6-8e00-83dc15a9d87d.0006
   content_url: http://publications.europa.eu/resource/cellar/1e01fc71-0fa2-4fa6-8e00-83dc15a9d87d.0006.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:52Z'
+  retrieved_at: '2026-10-22T15:55:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T00:59:09.684+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:52Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:55:11Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2011-1173.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -115,21 +124,20 @@ relationships:
   date: '2014-11-08'
 article_structure:
   article_count: 14
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:52Z'
+  checked_at: '2026-10-22T15:55:11Z'
   warnings:
-  - Versão consolidada 02011R1173-20111213 indisponível (Sem expressão na língua por para CELEX 02011R1173-20111213.); usado
-    o texto do JO.
+  - '02011R1173-20111213: versão indisponível (Sem expressão na língua por para CELEX 02011R1173-20111213.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 1173/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. o 1173/2011 do Parlamento Europeu e do Conselho, de 16 de Novembro de 2011
 
 de 16 de Novembro de 2011
 

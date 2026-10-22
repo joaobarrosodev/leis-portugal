@@ -36,6 +36,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-02-05'
+version_history:
+  file: regulamento-ue-2010-1236.versoes.json
+  count: 4
+  source_lastmod: '2016-02-05'
+  versions:
+  - date: '2010-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-07-08'
+    amending: eu:celex:32012R0603:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 603/2012 DA COMISSÃO de 30 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Marcação das artes
+    - Altera Artigo 8.º — Registo das capturas
+    - Altera Artigo 12.º — Comunicação das informações
+    - Altera Artigo 22.º — Âmbito de aplicação
+    - Altera Artigo 53.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Apêndice
+    - Adita Declarações sobre o artigo 51.º
+  - date: '2015-08-07'
+    amending: eu:celex:32015R1341:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/1341 DA COMISSÃO de 12 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Marcação das artes
+    - Altera Artigo 8.º — Registo das capturas
+    - Altera Artigo 11.º — Sistema de localização de navios por satélite
+    - Altera Artigo 12.º — Comunicação das informações
+    - Altera Artigo 22.º — Âmbito de aplicação
+    - Altera Artigo 40.º — Entrada no porto
+    - Altera Artigo 41.º — Inspecções no porto
+    - Altera Artigo 44.º — Navios que exercem actividades IUU
+    - Altera Notas
+    - Adita Artigo 42.º — Desembarques, transbordos e outras utilizações do porto
+    - Suprime Artigo 42.º — Desembarques e transbordos
+  - date: '2016-02-05'
+    amending: eu:celex:32016R0096:por
+    amending_title: REGULAMENTO (UE) 2016/96 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Marcação das artes
+    - Altera Artigo 8.º — Registo das capturas
+    - Altera Artigo 9.º — Declaração das capturas de recursos regulamentados
+    - Altera Artigo 12.º — Comunicação das informações
+    - Altera Artigo 22.º — Âmbito de aplicação
+    - Altera Artigo 23.º — Portos designados
+    - Altera Artigo 24.º — Comunicação prévia de entrada no porto
+    - Altera Artigo 26.º — Inspecções no porto
+    - Altera Artigo 29.º — Processos por infracção
+    - Altera Notas
+    - Adita CONTROLO PELO ESTADO DO PORTO DO PESCADO CAPTURADO POR NAVIOS DE PESCA QUE ARVORAM PAVILHÃO DE OUTRA PARTE CONTRATANTE
+    - Adita Artigo 25.º
+    - Adita Autorização de desembarque ou transbordo e de outras utilizações do porto
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ORIENTAÇÕES GERAIS PARA A GESTÃO DO RISCO EM RELAÇÃO AO CONTROLO PELO ESTADO DO PORTO
+    - Adita ANEXO III
+    - Adita PROCEDIMENTOS DE INSPEÇÃO DO ESTADO-MEMBRO DO PORTO
+    - Suprime CONTROLO PELO ESTADO DO PORTO DOS NAVIOS DE PESCA QUE ARVORAM PAVILHÃO DE OUTRA PARTE CONTRATANTE
+    - Suprime Artigo 25.º — Autorização de desembarque ou transbordo
+    - Suprime ANEXO
 identifiers:
   celex: 32010R1236
   eli: http://data.europa.eu/eli/reg/2010/1236/oj
@@ -50,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bf4f5b76-6c47-4cc1-a482-0a3bb76f9d38.0016
   content_url: http://publications.europa.eu/resource/cellar/7ce30f6b-6278-4ab5-8535-8a59046f90d4.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1236-20160205
-  retrieved_at: '2026-10-22T03:15:26Z'
+  retrieved_at: '2026-10-22T15:49:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T07:12:19.805+02:00'
 integrity:
@@ -59,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:26Z'
-  notes: Texto consolidado 02010R1236-20160205.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:42Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2010-1236.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -126,31 +192,19 @@ relationships:
   date: '2000-01-10'
 article_structure:
   article_count: 53
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:26Z'
+  checked_at: '2026-10-22T15:49:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1236/2010 do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2010
-
-> 2010R1236 — PT — 05.02.2016 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0603) — [REGULAMENTO DELEGADO (UE) N.º 603/2012 DA COMISSÃO de 30 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0603) — L 177 — 9 — 7.7.2012
-- [►M2](http://publications.europa.eu/resource/celex/32015R1341) — [REGULAMENTO DELEGADO (UE) 2015/1341 DA COMISSÃO de 12 de março de 2015](http://publications.europa.eu/resource/celex/32015R1341) — L 207 — 32 — 4.8.2015
-- [►M3](http://publications.europa.eu/resource/celex/32016R0096) — [REGULAMENTO (UE) 2016/96 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0096) — L 26 — 13 — 2.2.2016
-
-## REGULAMENTO (UE) N.º 1236/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Dezembro de 2010
 

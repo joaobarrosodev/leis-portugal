@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0932:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0932-20170109",
+ "dre_path": null,
+ "source_lastmod": "2017-01-09",
+ "versions": [
+  {
+   "date": "2012-10-12",
+   "future": false,
+   "celex": "32012R0932",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e843b0a0614bb09b",
+    "0d7f1e6d95a4bb2d",
+    "31f80d970fcb65cb",
+    "2a0f1b6d3a2dd702",
+    "d78f9cf7b0e7a169",
+    "6fbf8ed1b8a69cd8",
+    "f193908c04389551",
+    "fa6a2b6e3385b4b9",
+    "f1fd7e73ba1eba7a",
+    "7a22e4bbd5d9af97"
+   ]
+  }
+ ],
+ "fragments": {
+  "e843b0a0614bb09b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de outubro de 2012\n\nque dá execução à Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de conceção ecológica para os secadores de roupa para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativa à criação de um quadro para definir os requisitos de conceção ecológica dos produtos relacionados com o consumo de energia [([^1])](http://publications.europa.eu/resource/cellar/46fb10dd-1459-11e2-8e28-01aa75ed71a1.0018.04/DOC_1#ntr1-L_2012278PT.01000101-E0001), nomeadamente o artigo 15.º, n.º 1,\n\nApós consulta do Fórum de Consulta sobre a Conceção Ecológica,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Diretiva 2009/125/CE, a Comissão deve definir os requisitos de conceção ecológica aplicáveis aos produtos relacionados com o consumo de energia que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O artigo 16.º, n.º 2, alínea a), da Diretiva 2009/125/CE determina que a Comissão deve introduzir, se for caso disso, uma medida de execução para os aparelhos domésticos, incluindo os secadores de roupa para uso doméstico.\n\n(3) A Comissão realizou um estudo preparatório que analisou os aspetos técnicos, ambientais e económicos dos secadores de roupa para uso doméstico tipicamente utilizados no setor doméstico. O estudo foi realizado em conjunto com as partes interessadas da União e de países terceiros e os seus resultados foram divulgados publicamente.\n\n(4) O presente regulamento deve abranger os produtos utilizados para a secagem da roupa no setor doméstico.\n\n(5) As máquinas combinadas de lavar e secar roupa para uso doméstico têm características especiais e devem, por conseguinte, ser excluídas do âmbito de aplicação do presente regulamento.\n\n(6) O aspeto de incidência ambiental dos secadores de roupa para uso doméstico, considerado significativo para efeitos do presente regulamento, é o consumo de energia na fase de utilização. Calcula-se que, em 2005, o consumo anual de eletricidade dos secadores de roupa para uso doméstico foi de 21 TWh na União Europeia. A menos que se adotem medidas específicas, prevê-se que o consumo anual de eletricidade seja de 31 TWh em 2020. O estudo preparatório demonstra que o consumo de energia dos produtos abrangidos pelo presente regulamento pode ser reduzido significativamente.\n\n(7) O estudo preparatório mostra que os requisitos relativos a outros parâmetros de conceção ecológica referidos no anexo I, parte 1, da Diretiva 2009/125/CE não são necessários, já que o consumo de eletricidade dos secadores de roupa para uso doméstico na fase de utilização é de longe o aspeto mais importante do ponto de vista ambiental. Em conformidade com o artigo 6.º, n.º 2, da Diretiva 2009/125/CE, os Estados-Membros não podem proibir, restringir ou impedir a colocação no mercado e/ou colocação em serviço, nos respetivos territórios, de secadores de roupa para uso doméstico com base nos requisitos de conceção ecológica relativos aos parâmetros a que se refere o anexo I, parte 1, dessa diretiva para os quais o presente regulamento estabelece que não é necessário um requisito de conceção ecológica.\n\n(8) O consumo de energia dos secadores de roupa para uso doméstico deve ser tornado mais eficiente pela aplicação de tecnologias já existentes e de uso comum que sejam economicamente rentáveis, capazes de reduzir as despesas combinadas da aquisição e do funcionamento destes produtos.\n\n(9) Os requisitos de conceção ecológica não devem afetar a funcionalidade dos produtos na perspetiva do utilizador final, nem prejudicar a saúde, a segurança ou o ambiente. Em especial, os benefícios da redução do consumo de energia durante a fase de utilização devem compensar amplamente os potenciais impactos ambientais suplementares durante as fases de produção e eliminação.\n\n(10) Os requisitos de conceção ecológica devem ser introduzidos progressivamente, de forma a dar aos fabricantes tempo suficiente para alterarem a conceção dos produtos abrangidos pelo presente regulamento. O calendário deve ser de molde a evitar incidências negativas nas funcionalidades do equipamento que se encontra no mercado e a ter em conta o impacto em matéria de custos para os utilizadores finais e os fabricantes, designadamente as pequenas e médias empresas, assegurando simultaneamente a realização, em tempo útil, dos objetivos do presente regulamento.\n\n(11) A medição dos parâmetros pertinentes do produto deve ser efetuada utilizando métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adotadas pelos organismos europeus de normalização enumerados no anexo I da Diretiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^2])](http://publications.europa.eu/resource/cellar/46fb10dd-1459-11e2-8e28-01aa75ed71a1.0018.04/DOC_1#ntr2-L_2012278PT.01000101-E0002).\n\n(12) Em conformidade com o artigo 8.º da Diretiva 2009/125/CE, o presente regulamento deve especificar os procedimentos de avaliação da conformidade aplicáveis.\n\n(13) A fim de facilitar as verificações da conformidade, os fabricantes devem fornecer, na documentação técnica referida nos anexos V e VI da Diretiva 2009/125/CE, todas as informações que estejam relacionadas com os requisitos estabelecidos no presente regulamento.\n\n(14) Para além dos requisitos juridicamente vinculativos estabelecidos no presente regulamento, devem ser identificados padrões de referência indicativos para as melhores tecnologias disponíveis, de forma a garantir a ampla disponibilidade e a fácil acessibilidade das informações sobre o desempenho ambiental durante o ciclo de vida dos produtos abrangidos pelo presente regulamento.\n\n(15) As medidas previstas no presente regulamento estão conformes com o parecer do comité criado pelo artigo 19.º, n.º 1, da Diretiva 2009/125/CE,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "0d7f1e6d95a4bb2d": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece requisitos de conceção ecológica para a colocação no mercado de secadores de roupa para uso doméstico alimentados pela rede elétrica e alimentados a gás, e de secadores de roupa para uso doméstico encastrados, incluindo os vendidos para uso não doméstico.\n\n2. O presente regulamento não é aplicável às máquinas combinadas de lavar e secar roupa para uso doméstico nem aos hidroextratores para uso doméstico."
+  },
+  "31f80d970fcb65cb": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Diretiva 2009/125/CE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1) **«Secador de roupa para uso doméstico»**: um aparelho no qual os têxteis são secados por rotação num tambor em que passa ar aquecido e que é concebido para ser utilizado principalmente para fins não profissionais;\n\n2) **«Secador de roupa para uso doméstico, encastrado»**: um secador de roupa para uso doméstico destinado a ser instalado num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante;\n\n3) **«Máquina combinada de lavar e secar roupa para uso doméstico»**: uma máquina de lavar roupa para uso doméstico que inclui uma função de extração por centrifugação e uma função de secagem dos têxteis, normalmente por aquecimento e rotação;\n\n4) **«Hidroextrator para uso doméstico», também conhecido pela designação comercial de «centrifugador»**: um aparelho no qual a água é removida dos têxteis por ação centrífuga num tambor rotativo e é drenada por uma bomba automática, destinado a ser utilizado principalmente para fins não profissionais;\n\n5) **«Secador de roupa por exaustão»**: um secador de roupa que recolhe no exterior ar fresco, o faz passar nos têxteis e que evacua o ar húmido resultante para o espaço interior ou para o exterior;\n\n6) **«Secador de roupa por condensação»**: um secador de roupa que inclui um dispositivo (que utiliza a condensação ou qualquer outro meio) para a remoção da humidade do ar utilizado no processo de secagem;\n\n7) **«Secador de roupa automático»**: um secador de roupa que põe termo ao processo de secagem quando é detetado um determinado teor de humidade da carga, designadamente através de sensores de condutividade ou temperatura;\n\n8) **«Secador de roupa não automático»**: um secador de roupa que põe termo ao processo de secagem após um período predefinido, controlado normalmente por um temporizador, sendo também possível pôr termo a esse processo manualmente;\n\n9) **«Programa»**: uma série de operações predefinidas e declaradas pelo fabricante como adequadas para a secagem de certos tipos de têxteis;\n\n10) **«Ciclo»**: um processo de secagem completo, conforme definido para o programa selecionado;\n\n11) **«Duração do programa»**: o tempo decorrido entre o início e o fim do programa, excluindo o eventual funcionamento diferido programado pelo utilizador final;\n\n12) **«Capacidade nominal»**: a massa máxima em quilogramas, indicada pelo fabricante em frações de 0,5 kg de têxteis secos de um determinado tipo, que pode ser tratada num secador de roupa para uso doméstico no programa selecionado, quando carregado de acordo com as instruções do fabricante;\n\n13) **«Carga parcial»**: metade da capacidade nominal de um secador de roupa para uso doméstico num dado programa;\n\n14) **«Eficiência de condensação»**: a relação entre a massa de água condensada por um secador de roupa por condensação e a massa de água removida da carga no final de um ciclo;\n\n15) **«Estado de desativação»**: estado em que o secador de roupa para uso doméstico é desligado, por meio de comandos do aparelho ou de interruptores acessíveis e destinados a serem operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, suscetível de persistir por tempo indeterminado, enquanto o secador de roupa para uso doméstico está ligado a uma fonte de energia e é utilizado de acordo com as instruções do fabricante; quando não existem comandos ou interruptores acessíveis ao utilizador final, o «estado de desativação» significa o estado seguinte à passagem do secador de roupa para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência;\n\n16) **«Estado inativo»**: o estado de consumo de energia mais reduzido que pode persistir por tempo indeterminado após o final do programa sem qualquer intervenção suplementar do utilizador final que não seja o descarregamento do secador de roupa para uso doméstico;\n\n17) **«Secador de roupa para uso doméstico equivalente»**: um modelo de secador de roupa para uso doméstico colocado no mercado com capacidade nominal, características técnicas e de desempenho, consumo de energia, eventual eficiência de condensação, duração do programa normal de algodão e emissão de ruído aéreo durante a secagem idênticos aos de outro modelo de secador de roupa para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fabricante;\n\n18) **«Programa normal de algodão»**: o ciclo que efetua a secagem de roupa de algodão desde um teor inicial de humidade da carga de 60 % até um teor residual de humidade da carga de 0 %."
+  },
+  "2a0f1b6d3a2dd702": {
+   "fragment_id": "Artigo 3.º — Requisitos de conceção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de conceção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de conceção ecológica\n\nOs requisitos genéricos de conceção ecológica para os secadores de roupa para uso doméstico constam da secção 1 do anexo I. Os requisitos específicos de conceção ecológica para os secadores de roupa para uso doméstico constam da secção 2 do anexo I.\n\nNão são necessários os requisitos relativos a outros parâmetros de conceção ecológica referidos no anexo I, parte 1, da Diretiva 2009/125/CE."
+  },
+  "d78f9cf7b0e7a169": {
+   "fragment_id": "Artigo 4.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação da conformidade\n\n1. O procedimento de avaliação da conformidade referido no artigo 8.º da Diretiva 2009/125/CE é o controlo interno da conceção previsto no anexo IV ou o sistema de gestão previsto no anexo V da mesma diretiva.\n\n2. Para efeitos da avaliação da conformidade nos termos do artigo 8.º da Diretiva 2009/125/CE, a documentação técnica deve incluir uma cópia dos cálculos efetuados em conformidade com o anexo II do presente regulamento.\n\nSempre que as informações incluídas na documentação técnica relativamente a um modelo específico de secador de roupa para uso doméstico sejam resultantes de cálculos efetuados com base na conceção ou de extrapolações feitas a partir de outros secadores de roupa para uso doméstico equivalentes, ou de ambos, a documentação deve incluir os pormenores desses cálculos ou dessas extrapolações, ou de ambos, e dos ensaios realizados pelos fabricantes para verificarem a precisão dos cálculos efetuados. Nesses casos, a documentação técnica deve também incluir uma lista de todos os outros modelos de secadores de roupa para uso doméstico equivalentes para os quais as informações nela contidas tenham sido obtidas do mesmo modo."
+  },
+  "6fbf8ed1b8a69cd8": {
+   "fragment_id": "Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nOs Estados-Membros devem aplicar o procedimento de verificação descrito no anexo III do presente regulamento ao efetuarem as verificações no âmbito da vigilância do mercado referidas no artigo 3.º, n.º 2, da Diretiva 2009/125/CE, para comprovarem o cumprimento dos requisitos estabelecidos no anexo I do presente regulamento."
+  },
+  "f193908c04389551": {
+   "fragment_id": "Artigo 6.º — Padrões de referência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Padrões de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Padrões de referência\n\nOs padrões de referência indicativos para os secadores de roupa para uso doméstico com melhor desempenho disponíveis no mercado no momento da entrada em vigor do presente regulamento constam do anexo IV."
+  },
+  "fa6a2b6e3385b4b9": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento à luz do progresso tecnológico o mais tardar cinco anos após a sua entrada em vigor e apresenta os resultados dessa revisão ao Fórum de Consulta sobre a Conceção Ecológica. Nessa revisão será feita, nomeadamente, uma avaliação das tolerâncias aplicáveis à verificação, constantes do anexo III, e da eficiência dos secadores por exaustão."
+  },
+  "f1fd7e73ba1eba7a": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 1 de novembro de 2013.\n\nNo entanto:\n\na) Os requisitos genéricos de conceção ecológica constantes nos pontos 1.1 e 1.2 do anexo I são aplicáveis a partir de 1 de novembro de 2014;\n\nb) Os requisitos específicos de conceção ecológica estabelecidos no ponto 2.2 do anexo I são aplicáveis a partir de 1 de novembro de 2015.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 3 de outubro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "7a22e4bbd5d9af97": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/46fb10dd-1459-11e2-8e28-01aa75ed71a1.0018.04/DOC_1#ntc1-L_2012278PT.01000101-E0001) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/46fb10dd-1459-11e2-8e28-01aa75ed71a1.0018.04/DOC_1#ntc2-L_2012278PT.01000101-E0002) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC)."
+  }
+ }
+}

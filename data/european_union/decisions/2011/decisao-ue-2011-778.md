@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-18'
+version_history:
+  file: decisao-ue-2011-778.versoes.json
+  count: 2
+  source_lastmod: '2014-06-18'
+  versions:
+  - date: '2011-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-18'
+    amending: eu:celex:32014D0368:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 16 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Notas
 identifiers:
   celex: 32011D0778
   eli: http://data.europa.eu/eli/dec_impl/2011/778/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e854950-8cd2-442e-9938-46ca31506a4b.0006
   content_url: http://publications.europa.eu/resource/cellar/2e30cc5e-8862-4e6b-bf87-2a9249d6b738.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011D0778-20140618
-  retrieved_at: '2026-10-22T03:15:29Z'
+  retrieved_at: '2026-10-22T15:49:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T13:32:45.668+02:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:29Z'
-  notes: Texto consolidado 02011D0778-20140618.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:55Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2011-778.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,29 +122,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e9aeacdd-90e0-4bd0-8d57-4397beb296d5
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:29Z'
+  checked_at: '2026-10-22T15:49:55Z'
   warnings: []
   errors: []
 ---
 
 # 2011/778/UE: Decisão de Execução da Comissão, de 28 de Novembro de 2011
-
-> 2011D0778 — PT — 18.06.2014 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014D0368) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 16 de junho de 2014](http://publications.europa.eu/resource/celex/32014D0368) — L 178 — 27 — 18.6.2014
-
-## DECISÃO DE EXECUÇÃO DA COMISSÃO
 
 de 28 de Novembro de 2011
 

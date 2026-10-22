@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011L0072:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0072-20111013",
+ "dre_path": null,
+ "source_lastmod": "2011-10-13",
+ "versions": [
+  {
+   "date": "2011-09-23",
+   "future": false,
+   "celex": "32011L0072",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d38342735761759c",
+    "66bcf121cb219908",
+    "16519908773d47ac",
+    "b92ba38a531e3138",
+    "9cad29ad3d0b7dec",
+    "d098f8c69a9dfe66"
+   ]
+  },
+  {
+   "date": "2011-10-13",
+   "future": false,
+   "celex": "02011L0072-20111013",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Alterações à Directiva 2000/25/CE",
+    "Altera Artigo 2.º — Transposição",
+    "Altera Artigo 4.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita «ANEXO IV",
+    "Adita DISPOSIÇÕES APLICÁVEIS AOS TRACTORES E MOTORES INTRODUZIDOS NO MERCADO AO ABRIGO DO REGIME DE FLEXIBILIDADE PREVISTO NO ARTIGO 3.º-A",
+    "Adita 1. ACÇÕES A EMPREENDER PELOS FABRICANTES DE TRACTORES",
+    "Adita 2. ACÇÕES A EMPREENDER PELO FABRICANTE DO MOTOR",
+    "Adita 3. ACÇÕES A EMPREENDER PELA ENTIDADE HOMOLOGADORA"
+   ],
+   "fragments": [
+    "92b49f9279490d85",
+    "7f2ff3d127731439",
+    "c91fb24dbcd831e5",
+    "b92ba38a531e3138",
+    "95738b1b24945199",
+    "10220b9774fa9034",
+    "d4263fda555ba288",
+    "8f743d20d32139bb",
+    "065b22419f6956ff",
+    "9cd866dcbd471ceb",
+    "8943d2dd6a316003",
+    "ad8aff0dfe1f88e8"
+   ]
+  }
+ ],
+ "fragments": {
+  "d38342735761759c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Setembro de 2011\n\nque altera a Directiva 2000/25/CE no que diz respeito às disposições aplicáveis aos tractores introduzidos no mercado ao abrigo do regime de flexibilidade\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 114.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/f34739e0-ebff-46a3-bcee-796d30f8f57b.0018.03/DOC_1#ntr1-L_2011246PT.01000101-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/f34739e0-ebff-46a3-bcee-796d30f8f57b.0018.03/DOC_1#ntr2-L_2011246PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 2000/25/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2000, relativa às medidas a tomar contra as emissões de gases poluentes e de partículas poluentes provenientes dos motores destinados à propulsão dos tractores agrícolas ou florestais [([^3])](http://publications.europa.eu/resource/cellar/f34739e0-ebff-46a3-bcee-796d30f8f57b.0018.03/DOC_1#ntr3-L_2011246PT.01000101-E0003), regula as emissões de gases de escape dos motores instalados em tractores agrícolas e florestais no intuito de melhor proteger a saúde humana e o ambiente. A Directiva 2000/25/CE previa que os limites de emissões aplicáveis em 2010 para a homologação da maioria dos motores de ignição por compressão, designados por limites da fase III-A, fossem substituídos pelos da fase III-B, mais estrita, entrando em vigor progressivamente a partir de 1 de Janeiro de 2011 no tocante à introdução no mercado e a partir de 1 de Janeiro de 2010 no que à homologação desses motores dizia respeito. A fase IV, que prevê limites de emissões mais estritos do que a fase III-B, entrará em vigor progressivamente a partir de 1 de Janeiro de 2013 no que se refere à homologação desses motores e a partir de 1 de Janeiro de 2014 no que se refere à introdução no mercado.\n\n(2) A transição para a fase III-B implica uma mudança de nível tecnológico, que requer custos de execução significativos para a remodelação dos motores e para o desenvolvimento de soluções técnicas avançadas. Contudo, a actual crise económica e financeira mundial ou qualquer recessão económica não deverá conduzir à diminuição das normas ambientais. Portanto, a presente revisão da Directiva 2000/25/CE deverá ser considerada excepcional. Além disso, os investimentos em tecnologias respeitadoras do ambiente são importantes para a promoção do crescimento, do emprego e da segurança sanitária no futuro.\n\n(3) A Directiva 2000/25/CE prevê um regime de flexibilidade para permitir aos fabricantes de tractores adquirir, durante uma determinada fase, um número limitado de motores que não respeitem os limites de emissões aplicáveis nessa fase, mas que estejam homologados nos termos dos requisitos da fase imediatamente anterior à fase aplicável.\n\n(4) Desde 2005, a Directiva 2000/25/CE prevê a avaliação da possível necessidade de mais medidas de flexibilidade em relação aos limites de emissões das fases III-B e IV. A fim de proporcionar um alívio temporário à indústria na transição para a fase seguinte, é necessário adaptar as condições de aplicação do regime de flexibilidade.\n\n(5) Durante a fase III-B, o número máximo de tractores que são colocados no mercado e que entram em serviço não deverá exceder, em cada categoria de motor, 40 % do número de tractores colocados no mercado pelos fabricantes de tractores nessa categoria de motores. A opção alternativa que permite que um número fixo de tractores seja colocado no mercado e entre em serviço ao abrigo do regime de flexibilidade deverá ser, por conseguinte, adaptada.\n\n(6) Os fabricantes de tractores abrangidos pelo âmbito de aplicação da presente directiva deverão beneficiar dos programas europeus de apoio financeiro ou de quaisquer programas de apoio pertinentes dos respectivos Estados-Membros. Estes programas de apoio podem beneficiar projectos que apliquem as melhores tecnologias disponíveis e as normas mais exigentes em matéria de emissões.\n\n(7) A Directiva 2000/25/CE deverá, portanto, ser alterada.\n\n(8) As medidas previstas na presente directiva reflectem uma dificuldade temporária enfrentada pela indústria. Assim sendo, a aplicação dessas medidas deverá limitar-se à duração da fase III-B.\n\n(9) Os limites de emissão em vigor deverão ser tornados mais estritos, inclusivamente em relação às partículas de carbono negro ultrafinas, nomeadamente graças à introdução de limites do número de partículas na futura legislação, caso a avaliação de impacto correspondente o justifique,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "66bcf121cb219908": {
+   "fragment_id": "Artigo 1.º — Alterações à Directiva 2000/25/CE",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alterações à Directiva 2000/25/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações à Directiva 2000/25/CE\n\nA Directiva 2000/25/CE é alterada do seguinte modo:\n\n1) No artigo 1.º, são aditados os seguintes travessões: «— “regime de flexibilidade”, o procedimento de isenção através do qual um Estado-Membro autoriza a colocação no mercado e a entrada em serviço de um número limitado de tractores nos termos dos requisitos fixados no artigo 3.º-A, — “categoria de motores”, a classificação de motores que combina a gama de potências com a fase de limitação das emissões de escape, — “disponibilização no mercado”, qualquer oferta de um tractor ou motor para distribuição ou utilização no mercado da União no âmbito de uma actividade comercial, a título oneroso ou gratuito, — “colocação no mercado”, a primeira disponibilização no mercado de um tractor ou motor, — “entrada em serviço”, primeira utilização na União de um tractor ou motor, para o fim a que se destina. A data de entrada em serviço é considerada como tendo lugar aquando do seu registo, se for caso disso, ou da sua colocação no mercado.».\n\n«— “regime de flexibilidade”, o procedimento de isenção através do qual um Estado-Membro autoriza a colocação no mercado e a entrada em serviço de um número limitado de tractores nos termos dos requisitos fixados no artigo 3.º-A,\n\n— “categoria de motores”, a classificação de motores que combina a gama de potências com a fase de limitação das emissões de escape,\n\n— “disponibilização no mercado”, qualquer oferta de um tractor ou motor para distribuição ou utilização no mercado da União no âmbito de uma actividade comercial, a título oneroso ou gratuito,\n\n— “colocação no mercado”, a primeira disponibilização no mercado de um tractor ou motor,\n\n— “entrada em serviço”, primeira utilização na União de um tractor ou motor, para o fim a que se destina. A data de entrada em serviço é considerada como tendo lugar aquando do seu registo, se for caso disso, ou da sua colocação no mercado.».\n\n2) O artigo 3.º-A passa a ter a seguinte redacção: «Artigo 3.º-A Regime de flexibilidade Não obstante o disposto nos n.ºs 1 e 2 do artigo 3.º, os Estados-Membros determinam que, a pedido do fabricante de tractores e na condição de a entidade homologadora ter emitido a licença relevante para colocação no mercado, nos termos dos procedimentos previstos no Anexo IV, possa entrar em serviço um número limitado de motores equipados com motores aprovados nos termos dos requisitos da fase de limites de emissão imediatamente anterior à fase aplicável. O regime de flexibilidade tem início quando se torna aplicável uma determinada fase e tem a duração dessa fase. O regime de flexibilidade previsto no ponto 1.2 do Anexo IV deve, contudo, ser limitado à duração da fase III-B ou a três anos, se não houver nenhuma fase posterior.».\n\n3) O Anexo IV é substituído pelo texto constante do anexo da presente directiva."
+  },
+  "16519908773d47ac": {
+   "fragment_id": "Artigo 2.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transposição\n\n1. Os Estados-Membros adoptam e publicam, o mais tardar até 24 de Setembro de 2011, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicam imediatamente à Comissão o texto das referidas disposições.\n\nAs disposições adoptadas pelos Estados-Membros fazem referência à presente directiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são determinadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das disposições principais de direito nacional que adoptarem no domínio da presente directiva."
+  },
+  "b92ba38a531e3138": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "9cad29ad3d0b7dec": {
+   "fragment_id": "Artigo 4.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Destinatários\n\nOs destinatários da presente directiva são os Estados-Membros.\n\nFeito em Estrasburgo, em 14 de Setembro de 2011.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. DOWGIELEWICZ**\n\n---"
+  },
+  "d098f8c69a9dfe66": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f34739e0-ebff-46a3-bcee-796d30f8f57b.0018.03/DOC_1#ntc1-L_2011246PT.01000101-E0001) [JO C 107, de 6.4.2011, p. 26](http://publications.europa.eu/resource/oj/JOC_2011_107_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f34739e0-ebff-46a3-bcee-796d30f8f57b.0018.03/DOC_1#ntc2-L_2011246PT.01000101-E0002) Posição do Parlamento Europeu de 23 de Junho de 2011 e decisão do Conselho de 19 de Julho de 2011.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f34739e0-ebff-46a3-bcee-796d30f8f57b.0018.03/DOC_1#ntc3-L_2011246PT.01000101-E0003) [JO L 173 de 12.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_173_R_TOC)."
+  },
+  "92b49f9279490d85": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Setembro de 2011\n\nque altera a Directiva 2000/25/CE no que diz respeito às disposições aplicáveis aos tractores introduzidos no mercado ao abrigo do regime de flexibilidade\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 114.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/b8b629a7-56fe-4203-9966-b2945a1fac8c.0018.03/DOC_1#E0001)),\n\nDeliberando de acordo com o processo legislativo ordinário ([^2^](http://publications.europa.eu/resource/cellar/b8b629a7-56fe-4203-9966-b2945a1fac8c.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 2000/25/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2000, relativa às medidas a tomar contra as emissões de gases poluentes e de partículas poluentes provenientes dos motores destinados à propulsão dos tractores agrícolas ou florestais ([^3^](http://publications.europa.eu/resource/cellar/b8b629a7-56fe-4203-9966-b2945a1fac8c.0018.03/DOC_1#E0003)), regula as emissões de gases de escape dos motores instalados em tractores agrícolas e florestais no intuito de melhor proteger a saúde humana e o ambiente. A Directiva 2000/25/CE previa que os limites de emissões aplicáveis em 2010 para a homologação da maioria dos motores de ignição por compressão, designados por limites da fase III-A, fossem substituídos pelos da fase III-B, mais estrita, entrando em vigor progressivamente a partir de 1 de Janeiro de 2011 no tocante à introdução no mercado e a partir de 1 de Janeiro de 2010 no que à homologação desses motores dizia respeito. A fase IV, que prevê limites de emissões mais estritos do que a fase III-B, entrará em vigor progressivamente a partir de 1 de Janeiro de 2013 no que se refere à homologação desses motores e a partir de 1 de Janeiro de 2014 no que se refere à introdução no mercado.\n\n(2) A transição para a fase III-B implica uma mudança de nível tecnológico, que requer custos de execução significativos para a remodelação dos motores e para o desenvolvimento de soluções técnicas avançadas. Contudo, a actual crise económica e financeira mundial ou qualquer recessão económica não deverá conduzir à diminuição das normas ambientais. Portanto, a presente revisão da Directiva 2000/25/CE deverá ser considerada excepcional. Além disso, os investimentos em tecnologias respeitadoras do ambiente são importantes para a promoção do crescimento, do emprego e da segurança sanitária no futuro.\n\n(3) A Directiva 2000/25/CE prevê um regime de flexibilidade para permitir aos fabricantes de tractores adquirir, durante uma determinada fase, um número limitado de motores que não respeitem os limites de emissões aplicáveis nessa fase, mas que estejam homologados nos termos dos requisitos da fase imediatamente anterior à fase aplicável.\n\n(4) Desde 2005, a Directiva 2000/25/CE prevê a avaliação da possível necessidade de mais medidas de flexibilidade em relação aos limites de emissões das fases III-B e IV. A fim de proporcionar um alívio temporário à indústria na transição para a fase seguinte, é necessário adaptar as condições de aplicação do regime de flexibilidade.\n\n(5) Durante a fase III-B, o número máximo de tractores que são colocados no mercado e que entram em serviço não deverá exceder, em cada categoria de motor, 40 % do número de tractores colocados no mercado pelos fabricantes de tractores nessa categoria de motores. A opção alternativa que permite que um número fixo de tractores seja colocado no mercado e entre em serviço ao abrigo do regime de flexibilidade deverá ser, por conseguinte, adaptada.\n\n(6) Os fabricantes de tractores abrangidos pelo âmbito de aplicação da presente directiva deverão beneficiar dos programas europeus de apoio financeiro ou de quaisquer programas de apoio pertinentes dos respectivos Estados-Membros. Estes programas de apoio podem beneficiar projectos que apliquem as melhores tecnologias disponíveis e as normas mais exigentes em matéria de emissões.\n\n(7) A Directiva 2000/25/CE deverá, portanto, ser alterada.\n\n(8) As medidas previstas na presente directiva reflectem uma dificuldade temporária enfrentada pela indústria. Assim sendo, a aplicação dessas medidas deverá limitar-se à duração da fase III-B.\n\n(9) Os limites de emissão em vigor deverão ser tornados mais estritos, inclusivamente em relação às partículas de carbono negro ultrafinas, nomeadamente graças à introdução de limites do número de partículas na futura legislação, caso a avaliação de impacto correspondente o justifique,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "7f2ff3d127731439": {
+   "fragment_id": "Artigo 1.º — Alterações à Directiva 2000/25/CE",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alterações à Directiva 2000/25/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações à Directiva 2000/25/CE\n\nA Directiva 2000/25/CE é alterada do seguinte modo:\n\n1) No artigo 1.º, são aditados os seguintes travessões:\n\n«— “regime de flexibilidade”, o procedimento de isenção através do qual um Estado-Membro autoriza a colocação no mercado e a entrada em serviço de um número limitado de tractores nos termos dos requisitos fixados no artigo 3.º-A,\n\n— “categoria de motores”, a classificação de motores que combina a gama de potências com a fase de limitação das emissões de escape,\n\n— “disponibilização no mercado”, qualquer oferta de um tractor ou motor para distribuição ou utilização no mercado da União no âmbito de uma actividade comercial, a título oneroso ou gratuito,\n\n— “colocação no mercado”, a primeira disponibilização no mercado de um tractor ou motor,\n\n— “entrada em serviço”, primeira utilização na União de um tractor ou motor, para o fim a que se destina. A data de entrada em serviço é considerada como tendo lugar aquando do seu registo, se for caso disso, ou da sua colocação no mercado.».\n\n2) O artigo 3.º-A passa a ter a seguinte redacção:\n\nNão obstante o disposto nos n.ºs 1 e 2 do artigo 3.º, os Estados-Membros determinam que, a pedido do fabricante de tractores e na condição de a entidade homologadora ter emitido a licença relevante para colocação no mercado, nos termos dos procedimentos previstos no Anexo IV, possa entrar em serviço um número limitado de motores equipados com motores aprovados nos termos dos requisitos da fase de limites de emissão imediatamente anterior à fase aplicável.\n\nO regime de flexibilidade tem início quando se torna aplicável uma determinada fase e tem a duração dessa fase. O regime de flexibilidade previsto no ponto 1.2 do Anexo IV deve, contudo, ser limitado à duração da fase III-B ou a três anos, se não houver nenhuma fase posterior.».\n\n3) O Anexo IV é substituído pelo texto constante do anexo da presente directiva."
+  },
+  "c91fb24dbcd831e5": {
+   "fragment_id": "Artigo 2.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transposição\n\n[**►C1**](http://publications.europa.eu/resource/celex/32011L0072R%2801%29) 1. Os Estados-Membros adoptam e publicam, o mais tardar até 24 de Setembro de 2012,**◄** as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicam imediatamente à Comissão o texto das referidas disposições.\n\nAs disposições adoptadas pelos Estados-Membros fazem referência à presente directiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são determinadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das disposições principais de direito nacional que adoptarem no domínio da presente directiva."
+  },
+  "95738b1b24945199": {
+   "fragment_id": "Artigo 4.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Destinatários\n\nOs destinatários da presente directiva são os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d4263fda555ba288": {
+   "fragment_id": "«ANEXO IV",
+   "type": "divisao",
+   "heading": "«ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO IV"
+  },
+  "8f743d20d32139bb": {
+   "fragment_id": "DISPOSIÇÕES APLICÁVEIS AOS TRACTORES E MOTORES INTRODUZIDOS NO MERCADO AO ABRIGO DO REGIME DE FLEXIBILIDADE PREVISTO NO ARTIGO 3.º-A",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES APLICÁVEIS AOS TRACTORES E MOTORES INTRODUZIDOS NO MERCADO AO ABRIGO DO REGIME DE FLEXIBILIDADE PREVISTO NO ARTIGO 3.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES APLICÁVEIS AOS TRACTORES E MOTORES INTRODUZIDOS NO MERCADO AO ABRIGO DO REGIME DE FLEXIBILIDADE PREVISTO NO ARTIGO 3.º-A"
+  },
+  "065b22419f6956ff": {
+   "fragment_id": "1. ACÇÕES A EMPREENDER PELOS FABRICANTES DE TRACTORES",
+   "type": "divisao",
+   "heading": "1. ACÇÕES A EMPREENDER PELOS FABRICANTES DE TRACTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. ACÇÕES A EMPREENDER PELOS FABRICANTES DE TRACTORES\n\n1.1. Excepto durante a fase III-B, um fabricante de tractores que desejar utilizar o regime de flexibilidade deve solicitar a autorização da entidade homologadora para colocar tractores no mercado de acordo com as disposições relevantes do presente anexo. O número de tractores não deve exceder os limites previstos nos pontos 1.1.1 e 1.1.2. Os motores devem cumprir os requisitos referidos no artigo 3.º-A.\n\n1.1.1. O número de tractores colocados no mercado no quadro de um regime de flexibilidade não deve, para cada categoria de motor, ultrapassar 20 % do número anual de tractores colocados no mercado pelo fabricante de tractores com motores da categoria em questão (calculadas como a média das vendas dos cinco últimos anos no mercado da União). Caso o fabricante de tractores tenha comercializado tractores na União por um período inferior a cinco anos, a média deve ser calculada com base no período de comercialização de tractores na União pelo referido fabricante.\n\n1.1.2. Em alternativa à opção prevista no ponto 1.1.1, o número de tractores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:\n\nGama de potência do motor P (kW) Número de tractores\n\n19 ≤ P < 37 200\n\n37 ≤ P < 75 150\n\n75 ≤ P < 130 100\n\n130 ≤ P ≤ 560 50\n\n1.2. Durante a fase III-B, um fabricante de tractores que desejar utilizar o regime de flexibilidade deve solicitar a autorização da entidade homologadora para colocar tractores no mercado ao abrigo das disposições aplicáveis do presente anexo. O número de tractores não deve exceder os limites previstos nos pontos 1.2.1 e 1.2.2. Os motores devem cumprir os requisitos referidos no artigo 3.º-A.\n\n1.2.1. O número de tractores colocados no mercado no quadro do regime de flexibilidade não deve, para cada categoria de motor, ultrapassar 40 % do número anual de tractores colocados no mercado pelo fabricante de tractores com motores da categoria em questão (calculados como a média das vendas dos cinco últimos anos no mercado da União). Caso o fabricante de tractores tenha comercializado tractores na União por um período inferior a cinco anos, a média deve ser calculada com base no período de comercialização de tractores na União pelo referido fabricante.\n\n1.2.2. Em alternativa à opção prevista no ponto 1.2.1, o número de tractores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:\n\nGama de potência do motor P (kW) Número de tractores\n\n37 ≤ P < 56 200\n\n56 ≤ P < 75 175\n\n75 ≤ P < 130 250\n\n130 ≤ P ≤ 560 125\n\n1.3. O pedido apresentado pelo fabricante de tractores à entidade homologadora deve incluir a seguinte informação:\n\na) Uma amostra das etiquetas que serão apostas em cada tractor em que será instalado um motor introduzido no mercado ao abrigo do regime de flexibilidade. As etiquetas devem ostentar o seguinte texto: “TRACTOR N.º… (de sequência dos tractores) DE … (número total de tractores na respectiva gama de potência) COM O MOTOR N.º … E O N.º DE HOMOLOGAÇÃO (Directiva 2000/25/CE) …”; e\n\nb) Uma amostra da etiqueta adicional que será aposta ao motor e que ostenta o texto previsto no ponto 2.2.\n\n1.4. O fabricante do tractor deve fornecer à entidade homologadora todas as informações necessárias relativas à aplicação do regime de flexibilidade que esta solicite para tomar uma decisão.\n\n1.5. O fabricante do tractor deve apresentar semestralmente às entidades homologadoras dos Estados-Membros em cujos mercados o tractor tenha sido colocado um relatório sobre a aplicação do regime de flexibilidade que adoptou. O relatório deve incluir dados cumulativos sobre o número tractores colocados no mercado ao abrigo do regime de flexibilidade, os números de série do motor e do tractor, bem como os Estados-Membros onde o tractor tenha sido posto em circulação. Este procedimento deve ser mantido enquanto um regime de flexibilidade estiver em curso, sem excepções."
+  },
+  "9cd866dcbd471ceb": {
+   "fragment_id": "2. ACÇÕES A EMPREENDER PELO FABRICANTE DO MOTOR",
+   "type": "divisao",
+   "heading": "2. ACÇÕES A EMPREENDER PELO FABRICANTE DO MOTOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ACÇÕES A EMPREENDER PELO FABRICANTE DO MOTOR\n\n2.1. Um fabricante de motores pode introduzir no mercado motores ao abrigo do regime de flexibilidade aprovado nos termos dos pontos 1 e 3 do presente anexo.\n\n2.2. O fabricante dos motores deve apor nesses motores uma etiqueta com o seguinte texto: “Motor introduzido no mercado ao abrigo do regime de flexibilidade” nos termos dos requisitos estabelecidos no ponto 5 do Anexo I."
+  },
+  "8943d2dd6a316003": {
+   "fragment_id": "3. ACÇÕES A EMPREENDER PELA ENTIDADE HOMOLOGADORA",
+   "type": "divisao",
+   "heading": "3. ACÇÕES A EMPREENDER PELA ENTIDADE HOMOLOGADORA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. ACÇÕES A EMPREENDER PELA ENTIDADE HOMOLOGADORA\n\nA entidade homologadora deve avaliar o conteúdo do pedido de regime de flexibilidade e dos documentos apensos, após o que informará o fabricante dos tractores da sua decisão de autorizar, ou não, o regime de flexibilidade solicitado.»\n\n---"
+  },
+  "ad8aff0dfe1f88e8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b8b629a7-56fe-4203-9966-b2945a1fac8c.0018.03/DOC_1#src.E0001)) JO C 107, de 6.4.2011, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b8b629a7-56fe-4203-9966-b2945a1fac8c.0018.03/DOC_1#src.E0002)) Posição do Parlamento Europeu de 23 de Junho de 2011 e decisão do Conselho de 19 de Julho de 2011.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b8b629a7-56fe-4203-9966-b2945a1fac8c.0018.03/DOC_1#src.E0003)) JO L 173 de 12.7.2000, p. 1."
+  }
+ }
+}

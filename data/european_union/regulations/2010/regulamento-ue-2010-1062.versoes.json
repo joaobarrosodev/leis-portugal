@@ -1,0 +1,485 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R1062:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1062-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "2010-11-30",
+   "future": false,
+   "celex": "32010R1062",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fadbd371038dd8af",
+    "414412636f256a43",
+    "5e42aea63cb8b8fe",
+    "9f9c7f0c4a08272a",
+    "34714d7e4369f94a",
+    "f580652923edd3dd",
+    "1a4862fa63c5e904",
+    "c4d72811d560ba9e",
+    "2d3215b4c5369731",
+    "0841f6749de44dda",
+    "e4678d36cdd6fd9f"
+   ]
+  },
+  {
+   "date": "2020-08-09",
+   "future": false,
+   "celex": "02010R1062-20200809",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0518:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014",
+     "published": null,
+     "celex": "32014R0518"
+    },
+    {
+     "id": "eu:celex:32017R0254:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0254"
+    },
+    {
+     "id": "eu:celex:32020R1059:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32020R1059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Responsabilidades dos fornecedores",
+    "Altera Artigo 4.º — Responsabilidades dos distribuidores",
+    "Altera Artigo 9.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Classe de eficiência energética",
+    "Adita ANEXO II",
+    "Adita Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo",
+    "Adita ANEXO III",
+    "Adita Ficha de produto",
+    "Adita ANEXO IV",
+    "Adita Documentação técnica",
+    "Adita ANEXO V",
+    "Adita Rótulo",
+    "Adita 1. RÓTULO 1",
+    "Adita 2. RÓTULO 2",
+    "Adita 3. RÓTULO 3",
+    "Adita 4. LABEL 4",
+    "Adita ANEXO VI",
+    "Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Adita ANEXO VII",
+    "Adita Medições",
+    "Adita ANEXO VIII",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita ANEXO IX",
+    "Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet"
+   ],
+   "fragments": [
+    "286925471b296f4a",
+    "414412636f256a43",
+    "c83ce4207ea37086",
+    "1e8cacc0afa8939e",
+    "4a6c48b1f0ba5594",
+    "f580652923edd3dd",
+    "1a4862fa63c5e904",
+    "c4d72811d560ba9e",
+    "2d3215b4c5369731",
+    "a82b9f3f632b6eba",
+    "d664376e2a8dcecd",
+    "cd1b32359a2fea6a",
+    "852174729551523b",
+    "1bb2432d72dfbbaf",
+    "720af75c92791b10",
+    "c9c032d08c7223e7",
+    "e03a0eb4d5b2eef3",
+    "a1a2d8bf9235750a",
+    "64610ae29a6cb67c",
+    "cd72cf4170b55dce",
+    "d6b78f19aa7256f1",
+    "2d60db3d235d0a56",
+    "9214767ce3db332d",
+    "edf0f3a47b5d52d2",
+    "90c7d2baf4d44ee2",
+    "0916b3fe31bc97d2",
+    "d46ca50274582635",
+    "a432012509cb6aa6",
+    "1b41b51ec3248d43",
+    "c959d8436e03c690",
+    "953641e58475eff6",
+    "b5a149de6d8cdbe9",
+    "af9f1e8888936bca"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "02010R1062-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Responsabilidades dos fornecedores",
+    "Suprime Artigo 4.º — Responsabilidades dos distribuidores",
+    "Suprime Artigo 5.º — Métodos de medição",
+    "Suprime Artigo 6.º — Procedimento de verificação para efeitos de vigilância do mercado",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Disposição transitória",
+    "Suprime Artigo 9.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime Classe de eficiência energética",
+    "Suprime ANEXO II",
+    "Suprime Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo",
+    "Suprime ANEXO III",
+    "Suprime Ficha de produto",
+    "Suprime ANEXO IV",
+    "Suprime Documentação técnica",
+    "Suprime ANEXO V",
+    "Suprime Rótulo",
+    "Suprime 1. RÓTULO 1",
+    "Suprime 2. RÓTULO 2",
+    "Suprime 3. RÓTULO 3",
+    "Suprime 4. LABEL 4",
+    "Suprime ANEXO VI",
+    "Suprime Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Suprime ANEXO VII",
+    "Suprime Medições",
+    "Suprime ANEXO VIII",
+    "Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime ANEXO IX",
+    "Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "85ff6145a61b01ee"
+   ]
+  }
+ ],
+ "fragments": {
+  "fadbd371038dd8af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos televisores\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de Maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntr1-L_2010314PT.01006401-E0001), e, nomeadamente, o seu artigo 10.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2010/30/UE exige que a Comissão adopte actos delegados relativamente à rotulagem dos produtos relacionados com a energia que representem um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.\n\n(2) A electricidade utilizada pelos televisores representa uma parte significativa da procura total de electricidade do sector doméstico na União e os televisores com funcionalidades equivalentes apresentam grandes disparidades em matéria de eficiência energética. A eficiência energética dos televisores pode ser significativamente melhorada. Os televisores devem, por conseguinte, ser abrangidos por requisitos em matéria de rotulagem energética.\n\n(3) Devem ser estabelecidas disposições harmonizadas para a indicação da eficiência energética e do consumo de energia dos televisores por meio de rotulagem e outras indicações uniformes relativas aos produtos, a fim de incentivar os fabricantes a melhorarem a eficiência energética dos televisores, incentivar os utilizadores finais a comprarem modelos eficientes do ponto de vista energético, reduzir o consumo de electricidade destes produtos e contribuir para o funcionamento do mercado interno.\n\n(4) O efeito combinado das disposições previstas no presente regulamento e no Regulamento (CE) n.º 642/2009 da Comissão, de 22 de Julho de 2009, que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho relativa aos requisitos de concepção ecológica no que respeita aos televisores [([^2])](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntr2-L_2010314PT.01006401-E0002), poderia determinar uma poupança anual de electricidade de 43 TWh até 2020, por comparação com a situação que existirá se nenhuma medida for adoptada.\n\n(5) As informações fornecidas no rótulo devem ser obtidas através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização, enumeradas no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^3])](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntr3-L_2010314PT.01006401-E0003).\n\n(6) O presente regulamento deve especificar um modelo e conteúdo uniformes para o rótulo dos televisores.\n\n(7) Além disso, o presente regulamento deve especificar os requisitos em matéria de documentação e ficha técnicas dos televisores.\n\n(8) Além disso, o presente regulamento deve especificar os requisitos relativos às informações a fornecer para quaisquer formas de vendas à distância, anúncios e material técnico de promoção dos televisores.\n\n(9) A fim de incentivar o fabrico de televisores energeticamente eficientes os fornecedores que desejem colocar no mercado televisores capazes de satisfazer os requisitos das classes de eficiência energética mais elevadas devem ser autorizados a fornecer rótulos que indiquem essas classes antes da data prevista para a indicação obrigatória das classes em questão.\n\n(10) É conveniente prever uma revisão do presente regulamento que tenha em consideração o progresso tecnológico,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "414412636f256a43": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece requisitos para a rotulagem e fornecimento de informações suplementares no que respeita aos televisores."
+  },
+  "5e42aea63cb8b8fe": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições estabelecidas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis as seguintes definições:\n\n1. ****«Televisor»**** um receptor de televisão ou um monitor de televisão;\n\n2. **«Receptor de televisão»** um produto concebido essencialmente para a visualização e recepção de sinais audiovisuais, colocado no mercado com uma denominação de modelo ou sistema, e que consiste em\n\na) Um ecrã;\n\nb) Um ou mais sintonizador(es)/receptor(es) e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa única unidade combinada com o ecrã, ou numa ou mais unidades separadas.\n\n3. ****«Monitor de televisão»**** um produto concebido para mostrar num ecrã integrado um sinal de vídeo proveniente de uma série de fontes, incluindo sinais de radiodifusão televisiva, que opcionalmente controla e reproduz sinais sonoros de um dispositivo de fonte externa, ligado por meio de circuitos de sinais de vídeo normalizados, incluindo Cinch (de componentes, compósito), SCART, HDMI e futuras normas sem fios (mas excluindo circuitos de sinais de vídeo não normalizados, como DVI e SDI), mas que não pode receber nem processar sinais radiodifundidos;\n\n4. ****«Estado activo»**** o estado em que o televisor se encontra ligado à rede eléctrica e produz som e imagem;\n\n5. ****«Estado doméstico»**** a regulação do televisor recomendada pelo fabricante para a utilização doméstica normal;\n\n6. **«Estado de vigília»** o estado em que o equipamento está ligado à rede eléctrica, depende do fornecimento de energia por essa rede a fim de funcionar adequadamente e faculta apenas as seguintes funções, que podem persistir por tempo indeterminado:\n\na) Função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa; e/ou\n\nb) Visualização de informações ou de estado.\n\n7. **«Estado de desactivação»** estado em que o equipamento se encontra ligado à rede eléctrica sem executar qualquer função; serão também consideradas como estado de desactivação as seguintes situações:\n\na) Condições que fornecem apenas uma indicação de estado de desactivação;\n\nb) Condições que fornecem apenas funções destinadas a assegurar a compatibilidade electromagnética na acepção da Directiva 2004/108/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntr4-L_2010314PT.01006401-E0004).\n\n8. ****«Função de reactivação»**** função que permite a activação de outros estados, incluindo o estado activo, por meio de um comutador remoto, que pode ser um telecomando, um sensor interno ou um temporizador que conduza à disponibilidade de funções adicionais, entre as quais o estado activo;\n\n9. ****«Visualização de informações ou de estado»**** função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios;\n\n10. ****«Menu imposto»**** um grupo de parâmetros do televisor pré-definidos pelo fabricante, de entre os quais o utilizador do televisor deve seleccionar uma regulação determinada assim que põe em funcionamento o televisor;\n\n11. ****«Taxa de luminância de pico»**** a razão entre a luminância de pico do estado doméstico ou do estado activo do televisor ajustada pelo fornecedor, se for o caso, e a luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo;\n\n12. ****«Ponto de venda»**** um local onde se encontram televisores colocados em exposição ou postos à venda, em locação, ou em locação com opção de compra;\n\n13. ****«Utilizador final»**** um consumidor que compra ou se prevê que compre um televisor."
+  },
+  "9f9c7f0c4a08272a": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\n1. Os fornecedores asseguram que:\n\na) Cada televisor é fornecido com um rótulo impresso com o formato e as informações previstos no anexo V;\n\nb) É disponibilizada uma ficha de produto, como previsto no anexo III;\n\nc) A documentação técnica, como prevista no anexo IV, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de televisor indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de televisor, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo.\n\n2. As classes de eficiência energética serão baseadas no índice de eficiência energética calculado em conformidade com o anexo II.\n\n3. O formato do rótulo previsto no anexo V é aplicado de acordo com o seguinte calendário:\n\na) Para televisores colocados no mercado a partir de 30 de Novembro de 2011 os rótulos para televisores com as classes de eficiência energética: i) A, B, C, D, E, F, G devem ser conformes com o anexo V, secção 1, ou, se os fornecedores o considerarem adequado, com a secção 2 do mesmo anexo, ii) A+ deve ser conforme com o anexo V, secção 2, iii) A++ deve ser conforme com o anexo V, secção 3, iv) A+++ deve ser conforme com o anexo V, secção 4;\n\ni) A, B, C, D, E, F, G devem ser conformes com o anexo V, secção 1, ou, se os fornecedores o considerarem adequado, com a secção 2 do mesmo anexo,\n\nii) A+ deve ser conforme com o anexo V, secção 2,\n\niii) A++ deve ser conforme com o anexo V, secção 3,\n\niv) A+++ deve ser conforme com o anexo V, secção 4;\n\nb) Para os televisores colocados no mercado a partir de 1 de Janeiro de 2014 com as classes de eficiência energética A+, A, B, C, D, E, F, os rótulos devem ser conformes com o anexo V, secção 2 ou, se os fornecedores o considerarem adequado, com a secção 3 do mesmo anexo;\n\nc) Para os televisores colocados no mercado a partir de 1 de Janeiro de 2017 com as classes de eficiência energética A++, A+, A, B, C, D, E, os rótulos devem ser conformes com o anexo V, secção 3 ou, se os fornecedores o considerarem adequado, com a secção 4 do mesmo anexo;\n\nd) Para os televisores colocados no mercado a partir de 1 de Janeiro de 2020 com as classes de eficiência energética A+++, A++, A+, A, B, C, D, os rótulos devem ser conformes com o anexo V, secção 4."
+  },
+  "34714d7e4369f94a": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) Cada televisor, no ponto de venda, ostenta o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, n.º 1, na parte da frente do televisor, de modo a ser manifestamente visível;\n\nb) Os televisores postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o televisor exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do anexo VI;\n\nc) Qualquer anúncio relativo a um modelo específico de televisor indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de televisor, que descreve os seus parâmetros técnicos específicos, inclui a classe de eficiência energética do referido modelo."
+  },
+  "f580652923edd3dd": {
+   "fragment_id": "Artigo 5.º — Métodos de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de medição\n\nAs informações a facultar nos termos dos artigos 3.º e 4.º serão obtidas por procedimentos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, em conformidade com o previsto no anexo VII."
+  },
+  "1a4862fa63c5e904": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de vigilância do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de vigilância do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de vigilância do mercado\n\nOs Estados-Membros aplicam o procedimento previsto no anexo VIII ao avaliarem a conformidade da classe de eficiência energética declarada."
+  },
+  "c4d72811d560ba9e": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento com base no progresso tecnológico o mais tardar cinco anos após a sua entrada em vigor."
+  },
+  "2d3215b4c5369731": {
+   "fragment_id": "Artigo 8.º — Disposição transitória",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disposição transitória\n\nO artigo 3.º, n.º 1, alíneas d) e e) e o artigo 4.º, alíneas b), c) e d), não se aplicam ao anúncio impresso e ao material técnico promocional impresso publicados antes de 30 de Março de 2012."
+  },
+  "0841f6749de44dda": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 30 de Novembro de 2011. Contudo, o artigo 3.º, n.º 1, alíneas d) e e) e o artigo 4.º, alíneas b), c) e d) são aplicáveis a partir de 30 de Março de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 28 de Setembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "e4678d36cdd6fd9f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntc1-L_2010314PT.01006401-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntc2-L_2010314PT.01006401-E0002) [JO L 191 de 23.7.2009, p. 42](http://publications.europa.eu/resource/oj/JOL_2009_191_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntc3-L_2010314PT.01006401-E0003) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/42aff9c5-a5f9-45a1-a0bf-004419737ded.0019.04/DOC_1#ntc4-L_2010314PT.01006401-E0004) [JO L 390 de 31.12.2004, p. 24](http://publications.europa.eu/resource/oj/JOL_2004_390_R_TOC)."
+  },
+  "286925471b296f4a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos televisores\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c83ce4207ea37086": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições estabelecidas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis as seguintes definições:\n\n1. «Televisor»um receptor de televisão ou um monitor de televisão;\n\n2. «Receptor de televisão» um produto concebido essencialmente para a visualização e recepção de sinais audiovisuais, colocado no mercado com uma denominação de modelo ou sistema, e que consiste em a) Um ecrã; b) Um ou mais sintonizador(es)/receptor(es) e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa única unidade combinada com o ecrã, ou numa ou mais unidades separadas.\n\n3. «Monitor de televisão»um produto concebido para mostrar num ecrã integrado um sinal de vídeo proveniente de uma série de fontes, incluindo sinais de radiodifusão televisiva, que opcionalmente controla e reproduz sinais sonoros de um dispositivo de fonte externa, ligado por meio de circuitos de sinais de vídeo normalizados, incluindo Cinch (de componentes, compósito), SCART, HDMI e futuras normas sem fios (mas excluindo circuitos de sinais de vídeo não normalizados, como DVI e SDI), mas que não pode receber nem processar sinais radiodifundidos;\n\n4. «Estado activo»o estado em que o televisor se encontra ligado à rede eléctrica e produz som e imagem;\n\n5. «Estado doméstico»a regulação do televisor recomendada pelo fabricante para a utilização doméstica normal;\n\n6. «Estado de vigília» o estado em que o equipamento está ligado à rede eléctrica, depende do fornecimento de energia por essa rede a fim de funcionar adequadamente e faculta apenas as seguintes funções, que podem persistir por tempo indeterminado: a) Função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa; e/ou b) Visualização de informações ou de estado.\n\n7. «Estado de desactivação» estado em que o equipamento se encontra ligado à rede eléctrica sem executar qualquer função; serão também consideradas como estado de desactivação as seguintes situações: a) Condições que fornecem apenas uma indicação de estado de desactivação; b) Condições que fornecem apenas funções destinadas a assegurar a compatibilidade electromagnética na acepção da Directiva 2004/108/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b015560d-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001)).\n\n8. «Função de reactivação»função que permite a activação de outros estados, incluindo o estado activo, por meio de um comutador remoto, que pode ser um telecomando, um sensor interno ou um temporizador que conduza à disponibilidade de funções adicionais, entre as quais o estado activo;\n\n9. «Visualização de informações ou de estado»função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios;\n\n10. «Menu imposto»um grupo de parâmetros do televisor pré-definidos pelo fabricante, de entre os quais o utilizador do televisor deve seleccionar uma regulação determinada assim que põe em funcionamento o televisor;\n\n11. «Taxa de luminância de pico»a razão entre a luminância de pico do estado doméstico ou do estado activo do televisor ajustada pelo fornecedor, se for o caso, e a luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo;\n\n12. «Ponto de venda»um local onde se encontram televisores colocados em exposição ou postos à venda, em locação, ou em locação com opção de compra;\n\n13. «Utilizador final»um consumidor que compra ou se prevê que compre um televisor."
+  },
+  "1e8cacc0afa8939e": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\n1. Os fornecedores asseguram que:\n\na) Cada televisor é fornecido com um rótulo impresso com o formato e as informações previstos no anexo V;\n\nb) É disponibilizada uma ficha de produto, como previsto no anexo III;\n\nc) A documentação técnica, como prevista no anexo IV, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de televisor indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de televisor, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo;\n\nf) É disponibilizado aos distribuidores um rótulo eletrónico com o formato e as informações previstos no anexo V, para cada modelo de televisor colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Esse rótulo pode também ser disponibilizado aos distribuidores para outros modelos de televisor;\n\ng) É disponibilizada aos distribuidores uma ficha de produto eletrónica como previsto no anexo III, para cada modelo de televisor colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Essa ficha pode também ser disponibilizada aos distribuidores para outros modelos de televisor.\n\n2. As classes de eficiência energética serão baseadas no índice de eficiência energética calculado em conformidade com o anexo II.\n\n3. O formato do rótulo previsto no anexo V é aplicado de acordo com o seguinte calendário:\n\na) Para televisores colocados no mercado a partir de 30 de Novembro de 2011 os rótulos para televisores com as classes de eficiência energética:\n\ni) A, B, C, D, E, F, G devem ser conformes com o anexo V, secção 1, ou, se os fornecedores o considerarem adequado, com a secção 2 do mesmo anexo,\n\nii) A+ deve ser conforme com o anexo V, secção 2,\n\niii) A++ deve ser conforme com o anexo V, secção 3,\n\niv) A+++ deve ser conforme com o anexo V, secção 4;\n\nb) Para os televisores colocados no mercado a partir de 1 de Janeiro de 2014 com as classes de eficiência energética A+, A, B, C, D, E, F, os rótulos devem ser conformes com o anexo V, secção 2 ou, se os fornecedores o considerarem adequado, com a secção 3 do mesmo anexo;\n\nc) Para os televisores colocados no mercado a partir de 1 de Janeiro de 2017 com as classes de eficiência energética A++, A+, A, B, C, D, E, os rótulos devem ser conformes com o anexo V, secção 3 ou, se os fornecedores o considerarem adequado, com a secção 4 do mesmo anexo;\n\nd) Para os televisores colocados no mercado a partir de 1 de Janeiro de 2020 com as classes de eficiência energética A+++, A++, A+, A, B, C, D, os rótulos devem ser conformes com o anexo V, secção 4."
+  },
+  "4a6c48b1f0ba5594": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) Cada televisor, no ponto de venda, ostenta o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, n.º 1, na parte da frente do televisor, de modo a ser manifestamente visível;\n\nb) Os televisores postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o televisor exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do anexo VI. Caso a oferta seja feita através da Internet e tenham sido disponibilizados um rótulo e uma ficha de produto eletrónicos em conformidade com o artigo 3.º, n.º 1, alíneas f) e g), aplica-se, em vez do que precede, o disposto no anexo IX;\n\nc) Qualquer anúncio relativo a um modelo específico de televisor indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de televisor, que descreve os seus parâmetros técnicos específicos, inclui a classe de eficiência energética do referido modelo."
+  },
+  "a82b9f3f632b6eba": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 30 de Novembro de 2011. Contudo, o artigo 3.º, n.º 1, alíneas d) e e) e o artigo 4.º, alíneas b), c) e d) são aplicáveis a partir de 30 de Março de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cd1b32359a2fea6a": {
+   "fragment_id": "Classe de eficiência energética",
+   "type": "divisao",
+   "heading": "Classe de eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classe de eficiência energética\n\nA classe de eficiência energética de um televisor é determinada com base no seu índice de eficiência energética (*IEE*) tal como estabelecido no quadro 1. O índice de eficiência energética de um televisor é determinado em conformidade com o anexo II, secção 1.\n\nClasse de eficiência energética Índice de eficiência energética\n\nA+++ (a mais eficiente) *IEE* < 0,10\n\nA++ 0,10 ≤ *IEE* < 0,16\n\nA+ 0,16 ≤ *IEE* < 0,23\n\nA 0,23 ≤ *IEE* < 0,30\n\nB 0,30 ≤ *IEE* < 0,42\n\nC 0,42 ≤ *IEE* < 0,60\n\nD 0,60 ≤ *IEE* < 0,80\n\nE 0,80 ≤ *IEE* < 0,90\n\nF 0,90 ≤ *IEE* < 1,00\n\nG (a menos eficiente) 1,00 ≤ *IEE*"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "1bb2432d72dfbbaf": {
+   "fragment_id": "Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo",
+   "type": "divisao",
+   "heading": "Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de cálculo do índice de eficiência energética e do consumo de energia anual em estado activo\n\n1. O índice de eficiência energética (*IEE*) é calculado do seguinte modo: *IEE* = P/Pref (A), sendo:\n\n—\n\n| Pref (A) | = | Pbasic + A × 4,3224 W/dm^2^, |\n| --- | --- | --- |\n\n—\n\n| Pbasic | = | 20 W para televisores com um sintonizador/receptor e nenhum disco rígido, |\n| --- | --- | --- |\n\n—\n\n| Pbasic | = | 24 W para televisores com disco(s) rígido(s), |\n| --- | --- | --- |\n\n—\n\n| Pbasic | = | 24 W para televisores com dois ou mais sintonizadores/receptores, |\n| --- | --- | --- |\n\n—\n\n| Pbasic | = | 28 W para televisores com disco(s) rígido(s) e dois ou mais sintonizadores/receptores, |\n| --- | --- | --- |\n\n—\n\n| Pbasic | = | 15 W para monitores de televisão, |\n| --- | --- | --- |\n\n— A é a área visível do ecrã expressa em dm^2^,\n\n— P é o consumo, em termos de potência, do televisor em estado activo, em watts, medido em conformidade com o anexo VII, arredondado às décimas.\n\n2. O consumo de energia anual em estado activo E, em kWh, é calculado como sendo E = 1,46 × P.\n\n3. Televisores com controlo automático do brilho\n\na) A luminância do televisor no estado doméstico ou no estado activo, tal como fixada pelo fornecedor, é automaticamente reduzida quando a intensidade da luminosidade ambiente se situe entre 0 lux e, no mínimo, 20 lux;\n\nb) O controlo automático de brilho é activado no estado doméstico ou no estado activo do televisor, como tenha sido fixado pelo fornecedor."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "c9c032d08c7223e7": {
+   "fragment_id": "Ficha de produto",
+   "type": "divisao",
+   "heading": "Ficha de produto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de produto\n\n1. As informações contidas na ficha de produto do televisor são facultadas pela ordem seguinte e incluídas na brochura de produto ou noutra documentação fornecida com o produto:\n\na) Nome do fornecedor ou marca comercial;\n\nb) Identificador de modelo do fornecedor; sendo «identificador de modelo» o código, geralmente alfanumérico, que distingue um modelo específico de televisor de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nc) A classe de eficiência energética do modelo, em conformidade com o anexo I, quadro 1; caso o televisor tenha recebido um rótulo ecológico da UE, ao abrigo do Regulamento (UE) n.º 66/2010 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b015560d-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0002)), essa informação pode ser incluída;\n\nd) A diagonal visível do ecrã em centímetros e em polegadas;\n\ne) O consumo, em termos de potência, no estado activo, medido em conformidade com o procedimento previsto no anexo VII;\n\nf) O consumo de energia anual calculado em conformidade com o anexo II, em kWh por ano, arredondado às unidades; será descrito como: consumo de energia de XYZ kWh por ano, baseado no consumo, em termos de potência, do televisor a funcionar 4 horas por dia durante 365 dias. O consumo de energia real dependerá do modo como o televisor é utilizado;\n\ng) O consumo, em termos de potência, medido em conformidade com o procedimento previsto no anexo VII, quer no estado de vigília, quer no de desativação;\n\nh) A resolução do ecrã em número de pixéis físicos horizontais e verticais.\n\n2. Uma ficha pode abranger vários modelos de televisores fornecidos pelo mesmo fornecedor.\n\n3. Os dados constantes da ficha podem assumir a forma de uma cópia do rótulo, a cores ou a preto e branco. Nesse caso, devem ser também incluídos os dados enumerados na secção 1 que não estejam contidos no rótulo."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "a1a2d8bf9235750a": {
+   "fragment_id": "Documentação técnica",
+   "type": "divisao",
+   "heading": "Documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação técnica\n\nA documentação técnica referida no artigo 3.º, n.º 1, alínea c), deve incluir:\n\na) Nome e endereço do fornecedor;\n\nb) Descrição geral do modelo de televisor, suficiente para a sua identificação inequívoca e fácil;\n\nc) Se for caso disso, referências das normas harmonizadas aplicadas;\n\nd) Se for caso disso, outras normas e especificações técnicas utilizadas;\n\ne) Identificação e assinatura da pessoa com poderes para representar o fornecedor;\n\nf) Parâmetros de ensaio para as medições:\n\ni) temperatura ambiente,\n\nii) tensão de ensaio em V e frequência em Hz,\n\niii) distorção harmónica total do sistema de alimentação eléctrica,\n\niv) terminal de entrada para os sinais de ensaio áudio e vídeo,\n\nv) informação e documentação sobre os instrumentos, a instalação e os circuitos utilizados nos ensaios eléctricos;\n\ng) Parâmetros no estado activo:\n\ni) os dados relativos ao consumo, em termos de potência, em watts, arredondados às décimas para medições de potência até 100 watts, e às unidades para medições de potência superiores a 100 watts,\n\nii) as características do sinal vídeo de conteúdos radiodifundidos dinâmicos, que represente os conteúdos típicos de radiodifusão televisiva,\n\niii) a sequência de etapas para obter um estado estável no que respeita ao consumo, em termos de potência,\n\niv) em relação a televisores com um menu imposto, a razão entre a luminância de pico do estado doméstico e a luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo, expressa em percentagem,\n\nv) em relação a monitores de televisão, uma descrição das características relevantes do sintonizador utilizado para as medições;\n\nh) Em relação a cada estado de vigília e/ou de desactivação\n\ni) valores do consumo, em termos de potência, em watts, arredondados às centésimas,\n\nii) o método de medição utilizado,\n\niii) descrição do modo como o estado foi seleccionado ou programado,\n\niv) sequência de eventos que conduz ao estado em que o televisor muda automaticamente de estado."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "cd72cf4170b55dce": {
+   "fragment_id": "Rótulo",
+   "type": "divisao",
+   "heading": "Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rótulo"
+  },
+  "d6b78f19aa7256f1": {
+   "fragment_id": "1. RÓTULO 1",
+   "type": "divisao",
+   "heading": "1. RÓTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. RÓTULO 1\n\na) O rótulo deve conter as seguintes informações:\n\nI. Nome do fornecedor ou marca comercial;\n\nII. Identificador de modelo do fornecedor, sendo «identificador de modelo» o código, geralmente alfanumérico, que distingue um modelo específico de televisor de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nIII. Classe de eficiência energética do televisor, determinada em conformidade com o anexo I. A ponta da seta que contém a classe de eficiência energética do televisor deve ficar no mesmo nível que a ponta da seta correspondente à classe de eficiência energética pertinente;\n\nIV. Consumo, em termos de potência, em estado activo, em watts, arredondado às unidades;\n\nV. Consumo de energia anual em estado activo, calculado como descrito no anexo II, secção 2, em kWh, arredondado às unidades;\n\nVI. Diagonal visível do ecrã, em polegadas e centímetros.\n\nb) Os pormenores de formato do rótulo devem ser conformes com a secção 5."
+  },
+  "2d60db3d235d0a56": {
+   "fragment_id": "2. RÓTULO 2",
+   "type": "divisao",
+   "heading": "2. RÓTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. RÓTULO 2\n\na) As informações enumeradas na secção 1, alínea a), devem ser incluídas no rótulo.\n\nb) Os pormenores de formato do rótulo devem ser conformes com a secção 5."
+  },
+  "9214767ce3db332d": {
+   "fragment_id": "3. RÓTULO 3",
+   "type": "divisao",
+   "heading": "3. RÓTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. RÓTULO 3\n\na) As informações enumeradas na secção 1, alínea a), devem ser incluídas no rótulo.\n\nb) Os pormenores de formato do rótulo devem ser conformes com a secção 5."
+  },
+  "edf0f3a47b5d52d2": {
+   "fragment_id": "4. LABEL 4",
+   "type": "divisao",
+   "heading": "4. LABEL 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. LABEL 4\n\na) As informações enumeradas na secção 1, alínea a), devem ser incluídas no rótulo.\n\nb) Os pormenores de formato do rótulo devem ser conformes com a secção 5.\n\n5. O rótulo deve respeitar o seguinte modelo: Em que: a) O rótulo deve ter, pelo menos, uma largura de 60 mm e uma altura de 120 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, em qualquer caso, manter-se proporcionado relativamente às especificações *supra*. b) Para os televisores com uma superfície de ecrã superior a 29 dm^2^, o fundo deve ser branco. Para os televisores com uma superfície de ecrã igual ou inferior a 29 dm^2^, o fundo deve ser branco ou transparente. c) As cores são CMAP – ciano, magenta, amarelo e preto – e são indicadas de acordo com o seguinte exemplo: 00-70 de Outubro de 00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto. d) O rótulo deve cumprir todos os requisitos que se seguem (os números referem-se à figura anterior): **Traço de rebordo:** 3 pt – cor: ciano 100 % – cantos redondos: 3,5 mm. **Logótipo UE** – cores: X-80-00-00 e 00-0 de Outubro de 00. **Logótipos do rótulo:** cor: X-00-00-00 Pictograma apresentado; Logótipo UE e logótipo do rótulo (combinados): largura: 51 mm, altura: 9 mm. **Rebordo dos sublogótipos:** 1 pt – cor: ciano 100 % – comprimento: 51 mm. **Escala de A-G** — **Seta:** altura: 3,8 mm, intervalo: 0,75 mm – cores: — Classe superior: X-0 de Outubro de 00, — Segunda classe: 70-0 de Outubro de 00, — Terceira classe: 30-0 de Outubro de 00, — Quarta classe: 00-0 de Outubro de 00, — Quinta classe: 00-30 de Outubro de 00, — Sexta classe: 00-70 de Outubro de 00, — Última classe: 00-X-X-00. — **Texto** Calibri bold 10 pt, maiúsculas, branco; símbolos «+»: Calibri bold 7 pt, maiúsculas, branco. [▼C1](http://publications.europa.eu/resource/celex/32010R1062R%2804%29) **Classe de eficiência energética** — **Seta:** largura: 16 mm, altura: 8 mm, 100 % preto; [▼B](http://publications.europa.eu/resource/celex/32010R1062) — **Texto:** Calibri bold 15 pt, maiúsculas, branco; símbolos «+»: Calibri bold 10 pt, maiúsculas, branco. **Energia** — **Texto:** Calibri normal 7pt, maiúsculas, 100 % preto. **Logótipo do comutador:** — **Pictograma apresentado, Rebordo:** 1 pt – cor: ciano 100 % – cantos redondos: 3,5 mm. **Texto relacionado com o consumo, em termos de potência, em modo activo:** — **Rebordo** 1 pt – cor: ciano 100 % – cantos redondos: 3,5 mm. — **Valor:** Calibri bold 14 pt, 100 % preto. — **Segunda linha:** Calibri normal 11 pt, 100 % preto **Dimensão da diagonal do ecrã do televisor:** — **Pictograma apresentado** — **Rebordo:** 1 pt – cor: ciano 100 % – cantos redondos: 3,5 mm. — **Valor:** Calibri bold 14 pt, 100 % preto. Calibri normal 11 pt, 100 % preto. **Texto relacionado com o consumo de energia anual:** — **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm. — **Valor:** Calibri bold 25 pt, 100 % preto. — **Segunda linha:** Calibri normal 11 pt, 100 % preto. **Nome do fornecedor ou marca comercial** **Identificador de modelo do fornecedo** O nome do fornecedor ou a marca comercial e as informações sobre o modelo devem caber num espaço de 51 × 8 mm. **Período de referência** Texto: Calibri bold 8 pt Texto: Calibri fino 9 pt."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "0916b3fe31bc97d2": {
+   "fragment_id": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "type": "divisao",
+   "heading": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto\n\n1. As informações referidas no artigo 4.º, alínea b), devem ser fornecidas pela seguinte ordem:\n\na) Classe de eficiência energética do modelo, como definida no anexo I;\n\nb) Consumo, em termos de potência, no estado activo, como definido no anexo II, secção 1;\n\nc) Consumo de energia anual, em conformidade o anexo II, secção 2;\n\nd) A diagonal de ecrã visível.\n\n2. Caso sejam apresentados outros dados constantes da ficha de informações sobre o produto, esses dados devem ser apresentados na forma e pela ordem especificadas no anexo III.\n\n3. A dimensão e o tipo de caracteres utilizados para a impressão ou indicação dos dados referidos no presente anexo devem assegurar a sua legibilidade."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "a432012509cb6aa6": {
+   "fragment_id": "Medições",
+   "type": "divisao",
+   "heading": "Medições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medições\n\n1. Para efeitos da conformidade e verificação do cumprimento dos requisitos do presente regulamento, as medições são efectuadas através de um procedimento de medição fiável, exacto e reprodutível, que tenha em conta os métodos de medição geralmente reconhecidos como os mais avançados, incluindo métodos estabelecidos em documentos cujos números de referência tenham sido publicados para o efeito no *Jornal Oficial da União Europeia*.\n\n2. **Medições do consumo, em termos de potência, no estado activo referidas no anexo II, secção 1** a) Condições gerais: i) As medições serão efectuadas a uma temperatura ambiente de 23 °C +/– 5 °C; ii) As medições serão efectuadas por meio de um sinal vídeo de conteúdos radiodifundidos dinâmicos, que represente os conteúdos típicos de radiodifusão televisiva. A medição é o valor médio do consumo, em termos de potência, em dez minutos consecutivos; iii) As medições serão feitas depois de o televisor ter estado em estado de desactivação durante, no mínimo, uma hora, seguida de, no mínimo, uma hora em estado activo e serão completadas antes de ter estado, no máximo, três horas em estado activo. O sinal vídeo relevante será apresentado durante todo o estado activo. Para os televisores que se saiba ficarem estáveis num período inferior a uma hora, os referidos períodos podem ser reduzidos, no caso de se verificar que as medições resultantes não variam mais de 2 % em relação aos resultados a que se chegaria de outra forma, utilizando os períodos descritos acima; [▼M2](http://publications.europa.eu/resource/celex/32017R0254) ————— [▼B](http://publications.europa.eu/resource/celex/32010R1062) v) As medições serão efectuadas com a função de controlo automático do brilho, caso esta função exista, desactivada. Se a função de controlo automático do brilho existir e não puder ser desactivada, as medições devem ser efectuadas com uma entrada directa de luz no sensor de luz ambiente a um nível igual ou superior a 300 lux. b) Condições de medição do consumo, em termos de potência, dos televisores em estado activo: i) Televisores sem menu imposto: O consumo, em termos de potência, é medido no estado activo do televisor como fornecido pelo fabricante, ou seja, os controlos de brilho do televisor estão na posição ajustada pelo fabricante para o utilizador final; ii) Televisores com menu imposto: O consumo, em termos de potência, é medido no estado doméstico; iii) Monitores de televisão sem menu imposto: O monitor de televisão é ligado a um sintonizador adequado. O consumo, em termos de potência, é medido no estado activo do televisor como fornecido pelo fabricante, ou seja, os controlos de brilho do monitor de televisão estão na posição ajustada pelo fabricante para o utilizador final. O consumo, em termos de potência, do sintonizador não é relevante para as medições de consumo, em termos de potência, do monitor de televisão no estado activo; iv) Monitores de televisão com menu imposto: O monitor de televisão é ligado a um sintonizador adequado. O consumo, em termos de potência, é medido no estado doméstico.\n\n4. **Medições da taxa de luminância de pico referida no anexo VIII, quadro 2** [▼M2](http://publications.europa.eu/resource/celex/32017R0254) [▼B](http://publications.europa.eu/resource/celex/32010R1062) a) As medições da luminância de pico serão efectuadas com um medidor de luminância orientado para a porção de ecrã que exibe uma imagem inteiramente (100 %) branca, que faz parte de uma imagem-padrão de «teste de ecrã total», que não ultrapasse o ponto do nível médio da imagem, no qual se produz uma limitação da potência no sistema de accionamento da luminância do ecrã. b) As medições da taxa de luminância serão feitas sem perturbar o ponto de detecção do medidor de luminância no ecrã quando se comuta entre o estado doméstico ou o estado activo do televisor como ajustado pelo fornecedor, consoante o caso, e o nível máximo de brilho no estado activo."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "c959d8436e03c690": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelo fornecedor como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica. Os valores e classes indicados no rótulo ou na ficha de produto não podem ser mais favoráveis para o fornecedor do que os indicados na documentação técnica.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento delegado, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n(1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n(2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do artigo 5.º, alínea b), da Diretiva 2010/30/UE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fornecedor do que os valores correspondentes apresentados nos relatórios de ensaio em conformidade com o ponto iii) do referido artigo; e\n\nb) Os valores publicados no rótulo e na ficha do produto não forem mais favoráveis para o fornecedor do que os valores declarados, e a classe de eficiência energética indicada não for mais favorável para o fornecedor do que a classe determinada em função dos valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação, constantes do quadro 2.\n\n(3) Se não se obtiver o resultado referido no ponto 2, alíneas a) ou b), deve considerar-se que o modelo não está conforme com o presente regulamento delegado.\n\n(4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo.\n\n(5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias, constantes do quadro 2.\n\n(6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo não está conforme com os requisitos do presente regulamento delegado.\n\n(7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não-conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo VII.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 2 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nConsumo de energia em estado ativo O valor determinado não pode ser superior ao valor declarado em mais de 7 %.\n\nConsumo de energia nos estados de vigília/de desativação O valor determinado não pode ser superior ao valor declarado em mais de 0,10 W.\n\nTaxa de luminância de pico O valor determinado não pode ser inferior a 60 % da luminância de pico produzida pelo televisor, no estado ativo, com o nível máximo de brilho."
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "b5a149de6d8cdbe9": {
+   "fragment_id": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "type": "divisao",
+   "heading": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet\n\n1) Para efeitos dos pontos 2 a 5 do presente anexo, aplicam-se as seguintes definições:\n\na) «mecanismo de visualização», qualquer ecrã, inclusive um ecrã tátil, ou outra tecnologia de visualização utilizada para a apresentação de conteúdos da Internet aos utilizadores;\n\nb) «apresentação em ninho», uma interface visual em que o acesso a uma imagem ou a um conjunto de dados se faz através de um clique no rato, do movimento do rato ou da expansão em ecrã tátil sobre outra imagem ou outro conjunto de dados;\n\nc) «ecrã tátil», um ecrã que reage ao toque, como é o caso nos computadores-tablete, computadores-ardósia ou telefones inteligentes;\n\nd) «texto alternativo», texto fornecido em alternativa a um gráfico, permitindo que a informação seja apresentada em forma não gráfica, nos casos em que os dispositivos de visualização não podem produzir o gráfico ou em que se pretende melhorar a acessibilidade, nomeadamente através de aplicações de síntese de voz.\n\n2) O rótulo pertinente, disponibilizado pelos fornecedores em conformidade com o artigo 3.º, n.º 1, alínea f), deve ser apresentado no mecanismo de visualização junto do preço do produto, em conformidade com o calendário estabelecido no artigo 3.º, n.º 3. As dimensões devem ser tais que o rótulo seja claramente visível e legível e devem ser proporcionais às dimensões especificadas no ponto 5 do anexo V. O rótulo pode ser apresentado em ninho, caso em que a imagem utilizada para se aceder ao rótulo deve obedecer às especificações estabelecidas no ponto 3 do presente anexo. Caso se utilize a apresentação em ninho, o rótulo deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem.\n\n3) A imagem utilizada para se aceder ao rótulo no caso da apresentação em ninho deve:\n\na) ser uma seta de cor correspondente à classe de eficiência energética do produto indicada no rótulo;\n\nb) indicar na seta a classe de eficiência energética do produto, a branco e com carateres de tamanho equivalente ao dos do preço; e\n\nc) obedecer a um dos seguintes formatos:\n\n4) No caso da apresentação em ninho, a sequência de apresentação do rótulo deve ser a seguinte:\n\na) a imagem a que se refere o ponto 3 do presente anexo deve ser apresentada ao utilizador final na primeira apresentação e nas subsequentes apresentações de informações sobre o preço do produto;\n\nb) a imagem deve remeter, por hiperligação, para o rótulo;\n\nc) o rótulo deve ser apresentado após um clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem;\n\nd) o rótulo deve ser apresentado em janela emergente, novo separador, nova página ou inserção no ecrã;\n\ne) para ampliar o rótulo em ecrãs táteis, aplicam-se os procedimentos específicos do dispositivo para o efeito;\n\nf) a apresentação do rótulo deve cessar mediante recurso a uma opção de fecho ou a outro mecanismo de fecho normal;\n\ng) o texto alternativo à imagem, a apresentar em caso de impossibilidade de apresentação do rótulo, deve indicar a classe de eficiência energética do produto em carateres de tamanho equivalente ao dos do preço.\n\n5) A ficha de produto pertinente, disponibilizada pelos fornecedores em conformidade com o artigo 3.º, n.º 1, alínea g), deve ser apresentada no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que as informações sejam claramente visíveis e legíveis. A ficha de produto pode ser apresentada em ninho, caso em que a ligação utilizada para se aceder à ficha deve indicar, de forma clara e legível, «Ficha de produto». Caso se utilize a apresentação em ninho, a ficha de produto deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a ligação.\n\n---"
+  },
+  "af9f1e8888936bca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b015560d-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 390 de 31.12.2004, p. 24.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b015560d-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 27 de 30.1.2010, p. 1."
+  },
+  "85ff6145a61b01ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R1062 — PT — 01.03.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R1062) [REGULAMENTO DELEGADO (UE) N.º 1062/2010 DA COMISSÃO](http://publications.europa.eu/resource/celex/32010R1062) [de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1062) [que complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos televisores](http://publications.europa.eu/resource/celex/32010R1062) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010R1062) (JO L 314, 30.11.2010, p.64)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2013 da Comissão de 11 de março de 2019](http://publications.europa.eu/resource/celex/32019R2013) — L 315 — 1 — 5.12.2019"
+  }
+ }
+}

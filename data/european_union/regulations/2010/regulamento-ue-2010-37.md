@@ -35,6 +35,406 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-16'
+version_history:
+  file: regulamento-ue-2010-37.versoes.json
+  count: 50
+  source_lastmod: '2026-08-16'
+  versions:
+  - date: '2010-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-25'
+    amending: eu:celex:32010R0758:por
+    amending_title: REGULAMENTO (UE) N. o 758/2010 DA COMISSÃO de 24 de Agosto de 2010; REGULAMENTO (UE) N. o 759/2010 DA
+      COMISSÃO de 24 de Agosto de 2010; REGULAMENTO (UE) N. o 761/2010 DA COMISSÃO de 25 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita ANEXO
+    - Adita Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Suprime Artigo 1.o
+    - Suprime Artigo 2.o
+  - date: '2010-12-12'
+    amending: eu:celex:32010R0914:por
+    amending_title: REGULAMENTO (UE) N. o 914/2010 DA COMISSÃO de 12 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2011-07-14'
+    amending: eu:celex:32011R0362:por
+    amending_title: REGULAMENTO (UE) N. o 362/2011 DA COMISSÃO de 13 de Abril de 2011; REGULAMENTO (UE) N. o 363/2011 DA COMISSÃO
+      de 13 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2012-04-09'
+    amending: eu:celex:32010R0890:por
+    amending_title: REGULAMENTO (UE) N. o 890/2010 DA COMISSÃO de 8 de Outubro de 2010; REGULAMENTO DE EXECUÇÃO (UE) N. o
+      84/2012 DA COMISSÃO de 1 de fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 85/2012 DA COMISSÃO de 1 de fevereiro
+      de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 86/2012 DA COMISSÃO de 1 de fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE)
+      N. o 107/2012 DA COMISSÃO de 8 de fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 122/2012 DA COMISSÃO de 13 de
+      fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 123/2012 DA COMISSÃO de 13 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2012-05-14'
+    amending: eu:celex:32012R0201:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 201/2012 DA COMISSÃO de 8 de março de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 202/2012 DA COMISSÃO de 8 de março de 2012; REGULAMENTO DE EXECUÇÃO (UE) n. o 221/2012 DA COMISSÃO de 14 de
+      março de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 222/2012 DA COMISSÃO de 14 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2012-08-01'
+    amending: eu:celex:32012R0436:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 436/2012 DA COMISSÃO de 23 de maio de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 466/2012 DA COMISSÃO de 1 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2013-02-13'
+    amending: eu:celex:32012R1161:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1161/2012 DA COMISSÃO de 7 de dezembro de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1186/2012 DA COMISSÃO de 11 de dezembro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 1191/2012 DA COMISSÃO de
+      12 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2013-04-10'
+    amending: eu:celex:32013R0059:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 59/2013 DA COMISSÃO de 23 de janeiro de 2013; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 115/2013 DA COMISSÃO de 8 de fevereiro de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 116/2013 DA COMISSÃO de
+      8 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2013-07-03'
+    amending: eu:celex:32013R0394:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 394/2013 DA COMISSÃO de 29 de abril de 2013; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 406/2013 DA COMISSÃO de 2 de maio de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 489/2013 DA COMISSÃO de 27 de
+      maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2013-12-30'
+    amending: eu:celex:32013R1056:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1056/2013 DA COMISSÃO de 29 de outubro de 2013; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1057/2013 DA COMISSÃO de 29 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2014-02-03'
+    amending: eu:celex:32013R1235:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1235/2013 DA COMISSÃO de 2 de dezembro de 2013; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 19/2014 DA COMISSÃO de 10 de janeiro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 20/2014 DA COMISSÃO de 10
+      de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2014-06-24'
+    amending: eu:celex:32014R0200:por
+    amending_title: Regulamento de Execução (UE) n. o 200/2014 da Comissão de 3 de março de 2014; Regulamento de Execução
+      (UE) n. o 201/2014 da Comissão de 3 de março de 2014; Regulamento de Execução (UE) n. o 418/2014 da Comissão de 24 de
+      abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2014-08-19'
+    amending: eu:celex:32014R0676:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 676/2014 DA COMISSÃO de 19 de junho de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 677/2014 DA COMISSÃO de 19 de junho de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 681/2014 DA COMISSÃO de 20
+      de junho de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 682/2014 DA COMISSÃO de 20 de junho de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 683/2014 DA COMISSÃO de 20 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2014-11-12'
+    amending: eu:celex:32014R0967:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 967/2014 DA COMISSÃO de 12 de setembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-02-22'
+    amending: eu:celex:32014R1277:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1277/2014 DA COMISSÃO de 1 de dezembro de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1359/2014 DA COMISSÃO de 18 de dezembro de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 1390/2014 DA COMISSÃO de
+      19 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-04-01'
+    amending: eu:celex:32015R0149:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/149 DA COMISSÃO de 30 de janeiro de 2015; REGULAMENTO DE EXECUÇÃO (UE)
+      2015/150 DA COMISSÃO de 30 de janeiro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/151 DA COMISSÃO de 30 de janeiro de
+      2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/152 DA COMISSÃO de 30 de janeiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-05-17'
+    amending: eu:celex:32015R0394:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/394 DA COMISSÃO de 10 de março de 2015; REGULAMENTO DE EXECUÇÃO (UE)
+      2015/446 DA COMISSÃO de 17 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-09-02'
+    amending: eu:celex:32015R1078:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/1078 DA COMISSÃO de 3 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE)
+      2015/1079 DA COMISSÃO de 3 de julho de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/1080 DA COMISSÃO de 3 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-09-28'
+    amending: eu:celex:32015R1308:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/1308 DA COMISSÃO de 29 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-11-03'
+    amending: eu:celex:32015R1491:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/1491 DA COMISSÃO de 3 de setembro de 2015; REGULAMENTO DE EXECUÇÃO (UE)
+      2015/1492 DA COMISSÃO de 3 de setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2015-12-09'
+    amending: eu:celex:32015R1820:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/1820 DA COMISSÃO de 9 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2016-01-17'
+    amending: eu:celex:32015R2062:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/2062 DA COMISSÃO de 17 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2016-02-22'
+    amending: eu:celex:32016R0129:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/129 DA COMISSÃO de 1 de fevereiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2016-03-24'
+    amending: eu:celex:32016R0305:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/305 DA COMISSÃO de 3 de março de 2016; REGULAMENTO DE EXECUÇÃO (UE)
+      2016/312 DA COMISSÃO de 4 de março de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/576 DA COMISSÃO de 14 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2016-06-02'
+    amending: eu:celex:32016R0710:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/710 DA COMISSÃO de 12 de maio de 2016
+    changes:
+    - Altera preambulo
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2016-06-24'
+    amending: eu:celex:32016R0885:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/885 DA COMISSÃO de 3 de junho de 2016
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Altera Notas
+  - date: '2016-10-31'
+    amending: eu:celex:32016R1444:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/1444 DA COMISSÃO de 31 de agosto de 2016
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+    - Suprime Notas
+  - date: '2016-12-17'
+    amending: eu:celex:32016R1834:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/1834 DA COMISSÃO de 17 de outubro de 2016; REGULAMENTO DE EXECUÇÃO (UE)
+      2016/2045 DA COMISSÃO de 23 de novembro de 2016
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2017-01-25'
+    amending: eu:celex:32016R2074:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/2074 DA COMISSÃO de 25 de novembro de 2016
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2017-04-08'
+    amending: eu:celex:32017R0201:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/201 DA COMISSÃO de 6 de fevereiro de 2017
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2017-10-05'
+    amending: eu:celex:32017R1558:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/1558 DA COMISSÃO de 14 de setembro de 2017; REGULAMENTO DE EXECUÇÃO
+      (UE) 2017/1559 DA COMISSÃO de 14 de setembro de 2017
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2018-04-23'
+    amending: eu:celex:32018R0520:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/520 DA COMISSÃO de 28 de março de 2018
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2018-06-03'
+    amending: eu:celex:32018R0523:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/523 DA COMISSÃO de 28 de março de 2018
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2018-07-16'
+    amending: eu:celex:32018R0721:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/721 DA COMISSÃO de 16 de maio de 2018; REGULAMENTO DE EXECUÇÃO (UE)
+      2018/722 DA COMISSÃO de 16 de maio de 2018
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2018-09-29'
+    amending: eu:celex:32018R1076:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/1076 DA COMISSÃO de 30 de julho de 2018
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2020-01-10'
+    amending: eu:celex:32018R1967:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/1967 DA COMISSÃO de 12 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO
+      (UE) 2019/238 DA COMISSÃO de 8 de fevereiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1881 da Comissão de 8 de novembro
+      de 2019
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2020-02-09'
+    amending: eu:celex:32020R0042:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/42 DA COMISSÃO de 17 de janeiro de 2020; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/43 DA COMISSÃO de 17 de janeiro de 2020
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2020-12-03'
+    amending: eu:celex:32020R1685:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1685 DA COMISSÃO de 12 de novembro de 2020
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2020-12-07'
+    amending: eu:celex:32020R1712:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1712 DA COMISSÃO de 16 de novembro de 2020
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2021-05-06'
+    amending: eu:celex:32021R0621:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/621 DA COMISSÃO de 15 de abril de 2021
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2022-05-09'
+    amending: eu:celex:32022R0634:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/634 DA COMISSÃO de 13 de abril de 2022
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2023-03-23'
+    amending: eu:celex:32023R0454:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/454 DA COMISSÃO de 2 de março de 2023
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2023-06-11'
+    amending: eu:celex:32023R0981:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/981 DA COMISSÃO de 17 de maio de 2023
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2023-11-12'
+    amending: eu:celex:32023R2194:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2194 DA COMISSÃO de 19 de outubro de 2023; REGULAMENTO DE EXECUÇÃO (UE)
+      2023/2203 DA COMISSÃO de 20 de outubro de 2023
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2024-04-08'
+    amending: eu:celex:32024R0859:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/859 DA COMISSÃO de 18 de março de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/860 DA COMISSÃO de 18 de março de 2024
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2025-06-24'
+    amending: eu:celex:32025R1102:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1102 DA COMISSÃO de 3 de junho de 2025; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/1105 DA COMISSÃO de 3 de junho de 2025
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2025-10-15'
+    amending: eu:celex:32025R1908:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1908 DA COMISSÃO de 24 de setembro de 2025
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2026-05-14'
+    amending: eu:celex:32026R0892:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/892 DA COMISSÃO de 23 de abril de 2026
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
+  - date: '2026-08-16'
+    amending: eu:celex:32026R1806:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1806 DA COMISSÃO de 24 de julho de 2026
+    changes:
+    - Altera Substâncias farmacologicamente activas e respectiva classificação no que respeita aos limites máximos de resíduos
+      (LMR)
 identifiers:
   celex: 32010R0037
   eli: http://data.europa.eu/eli/reg/2010/37(1)/oj
@@ -49,7 +449,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cfa7a5a9-b6bb-4a53-a2d9-62dd573ecc84.0018
   content_url: http://publications.europa.eu/resource/cellar/93bc0aef-9b27-11f1-b25c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0037-20260816
-  retrieved_at: '2026-10-22T02:52:57Z'
+  retrieved_at: '2026-10-22T15:49:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T13:08:32.521+02:00'
 integrity:
@@ -58,9 +458,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:57Z'
-  notes: Texto consolidado 02010R0037-20260816.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:54Z'
+  notes: 50 versão(ões); histórico completo em regulamento-ue-2010-37.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -595,129 +995,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:57Z'
+  checked_at: '2026-10-22T15:49:54Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 37/2010 da Comissão de 22 de Dezembro de 2009
-
-> 02010R0037 — PT — 16.08.2026 — 051.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0758) — [REGULAMENTO (UE) N.º 758/2010 DA COMISSÃO de 24 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010R0758) — L 223 — 37 — 25.8.2010
-- [M2](http://publications.europa.eu/resource/celex/32010R0759) — [REGULAMENTO (UE) N.º 759/2010 DA COMISSÃO de 24 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010R0759) — L 223 — 39 — 25.8.2010
-- [M3](http://publications.europa.eu/resource/celex/32010R0761) — [REGULAMENTO (UE) N.º 761/2010 DA COMISSÃO de 25 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010R0761) — L 224 — 1 — 26.8.2010
-- [►M4](http://publications.europa.eu/resource/celex/32010R0890) — [REGULAMENTO (UE) N.º 890/2010 DA COMISSÃO de 8 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0890) — L 266 — 1 — 9.10.2010
-- [M5](http://publications.europa.eu/resource/celex/32010R0914) — [REGULAMENTO (UE) N.º 914/2010 DA COMISSÃO de 12 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0914) — L 269 — 5 — 13.10.2010
-- [M6](http://publications.europa.eu/resource/celex/32011R0362) — [REGULAMENTO (UE) N.º 362/2011 DA COMISSÃO de 13 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0362) — L 100 — 26 — 14.4.2011
-- [►M7](http://publications.europa.eu/resource/celex/32011R0363) — [REGULAMENTO (UE) N.º 363/2011 DA COMISSÃO de 13 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0363) — L 100 — 28 — 14.4.2011
-- [►M8](http://publications.europa.eu/resource/celex/32012R0084) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 84/2012 DA COMISSÃO de 1 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0084) — L 30 — 1 — 2.2.2012
-- [►M9](http://publications.europa.eu/resource/celex/32012R0085) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 85/2012 DA COMISSÃO de 1 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0085) — L 30 — 4 — 2.2.2012
-- [M10](http://publications.europa.eu/resource/celex/32012R0086) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 86/2012 DA COMISSÃO de 1 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0086) — L 30 — 6 — 2.2.2012
-- [►M11](http://publications.europa.eu/resource/celex/32012R0107) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 107/2012 DA COMISSÃO de 8 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0107) — L 36 — 25 — 9.2.2012
-- [M12](http://publications.europa.eu/resource/celex/32012R0122) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 122/2012 DA COMISSÃO de 13 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0122) — L 40 — 2 — 14.2.2012
-- [M13](http://publications.europa.eu/resource/celex/32012R0123) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 123/2012 DA COMISSÃO de 13 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0123) — L 40 — 4 — 14.2.2012
-- [►M14](http://publications.europa.eu/resource/celex/32012R0201) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 201/2012 DA COMISSÃO de 8 de março de 2012](http://publications.europa.eu/resource/celex/32012R0201) — L 71 — 37 — 9.3.2012
-- [►M15](http://publications.europa.eu/resource/celex/32012R0202) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 202/2012 DA COMISSÃO de 8 de março de 2012](http://publications.europa.eu/resource/celex/32012R0202) — L 71 — 40 — 9.3.2012
-- [M16](http://publications.europa.eu/resource/celex/32012R0221) — [REGULAMENTO DE EXECUÇÃO (UE) n.º 221/2012 DA COMISSÃO de 14 de março de 2012](http://publications.europa.eu/resource/celex/32012R0221) — L 75 — 7 — 15.3.2012
-- [M17](http://publications.europa.eu/resource/celex/32012R0222) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 222/2012 DA COMISSÃO de 14 de março de 2012](http://publications.europa.eu/resource/celex/32012R0222) — L 75 — 10 — 15.3.2012
-- [►M18](http://publications.europa.eu/resource/celex/32012R0436) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 436/2012 DA COMISSÃO de 23 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0436) — L 134 — 10 — 24.5.2012
-- [M19](http://publications.europa.eu/resource/celex/32012R0466) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 466/2012 DA COMISSÃO de 1 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0466) — L 143 — 2 — 2.6.2012
-- [►M20](http://publications.europa.eu/resource/celex/32012R1161) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1161/2012 DA COMISSÃO de 7 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1161) — L 336 — 14 — 8.12.2012
-- [►M21](http://publications.europa.eu/resource/celex/32012R1186) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1186/2012 DA COMISSÃO de 11 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1186) — L 338 — 20 — 12.12.2012
-- [M22](http://publications.europa.eu/resource/celex/32012R1191) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1191/2012 DA COMISSÃO de 12 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1191) — L 340 — 35 — 13.12.2012
-- [►M23](http://publications.europa.eu/resource/celex/32013R0059) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 59/2013 DA COMISSÃO de 23 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0059) — L 21 — 21 — 24.1.2013
-- [M24](http://publications.europa.eu/resource/celex/32013R0115) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 115/2013 DA COMISSÃO de 8 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0115) — L 38 — 11 — 9.2.2013
-- [M25](http://publications.europa.eu/resource/celex/32013R0116) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 116/2013 DA COMISSÃO de 8 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0116) — L 38 — 14 — 9.2.2013
-- [M26](http://publications.europa.eu/resource/celex/32013R0394) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 394/2013 DA COMISSÃO de 29 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0394) — L 118 — 17 — 30.4.2013
-- [►M27](http://publications.europa.eu/resource/celex/32013R0406) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 406/2013 DA COMISSÃO de 2 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0406) — L 121 — 42 — 3.5.2013
-- [►M28](http://publications.europa.eu/resource/celex/32013R0489) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 489/2013 DA COMISSÃO de 27 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0489) — L 141 — 4 — 28.5.2013
-- [►M29](http://publications.europa.eu/resource/celex/32013R1056) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1056/2013 DA COMISSÃO de 29 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1056) — L 288 — 60 — 30.10.2013
-- [►M30](http://publications.europa.eu/resource/celex/32013R1057) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1057/2013 DA COMISSÃO de 29 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1057) — L 288 — 63 — 30.10.2013
-- [►M31](http://publications.europa.eu/resource/celex/32013R1235) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1235/2013 DA COMISSÃO de 2 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1235) — L 322 — 21 — 3.12.2013
-- [►M32](http://publications.europa.eu/resource/celex/32014R0019) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 19/2014 DA COMISSÃO de 10 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0019) — L 8 — 18 — 11.1.2014
-- [►M33](http://publications.europa.eu/resource/celex/32014R0020) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 20/2014 DA COMISSÃO de 10 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0020) — L 8 — 20 — 11.1.2014
-- [►M34](http://publications.europa.eu/resource/celex/32014R0200) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 200/2014 DA COMISSÃO de 3 de março de 2014](http://publications.europa.eu/resource/celex/32014R0200) — L 62 — 8 — 4.3.2014
-- [►M35](http://publications.europa.eu/resource/celex/32014R0201) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 201/2014 DA COMISSÃO de 3 de março de 2014](http://publications.europa.eu/resource/celex/32014R0201) — L 62 — 10 — 4.3.2014
-- [►M36](http://publications.europa.eu/resource/celex/32014R0418) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 418/2014 DA COMISSÃO de 24 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0418) — L 124 — 19 — 25.4.2014
-- [►M37](http://publications.europa.eu/resource/celex/32014R0676) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 676/2014 DA COMISSÃO de 19 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0676) — L 180 — 5 — 20.6.2014
-- [►M38](http://publications.europa.eu/resource/celex/32014R0677) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 677/2014 DA COMISSÃO de 19 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0677) — L 180 — 8 — 20.6.2014
-- [M39](http://publications.europa.eu/resource/celex/32014R0681) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 681/2014 DA COMISSÃO de 20 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0681) — L 182 — 11 — 21.6.2014
-- [►M40](http://publications.europa.eu/resource/celex/32014R0682) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 682/2014 DA COMISSÃO de 20 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0682) — L 182 — 14 — 21.6.2014
-- [►M41](http://publications.europa.eu/resource/celex/32014R0683) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 683/2014 DA COMISSÃO de 20 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0683) — L 182 — 17 — 21.6.2014
-- [►M42](http://publications.europa.eu/resource/celex/32014R0967) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 967/2014 DA COMISSÃO de 12 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R0967) — L 272 — 3 — 13.9.2014
-- [►M43](http://publications.europa.eu/resource/celex/32014R1277) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1277/2014 DA COMISSÃO de 1 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1277) — L 346 — 23 — 2.12.2014
-- [M44](http://publications.europa.eu/resource/celex/32014R1359) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1359/2014 DA COMISSÃO de 18 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1359) — L 365 — 103 — 19.12.2014
-- [M45](http://publications.europa.eu/resource/celex/32014R1390) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1390/2014 DA COMISSÃO de 19 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1390) — L 369 — 65 — 24.12.2014
-- [►M46](http://publications.europa.eu/resource/celex/32015R0149) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/149 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0149) — L 26 — 7 — 31.1.2015
-- [M47](http://publications.europa.eu/resource/celex/32015R0150) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/150 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0150) — L 26 — 10 — 31.1.2015
-- [►M48](http://publications.europa.eu/resource/celex/32015R0151) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/151 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0151) — L 26 — 13 — 31.1.2015
-- [M49](http://publications.europa.eu/resource/celex/32015R0152) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/152 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0152) — L 26 — 16 — 31.1.2015
-- [►M50](http://publications.europa.eu/resource/celex/32015R0394) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/394 DA COMISSÃO de 10 de março de 2015](http://publications.europa.eu/resource/celex/32015R0394) — L 66 — 1 — 11.3.2015
-- [►M51](http://publications.europa.eu/resource/celex/32015R0446) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/446 DA COMISSÃO de 17 de março de 2015](http://publications.europa.eu/resource/celex/32015R0446) — L 74 — 18 — 18.3.2015
-- [►M52](http://publications.europa.eu/resource/celex/32015R1078) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1078 DA COMISSÃO de 3 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1078) — L 175 — 5 — 4.7.2015
-- [►M53](http://publications.europa.eu/resource/celex/32015R1079) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1079 DA COMISSÃO de 3 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1079) — L 175 — 8 — 4.7.2015
-- [►M54](http://publications.europa.eu/resource/celex/32015R1080) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1080 DA COMISSÃO de 3 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1080) — L 175 — 11 — 4.7.2015
-- [M55](http://publications.europa.eu/resource/celex/32015R1308) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1308 DA COMISSÃO de 29 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1308) — L 200 — 11 — 30.7.2015
-- [►M56](http://publications.europa.eu/resource/celex/32015R1491) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1491 DA COMISSÃO de 3 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R1491) — L 231 — 7 — 4.9.2015
-- [M57](http://publications.europa.eu/resource/celex/32015R1492) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1492 DA COMISSÃO de 3 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R1492) — L 231 — 10 — 4.9.2015
-- [►M58](http://publications.europa.eu/resource/celex/32015R1820) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1820 DA COMISSÃO de 9 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1820) — L 265 — 1 — 10.10.2015
-- [►M59](http://publications.europa.eu/resource/celex/32015R2062) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2062 DA COMISSÃO de 17 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2062) — L 301 — 7 — 18.11.2015
-- [►M60](http://publications.europa.eu/resource/celex/32016R0129) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/129 DA COMISSÃO de 1 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0129) — L 25 — 44 — 2.2.2016
-- [►M61](http://publications.europa.eu/resource/celex/32016R0305) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/305 DA COMISSÃO de 3 de março de 2016](http://publications.europa.eu/resource/celex/32016R0305) — L 58 — 35 — 4.3.2016
-- [►M62](http://publications.europa.eu/resource/celex/32016R0312) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/312 DA COMISSÃO de 4 de março de 2016](http://publications.europa.eu/resource/celex/32016R0312) — L 60 — 3 — 5.3.2016
-- [M63](http://publications.europa.eu/resource/celex/32016R0576) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/576 DA COMISSÃO de 14 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0576) — L 99 — 1 — 15.4.2016
-- [►M64](http://publications.europa.eu/resource/celex/32016R0710) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/710 DA COMISSÃO de 12 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0710) — L 125 — 6 — 13.5.2016
-- [M65](http://publications.europa.eu/resource/celex/32016R0885) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/885 DA COMISSÃO de 3 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0885) — L 148 — 1 — 4.6.2016
-- [►M66](http://publications.europa.eu/resource/celex/32016R1444) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1444 DA COMISSÃO de 31 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1444) — L 235 — 8 — 1.9.2016
-- [►M67](http://publications.europa.eu/resource/celex/32016R1834) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1834 DA COMISSÃO de 17 de outubro de 2016](http://publications.europa.eu/resource/celex/32016R1834) — L 280 — 22 — 18.10.2016
-- [►M68](http://publications.europa.eu/resource/celex/32016R2045) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2045 DA COMISSÃO de 23 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2045) — L 318 — 3 — 24.11.2016
-- [►M69](http://publications.europa.eu/resource/celex/32016R2074) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2074 DA COMISSÃO de 25 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2074) — L 320 — 29 — 26.11.2016
-- [M70](http://publications.europa.eu/resource/celex/32017R0201) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/201 DA COMISSÃO de 6 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0201) — L 32 — 17 — 7.2.2017
-- [►M71](http://publications.europa.eu/resource/celex/32017R1558) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1558 DA COMISSÃO de 14 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R1558) — L 237 — 67 — 15.9.2017
-- [►M72](http://publications.europa.eu/resource/celex/32017R1559) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1559 DA COMISSÃO de 14 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R1559) — L 237 — 69 — 15.9.2017
-- [►M73](http://publications.europa.eu/resource/celex/32018R0520) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/520 DA COMISSÃO de 28 de março de 2018](http://publications.europa.eu/resource/celex/32018R0520) — L 87 — 9 — 3.4.2018
-- [►M74](http://publications.europa.eu/resource/celex/32018R0523) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/523 DA COMISSÃO de 28 de março de 2018](http://publications.europa.eu/resource/celex/32018R0523) — L 88 — 1 — 4.4.2018
-- [►M75](http://publications.europa.eu/resource/celex/32018R0721) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/721 DA COMISSÃO de 16 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0721) — L 122 — 5 — 17.5.2018
-- [►M76](http://publications.europa.eu/resource/celex/32018R0722) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/722 DA COMISSÃO de 16 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0722) — L 122 — 8 — 17.5.2018
-- [►M77](http://publications.europa.eu/resource/celex/32018R1076) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1076 DA COMISSÃO de 30 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1076) — L 194 — 41 — 31.7.2018
-- [►M78](http://publications.europa.eu/resource/celex/32018R1967) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1967 DA COMISSÃO de 12 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1967) — L 316 — 6 — 13.12.2018
-- [►M79](http://publications.europa.eu/resource/celex/32019R0238) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/238 DA COMISSÃO de 8 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0238) — L 39 — 4 — 11.2.2019
-- [►M80](http://publications.europa.eu/resource/celex/32019R1881) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1881 da Comissão de 8 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R1881) — L 290 — 8 — 11.11.2019
-- [M81](http://publications.europa.eu/resource/celex/32020R0042) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/42 DA COMISSÃO de 17 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0042) — L 15 — 2 — 20.1.2020
-- [►M82](http://publications.europa.eu/resource/celex/32020R0043) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/43 DA COMISSÃO de 17 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0043) — L 15 — 5 — 20.1.2020
-- [►M83](http://publications.europa.eu/resource/celex/32020R1685) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1685 DA COMISSÃO de 12 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1685) — L 379 — 44 — 13.11.2020
-- [M84](http://publications.europa.eu/resource/celex/32020R1712) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1712 DA COMISSÃO de 16 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1712) — L 384 — 3 — 17.11.2020
-- [►M85](http://publications.europa.eu/resource/celex/32021R0621) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/621 DA COMISSÃO de 15 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0621) — L 131 — 120 — 16.4.2021
-- [►M86](http://publications.europa.eu/resource/celex/32022R0634) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/634 DA COMISSÃO de 13 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0634) — L 117 — 29 — 19.4.2022
-- [►M87](http://publications.europa.eu/resource/celex/32023R0454) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/454 DA COMISSÃO de 2 de março de 2023](http://publications.europa.eu/resource/celex/32023R0454) — L 67 — 38 — 3.3.2023
-- [►M88](http://publications.europa.eu/resource/celex/32023R0981) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/981 DA COMISSÃO de 17 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0981) — L 134 — 36 — 22.5.2023
-- [M89](http://publications.europa.eu/resource/celex/32023R2194) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2194 DA COMISSÃO de 19 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2194) — L 2194 — 1 — 20.10.2023
-- [►M90](http://publications.europa.eu/resource/celex/32023R2203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2203 DA COMISSÃO de 20 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2203) — L 2203 — 1 — 23.10.2023
-- [►M91](http://publications.europa.eu/resource/celex/32024R0859) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/859 DA COMISSÃO de 18 de março de 2024](http://publications.europa.eu/resource/celex/32024R0859) — L 859 — 1 — 19.3.2024
-- [►M92](http://publications.europa.eu/resource/celex/32024R0860) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/860 DA COMISSÃO de 18 de março de 2024](http://publications.europa.eu/resource/celex/32024R0860) — L 860 — 1 — 19.3.2024
-- [►M93](http://publications.europa.eu/resource/celex/32025R1102) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1102 DA COMISSÃO de 3 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1102) — L 1102 — 1 — 4.6.2025
-- [►M94](http://publications.europa.eu/resource/celex/32025R1105) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1105 DA COMISSÃO de 3 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1105) — L 1105 — 1 — 4.6.2025
-- [►M95](http://publications.europa.eu/resource/celex/32025R1908) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1908 DA COMISSÃO de 24 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1908) — L 1908 — 1 — 25.9.2025
-- [►M96](http://publications.europa.eu/resource/celex/32026R0892) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/892 DA COMISSÃO de 23 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0892) — L 892 — 1 — 24.4.2026
-- [►M97](http://publications.europa.eu/resource/celex/32026R1806) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1806 DA COMISSÃO de 24 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1806) — L 1806 — 1 — 27.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010R0037R%2801%29) — [Rectificação, JO L 293, 11.11.2010, p. 72 (37/2010)](http://publications.europa.eu/resource/celex/32010R0037R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R0238R%2801%29) — [Rectificação, JO L 186, 27.5.2021, p. 32 (2019/238)](http://publications.europa.eu/resource/celex/32019R0238R%2801%29)
-
-## REGULAMENTO (UE) N.º 37/2010 DA COMISSÃO
 
 de 22 de Dezembro de 2009
 

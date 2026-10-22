@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2011-98.versoes.json
+  count: 1
+  source_lastmod: '2011-12-24'
+  versions:
+  - date: '2011-12-23'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011L0098
   eli: http://data.europa.eu/eli/dir/2011/98/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c9982d67-28ce-4092-b21e-eaf084976485.0018
   content_url: http://publications.europa.eu/resource/cellar/c9982d67-28ce-4092-b21e-eaf084976485.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:53:03Z'
+  retrieved_at: '2026-10-22T15:50:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T19:44:51.708+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:03Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:37Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2011-98.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,21 +202,20 @@ relationships:
   date: '2024-04-30'
 article_structure:
   article_count: 18
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:03Z'
+  checked_at: '2026-10-22T15:50:37Z'
   warnings:
-  - Versão consolidada 02011L0098-20111224 indisponível (Sem expressão na língua por para CELEX 02011L0098-20111224.); usado
-    o texto do JO.
+  - '02011L0098-20111224: versão indisponível (Sem expressão na língua por para CELEX 02011L0098-20111224.)'
   errors: []
 ---
 
-# DIRECTIVA 2011/98/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2011/98/UE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 2011
 
 de 13 de Dezembro de 2011
 

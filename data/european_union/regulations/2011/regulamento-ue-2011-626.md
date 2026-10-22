@@ -35,6 +35,132 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-09-30'
+version_history:
+  file: regulamento-ue-2011-626.versoes.json
+  count: 3
+  source_lastmod: '2023-09-30'
+  versions:
+  - date: '2011-07-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-09'
+    amending: eu:celex:32014R0518:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014; REGULAMENTO DELEGADO (UE) 2017/254
+      DA COMISSÃO de 30 de novembro de 2016; REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Responsabilidades dos fornecedores
+    - Altera Artigo 4.º — Responsabilidades dos comerciantes
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Definições aplicáveis para efeitos dos anexos II a VII
+    - Adita ANEXO II
+    - Adita Classes de eficiência energética
+    - Adita ANEXO III
+    - Adita O rótulo
+    - Adita 1. RÓTULO DOS APARELHOS DE AR CONDICIONADO, COM EXCEPÇÃO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES E
+      DE CONDUTA DUPLA
+    - Adita 1.1 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A a G
+    - Adita 1.2 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A+ a F
+    - Adita 1.3 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A++ a E
+    - Adita 1.4 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A+++ a D
+    - Adita 1.5. Formato do rótulo
+    - Adita 2 RÓTULO DOS APARELHOS DE AR CONDICIONADO, COM EXCEPÇÃO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES E
+      DE CONDUTA DUPLA
+    - Adita 2.1 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência energética
+      A a G
+    - Adita 2.2 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência energética
+      A+ a F
+    - Adita 2.3 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência energética
+      A++ a E
+    - Adita 2.4 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência energética
+      A+++ a D
+    - Adita 2.5 Formato do rótulo
+    - Adita 3 RÓTULO DOS APARELHOS DE AR CONDICIONADO, COM EXCEPÇÃO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES E
+      DE CONDUTA DUPLA
+    - Adita 3.1 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A a G
+    - Adita 3.2 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A+ a F
+    - Adita 3.3 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A++ a E
+    - Adita 3.4 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A+++ a D
+    - Adita 3.5 Formato do rótulo
+    - Adita 4. RÓTULO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA DUPLA
+    - Adita 4.1 Aparelhos de ar condicionado de conduta dupla, reversíveis, classificados nas classes de eficiência energética
+      A+++ a D
+    - Adita 4.2 Formato do rótulo
+    - Adita 4.3 Aparelhos de ar condicionado de conduta dupla, apenas com função de arrefecimento, classificados nas classes
+      de eficiência energética A+++ a D
+    - Adita 4.4 Formato do rótulo
+    - Adita 4.5 Aparelhos de ar condicionado de conduta dupla, apenas com função de aquecimento, classificados nas classes
+      de eficiência energética A+++ a D
+    - Adita 4.6 Formato do rótulo
+    - Adita 5. RÓTULO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES
+    - Adita 5.1 Aparelhos de ar condicionado de conduta simples, reversíveis, classificados nas classes de eficiência energética
+      A+++ a D
+    - Adita 5.2 Formato do rótulo
+  - date: '2023-09-30'
+    amending: eu:celex:32023R2048:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2048 DA COMISSÃO de 4 de julho de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Definições aplicáveis para efeitos dos anexos II a VII
+    - Altera 1. RÓTULO DOS APARELHOS DE AR CONDICIONADO, COM EXCEPÇÃO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES
+      E DE CONDUTA DUPLA
+    - Altera 2 RÓTULO DOS APARELHOS DE AR CONDICIONADO, COM EXCEPÇÃO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES E
+      DE CONDUTA DUPLA
+    - Altera 3 RÓTULO DOS APARELHOS DE AR CONDICIONADO, COM EXCEPÇÃO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES E
+      DE CONDUTA DUPLA
+    - Altera 4. RÓTULO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA DUPLA
+    - Altera 5. RÓTULO DOS APARELHOS DE AR CONDICIONADO DE CONDUTA SIMPLES
+    - Altera Medições e cálculos
+    - Altera Notas
+    - Suprime 1.1 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A a G
+    - Suprime 1.2 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A+ a F
+    - Suprime 1.3 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A++ a E
+    - Suprime 1.4 Aparelhos de ar condicionado reversíveis classificados nas classes de eficiência energética A+++ a D
+    - Suprime 1.5. Formato do rótulo
+    - Suprime 2.1 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência
+      energética A a G
+    - Suprime 2.2 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência
+      energética A+ a F
+    - Suprime 2.3 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência
+      energética A++ a E
+    - Suprime 2.4 Aparelhos de ar condicionado apenas com função de arrefecimento classificados nas classes de eficiência
+      energética A+++ a D
+    - Suprime 2.5 Formato do rótulo
+    - Suprime 3.1 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A a G
+    - Suprime 3.2 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A+ a F
+    - Suprime 3.3 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A++ a E
+    - Suprime 3.4 Aparelhos de ar condicionado apenas com função de aquecimento classificados nas classes de eficiência energética
+      A+++ a D
+    - Suprime 3.5 Formato do rótulo
+    - Suprime 4.1 Aparelhos de ar condicionado de conduta dupla, reversíveis, classificados nas classes de eficiência energética
+      A+++ a D
+    - Suprime 4.2 Formato do rótulo
+    - Suprime 4.3 Aparelhos de ar condicionado de conduta dupla, apenas com função de arrefecimento, classificados nas classes
+      de eficiência energética A+++ a D
+    - Suprime 4.4 Formato do rótulo
+    - Suprime 4.5 Aparelhos de ar condicionado de conduta dupla, apenas com função de aquecimento, classificados nas classes
+      de eficiência energética A+++ a D
+    - Suprime 4.6 Formato do rótulo
+    - Suprime 5.1 Aparelhos de ar condicionado de conduta simples, reversíveis, classificados nas classes de eficiência energética
+      A+++ a D
+    - Suprime 5.2 Formato do rótulo
+    - Suprime 5.3 Aparelhos de ar condicionado de conduta simples, apenas com função de arrefecimento, classificados nas classes
+      de eficiência energética A+++ a D
+    - Suprime 5.4 Formato do rótulo
+    - Suprime 5.5 Aparelhos de ar condicionado de conduta simples, apenas com função de aquecimento, classificados nas classes
+      de eficiência energética A+++ a D
+    - Suprime 5.6 Formato do rótulo
 identifiers:
   celex: 32011R0626
   eli: http://data.europa.eu/eli/reg_del/2011/626/oj
@@ -49,7 +175,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/480c7dc6-65cd-4bee-9de1-cec9424fe00d.0008
   content_url: http://publications.europa.eu/resource/cellar/41707c35-8305-11ee-99ba-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0626-20230930
-  retrieved_at: '2026-10-22T03:15:53Z'
+  retrieved_at: '2026-10-22T15:54:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T20:52:20.720+02:00'
 integrity:
@@ -58,9 +184,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:53Z'
-  notes: Texto consolidado 02011R0626-20230930.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:54:24Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-626.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,32 +276,22 @@ relationships:
   date: '2002-04-04'
 article_structure:
   article_count: 10
-  section_count: 23
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 24
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:53Z'
-  warnings: []
+  checked_at: '2026-10-22T15:54:24Z'
+  warnings:
+  - '02011R0626-20110726: versão indisponível (Sem expressão na língua por para CELEX 02011R0626-20110726.)'
+  - '02011R0626-20140606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0626-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 626/2011 da Comissão, de 4 de Maio de 2011
-
-> 02011R0626 — PT — 30.09.2023 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0518) — [REGULAMENTO DELEGADO (UE) N.º 518/2014 DA COMISSÃO de 5 de março de 2014](http://publications.europa.eu/resource/celex/32014R0518) — L 147 — 1 — 17.5.2014
-- [►M2](http://publications.europa.eu/resource/celex/32017R0254) — [REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32017R0254) — L 38 — 1 — 15.2.2017
-- [►M3](http://publications.europa.eu/resource/celex/32020R1059) — [REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020](http://publications.europa.eu/resource/celex/32020R1059) — L 232 — 28 — 20.7.2020
-- [►M4](http://publications.europa.eu/resource/celex/32023R2048) — [REGULAMENTO DELEGADO (UE) 2023/2048 DA COMISSÃO de 4 de julho de 2023](http://publications.europa.eu/resource/celex/32023R2048) — L — 1 — 26.9.2023
-
-## REGULAMENTO DELEGADO (UE) N.º 626/2011 DA COMISSÃO
 
 de 4 de Maio de 2011
 

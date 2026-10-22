@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-282.versoes.json
+  count: 1
+  source_lastmod: '2012-04-19'
+  versions:
+  - date: '2012-03-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0282
   eli: http://data.europa.eu/eli/reg_impl/2012/282/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/642d4741-75ad-43a2-b36f-a17868981195.0020
   content_url: http://publications.europa.eu/resource/cellar/642d4741-75ad-43a2-b36f-a17868981195.0020.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:53:09Z'
+  retrieved_at: '2026-10-22T15:59:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T21:49:27.848+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:09Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:12Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-282.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,21 +182,20 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 33
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:09Z'
+  checked_at: '2026-10-22T15:59:12Z'
   warnings:
-  - Versão consolidada 02012R0282-20120419 indisponível (Sem expressão na língua por para CELEX 02012R0282-20120419.); usado
-    o texto do JO.
+  - '02012R0282-20120419: versão indisponível (Sem expressão na língua por para CELEX 02012R0282-20120419.)'
   errors: []
 ---
 
-# REGULAMENTO DE EXECUÇÃO (UE) N.º 282/2012 DA COMISSÃO
+# Regulamento de Execução (UE) n. ° 282/2012 da Comissão, de 28 de março de 2012
 
 de 28 de março de 2012
 

@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-314.versoes.json
+  count: 1
+  source_lastmod: '2012-04-16'
+  versions:
+  - date: '2012-04-13'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0314
   eli: http://data.europa.eu/eli/reg_impl/2012/314/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e8f75c2e-a9ef-48d0-bcda-6559ee588a00.0013
   content_url: http://publications.europa.eu/resource/cellar/e8f75c2e-a9ef-48d0-bcda-6559ee588a00.0013.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:16:10Z'
+  retrieved_at: '2026-10-22T15:59:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T19:44:18.877+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:10Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:15Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-314.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,22 +145,21 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/360ab806-1c55-11e8-ac73-01aa75ed71a1
   date: '2018-02-28'
 article_structure:
-  article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 3
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:10Z'
+  checked_at: '2026-10-22T15:59:15Z'
   warnings:
-  - 'Versão consolidada 02012R0314-20120416 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02012R0314-20120416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO DE EXECUÇÃO (UE) N.º 314/2012 DA COMISSÃO
+# Regulamento de Execução (UE) n. ° 314/2012 da Comissão, de 12 de abril de 2012
 
 de 12 de abril de 2012
 

@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0090:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0090-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2012-02-03",
+   "future": false,
+   "celex": "32012R0090",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c262f538195ed415",
+    "b8b09f58d11e58a8",
+    "7e10b567f7299d7b",
+    "93b040e91a19bbe9",
+    "ea020fbe0c194d63"
+   ]
+  }
+ ],
+ "fragments": {
+  "c262f538195ed415": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de fevereiro de 2012\n\nque altera o Regulamento (CE) n.º 736/2006 relativo aos métodos de trabalho da Agência Europeia para a Segurança da Aviação no que respeita à realização de inspeções de normalização\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Diretiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Diretiva 2004/36/CE [([^1])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr1-L_2012031PT.01000101-E0001), nomeadamente o artigo 24.º, n.º 5,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 736/2006 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr2-L_2012031PT.01000101-E0002) estabelece os métodos de trabalho da Agência Europeia para a Segurança da Aviação (a seguir denominada «Agência») no que respeita à realização de inspeções de normalização, em conformidade com o artigo 24.º, n.º 5, do Regulamento (CE) n.º 216/2008. Aquando da adoção do Regulamento (CE) n.º 736/2006, o âmbito do Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr3-L_2012031PT.01000101-E0003) estava limitado à aeronavegabilidade inicial e permanente.\n\n(2) Desde então, o Regulamento (CE) n.º 1592/2002 foi substituído pelo Regulamento (CE) n.º 216/2008, que alargou duas vezes o âmbito de aplicação daquele, primeiro para incluir, nomeadamente, as tripulações e as operações aéreas, e, depois, para incluir a gestão do tráfego aéreo e os serviços de navegação aérea (ATM/ANS), bem como a segurança aeroportuária. A Comissão adotou várias normas de execução nestes novos domínios de competência.\n\n(3) O Regulamento (CE) n.º 1702/2003 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr4-L_2012031PT.01000101-E0004) estabeleceu já normas de execução relativas à aeronavegabilidade e à certificação ambiental das aeronaves e dos produtos, peças e equipamentos conexos, bem como à certificação das entidades de projeto e produção, incluindo requisitos técnicos e procedimentos administrativos para garantir a aplicação satisfatória pelas autoridades competentes dos Estados-Membros.\n\n(4) O Regulamento (CE) n.º 2042/2003 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr5-L_2012031PT.01000101-E0005) estabelece normas de execução relativas à aeronavegabilidade permanente das aeronaves e dos produtos, peças e equipamentos aeronáuticos, bem como à certificação das entidades e do pessoal envolvidos nestas tarefas, incluindo requisitos técnicos e procedimentos administrativos para garantir a aplicação satisfatória pelas autoridades competentes dos Estados-Membros.\n\n(5) O Regulamento (UE) n.º 805/2011 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr6-L_2012031PT.01000101-E0006) estabelece regras detalhadas para as licenças de controlador de tráfego aéreo e certos certificados, incluindo requisitos técnicos e procedimentos administrativos para garantir a aplicação satisfatória pelas autoridades competentes dos Estados-Membros.\n\n(6) O Regulamento (UE) n.º 1178/2011 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr7-L_2012031PT.01000101-E0007) estabelece os requisitos técnicos e os procedimentos administrativos para as tripulações da aviação civil, de forma a garantir a aplicação satisfatória pelas autoridades competentes dos Estados-Membros.\n\n(7) O Regulamento de Execução (UE) n.º 1034/2011 da Comissão [([^8])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr8-L_2012031PT.01000101-E0008) estabelece procedimentos administrativos para a supervisão da segurança nos serviços de gestão do tráfego aéreo e de navegação aérea, de forma a garantir a aplicação satisfatória pelas autoridades competentes dos Estados-Membros dos requisitos comuns para a prestação de serviços de navegação aérea estabelecidos no Regulamento de Execução (UE) n.º 1035/2011 da Comissão [([^9])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr9-L_2012031PT.01000101-E0009).\n\n(8) O Regulamento (CEE) n.º 3922/91 do Conselho [([^10])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr10-L_2012031PT.01000101-E0010), alterado pelo Regulamento (CE) n.º 859/2008 da Comissão [([^11])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr11-L_2012031PT.01000101-E0011), estabeleceu, com o objetivo de garantir a aplicação satisfatória pelas autoridades competentes dos Estados-Membros, normas técnicas harmonizadas no setor da aviação civil e procedimentos administrativos que serão aplicáveis até entrarem em vigor as normas de execução no domínio das operações aéreas.\n\n(9) A Diretiva 2004/36/CE do Parlamento Europeu e do Conselho [([^12])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr12-L_2012031PT.01000101-E0012), de 21 de abril de 2004, relativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários, alterada pela Diretiva 2008/49/CE da Comissão [([^13])](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntr13-L_2012031PT.01000101-E0013), estabeleceu procedimentos para a realização, pelos Estados-Membros, de inspeções nas plataformas de estacionamento das aeronaves em causa (SAFA), que serão aplicáveis até entrarem em vigor as normas de execução no domínio das inspeções nas plataformas de estacionamento.\n\n(10) De forma a acompanhar a aplicação das referidas normas de execução pelas autoridades competentes dos Estados Membros, importa alargar, de imediato, o âmbito de aplicação dos métodos de trabalho atualmente utilizados pela Agência para a realização de inspeções de normalização aos novos domínios do licenciamento das tripulações de voo, das operações aéreas, do licenciamento dos controladores de tráfego aéreo e da prestação de ATM/ANS.\n\n(11) O Regulamento (CE) n.º 736/2006 deve, pois, ser alterado em conformidade.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo artigo 65.º do Regulamento (CE) n.º 216/2008,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "b8b09f58d11e58a8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo artigo 3.º do Regulamento (CE) n.º 736/2006, o n.º 1 passa a ter a seguinte redação:\n\n«1. Para efeitos da avaliação da conformidade com as exigências do Regulamento (CE) n.º 216/2008 e com as respetivas normas de execução nos domínios da aeronavegabilidade inicial e permanente, das operações aéreas, das inspeções nas plataformas de estacionamento, das tripulações de voo, dos controladores de tráfego aéreo, da gestão do tráfego aéreo e dos serviços de navegação aérea, a Agência realizará inspeções às autoridades competentes dos Estados-Membros e elaborará um relatório na matéria.»."
+  },
+  "7e10b567f7299d7b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Agência deve alterar os seus métodos de trabalho de forma a dar cumprimento ao presente regulamento o mais tardar um mês após a entrada em vigor do mesmo."
+  },
+  "93b040e91a19bbe9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 2 de fevereiro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "ea020fbe0c194d63": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc1-L_2012031PT.01000101-E0001) [JO L 79 de 19.3.2008, p.1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc2-L_2012031PT.01000101-E0002) [JO L 129 de 17.5.2006, p.10](http://publications.europa.eu/resource/oj/JOL_2006_129_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc3-L_2012031PT.01000101-E0003) [JO L 240 de 7.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_240_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc4-L_2012031PT.01000101-E0004) [JO L 243 de 27.9.2003, p. 6](http://publications.europa.eu/resource/oj/JOL_2003_243_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc5-L_2012031PT.01000101-E0005) [JO L 315 de 28.11.2003, p.1](http://publications.europa.eu/resource/oj/JOL_2003_315_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc6-L_2012031PT.01000101-E0006) [JO L 206 de 11.8.2011, p. 21](http://publications.europa.eu/resource/oj/JOL_2011_206_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc7-L_2012031PT.01000101-E0007) [JO L 311 de 25.11.2011, p.1](http://publications.europa.eu/resource/oj/JOL_2011_311_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc8-L_2012031PT.01000101-E0008) [JO L 271 de 18.10.2011, p. 15](http://publications.europa.eu/resource/oj/JOL_2011_271_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc9-L_2012031PT.01000101-E0009) [JO L 271 de 18.10.2011, p. 23](http://publications.europa.eu/resource/oj/JOL_2011_271_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc10-L_2012031PT.01000101-E0010) [JO L 373 de 31.12.1991, p. 4](http://publications.europa.eu/resource/oj/JOL_1991_373_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc11-L_2012031PT.01000101-E0011) [JO L 254 de 20.9.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_254_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc12-L_2012031PT.01000101-E0012) [JO L 143 de 30.4.2004, p. 76](http://publications.europa.eu/resource/oj/JOL_2004_143_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/d72b4ce6-1a87-41c0-8da8-9d378b52e44a.0020.02/DOC_1#ntc13-L_2012031PT.01000101-E0013) [JO L 109 de 19.4.2008, p.17](http://publications.europa.eu/resource/oj/JOL_2008_109_R_TOC)."
+  }
+ }
+}

@@ -37,6 +37,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-10'
+version_history:
+  file: regulamento-ue-2011-404.versoes.json
+  count: 2
+  source_lastmod: '2026-01-10'
+  versions:
+  - date: '2011-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-10'
+    amending: eu:celex:32015R1962:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/1962 DA COMISSÃO de 28 de outubro de 2015; M2; M3; M4; REGULAMENTO DE
+      EXECUÇÃO (UE) 2025/2196 DA COMISSÃO de 17 de outubro de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Regras para as redes de arrasto de vara
+    - Altera Artigo 61.º — Certificação da potência do motor de propulsão
+    - Altera Artigo 62.º — Verificação e plano de amostragem
+    - Altera Artigo 71.º — Momento da pesagem
+    - Altera Artigo 74.º — Gelo e água
+    - Altera Notas
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime ÂMBITO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime CONDIÇÕES GERAIS DE ACESSO ÀS ÁGUAS E AOS RECURSOS
+    - Suprime CAPÍTULO I
+    - Suprime Licenças de pesca
+    - Suprime Artigo 3.º — Emissão e gestão das licenças de pesca
+    - Suprime CAPÍTULO II
+    - Suprime Autorizações de pesca
+    - Suprime Artigo 4.º — Autorizações de pesca
+    - Suprime Artigo 5.º — Lista das autorizações de pesca
+    - Suprime CAPÍTULO III
+    - Suprime Marcação e identificação dos navios de pesca da UE e das suas artes de pesca
+    - Suprime Secção 1
+    - Suprime Marcação e identificação dos navios de pesca
+    - Suprime Artigo 6.º — Marcação dos navios de pesca
+    - Suprime Artigo 7.º — Documentos mantidos a bordo de um navio de pesca da UE
+    - Suprime Secção 2
+    - Suprime Marcação e identificação de artes de pesca e embarcações
+    - Suprime Artigo 8.º — Marcação de embarcações e dispositivos de concentração de peixes
+    - Suprime Artigo 9.º — Regras gerais para as artes passivas e redes de arrasto de vara
+    - Suprime Artigo 11.º — Regras para as artes passivas
+    - Suprime Artigo 12.º — Regras para as etiquetas
+    - Suprime Artigo 13.º — Regras para as bóias
+    - Suprime Artigo 14.º — Regras para os cabos
+    - Suprime Artigo 15.º — Regras para as bóias de marcação final
+    - Suprime Artigo 16.º — Regras para a fixação das bóias de marcação final
+    - Suprime Artigo 17.º — Bóias de marcação intermédia
+    - Suprime CAPÍTULO IV
+    - Suprime Sistema de monitorização de navios
 identifiers:
   celex: 32011R0404
   eli: http://data.europa.eu/eli/reg_impl/2011/404/oj
@@ -51,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/03a384b9-83f3-438b-b34b-4a6ca52797f9.0016
   content_url: http://publications.europa.eu/resource/cellar/5c9cc94e-0c97-11f1-8870-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0404-20260110
-  retrieved_at: '2026-10-22T02:36:27Z'
+  retrieved_at: '2026-10-22T15:51:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T12:43:58.164+02:00'
 integrity:
@@ -60,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:27Z'
-  notes: Texto consolidado 02011R0404-20260110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:51Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2011-404.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -418,39 +472,25 @@ relationships:
   date: '2010-07-13'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:27Z'
-  warnings: []
+  checked_at: '2026-10-22T15:51:51Z'
+  warnings:
+  - '02011R0404-20110507: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0404-20151120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0404-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0404-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0404-20200204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0404-20200714: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 404/2011 da Comissão, de 8 de Abril de 2011
-
-> 02011R0404 — PT — 10.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R1962) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1962 DA COMISSÃO de 28 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1962) — L 287 — 6 — 31.10.2015
-- [M2](http://publications.europa.eu/resource/celex/32020R0030) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/30. DA COMISSÃO de 14 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0030) — L 9 — 3 — 15.1.2020
-- [M3](http://publications.europa.eu/resource/celex/32020R0863) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/863 DA COMISSÃO de 22 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0863) — L 200 — 1 — 24.6.2020
-- [M4](http://publications.europa.eu/resource/celex/32025R0274) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/274 DA COMISSÃO de 12 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0274) — L 274 — 1 — 12.2.2025
-- [►M5](http://publications.europa.eu/resource/celex/32025R2196) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2196 DA COMISSÃO de 17 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2196) — L 2196 — 1 — 12.11.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32011R0404R%2801%29) — [Rectificação, JO L 328, 10.12.2011, p. 58 (404/2011)](http://publications.europa.eu/resource/celex/32011R0404R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32011R0404R%2802%29) — [Rectificação, JO L 125, 12.5.2012, p. 54 (404/2011)](http://publications.europa.eu/resource/celex/32011R0404R%2802%29)
-- [C3](http://publications.europa.eu/resource/celex/32015R1962R%2801%29) — [Rectificação, JO L 101, 20.4.2018, p. 76 (2015/1962)](http://publications.europa.eu/resource/celex/32015R1962R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 404/2011 DA COMISSÃO
 
 de 8 de Abril de 2011
 

@@ -36,6 +36,497 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-30'
+version_history:
+  file: regulamento-ue-2011-1178.versoes.json
+  count: 15
+  source_lastmod: '2026-04-30'
+  versions:
+  - date: '2011-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-21'
+    amending: eu:celex:32012R0290:por
+    amending_title: REGULAMENTO (UE) N. o 290/2012 DA COMISSÃO de 30 de março de 2012; REGULAMENTO (UE) N. o 70/2014 DA COMISSÃO
+      de 27 de janeiro de 2014; REGULAMENTO (UE) N. o 245/2014 DA COMISSÃO de 13 de março de 2014; REGULAMENTO (UE) 2015/445
+      DA COMISSÃO de 17 de março de 2015; REGULAMENTO (UE) 2016/539 DA COMISSÃO de 6 de abril de 2016; REGULAMENTO (UE) 2018/1065
+      DA COMISSÃO de 27 de julho de 2018; REGULAMENTO (UE) 2018/1119 DA COMISSÃO de 31 de julho de 2018; REGULAMENTO DE EXECUÇÃO
+      (UE) 2018/1974 DA COMISSÃO de 14 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/27 DA COMISSÃO de 19 de dezembro
+      de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/430 DA COMISSÃO de 18 de março de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1747
+      DA COMISSÃO de 15 de outubro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 8.º — Condições para a aceitação das licenças de países terceiros
+    - Altera Artigo 9.º — Crédito pela formação iniciada antes da aplicação do presente regulamento
+    - Altera Artigo 11.º — Aptidão médica dos tripulantes de cabina
+    - Altera Artigo 12.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 4.º-A — Privilégios da qualificação de voo por instrumentos para efeitos de navegação baseada no desempenho
+    - Adita Artigo 4.º-B — Prevenção da perda de controlo e recuperação do controlo
+    - Adita Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Adita Artigo 9.º-A — Formação para a qualificação de tipo e dados de adequação operacional
+    - Adita Artigo 10.º-A — Organizações de formação de pilotos
+    - Adita Artigo 10.º-B — Dispositivos de treino de simulação de voo
+    - Adita Artigo 10.º-C — Centros de medicina aeronáutica
+    - Adita Artigo 11.º-A — Qualificações dos tripulantes de cabina e certificados correspondentes
+    - Adita Artigo 11.º-B — Capacidades de supervisão
+    - Adita Artigo 11.º-C — Medidas transitórias
+    - Adita ANEXO I
+    - Adita [PARTE FCL]
+    - Adita SUBPARTE A
+    - Adita REQUISITOS GERAIS
+    - Adita FCL.001 Autoridade competente
+    - Adita FCL.005 Âmbito
+    - Adita FCL.010 Definições
+    - Adita FCL.015 Pedido e emissão revalidação e renovação de licenças, qualificações e certificados
+    - Adita FCL.020 Aluno piloto
+    - Adita FCL.025 Exames de conhecimentos teóricos para a emissão de licenças e qualificações
+    - Adita a) Obrigações do requerente
+    - Adita b) Critérios de aprovação
+    - Adita c) Período de validade
+    - Adita FCL.030 Prova prática de perícia
+    - Adita FCL.035 Atribuição de créditos de tempo de voo e de conhecimentos teóricos
+    - Adita a) Atribuição de créditos de tempo de voo
+    - Adita b) Atribuição de créditos de conhecimentos teóricos
+    - Adita FCL.040 Exercício dos privilégios das licenças
+    - Adita FCL.045 Obrigação de porte e apresentação de documentos
+    - Adita FCL.050 Registo do tempo de voo
+  - date: '2021-01-12'
+    amending: eu:celex:32020R0359:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/359 DA COMISSÃO de 4 de março de 2020; REGULAMENTO DELEGADO (UE) 2020/723
+      DA COMISSÃO de 4 de março de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/2193 DA COMISSÃO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera Artigo 12.º — Entrada em vigor e aplicação
+    - Altera REQUISITOS GERAIS
+    - Altera LICENÇA DE PILOTO DE AERONAVES LIGEIRAS – LAPL (LIGHT AIRCRAFT PILOT LICENCE)
+    - Altera LICENÇA DE PILOTO COMERCIAL — CPL
+    - Altera LICENÇA DE PILOTO DE TRIPULAÇÃO MÚLTIPLA — MPL
+    - Altera LICENÇA DE PILOTO DE LINHA AÉREA — ATPL
+    - Altera QUALIFICAÇÃO DE INSTRUMENTOS — IR
+    - Altera QUALIFICAÇÕES DE CLASSE E DE TIPO
+    - Altera QUALIFICAÇÕES ADICIONAIS
+    - Altera INSTRUTORES
+    - Altera EXAMINADORES
+    - Altera A. ATRIBUIÇÃO DE CRÉDITOS DE CONHECIMENTOS TEÓRICOS PARA A EMISSÃO DE UMA LICENÇA DE PILOTO — INSTRUÇÃO DE TRANSFERÊNCIA
+      E REQUISITOS DE EXAME
+    - Altera A. Curso integrado ATP – Aviões
+    - Altera E. Curso modular CPL – Aviões
+    - Altera TREINO DE VOO
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera B. Requisitos específicos para a categoria de aviões
+    - Altera C. Requisitos específicos para a categoria de helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS PARA OS CERTIFICADOS MÉDICOS DOS PILOTOS
+    - Altera REQUISITOS RELATIVOS À APTIDÃO MÉDICA DA TRIPULAÇÃO DE CABINA
+    - Altera EXAMINADORES MÉDICOS AERONÁUTICOS, MÉDICOS GENERALISTAS E MÉDICOS DO TRABALHO
+    - Altera PROGRAMA DE FORMAÇÃO
+    - Altera REQUISITOS ESPECÍFICOS PARA A ATRIBUIÇÃO DE LICENÇAS DE TRIPULANTE DE VOO
+    - Altera REQUISITOS ESPECÍFICOS PARA OS TRIPULANTES DE CABINA
+    - Altera REQUISITOS ESPECÍFICOS PARA AS ORGANIZAÇÕES DE FORMAÇÃO AUTORIZADAS (ATO)
+    - Altera REQUISITOS ESPECÍFICOS PARA A QUALIFICAÇÃO DOS DISPOSITIVOS DE TREINO DE SIMULAÇÃO DE VOO (FSTD)
+    - Altera REQUISITOS ESPECÍFICOS PARA OS CENTROS DE MEDICINA AERONÁUTICA (AeMC)
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera REQUISITOS ESPECÍFICOS PARA AS ORGANIZAÇÕES DE FORMAÇÃO DECLARADAS (DTO)
+    - Altera Licença de tripulante de voo
+    - Altera Página de rosto
+    - Altera Página 2
+  - date: '2021-09-08'
+    amending: eu:celex:32021R1310:por
+    amending_title: M15
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 4.º-C — Medidas transitórias para titulares de uma qualificação de voo por instrumentos em rota
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera QUALIFICAÇÕES ADICIONAIS
+    - Altera INSTRUTORES
+    - Altera EXAMINADORES
+    - Altera A. ATRIBUIÇÃO DE CRÉDITOS DE CONHECIMENTOS TEÓRICOS PARA A EMISSÃO DE UMA LICENÇA DE PILOTO — INSTRUÇÃO DE TRANSFERÊNCIA
+      E REQUISITOS DE EXAME
+    - Altera D. Curso integrado CPL – Aviões
+    - Altera E. Curso modular CPL – Aviões
+    - Altera A. IR(A) — Curso modular de treino de voo
+    - Altera Aa IR(A) — Curso de formação de voo modular baseado na competência
+    - Altera CONDUÇÃO DA PROVA
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Página de rosto
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita Prova de perícia para obtenção de uma BIR e de uma IR
+    - Adita Treino, prova de perícia e verificação de proficiência para MPL, ATPL, qualificações de tipo e de classe e verificações
+      de proficiência para obtenção de BIR e IR
+    - Suprime Prova de perícia para obtenção de uma IR
+    - Suprime Treino, prova de perícia e verificação de proficiência para MPL, ATPL, qualificações de tipo e de classe e verificações
+      de proficiência para qualificações de instrumentos (IR)
+  - date: '2022-01-31'
+    amending: eu:celex:32021R2227:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2227 DA COMISSÃO de 14 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 4.º-C — Medidas transitórias para titulares de uma qualificação de voo por instrumentos em rota
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera LICENÇA DE PILOTO COMERCIAL — CPL
+    - Altera LICENÇA DE PILOTO DE LINHA AÉREA — ATPL
+    - Altera QUALIFICAÇÃO DE INSTRUMENTOS — IR
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita ATRIBUIÇÃO DE CRÉDITOS DE CONHECIMENTOS TEÓRICOS NA MESMA OU NOUTRA CATEGORIA DE AERONAVE — INSTRUÇÃO DE TRANSIÇÃO
+      E REQUISITOS DE EXAME
+    - Adita 1. LAPL e PPL
+    - Adita 2. CPL
+    - Adita 3. ATPL
+    - Adita 4. IR
+    - Suprime A. ATRIBUIÇÃO DE CRÉDITOS DE CONHECIMENTOS TEÓRICOS PARA A EMISSÃO DE UMA LICENÇA DE PILOTO — INSTRUÇÃO DE TRANSFERÊNCIA
+      E REQUISITOS DE EXAME
+  - date: '2022-06-20'
+    amending: eu:celex:32022R0844:por
+    amending_title: M17
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+  - date: '2022-10-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 10.º-A — Organizações de formação de pilotos
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera LICENÇA DE PILOTO DE LINHA AÉREA — ATPL
+    - Altera QUALIFICAÇÃO DE INSTRUMENTOS — IR
+    - Altera QUALIFICAÇÕES DE CLASSE E DE TIPO
+    - Altera INSTRUTORES
+    - Altera EXAMINADORES
+    - Altera I. Curso integrado CPL/IR – Helicópteros
+    - Altera B. IR(H) — Curso modular de treino de voo
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. Aspetos gerais
+    - Altera B. Requisitos específicos para a categoria de aviões
+    - Altera C. Requisitos específicos para a categoria de helicópteros
+    - Altera D. Requisitos específicos para a categoria de aeronaves de descolagem vertical
+    - Altera E. Requisitos específicos para a categoria aeróstatos
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita Artigo 4.º-D — Medidas transitórias para privilégios de qualificação de voo por instrumentos monomotor em helicóptero
+    - Adita Artigo 4.º-E — Medidas transitórias aplicáveis à formação, exames e verificações relacionados com operações multipiloto
+      em helicópteros monopiloto
+  - date: '2024-08-14'
+    amending: eu:celex:32024R2076:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2076 DA COMISSÃO de 24 de julho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera LICENÇA DE PILOTO DE AERONAVES LIGEIRAS – LAPL (LIGHT AIRCRAFT PILOT LICENCE)
+    - Altera LICENÇA DE PILOTO PARTICULAR (PPL)
+    - Altera LICENÇA DE PILOTO COMERCIAL — CPL
+    - Altera LICENÇA DE PILOTO DE TRIPULAÇÃO MÚLTIPLA — MPL
+    - Altera LICENÇA DE PILOTO DE LINHA AÉREA — ATPL
+    - Altera QUALIFICAÇÕES DE CLASSE E DE TIPO
+    - Altera QUALIFICAÇÕES ADICIONAIS
+    - Altera INSTRUTORES
+    - Altera 1. LAPL e PPL
+    - Altera 2. CPL
+    - Altera 3. ATPL
+    - Altera B. Conteúdo da prova de perícia para a emissão de uma CPL - Aviões
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. Aspetos gerais
+    - Altera B. Requisitos específicos para a categoria de aviões
+    - Altera C. Requisitos específicos para a categoria de helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A ATRIBUIÇÃO DE LICENÇAS DE TRIPULANTE DE VOO
+    - Altera REQUISITOS ESPECÍFICOS PARA A QUALIFICAÇÃO DOS DISPOSITIVOS DE TREINO DE SIMULAÇÃO DE VOO (FSTD)
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Licença de tripulante de voo
+    - Altera CERTIFICADO DE ORGANIZAÇÃO DE FORMAÇÃO AUTORIZADA
+    - Altera Introdução
+    - Altera REQUISITOS PARA AS ORGANIZAÇÕES QUE OPERAM DISPOSITIVOS DE TREINO DE SIMULAÇÃO DE VOO (FSTD) E A QUALIFICAÇÃO
+      DE FSTD
+    - Altera [PARTE DTO]
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita Artigo 3.º-A — Medidas transitórias para protocolos de avaliação médica aplicados em conformidade com a secção
+      ARA.MED.330 do anexo VI (parte ARA) e certificados médicos emitidos com base nesses protocolos
+    - Adita Artigo 4.º-H — Medidas transitórias aplicáveis aos titulares de uma qualificação de voo de montanha
+    - Adita Equivalência de créditos da parte IR de uma verificação de proficiência para uma qualificação de classe ou de
+      tipo ou de uma avaliação prática de EBT
+    - Adita Formação, prova de perícia e verificação de proficiência para MPL e ATPL, e para qualificações de tipo e de classe
+      e verificações de proficiência para BIR e IR
+  - date: '2024-12-02'
+    amending: eu:celex:32024R2857:por
+    amending_title: M19
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+  - date: '2025-02-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS PARA OS CERTIFICADOS MÉDICOS DOS PILOTOS
+    - Altera EXAMINADORES MÉDICOS AERONÁUTICOS, MÉDICOS GENERALISTAS E MÉDICOS DO TRABALHO
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita Apêndice V do ANEXO VI PARTE ARA
+    - Adita CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA (AEMC)
+    - Adita União Europeia ([^9^](http://publications.europa.eu/resource/cellar/ca1f805c-35da-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0025))
+    - Adita CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA
+    - Adita Apêndice VII ao ANEXO VI PARTE ARA
+    - Adita CERTIFICADO DE EXAMINADORES MÉDICOS AERONÁUTICOS (AME)
+    - Adita União Europeia ([^12^](http://publications.europa.eu/resource/cellar/ca1f805c-35da-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0029))
+    - Adita Autoridade Competente
+    - Adita CERTIFICADO DE EXAMINADOR MÉDICO AERONÁUTICO
+    - Suprime Apêndice V ao ANEXO VI DA PARTE ARA
+    - Suprime Apêndice VII ao ANEXO VI DA PARTE ARA
+  - date: '2025-05-01'
+    amending: eu:celex:32024R1111:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera LICENÇA DE PILOTO PARTICULAR (PPL)
+    - Altera LICENÇA DE PILOTO DE LINHA AÉREA — ATPL
+    - Altera QUALIFICAÇÕES DE CLASSE E DE TIPO
+    - Altera QUALIFICAÇÕES ADICIONAIS
+    - Altera INSTRUTORES
+    - Altera B. Conteúdo da prova de perícia para a emissão de uma CPL - Aviões
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. Aspetos gerais
+    - Altera B. Requisitos específicos para a categoria de aviões
+    - Altera C. Requisitos específicos para a categoria de helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Página de rosto
+    - Altera Página 2
+    - Altera Página 3
+    - Altera Modelo AESA de certificado de tripulante de cabina
+    - Altera Introdução
+    - Altera CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA
+    - Altera CERTIFICADO DE EXAMINADOR MÉDICO AERONÁUTICO
+    - Altera REQUISITOS PARA AS ORGANIZAÇÕES QUE OPERAM DISPOSITIVOS DE TREINO DE SIMULAÇÃO DE VOO (FSTD) E A QUALIFICAÇÃO
+      DE FSTD
+    - Altera CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita Artigo 4.º-F — Qualificações de tipo de VCA
+    - Adita União Europeia ([^9^](http://publications.europa.eu/resource/cellar/0eb10746-722e-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0025))
+    - Adita União Europeia ([^12^](http://publications.europa.eu/resource/cellar/0eb10746-722e-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0029))
+    - Suprime União Europeia ([^9^](http://publications.europa.eu/resource/cellar/ca1f805c-35da-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0025))
+    - Suprime União Europeia ([^12^](http://publications.europa.eu/resource/cellar/ca1f805c-35da-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0029))
+  - date: '2025-08-04'
+    amending: eu:celex:32025R1345:por
+    amending_title: M21
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA
+    - Altera CERTIFICADO DE EXAMINADOR MÉDICO AERONÁUTICO
+    - Altera CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita União Europeia ([^9^](http://publications.europa.eu/resource/cellar/bb56c031-d506-11f0-8da2-01aa75ed71a1.0019.02/DOC_1#E0025))
+    - Adita União Europeia ([^12^](http://publications.europa.eu/resource/cellar/bb56c031-d506-11f0-8da2-01aa75ed71a1.0019.02/DOC_1#E0029))
+    - Suprime União Europeia ([^9^](http://publications.europa.eu/resource/cellar/0eb10746-722e-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0025))
+    - Suprime União Europeia ([^12^](http://publications.europa.eu/resource/cellar/0eb10746-722e-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0029))
+  - date: '2025-12-02'
+    amending: eu:celex:32025R2253:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2253 DA COMISSÃO de 11 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. Aspetos gerais
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA
+    - Altera CERTIFICADO DE EXAMINADOR MÉDICO AERONÁUTICO
+    - Altera CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita União Europeia ([^9^](http://publications.europa.eu/resource/cellar/7037b629-06c1-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0025))
+    - Adita União Europeia ([^12^](http://publications.europa.eu/resource/cellar/7037b629-06c1-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0029))
+    - Suprime União Europeia ([^9^](http://publications.europa.eu/resource/cellar/bb56c031-d506-11f0-8da2-01aa75ed71a1.0019.02/DOC_1#E0025))
+    - Suprime União Europeia ([^12^](http://publications.europa.eu/resource/cellar/bb56c031-d506-11f0-8da2-01aa75ed71a1.0019.02/DOC_1#E0029))
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/134 DA COMISSÃO de 28 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro
+      de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera REQUISITOS GERAIS
+    - Altera LICENÇA DE PILOTO DE LINHA AÉREA — ATPL
+    - Altera QUALIFICAÇÕES DE CLASSE E DE TIPO
+    - Altera QUALIFICAÇÕES ADICIONAIS
+    - Altera INSTRUTORES
+    - Altera EXAMINADORES
+    - Altera B. Conteúdo da prova de perícia para a emissão de uma CPL - Aviões
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. Aspetos gerais
+    - Altera B. Requisitos específicos para a categoria de aviões
+    - Altera C. Requisitos específicos para a categoria de helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera Página de rosto
+    - Altera Introdução
+    - Altera CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA
+    - Altera CERTIFICADO DE EXAMINADOR MÉDICO AERONÁUTICO
+    - Altera REQUISITOS PARA AS ORGANIZAÇÕES QUE OPERAM DISPOSITIVOS DE TREINO DE SIMULAÇÃO DE VOO (FSTD) E A QUALIFICAÇÃO
+      DE FSTD
+    - Altera CENTROS DE MEDICINA AERONÁUTICA
+    - Altera [PARTE DTO]
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita Artigo 4.º-G — Requisitos específicos para os requerentes de uma licença de piloto de giroplanos
+    - Adita LICENÇA DE PILOTO PARTICULAR (PPL) E LICENÇA DE PILOTO DE GIROPLANOS (GPL)
+    - Adita 1. LAPL, PPL e GPL
+    - Adita União Europeia ([^10^](http://publications.europa.eu/resource/cellar/77d98bdb-2d52-11f1-906d-01aa75ed71a1.0003.02/DOC_1#E0026))
+    - Adita União Europeia ([^13^](http://publications.europa.eu/resource/cellar/77d98bdb-2d52-11f1-906d-01aa75ed71a1.0003.02/DOC_1#E0030))
+    - Suprime LICENÇA DE PILOTO PARTICULAR (PPL)
+    - Suprime 1. LAPL e PPL
+    - Suprime União Europeia ([^9^](http://publications.europa.eu/resource/cellar/7037b629-06c1-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0025))
+    - Suprime União Europeia ([^12^](http://publications.europa.eu/resource/cellar/7037b629-06c1-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0029))
+  - date: '2026-04-30'
+    amending: eu:celex:32026R0781:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/781 DA COMISSÃO de 8 de abril de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Atribuição de licenças e certificação médica dos pilotos
+    - Altera Artigo 4.º — Actuais licenças nacionais de piloto
+    - Altera Artigo 6.º — Conversão das habilitações para [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
+      voos de ensaio◄
+    - Altera Artigo 11.º-C — Medidas transitórias
+    - Altera INSTRUTORES
+    - Altera TOLERÂNCIAS NA PROVA DE VOO
+    - Altera A. Aviões
+    - Altera B. Helicópteros
+    - Altera A. AVIÕES
+    - Altera B. HELICÓPTEROS
+    - Altera REQUISITOS ESPECÍFICOS PARA A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera CERTIFICADO DE CENTRO DE MEDICINA AERONÁUTICA
+    - Altera CERTIFICADO DE EXAMINADOR MÉDICO AERONÁUTICO
+    - Altera CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Apêndice 1 do Anexo VIII (Parte DTO)
+    - Altera Notas
+    - Adita União Europeia ([^10^](http://publications.europa.eu/resource/cellar/1ec3ec96-7a68-11f1-bf5e-01aa75ed71a1.0019.02/DOC_2#E0026))
+    - Adita União Europeia ([^13^](http://publications.europa.eu/resource/cellar/1ec3ec96-7a68-11f1-bf5e-01aa75ed71a1.0019.02/DOC_2#E0030))
+    - Suprime União Europeia ([^10^](http://publications.europa.eu/resource/cellar/77d98bdb-2d52-11f1-906d-01aa75ed71a1.0003.02/DOC_1#E0026))
+    - Suprime União Europeia ([^13^](http://publications.europa.eu/resource/cellar/77d98bdb-2d52-11f1-906d-01aa75ed71a1.0003.02/DOC_1#E0030))
 identifiers:
   celex: 32011R1178
   eli: http://data.europa.eu/eli/reg/2011/1178/oj
@@ -50,7 +541,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ff333821-8325-4fcd-aad0-0a6f3913a242.0021
   content_url: http://publications.europa.eu/resource/cellar/1ec3ec96-7a68-11f1-bf5e-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1178-20260430
-  retrieved_at: '2026-10-22T02:43:01Z'
+  retrieved_at: '2026-10-22T15:58:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T08:05:18.733+02:00'
 integrity:
@@ -59,9 +550,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:01Z'
-  notes: Texto consolidado 02011R1178-20260430.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:39Z'
+  notes: 15 versão(ões); histórico completo em regulamento-ue-2011-1178.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -369,63 +860,31 @@ relationships:
   date: '2021-11-18'
 article_structure:
   article_count: 26
-  section_count: 179
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 180
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:01Z'
-  warnings: []
+  checked_at: '2026-10-22T15:58:39Z'
+  warnings:
+  - '02011R1178-20120408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20140217: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20140403: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20150408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20160408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20180408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20180825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20190130: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20190408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20191111: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20200408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1178-20200622: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. o 1178/2011 da Comissão, de 3 de Novembro de 2011
-
-> 02011R1178 — PT — 30.04.2026 — 027.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0290) — [REGULAMENTO (UE) N.º 290/2012 DA COMISSÃO de 30 de março de 2012](http://publications.europa.eu/resource/celex/32012R0290) — L 100 — 1 — 5.4.2012
-- [►M2](http://publications.europa.eu/resource/celex/32014R0070) — [REGULAMENTO (UE) N.º 70/2014 DA COMISSÃO de 27 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0070) — L 23 — 25 — 28.1.2014
-- [►M3](http://publications.europa.eu/resource/celex/32014R0245) — [REGULAMENTO (UE) N.º 245/2014 DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014R0245) — L 74 — 33 — 14.3.2014
-- [►M4](http://publications.europa.eu/resource/celex/32015R0445) — [REGULAMENTO (UE) 2015/445 DA COMISSÃO de 17 de março de 2015](http://publications.europa.eu/resource/celex/32015R0445) — L 74 — 1 — 18.3.2015
-- [►M5](http://publications.europa.eu/resource/celex/32016R0539) — [REGULAMENTO (UE) 2016/539 DA COMISSÃO de 6 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0539) — L 91 — 1 — 7.4.2016
-- [►M6](http://publications.europa.eu/resource/celex/32018R1065) — [REGULAMENTO (UE) 2018/1065 DA COMISSÃO de 27 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1065) — L 192 — 31 — 30.7.2018
-- [►M7](http://publications.europa.eu/resource/celex/32018R1119) — [REGULAMENTO (UE) 2018/1119 DA COMISSÃO de 31 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1119) — L 204 — 13 — 13.8.2018
-- [►M8](http://publications.europa.eu/resource/celex/32018R1974) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1974 DA COMISSÃO de 14 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1974) — L 326 — 1 — 20.12.2018
-- [►M9](http://publications.europa.eu/resource/celex/32019R0027) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/27 DA COMISSÃO de 19 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0027) — L 8 — 1 — 10.1.2019
-- [►M10](http://publications.europa.eu/resource/celex/32019R0430) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/430 DA COMISSÃO de 18 de março de 2019](http://publications.europa.eu/resource/celex/32019R0430) — L 75 — 66 — 19.3.2019
-- [►M11](http://publications.europa.eu/resource/celex/32019R1747) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1747 DA COMISSÃO de 15 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1747) — L 268 — 23 — 22.10.2019
-- [►M12](http://publications.europa.eu/resource/celex/32020R0359) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/359 DA COMISSÃO de 4 de março de 2020](http://publications.europa.eu/resource/celex/32020R0359) — L 67 — 82 — 5.3.2020
-- [►M13](http://publications.europa.eu/resource/celex/32020R0723) — [REGULAMENTO DELEGADO (UE) 2020/723 DA COMISSÃO de 4 de março de 2020](http://publications.europa.eu/resource/celex/32020R0723) — L 170 — 1 — 2.6.2020
-- [►M14](http://publications.europa.eu/resource/celex/32020R2193) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2193 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2193) — L 434 — 13 — 23.12.2020
-- [M15](http://publications.europa.eu/resource/celex/32021R1310) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1310 DA COMISSÃO de 6 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1310) — L 284 — 15 — 9.8.2021
-- [►M16](http://publications.europa.eu/resource/celex/32021R2227) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2227 DA COMISSÃO de 14 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2227) — L 448 — 39 — 15.12.2021
-- [M17](http://publications.europa.eu/resource/celex/32022R0844) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/844 DA COMISSÃO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0844) — L 148 — 24 — 31.5.2022
-- [►M18](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [►M19](http://publications.europa.eu/resource/celex/32024R1111) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1111) — L 1111 — 1 — 23.5.2024
-- [►M20](http://publications.europa.eu/resource/celex/32024R2076) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2076 DA COMISSÃO de 24 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2076) — L 2076 — 1 — 25.7.2024
-- [M21](http://publications.europa.eu/resource/celex/32024R2857) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2857 DA COMISSÃO de 11 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2857) — L 2857 — 1 — 12.11.2024
-- [►M22](http://publications.europa.eu/resource/celex/32025R0134) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/134 DA COMISSÃO de 28 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0134) — L 134 — 1 — 29.1.2025
-- [M23](http://publications.europa.eu/resource/celex/32025R1345) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1345 DA COMISSÃO de 14 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1345) — L 1345 — 1 — 15.7.2025
-- [►M24](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-- [►M25](http://publications.europa.eu/resource/celex/32025R2253) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2253 DA COMISSÃO de 11 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2253) — L 2253 — 1 — 12.11.2025
-- [►M26](http://publications.europa.eu/resource/celex/32026R0781) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/781 DA COMISSÃO de 8 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0781) — L 781 — 1 — 10.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R1178R%2805%29) — [Rectificação, JO L 230, 25.8.2012, p. 5 (1178/2011)](http://publications.europa.eu/resource/celex/32011R1178R%2805%29)
-- [C2](http://publications.europa.eu/resource/celex/32011R1178R%2810%29) — [Rectificação, JO L 148, 10.6.2017, p. 48 (n.o 1178/2011)](http://publications.europa.eu/resource/celex/32011R1178R%2810%29)
-- [C3](http://publications.europa.eu/resource/celex/32012R0290R%2807%29) — [Rectificação, JO L 292, 10.11.2017, p. 119 (n.o 290/2012)](http://publications.europa.eu/resource/celex/32012R0290R%2807%29)
-- [C4](http://publications.europa.eu/resource/celex/32011R1178R%2816%29) — [Rectificação, JO L 066, 7.3.2019, p. 6 (n.o 1178/2011)](http://publications.europa.eu/resource/celex/32011R1178R%2816%29)
-- [►C5](http://publications.europa.eu/resource/celex/32024R2076R%2804%29) — [Rectificação, JO L 90259, 21.3.2025, p. 1 ((UE) 2024/20762024/2076)](http://publications.europa.eu/resource/celex/32024R2076R%2804%29)
-- [C6](http://publications.europa.eu/resource/celex/32019R1747R%2811%29) — [Rectificação, JO L 90653, 4.8.2026, p. 1 ((UE) 2019/1747)](http://publications.europa.eu/resource/celex/32019R1747R%2811%29)
-
-## REGULAMENTO (UE) N.º 1178/2011 DA COMISSÃO
 
 de 3 de Novembro de 2011
 

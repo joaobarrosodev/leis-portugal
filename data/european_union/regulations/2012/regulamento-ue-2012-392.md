@@ -37,6 +37,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-08-09'
+version_history:
+  file: regulamento-ue-2012-392.versoes.json
+  count: 2
+  source_lastmod: '2020-08-09'
+  versions:
+  - date: '2012-05-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-09'
+    amending: eu:celex:32014R0518:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014; REGULAMENTO DELEGADO (UE) 2017/254
+      DA COMISSÃO de 30 de novembro de 2016; REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Responsabilidades dos fornecedores
+    - Altera Artigo 4.º — Responsabilidades dos comerciantes
+    - Altera Artigo 8.º — Revogação
+    - Altera Artigo 9.º — Disposições transitórias
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Rótulo
+    - Adita 1. RÓTULO DOS SECADORES DE ROUPA POR EXAUSTÃO PARA USO DOMÉSTICO
+    - Adita 2. RÓTULO DOS SECADORES DE ROUPA POR CONDENSAÇÃO PARA USO DOMÉSTICO
+    - Adita 3. RÓTULO DOS SECADORES DE ROUPA ALIMENTADOS A GÁS PARA USO DOMÉSTICO
+    - Adita 4. FORMATO DO RÓTULO
+    - Adita ANEXO II
+    - Adita Ficha de produto
+    - Adita ANEXO III
+    - Adita Documentação técnica
+    - Adita ANEXO IV
+    - Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto
+    - Adita ANEXO V
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Adita ANEXO VI
+    - Adita Classes de eficiência energética e classes de eficiência de condensação
+    - Adita 1. CLASSES DE EFICIÊNCIA ENERGÉTICA
+    - Adita 2. CLASSES DE EFICIÊNCIA DE CONDENSAÇÃO
+    - Adita ANEXO VII
+    - Adita Método de cálculo do índice de eficiência energética e da eficiência de condensação ponderada
+    - Adita 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA
+    - Adita 2. CÁLCULOS RESPEITANTES ÀS INFORMAÇÕES SOBRE OS PRODUTOS PREVISTAS NOS ANEXOS II (FICHA DE PRODUTO), III (DOCUMENTAÇÃO
+      TÉCNICA) E IV (INFORMAÇÕES A FORNECER NOS CASOS EM QUE NÃO SE PODE ESPERAR QUE OS UTILIZADORES FINAIS VEJAM O PRODUTO
+      EXPOSTO)
+    - Adita 3. CÁLCULO DA EFICIÊNCIA DE CONDENSAÇÃO PONDERADA
+    - Adita ANEXO VIII
+    - Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet
 identifiers:
   celex: 32012R0392
   eli: http://data.europa.eu/eli/reg_del/2012/392/oj
@@ -51,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001
   content_url: http://publications.europa.eu/resource/cellar/cd4ee346-dbee-11ea-adf7-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0392-20200809
-  retrieved_at: '2026-10-22T03:16:13Z'
+  retrieved_at: '2026-10-22T15:59:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T02:21:41.816+02:00'
 integrity:
@@ -60,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:13Z'
-  notes: Texto consolidado 02012R0392-20200809.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:34Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2012-392.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,35 +183,22 @@ relationships:
   date: '1995-05-23'
 article_structure:
   article_count: 10
-  section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:13Z'
-  warnings: []
+  checked_at: '2026-10-22T15:59:34Z'
+  warnings:
+  - '02012R0392-20120529: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0392-20140606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0392-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 392/2012 da Comissão, de 1 de março de 2012
-
-> 02012R0392 — PT — 09.08.2020 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0518) — [REGULAMENTO DELEGADO (UE) N.º 518/2014 DA COMISSÃO de 5 de março de 2014](http://publications.europa.eu/resource/celex/32014R0518) — L 147 — 1 — 17.5.2014
-- [►M2](http://publications.europa.eu/resource/celex/32017R0254) — [REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32017R0254) — L 38 — 1 — 15.2.2017
-- [►M3](http://publications.europa.eu/resource/celex/32020R1059) — [REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020](http://publications.europa.eu/resource/celex/32020R1059) — L 232 — 28 — 20.7.2020
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R0392R%2801%29) — [Rectificação, JO L 124, 11.5.2012, p. 56 (392/2012)](http://publications.europa.eu/resource/celex/32012R0392R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) N.º 392/2012 DA COMISSÃO
 
 de 1 de março de 2012
 

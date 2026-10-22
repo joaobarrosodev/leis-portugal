@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-07-27'
+version_history:
+  file: regulamento-ue-2012-651.versoes.json
+  count: 1
+  source_lastmod: '2012-07-27'
+  versions:
+  - date: '2012-07-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0651
   eli: http://data.europa.eu/eli/reg/2012/651/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/85e4598c-d653-11e1-905c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/cb7af4c6-c107-4fce-9b40-4714d24d842f.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0651-20120727
-  retrieved_at: '2026-10-22T02:40:49Z'
+  retrieved_at: '2026-10-22T16:00:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T02:20:19.861+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:49Z'
-  notes: Texto consolidado 02012R0651-20120727.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:00:36Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-651.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,29 +156,19 @@ relationships:
   date: '2015-04-01'
 article_structure:
   article_count: 7
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:49Z'
+  checked_at: '2026-10-22T16:00:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 651/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012
-
-> 2012R0651 — PT — 27.07.2012 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R0651R%2801%29) — [Rectificação, JO L 088, 1.4.2015, p. 19 (651/2012)](http://publications.europa.eu/resource/celex/32012R0651R%2801%29)
-
-## REGULAMENTO (UE) N.º 651/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de julho de 2012
 

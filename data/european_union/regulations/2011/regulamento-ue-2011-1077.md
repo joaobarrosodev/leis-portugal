@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-12-29'
+version_history:
+  file: regulamento-ue-2011-1077.versoes.json
+  count: 2
+  source_lastmod: '2017-12-29'
+  versions:
+  - date: '2015-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-12-29'
+    amending: eu:celex:32017R2226:por
+    amending_title: REGULAMENTO (UE) 2017/2226 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Criação da Agência
+    - Altera Artigo 5.º — Funções relacionadas com o Eurodac
+    - Altera Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação
+    - Altera Artigo 8.º — Acompanhamento de actividades de investigação
+    - Altera Artigo 12.º — Funções do Conselho de Administração
+    - Altera Artigo 15.º — Reuniões do Conselho de Administração
+    - Altera Artigo 17.º — Funções e competências do Director Executivo
+    - Altera Artigo 19.º — Grupos Consultivos
+    - Altera Artigo 25.º — Regime linguístico
+    - Altera Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Notas
+    - Adita Artigo 5.º-A — Tarefas relacionadas com o SES
 identifiers:
   celex: 32011R1077
   eli: http://data.europa.eu/eli/reg/2011/1077/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f88ca451-0ebd-43cb-be94-c68214e28260.0015
   content_url: http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1077-20171229
-  retrieved_at: '2026-10-22T03:15:51Z'
+  retrieved_at: '2026-10-22T15:54:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T03:55:19.494+02:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:51Z'
-  notes: Texto consolidado 02011R1077-20171229.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:54:47Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2011-1077.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -270,30 +297,20 @@ relationships:
   date: '2018-11-21'
 article_structure:
   article_count: 39
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:51Z'
-  warnings: []
+  checked_at: '2026-10-22T15:54:47Z'
+  warnings:
+  - '02011R1077-20111101: versão indisponível (Sem expressão na língua por para CELEX 02011R1077-20111101.)'
   errors: []
 ---
 
 # Regulamento (UE) n. o 1077/2011 do Parlamento Europeu e do Conselho, de 25 de Outubro de 2011
-
-> 02011R1077 — PT — 29.12.2017 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0603) — [REGULAMENTO (UE) N.º 603/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0603) — L 180 — 1 — 29.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32017R2226) — [REGULAMENTO (UE) 2017/2226 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2226) — L 327 — 20 — 9.12.2017
-
-## REGULAMENTO (UE) N.º 1077/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Outubro de 2011
 

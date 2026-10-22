@@ -36,6 +36,164 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-10-01'
+version_history:
+  file: regulamento-ue-2012-649.versoes.json
+  count: 10
+  source_lastmod: '2026-10-01'
+  versions:
+  - date: '2012-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-01'
+    amending: eu:celex:32014R1078:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1078/2014 DA COMISSÃO de 7 de agosto de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera Artigo 31.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DOS PRODUTOS QUÍMICOS
+    - Adita (a que se refere o artigo 7.º)
+    - Adita PARTE 1
+    - Adita Lista dos produtos químicos sujeitos ao procedimento de notificação de exportação
+    - Adita (a que se refere o artigo 8.º)
+    - Adita PARTE 2
+    - Adita Lista de produtos químicos passíveis de notificação PIC
+    - Adita (a que se refere o artigo 11.º)
+    - Adita PARTE 3
+    - Adita Lista dos produtos químicos sujeitos ao procedimento PIC
+    - Adita (a que se referem os artigos 13.º e 14.º)
+    - Adita ANEXO II
+    - Adita NOTIFICAÇÃO DE EXPORTAÇÃO
+    - Adita ANEXO III
+    - Adita Informações a fornecer à Comissão pelas autoridades nacionais designadas dos Estados-Membros por força do artigo
+      10.º
+    - Adita ANEXO IV
+    - Adita Notificação de produtos químicos proibidos ou severamente restringidos ao Secretariado da Convenção
+    - Adita INFORMAÇÃO NECESSÁRIA PARA AS NOTIFICAÇÕES A EFETUAR POR FORÇA DO ARTIGO 11.º
+    - Adita ANEXO V
+    - Adita Produtos químicos e artigos sujeitos a proibições de exportação
+    - Adita (a que se refere o artigo 15.º)
+    - Adita ANEXO VI
+    - Adita ANEXO VII
+  - date: '2016-02-01'
+    amending: eu:celex:32015R2229:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/2229 DA COMISSÃO de 29 de setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Notas
+  - date: '2018-04-01'
+    amending: eu:celex:32018R0172:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/172 DA COMISSÃO de 28 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Notas
+  - date: '2019-05-01'
+    amending: eu:celex:32019R0330:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/330 DA COMISSÃO de 11 de dezembro de 2018; REGULAMENTO DELEGADO (UE) 2019/1701
+      DA COMISSÃO de 23 de julho de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera ANEXO VI
+    - Altera ANEXO VII
+    - Altera Notas
+    - Adita PARTE II
+    - Adita Produtos químicos diversos dos poluentes orgânicos persistentes referidos nos anexos A e B da Convenção de Estocolmo
+      sobre poluentes orgânicos persistentes, nos termos da mesma Convenção
+    - Adita Lista das Partes na Convenção que exigem informações sobre os movimentos em trânsito de produtos químicos sujeitos
+      ao procedimento PIC
+    - Adita (a que se refere o artigo 16.º)
+    - Adita Quadro de correspondência
+  - date: '2020-09-01'
+    amending: eu:celex:32020R1068:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1068 DA COMISSÃO de 15 de maio de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Produtos químicos diversos dos poluentes orgânicos persistentes referidos nos anexos A e B da Convenção de Estocolmo
+      sobre poluentes orgânicos persistentes, nos termos da mesma Convenção
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: eu:celex:32022R0643:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/643 DA COMISSÃO de 10 de fevereiro de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Notas
+    - Suprime PARTE II
+    - Suprime Produtos químicos diversos dos poluentes orgânicos persistentes referidos nos anexos A e B da Convenção de Estocolmo
+      sobre poluentes orgânicos persistentes, nos termos da mesma Convenção
+  - date: '2023-11-01'
+    amending: eu:celex:32023R1656:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1656 DA COMISSÃO de 16 de junho de 2023
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Notas
+  - date: '2025-03-01'
+    amending: eu:celex:32024R3199:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3199 DA COMISSÃO de 15 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Notas
+  - date: '2026-10-01'
+    amending: eu:celex:32026R1278:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1278 DA COMISSÃO de 9 de junho de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 20.º — Intercâmbio de informações
+    - Altera Artigo 23.º — Atualização dos anexos
+    - Altera (a que se refere o artigo 8.º)
+    - Altera (a que se refere o artigo 11.º)
+    - Altera (a que se referem os artigos 13.º e 14.º)
+    - Altera Notas
 identifiers:
   celex: 32012R0649
   eli: http://data.europa.eu/eli/reg/2012/649/oj
@@ -50,7 +208,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/86687dae-d653-11e1-905c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/00f69255-abdc-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0649-20261001
-  retrieved_at: '2026-10-22T02:59:54Z'
+  retrieved_at: '2026-10-22T16:00:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T06:10:34.259+02:00'
 integrity:
@@ -59,9 +217,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:54Z'
-  notes: Texto consolidado 02012R0649-20261001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:00:53Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2012-649.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -265,42 +423,19 @@ relationships:
   date: '2008-07-31'
 article_structure:
   article_count: 31
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:54Z'
+  checked_at: '2026-10-22T16:00:53Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 649/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012
-
-> 02012R0649 — PT — 01.10.2026 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32014R1078) — [REGULAMENTO DELEGADO (UE) N.º 1078/2014 DA COMISSÃO de 7 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R1078) — L 297 — 1 — 15.10.2014
-- [M2](http://publications.europa.eu/resource/celex/32015R2229) — [REGULAMENTO DELEGADO (UE) 2015/2229 DA COMISSÃO de 29 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R2229) — L 317 — 13 — 3.12.2015
-- [M3](http://publications.europa.eu/resource/celex/32018R0172) — [REGULAMENTO DELEGADO (UE) 2018/172 DA COMISSÃO de 28 de novembro de 2017](http://publications.europa.eu/resource/celex/32018R0172) — L 32 — 6 — 6.2.2018
-- [M4](http://publications.europa.eu/resource/celex/32019R0330) — [REGULAMENTO DELEGADO (UE) 2019/330 DA COMISSÃO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0330) — L 59 — 1 — 27.2.2019
-- [M5](http://publications.europa.eu/resource/celex/32019R1701) — [REGULAMENTO DELEGADO (UE) 2019/1701 DA COMISSÃO de 23 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1701) — L 260 — 1 — 11.10.2019
-- [M6](http://publications.europa.eu/resource/celex/32020R1068) — [REGULAMENTO DELEGADO (UE) 2020/1068 DA COMISSÃO de 15 de maio de 2020](http://publications.europa.eu/resource/celex/32020R1068) — L 234 — 1 — 21.7.2020
-- [►M7](http://publications.europa.eu/resource/celex/32022R0643) — [REGULAMENTO DELEGADO (UE) 2022/643 DA COMISSÃO de 10 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0643) — L 118 — 14 — 20.4.2022
-- [►M8](http://publications.europa.eu/resource/celex/32023R1656) — [REGULAMENTO DELEGADO (UE) 2023/1656 DA COMISSÃO de 16 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1656) — L 210 — 1 — 25.8.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024R3199) — [REGULAMENTO DELEGADO (UE) 2024/3199 DA COMISSÃO de 15 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R3199) — L 3199 — 1 — 31.12.2024
-- [►M10](http://publications.europa.eu/resource/celex/32026R1278) — [REGULAMENTO DELEGADO (UE) 2026/1278 DA COMISSÃO de 9 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1278) — L 1278 — 1 — 12.8.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32014R1078R%2801%29) — [Rectificação, JO L 363, 18.12.2014, p. 185 (n.o 1078/2014)](http://publications.europa.eu/resource/celex/32014R1078R%2801%29)
-
-## REGULAMENTO (UE) N.º 649/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de julho de 2012
 

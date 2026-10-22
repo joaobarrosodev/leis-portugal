@@ -37,6 +37,171 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-10'
+version_history:
+  file: regulamento-ue-2010-1095.versoes.json
+  count: 8
+  source_lastmod: '2025-11-10'
+  versions:
+  - date: '2010-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-21'
+    amending: eu:celex:32011L0061:por
+    amending_title: DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 8 de Junho
+      de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 70.º — Obrigação de sigilo profissional
+    - Altera Artigo 73.º — Regime linguístico
+    - Altera Artigo 81.º — Revisão
+    - Altera Artigo 82.º — Entrada em vigor
+    - Altera Notas
+  - date: '2014-05-23'
+    amending: eu:celex:32014L0051:por
+    amending_title: Diretiva 2014/51/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 13.º — Objecções às normas técnicas de regulamentação
+    - Altera Artigo 17.º — Violação da legislação da União
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 70.º — Obrigação de sigilo profissional
+    - Altera Artigo 73.º — Regime linguístico
+    - Altera Notas
+  - date: '2020-01-01'
+    amending: eu:celex:32019R2175:por
+    amending_title: REGULAMENTO (EU) 2019/2175 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 7.º — Sede
+    - Altera Artigo 8.º — Atribuições e competências da Autoridade
+    - Altera Artigo 9.º — Atribuições relacionadas com a protecção dos consumidores e as actividades financeiras
+    - Altera Artigo 10.º — Normas técnicas de regulamentação
+    - Altera Artigo 13.º — Objecções às normas técnicas de regulamentação
+    - Altera Artigo 15.º — Normas técnicas de execução
+    - Altera Artigo 16.º — Orientações e recomendações
+    - Altera Artigo 17.º — Violação da legislação da União
+    - Altera Artigo 18.º — Acção em situações de emergência
+    - Altera Artigo 19.º — Resolução de diferendos entre autoridades competentes em situações transfronteiriças
+    - Altera Artigo 21.º — Colégios de autoridades de supervisão
+    - Altera Artigo 23.º — Identificação e medição do risco sistémico
+    - Altera Artigo 27.º — Sistema europeu de dispositivos de resolução e mecanismos de financiamento
+    - Altera Artigo 29.º — Cultura comum de supervisão
+    - Altera Artigo 31.º — Função de coordenação
+    - Altera Artigo 36.º — Relações com o ESRB
+    - Altera Artigo 37.º — Grupo de Interessados do Sector dos Valores Mobiliários e dos Mercados
+    - Altera Artigo 39.º — Processo decisório
+    - Altera Artigo 40.º — Composição
+    - Altera Artigo 43.º — Competências
+    - Altera Artigo 44.º — Processo decisório
+    - Altera Artigo 45.º — Composição
+    - Altera Artigo 47.º — Competências
+    - Altera Artigo 48.º — Nomeação e competências
+    - Altera Artigo 54.º — Criação
+    - Altera Artigo 55.º — Composição
+    - Altera Artigo 56.º — Posições e medidas comuns
+    - Altera Artigo 57.º — Subcomités
+    - Altera Artigo 58.º — Composição e funcionamento
+    - Altera Artigo 59.º — Independência e imparcialidade
+    - Altera Artigo 60.º — Recursos das decisões
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 63.º — Elaboração do orçamento
+    - Altera Artigo 64.º — Execução e controlo orçamentais
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Atribuições relacionadas com a protecção dos consumidores e as actividades financeiras
+    - Altera Artigo 17.º-A — Proteção dos denunciantes
+    - Altera Artigo 37.º — Grupo de Interessados do Sector dos Valores Mobiliários e dos Mercados
+    - Altera Artigo 40.º — Composição
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 70.º — Obrigação de sigilo profissional
+    - Altera Artigo 71.º — Proteção de dados
+    - Altera Artigo 73.º — Regime linguístico
+    - Altera Notas
+    - Adita Artigo 31.º-A — Intercâmbio de informações sobre a idoneidade e competência
+    - Suprime Artigo 31.º-AA — Intercâmbio de informações sobre a idoneidade e competência
+  - date: '2024-12-30'
+    amending: eu:celex:32023R1114:por
+    amending_title: M5; REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Atribuições relacionadas com a protecção dos consumidores e as actividades financeiras
+    - Altera Artigo 17.º-A — Proteção dos denunciantes
+    - Altera Artigo 29.º — Cultura comum de supervisão
+    - Altera Artigo 37.º — Grupo de Interessados do Sector dos Valores Mobiliários e dos Mercados
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 70.º — Obrigação de sigilo profissional
+    - Altera Artigo 71.º — Proteção de dados
+    - Altera Artigo 73.º — Regime linguístico
+    - Altera Notas
+  - date: '2025-07-01'
+    amending: eu:celex:32024R1620:por
+    amending_title: REGULAMENTO (UE) 2024/1620 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Atribuições relacionadas com a protecção dos consumidores e as actividades financeiras
+    - Altera Artigo 17.º-A — Proteção dos denunciantes
+    - Altera Artigo 37.º — Grupo de Interessados do Sector dos Valores Mobiliários e dos Mercados
+    - Altera Artigo 40.º — Composição
+    - Altera Artigo 54.º — Criação
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 70.º — Obrigação de sigilo profissional
+    - Altera Artigo 71.º — Proteção de dados
+    - Altera Artigo 73.º — Regime linguístico
+    - Altera Notas
+  - date: '2025-11-10'
+    amending: eu:celex:32025R2088:por
+    amending_title: REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025
+    changes:
+    - Altera Artigo 1.º — Criação e âmbito de actuação
+    - Altera Artigo 2.º — Sistema Europeu de Supervisão Financeira
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Atribuições relacionadas com a protecção dos consumidores e as actividades financeiras
+    - Altera Artigo 16.º-A — Pareceres
+    - Altera Artigo 17.º-A — Proteção dos denunciantes
+    - Altera Artigo 29.º — Cultura comum de supervisão
+    - Altera Artigo 30.º — Avaliações entre pares das autoridades competentes
+    - Altera Artigo 35.º — Recolha de informação
+    - Altera Artigo 37.º — Grupo de Interessados do Sector dos Valores Mobiliários e dos Mercados
+    - Altera Artigo 40.º — Composição
+    - Altera Artigo 54.º — Criação
+    - Altera Artigo 62.º — Orçamento da Autoridade
+    - Altera Artigo 65.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 70.º — Obrigação de sigilo profissional
+    - Altera Artigo 71.º — Proteção de dados
+    - Altera Artigo 73.º — Regime linguístico
+    - Altera Notas
+    - Adita Artigo 35.º-A — Intercâmbio de informações entre autoridades e com outras entidades
+    - Adita Artigo 35.º-B — Sistema integrado de comunicação de informações
 identifiers:
   celex: 32010R1095
   eli: http://data.europa.eu/eli/reg/2010/1095/oj
@@ -51,7 +216,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d6206116-a910-4ffa-b6cd-f14b1b503568.0023
   content_url: http://publications.europa.eu/resource/cellar/df88eb9a-ca42-11f0-8da2-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1095-20251110
-  retrieved_at: '2026-10-22T02:36:11Z'
+  retrieved_at: '2026-10-22T15:49:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-07T23:09:51.933+02:00'
 integrity:
@@ -60,9 +225,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:11Z'
-  notes: Texto consolidado 02010R1095-20251110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:49:43Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2010-1095.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -392,36 +557,19 @@ relationships:
   date: '2009-01-29'
 article_structure:
   article_count: 94
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:11Z'
+  checked_at: '2026-10-22T15:49:43Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 1095/2010 do Parlamento Europeu e do Conselho, de 24 de Novembro de 2010
-
-> 02010R1095 — PT — 10.11.2025 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32011L0061) — [DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0061) — L 174 — 1 — 1.7.2011
-- [►M2](http://publications.europa.eu/resource/celex/32014L0051) — [DIRETIVA 2014/51/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014L0051) — L 153 — 1 — 22.5.2014
-- [►M3](http://publications.europa.eu/resource/celex/32019R2175) — [REGULAMENTO (EU) 2019/2175 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019R2175) — L 334 — 1 — 27.12.2019
-- [►M4](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [M5](http://publications.europa.eu/resource/celex/32023R1114) — [REGULAMENTO (UE) 2023/1114 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1114) — L 150 — 40 — 9.6.2023
-- [►M6](http://publications.europa.eu/resource/celex/32024R1620) — [REGULAMENTO (UE) 2024/1620 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1620) — L 1620 — 1 — 19.6.2024
-- [►M7](http://publications.europa.eu/resource/celex/32024R2987) — [REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2987) — L 2987 — 1 — 4.12.2024
-- [►M8](http://publications.europa.eu/resource/celex/32025R2088) — [REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2088) — L 2088 — 1 — 21.10.2025
-
-## REGULAMENTO (UE) N.º 1095/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de Novembro de 2010
 

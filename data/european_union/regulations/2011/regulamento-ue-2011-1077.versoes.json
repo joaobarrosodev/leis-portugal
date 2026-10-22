@@ -1,0 +1,675 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R1077:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1077-20171229",
+ "dre_path": null,
+ "source_lastmod": "2017-12-29",
+ "versions": [
+  {
+   "date": "2015-07-20",
+   "future": false,
+   "celex": "02011R1077-20150720",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "95b78765f468870b",
+    "226c39ffd0a88dad",
+    "bcbc2e7e5beec3f7",
+    "c4343f7ce17442d4",
+    "03dbcfd7fad1cdaf",
+    "f0f8c960bfdbce9b",
+    "c59c13eff8f56ada",
+    "632453f9d69d758d",
+    "afae4fb173960b69",
+    "80da99108fe9ab18",
+    "9a7d056d72d43e61",
+    "52020ae8ddc476af",
+    "886f25c6e92faff6",
+    "1a3c37f22f7649d9",
+    "1e7a0903d2eed348",
+    "0de2c795f862c55b",
+    "0825306a22ac4cd3",
+    "1595f6f65de5cd95",
+    "3609331bcff73d47",
+    "6cc65974b3940dba",
+    "9363c9bf812656c3",
+    "5b3836b24c23bc1a",
+    "34cba7cf0f2757e1",
+    "0e5e5fb21cd42511",
+    "d6d2599903390ca3",
+    "a5e7a1639fdda3b2",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "661daf37ee12d815",
+    "773f4f8f06f9a69e",
+    "79c8c51dd9f70a6e",
+    "bbe3bbb4831531e3",
+    "559db8fcd67359b7",
+    "7db58379fdb4d0da",
+    "3f26043b8318fdda",
+    "1d82fa951ed22f7e",
+    "de901c86fc8aa1d5",
+    "faf8380dcc8eb5cc",
+    "06d83983a0ab8dcc",
+    "e295b558e77913d6",
+    "40ed6b62e188ac6f",
+    "6e028bd1d966d922",
+    "6f61ee32837ef8ec",
+    "776c1898a5122494",
+    "672e8dd1460ac56e",
+    "32255cad2eedc0bc",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "1c68f486a5c06a82",
+    "1f88fdf4b1a60c76",
+    "47846303c8f51baa",
+    "9c30769c76ac3a50"
+   ]
+  },
+  {
+   "date": "2017-12-29",
+   "future": false,
+   "celex": "02011R1077-20171229",
+   "acts": [
+    {
+     "id": "eu:celex:32017R2226:por",
+     "title": "REGULAMENTO (UE) 2017/2226 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de novembro de 2017",
+     "published": null,
+     "celex": "32017R2226"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Criação da Agência",
+    "Altera Artigo 5.º — Funções relacionadas com o Eurodac",
+    "Altera Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação",
+    "Altera Artigo 8.º — Acompanhamento de actividades de investigação",
+    "Altera Artigo 12.º — Funções do Conselho de Administração",
+    "Altera Artigo 15.º — Reuniões do Conselho de Administração",
+    "Altera Artigo 17.º — Funções e competências do Director Executivo",
+    "Altera Artigo 19.º — Grupos Consultivos",
+    "Altera Artigo 25.º — Regime linguístico",
+    "Altera Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas",
+    "Altera Notas",
+    "Adita Artigo 5.º-A — Tarefas relacionadas com o SES"
+   ],
+   "fragments": [
+    "81a1124ffb14d513",
+    "226c39ffd0a88dad",
+    "bcbc2e7e5beec3f7",
+    "055c9f3c3a215bbf",
+    "03dbcfd7fad1cdaf",
+    "f0f8c960bfdbce9b",
+    "c59c13eff8f56ada",
+    "632453f9d69d758d",
+    "afae4fb173960b69",
+    "84f26f70f8bb5699",
+    "cc9610a93a91b1a2",
+    "9a7d056d72d43e61",
+    "f5fed17327682544",
+    "1bce577a54b1aa7a",
+    "1a3c37f22f7649d9",
+    "1e7a0903d2eed348",
+    "0de2c795f862c55b",
+    "0825306a22ac4cd3",
+    "1595f6f65de5cd95",
+    "2c2a6132d2b0a02b",
+    "6cc65974b3940dba",
+    "9363c9bf812656c3",
+    "c69a4b5a2b9579fb",
+    "34cba7cf0f2757e1",
+    "4b1911d6125f65af",
+    "d6d2599903390ca3",
+    "f639efc8fed494ce",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "661daf37ee12d815",
+    "773f4f8f06f9a69e",
+    "79c8c51dd9f70a6e",
+    "bbe3bbb4831531e3",
+    "559db8fcd67359b7",
+    "38cf20f14e5b14b8",
+    "3f26043b8318fdda",
+    "1d82fa951ed22f7e",
+    "de901c86fc8aa1d5",
+    "9600133c2cfdcb43",
+    "06d83983a0ab8dcc",
+    "e295b558e77913d6",
+    "40ed6b62e188ac6f",
+    "6e028bd1d966d922",
+    "6f61ee32837ef8ec",
+    "776c1898a5122494",
+    "672e8dd1460ac56e",
+    "32255cad2eedc0bc",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "1c68f486a5c06a82",
+    "1f88fdf4b1a60c76",
+    "47846303c8f51baa",
+    "7bcdba01271741d0"
+   ]
+  }
+ ],
+ "fragments": {
+  "95b78765f468870b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Outubro de 2011\n\nque cria uma Agência europeia para a gestão operacional de sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 74.º, o artigo 77.º, n.º 2, alíneas a) e b), o artigo 78.º, n.º 2, alínea e), o artigo 79.º, n.º 2, alínea c), o artigo 82.º, n.º 1, alínea d), o artigo 85.º, n.º 1, o artigo 87.º, n.º 2, alínea a) e o artigo 88.º, n.º 2,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nDeliberando de acordo com o processo legislativo ordinário ([^1^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0001)),\n\n(1) A segunda geração do Sistema de Informação Schengen (SIS II) foi estabelecida pelo Regulamento (CE) n.º 1987/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006, relativo ao estabelecimento, funcionamento e utilização do Sistema de Informação Schengen de segunda geração (SIS II) ([^2^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0002)) e pela Decisão 2007/533/JAI do Conselho, de 12 de Junho de 2007, relativa ao estabelecimento, funcionamento e utilização do Sistema de Informação Schengen de segunda geração (SIS II) ([^3^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0003)). O Regulamento (CE) n.º 1987/2006 e a Decisão 2007/533/JAI estabelecem que a Comissão é responsável, durante um período transitório, pela gestão operacional do SIS II Central. No termo desse período transitório, uma autoridade de gestão deve ser encarregada da gestão operacional do SIS II Central e de determinados aspectos da infra-estrutura de comunicação.\n\n(2) O Sistema de Informação sobre Vistos (VIS) foi estabelecido pela Decisão 2004/512/CE do Conselho, de 8 de Junho de 2004, que estabelece o Sistema de Informação sobre Vistos (VIS) ([^4^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0004)). O Regulamento (CE) n.º 767/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, relativo ao Sistema de Informação sobre Vistos (VIS) e ao intercâmbio de dados entre os Estados-Membros sobre os vistos de curta duração (Regulamento VIS) ([^5^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0005)) estabelece que a Comissão é responsável, durante um período transitório, pela gestão operacional do VIS. No termo desse período transitório, uma autoridade de gestão deve ser encarregada da gestão operacional do VIS Central e das interfaces nacionais e de determinados aspectos da infra-estrutura de comunicação.\n\n(3) O Eurodac foi estabelecido pelo Regulamento (CE) n.º 2725/2000 do Conselho, de 11 de Dezembro de 2000, relativo à criação do sistema «Eurodac» de comparação de impressões digitais para efeitos da aplicação efectiva da Convenção de Dublin ([^6^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0006)). O Regulamento (CE) n.º 407/2002 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0007)) prevê as necessárias regras de execução.\n\n(4) É necessário criar uma autoridade de gestão a fim de assegurar a gestão operacional do SIS II, do VIS e do Eurodac e de determinados aspectos da infra-estrutura de comunicação após o período transitório e, eventualmente, de outros sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça, sem prejuízo da adopção de actos normativos distintos.\n\n(5) Tendo em vista criar sinergias, é necessário confiar a gestão operacional destes sistemas informáticos de grande escala a uma entidade única, de modo a beneficiar de economias de escala, criar massa crítica e assegurar uma taxa de utilização dos recursos financeiros e humanos o mais elevada possível.\n\n(6) Nas declarações comuns que acompanham os actos normativos que regem o SIS II e o VIS, o Parlamento Europeu e o Conselho convidaram a Comissão a apresentar, na sequência de uma avaliação de impacto, as propostas legislativas necessárias para confiar a uma agência a gestão operacional a longo prazo do SIS II Central e de determinados aspectos da infra-estrutura de comunicação e do VIS.\n\n(7) Tendo em conta que deverá ter autonomia jurídica, administrativa e financeira, a autoridade de gestão deverá ser criada sob a forma de uma agência de regulação («Agência») com personalidade jurídica. Tal como acordado, a sede da Agência deverá ser em Tallin (Estónia). No entanto, como as funções relacionadas com o desenvolvimento técnico e a preparação da gestão operacional do SIS II e do VIS são executadas em Estrasburgo (França), e como as instalações de salvaguarda destes sistemas informáticos estão situadas em Sankt Johann im Pongau (Áustria), assim deverá continuar a ser. Estas duas instalações deverão também ser os locais, respectivamente, onde as funções relacionadas com o desenvolvimento técnico e a gestão operacional do Eurodac deverão ser executadas e onde as instalações de salvaguarda do Eurodac deverão ficar situadas. Estas duas instalações deverão também ser os locais, respectivamente, do desenvolvimento técnico e da gestão operacional de outros sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça e das instalações de salvaguarda capazes de assegurar o funcionamento de um sistema informático de grande escala no caso de este falhar, se tal estiver previsto no acto normativo aplicável.\n\n(8) Por conseguinte, as funções da autoridade de gestão previstas nos Regulamentos (CE) n.º 1987/2006 e (CE) n.º 767/2008 deverão ser asseguradas pela Agência. Essas funções incluem novos desenvolvimentos técnicos.\n\n(9) Nos termos dos Regulamentos (CE) n.º 2725/2000 e (CE) n.º 407/2002, foi criada, no âmbito da Comissão, uma Unidade Central responsável pelo funcionamento da base de dados central do Eurodac e de outras funções com ele relacionadas. A fim de explorar sinergias, a Agência deverá, a partir da data em que assume as suas funções, substituir a Comissão nas funções que esta desempenha relativamente à gestão operacional do Eurodac, inclusive no que respeita a certas funções relacionadas com a infra-estrutura de comunicação.\n\n(10) A atribuição principal da Agência deverá ser o desempenho das funções de gestão operacional do SIS II, do VIS e do Eurodac e, caso venha a ser decidido, de outros sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça. A Agência deverá também ser responsável pelas medidas técnicas decorrentes das funções que lhe foram atribuídas, que não sejam de natureza normativa. Tais responsabilidades não deverão afectar as funções normativas atribuídas à Comissão em exclusivo ou à Comissão assistida por um Comité pelos respectivos actos normativos que regulam os sistemas geridos operacionalmente pela Agência.\n\n(11) Além disso, a Agência deverá executar funções relacionadas com a formação sobre a utilização técnica do SIS II, do VIS e do Eurodac e de outros sistemas informáticos de grande escala que possam vir a ser-lhe confiados.\n\n(12) Acresce que poderá igualmente ser atribuída à Agência a responsabilidade pela preparação, pelo desenvolvimento e pela gestão operacional de outros sistemas informáticos de grande escala, em aplicação dos artigos 67.º a 89.º do Tratado sobre o Funcionamento da União Europeia (TFUE). Tais funções só deverão ser confiadas à Agência através de actos normativos subsequentes e distintos, precedidos de uma avaliação do impacto.\n\n(13) A Agência deverá ser responsável pelo acompanhamento das actividades de investigação e pela realização de projectos-piloto no domínio dos sistemas informáticos de grande escala em aplicação dos artigos 67.º a 89.º do TFUE, de acordo com o artigo 49.º, n.º 6, alínea a), do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades ([^8^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0008)), a pedido específico e preciso da Comissão. Quando estiver encarregada da realização de um projecto-piloto, a Agência deverá prestar especial atenção à Estratégia de Gestão de Informação da União Europeia.\n\n(14) O facto de confiar à Agência a gestão operacional de sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça não deverá afectar as regras específicas aplicáveis a esses sistemas. Em especial, são plenamente aplicáveis as regras específicas que regulam a finalidade, os direitos de acesso, as medidas de segurança e outros requisitos de protecção dos dados para cada um dos sistemas informáticos de grande escala cuja gestão operacional é confiada à Agência.\n\n(15) A fim de controlar eficazmente o funcionamento da Agência, os Estados-Membros e a Comissão deverão estar representados no Conselho de Administração. Deverão ser atribuídas ao Conselho de Administração as competências necessárias, nomeadamente, para adoptar o programa de trabalho anual, desempenhar as suas funções no que se refere ao orçamento da Agência, adoptar as regras financeiras aplicáveis à Agência, nomear um Director Executivo e estabelecer procedimentos de tomada de decisão pelo Director Executivo relacionados com as funções operacionais da Agência.\n\n(16) No que respeita ao SIS II, o Serviço Europeu de Polícia (Europol) e a Unidade Europeia de Cooperação Judiciária (Eurojust), ambos com direito de acesso e de consulta directa dos dados inseridos no SIS II em aplicação da Decisão 2007/533/JAI, deverão ter o estatuto de observador nas reuniões do Conselho de Administração quando figure na ordem de trabalhos qualquer questão relacionada com a aplicação dessa decisão. A Europol e a Eurojust deverão poder nomear cada uma um representante para o Grupo Consultivo do SIS II criado nos termos do presente regulamento.\n\n(17) No que respeita ao VIS, a Europol deverá ter o estatuto de observador nas reuniões do Conselho de Administração quando figure na ordem de trabalhos qualquer questão relacionada com a aplicação da Decisão 2008/633/JAI do Conselho, de 23 de Junho de 2008, relativa ao acesso para consulta ao Sistema de Informação sobre Vistos (VIS) por parte das autoridades designadas dos Estados-Membros e por parte da Europol para efeitos de prevenção, detecção e investigação de infracções terroristas e outras infracções penais graves ([^9^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0009)). A Europol deverá poder nomear um representante para o Grupo Consultivo do VIS criado nos termos do presente regulamento.\n\n(18) Os Estados-Membros deverão ter direito de voto no Conselho de Administração da Agência no que respeita a um sistema informático de grande escala desde que estejam vinculados, nos termos do Direito da União, por qualquer acto normativo que regule o desenvolvimento, a criação, o funcionamento e a utilização desse mesmo sistema. A Dinamarca deverá ter também direito de voto no que respeita a um sistema informático de grande escala, se decidir, nos termos do artigo 4.º do Protocolo (n.º 22) relativo à posição da Dinamarca, anexo ao Tratado de União Europeia (TUE) e ao TFUE (Protocolo relativo à posição da Dinamarca), proceder à transposição para o seu direito interno do acto normativo que regula o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala.\n\n(19) Os Estados-Membros deverão nomear um membro para o Grupo consultivo respeitante a um sistema informático de grande escala, caso estejam vinculados, nos termos do Direito da União, por qualquer acto normativo que regule o desenvolvimento, a criação, o funcionamento e a utilização desse mesmo sistema. A Dinamarca deverá, além disso, nomear um membro para o Grupo Consultivo respeitante a um sistema informático de grande escala, se decidir, nos termos do artigo 4.º do Protocolo relativo à posição da Dinamarca, proceder à transposição para o seu direito interno do acto normativo que regula o desenvolvimento, a criação, o funcionamento e a utilização desse mesmo sistema informático.\n\n(20) A fim de assegurar a sua plena autonomia e independência, deverá ser atribuído à Agência um orçamento próprio, financiado pelo orçamento geral da União Europeia. O financiamento da Agência deverá ser sujeito ao acordo da autoridade orçamental, nos termos do n.º 47 do Acordo Interinstitucional, de 17 de Maio de 2006, entre o Parlamento Europeu, o Conselho e a Comissão, sobre a disciplina orçamental e a boa gestão financeira ([^10^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0010)). Os processos orçamental e de quitação da União deverão ser aplicáveis. A verificação das contas e da legalidade e da regularidade das transacções subjacentes deverá ser realizada pelo Tribunal de Contas.\n\n(21) No âmbito das suas competências respectivas, a Agência deverá cooperar com outras agências da União, nomeadamente, as criadas no espaço de liberdade, segurança e justiça, e, em particular, a Agência dos Direitos Fundamentais da União Europeia. Deverá também, sempre que necessário, consultar e dar seguimento às recomendações da Agência Europeia para a Segurança das Redes e da Informação no que respeita à segurança da rede.\n\n(22) Ao assegurar o desenvolvimento e a gestão operacional de sistemas informáticos de grande escala, a Agência deverá respeitar as normas europeias e internacionais, tendo em conta as exigências profissionais mais elevadas, em especial a Estratégia de Gestão de Informação da União Europeia.\n\n(23) O Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([^11^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0011)) deverá aplicar-se ao tratamento, pela Agência, de dados pessoais. A Autoridade Europeia para a Protecção de Dados deverá poder obter da Agência acesso a todas as informações necessárias aos seus inquéritos. Nos termos do artigo 28.º do Regulamento (CE) n.º 45/2001, a Comissão consultou a Autoridade Europeia para a Protecção de Dados, que emitiu o seu parecer em 7 de Dezembro de 2009.\n\n(24) A fim de garantir um funcionamento transparente da Agência, o Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^12^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0012)) deverá aplicar-se à Agência. As actividades da agência deverão estar sujeitas à supervisão do Provedor de Justiça Europeu nos termos do artigo 228.º do TFUE.\n\n(25) O Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^13^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0013)) deverá aplicar-se à Agência, a qual deverá aderir ao Acordo Interinstitucional de 25 de Maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^14^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0014)).\n\n(26) Os Estados-Membros de acolhimento da Agência deverão assegurar as melhores condições possíveis para o seu bom funcionamento, incluindo por exemplo a oferta de uma escolaridade multilingue e com vocação europeia e ligações de transportes adequadas.\n\n(27) A fim de assegurar condições de trabalho abertas e transparentes, bem como a igualdade de tratamento do pessoal, o Estatuto dos Funcionários da União Europeia (a seguir designado «Estatuto dos Funcionários») e o Regime Aplicável aos outros Agentes da União Europeia (a seguir designado «Regime Aplicável aos outros Agentes») estabelecidos no Regulamento (CEE, Euratom e CECA) n.º 259/68 ([^15^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0015)) (a seguir conjuntamente designados «Estatuto») deverão aplicar-se ao pessoal e ao Director Executivo da Agência, incluindo as regras relativas ao sigilo profissional ou qualquer outra obrigação de confidencialidade equivalente.\n\n(28) A Agência é um organismo criado pela União na acepção do artigo 185.º, n.º 1, do Regulamento (CE, Euratom) n.º 1605/2002 e deverá adoptar as suas regras financeiras em conformidade.\n\n(29) Deverá aplicar-se à Agência o Regulamento (CE, Euratom) n.º 2343/2002 da Comissão ([^16^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0016)), que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n(30) Atendendo a que os objectivos do presente regulamento, a saber, a criação de uma Agência a nível da União, responsável pela gestão operacional e, conforme adequado, pelo desenvolvimento de sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão e aos efeitos da acção, ser mais bem realizados a nível da União, esta pode tomar medidas em conformidade com o princípio da subsidiariedade, consagrado no artigo 5.º do TUE. Em conformidade com o princípio da proporcionalidade, consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar os referidos objectivos.\n\n(31) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos na Carta dos Direitos Fundamentais da União Europeia, nos termos do artigo 6.º, n.º 1 do TUE.\n\n(32) Nos termos dos artigos 1.º e 2.º do Protocolo relativo à posição da Dinamarca, a Dinamarca não participa na adopção do presente regulamento e não fica a ele vinculada nem sujeita à sua aplicação. Uma vez que o presente regulamento, na medida em que diga respeito ao SIS II e ao VIS, desenvolve o acervo de Schengen, a Dinamarca decide, nos termos do artigo 4.º do referido Protocolo e no prazo de seis meses após a adopção do presente regulamento, se procede à sua transposição para o direito nacional. Nos termos do artigo 3.º do Acordo entre a Comunidade Europeia e o Reino da Dinamarca relativo aos critérios e mecanismos de determinação do Estado responsável pela análise de um pedido de asilo apresentado na Dinamarca ou em qualquer outro Estado-Membro da União Europeia e ao sistema «Eurodac» de comparação de impressões digitais para efeitos da aplicação efectiva da Convenção de Dublin ([^17^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0017)), a Dinamarca notifica a Comissão da sua decisão de aplicar ou não o conteúdo do presente regulamento, na medida em que este diga respeito ao Eurodac.\n\n(33) Na medida em que as suas disposições digam respeito ao SIS II, tal como regido pela Decisão 2007/533/JAI, o Reino Unido participa no presente regulamento, nos termos do artigo 5.º, n.º 1, do Protocolo (n.º 19) relativo ao acervo de Schengen integrado no âmbito da União Europeia, anexo ao TUE e ao TFUE («Protocolo relativo ao acervo de Schengen»), e do artigo 8.º, n.º 2, da Decisão 2000/365/CE do Conselho, de 29 de Maio de 2000, sobre o pedido do Reino Unido da Grã-Bretanha e da Irlanda do Norte para participar em algumas disposições do acervo de Schengen ([^18^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0018)). Na medida em que as suas disposições digam respeito ao SIS II, tal como regido pelo Regulamento (CE) n.º 1987/2006, e ao VIS, que constituem desenvolvimentos das disposições do acervo de Schengen em que o Reino Unido não participa, nos termos da Decisão 2000/365/CE, o Reino Unido pediu, por ofício de 5 de Outubro de 2010 dirigido ao Presidente do Conselho, autorização para participar na adopção do presente regulamento, nos termos do artigo 4.º do Protocolo relativo ao acervo de Schengen. Por força do artigo 1.º da Decisão 2010/779/UE do Conselho, de 14 de Dezembro de 2010, sobre o pedido do Reino Unido da Grã-Bretanha e da Irlanda do Norte para participar em algumas das disposições do acervo de Schengen no que respeita à criação de uma Agência Europeia para a gestão operacional de sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça ([^19^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0019)), o Reino Unido foi autorizado a participar no presente regulamento. Além disso, na medida em que as suas disposições digam respeito ao Eurodac, o Reino Unido notificou por ofício de 23 de Setembro de 2009 dirigido ao Presidente do Conselho, a sua intenção de participar na adopção e aplicação do presente regulamento, nos termos do artigo 3.º do Protocolo (n.º 21) relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça anexo ao TUE e ao TFUE («Protocolo relativo à posição do Reino Unido e da Irlanda»). O Reino Unido participa, por conseguinte, na adopção do presente regulamento e fica por ele vinculado e sujeito à sua aplicação.\n\n(34) Na medida em que as suas disposições digam respeito ao SIS II, tal como regido pelo Regulamento (CE) n.º 1987/2006, e ao VIS, o presente regulamento constitui um desenvolvimento das disposições do acervo de Schengen em que a Irlanda não participa, nos termos da Decisão 2002/192/CE do Conselho, de 28 de Fevereiro de 2002, sobre o pedido da Irlanda para participar em algumas das disposições do acervo de Schengen ([^20^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0020)). A Irlanda não pediu para participar na adopção do presente regulamento, nos termos do artigo 4.º do Protocolo relativo ao acervo de Schengen. A Irlanda não participa, por conseguinte, na adopção do presente regulamento e não fica por ele vinculada nem sujeita à sua aplicação na medida em que as suas medidas desenvolvam disposições do acervo de Schengen relativas ao SIS II, tal como regido pelo Regulamento (CE) n.º 1987/2006, e ao VIS. Na medida em que as suas disposições digam respeito ao Eurodac, nos termos dos artigos 1.º e 2.º do Protocolo relativo à posição do Reino Unido e da Irlanda, a Irlanda não participa na adopção do presente regulamento e não fica a ele vinculada nem sujeita à sua aplicação. Dado não ser possível, nestas circunstâncias, assegurar que o presente regulamento se aplique na íntegra à Irlanda, tal como requerido pelo artigo 288.º do TFUE, a Irlanda não participa na adopção do presente regulamento e não fica por ele vinculada nem sujeita à sua aplicação, sem prejuízo dos direitos que lhe assistem nos termos dos Protocolos acima referidos.\n\n(35) Em relação à Islândia e à Noruega, o presente regulamento, na medida em que diga respeito ao SIS II e ao VIS, constitui um desenvolvimento das disposições do acervo de Schengen na acepção do Acordo celebrado pelo Conselho da União Europeia com a República da Islândia e o Reino da Noruega relativo à associação destes Estados à execução, à aplicação e ao desenvolvimento do acervo de Schengen ([^21^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0021)), que se insere no domínio referido no artigo 1.º, pontos A, B e G, da Decisão 1999/437/CE do Conselho, de 17 de Maio de 1999, relativa a determinadas regras de aplicação desse Acordo ([^22^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0022)). No que diz respeito ao Eurodac, o presente regulamento constitui uma nova medida relativa ao Eurodac na acepção do Acordo entre a Comunidade Europeia e a República da Islândia e o Reino da Noruega relativo aos critérios e mecanismos de determinação do Estado responsável pela análise de um pedido de asilo apresentado num Estado-Membro, na Islândia ou na Noruega ([^23^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0023)). Por conseguinte, sob reserva da sua decisão de o transpor para o respectivo direito interno, as delegações da República da Islândia e do Reino da Noruega deverão participar no Conselho de Administração da Agência. A fim de determinar as regras precisas, como por exemplo o direito de voto, que permitirão a participação da República da Islândia e do Reino da Noruega nas actividades da Agência, deverá ser celebrado um acordo complementar entre a União e estes Estados.\n\n(36) Em relação à Suíça, o presente regulamento constitui, na medida em que diga respeito ao SIS II e ao VIS, um desenvolvimento das disposições do acervo de Schengen na acepção do Acordo entre a União Europeia, a Comunidade Europeia e a Confederação Suíça relativo à associação da Confederação Suíça à execução, à aplicação e ao desenvolvimento do acervo de Schengen ([^24^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0024)), que se insere no domínio referido no artigo 1.º, pontos A, B e G, da Decisão 1999/437/CE, conjugado com o artigo 3.º da Decisão 2008/146/CE do Conselho ([^25^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0025)). No que diz respeito ao Eurodac, o presente regulamento constitui uma nova medida relativa ao Eurodac na acepção do Acordo entre a Comunidade Europeia e a Confederação Suíça relativo aos critérios e mecanismos de determinação do Estado responsável pela análise de um pedido de asilo apresentado num Estado-Membro ou na Suíça ([^26^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0026)). Por conseguinte, sob reserva da sua decisão de o transpor para o respectivo direito interno, a delegação da Confederação Suíça deverá participar no Conselho de Administração da Agência. A fim de determinar regras precisas, como por exemplo o direito de voto, que permitirão a participação da Confederação Suíça nas actividades da Agência, deverá ser celebrado um acordo complementar entre a União e a Confederação Suíça.\n\n(37) Em relação ao Liechtenstein, o presente regulamento constitui, na medida em que diga respeito ao SIS II e ao VIS, um desenvolvimento das disposições do acervo de Schengen na acepção do Protocolo entre a União Europeia, a Comunidade Europeia, a Confederação Suíça e o Principado do Liechtenstein relativo à adesão do Principado do Liechtenstein ao Acordo entre a União Europeia, a Comunidade Europeia e a Confederação Suíça relativo à associação da Confederação Suíça à execução, à aplicação e ao desenvolvimento do acervo de Schengen ([^27^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0027)), que se insere no domínio referido no artigo 1.º, pontos A, B e G, da Decisão 1999/437/CE, conjugado com o artigo 3.º da Decisão 2011/350/UE do Conselho ([^28^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0028)). No que diz respeito ao Eurodac, o presente regulamento constitui uma nova medida relativa ao Eurodac na acepção do Protocolo entre a Comunidade Europeia, a Confederação Suíça e o Principado do Liechtenstein relativo à adesão do Principado do Liechtenstein ao Acordo entre a Comunidade Europeia e a Confederação Suíça relativo aos critérios e mecanismos de determinação do Estado responsável pela análise de um pedido de asilo apresentado num Estado-Membro ou na Suíça ([^29^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0029)). Por conseguinte, a delegação do Principado do Liechtenstein deverá participar no Conselho de Administração da Agência. A fim de determinar regras precisas, como por exemplo o direito de voto, que permitirão a participação do Principado do Liechtenstein nas actividades da Agência, deverá ser celebrado um acordo complementar entre a União e o Principado do Liechtenstein,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "bcbc2e7e5beec3f7": {
+   "fragment_id": "OBJECTO",
+   "type": "divisao",
+   "heading": "OBJECTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO"
+  },
+  "c4343f7ce17442d4": {
+   "fragment_id": "Artigo 1.º — Criação da Agência",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação da Agência\n\n1. É criada uma Agência europeia para a gestão operacional dos sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça (a seguir designada a «Agência»).\n\n2. A Agência é responsável pela gestão operacional do Sistema de Informação de Schengen de segunda geração (SIS II), do Sistema de Informação sobre Vistos (VIS) e do Eurodac.\n\n3. À Agência pode ser igualmente conferida a responsabilidade pela preparação, pelo desenvolvimento e pela gestão operacional de outros sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça além dos referidos no n.º 2, mas apenas se tal estiver previsto nos actos normativos relevantes, com base nos artigos 67.º a 89.º do TFUE, tendo em conta, quanto adequado, a evolução das actividades de investigação referida no artigo 8.º do presente regulamento e os resultados de projectos-piloto referidos no artigo 9.º do presente regulamento.\n\n4. A gestão operacional compreende todas as funções necessárias para manter os sistemas informáticos de grande escala em funcionamento, de acordo com as disposições específicas aplicáveis a cada um desses sistemas, incluindo a responsabilidade pela infra-estrutura de comunicação por eles utilizada. Estes sistemas informáticos de grande escala não procedem ao intercâmbio de dados nem permitem a partilha de informações e conhecimentos, a menos que tal esteja previsto numa base jurídica específica."
+  },
+  "03dbcfd7fad1cdaf": {
+   "fragment_id": "Artigo 2.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nSem prejuízo das responsabilidades respectivas da Comissão e dos Estados-Membros ao abrigo dos actos normativos que regem os sistemas informáticos de grande escala, a Agência assegura:\n\na) O funcionamento eficaz, seguro e ininterrupto dos sistemas informáticos de grande escala;\n\nb) A gestão eficiente e financeiramente responsável dos sistemas informáticos de grande escala;\n\nc) Uma qualidade suficientemente elevada do serviço prestado aos utentes dos sistemas informáticos de grande escala;\n\nd) A continuidade e um serviço ininterrupto;\n\ne) Um nível elevado de protecção de dados, de acordo com as regras aplicáveis, incluindo as disposições específicas para cada sistema informático de grande escala;\n\nf) Um nível apropriado de segurança de dados e instalações, de acordo com as regras aplicáveis, incluindo disposições específicas para cada sistema informático de grande escala; e\n\ng) A utilização de uma estrutura adequada de gestão de projecto para o desenvolvimento eficiente de sistemas informáticos de grande escala."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "c59c13eff8f56ada": {
+   "fragment_id": "FUNÇÕES",
+   "type": "divisao",
+   "heading": "FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUNÇÕES"
+  },
+  "632453f9d69d758d": {
+   "fragment_id": "Artigo 3.º — Funções relacionadas com o SIS II",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Funções relacionadas com o SIS II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funções relacionadas com o SIS II\n\nEm relação ao SIS II, a Agência desempenha:\n\na) As funções atribuídas à autoridade de gestão pelo Regulamento (CE) n.º 1987/2006 e pela Decisão 2007/533/JAI; e\n\nb) As funções relacionadas com a formação para a utilização técnica do SIS II, sobretudo do pessoal SIRENE (Sirene – Informações Suplementares pedidas nas Entradas Nacionais), e com a formação dos peritos para os aspectos técnicos do SIS II no quadro da avaliação Schengen."
+  },
+  "afae4fb173960b69": {
+   "fragment_id": "Artigo 4.º — Funções relacionadas com o VIS",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Funções relacionadas com o VIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Funções relacionadas com o VIS\n\nEm relação ao VIS, a Agência desempenha:\n\na) As funções atribuídas à autoridade de gestão pelo Regulamento (CE) n.º 767/2008 e pela Decisão 2008/633/JAI; e\n\nb) As funções relacionadas com a formação para a utilização técnica do VIS."
+  },
+  "80da99108fe9ab18": {
+   "fragment_id": "Artigo 5.º — Funções relacionadas com o Eurodac",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Funções relacionadas com o Eurodac",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funções relacionadas com o Eurodac\n\nEm relação ao Eurodac, a Agência desempenha:\n\na) As funções atribuídas à Agência pelo Regulamento (UE) n.º 603/2013 do Parlamento Europeu e do Conselho, de 26 de Junho de 2013, relativo à criação do sistema «Eurodac» de comparação de impressões digitais para efeitos da aplicação efetiva do Regulamento (UE) n.º 604/2013 que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de proteção internacional apresentado num dos Estados-Membros por um nacional de um país terceiro ou um apátrida, e de pedidos de comparação com os dados Eurodac apresentados pelas autoridades responsáveis dos Estados-Membros e pela Europol para fins de aplicação da lei ([^30^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0030)); e\n\nb) As funções relacionadas com a formação para a utilização técnica do Eurodac."
+  },
+  "9a7d056d72d43e61": {
+   "fragment_id": "Artigo 6.º — Funções relacionadas com a preparação, o desenvolvimento e a gestão operacional de outros sistemas informáticos de grande escala",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Funções relacionadas com a preparação, o desenvolvimento e a gestão operacional de outros sistemas informáticos de grande escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções relacionadas com a preparação, o desenvolvimento e a gestão operacional de outros sistemas informáticos de grande escala\n\nQuando esteja encarregada da preparação, do desenvolvimento e da gestão operacional de outros sistemas informáticos de grande escala referidos no artigo 1, n.º 3, a Agência desempenha as funções relacionadas com a formação para a utilização técnica desses sistemas, consoante adequado."
+  },
+  "52020ae8ddc476af": {
+   "fragment_id": "Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação\n\n1. A Agência desempenha as funções relacionadas com a infra-estrutura de comunicação atribuídas à autoridade de gestão pelos actos normativos que regem o desenvolvimento, a criação, o funcionamento e a utilização dos sistemas informáticos de grande escala a que se refere o artigo 1, n.º 2.\n\n2. De acordo com os actos normativos referidos no n.º 1, as funções relacionadas com a infra-estrutura de comunicação (incluindo a gestão operacional e a segurança) são repartidas entre a Agência e a Comissão. A fim de assegurar a coerência entre o exercício das responsabilidades respectivas, são acordadas entre a Agência e a Comissão disposições operacionais que ficam consignadas num Memorando de Entendimento.\n\n3. A infra-estrutura de comunicação deve ser adequadamente gerida e controlada, a fim de a proteger contra as ameaças e garantir a sua segurança e a dos sistemas informáticos de grande escala, incluindo a dos dados por ela transmitidos.\n\n4. São adoptadas medidas adequadas, incluindo planos de segurança, em especial por meio de técnicas de cifragem adequadas, para impedir a leitura, cópia, alteração ou supressão de dados pessoais de forma não autorizada durante a sua transmissão ou o transporte de suportes de dados. Não podem circular na infra-estrutura de comunicação informações operacionais relacionadas com o sistema que não estejam cifradas.\n\n5. As funções relacionadas com a gestão operacional da infra-estrutura de comunicação podem ser confiadas a entidades ou organismos externos de direito privado de acordo com o Regulamento (CE, Euratom) n.º 1605/2002. Nesse caso, o fornecedor da rede fica vinculado às medidas de segurança referidas no n.º 4 e não tem de forma alguma acesso aos dados operacionais do SIS II, do VIS e do Eurodac nem aos intercâmbios Sirene relativos ao SIS II.\n\n6. Sem prejuízo dos contratos existentes no que respeita à rede SIS II, VIS e Eurodac, a gestão das chaves criptográficas continua a ser da competência da Agência e não pode ser confiada a nenhuma entidade externa de direito privado."
+  },
+  "886f25c6e92faff6": {
+   "fragment_id": "Artigo 8.º — Acompanhamento de actividades de investigação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Acompanhamento de actividades de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acompanhamento de actividades de investigação\n\n1. A Agência acompanha a evolução das actividades de investigação relevantes para a gestão operacional do SIS II, do VIS, do Eurodac e de outros sistemas informáticos de grande escala.\n\n2. A Agência informa regularmente da evolução referida no n.º 1 o Parlamento Europeu, o Conselho, a Comissão e, caso se trate de questões relacionadas com a protecção de dados, a Autoridade Europeia para a Protecção de Dados."
+  },
+  "1a3c37f22f7649d9": {
+   "fragment_id": "Artigo 9.º — Projectos-piloto",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Projectos-piloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Projectos-piloto\n\n1. Unicamente a pedido específico e preciso da Comissão, que deve informar o Parlamento Europeu e o Conselho com uma antecedência de, pelo menos, três meses, e após decisão do Conselho de Administração, a Agência pode, nos termos do artigo 12.º, n.º 1, alínea l), executar os projectos-piloto a que se refere o artigo 49.º, n.º 6, alínea a), do Regulamento (CE, Euratom) n.º 1605/2002, relativos ao desenvolvimento e à gestão operacional de sistemas informáticos de grande escala em aplicação dos artigos 67.º a 89.º do TFUE.\n\nA Agência informa regularmente da evolução dos projectos-piloto referidos no primeiro parágrafo o Parlamento Europeu, o Conselho e, caso se trate de questões relacionadas com a protecção de dados, a Autoridade Europeia para a Protecção de Dados.\n\n2. As dotações financeiras para projectos-piloto, solicitadas pela Comissão, só podem ser inscritas no orçamento para dois exercícios sucessivos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0de2c795f862c55b": {
+   "fragment_id": "ESTRUTURA E ORGANIZAÇÃO",
+   "type": "divisao",
+   "heading": "ESTRUTURA E ORGANIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA E ORGANIZAÇÃO"
+  },
+  "0825306a22ac4cd3": {
+   "fragment_id": "Artigo 10.º — Estatuto jurídico",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Estatuto jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estatuto jurídico\n\n1. A Agência é um organismo da União com personalidade jurídica.\n\n2. Em cada um dos Estados-Membros, a Agência goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pelo respectivo direito interno. Pode designadamente adquirir e alienar bens móveis e imóveis e ser parte em juízo. Pode igualmente celebrar acordos relativos à sede da Agência e às instalações técnicas estabelecidas nos termos do n.º 4 com os Estados-Membros em cujos territórios se situam a sede, as instalações técnicas e as instalações de salvaguarda («Estados-Membros de acolhimento»).\n\n3. A Agência é representada pelo seu Director Executivo.\n\n4. A Agência tem sede em Tallin, na Estónia.\n\nAs funções relacionadas com o desenvolvimento e a gestão operacional referidas no artigo 1.º, n.º 3, e nos artigos 3.º, 4.º, 5.º e 7.º são executadas em Estrasburgo, França.\n\nSão estabelecidas em Sankt Johann im Pongau, Áustria, instalações de salvaguarda capazes de assegurar o funcionamento de um sistema informático de grande escala no caso de este falhar, se tais instalações de salvaguarda estiverem previstas no acto normativo que rege o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala."
+  },
+  "1595f6f65de5cd95": {
+   "fragment_id": "Artigo 11.º — Estrutura",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estrutura\n\n1. A estrutura administrativa e de gestão da Agência é composta por:\n\na) Um Conselho de Administração;\n\nb) Um Director Executivo;\n\nc) Grupos Consultivos.\n\n2. A estrutura da Agência inclui ainda:\n\na) Um responsável pela protecção de dados;\n\nb) Um responsável pela segurança;\n\nc) Um Contabilista."
+  },
+  "3609331bcff73d47": {
+   "fragment_id": "Artigo 12.º — Funções do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Funções do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funções do Conselho de Administração\n\n1. A fim de garantir que a Agência desempenha as funções que lhe foram atribuídas, o Conselho de Administração:\n\na) Nomeia e, se adequado, demite o Director Executivo, nos termos do artigo 18.º;\n\nb) Exerce autoridade disciplinar sobre o Director Executivo e supervisiona o exercício das suas funções, incluindo a execução das decisões do Conselho de Administração;\n\nc) Estabelece a estrutura organizativa da Agência após consulta da Comissão;\n\nd) Adopta o regulamento interno da Agência após consulta da Comissão;\n\ne) Aprova, sob proposta do Director Executivo, o acordo de sede relativo à sede da Agência e os acordos relativos às instalações técnicas e às instalações de salvaguarda, estabelecidos nos termos do artigo 10.º, n.º 4, que o Director Executivo deve assinar com os Estados-Membros de acolhimento;\n\nf) Adopta, em concertação com a Comissão, as medidas de execução necessárias a que se refere o artigo 110.º do Estatuto dos Funcionários;\n\ng) Adopta as medidas de execução necessárias quanto ao destacamento de peritos nacionais para a Agência;\n\nh) Adopta um programa de trabalho plurianual baseado nas funções referidas no capítulo II, a partir de um projecto apresentado pelo Director Executivo referido no artigo 17.º, após consulta aos Grupos Consultivos referidos no artigo 19.º, e depois de obtido o parecer da Comissão. Sem prejuízo do processo orçamental anual, o programa de trabalho plurianual deve incluir uma estimativa do orçamento plurianual e avaliações *ex ante* para estruturar os objectivos e as diferentes fases da planificação plurianual;\n\ni) Adopta um plano plurianual em matéria de política de pessoal e um projecto de programa de trabalho anual e apresenta-os até 31 de Março de cada ano à Comissão e à autoridade orçamental;\n\nj) Adopta, até 30 de Setembro de cada ano e após recepção do parecer da Comissão, o programa de trabalho anual da Agência para o ano seguinte, por maioria de dois terços dos seus membros com direito de voto, de acordo com o processo orçamental anual e o programa legislativo da União nos domínios dos artigos 67.º a 89.º do TFUE; assegura a transmissão do programa de trabalho adoptado ao Parlamento Europeu, ao Conselho e à Comissão, e a sua publicação;\n\nk) Adopta, até 31 de Março de cada ano, o relatório anual de actividades da Agência do ano precedente, comparando, nomeadamente, os resultados alcançados com os objectivos do programa de trabalho anual, e transmite-o até 15 de Junho do mesmo ano ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas; o relatório anual de actividades deve ser publicado;\n\nl) Exerce as suas funções relacionadas com o orçamento da Agência, incluindo a execução dos projectos-piloto referidos no artigo 9.º, nos termos dos artigos 32.º, 33.º, n.º 6, e 34.º;\n\nm) Adopta as regras financeiras aplicáveis à Agência nos termos do artigo 34.º;\n\nn) Nomeia um Contabilista, que é funcionalmente independente no exercício das suas funções;\n\no) Assegura o acompanhamento adequado das conclusões e recomendações dos relatórios internos ou externos de auditoria e das avaliações;\n\np) Adopta as medidas de segurança necessárias, incluindo um plano de segurança e um plano para a continuidade de funcionamento e a recuperação em caso de catástrofe, tendo em conta as eventuais recomendações dos especialistas em segurança presentes nos Grupos Consultivos;\n\nq) Nomeia um responsável pela segurança;\n\nr) Nomeia um responsável pela protecção de dados, nos termos do Regulamento (CE) n.º 45/2001;\n\ns) Adopta, até 22 de Maio de 2012, as disposições práticas para a aplicação do Regulamento (CE) n.º 1049/2001;\n\nt) Adopta os relatórios sobre o funcionamento técnico do SIS II, nos termos, respectivamente, do artigo 50.º, n.º 4, do Regulamento (CE) n.º 1987/2006 e do artigo 66.º, n.º 4, da Decisão 2007/533/JAI, e do VIS, nos termos do artigo 50.º, n.º 3, do Regulamento (CE) n.º 767/2008 e do artigo 17.º, n.º 3, da Decisão 2008/633/JAI;\n\nu) Adota o relatório anual de atividades do Sistema Central do Eurodac por força do artigo 40.º, n.º 1, do Regulamento (UE) n.º 603/2013;\n\nv) Formula observações sobre os relatórios da Autoridade Europeia para a Proteção de Dados em matéria de auditoria por força do artigo 45.º, n.º 2, do Regulamento (CE) n.º 1987/2006, do artigo 42.º, n.º 2, do Regulamento (CE) n.º 767/2008 e do artigo 31.º, n.º 2, do Regulamento (UE) n.º 603/2013 e assegura que seja dado o adequado seguimento a essas auditorias;\n\nw) Publica estatísticas relacionadas com o SIS II nos termos, respectivamente, do artigo 50.º, n.º 3, do Regulamento (CE) n.º 1987/2006 e do artigo 66.º, n.º 3, da Decisão 2007/533/JAI;\n\nx) Compila estatísticas sobre a atividade do Sistema Central do Eurodac por força do artigo 8.º, n.º 2, do Regulamento (UE) n.º 603/2013;\n\ny) Assegura a publicação anual da lista das autoridades competentes autorizadas a consultar directamente os dados inseridos no SIS II, nos termos do artigo 31.º, n.º 8, do Regulamento (CE) n.º 1987/2006 e do artigo 46.º, n.º 8, da Decisão 2007/533/JAI, juntamente com a lista dos gabinetes dos sistemas nacionais do SIS II (N.SIS II) e dos gabinetes Sirene, tal como referido, respectivamente, no artigo 7.º, n.º 3, do Regulamento (CE) n.º 1987/2006 e no artigo 7.º, n.º 3, da Decisão 2007/533/JAI;\n\nz) Assegura a publicação anual da lista das unidades por força do artigo 27.º, n.º 2, do Regulamento (UE) n.º 603/2013;\n\naa) Desempenha quaisquer outras funções que lhe sejam atribuídas de acordo com o presente regulamento.\n\n2. O Conselho de Administração pode aconselhar o Director Executivo em qualquer matéria estritamente relacionada com o desenvolvimento ou a gestão operacional dos sistemas informáticos de grande escala."
+  },
+  "6cc65974b3940dba": {
+   "fragment_id": "Artigo 13.º — Composição do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Composição do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição do Conselho de Administração\n\n1. O Conselho de Administração é composto por um representante de cada Estado-Membro e dois representantes da Comissão.\n\n2. Os Estados-Membros e a Comissão nomeiam os membros do Conselho de Administração e os suplentes, até 22 de Janeiro de 2012. Passado este prazo, a Comissão convoca o Conselho de Administração. Os suplentes representam os membros efectivos na ausência destes.\n\n3. Os membros do Conselho de Administração são nomeados com base no seu elevado grau de experiência relevante e conhecimentos em matéria de sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça, e de conhecimentos em matéria de protecção de dados.\n\n4. O mandato dos membros tem a duração de quatro anos. Pode ser renovado uma vez. Findo o mandato ou em caso de demissão, os membros permanecem em funções até que se proceda à renovação do respectivo mandato ou à sua substituição.\n\n5. Os países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen, bem como às medidas relativas ao Eurodac, participam igualmente nas actividades da Agência. Cada um deles nomeia um representante e um suplente para o Conselho de Administração."
+  },
+  "9363c9bf812656c3": {
+   "fragment_id": "Artigo 14.º — Presidência do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Presidência do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Presidência do Conselho de Administração\n\n1. O Conselho de Administração elege de entre os seus membros um Presidente e um Vice-Presidente.\n\n2. A duração do mandato do Presidente e do Vice-Presidente é de dois anos. Os respectivos mandatos podem ser renovados uma vez. Todavia, caso os respectivos mandatos de membro do Conselho de Administração terminem na vigência dos seus mandatos de Presidente ou Vice-Presidente, estes últimos caducam automaticamente na mesma data.\n\n3. O Presidente e o Vice-Presidente apenas podem ser eleitos de entre os membros do Conselho de Administração que são nomeados pelos Estados-Membros que estejam plenamente vinculados, nos termos do direito da União, pelos actos normativos que regem o desenvolvimento, a criação, o funcionamento e a utilização de todos sistemas informáticos de grande escala geridos pela Agência."
+  },
+  "5b3836b24c23bc1a": {
+   "fragment_id": "Artigo 15.º — Reuniões do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Reuniões do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões do Conselho de Administração\n\n1. As reuniões do Conselho de Administração são convocadas a pedido:\n\na) Do Presidente;\n\nb) De pelo menos um terço dos seus membros;\n\nc) Da Comissão; ou\n\nd) Do Director Executivo.\n\nO Conselho de Administração reúne-se em sessão ordinária pelo menos uma vez por semestre.\n\n2. O Director Executivo participa nas reuniões do Conselho de Administração.\n\n3. Os membros do Conselho de Administração podem ser assistidos por peritos que sejam membros dos Grupos Consultivos.\n\n4. A Europol e a Eurojust podem participar nas reuniões do conselho de administração com o estatuto de observador quando figure na ordem de trabalhos qualquer questão relativa ao SIS II relacionada com a aplicação da Decisão 2007/533/JAI. A Europol também pode participar nas reuniões do conselho de administração com o estatuto de observador quando figure na ordem de trabalhos qualquer questão relativa ao VIS relacionada com a aplicação da Decisão 2008/633/JAI, ou qualquer questão relativa ao Eurodac relacionada com a aplicação do Regulamento (UE) n.º 603/2013.\n\n5. O Conselho de Administração pode convidar para participar nas suas reuniões, como observador, qualquer pessoa cuja opinião possa ser relevante.\n\n6. A Agência assegura o secretariado do Conselho de Administração."
+  },
+  "34cba7cf0f2757e1": {
+   "fragment_id": "Artigo 16.º — Votação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Votação\n\n1. Sem prejuízo do disposto no n.º 5 do presente artigo, bem como no artigo 12.º, n.º 1, alínea j), e no artigo 18.º, n.^os^ 1 e 7, as decisões do Conselho de Administração são aprovadas por maioria de todos os seus membros com direito de voto.\n\n2. Sem prejuízo do disposto no n.º 3, cada membro do Conselho de Administração dispõe de um voto.\n\n3. Cada membro nomeado por um Estado-Membro que esteja vinculado, nos termos do direito da União, por qualquer acto normativo que regule o desenvolvimento, a criação, o funcionamento e a utilização de um sistema informático de grande escala gerido pela Agência pode votar sobre uma matéria que diga respeito a esse sistema informático de grande escala.\n\nAlém disso, no que se refere à Dinamarca, esta pode votar sobre uma questão que diga respeito a esse sistema informático de grande escala, se decidir, nos termos do artigo 4.º do Protocolo relativo à posição da Dinamarca, proceder à transposição para o seu direito interno do acto normativo que regula o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala.\n\n4. No que se refere aos países associados à execução, aplicação e desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac, é aplicável o artigo 37.º.\n\n5. Em caso de desacordo entre os membros sobre se um determinado sistema informático de grande escala é afectado por uma votação, a decisão de não afectação de tal sistema é tomada por maioria de dois terços.\n\n6. O Director Executivo da Agência não participa na votação.\n\n7. O regulamento interno da Agência deve estabelecer regras de votação mais pormenorizadas, nomeadamente as condições em que um membro pode representar outro, bem como as regras em matéria de quórum, se for caso disso."
+  },
+  "0e5e5fb21cd42511": {
+   "fragment_id": "Artigo 17.º — Funções e competências do Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Funções e competências do Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funções e competências do Director Executivo\n\n1. A Agência é gerida e representada pelo seu Director Executivo.\n\n2. O Director Executivo desempenha as suas funções com independência. Sem prejuízo das competências da Comissão e do Conselho de Administração, o Director Executivo não solicita nem aceita instruções de qualquer governo ou de qualquer outro organismo.\n\n3. Sem prejuízo do artigo 12.º, o Director Executivo assume inteira responsabilidade pelas funções confiadas à Agência e fica sujeito ao procedimento de quitação anual pelo Parlamento Europeu relativo à execução do orçamento.\n\n4. O Parlamento Europeu ou o Conselho podem convidar o Director Executivo a apresentar um relatório sobre a execução das suas funções.\n\n5. O Director Executivo:\n\na) Assegura a gestão corrente da Agência;\n\nb) Assegura o funcionamento da Agência de acordo com o presente regulamento;\n\nc) Prepara e aplica os procedimentos, decisões, estratégias, programas e actividades adoptados pelo Conselho de Administração, dentro dos limites definidos pelo presente regulamento, as suas disposições de execução e do direito aplicável;\n\nd) Estabelece e aplica um sistema efectivo para permitir o acompanhamento e avaliações regulares:\n\ni) dos sistemas informáticos de grande escala, incluindo estatísticas,\n\nii) da Agência, nomeadamente em termos de realização efectiva e eficiente dos objectivos desta;\n\ne) Participa, sem direito de voto, nas reuniões do Conselho de Administração;\n\nf) Exerce, em relação ao pessoal da Agência, as competências previstas no artigo 20.º, n.º 3, e gere as questões atinentes ao pessoal;\n\ng) Sem prejuízo do disposto no artigo 17.º do Estatuto dos Funcionários, estabelece regras em matéria de confidencialidade a fim de dar cumprimento ao artigo 17.º do Regulamento (CE) n.º 1987/2006, ao artigo 17.º da Decisão 2007/533/JAI, ao artigo 26.º, n.º 9, do Regulamento (CE) n.º 767/2008 e ao artigo 4.º, n.º 4, do Regulamento (UE) n.º 603/2013;\n\nh) Negoceia e, após aprovação pelo Conselho de Administração, assina um acordo de sede relativo à sede da Agência e acordos sobre as instalações técnicas e as instalações de salvaguarda com Governos dos Estados-Membros de acolhimento.\n\n6. O Director Executivo apresenta ao Conselho de Administração, para adopção, nomeadamente projectos para o seguinte:\n\na) Programa de trabalho anual da Agência e o seu relatório anual de actividades, após consulta prévia dos Grupos Consultivos;\n\nb) Disposições financeiras aplicáveis à Agência;\n\nc) Programa de trabalho plurianual;\n\nd) Orçamento para o ano seguinte, elaborado com base em actividades;\n\ne) Plano plurianual em matéria de política de pessoal;\n\nf) Caderno de encargos aplicável à avaliação referida no artigo 31.º;\n\ng) Medidas para aplicação do Regulamento (CE) n.º 1049/2001;\n\nh) Medidas de segurança necessárias, incluindo um plano de segurança e um plano para a continuidade de funcionamento e a recuperação em caso de catástrofe;\n\ni) Relatórios sobre o funcionamento técnico de cada sistema informático de grande escala referido no artigo 12.º, n.º 1, alínea t), e o relatório anual sobre as atividades do Sistema Central do Eurodac referido no artigo 12.º, n.º 1, alínea u), com base nos resultados do acompanhamento e da avaliação;\n\nj) Lista anual para publicação das autoridades competentes autorizadas a consultar directamente os dados do SIS II, incluindo a lista dos gabinetes nacionais do SIS II e dos gabinetes SIRENE, referidas no artigo 12.º, n.º 1, alínea y), e a lista de autoridades referidas no artigo 12.º, n.º 1, alínea z).\n\n7. O Director Executivo desempenha quaisquer outras funções de acordo com o presente regulamento."
+  },
+  "d6d2599903390ca3": {
+   "fragment_id": "Artigo 18.º — Nomeação do Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Nomeação do Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Nomeação do Director Executivo\n\n1. O Conselho de Administração nomeia o Director Executivo por um período de cinco anos de entre uma lista de candidatos elegíveis seleccionados em concurso público organizado pela Comissão. O processo de selecção prevê a publicação no *Jornal Oficial da União Europeia* e noutros locais de um aviso à manifestação de interesse. O Conselho de Administração pode exigir a organização de um novo processo se não estiver satisfeito com as habilitações de qualquer dos candidatos apurados na lista. O Conselho de Administração nomeia o Director Executivo com base no seu mérito pessoal, na experiência em matéria de sistemas informáticos de grande escala e nas suas competências administrativas, financeiras e de gestão, bem como nos seus conhecimentos em matéria de protecção de dados. O Conselho de Administração delibera sobre a nomeação do Director Executivo por maioria de dois terços de todos os membros com direito de voto.\n\n2. Antes de ser nomeado, o candidato seleccionado pelo Conselho de Administração é convidado a fazer uma declaração perante a(s) comissão(ões) competente(s) do Parlamento Europeu e a responder às perguntas dos respectivos membros. Na sequência desta declaração, o Parlamento Europeu adopta um parecer sobre o candidato seleccionado. O Conselho de Administração informa o Parlamento Europeu sobre a forma como este parecer foi tido em conta. O parecer tem carácter pessoal e confidencial até à nomeação do candidato.\n\n3. Durante os nove meses que antecedem o termo do mandato de cinco anos, o Conselho de Administração, em consulta com a Comissão, procede a uma avaliação na qual aprecia em especial os resultados obtidos durante o primeiro mandato do Director Executivo, bem como a forma como foram alcançados.\n\n4. O Conselho de Administração, tendo em conta o relatório de avaliação, e apenas nos casos em que os objectivos e as funções da Agência o justifiquem, pode prorrogar o mandato do Director Executivo por um período máximo de três anos.\n\n5. O Conselho de Administração informa o Parlamento Europeu da sua intenção de prorrogar o mandato do Director Executivo. No prazo de um mês antes da prorrogação do seu mandato, o Director Executivo é convidado a fazer uma declaração perante a(s) comissão(ões) competente(s) do Parlamento Europeu e a responder às perguntas dos respectivos membros.\n\n6. O Director Executivo responde perante o Conselho de Administração.\n\n7. O Conselho de Administração pode demitir o Director Executivo. O Conselho de Administração toma essa decisão por maioria de dois terços de todos os membros com direito de voto."
+  },
+  "a5e7a1639fdda3b2": {
+   "fragment_id": "Artigo 19.º — Grupos Consultivos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Grupos Consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Grupos Consultivos\n\n1. Os seguintes Grupos Consultivos fornecem ao Conselho de Administração conhecimentos especializados respeitantes aos sistemas informáticos de grande escala, nomeadamente no contexto da elaboração do programa de trabalho anual e do relatório anual de actividades:\n\na) Grupo Consultivo do SIS II;\n\nb) Grupo Consultivo do VIS;\n\nc) Grupo Consultivo do Eurodac;\n\nd) Qualquer outro Grupo Consultivo respeitante a um sistema informático de grande escala, caso tal se encontre previsto no acto normativo relevante que regule o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala.\n\n2. Cada Estado-Membro que esteja vinculado, nos termos da legislação da União, por qualquer acto normativo que regule o desenvolvimento, a criação, o funcionamento e a utilização de um sistema informático de grande escala, bem como a Comissão, nomeia por um período de três anos, eventualmente renovável, um membro para o Grupo Consultivo respeitante a esse sistema informático de grande escala.\n\nA Dinamarca nomeia também um membro para o Grupo Consultivo respeitante a um sistema informático de grande escala se decidir, nos termos do artigo 4.º do Protocolo relativo à posição da Dinamarca, proceder à transposição para o seu direito interno do acto normativo que regula o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala.\n\nCada país associado à execução, à aplicação e ao desenvolvimento do acervo de Schengen, às medidas relativas ao Eurodac e às medidas relativas a outros sistemas informáticos de grande escala que participe num sistema informático de grande escala específico nomeia um membro para o Grupo Consultivo respeitante a esse sistema informático de grande escala.\n\n3. A Europol e a Eurojust podem nomear cada uma um representante para o Grupo Consultivo do SIS II. A Europol também pode nomear um representante para os grupos consultivo do VIS e do Eurodac.\n\n4. Os membros do Conselho de Administração não podem ser membros dos Grupos Consultivos. O Director Executivo ou o seu representante está autorizado a participar em todas as reuniões dos Grupos Consultivos na qualidade de observador.\n\n5. Os procedimentos relativos ao funcionamento e à cooperação dos Grupos Consultivos são estabelecidos no regulamento interno da Agência.\n\n6. Na elaboração dos pareceres, os membros de cada Grupo Consultivo devem envidar todos os esforços para chegar a um consenso. Na falta de consenso, o parecer deve representar a posição fundamentada da maioria dos membros. A posição ou as posições minoritárias fundamentadas também devem ser registadas. O artigo 16.º, n.^os^ 3 e 4, aplica-se em conformidade. Os membros que representam os países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac são autorizados a expressar opiniões sobre questões relativamente às quais não têm direito de voto.\n\n7. Os Estados-Membros e os países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac devem facilitar as actividades dos Grupos Consultivos.\n\n8. À presidência dos Grupos Consultivos aplica-se o disposto no artigo 14.º, com as devidas adaptações."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "661daf37ee12d815": {
+   "fragment_id": "Artigo 20.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência e ao Director Executivo o Estatuto e as regras adoptadas conjuntamente pelas instituições da União para efeitos de aplicação desse Estatuto.\n\n2. Para efeitos da aplicação do Estatuto, a Agência é considerada uma agência na acepção do artigo 1.º-A, n.º 2, do Estatuto dos Funcionários.\n\n3. A Agência exerce em relação ao seu pessoal os poderes atribuídos à autoridade investida de poder de nomeação pelo Estatuto dos Funcionários e à entidade habilitada a celebrar contratos pelo Regime Aplicável aos outros Agentes.\n\n4. O pessoal da Agência é constituído por funcionários, agentes temporários e pessoal contratado. O Conselho de Administração dá a sua aprovação numa base anual se os contratos que o Director Executivo tenciona renovar passarem a ser contratos por período indeterminado nos termos do Regime Aplicável aos outros Agentes.\n\n5. A Agência não recruta pessoal interino para a execução de tarefas financeiras consideradas sensíveis.\n\n6. A Comissão e os Estados-Membros podem destacar funcionários ou peritos nacionais para a Agência, numa base temporária. O Conselho de Administração adopta as medidas de execução necessárias para o efeito, tendo em conta o plano plurianual de política de pessoal.\n\n7. Sem prejuízo do artigo 17.º do Estatuto dos Funcionários, a Agência deve aplicar regras de sigilo profissional adequadas ou outras obrigações de confidencialidade equivalentes.\n\n8. O Conselho de Administração, em concertação com a Comissão, adopta as medidas de execução necessárias previstas no artigo 110.º do Estatuto dos Funcionários."
+  },
+  "773f4f8f06f9a69e": {
+   "fragment_id": "Artigo 21.º — Interesse público",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Interesse público\n\nOs membros do Conselho de Administração, o Director Executivo e os membros dos Grupos Consultivos comprometem-se a actuar em prol do interesse público. Para este efeito, emitem anualmente uma declaração escrita de compromisso.\n\nA lista dos membros do Conselho de Administração é publicada no sítio internet da Agência."
+  },
+  "79c8c51dd9f70a6e": {
+   "fragment_id": "Artigo 22.º — Acordo de sede e acordos sobre as instalações técnicas e as instalações de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Acordo de sede e acordos sobre as instalações técnicas e as instalações de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acordo de sede e acordos sobre as instalações técnicas e as instalações de salvaguarda\n\nAs disposições necessárias relativas à instalação da Agência nos Estados-Membros de acolhimento e às instalações a disponibilizar por esses Estados-Membros, bem como as regras específicas aplicáveis nos Estados de acolhimento ao Director Executivo, aos membros do Conselho de Administração, aos funcionários da Agência e respectivos familiares, são estabelecidas num acordo de sede relativo à sede da Agência e em acordos relativos às instalações técnicas e às instalações de salvaguarda, celebrados entre a Agência e os Estados-Membros de acolhimento depois de obtida a aprovação do Conselho de Administração."
+  },
+  "bbe3bbb4831531e3": {
+   "fragment_id": "Artigo 23.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Privilégios e imunidades\n\nÉ aplicável à Agência o Protocolo relativo aos Privilégios e Imunidades da União Europeia."
+  },
+  "559db8fcd67359b7": {
+   "fragment_id": "Artigo 24.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade\n\n1. A responsabilidade contratual da Agência é regulada pela lei aplicável ao contrato em causa.\n\n2. O Tribunal de Justiça da União Europeia é competente para se pronunciar por força de cláusula de arbitragem constante dos contratos celebrados pela Agência.\n\n3. Em caso de responsabilidade extracontratual, a Agência deve reparar, de acordo com os princípios gerais comuns ao direito dos Estados-Membros, quaisquer danos causados pelos seus serviços ou pelos seus funcionários no exercício das suas funções.\n\n4. O Tribunal de Justiça da União Europeia é competente para conhecer dos litígios relativos à reparação dos danos referidos no n.º 3.\n\n5. A responsabilidade pessoal dos seus funcionários em relação à Agência rege-se pelas disposições do Estatuto dos Funcionários."
+  },
+  "7db58379fdb4d0da": {
+   "fragment_id": "Artigo 25.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime linguístico\n\n1. O Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^31^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0031)), é aplicável à Agência.\n\n2. Sem prejuízo de decisões tomadas com base no artigo 342.º do TFUE, o programa de trabalho anual e o relatório anual de actividades referidos no artigo 12.º, n.º 1, alíneas j) e k), são apresentados em todas as línguas oficiais das instituições da União.\n\n3. Os serviços de tradução necessários às actividades da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "3f26043b8318fdda": {
+   "fragment_id": "Artigo 26.º — Acesso a documentos",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Acesso a documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acesso a documentos\n\n1. Com base numa proposta do Director Executivo, e no prazo de seis meses após 1 de Dezembro de 2012, o Conselho de Administração adopta as regras relativas ao acesso aos documentos da Agência, nos termos do Regulamento (CE) n.º 1049/2001.\n\n2. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça da União Europeia, nas condições previstas nos artigos 228.º e 263.º do TFUE, respectivamente."
+  },
+  "1d82fa951ed22f7e": {
+   "fragment_id": "Artigo 27.º — Informação e comunicação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Informação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Informação e comunicação\n\n1. A Agência assegura a comunicação nos termos dos actos normativos que regem o desenvolvimento, a criação, o funcionamento e a utilização dos sistemas informáticos de grande escala e por iniciativa própria nos domínios da sua competência. Assegura, designadamente, para além da publicação referida no artigo 12.º, n.º 1, alíneas j), k), w) e y), no artigo 33.º, n.º 8, que sejam rapidamente divulgadas ao público e a qualquer parte interessada informações objectivas, fiáveis e facilmente compreensíveis sobre as suas actividades.\n\n2. O Conselho de Administração adopta as disposições práticas com vista à aplicação do n.º 1."
+  },
+  "de901c86fc8aa1d5": {
+   "fragment_id": "Artigo 28.º — Protecção de dados",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Protecção de dados\n\n1. Sem prejuízo das disposições sobre protecção de dados previstas nos actos normativos que regem o desenvolvimento, a criação, o funcionamento e a utilização dos sistemas informáticos de grande escala, as informações tratadas pela Agência de acordo com o presente regulamento estão sujeitas ao disposto no Regulamento (CE) n.º 45/2001.\n\n2. O Conselho de Administração estabelece medidas para que o Regulamento (CE) n.º 45/2001 seja aplicado pela Agência, em especial a Secção 8 relativa ao responsável pela protecção de dados."
+  },
+  "faf8380dcc8eb5cc": {
+   "fragment_id": "Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas\n\n1. A Agência aplica os princípios de segurança constantes da Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu regulamento interno ([^32^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#E0032)), incluindo as disposições relativas ao intercâmbio, ao tratamento e à conservação de informações classificadas e medidas de segurança física.\n\n2. A Agência aplica também os princípios de segurança relativos ao tratamento das informações sensíveis não classificadas, adoptados e aplicados pela Comissão.\n\n3. O Conselho de Administração decide, nos termos dos artigos 2.º e 12.º, n.º 1, alínea p), a estrutura interna da Agência necessária para pôr em prática os princípios de segurança adequados."
+  },
+  "06d83983a0ab8dcc": {
+   "fragment_id": "Artigo 30.º — Segurança da Agência",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Segurança da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Segurança da Agência\n\n1. A Agência é responsável pela segurança e manutenção da ordem dentro dos edifícios, instalações e terrenos que utiliza. A Agência aplica os princípios de segurança e as disposições relevantes dos actos normativos que regem o desenvolvimento, a criação, o funcionamento e a utilização dos sistemas informáticos de grande escala.\n\n2. Os Estados-Membros de acolhimento tomam todas as medidas efectivas e adequadas para manter a ordem e a segurança nas imediações dos edifícios, instalações e terrenos utilizados pela Agência e prestam-lhe a protecção adequada, nos termos do acordo de sede e dos acordos relativos às instalações técnicas e às instalações de salvaguarda, garantindo ao mesmo tempo o livre acesso a tais edifícios, instalações e terrenos das pessoas autorizadas pela Agência."
+  },
+  "e295b558e77913d6": {
+   "fragment_id": "Artigo 31.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Avaliação\n\n1. No prazo de três anos a partir de 1 de Dezembro de 2012 e, posteriormente, de quatro em quatro anos, a Comissão, em estreita consulta com o Conselho de Administração, efectua uma avaliação da actuação da Agência. A avaliação analisa a forma e a medida em que a Agência contribui efectivamente para a gestão operacional dos sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça e desempenha as funções que lhe são confiadas pelo presente regulamento. A avaliação analisa também o papel da Agência no contexto de uma estratégia da União destinada a criar um ambiente de sistemas informáticos coordenado, eficaz em termos de custos e coerente a nível da União, estratégia essa cuja elaboração está prevista para os próximos anos.\n\n2. Com base na avaliação referida no n.º 1, a Comissão, após consulta ao Conselho de Administração, emite recomendações relativas às alterações a introduzir no presente regulamento, tendo também em vista alinhá-lo melhor pela estratégia da União referida no n.º 1. A Comissão transmite essas recomendações, juntamente com o parecer do Conselho de Administração e com propostas adequadas, ao Parlamento Europeu, ao Conselho e à Autoridade Europeia para a Protecção de Dados."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "6e028bd1d966d922": {
+   "fragment_id": "DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINANCEIRAS"
+  },
+  "6f61ee32837ef8ec": {
+   "fragment_id": "Artigo 32.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Orçamento\n\n1. Sem prejuízo de outros tipos de recursos, as receitas da Agência são constituídas por:\n\na) Uma subvenção da União, inscrita no orçamento geral da União Europeia (secção Comissão);\n\nb) Uma contribuição financeira dos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac;\n\nc) Eventuais contribuições financeiras dos Estados-Membros.\n\n2. As despesas da Agência incluem, nomeadamente, a remuneração do pessoal, as despesas administrativas, de infra-estrutura e de funcionamento e despesas relativas a contratos ou acordos celebrados pela Agência. O Director Executivo elabora anualmente, tendo em conta as actividades realizadas pela Agência, um mapa previsional das receitas e despesas da Agência para o exercício seguinte, que apresenta ao Conselho de Administração acompanhado de um projecto de quadro de pessoal.\n\n3. O orçamento da Agência deve ser equilibrado em termos de receitas e de despesas.\n\n4. O Conselho de Administração adopta, com base num projecto elaborado pelo Director Executivo, um mapa previsional das receitas e despesas da Agência para o exercício seguinte.\n\n5. O mapa previsional das receitas e despesas da Agência, bem como as orientações gerais que a ele presidiram são transmitidos pelo Conselho de Administração à Comissão e aos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac até 10 de Fevereiro de cada ano, e o mapa previsional final é transmitido até 31 de Março de cada ano.\n\n6. O Conselho de Administração apresenta à Comissão e à autoridade orçamental até 31 de Março de cada ano:\n\na) O seu projecto de programa de trabalho anual;\n\nb) O seu plano plurianual actualizado em matéria de política de pessoal, estabelecido de acordo com as orientações da Comissão;\n\nc) Informações sobre o número de funcionários, de agentes temporários e de agentes contratuais tal como definidos no Estatuto para os anos n - 1 e n, bem como uma estimativa para o ano n + 1;\n\nd) Informações sobre as contribuições em espécie concedidas pelos Estados-Membros de acolhimento à Agência;\n\ne) Uma estimativa do saldo da conta de resultados para o ano n - 1.\n\n7. A Comissão transmite o mapa previsional à autoridade orçamental, juntamente com o projecto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão procede à inscrição, no projecto de orçamento geral da União Europeia, das previsões que considera necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submete à apreciação da autoridade orçamental nos termos do artigo 314.º do TFUE.\n\n9. A autoridade orçamental autoriza as dotações a título da subvenção destinada à Agência. A autoridade orçamental adopta o quadro de pessoal da Agência.\n\n10. O orçamento da Agência é adoptado pelo Conselho de Administração. Este torna-se definitivo após a adopção definitiva do orçamento geral da União Europeia. O orçamento da Agência é adaptado em conformidade, se for caso disso.\n\n11. Qualquer alteração ao orçamento, incluindo em relação ao quadro de pessoal, rege-se pelo mesmo procedimento.\n\n12. O Conselho de Administração notifica o mais rapidamente possível à autoridade orçamental a intenção de executar qualquer projecto que possa ter implicações financeiras importantes para o financiamento do seu orçamento, em especial quaisquer projectos imobiliários, como o arrendamento ou a aquisição de imóveis. O Conselho de Administração informa do facto a Comissão e os países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac. Se qualquer um dos ramos da autoridade orçamental tencionar emitir um parecer, notifica o Conselho de Administração dessa intenção no prazo de duas semanas a contar da recepção da informação sobre o projecto. Na ausência de resposta, a Agência pode proceder à operação projectada."
+  },
+  "776c1898a5122494": {
+   "fragment_id": "Artigo 33.º — Execução do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Execução do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Execução do orçamento\n\n1. O orçamento da Agência é executado pelo Director Executivo.\n\n2. O Director Executivo transmite anualmente à autoridade orçamental todas as informações relevantes sobre os resultados dos processos de avaliação.\n\n3. O Contabilista da Agência transmite ao Contabilista da Comissão e ao Tribunal de Contas, até ao dia 1 de Março seguinte ao encerramento do exercício, as contas provisórias da Agência acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O Contabilista da Comissão consolida as contas provisórias das instituições e organismos descentralizados, nos termos do artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n4. O Contabilista da Agência transmite igualmente o relatório sobre a gestão orçamental e financeira à autoridade orçamental até ao dia 31 de Março seguinte ao encerramento do exercício.\n\n5. Após recepção das observações do Tribunal de Contas sobre as contas provisórias da Agência, nos termos do artigo 129.º do Regulamento (CE, Euratom) n.º 1605/2002, o Director Executivo elabora as contas definitivas da Agência sob a sua própria responsabilidade e transmite-as, para parecer, ao Conselho de Administração.\n\n6. O Conselho de Administração emite parecer sobre as contas definitivas da Agência.\n\n7. Até 1 de Julho do ano seguinte ao encerramento do exercício, o Director Executivo transmite as contas definitivas, acompanhadas do parecer do Conselho de Administração, à autoridade orçamental, ao Contabilista da Comissão, ao Tribunal de Contas e aos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac.\n\n8. As contas definitivas são objecto de publicação.\n\n9. Até 30 de Setembro, o Director Executivo envia ao Tribunal de Contas uma resposta às suas observações. O Director Executivo deve igualmente enviar essa resposta ao Conselho de Administração.\n\n10. A pedido do Parlamento Europeu, o Director Executivo comunica as informações necessárias ao bom desenrolar do processo de quitação relativo ao exercício em causa, tal como previsto no artigo 146.º, n.º 3, do Regulamento (CE, Euratom) n.º 1605/2002.\n\n11. O Parlamento Europeu, sob recomendação do Conselho, deliberando por maioria qualificada, dá ao Director Executivo, antes de 15 de Maio do ano n + 2, quitação da execução do orçamento do exercício do ano n."
+  },
+  "672e8dd1460ac56e": {
+   "fragment_id": "Artigo 34.º — Regras financeiras",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Regras financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regras financeiras\n\nApós consulta da Comissão, o Conselho de Administração adopta as regras financeiras aplicáveis à Agência. Estas regras só podem divergir do Regulamento (CE, Euratom) n.º 2343/2002 se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "32255cad2eedc0bc": {
+   "fragment_id": "Artigo 35.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Luta contra a fraude\n\n1. Para efeitos da luta contra a fraude, a corrupção e outras actividades ilícitas, aplica-se o Regulamento (CE) n.º 1073/1999.\n\n2. A Agência adere ao Acordo Interinstitucional relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) e publica sem demora as disposições relevantes aplicáveis a todo o pessoal da Agência.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, devem estabelecer expressamente que o Tribunal de Contas e o OLAF podem, se necessário, proceder a controlos no terreno dos beneficiários dos fundos da Agência e dos agentes responsáveis pela respectiva distribuição."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "1c68f486a5c06a82": {
+   "fragment_id": "Artigo 36.º — Acções preparatórias",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Acções preparatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Acções preparatórias\n\n1. A Comissão é responsável pelo estabelecimento e funcionamento inicial da Agência enquanto esta não tiver capacidade operacional para executar o seu próprio orçamento.\n\n2. Para o efeito, e até que o Director Executivo assuma as suas funções depois de nomeado pelo Conselho de Administração nos termos do artigo 18.º, a Comissão pode afectar um número limitado de funcionários, incluindo um para desempenhar as funções de Director Executivo, de forma interina. O Director Executivo interino só pode ser designado logo que esteja convocado o Conselho de Administração, nos termos do artigo 13.º, n.º 2.\n\nSe o Director Executivo interino não cumprir as obrigações que lhe incumbem por força do presente regulamento, o Conselho de Administração pode solicitar à Comissão que designe um novo Director Executivo interino.\n\n3. O Director Executivo interino pode autorizar todos os pagamentos cobertos pelas dotações inscritas no orçamento da Agência, uma vez aprovados pelo Conselho de Administração, e pode celebrar contratos, incluindo contratos de trabalho, após a adopção do quadro de pessoal da Agência. Caso se justifique, o Conselho de Administração pode impor restrições às competências do Director Executivo interino."
+  },
+  "1f88fdf4b1a60c76": {
+   "fragment_id": "Artigo 37.º — Participação dos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Participação dos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Participação dos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac\n\nAo abrigo das cláusulas relevantes dos respectivos acordos de associação, devem ser tomadas disposições para, nomeadamente, especificar a natureza, o alcance e as regras pormenorizadas da participação destes países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen, bem como às medidas relativas ao Eurodac, nos trabalhos da Agência, incluindo as disposições relativas às contribuições financeiras, ao pessoal e aos direitos de voto."
+  },
+  "47846303c8f51baa": {
+   "fragment_id": "Artigo 38.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nA Agência assume as responsabilidades que lhe são conferidas pelos artigos 3.º a 9.º, a partir de 1 de Dezembro de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros nos termos dos Tratados.\n\n---"
+  },
+  "9c30769c76ac3a50": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0001)) Posição do Parlamento Europeu de 5 de Julho 2011 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 12 de Setembro de 2011.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0002)) JO L 381 de 28.12.2006, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0003)) JO L 205 de 7.8.2007, p. 63.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0004)) JO L 213 de 15.6.2004, p. 5.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0005)) JO L 218 de 13.8.2008, p. 60.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0006)) JO L 316 de 15.12.2000, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0007)) Regulamento (CE) n.º 407/2002 do Conselho, de 28 de Fevereiro de 2002, que fixa determinadas regras de execução do Regulamento (CE) n.º 2725/2000 relativo à criação do Sistema «Eurodac» de comparação de impressões digitais para efeitos da aplicação efectiva da Convenção de Dublin (JO L 62 de 5.3.2002, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0008)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0009)) JO L 218 de 13.8.2008, p. 129.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0010)) JO C 139 de 14.6.2006, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0011)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0012)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0013)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0014)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0015)) JO L 56 de 4.3.1968, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0016)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0017)) JO L 66 de 8.3.2006, p. 38.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0018)) JO L 131 de 1.6.2000, p. 43.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0019)) JO L 333 de 17.12.2010, p. 58.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0020)) JO L 64 de 7.3.2002, p. 20.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0021)) JO L 176 de 10.7.1999, p. 36.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0022)) JO L 176 de 10.7.1999, p. 31.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0023)) JO L 93 de 3.4.2001, p. 40.\n\n> ([^24^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0024)) JO L 53 de 27.2.2008, p. 52.\n\n> ([^25^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0025)) JO L 53 de 27.2.2008, p. 1.\n\n> ([^26^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0026)) JO L 53 de 27.2.2008, p. 5.\n\n> ([^27^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0027)) JO L 160 de 18.6.2011, p. 21.\n\n> ([^28^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0028)) JO L 160 de 18.6.2011, p. 19.\n\n> ([^29^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0029)) JO L 160 de 18.6.2011, p. 39.\n\n> ([^30^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0030)) JO L 180 de 29.6.2013, p. 1.\n\n> ([^31^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0031)) JO 17 de 6.10.1958, p. 385/58.\n\n> ([^32^](http://publications.europa.eu/resource/cellar/59871ed4-6ddc-48d2-b294-e945bbb9c88f.0015.02/DOC_1#src.E0032)) JO L 317 de 3.12.2001, p. 1."
+  },
+  "81a1124ffb14d513": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Outubro de 2011\n\nque cria uma Agência europeia para a gestão operacional de sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça"
+  },
+  "055c9f3c3a215bbf": {
+   "fragment_id": "Artigo 1.º — Criação da Agência",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação da Agência\n\n1. É criada uma Agência europeia para a gestão operacional dos sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça (a seguir designada a «Agência»).\n\n2. A Agência é responsável pela gestão operacional do Sistema de Informação Schengen de segunda geração (SIS II), do Sistema de Informação sobre Vistos, do Eurodac e do Sistema de Entrada/Saída (SES) criado pelo Regulamento (UE) 2017/2226 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#E0001)) (SES).\n\n3. À Agência pode ser igualmente conferida a responsabilidade pela preparação, pelo desenvolvimento e pela gestão operacional de outros sistemas informáticos de grande escala no espaço de liberdade, segurança e justiça além dos referidos no n.º 2, mas apenas se tal estiver previsto nos actos normativos relevantes, com base nos artigos 67.º a 89.º do TFUE, tendo em conta, quanto adequado, a evolução das actividades de investigação referida no artigo 8.º do presente regulamento e os resultados de projectos-piloto referidos no artigo 9.º do presente regulamento.\n\n4. A gestão operacional compreende todas as funções necessárias para manter os sistemas informáticos de grande escala em funcionamento, de acordo com as disposições específicas aplicáveis a cada um desses sistemas, incluindo a responsabilidade pela infra-estrutura de comunicação por eles utilizada. Estes sistemas informáticos de grande escala não procedem ao intercâmbio de dados nem permitem a partilha de informações e conhecimentos, a menos que tal esteja previsto numa base jurídica específica."
+  },
+  "84f26f70f8bb5699": {
+   "fragment_id": "Artigo 5.º — Funções relacionadas com o Eurodac",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Funções relacionadas com o Eurodac",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funções relacionadas com o Eurodac\n\nEm relação ao Eurodac, a Agência desempenha:\n\na) As funções atribuídas à Agência pelo Regulamento (UE) n.º 603/2013 do Parlamento Europeu e do Conselho, de 26 de Junho de 2013, relativo à criação do sistema «Eurodac» de comparação de impressões digitais para efeitos da aplicação efetiva do Regulamento (UE) n.º 604/2013 que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de proteção internacional apresentado num dos Estados-Membros por um nacional de um país terceiro ou um apátrida, e de pedidos de comparação com os dados Eurodac apresentados pelas autoridades responsáveis dos Estados-Membros e pela Europol para fins de aplicação da lei ([^2^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#E0002)); e\n\nb) As funções relacionadas com a formação para a utilização técnica do Eurodac."
+  },
+  "cc9610a93a91b1a2": {
+   "fragment_id": "Artigo 5.º-A — Tarefas relacionadas com o SES",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — Tarefas relacionadas com o SES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Tarefas relacionadas com o SES\n\nEm relação ao SES, a Agência desempenha:\n\na) As funções que lhe são atribuídas pelo Regulamento (UE) 2017/2226;\n\nb) As funções relacionadas com a formação para a utilização técnica do SES."
+  },
+  "f5fed17327682544": {
+   "fragment_id": "Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções relacionadas com a infra-estrutura de comunicação\n\n1. A Agência desempenha as funções relacionadas com a infra-estrutura de comunicação atribuídas à autoridade de gestão pelos actos normativos que regem o desenvolvimento, a criação, o funcionamento e a utilização dos sistemas informáticos de grande escala a que se refere o artigo 1, n.º 2.\n\n2. De acordo com os actos normativos referidos no n.º 1, as funções relacionadas com a infra-estrutura de comunicação (incluindo a gestão operacional e a segurança) são repartidas entre a Agência e a Comissão. A fim de assegurar a coerência entre o exercício das responsabilidades respectivas, são acordadas entre a Agência e a Comissão disposições operacionais que ficam consignadas num Memorando de Entendimento.\n\n3. A infra-estrutura de comunicação deve ser adequadamente gerida e controlada, a fim de a proteger contra as ameaças e garantir a sua segurança e a dos sistemas informáticos de grande escala, incluindo a dos dados por ela transmitidos.\n\n4. São adoptadas medidas adequadas, incluindo planos de segurança, em especial por meio de técnicas de cifragem adequadas, para impedir a leitura, cópia, alteração ou supressão de dados pessoais de forma não autorizada durante a sua transmissão ou o transporte de suportes de dados. Não podem circular na infra-estrutura de comunicação informações operacionais relacionadas com o sistema que não estejam cifradas.\n\n5. As funções relacionadas com a gestão operacional da infraestrutura de comunicação podem ser confiadas a entidades ou organismos externos de direito privado de acordo com o Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#E0003)). Nesse caso, o fornecedor da rede fica vinculado pelas medidas de segurança referidas no n.º 4 do presente artigo e não tem de forma alguma acesso aos dados operacionais do SIS II, do VIS, do Eurodac e do SES, nem aos intercâmbios SIRENE relativos ao SIS II.\n\n6. Sem prejuízo dos contratos existentes no que respeita à rede SIS II, VIS, Eurodac e SES, a gestão das chaves criptográficas continua a ser da competência da Agência e não pode ser confiada a nenhuma entidade externa de direito privado."
+  },
+  "1bce577a54b1aa7a": {
+   "fragment_id": "Artigo 8.º — Acompanhamento de actividades de investigação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Acompanhamento de actividades de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acompanhamento de actividades de investigação\n\n1. A Agência acompanha a evolução das atividades de investigação relevantes para a gestão operacional do SIS II, do VIS, do Eurodac, do SES e de outros sistemas informáticos de grande escala.\n\n2. A Agência informa regularmente da evolução referida no n.º 1 o Parlamento Europeu, o Conselho, a Comissão e, caso se trate de questões relacionadas com a protecção de dados, a Autoridade Europeia para a Protecção de Dados."
+  },
+  "2c2a6132d2b0a02b": {
+   "fragment_id": "Artigo 12.º — Funções do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Funções do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funções do Conselho de Administração\n\n1. A fim de garantir que a Agência desempenha as funções que lhe foram atribuídas, o Conselho de Administração:\n\na) Nomeia e, se adequado, demite o Director Executivo, nos termos do artigo 18.º;\n\nb) Exerce autoridade disciplinar sobre o Director Executivo e supervisiona o exercício das suas funções, incluindo a execução das decisões do Conselho de Administração;\n\nc) Estabelece a estrutura organizativa da Agência após consulta da Comissão;\n\nd) Adopta o regulamento interno da Agência após consulta da Comissão;\n\ne) Aprova, sob proposta do Director Executivo, o acordo de sede relativo à sede da Agência e os acordos relativos às instalações técnicas e às instalações de salvaguarda, estabelecidos nos termos do artigo 10.º, n.º 4, que o Director Executivo deve assinar com os Estados-Membros de acolhimento;\n\nf) Adopta, em concertação com a Comissão, as medidas de execução necessárias a que se refere o artigo 110.º do Estatuto dos Funcionários;\n\ng) Adopta as medidas de execução necessárias quanto ao destacamento de peritos nacionais para a Agência;\n\nh) Adopta um programa de trabalho plurianual baseado nas funções referidas no capítulo II, a partir de um projecto apresentado pelo Director Executivo referido no artigo 17.º, após consulta aos Grupos Consultivos referidos no artigo 19.º, e depois de obtido o parecer da Comissão. Sem prejuízo do processo orçamental anual, o programa de trabalho plurianual deve incluir uma estimativa do orçamento plurianual e avaliações *ex ante* para estruturar os objectivos e as diferentes fases da planificação plurianual;\n\ni) Adopta um plano plurianual em matéria de política de pessoal e um projecto de programa de trabalho anual e apresenta-os até 31 de Março de cada ano à Comissão e à autoridade orçamental;\n\nj) Adopta, até 30 de Setembro de cada ano e após recepção do parecer da Comissão, o programa de trabalho anual da Agência para o ano seguinte, por maioria de dois terços dos seus membros com direito de voto, de acordo com o processo orçamental anual e o programa legislativo da União nos domínios dos artigos 67.º a 89.º do TFUE; assegura a transmissão do programa de trabalho adoptado ao Parlamento Europeu, ao Conselho e à Comissão, e a sua publicação;\n\nk) Adopta, até 31 de Março de cada ano, o relatório anual de actividades da Agência do ano precedente, comparando, nomeadamente, os resultados alcançados com os objectivos do programa de trabalho anual, e transmite-o até 15 de Junho do mesmo ano ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas; o relatório anual de actividades deve ser publicado;\n\nl) Exerce as suas funções relacionadas com o orçamento da Agência, incluindo a execução dos projectos-piloto referidos no artigo 9.º, nos termos dos artigos 32.º, 33.º, n.º 6, e 34.º;\n\nm) Adopta as regras financeiras aplicáveis à Agência nos termos do artigo 34.º;\n\nn) Nomeia um Contabilista, que é funcionalmente independente no exercício das suas funções;\n\no) Assegura o acompanhamento adequado das conclusões e recomendações dos relatórios internos ou externos de auditoria e das avaliações;\n\np) Adopta as medidas de segurança necessárias, incluindo um plano de segurança e um plano para a continuidade de funcionamento e a recuperação em caso de catástrofe, tendo em conta as eventuais recomendações dos especialistas em segurança presentes nos Grupos Consultivos;\n\nq) Nomeia um responsável pela segurança;\n\nr) Nomeia um responsável pela protecção de dados, nos termos do Regulamento (CE) n.º 45/2001;\n\ns) Adopta, até 22 de Maio de 2012, as disposições práticas para a aplicação do Regulamento (CE) n.º 1049/2001;\n\nt) Adota os relatórios sobre o funcionamento técnico do SIS II nos termos do artigo 50.º, n.º 4, do Regulamento (CE) n.º 1987/2006 e do artigo 66.º, n.º 4, da Decisão 2007/533/JAI, do VIS nos termos do artigo 50.º, n.º 3, do Regulamento (CE) n.º 767/2008 e do artigo 17.º, n.º 3, da Decisão 2008/633/JAI, e do SES nos termos do artigo 72.º, n.º 4, do Regulamento (UE) 2017/2226;\n\nu) Adota o relatório anual de atividades do Sistema Central do Eurodac por força do artigo 40.º, n.º 1, do Regulamento (UE) n.º 603/2013;\n\nv) Formula observações sobre os relatórios de auditoria da Autoridade Europeia para a Proteção de Dados nos termos do artigo 45.º, n.º 2, do Regulamento (CE) n.º 1987/2006, do artigo 42.º, n.º 2, do Regulamento (CE) n.º 767/2008, do artigo 31.º, n.º 2, do Regulamento (UE) n.º 603/2013 e do artigo 56.º, n.º 2, do Regulamento (UE) 2017/2226, e assegura que seja dado o adequado seguimento a essas auditorias;\n\nw) Publica estatísticas relacionadas com o SIS II nos termos, respectivamente, do artigo 50.º, n.º 3, do Regulamento (CE) n.º 1987/2006 e do artigo 66.º, n.º 3, da Decisão 2007/533/JAI;\n\nx) Compila estatísticas sobre a atividade do Sistema Central do Eurodac por força do artigo 8.º, n.º 2, do Regulamento (UE) n.º 603/2013;\n\ny) Assegura a publicação anual da lista das autoridades competentes autorizadas a consultar directamente os dados inseridos no SIS II, nos termos do artigo 31.º, n.º 8, do Regulamento (CE) n.º 1987/2006 e do artigo 46.º, n.º 8, da Decisão 2007/533/JAI, juntamente com a lista dos gabinetes dos sistemas nacionais do SIS II (N.SIS II) e dos gabinetes Sirene, tal como referido, respectivamente, no artigo 7.º, n.º 3, do Regulamento (CE) n.º 1987/2006 e no artigo 7.º, n.º 3, da Decisão 2007/533/JAI;\n\nz) Assegura a publicação anual da lista das unidades por força do artigo 27.º, n.º 2, do Regulamento (UE) n.º 603/2013;\n\naa) Desempenha quaisquer outras funções que lhe sejam atribuídas de acordo com o presente regulamento;\n\ns-A) Adota os relatórios sobre o desenvolvimento do SES nos termos do artigo 72.º, n.º 2, do Regulamento (UE) 2017/2226;\n\nx-A) Publica estatísticas relacionadas com o SES nos termos do artigo 63.º do Regulamento (UE) 2017/2226;\n\nz-A) Assegura a publicação anual da lista das autoridades competentes nos termos do artigo 65.º, n.º 2, do Regulamento (UE) 2017/2226.\n\n2. O Conselho de Administração pode aconselhar o Director Executivo em qualquer matéria estritamente relacionada com o desenvolvimento ou a gestão operacional dos sistemas informáticos de grande escala."
+  },
+  "c69a4b5a2b9579fb": {
+   "fragment_id": "Artigo 15.º — Reuniões do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Reuniões do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões do Conselho de Administração\n\n1. As reuniões do Conselho de Administração são convocadas a pedido:\n\na) Do Presidente;\n\nb) De pelo menos um terço dos seus membros;\n\nc) Da Comissão; ou\n\nd) Do Director Executivo.\n\nO Conselho de Administração reúne-se em sessão ordinária pelo menos uma vez por semestre.\n\n2. O Director Executivo participa nas reuniões do Conselho de Administração.\n\n3. Os membros do Conselho de Administração podem ser assistidos por peritos que sejam membros dos Grupos Consultivos.\n\n4. A Europol e a Eurojust podem participar nas reuniões do Conselho de Administração com o estatuto de observador, quando figure na ordem de trabalhos qualquer questão relativa ao SIS II relacionada com a aplicação da Decisão 2007/533/JAI. A Europol também pode participar nas reuniões do Conselho de Administração com o estatuto de observador, quando figure na ordem de trabalhos qualquer questão relativa ao VIS relacionada com a aplicação da Decisão 2008/633/JAI, qualquer questão relativa ao Eurodac relacionada com a aplicação do Regulamento (UE) n.º 603/2013, ou qualquer questão relativa ao SES relacionada com a aplicação do Regulamento (UE) 2017/2226.\n\n5. O Conselho de Administração pode convidar para participar nas suas reuniões, como observador, qualquer pessoa cuja opinião possa ser relevante.\n\n6. A Agência assegura o secretariado do Conselho de Administração."
+  },
+  "4b1911d6125f65af": {
+   "fragment_id": "Artigo 17.º — Funções e competências do Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Funções e competências do Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funções e competências do Director Executivo\n\n1. A Agência é gerida e representada pelo seu Director Executivo.\n\n2. O Director Executivo desempenha as suas funções com independência. Sem prejuízo das competências da Comissão e do Conselho de Administração, o Director Executivo não solicita nem aceita instruções de qualquer governo ou de qualquer outro organismo.\n\n3. Sem prejuízo do artigo 12.º, o Director Executivo assume inteira responsabilidade pelas funções confiadas à Agência e fica sujeito ao procedimento de quitação anual pelo Parlamento Europeu relativo à execução do orçamento.\n\n4. O Parlamento Europeu ou o Conselho podem convidar o Director Executivo a apresentar um relatório sobre a execução das suas funções.\n\n5. O Director Executivo:\n\na) Assegura a gestão corrente da Agência;\n\nb) Assegura o funcionamento da Agência de acordo com o presente regulamento;\n\nc) Prepara e aplica os procedimentos, decisões, estratégias, programas e actividades adoptados pelo Conselho de Administração, dentro dos limites definidos pelo presente regulamento, as suas disposições de execução e do direito aplicável;\n\nd) Estabelece e aplica um sistema efectivo para permitir o acompanhamento e avaliações regulares:\n\ni) dos sistemas informáticos de grande escala, incluindo estatísticas,\n\nii) da Agência, nomeadamente em termos de realização efectiva e eficiente dos objectivos desta;\n\ne) Participa, sem direito de voto, nas reuniões do Conselho de Administração;\n\nf) Exerce, em relação ao pessoal da Agência, as competências previstas no artigo 20.º, n.º 3, e gere as questões atinentes ao pessoal;\n\ng) Sem prejuízo do disposto no artigo 17.º do Estatuto dos Funcionários, estabelece regras em matéria de confidencialidade a fim de dar cumprimento ao artigo 17.º do Regulamento (CE) n.º 1987/2006, ao artigo 17.º da Decisão 2007/533/JAI, ao artigo 26.º, n.º 9, do Regulamento (CE) n.º 767/2008, ao artigo 4.º, n.º 4, do Regulamento (UE) n.º 603/2013 e ao artigo 37.º, n.º 4, do Regulamento (UE) 2017/2226;\n\nh) Negoceia e, após aprovação pelo Conselho de Administração, assina um acordo de sede relativo à sede da Agência e acordos sobre as instalações técnicas e as instalações de salvaguarda com Governos dos Estados-Membros de acolhimento.\n\n6. O Director Executivo apresenta ao Conselho de Administração, para adopção, nomeadamente projectos para o seguinte:\n\na) Programa de trabalho anual da Agência e o seu relatório anual de actividades, após consulta prévia dos Grupos Consultivos;\n\nb) Disposições financeiras aplicáveis à Agência;\n\nc) Programa de trabalho plurianual;\n\nd) Orçamento para o ano seguinte, elaborado com base em actividades;\n\ne) Plano plurianual em matéria de política de pessoal;\n\nf) Caderno de encargos aplicável à avaliação referida no artigo 31.º;\n\ng) Medidas para aplicação do Regulamento (CE) n.º 1049/2001;\n\nh) Medidas de segurança necessárias, incluindo um plano de segurança e um plano para a continuidade de funcionamento e a recuperação em caso de catástrofe;\n\ni) Relatórios sobre o funcionamento técnico de cada sistema informático de grande escala referido no artigo 12.º, n.º 1, alínea t), e o relatório anual sobre as atividades do Sistema Central do Eurodac referido no artigo 12.º, n.º 1, alínea u), com base nos resultados do acompanhamento e da avaliação;\n\nj) Lista anual para publicação das autoridades competentes autorizadas a consultar directamente os dados do SIS II, incluindo a lista dos gabinetes nacionais do SIS II e dos gabinetes SIRENE, referidas no artigo 12.º, n.º 1, alínea y), e a lista de autoridades referidas no artigo 12.º, n.º 1, alínea z);\n\nk) Relatórios relativos ao ponto da situação no que respeita ao desenvolvimento do SES a que se refere o artigo 72.º, n.º 2, do Regulamento (UE) 2017/2226.\n\n7. O Director Executivo desempenha quaisquer outras funções de acordo com o presente regulamento."
+  },
+  "f639efc8fed494ce": {
+   "fragment_id": "Artigo 19.º — Grupos Consultivos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Grupos Consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Grupos Consultivos\n\n1. Os seguintes Grupos Consultivos fornecem ao Conselho de Administração conhecimentos especializados respeitantes aos sistemas informáticos de grande escala, nomeadamente no contexto da elaboração do programa de trabalho anual e do relatório anual de actividades:\n\na) Grupo Consultivo do SIS II;\n\nb) Grupo Consultivo do VIS;\n\nc) Grupo Consultivo do Eurodac;\n\nd) Qualquer outro Grupo Consultivo respeitante a um sistema informático de grande escala, caso tal se encontre previsto no acto normativo relevante que regule o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala;\n\nd-A) O Grupo Consultivo do SES.\n\n2. Cada Estado-Membro que esteja vinculado, nos termos da legislação da União, por qualquer acto normativo que regule o desenvolvimento, a criação, o funcionamento e a utilização de um sistema informático de grande escala, bem como a Comissão, nomeia por um período de três anos, eventualmente renovável, um membro para o Grupo Consultivo respeitante a esse sistema informático de grande escala.\n\nA Dinamarca nomeia também um membro para o Grupo Consultivo respeitante a um sistema informático de grande escala se decidir, nos termos do artigo 4.º do Protocolo relativo à posição da Dinamarca, proceder à transposição para o seu direito interno do acto normativo que regula o desenvolvimento, a criação, o funcionamento e a utilização desse sistema informático de grande escala.\n\nCada país associado à execução, à aplicação e ao desenvolvimento do acervo de Schengen, às medidas relativas ao Eurodac e às medidas relativas a outros sistemas informáticos de grande escala que participe num sistema informático de grande escala específico nomeia um membro para o Grupo Consultivo respeitante a esse sistema informático de grande escala.\n\n3. [**►M2**](http://publications.europa.eu/resource/celex/32017R2226) A Europol e a Eurojust podem nomear cada uma um representante para o Grupo Consultivo do SIS II. A Europol também pode nomear um representante para os Grupos Consultivos do VIS, do Eurodac e do SES.**◄**\n\n4. Os membros do Conselho de Administração não podem ser membros dos Grupos Consultivos. O Director Executivo ou o seu representante está autorizado a participar em todas as reuniões dos Grupos Consultivos na qualidade de observador.\n\n5. Os procedimentos relativos ao funcionamento e à cooperação dos Grupos Consultivos são estabelecidos no regulamento interno da Agência.\n\n6. Na elaboração dos pareceres, os membros de cada Grupo Consultivo devem envidar todos os esforços para chegar a um consenso. Na falta de consenso, o parecer deve representar a posição fundamentada da maioria dos membros. A posição ou as posições minoritárias fundamentadas também devem ser registadas. O artigo 16.º, n.^os^ 3 e 4, aplica-se em conformidade. Os membros que representam os países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac são autorizados a expressar opiniões sobre questões relativamente às quais não têm direito de voto.\n\n7. Os Estados-Membros e os países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen e às medidas relativas ao Eurodac devem facilitar as actividades dos Grupos Consultivos.\n\n8. À presidência dos Grupos Consultivos aplica-se o disposto no artigo 14.º, com as devidas adaptações."
+  },
+  "38cf20f14e5b14b8": {
+   "fragment_id": "Artigo 25.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime linguístico\n\n1. O Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^4^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#E0004)), é aplicável à Agência.\n\n2. Sem prejuízo de decisões tomadas com base no artigo 342.º do TFUE, o programa de trabalho anual e o relatório anual de actividades referidos no artigo 12.º, n.º 1, alíneas j) e k), são apresentados em todas as línguas oficiais das instituições da União.\n\n3. Os serviços de tradução necessários às actividades da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "9600133c2cfdcb43": {
+   "fragment_id": "Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regras de segurança em matéria de protecção das informações classificadas e das informações sensíveis não classificadas\n\n1. A Agência aplica os princípios de segurança constantes da Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu regulamento interno ([^5^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#E0005)), incluindo as disposições relativas ao intercâmbio, ao tratamento e à conservação de informações classificadas e medidas de segurança física.\n\n2. A Agência aplica também os princípios de segurança relativos ao tratamento das informações sensíveis não classificadas, adoptados e aplicados pela Comissão.\n\n3. O Conselho de Administração decide, nos termos dos artigos 2.º e 12.º, n.º 1, alínea p), a estrutura interna da Agência necessária para pôr em prática os princípios de segurança adequados."
+  },
+  "7bcdba01271741d0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#src.E0001)) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 (JO L 298 de 26.10.2012, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#src.E0002)) JO L 180 de 29.6.2013, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#src.E0003)) Regulamento (UE, Euratom) n.o 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.o 1605/2002 (JO L 298 de 26.10.2012, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#src.E0004)) JO 17 de 6.10.1958, p. 385/58.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/36a3228d-1922-4057-9e01-95a544274033.0015.02/DOC_1#src.E0005)) JO L 317 de 3.12.2001, p. 1."
+  }
+ }
+}

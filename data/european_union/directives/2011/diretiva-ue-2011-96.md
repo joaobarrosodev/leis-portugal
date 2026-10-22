@@ -34,6 +34,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-02-17'
+version_history:
+  file: diretiva-ue-2011-96.versoes.json
+  count: 4
+  source_lastmod: '2015-02-17'
+  versions:
+  - date: '2011-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0013:por
+    amending_title: DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita Lista das sociedades a que se refere o artigo 2.º, alínea a), subalínea i)
+    - Adita PARTE B
+    - Adita Lista de impostos a que se refere o artigo 2.º, alínea a), subalínea iii)
+    - Adita ANEXO II
+    - Adita ANEXO III
+  - date: '2014-08-14'
+    amending: eu:celex:32014L0086:por
+    amending_title: DIRETIVA 2014/86/UE DO CONSELHO de 8 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Lista das sociedades a que se refere o artigo 2.º, alínea a), subalínea i)
+    - Altera Notas
+  - date: '2015-02-17'
+    amending: eu:celex:32015L0121:por
+    amending_title: DIRETIVA (UE) 2015/121 DO CONSELHO de 27 de janeiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Lista das sociedades a que se refere o artigo 2.º, alínea a), subalínea i)
+    - Altera Notas
 identifiers:
   celex: 32011L0096
   eli: http://data.europa.eu/eli/dir/2011/96/oj
@@ -48,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c8791d2a-1fe4-43cc-a716-59c36d50e3f4.0014
   content_url: http://publications.europa.eu/resource/cellar/1d1ad431-c8c4-11e4-bbe1-01aa75ed71a1.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0096-20150217
-  retrieved_at: '2026-10-22T02:39:54Z'
+  retrieved_at: '2026-10-22T15:50:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T07:38:12.667+02:00'
 integrity:
@@ -57,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:54Z'
-  notes: Texto consolidado 02011L0096-20150217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:37Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2011-96.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -201,31 +242,19 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:54Z'
+  checked_at: '2026-10-22T15:50:37Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2011/96/UE do Conselho, de 30 de Novembro de 2011
-
-> 2011L0096 — PT — 17.02.2015 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0013) — [DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0013) — L 141 — 30 — 28.5.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014L0086) — [DIRETIVA 2014/86/UE DO CONSELHO de 8 de julho de 2014](http://publications.europa.eu/resource/celex/32014L0086) — L 219 — 40 — 25.7.2014
-- [►M3](http://publications.europa.eu/resource/celex/32015L0121) — [DIRETIVA (UE) 2015/121 DO CONSELHO de 27 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015L0121) — L 21 — 1 — 28.1.2015
-
-## DIRECTIVA 2011/96/UE DO CONSELHO
 
 de 30 de Novembro de 2011
 

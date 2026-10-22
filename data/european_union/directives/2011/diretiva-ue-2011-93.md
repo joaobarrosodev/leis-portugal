@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-17'
+version_history:
+  file: diretiva-ue-2011-93.versoes.json
+  count: 1
+  source_lastmod: '2011-12-17'
+  versions:
+  - date: '2011-12-17'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011L0093
   eli: http://data.europa.eu/eli/dir/2011/93/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c6eb347a-16c8-4705-869f-d1b25ca3cb39.0012
   content_url: http://publications.europa.eu/resource/cellar/d20901a4-66cd-439e-b15e-faeb92811424.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0093-20111217
-  retrieved_at: '2026-10-22T02:42:53Z'
+  retrieved_at: '2026-10-22T15:50:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T18:13:19.949+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:53Z'
-  notes: Texto consolidado 02011L0093-20111217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:33Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2011-93.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,29 +182,19 @@ relationships:
   source: null
 article_structure:
   article_count: 30
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:53Z'
+  checked_at: '2026-10-22T15:50:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2011/93/UE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 2011
-
-> 2011L0093 — PT — 17.12.2011 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011L0093R%2801%29) — [Rectificação, JO L 018, 21.1.2012, p. 7 (2011/93)](http://publications.europa.eu/resource/celex/32011L0093R%2801%29)
-
-## DIRECTIVA[**►C1**](http://publications.europa.eu/resource/celex/32011L0093R%2801%29) 2011/93/UE**◄**DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Dezembro de 2011
 

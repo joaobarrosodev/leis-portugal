@@ -36,6 +36,96 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-05'
+version_history:
+  file: regulamento-ue-2011-1227.versoes.json
+  count: 5
+  source_lastmod: '2025-02-05'
+  versions:
+  - date: '2011-12-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-07'
+    amending: eu:celex:32024R1106:por
+    amending_title: REGULAMENTO (UE) 2024/1106 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto, âmbito de aplicação e relação com outra legislação da União
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Proibição do abuso de informação privilegiada
+    - Altera Artigo 4.º — Obrigação de publicar informações privilegiadas
+    - Altera Artigo 6.º — Actualização técnica das definições de informação privilegiada e de manipulação de mercado
+    - Altera Artigo 7.º — Monitorização do mercado
+    - Altera Artigo 8.º — Recolha de dados
+    - Altera Artigo 9.º — Registo dos participantes no mercado
+    - Altera Artigo 10.º — Partilha de informação entre a Agência e outras autoridades
+    - Altera Artigo 11.º — Protecção de dados
+    - Altera Artigo 12.º — Fiabilidade operacional
+    - Altera Artigo 13.º — Aplicação das proibições contra o abuso de mercado
+    - Altera Artigo 16.º — Cooperação a nível da União e a nível nacional
+    - Altera Artigo 17.º — Sigilo profissional
+    - Altera Artigo 18.º — Sanções
+    - Altera Artigo 19.º — Relações internacionais
+    - Altera Artigo 20.º — Exercício da delegação
+    - Altera Artigo 22.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 4.º-A — Autorização e supervisão das plataformas de informação privilegiada
+    - Adita Artigo 5.º-A — Negociação algorítmica
+    - Adita Artigo 9.º-A — Autorização e supervisão dos mecanismos de comunicação registados
+    - Adita Artigo 13.º-A — Inspeções no local pela Agência
+    - Adita Artigo 13.º-B — Pedidos de informação
+    - Adita Artigo 13.º-C — Poderes para registar declarações
+    - Adita Artigo 13.º-D — Garantias processuais
+    - Adita Artigo 13.º-E — Assistência mútua
+    - Adita Artigo 13.º-F — Inquiridor
+    - Adita Artigo 13.º-G — Sanções pecuniárias compulsórias
+    - Adita Artigo 13.º-H — Garantias processuais relativas às decisões que impõem sanções pecuniárias compulsórias
+    - Adita Artigo 13.º-I — Natureza, execução e afetação das sanções pecuniárias compulsórias
+    - Adita Artigo 13.º-J — Fiscalização pelo Tribunal de Justiça
+    - Adita Artigo 15.º — Obrigações das pessoas que, a título profissional, preparam ou executam transações
+    - Adita Artigo 16.º-A — Delegação de atribuições e responsabilidades
+    - Adita Artigo 16.º-B — Orientações e recomendações
+    - Adita Artigo 21.º-A — Relatório e reexame
+    - Adita DECLARAÇÃO DA COMISSÃO
+    - Adita DECLARAÇÃO DO CONSELHO
+    - Suprime Artigo 15.º — Obrigações das pessoas que efectuam transacções a título profissional
+  - date: '2024-11-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objecto, âmbito de aplicação e relação com outra legislação da União
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Obrigação de publicar informações privilegiadas
+    - Altera Artigo 11.º — Protecção de dados
+    - Altera Artigo 15.º — Obrigações das pessoas que, a título profissional, preparam ou executam transações
+    - Altera Notas
+  - date: '2025-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objecto, âmbito de aplicação e relação com outra legislação da União
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Obrigação de publicar informações privilegiadas
+    - Altera Artigo 11.º — Protecção de dados
+    - Altera Notas
+    - Adita Artigo 7.º-A — Atribuições e poderes da Agência relativamente a avaliações de preços do GNL e a índices de referência
+      do GNL
+    - Adita Artigo 7.º-B — Publicação das avaliações do preço do GNL e dos índices de referência do GNL
+    - Adita Artigo 7.º-C — Disponibilização de dados do mercado de GNL à Agência
+    - Adita Artigo 7.º-D — Qualidade dos dados do mercado de GNL
+    - Adita Artigo 7.º-E — Continuidade das atividades
+  - date: '2025-02-05'
+    amending: eu:celex:32024R1789:por
+    amending_title: REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto, âmbito de aplicação e relação com outra legislação da União
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Proibição do abuso de informação privilegiada
+    - Altera Artigo 4.º — Obrigação de publicar informações privilegiadas
+    - Altera Artigo 6.º — Actualização técnica das definições de informação privilegiada e de manipulação de mercado
+    - Altera Artigo 8.º — Recolha de dados
+    - Altera Artigo 11.º — Protecção de dados
+    - Altera Notas
 identifiers:
   celex: 32011R1227
   eli: http://data.europa.eu/eli/reg/2011/1227/oj
@@ -50,7 +140,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/43657d28-ddcc-4428-8a57-532c2cddb901.0013
   content_url: http://publications.europa.eu/resource/cellar/2e3d9a00-147a-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1227-20250205
-  retrieved_at: '2026-10-22T02:48:27Z'
+  retrieved_at: '2026-10-22T15:58:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T19:12:19.176+02:00'
 integrity:
@@ -59,9 +149,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:27Z'
-  notes: Texto consolidado 02011R1227-20250205.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:15Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2011-1227.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,30 +271,19 @@ relationships:
   date: '2017-10-26'
 article_structure:
   article_count: 43
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:27Z'
+  checked_at: '2026-10-22T15:58:15Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1227/2011 do Parlamento Europeu e do Conselho, de 25 de Outubro de 2011
-
-> 02011R1227 — PT — 05.02.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R1106) — [REGULAMENTO (UE) 2024/1106 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1106) — L 1106 — 1 — 17.4.2024
-- [►M2](http://publications.europa.eu/resource/celex/32024R1789) — [REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1789) — L 1789 — 1 — 15.7.2024
-
-## REGULAMENTO (UE) N.º 1227/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Outubro de 2011
 

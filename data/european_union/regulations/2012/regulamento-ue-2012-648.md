@@ -35,6 +35,233 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-17'
+version_history:
+  file: regulamento-ue-2012-648.versoes.json
+  count: 8
+  source_lastmod: '2025-01-17'
+  versions:
+  - date: '2012-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-06-18'
+    amending: eu:celex:32013R0575:por
+    amending_title: REGULAMENTO (UE) N. o 575/2013 DO PARLAMENTO EUROPEU E DO CONSELHO 26 de junho de 2013; REGULAMENTO DELEGADO
+      (UE) N. o 1002/2013 DA COMISSÃO de 12 de julho de 2013; M3; REGULAMENTO (UE) N. o 600/2014 DO PARLAMENTO EUROPEU E DO
+      CONSELHO de 15 de maio de 2014; DIRETIVA (UE) 2015/849 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos
+      do EEE de 20 de maio de 2015; M6; REGULAMENTO (UE) 2015/2365 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de
+      2015; M8; REGULAMENTO DELEGADO (UE) 2017/979 DA COMISSÃO de 2 de março de 2017; REGULAMENTO (UE) 2017/2402 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 12 de dezembro de 2017; REGULAMENTO (UE) 2019/834 DO PARLAMENTO EUROPEU E DO CONSELHO de 20
+      de maio de 2019; REGULAMENTO (UE) 2019/2099 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Transações intragrupo
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 6.º — Registo público
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 10.º — Contrapartes não financeiras
+    - Altera Artigo 11.º — Técnicas de atenuação do risco para os contratos de derivados OTC não compensados através de uma
+      CCP
+    - Altera Artigo 15.º — Extensão das atividades e serviços
+    - Altera Artigo 17.º — Procedimento para a concessão ou recusa de autorização
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 19.º — Parecer do colégio
+    - Altera Artigo 21.º — Análise e avaliação
+    - Altera Artigo 24.º — Situações de emergência
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 32.º — Avaliação
+    - Altera Artigo 35.º — Subcontratação
+    - Altera Artigo 38.º — Transparência
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 49.º — Revisão dos modelos, testes de esforço e verificações a posteriori
+    - Altera Artigo 56.º — Pedido de registo
+    - Altera Artigo 62.º — Investigações de caráter geral
+    - Altera Artigo 63.º — Inspeções in loco
+    - Altera Artigo 64.º — Regras processuais para a tomada de medidas de supervisão e a aplicação de coimas
+    - Altera Artigo 65.º — Coimas
+    - Altera Artigo 66.º — Sanções pecuniárias
+    - Altera Artigo 67.º — Audição das pessoas sujeitas ao processo
+    - Altera Artigo 72.º — Taxas de supervisão
+    - Altera Artigo 80.º — Salvaguarda e registo
+    - Altera Artigo 81.º — Transparência e disponibilidade dos dados
+    - Altera Artigo 82.º — Exercício da delegação
+    - Altera Artigo 85.º — Relatórios e revisão
+    - Altera Artigo 86.º — Comité
+    - Altera Artigo 89.º — Disposições transitórias
+    - Altera Artigo 91.º — Entrada em vigor
+    - Altera Notas
+  - date: '2021-02-11'
+    amending: eu:celex:32019R0460:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/460 DA COMISSÃO de 30 de janeiro de 2019; REGULAMENTO (UE) 2021/23 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 50.º-A — Cálculo do KCCP
+    - Altera Artigo 65.º — Coimas
+    - Altera Artigo 81.º — Transparência e disponibilidade dos dados
+    - Altera Artigo 85.º — Relatórios e revisão
+    - Altera Artigo 86.º — Comité
+    - Altera Notas
+    - Adita Artigo 13.º-A — Substituição dos índices de referência das taxas de juro em transações preexistentes
+  - date: '2021-02-13'
+    amending: eu:celex:32021R0168:por
+    amending_title: REGULAMENTO (UE) 2021/168 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 50.º-A — Cálculo do KCCP
+    - Altera Artigo 81.º — Transparência e disponibilidade dos dados
+    - Altera Artigo 85.º — Relatórios e revisão
+    - Altera Artigo 86.º — Comité
+    - Altera Notas
+    - Adita Artigo 13.º-A — Alterações aos contratos de transição para efeitos da execução de reformas dos índices de referência
+    - Suprime Artigo 13.º-A — Substituição dos índices de referência das taxas de juro em transações preexistentes
+  - date: '2021-06-28'
+    amending: eu:celex:32019R0876:por
+    amending_title: REGULAMENTO (UE) 2019/876 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 50.º-A — Cálculo do KCCP
+    - Altera Artigo 50.º-B — Regras gerais para o cálculo do KCCP
+    - Altera Artigo 50.º-C — Reporte das informações
+    - Altera Artigo 50.º-D — Cálculo dos elementos específicos a reportar pela CCP
+    - Altera Artigo 67.º — Audição das pessoas sujeitas ao processo
+    - Altera Artigo 78.º — Requisitos gerais
+    - Altera Artigo 81.º — Transparência e disponibilidade dos dados
+    - Altera Artigo 85.º — Relatórios e revisão
+    - Altera Artigo 86.º — Comité
+    - Altera Artigo 89.º — Disposições transitórias
+    - Altera Notas
+  - date: '2022-08-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 24.º-A — Comité de Supervisão das CCPs
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 28.º — Comité de risco
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 37.º — Requisitos de participação
+    - Altera Artigo 38.º — Transparência
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 50.º-A — Cálculo do KCCP
+    - Altera Artigo 81.º — Transparência e disponibilidade dos dados
+    - Altera Artigo 85.º — Relatórios e revisão
+    - Altera Artigo 86.º — Comité
+    - Altera Notas
+    - Adita Artigo 6.º-B — Suspensão da obrigação de compensação em caso de resolução
+    - Adita Artigo 45.º-A — Restrições temporárias em caso de eventos que não de incumprimento que sejam significativos
+  - date: '2024-12-24'
+    amending: eu:celex:32024R2987:por
+    amending_title: REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Transações intragrupo
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 6.º — Registo público
+    - Altera Artigo 6.º-B — Suspensão da obrigação de compensação em caso de resolução
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 11.º — Técnicas de atenuação do risco para os contratos de derivados OTC não compensados através de uma
+      CCP
+    - Altera Artigo 12.º — Sanções
+    - Altera Artigo 14.º — Autorização das CCPs
+    - Altera Artigo 15.º — Extensão das atividades e serviços
+    - Altera Artigo 17.º — Procedimento para a concessão ou recusa de autorização
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 19.º — Parecer do colégio
+    - Altera Artigo 20.º — Revogação da autorização
+    - Altera Artigo 21.º — Análise e avaliação
+    - Altera Artigo 24.º — Situações de emergência
+    - Altera Artigo 24.º-A — Comité de Supervisão das CCPs
+    - Altera Artigo 24.º-B — Consulta dos bancos centrais emissores
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 25.º-A — Conformidade comparável
+    - Altera Artigo 25.º-B — Cumprimento contínuo das condições de reconhecimento
+    - Altera Artigo 25.º-F — Pedidos de informações
+    - Altera Artigo 25.º-P — Revogação do reconhecimento
+    - Altera Artigo 26.º — Disposições gerais
+    - Altera Artigo 27.º — Direção e Conselho de Administração
+    - Altera Artigo 28.º — Comité de risco
+    - Altera Artigo 30.º — Acionistas e membros com participações qualificadas
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 32.º — Avaliação
+    - Altera Artigo 35.º — Subcontratação
+    - Altera Artigo 37.º — Requisitos de participação
+    - Altera Artigo 38.º — Transparência
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 40.º — Gestão das exposições
+    - Altera Artigo 41.º — Requisitos de margens
+    - Altera Artigo 44.º — Controlos do risco de liquidez
+    - Altera Artigo 46.º — Requisitos em matéria de garantias
+  - date: '2025-01-17'
+    amending: eu:celex:32022R2554:por
+    amending_title: REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Transações intragrupo
+    - Altera Artigo 4.º — Obrigação de compensação
+    - Altera Artigo 4.º-A — Contrapartes financeiras sujeitas a obrigação de compensação
+    - Altera Artigo 5.º — Procedimento relativo à obrigação de compensação
+    - Altera Artigo 6.º-B — Suspensão da obrigação de compensação em caso de resolução
+    - Altera Artigo 7.º — Acesso às CCPs
+    - Altera Artigo 9.º — Obrigação de comunicação de informações
+    - Altera Artigo 10.º — Contrapartes não financeiras
+    - Altera Artigo 18.º — Colégio
+    - Altera Artigo 24.º — Situações de emergência
+    - Altera Artigo 24.º-A — Comité de Supervisão das CCPs
+    - Altera Artigo 25.º — Reconhecimento de CCPs de países terceiros
+    - Altera Artigo 26.º — Disposições gerais
+    - Altera Artigo 31.º — Informação das autoridades competentes
+    - Altera Artigo 34.º — Continuidade das atividades
+    - Altera Artigo 39.º — Segregação e portabilidade
+    - Altera Artigo 48.º — Procedimentos em caso de incumprimento
+    - Altera Artigo 50.º-A — Cálculo do KCCP
+    - Altera Artigo 56.º — Pedido de registo
+    - Altera Artigo 79.º — Fiabilidade operacional
+    - Altera Artigo 80.º — Salvaguarda e registo
+    - Altera Artigo 81.º — Transparência e disponibilidade dos dados
+    - Altera Artigo 85.º — Relatórios e revisão
+    - Altera Artigo 86.º — Comité
+    - Altera Lista das infrações a que se refere o artigo 65.º, n.º 1
+    - Altera Lista das infrações a que se refere o artigo 25.º-J, n.º 1
+    - Altera Notas
 identifiers:
   celex: 32012R0648
   eli: http://data.europa.eu/eli/reg/2012/648/oj
@@ -49,7 +276,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/665d41b1-2085-4584-af8a-45c605d62b94.0015
   content_url: http://publications.europa.eu/resource/cellar/7250100d-0992-11f0-b1a3-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0648-20250117
-  retrieved_at: '2026-10-22T02:36:12Z'
+  retrieved_at: '2026-10-22T16:00:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T19:48:19.513+02:00'
 integrity:
@@ -58,9 +285,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:12Z'
-  notes: Texto consolidado 02012R0648-20250117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:00:33Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2012-648.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -468,52 +695,31 @@ relationships:
   date: '2025-11-06'
 article_structure:
   article_count: 137
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:12Z'
-  warnings: []
+  checked_at: '2026-10-22T16:00:33Z'
+  warnings:
+  - '02012R0648-20120816: versão indisponível (Sem expressão na língua por para CELEX 02012R0648-20120816.)'
+  - '02012R0648-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20140702: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20150625: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20150916: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20160112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20170103: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20170401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20170630: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20190617: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20191218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0648-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012
-
-> 02012R0648 — PT — 17.01.2025 — 022.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0575) — [REGULAMENTO (UE) N.º 575/2013 DO PARLAMENTO EUROPEU E DO CONSELHO 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0575) — L 176 — 1 — 27.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013R1002) — [REGULAMENTO DELEGADO (UE) N.º 1002/2013 DA COMISSÃO de 12 de julho de 2013](http://publications.europa.eu/resource/celex/32013R1002) — L 279 — 2 — 19.10.2013
-- [M3](http://publications.europa.eu/resource/celex/32014L0059) — [DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0059) — L 173 — 190 — 12.6.2014
-- [►M4](http://publications.europa.eu/resource/celex/32014R0600) — [REGULAMENTO (UE) N.º 600/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0600) — L 173 — 84 — 12.6.2014
-- [►M5](http://publications.europa.eu/resource/celex/32015L0849) — [DIRETIVA (UE) 2015/849 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015L0849) — L 141 — 73 — 5.6.2015
-- [M6](http://publications.europa.eu/resource/celex/32015R1515) — [REGULAMENTO DELEGADO (UE) 2015/1515 DA COMISSÃO de 5 de junho de 2015](http://publications.europa.eu/resource/celex/32015R1515) — L 239 — 63 — 15.9.2015
-- [►M7](http://publications.europa.eu/resource/celex/32015R2365) — [REGULAMENTO (UE) 2015/2365 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2365) — L 337 — 1 — 23.12.2015
-- [M8](http://publications.europa.eu/resource/celex/32017R0610) — [REGULAMENTO DELEGADO (UE) 2017/610 DA COMISSÃO de 20 de dezembro de 2016](http://publications.europa.eu/resource/celex/32017R0610) — L 86 — 3 — 31.3.2017
-- [►M9](http://publications.europa.eu/resource/celex/32017R0979) — [REGULAMENTO DELEGADO (UE) 2017/979 DA COMISSÃO de 2 de março de 2017](http://publications.europa.eu/resource/celex/32017R0979) — L 148 — 1 — 10.6.2017
-- [►M10](http://publications.europa.eu/resource/celex/32017R2402) — [REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2402) — L 347 — 35 — 28.12.2017
-- [►M11](http://publications.europa.eu/resource/celex/32019R0460) — [REGULAMENTO DELEGADO (UE) 2019/460 DA COMISSÃO de 30 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0460) — L 80 — 8 — 22.3.2019
-- [►M12](http://publications.europa.eu/resource/celex/32019R0834) — [REGULAMENTO (UE) 2019/834 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0834) — L 141 — 42 — 28.5.2019
-- [►M13](http://publications.europa.eu/resource/celex/32019R0876) — [REGULAMENTO (UE) 2019/876 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0876) — L 150 — 1 — 7.6.2019
-- [►M14](http://publications.europa.eu/resource/celex/32019R2099) — [REGULAMENTO (UE) 2019/2099 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2099) — L 322 — 1 — 12.12.2019
-- [►M15](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [►M16](http://publications.europa.eu/resource/celex/32021R0168) — [REGULAMENTO (UE) 2021/168 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0168) — L 49 — 6 — 12.2.2021
-- [►M17](http://publications.europa.eu/resource/celex/32022R2554) — [REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2554) — L 333 — 1 — 27.12.2022
-- [►M18](http://publications.europa.eu/resource/celex/32024R2987) — [REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2987) — L 2987 — 1 — 4.12.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R0575R%2802%29) — [Rectificação, JO L 321, 30.11.2013, p. 6 (575/2013)](http://publications.europa.eu/resource/celex/32013R0575R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R0834R%2803%29) — [Rectificação, JO L 140, 19.5.2022, p. 62 (2019/834)](http://publications.europa.eu/resource/celex/32019R0834R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32024R2987R%2803%29) — [Rectificação, JO L 90543, 27.6.2025, p. 1 (2024/2987)](http://publications.europa.eu/resource/celex/32024R2987R%2803%29)
-
-## REGULAMENTO (UE) N.º 648/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de julho de 2012
 

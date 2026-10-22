@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2011-805.versoes.json
+  count: 1
+  source_lastmod: '2011-08-31'
+  versions:
+  - date: '2011-08-11'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011R0805
   eli: http://data.europa.eu/eli/reg/2011/805/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009
   content_url: http://publications.europa.eu/resource/cellar/c12ca866-f361-4941-813f-2e2d0af93025.0009.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:42:55Z'
+  retrieved_at: '2026-10-22T15:54:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T08:12:39.668+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:55Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:54:33Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2011-805.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,21 +153,20 @@ relationships:
   date: '2015-03-06'
 article_structure:
   article_count: 33
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:55Z'
+  checked_at: '2026-10-22T15:54:33Z'
   warnings:
-  - Versão consolidada 02011R0805-20110831 indisponível (Sem expressão na língua por para CELEX 02011R0805-20110831.); usado
-    o texto do JO.
+  - '02011R0805-20110831: versão indisponível (Sem expressão na língua por para CELEX 02011R0805-20110831.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 805/2011 DA COMISSÃO
+# Regulamento (UE) n. ° 805/2011 da Comissão, de 10 de Agosto de 2011
 
 de 10 de Agosto de 2011
 

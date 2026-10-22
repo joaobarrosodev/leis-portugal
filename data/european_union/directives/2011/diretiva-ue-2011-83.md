@@ -37,6 +37,74 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-27'
+version_history:
+  file: diretiva-ue-2011-83.versoes.json
+  count: 3
+  source_lastmod: '2026-09-27'
+  versions:
+  - date: '2018-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-28'
+    amending: eu:celex:32019L2161:por
+    amending_title: DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27
+      de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos de informação aplicáveis a contratos diferentes dos contratos à distância ou dos contratos
+      celebrados fora do estabelecimento comercial
+    - Altera Artigo 6.º — Requisitos de informação dos contratos celebrados à distância e dos contratos celebrados fora do
+      estabelecimento comercial
+    - Altera Artigo 7.º — Requisitos formais aplicáveis aos contratos celebrados fora do estabelecimento comercial
+    - Altera Artigo 8.º — Requisitos formais aplicáveis aos contratos à distância
+    - Altera Artigo 9.º — Direito de retractação
+    - Altera Artigo 10.º — Omissão de informação sobre o direito de retractação
+    - Altera Artigo 13.º — Obrigações do profissional em caso de retractação
+    - Altera Artigo 14.º — Obrigações do consumidor em caso de retractação
+    - Altera Artigo 15.º — Efeitos do exercício do direito de retractação em contratos acessórios
+    - Altera Artigo 16.º — Excepções ao direito de retractação
+    - Altera Artigo 24.º — Sanções
+    - Altera Artigo 29.º — Dever de informação
+    - Altera Artigo 31.º — Revogações
+    - Altera A. Modelo de instruções de retractação
+    - Altera B. Modelo de formulário de retractação
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 6.º-A — Requisitos adicionais específicos de informação dos contratos celebrados em mercados em linha
+  - date: '2026-09-27'
+    amending: eu:celex:32023L2673:por
+    amending_title: DIRETIVA (UE) 2023/2673 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023; DIRETIVA (UE) 2024/825
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos de informação aplicáveis a contratos diferentes dos contratos à distância ou dos contratos
+      celebrados fora do estabelecimento comercial
+    - Altera Artigo 6.º — Requisitos de informação dos contratos celebrados à distância e dos contratos celebrados fora do
+      estabelecimento comercial
+    - Altera Artigo 8.º — Requisitos formais aplicáveis aos contratos à distância
+    - Altera Artigo 15.º — Efeitos do exercício do direito de retractação em contratos acessórios
+    - Altera Artigo 24.º — Sanções
+    - Altera Artigo 29.º — Dever de informação
+    - Altera Artigo 31.º — Revogações
+    - Altera A. Modelo de instruções de retractação
+    - Altera B. Modelo de formulário de retractação
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 11.º-A — Exercício do direito de retratação de contratos à distância celebrados através de uma interface
+      em linha
+    - Adita CAPÍTULO III-A
+    - Adita Regras relativas aos contratos de serviços financeiros celebrados à distância
+    - Adita Artigo 16.º-A — Requisitos de informação aplicáveis aos contratos à distância para serviços financeiros prestados
+      a consumidores
+    - Adita Artigo 16.º-B — Direito de retratação de contratos à distância relativos a serviços financeiros
+    - Adita Artigo 16.º-C — Pagamento do serviço prestado antes do exercício do direito de retratação
+    - Adita Artigo 16.º-D — Explicações adequadas
+    - Adita Artigo 16.º-E — Proteção adicional no que diz respeito às interfaces em linha
+    - Adita Artigo 22.º-A — Aviso harmonizado e rótulo harmonizado
+    - Adita Artigo 27.º-A — Procedimento de comité
 identifiers:
   celex: 32011L0083
   eli: http://data.europa.eu/eli/dir/2011/83/oj
@@ -51,7 +119,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6c8e7593-7a75-4b58-b709-542f06ee7a28.0005
   content_url: http://publications.europa.eu/resource/cellar/82067e60-3e52-11f1-814f-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0083-20260927
-  retrieved_at: '2026-10-22T02:38:42Z'
+  retrieved_at: '2026-10-22T15:50:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T01:30:21.650+02:00'
 integrity:
@@ -60,9 +128,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:42Z'
-  notes: Texto consolidado 02011L0083-20260927.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:28Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2011-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -428,32 +496,20 @@ relationships:
   source: null
 article_structure:
   article_count: 44
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:42Z'
-  warnings: []
+  checked_at: '2026-10-22T15:50:28Z'
+  warnings:
+  - '02011L0083-20111122: versão indisponível (Sem expressão na língua por para CELEX 02011L0083-20111122.)'
   errors: []
 ---
 
 # Directiva 2011/83/UE do Parlamento Europeu e do Conselho, de 25 de Outubro de 2011
-
-> 02011L0083 — PT — 27.09.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015L2302) — [DIRETIVA (UE) 2015/2302 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2302) — L 326 — 1 — 11.12.2015
-- [►M2](http://publications.europa.eu/resource/celex/32019L2161) — [DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2161) — L 328 — 7 — 18.12.2019
-- [►M3](http://publications.europa.eu/resource/celex/32023L2673) — [DIRETIVA (UE) 2023/2673 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023L2673) — L 2673 — 1 — 28.11.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024L0825) — [DIRETIVA (UE) 2024/825 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024L0825) — L 825 — 1 — 6.3.2024
-
-## DIRECTIVA 2011/83/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Outubro de 2011
 

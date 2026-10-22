@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-2012-22.versoes.json
+  count: 1
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2012-01-12'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012D0022
   eli: http://data.europa.eu/eli/dec/2012/22/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9f5c04d7-c00b-46c0-94cb-a495a0aaacf5.0011
   content_url: http://publications.europa.eu/resource/cellar/9f5c04d7-c00b-46c0-94cb-a495a0aaacf5.0011.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:55Z'
+  retrieved_at: '2026-10-22T15:58:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T12:39:19.807+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:55Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:22Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2012-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,21 +113,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/498bc8be-ec0b-434f-bf94-8f037dc2642d
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:55Z'
+  checked_at: '2026-10-22T15:58:22Z'
   warnings:
-  - 'Versão consolidada 02012D0022-20130701 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02012D0022-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DECISÃO DO CONSELHO
+# 2012/22/UE: Decisão do Conselho, de 12 de dezembro de 2011
 
 de 12 de dezembro de 2011
 

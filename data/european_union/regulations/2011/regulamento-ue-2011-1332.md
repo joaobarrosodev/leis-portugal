@@ -36,6 +36,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-10'
+version_history:
+  file: regulamento-ue-2011-1332.versoes.json
+  count: 3
+  source_lastmod: '2025-03-10'
+  versions:
+  - date: '2011-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-08-25'
+    amending: eu:celex:32016R0583:por
+    amending_title: REGULAMENTO (UE) 2016/583 DA COMISSÃO de 15 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 5.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Sistema anticolisão de bordo (ACAS) II
+    - Adita (Parte ACAS)
+    - Adita AUR.ACAS.1005 Requisito de desempenho
+    - Adita AUR.ACAS.1010 Formação para o ACAS II
+    - Suprime Artigo 4.º — Disposições especiais aplicáveis aos operadores sujeitos ao Regulamento (CEE) n.º 3922/91 do Conselho
+      [([^3])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr3-L_2011336PT.01002001-E0003)
+  - date: '2025-03-10'
+    amending: eu:celex:32025R0343:por
+    amending_title: M2
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera AUR.ACAS.1005 Requisito de desempenho
+    - Altera Notas
 identifiers:
   celex: 32011R1332
   eli: http://data.europa.eu/eli/reg/2011/1332/oj
@@ -50,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003
   content_url: http://publications.europa.eu/resource/cellar/79ca2d4b-0446-11f0-9503-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1332-20250310
-  retrieved_at: '2026-10-22T02:59:49Z'
+  retrieved_at: '2026-10-22T15:58:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T23:12:18.849+02:00'
 integrity:
@@ -59,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:49Z'
-  notes: Texto consolidado 02011R1332-20250310.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:19Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-1332.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,34 +150,19 @@ relationships:
   date: '2018-03-26'
 article_structure:
   article_count: 4
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:49Z'
+  checked_at: '2026-10-22T15:58:19Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1332/2011 da Comissão, de 16 de Dezembro de 2011
-
-> 02011R1332 — PT — 10.03.2025 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R0583) — [REGULAMENTO (UE) 2016/583 DA COMISSÃO de 15 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0583) — L 101 — 7 — 16.4.2016
-- [M2](http://publications.europa.eu/resource/celex/32025R0343) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/343 DA COMISSÃO de 17 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0343) — L 343 — 1 — 18.2.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32025R0343R%2801%29) — [Rectificação, JO L 90823, 22.10.2025, p. 1 ((UE) 2025/3432025/343)](http://publications.europa.eu/resource/celex/32025R0343R%2801%29)
-
-## REGULAMENTO (UE) N.º 1332/2011 DA COMISSÃO
 
 de 16 de Dezembro de 2011
 

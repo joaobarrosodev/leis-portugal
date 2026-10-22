@@ -35,6 +35,307 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-07'
+version_history:
+  file: regulamento-ue-2012-748.versoes.json
+  count: 11
+  source_lastmod: '2026-08-07'
+  versions:
+  - date: '2012-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-05-18'
+    amending: eu:celex:32013R0007:por
+    amending_title: REGULAMENTO (UE) N. o 7/2013 DA COMISSÃO de 8 de janeiro de 2013; REGULAMENTO (UE) N. o 69/2014 DA COMISSÃO
+      de 27 de janeiro de 2014; REGULAMENTO (UE) 2015/1039 DA COMISSÃO de 30 de junho de 2015; M4; REGULAMENTO DELEGADO (UE)
+      2019/897 DA COMISSÃO de 12 de março de 2019; REGULAMENTO DELEGADO (UE) 2020/570 DA COMISSÃO de 28 de janeiro de 2020;
+      REGULAMENTO DELEGADO (UE) 2021/699 DA COMISSÃO de 21 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito e definições
+    - Altera Artigo 3.º — Continuidade da validade dos certificados-tipo e dos certificados de aeronavegabilidade conexos
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera Artigo 12.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 7.º-A — Dados de adequação operacional
+    - Adita ANEXO I
+    - Adita PARTE 21
+    - Adita Certificação de aeronaves e respetivos produtos, peças e equipamentos, e certificação de entidades de projeto
+      e de produção
+    - Adita 21.1 Generalidades
+    - Adita SECÇÃO A
+    - Adita REQUISITOS TÉCNICOS
+    - Adita SECÇÃO B
+    - Adita PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Adita Apêndices
+    - Adita FORMULÁRIOS DA EASA
+    - Adita Apêndice I
+    - Adita Certificado de Aptidão para o Serviço — Formulário 1 da AESA referido no anexo I (parte 21)
+    - Adita Instruções de utilização do formulário 1 da AESA
+    - Adita Apêndice II
+    - Adita Certificado de Avaliação da Aeronavegabilidade — Formulário 15a da AESA
+    - Adita Certificado de Avaliação da Aeronavegabilidade — Formulário 15c da AESA
+    - Adita Apêndice III
+    - Adita Apêndice IV
+    - Adita Apêndice V
+    - Adita Certificado de Aeronavegabilidade Restrito — Formulário 24 da AESA
+    - Adita Apêndice VI
+    - Adita Certificado de Aeronavegabilidade — Formulário 25 da AESA
+    - Adita Apêndice VII
+    - Adita Apêndice VIII
+    - Adita Declaração de Conformidade da Aeronave — Formulário 52 da AESA
+    - Adita Instruções de utilização do formulário 52 da AESA — Declaração de Conformidade da Aeronave
+    - Adita 1. OBJETO E ÂMBITO DE APLICAÇÃO
+    - Adita 2. GENERALIDADES
+    - Adita 3. PREENCHIMENTO DA DECLARAÇÃO DE CONFORMIDADE PELA ENTIDADE EMISSORA
+    - Adita Apêndice IX
+    - Adita CERTIFICADO DE APTIDÃO PARA SERVIÇO — FORMULÁRIO 53 DA EASA
+    - Adita INSTRUÇÕES DE PREENCHIMENTO
+    - Adita Apêndice X
+  - date: '2021-07-25'
+    amending: eu:celex:32021R1088:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1088 DA COMISSÃO de 7 de abril de 2021
+    changes:
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera Notas
+  - date: '2022-03-07'
+    amending: eu:celex:32022R0201:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/201 DA COMISSÃO de 10 de dezembro de 2021; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/203 DA COMISSÃO de 14 de fevereiro de 2022
+    changes:
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera Notas
+  - date: '2022-05-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera Certificação de aeronaves e respetivos produtos, peças e equipamentos, e certificação de entidades de projeto
+      e de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera Notas
+  - date: '2023-03-07'
+    amending: eu:celex:32022R1253:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1253 DA COMISSÃO de 19 de julho de 2022
+    changes:
+    - Altera Artigo 8.º — Entidades de projeto
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera Certificação de aeronaves e respetivos produtos, peças e equipamentos, e certificação de entidades de projeto
+      e de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera Declaração de Conformidade da Aeronave — Formulário 52 da AESA
+    - Altera 1. OBJETO E ÂMBITO DE APLICAÇÃO
+    - Altera 2. GENERALIDADES
+    - Altera 3. PREENCHIMENTO DA DECLARAÇÃO DE CONFORMIDADE PELA ENTIDADE EMISSORA
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera Notas
+    - Adita 21.1. Autoridade competente
+    - Adita 21.2. Âmbito de aplicação
+    - Adita Certificado de aprovação como entidade de produção — Formulário 55 da AESA
+    - Adita Carta de acordo para produção sem aprovação como entidade de produção — Formulário AESA 65
+    - Suprime 21.1 Generalidades
+    - Suprime Certificados de Aprovação como Entidade de Produção referidos na subparte G do anexo I (parte 21) — Formulário
+      55 da AESA
+    - Suprime Carta de Acordo — Formulário 65 da AESA referido na subparte F do anexo I (parte 21)
+  - date: '2023-08-25'
+    amending: eu:celex:32022R1358:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1358 DA COMISSÃO de 2 de junho de 2022; REGULAMENTO DE EXECUÇÃO (UE) 2022/1361
+      DA COMISSÃO de 28 de julho de 2022; REGULAMENTO DELEGADO (UE) 2023/1028 DA COMISSÃO de 20 de março de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Certificação de produtos, peças e equipamentos
+    - Altera Artigo 3.º — Continuidade da validade dos certificados-tipo e dos certificados de aeronavegabilidade conexos
+    - Altera Artigo 8.º — Entidades de projeto
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Instruções de utilização do formulário 1 da AESA
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera Notas
+    - Adita Artigo 1.º — Âmbito de aplicação e definições
+    - Adita Artigo 2.º-A — Disposições transitórias aplicáveis aos certificados anteriormente emitidos ao abrigo do anexo
+      I (parte 21)
+    - Adita Artigo 10.º — Medidas da responsabilidade da Agência
+    - Adita ANEXO I-B
+    - Adita 21L.1 Âmbito de aplicação
+    - Adita 21L.2 Autoridade competente
+    - Adita SUBPARTE A — DISPOSIÇÕES GERAIS
+    - Adita SUBPARTE B — CERTIFICADOS DE TIPO
+    - Adita SUBPARTE C — DECLARAÇÕES DE CONFORMIDADE DO PROJETO
+    - Adita SUBPARTE D — ALTERAÇÕES AOS CERTIFICADOS-TIPO
+    - Adita SUBPARTE E — CERTIFICADOS-TIPO SUPLEMENTARES
+    - Adita SUBPARTE F — ALTERAÇÕES DE AERONAVES PARA AS QUAIS TENHA SIDO DECLARADA A CONFORMIDADE DO PROJETO
+    - Adita SUBPARTE G — ENTIDADES DE PRODUÇÃO DECLARADAS
+    - Adita SUBPARTE H — CERTIFICADOS DE AERONAVEGABILIDADE E CERTIFICADOS DE AERONAVEGABILIDADE RESTRITOS
+    - Adita SUBPARTE I — CERTIFICADOS DE RUÍDO E CERTIFICADOS DE RUÍDO RESTRITOS
+    - Adita SUBPARTE J — ENTIDADES DE PROJETO DECLARADAS
+    - Adita SUBPARTE K — PEÇAS
+    - Adita SUBPARTE M — PROJETO DE REPARAÇÕES DE PRODUTOS COM CERTIFICAÇÃO DE TIPO
+    - Adita SUBPARTE N — PROJETO DE REPARAÇÕES DE AERONAVES PARA AS QUAIS TENHA SIDO DECLARADA A CONFORMIDADE DO PROJETO
+    - Adita SUBPARTE O — AUTORIZAÇÕES ETSO (ESPECIFICAÇÕES TÉCNICAS NORMALIZADAS EUROPEIAS)
+    - Adita SUBPARTE P — LICENÇAS DE VOO
+    - Adita SUBPARTE Q — IDENTIFICAÇÃO DE PRODUTOS E PEÇAS
+    - Adita SUBPARTE R — DECLARAÇÃO DE CONFORMIDADE DAS AERONAVES E CERTIFICADOS DE APTIDÃO PARA SERVIÇO (FORMULÁRIO 1 DA
+      AESA) PARA MOTORES E HÉLICES, E RESPETIVAS PEÇAS, CONFORMES COM UMA DECLARAÇÃO DE CONFORMIDADE COM O PROJETO
+    - Adita PROCEDIMENTOS A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Adita SUBPARTE I — CERTIFICADOS DE RUÍDO
+    - Adita SUBPARTE Q — IDENTIFICAÇÃO DE PRODUTOS, PEÇAS E EQUIPAMENTOS
+    - Adita SUBPARTE R — DECLARAÇÃO DE CONFORMIDADE DAS AERONAVES E CERTIFICADOS DE APTIDÃO PARA O SERVIÇO (FORMULÁRIO 1 DA
+      AESA) PARA MOTORES, HÉLICES E RESPETIVAS PEÇAS, QUE ESTEJAM EM CONFORMIDADE COM UMA DECLARAÇÃO DE CONFORMIDADE COM O
+      PROJETO
+    - Adita APÊNDICES DO ANEXO I-B (Parte 21 - Light)
+    - Adita FORMULÁRIOS DA AESA
+    - Adita Certificado de Aeronavegabilidade Restrito — Formulário 24B da AESA
+    - Adita CERTIFICADO DE AERONAVEGABILIDADE RESTRITO (DECLARADO)
+  - date: '2025-05-01'
+    amending: eu:celex:32024R1108:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1108 DA COMISSÃO de 13 de março de 2024; REGULAMENTO DE EXECUÇÃO (UE) 2024/1110
+      DA COMISSÃO de 10 de abril de 2024; REGULAMENTO DELEGADO (UE) 2025/1065 DA COMISSÃO de 28 de maio de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Artigo 8.º — Entidades de projeto
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera FORMULÁRIOS DA EASA
+    - Altera Certificado de Aptidão para o Serviço — Formulário 1 da AESA referido no anexo I (parte 21)
+    - Altera Instruções de utilização do formulário 1 da AESA
+    - Altera Certificado de Aeronavegabilidade Restrito — Formulário 24 da AESA
+    - Altera Certificado de Aeronavegabilidade — Formulário 25 da AESA
+    - Altera Apêndice VII
+    - Altera 1. OBJETO E ÂMBITO DE APLICAÇÃO
+    - Altera 3. PREENCHIMENTO DA DECLARAÇÃO DE CONFORMIDADE PELA ENTIDADE EMISSORA
+    - Altera Apêndice IX
+    - Altera Certificado de aprovação como entidade de produção — Formulário 55 da AESA
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera ANEXO I-B
+    - Altera SUBPARTE A — DISPOSIÇÕES GERAIS
+    - Altera SUBPARTE K — PEÇAS
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO (DECLARADO)
+    - Altera Declaração de Conformidade da Aeronave — Formulário 52B da AESA
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Certificação de produtos, peças, equipamentos, unidades de controlo e de monitorização e seus componentes
+    - Adita Certificação de aeronaves e respetivos produtos, peças, equipamentos, unidades de controlo e de monitorização
+      e seus componentes, e certificação de entidades de projeto e de produção
+    - Adita Formulários 15a, 15c e 15d da AESA — Certificado de Avaliação da Aeronavegabilidade
+    - Adita Certificado de Avaliação da Aeronavegabilidade — Formulário 15d da AESA —
+    - Adita Licença de Voo — Formulário 20a da AESA
+    - Adita Licença de voo (emitida por entidades certificadas) — Formulário 20b da AESA
+    - Adita CERTIFICADO DE AERONAVEGABILIDADE RESTRITO
+    - Adita CERTIFICADO DE AERONAVEGABILIDADE
+    - Adita Declaração de Conformidade da Aeronave/do Sistema de Aeronave Não Tripulada — Formulário 52 da AESA
+    - Adita Instruções de utilização do Formulário 52 da AESA — Declaração de Conformidade da aeronave/do sistema de aeronave
+      não tripulada
+    - Adita Carta de acordo para produção sem aprovação como entidade de produção — Formulário 65 da AESA
+    - Adita Carta de acordo referida na Subparte F do Anexo I (Parte 21)
+    - Adita PARTE 21 — LIGHT
+    - Adita Certificação e declaração de conformidade do projeto de aeronaves à exceção das aeronaves não tripuladas destinadas
+      principalmente à aviação desportiva e recreativa e produtos e peças conexos, bem como declaração da capacidade de projeto
+      e produção das entidades
+    - Suprime Artigo 2.º — Certificação de produtos, peças e equipamentos
+    - Suprime Certificação de aeronaves e respetivos produtos, peças e equipamentos, e certificação de entidades de projeto
+      e de produção
+  - date: '2025-10-16'
+    amending: eu:celex:32022R1645:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1645 DA COMISSÃO de 14 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Certificação de produtos, peças, equipamentos, unidades de controlo e de monitorização e seus componentes
+    - Altera Artigo 8.º — Entidades de projeto
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera Certificação de aeronaves e respetivos produtos, peças, equipamentos, unidades de controlo e de monitorização
+      e seus componentes, e certificação de entidades de projeto e de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera FORMULÁRIOS DA EASA
+    - Altera Certificado de Avaliação da Aeronavegabilidade — Formulário 15d da AESA —
+    - Altera Licença de Voo — Formulário 20a da AESA
+    - Altera Licença de voo (emitida por entidades certificadas) — Formulário 20b da AESA
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE
+    - Altera Apêndice VII
+    - Altera Declaração de Conformidade da Aeronave/do Sistema de Aeronave Não Tripulada — Formulário 52 da AESA
+    - Altera 3. PREENCHIMENTO DA DECLARAÇÃO DE CONFORMIDADE PELA ENTIDADE EMISSORA
+    - Altera Certificado de aprovação como entidade de produção — Formulário 55 da AESA
+    - Altera Carta de acordo referida na Subparte F do Anexo I (Parte 21)
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera SUBPARTE A — DISPOSIÇÕES GERAIS
+    - Altera SUBPARTE K — PEÇAS
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO (DECLARADO)
+    - Altera Declaração de Conformidade da Aeronave — Formulário 52B da AESA
+    - Altera Notas
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/2293 DA COMISSÃO de 10 de novembro de 2025
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Certificação de produtos, peças, equipamentos, unidades de controlo e de monitorização e seus componentes
+    - Altera Artigo 8.º — Entidades de projeto
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera Certificação de aeronaves e respetivos produtos, peças, equipamentos, unidades de controlo e de monitorização
+      e seus componentes, e certificação de entidades de projeto e de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera FORMULÁRIOS DA EASA
+    - Altera Certificado de Avaliação da Aeronavegabilidade — Formulário 15d da AESA —
+    - Altera Licença de Voo — Formulário 20a da AESA
+    - Altera Licença de voo (emitida por entidades certificadas) — Formulário 20b da AESA
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE
+    - Altera Apêndice VII
+    - Altera Declaração de Conformidade da Aeronave/do Sistema de Aeronave Não Tripulada — Formulário 52 da AESA
+    - Altera 3. PREENCHIMENTO DA DECLARAÇÃO DE CONFORMIDADE PELA ENTIDADE EMISSORA
+    - Altera Certificado de aprovação como entidade de produção — Formulário 55 da AESA
+    - Altera Carta de acordo referida na Subparte F do Anexo I (Parte 21)
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera SUBPARTE A — DISPOSIÇÕES GERAIS
+    - Altera SUBPARTE K — PEÇAS
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO (DECLARADO)
+    - Altera Declaração de Conformidade da Aeronave — Formulário 52B da AESA
+    - Altera Notas
+  - date: '2026-08-07'
+    amending: eu:celex:32026R0056:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/56 DA COMISSÃO de 23 de outubro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2026/100
+      DA COMISSÃO de 15 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Artigo 8.º — Entidades de projeto
+    - Altera Artigo 9.º — Entidades de produção
+    - Altera Certificação de aeronaves e respetivos produtos, peças, equipamentos, unidades de controlo e de monitorização
+      e seus componentes, e certificação de entidades de projeto e de produção
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTOS DAS AUTORIDADES COMPETENTES
+    - Altera FORMULÁRIOS DA EASA
+    - Altera Licença de Voo — Formulário 20a da AESA
+    - Altera Licença de voo (emitida por entidades certificadas) — Formulário 20b da AESA
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE
+    - Altera Apêndice VII
+    - Altera Declaração de Conformidade da Aeronave/do Sistema de Aeronave Não Tripulada — Formulário 52 da AESA
+    - Altera Certificado de aprovação como entidade de produção — Formulário 55 da AESA
+    - Altera Carta de acordo referida na Subparte F do Anexo I (Parte 21)
+    - Altera D. Competência e experiência dos pilotos e dos técnicos principais de voo de ensaio
+    - Altera Certificação e declaração de conformidade do projeto de aeronaves à exceção das aeronaves não tripuladas destinadas
+      principalmente à aviação desportiva e recreativa e produtos e peças conexos, bem como declaração da capacidade de projeto
+      e produção das entidades
+    - Altera SUBPARTE A — DISPOSIÇÕES GERAIS
+    - Altera SUBPARTE H — CERTIFICADOS DE AERONAVEGABILIDADE E CERTIFICADOS DE AERONAVEGABILIDADE RESTRITOS
+    - Altera SUBPARTE K — PEÇAS
+    - Altera CERTIFICADO DE AERONAVEGABILIDADE RESTRITO (DECLARADO)
+    - Altera Declaração de Conformidade da Aeronave — Formulário 52B da AESA
+    - Altera Notas
+    - Suprime Formulários 15a, 15c e 15d da AESA — Certificado de Avaliação da Aeronavegabilidade
+    - Suprime Certificado de Avaliação da Aeronavegabilidade — Formulário 15c da AESA
+    - Suprime Certificado de Avaliação da Aeronavegabilidade — Formulário 15d da AESA —
 identifiers:
   celex: 32012R0748
   eli: http://data.europa.eu/eli/reg/2012/748/oj
@@ -49,7 +350,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/de093874-a22d-40ef-a7bf-5998d8920152.0006
   content_url: http://publications.europa.eu/resource/cellar/75eb7f3c-6994-11f1-ae88-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0748-20260807
-  retrieved_at: '2026-10-22T02:45:43Z'
+  retrieved_at: '2026-10-22T16:03:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-27T09:43:19.418+02:00'
 integrity:
@@ -58,9 +359,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:43Z'
-  notes: Texto consolidado 02012R0748-20260807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:03:52Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2012-748.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -330,55 +631,28 @@ relationships:
   date: '2009-12-09'
 article_structure:
   article_count: 13
-  section_count: 109
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 111
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:43Z'
-  warnings: []
+  checked_at: '2026-10-22T16:03:52Z'
+  warnings:
+  - '02012R0748-20130129: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20140217: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20150721: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20160126: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20190623: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20200323: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0748-20200324: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 748/2012 da Comissão, de 3 de agosto de 2012
-
-> 02012R0748 — PT — 07.08.2026 — 019.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013R0007) — [REGULAMENTO (UE) N.º 7/2013 DA COMISSÃO de 8 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0007) — L 4 — 36 — 9.1.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014R0069) — [REGULAMENTO (UE) N.º 69/2014 DA COMISSÃO de 27 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0069) — L 23 — 12 — 28.1.2014
-- [►M3](http://publications.europa.eu/resource/celex/32015R1039) — [REGULAMENTO (UE) 2015/1039 DA COMISSÃO de 30 de junho de 2015](http://publications.europa.eu/resource/celex/32015R1039) — L 167 — 1 — 1.7.2015
-- [M4](http://publications.europa.eu/resource/celex/32016R0005) — [REGULAMENTO (UE) 2016/5 DA COMISSÃO de 5 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0005) — L 3 — 3 — 6.1.2016
-- [►M5](http://publications.europa.eu/resource/celex/32019R0897) — [REGULAMENTO DELEGADO (UE) 2019/897 DA COMISSÃO de 12 de março de 2019](http://publications.europa.eu/resource/celex/32019R0897) — L 144 — 1 — 3.6.2019
-- [►M6](http://publications.europa.eu/resource/celex/32020R0570) — [REGULAMENTO DELEGADO (UE) 2020/570 DA COMISSÃO de 28 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0570) — L 132 — 1 — 27.4.2020
-- [►M7](http://publications.europa.eu/resource/celex/32021R0699) — [REGULAMENTO DELEGADO (UE) 2021/699 DA COMISSÃO de 21 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0699) — L 145 — 1 — 28.4.2021
-- [M8](http://publications.europa.eu/resource/celex/32021R1088) — [REGULAMENTO DELEGADO (UE) 2021/1088 DA COMISSÃO de 7 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1088) — L 236 — 3 — 5.7.2021
-- [►M9](http://publications.europa.eu/resource/celex/32022R0201) — [REGULAMENTO DELEGADO (UE) 2022/201 DA COMISSÃO de 10 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0201) — L 33 — 7 — 15.2.2022
-- [►M10](http://publications.europa.eu/resource/celex/32022R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/203 DA COMISSÃO de 14 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0203) — L 33 — 46 — 15.2.2022
-- [M11](http://publications.europa.eu/resource/celex/32022R1253) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1253 DA COMISSÃO de 19 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1253) — L 191 — 45 — 20.7.2022
-- [►M12](http://publications.europa.eu/resource/celex/32022R1358) — [REGULAMENTO DELEGADO (UE) 2022/1358 DA COMISSÃO de 2 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1358) — L 205 — 7 — 5.8.2022
-- [►M13](http://publications.europa.eu/resource/celex/32022R1361) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1361 DA COMISSÃO de 28 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1361) — L 205 — 127 — 5.8.2022
-- [►M14](http://publications.europa.eu/resource/celex/32022R1645) — [REGULAMENTO DELEGADO (UE) 2022/1645 DA COMISSÃO de 14 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1645) — L 248 — 18 — 26.9.2022
-- [►M15](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [►M16](http://publications.europa.eu/resource/celex/32023R1028) — [REGULAMENTO DELEGADO (UE) 2023/1028 DA COMISSÃO de 20 de março de 2023](http://publications.europa.eu/resource/celex/32023R1028) — L 139 — 10 — 26.5.2023
-- [►M17](http://publications.europa.eu/resource/celex/32024R1108) — [REGULAMENTO DELEGADO (UE) 2024/1108 DA COMISSÃO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R1108) — L 1108 — 1 — 23.5.2024
-- [►M18](http://publications.europa.eu/resource/celex/32024R1110) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1110 DA COMISSÃO de 10 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1110) — L 1110 — 1 — 23.5.2024
-- [►M19](http://publications.europa.eu/resource/celex/32025R1065) — [REGULAMENTO DELEGADO (UE) 2025/1065 DA COMISSÃO de 28 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1065) — L 1065 — 1 — 12.8.2025
-- [►M20](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-- [►M21](http://publications.europa.eu/resource/celex/32026R0056) — [REGULAMENTO DELEGADO (UE) 2026/56 DA COMISSÃO de 23 de outubro de 2025](http://publications.europa.eu/resource/celex/32026R0056) — L 56 — 1 — 19.1.2026
-- [►M22](http://publications.europa.eu/resource/celex/32026R0100) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/100 DA COMISSÃO de 15 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0100) — L 100 — 1 — 19.1.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32019R0897R%2801%29) — [Rectificação, JO L 146, 5.6.2019, p. 116 (2019/897)](http://publications.europa.eu/resource/celex/32019R0897R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32022R1358R%2802%29) — [Rectificação, JO L 90000, 5.10.2023, p. 1 ((UE) 2022/1358)](http://publications.europa.eu/resource/celex/32022R1358R%2802%29)
-
-## REGULAMENTO (UE) n.º 748/2012 DA COMISSÃO
 
 de 3 de agosto de 2012
 

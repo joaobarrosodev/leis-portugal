@@ -1,0 +1,256 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R1332:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1332-20250310",
+ "dre_path": null,
+ "source_lastmod": "2025-03-10",
+ "versions": [
+  {
+   "date": "2011-12-20",
+   "future": false,
+   "celex": "32011R1332",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8f55ddeba654b019",
+    "24a582c9cae711e8",
+    "a1bd0e669bfd3cb5",
+    "63463a407d8859b9",
+    "c7be7edbfdbfda28",
+    "d84c25d04a2cc885",
+    "6d29270da79180ce"
+   ]
+  },
+  {
+   "date": "2016-08-25",
+   "future": false,
+   "celex": "02011R1332-20160825",
+   "acts": [
+    {
+     "id": "eu:celex:32016R0583:por",
+     "title": "REGULAMENTO (UE) 2016/583 DA COMISSÃO de 15 de abril de 2016",
+     "published": null,
+     "celex": "32016R0583"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 5.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Sistema anticolisão de bordo (ACAS) II",
+    "Adita (Parte ACAS)",
+    "Adita AUR.ACAS.1005 Requisito de desempenho",
+    "Adita AUR.ACAS.1010 Formação para o ACAS II",
+    "Suprime Artigo 4.º — Disposições especiais aplicáveis aos operadores sujeitos ao Regulamento (CEE) n.º 3922/91 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr3-L_2011336PT.01002001-E0003)"
+   ],
+   "fragments": [
+    "0c0e980daa2b5f74",
+    "bf6d4279b08e3c83",
+    "b9640b9cec10e3e2",
+    "63463a407d8859b9",
+    "7eb9fe612866139c",
+    "10220b9774fa9034",
+    "f6b7ade254e49afe",
+    "7f64c330e026a937",
+    "175fe09ecc444369",
+    "e0fc88fda49f4b86",
+    "50574f0cc59849ba"
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "future": false,
+   "celex": "02011R1332-20250310",
+   "acts": [
+    {
+     "id": "eu:celex:32025R0343:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32025R0343"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera AUR.ACAS.1005 Requisito de desempenho",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0c0e980daa2b5f74",
+    "79fe3f78e7aef97e",
+    "b9640b9cec10e3e2",
+    "63463a407d8859b9",
+    "7eb9fe612866139c",
+    "10220b9774fa9034",
+    "f6b7ade254e49afe",
+    "7f64c330e026a937",
+    "9bca4e1c263e5db4",
+    "e0fc88fda49f4b86",
+    "21256f0f871e097b"
+   ]
+  }
+ ],
+ "fragments": {
+  "8f55ddeba654b019": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2011\n\nque estabelece requisitos comuns de utilização do espaço aéreo e procedimentos operacionais para a prevenção de colisões no ar\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE [([^1])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr1-L_2011336PT.01002001-E0001), nomeadamente o seu artigo 8.º, n.^os^ 1 e 5, e o seu artigo 9.º, n.º 4,\n\nConsiderando o seguinte:\n\n(1) Deverão ser impostos requisitos de segurança aos operadores de aeronaves matriculadas nos Estados-Membros ou num país terceiro e operadas por um operador da União, assim como aos operadores de aeronaves utilizadas por operadores de países terceiros dentro da União.\n\n(2) Na sequência de uma série de colisões no ar em que se perderam as margens de segurança, nomeadamente os acidentes de Yaizu (Japão) em 2001 e Überlingen (Alemanha) em 2002, o *software* actual do sistema anticolisão de bordo deve ser melhorado. Os estudos efectuados concluíram que, com o *software* actual do sistema, existe uma probabilidade de risco de colisão no ar de 2,7 × 10^-8^ por hora de voo. Por conseguinte, a actual versão 7.0 do ACAS II é considerada um risco inaceitável para a segurança.\n\n(3) É necessário introduzir uma nova versão do *software* do sistema anticolisão de bordo (ACAS II) para evitar colisões no ar de todas as aeronaves que voam no espaço aéreo abrangido pelo Regulamento (CE) n.º 216/2008.\n\n(4) Para garantir os mais elevados padrões de segurança possíveis, as aeronaves que não estejam abrangidas pelo requisito de instalação obrigatória a bordo mas nas quais tenha sido instalado o ACAS II antes da entrada em vigor do presente regulamento deverão instalar o sistema com a versão mais recente do *software* anticolisão.\n\n(5) Para garantir que os benefícios em termos de segurança associados à nova versão do *software* sejam alcançados, todas as aeronaves deverão ser equipadas com essa versão logo que tal seja possível na prática. No entanto, é necessário prever um prazo realista para a indústria aeronáutica se adaptar a este novo regulamento, tendo em conta a disponibilidade do novo equipamento.\n\n(6) A Agência elaborou um projecto de regras de execução e apresentou-o em forma de parecer à Comissão, em conformidade com o artigo 19.º, n.º 1, do Regulamento (CE) n.º 216/2008.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité da Agência Europeia para a Segurança da Aviação, instituído pelo artigo 65.º do Regulamento (CE) n.º 216/2008,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "24a582c9cae711e8": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece os requisitos comuns de utilização do espaço aéreo e os procedimentos operacionais para a prevenção de colisões no ar a cumprir pelos:\n\na) Operadores das aeronaves referidas no artigo 4.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 216/2008 que efectuem voos com destino à União, com partida da União ou dentro do seu espaço aéreo; e\n\nb) Operadores das aeronaves referidas no artigo 4.º, n.º 1, alínea d), do Regulamento (CE) n.º 216/2008 que efectuem voos no espaço aéreo sobre o território a que o Tratado se aplica, assim como em qualquer outro espaço aéreo em que os Estados-Membros apliquem o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr2-L_2011336PT.01002001-E0002)."
+  },
+  "a1bd0e669bfd3cb5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições:\n\n1) **«Sistema anticolisão de bordo (ACAS)»**– um sistema para aeronaves baseado nos sinais dos *transponders* dos radares de vigilância secundários (SSR) e que funciona independentemente dos equipamentos em terra e dá indicações ao piloto sobre eventuais aeronaves em possível rota de colisão que estejam equipadas com *transponders* SSR;\n\n2) **«Sistema anticolisão de bordo II (ACAS II)»**– um sistema anticolisão instalado a bordo que fornece alertas de proximidade no plano vertical para além de alertas de tráfego;\n\n3) **«Alerta de proximidade (RA – *resolution advisory*)»**– uma indicação fornecida à tripulação de voo que recomenda uma manobra destinada a afastar a aeronave de uma ameaça ou que impõe uma restrição a manobras a fim de manter a distância existente;\n\n4) **«Alerta de tráfego (TA – *traffic advisory*)»**– uma indicação fornecida à tripulação de voo de que a proximidade de outra aeronave constitui uma ameaça potencial."
+  },
+  "63463a407d8859b9": {
+   "fragment_id": "Artigo 3.º — Sistema anticolisão de bordo (ACAS)",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Sistema anticolisão de bordo (ACAS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sistema anticolisão de bordo (ACAS)\n\n1. Os aviões referidos na secção I do anexo do presente regulamento devem estar equipados e ser operados de acordo com as regras e os procedimentos especificados no anexo.\n\n2. Os Estados-Membros devem garantir que a operação dos aviões referidos no artigo 1.º, n.º 2, alínea a), do Regulamento (CE) n.º 216/2008 cumpra as regras e os procedimentos especificados no anexo, de acordo com as condições estabelecidas nesse artigo."
+  },
+  "c7be7edbfdbfda28": {
+   "fragment_id": "Artigo 4.º — Disposições especiais aplicáveis aos operadores sujeitos ao Regulamento (CEE) n.º 3922/91 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr3-L_2011336PT.01002001-E0003)",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Disposições especiais aplicáveis aos operadores sujeitos ao Regulamento (CEE) n.º 3922/91 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr3-L_2011336PT.01002001-E0003)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições especiais aplicáveis aos operadores sujeitos ao Regulamento (CEE) n.º 3922/91 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntr3-L_2011336PT.01002001-E0003)\n\n1. Por derrogação à disposições OPS 1.668 e OPS 1.398 do anexo III do Regulamento (CEE) n.º 3922/91, o artigo 3.º e o anexo do presente regulamento aplicam-se aos operadores de aviões referidos no artigo 1.º, alínea a).\n\n2. Qualquer outra obrigação imposta aos operadores aéreos pelo Regulamento (CEE) n.º 3922/91 no que respeita à homologação, instalação ou operação de equipamentos continua a aplicar-se ao ACAS II."
+  },
+  "d84c25d04a2cc885": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Os artigos 3.º e 4.º aplicam-se a partir de 1 de Março de 2012.\n\n3. Por derrogação ao n.º 2, no caso das aeronaves cujo certificado individual de aeronavegabilidade tenha sido emitido antes de 1 de Março de 2012, as disposições dos artigos 3.º e 4.º aplicam-se a partir de 1 de Dezembro de 2015.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "6d29270da79180ce": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntc1-L_2011336PT.01002001-E0001) [JO L 79 de 19.3.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntc2-L_2011336PT.01002001-E0002) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/8d75d5d5-8ec7-40de-a20f-ae274a567723.0003.03/DOC_1#ntc3-L_2011336PT.01002001-E0003) [JO L 373 de 31.12.1991, p. 4](http://publications.europa.eu/resource/oj/JOL_1991_373_R_TOC)."
+  },
+  "0c0e980daa2b5f74": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2011\n\nque estabelece requisitos comuns de utilização do espaço aéreo e procedimentos operacionais para a prevenção de colisões no ar\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "bf6d4279b08e3c83": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece os requisitos comuns de utilização do espaço aéreo e os procedimentos operacionais para a prevenção de colisões no ar a cumprir pelos:\n\na) Operadores das aeronaves referidas no artigo 4.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 216/2008 que efectuem voos com destino à União, com partida da União ou dentro do seu espaço aéreo; e\n\nb) Operadores das aeronaves referidas no artigo 4.º, n.º 1, alínea d), do Regulamento (CE) n.º 216/2008 que efectuem voos no espaço aéreo sobre o território a que o Tratado se aplica, assim como em qualquer outro espaço aéreo em que os Estados-Membros apliquem o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/24e786f1-5bb1-4c4c-bb59-bdc4dcfd8aac.0015.02/DOC_1#E0001))."
+  },
+  "b9640b9cec10e3e2": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições:\n\n1) «Sistema anticolisão de bordo (ACAS)» – um sistema para aeronaves baseado nos sinais dos *transponders* dos radares de vigilância secundários (SSR) e que funciona independentemente dos equipamentos em terra e dá indicações ao piloto sobre eventuais aeronaves em possível rota de colisão que estejam equipadas com *transponders* SSR;\n\n2) «Sistema anticolisão de bordo II (ACAS II)» – um sistema anticolisão instalado a bordo que fornece alertas de proximidade no plano vertical para além de alertas de tráfego;\n\n3) «Alerta de proximidade (RA – *resolution advisory*)» – uma indicação fornecida à tripulação de voo que recomenda uma manobra destinada a afastar a aeronave de uma ameaça ou que impõe uma restrição a manobras a fim de manter a distância existente;\n\n4) «Alerta de tráfego (TA – *traffic advisory*)» – uma indicação fornecida à tripulação de voo de que a proximidade de outra aeronave constitui uma ameaça potencial."
+  },
+  "7eb9fe612866139c": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O artigo 3.º é aplicável a partir de 1 de março de 2012.\n\n3. Por derrogação ao n.º 2, no caso das aeronaves cujo certificado individual de aeronavegabilidade tenha sido emitido antes de 1 de março de 2012, as disposições do artigo 3.º aplicam-se a partir de 1 de dezembro de 2015.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "f6b7ade254e49afe": {
+   "fragment_id": "Sistema anticolisão de bordo (ACAS) II",
+   "type": "divisao",
+   "heading": "Sistema anticolisão de bordo (ACAS) II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sistema anticolisão de bordo (ACAS) II"
+  },
+  "7f64c330e026a937": {
+   "fragment_id": "(Parte ACAS)",
+   "type": "divisao",
+   "heading": "(Parte ACAS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Parte ACAS)"
+  },
+  "175fe09ecc444369": {
+   "fragment_id": "AUR.ACAS.1005 Requisito de desempenho",
+   "type": "divisao",
+   "heading": "AUR.ACAS.1005 Requisito de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### AUR.ACAS.1005 Requisito de desempenho\n\n1) É obrigatória a instalação da versão 7.1 do sistema anticolisão de bordo ACAS II nos seguintes aviões de turbina:\n\na) Aviões com uma massa máxima certificada à descolagem superior a 5 700 kg ou\n\nb) Aviões autorizados a transportar mais de 19 passageiros.\n\n2) Os aviões não mencionados no ponto 1 equipados, a título voluntário, com o ACAS II devem ter instalada a versão 7.1 do *software* anticolisão.\n\n3) O disposto no ponto 1 não se aplica aos sistemas dos aviões não tripulados."
+  },
+  "e0fc88fda49f4b86": {
+   "fragment_id": "AUR.ACAS.1010 Formação para o ACAS II",
+   "type": "divisao",
+   "heading": "AUR.ACAS.1010 Formação para o ACAS II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### AUR.ACAS.1010 Formação para o ACAS II\n\nOs operadores devem estabelecer os procedimentos operacionais do ACAS II e os correspondentes programas de formação, de modo a que a tripulação de voo seja devidamente treinada para evitar colisões e disponha das competências necessárias para utilizar o equipamento ACAS II.\n\n---"
+  },
+  "50574f0cc59849ba": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/24e786f1-5bb1-4c4c-bb59-bdc4dcfd8aac.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 20."
+  },
+  "79fe3f78e7aef97e": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece os requisitos comuns de utilização do espaço aéreo e os procedimentos operacionais para a prevenção de colisões no ar a cumprir pelos:\n\na) Operadores das aeronaves referidas no artigo 4.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 216/2008 que efectuem voos com destino à União, com partida da União ou dentro do seu espaço aéreo; e\n\nb) Operadores das aeronaves referidas no artigo 4.º, n.º 1, alínea d), do Regulamento (CE) n.º 216/2008 que efectuem voos no espaço aéreo sobre o território a que o Tratado se aplica, assim como em qualquer outro espaço aéreo em que os Estados-Membros apliquem o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/79ca2d4b-0446-11f0-9503-01aa75ed71a1.0019.02/DOC_2#E0001))."
+  },
+  "9bca4e1c263e5db4": {
+   "fragment_id": "AUR.ACAS.1005 Requisito de desempenho",
+   "type": "divisao",
+   "heading": "AUR.ACAS.1005 Requisito de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### AUR.ACAS.1005 Requisito de desempenho\n\n1) É obrigatória a instalação da versão 7.1 do sistema anticolisão de bordo ACAS II ou a instalação do sistema ACAS Xa nos seguintes aviões de turbina:\n\na) Aviões com uma massa máxima certificada à descolagem superior a 5 700 kg;\n\nb) Aviões autorizados a transportar mais de 19 passageiros.\n\n2) Os aviões não mencionados no ponto 1, mas equipados, a título voluntário, com o ACAS II devem ter instalada a versão 7.1 do *software* anticolisão ou o sistema ACAS Xa.\n\n3) O disposto no ponto 1 não se aplica aos sistemas de aeronaves não tripuladas."
+  },
+  "21256f0f871e097b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/79ca2d4b-0446-11f0-9503-01aa75ed71a1.0019.02/DOC_2#src.E0001)) JO L 96 de 31.3.2004, p. 20."
+  }
+ }
+}

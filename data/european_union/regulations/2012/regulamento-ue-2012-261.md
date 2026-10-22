@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-261.versoes.json
+  count: 1
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2012-03-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R0261
   eli: http://data.europa.eu/eli/reg/2012/261/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fc27a0ba-6f7e-4168-a04e-fe6999500e06.0004
   content_url: http://publications.europa.eu/resource/cellar/fc27a0ba-6f7e-4168-a04e-fe6999500e06.0004.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:16:09Z'
+  retrieved_at: '2026-10-22T15:59:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T06:27:19.241+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:09Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:11Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-261.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,21 +136,21 @@ relationships:
   date: '2013-12-23'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:09Z'
+  checked_at: '2026-10-22T15:59:11Z'
   warnings:
-  - Versão consolidada 02012R0261-20140101 indisponível (Sem expressão na língua por para CELEX 02012R0261-20140101.); usado
-    o texto do JO.
+  - '02012R0261-20120402: versão indisponível (Sem expressão na língua por para CELEX 02012R0261-20120402.)'
+  - '02012R0261-20140101: versão indisponível (Sem expressão na língua por para CELEX 02012R0261-20140101.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 261/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. ° 261/2012 do Parlamento Europeu e do Conselho, de 14 de março de 2012
 
 de 14 de março de 2012
 

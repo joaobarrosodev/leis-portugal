@@ -35,6 +35,161 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2011-1207.versoes.json
+  count: 6
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2011-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-10-20'
+    amending: eu:celex:32014R1028:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1028/2014 DA COMISSÃO de 26 de setembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Requisitos de interoperabilidade
+    - Altera Artigo 8.º — Aeronaves de Estado
+    - Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Artigo 14.º — Isenções aplicáveis a aeronaves
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Requisitos de desempenho a que se refere o artigo 4.º, n.º 3
+    - Adita 1. Requisitos aplicáveis aos dados de vigilância
+    - Adita 2. Requisitos de desempenho relativos aos dados de vigilância
+    - Adita ANEXO II
+    - 'Adita Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3,
+      o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2'
+    - 'Adita Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3,
+      o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3'
+    - 'Adita Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância
+      adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º
+      2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1'
+    - Adita ANEXO III
+    - Adita Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1
+    - Adita ANEXO IV
+    - Adita Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2
+    - Adita ANEXO V
+    - Adita Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º
+      1
+    - Adita ANEXO VI
+    - Adita Requisitos a que se refere o artigo 9.º
+    - Adita ANEXO VII
+    - Adita Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo
+      10.º
+    - Adita ANEXO VIII
+    - Adita Condições a que se refere o artigo 11.º, n.^os^ 1 e 2
+    - Adita ANEXO IX
+    - 'Adita Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1'
+    - 'Adita Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2'
+  - date: '2017-03-27'
+    amending: eu:celex:32017R0386:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/386 DA COMISSÃO de 6 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos de interoperabilidade
+    - Altera Artigo 6.º — Protecção do espectro
+    - Altera Artigo 8.º — Aeronaves de Estado
+    - Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Artigo 14.º — Isenções aplicáveis a aeronaves
+    - Altera Notas
+    - 'Adita Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3,
+      o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3'
+    - 'Adita Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3,
+      o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3'
+    - 'Adita Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância
+      adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º,
+      n.^os^ 2 e 3, e o artigo 14.º, n.º 1'
+    - 'Suprime Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º
+      3, o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2'
+    - 'Suprime Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º
+      3, o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3'
+    - 'Suprime Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância
+      adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º
+      2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1'
+  - date: '2020-05-20'
+    amending: eu:celex:32020R0587:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/587 DA COMISSÃO de 29 de abril de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Requisitos de desempenho
+    - Altera Artigo 5.º — Requisitos de interoperabilidade
+    - Altera Artigo 6.º — Protecção do espectro
+    - Altera Artigo 7.º — Procedimentos associados
+    - Altera Artigo 8.º — Aeronaves de Estado
+    - Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes
+    - 'Altera Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3,
+      o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3'
+    - 'Altera Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3,
+      o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3'
+    - 'Altera Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância
+      adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º,
+      n.^os^ 2 e 3, e o artigo 14.º, n.º 1'
+    - Altera Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2
+    - Altera Notas
+    - Adita Artigo 14.º-A — Planos de voo
+    - Suprime Artigo 14.º — Isenções aplicáveis a aeronaves
+  - date: '2022-01-25'
+    amending: eu:celex:32022R0002:por
+    amending_title: M4
+    changes:
+    - Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Requisitos de desempenho
+    - Suprime Artigo 5.º — Requisitos de interoperabilidade
+    - Suprime Artigo 6.º — Protecção do espectro
+    - Suprime Artigo 7.º — Procedimentos associados
+    - Suprime Artigo 8.º — Aeronaves de Estado
+    - Suprime Artigo 9.º — Requisitos de segurança
+    - Suprime Artigo 10.º — Conformidade ou adequação para utilização dos componentes
+    - Suprime Artigo 11.º — Verificação dos sistemas
+    - Suprime Artigo 12.º — Requisitos complementares
+    - Suprime Artigo 13.º — Isenções aplicáveis à cadeia de vigilância cooperativa
+    - Suprime Artigo 14.º-A — Planos de voo
+    - Suprime Artigo 15.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime Requisitos de desempenho a que se refere o artigo 4.º, n.º 3
+    - Suprime 1. Requisitos aplicáveis aos dados de vigilância
+    - Suprime 2. Requisitos de desempenho relativos aos dados de vigilância
+    - Suprime ANEXO II
+    - 'Suprime Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º
+      3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3'
+    - 'Suprime Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º
+      3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3'
+    - 'Suprime Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância
+      adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º,
+      n.^os^ 2 e 3, e o artigo 14.º, n.º 1'
+    - Suprime ANEXO III
+    - Suprime Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1
+    - Suprime ANEXO IV
+    - Suprime Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2
+    - Suprime ANEXO V
+    - Suprime Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º
+      1
+    - Suprime ANEXO VI
+    - Suprime Requisitos a que se refere o artigo 9.º
+    - Suprime ANEXO VII
+    - Suprime Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo
+      10.º
+    - Suprime ANEXO VIII
+    - Suprime Condições a que se refere o artigo 11.º, n.^os^ 1 e 2
+    - Suprime ANEXO IX
+    - 'Suprime Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1'
+    - 'Suprime Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2'
+    - Suprime Notas
 identifiers:
   celex: 32011R1207
   eli: http://data.europa.eu/eli/reg_impl/2011/1207/oj
@@ -49,7 +204,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022
   content_url: http://publications.europa.eu/resource/cellar/1621133e-8578-11ee-99ba-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1207-20231005
-  retrieved_at: '2026-10-22T02:48:27Z'
+  retrieved_at: '2026-10-22T15:58:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T08:09:20.013+02:00'
 integrity:
@@ -58,9 +213,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:27Z'
-  notes: Texto consolidado 02011R1207-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:09Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2011-1207.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,16 +297,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:27Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:58:09Z'
+  warnings: []
   errors: []
 ---
 

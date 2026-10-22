@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-16'
+version_history:
+  file: regulamento-ue-2012-236.versoes.json
+  count: 5
+  source_lastmod: '2024-01-16'
+  versions:
+  - date: '2012-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-09-17'
+    amending: eu:celex:32014R0909:por
+    amending_title: REGULAMENTO (UE) N. o 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Divulgação pública de posições líquidas curtas significativas em ações
+    - Altera Artigo 17.º — Isenção para atividades de criação de mercado e operações do mercado primário
+    - Altera Artigo 44.º — Procedimento de comité
+    - Altera Artigo 48.º — Entrada em vigor
+    - Altera Notas
+    - Suprime Artigo 15.º — Procedimentos de compra forçada
+  - date: '2022-01-31'
+    amending: eu:celex:32022R0027:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/27 DA COMISSÃO de 27 de setembro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Comunicação às autoridades competentes de posições líquidas curtas significativas em ações
+    - Altera Artigo 6.º — Divulgação pública de posições líquidas curtas significativas em ações
+    - Altera Artigo 17.º — Isenção para atividades de criação de mercado e operações do mercado primário
+    - Altera Artigo 44.º — Procedimento de comité
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Divulgação pública de posições líquidas curtas significativas em ações
+    - Altera Artigo 17.º — Isenção para atividades de criação de mercado e operações do mercado primário
+    - Altera Artigo 44.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 11.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-01-16'
+    amending: eu:celex:32023R2845:por
+    amending_title: REGULAMENTO (UE) 2023/2845 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Divulgação pública de posições líquidas curtas significativas em ações
+    - Altera Artigo 11.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 17.º — Isenção para atividades de criação de mercado e operações do mercado primário
+    - Altera Artigo 44.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 15.º — Procedimentos de recompra
 identifiers:
   celex: 32012R0236
   eli: http://data.europa.eu/eli/reg/2012/236/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dfcc726f-36b7-4db5-bd50-bbb1e3c6d329.0010
   content_url: http://publications.europa.eu/resource/cellar/ad53bbbf-db26-11ee-b9d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0236-20240116
-  retrieved_at: '2026-10-22T02:48:29Z'
+  retrieved_at: '2026-10-22T15:59:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T20:52:34.049+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:29Z'
-  notes: Texto consolidado 02012R0236-20240116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:09Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2012-236.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,32 +235,19 @@ relationships:
   date: '2014-12-05'
 article_structure:
   article_count: 49
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:29Z'
+  checked_at: '2026-10-22T15:59:09Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 236/2012 do Parlamento Europeu e do Conselho, de 14 de março de 2012
-
-> 02012R0236 — PT — 16.01.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0909) — [REGULAMENTO (UE) N.º 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014](http://publications.europa.eu/resource/celex/32014R0909) — L 257 — 1 — 28.8.2014
-- [►M2](http://publications.europa.eu/resource/celex/32022R0027) — [REGULAMENTO DELEGADO (UE) 2022/27 DA COMISSÃO de 27 de setembro de 2021](http://publications.europa.eu/resource/celex/32022R0027) — L 6 — 9 — 11.1.2022
-- [►M3](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M4](http://publications.europa.eu/resource/celex/32023R2845) — [REGULAMENTO (UE) 2023/2845 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2845) — L 2845 — 1 — 27.12.2023
-
-## REGULAMENTO (UE) N.º 236/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de março de 2012
 

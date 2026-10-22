@@ -36,6 +36,128 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-04'
+version_history:
+  file: diretiva-ue-2012-27.versoes.json
+  count: 4
+  source_lastmod: '2023-05-04'
+  versions:
+  - date: '2012-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-10-26'
+    amending: eu:celex:32013L0012:por
+    amending_title: DIRETIVA 2013/12/UE DO CONSELHO de 13 de maio de 2013; M2; DIRETIVA (UE) 2018/2002 DO PARLAMENTO EUROPEU
+      E DO CONSELHO Texto relevante para efeitos do EEE de 11 de dezembro de 2018; REGULAMENTO (UE) 2018/1999 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 11 de dezembro de 2018; REGULAMENTO DELEGADO (UE) 2019/826 DA COMISSÃO de 4 de março de 2019;
+      DIRETIVA (UE) 2019/944 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Objetivos de eficiência energética
+    - Altera Artigo 6.º — Aquisições por organismos públicos
+    - Altera Artigo 12.º — Programa de informação e de participação dos consumidores
+    - Altera Artigo 13.º — Sanções
+    - Altera Artigo 14.º — Promoção da eficiência no aquecimento e arrefecimento
+    - Altera Artigo 15.º — Transformação, transporte e distribuição de energia
+    - Altera Artigo 18.º — Serviços energéticos
+    - Altera Artigo 20.º — Fundo Nacional de Eficiência Energética, financiamento e apoio técnico
+    - Altera Artigo 22.º — Atos delegados
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 24.º — Revisão e acompanhamento da aplicação
+    - Altera Artigo 27.º — Alterações e revogações
+    - Altera Artigo 30.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 7.º — Obrigação de economias de energia
+    - Adita Artigo 7.º-A — Regimes de obrigação de eficiência energética
+    - Adita Artigo 7.º-B — Medidas políticas alternativas
+    - Adita Artigo 9.º
+    - Adita Contagem de gás e eletricidade
+    - Adita Artigo 9.º-A — Contagem do consumo de energia para aquecimento, arrefecimento e água quente para uso doméstico
+    - Adita Artigo 9.º-B — Submedição e repartição dos custos de aquecimento, arrefecimento e água quente para uso doméstico
+    - Adita Artigo 9.º-C — Requisito relativo à leitura remota
+    - Adita Artigo 10.º
+    - Adita Informações sobre a faturação de gás e eletricidade
+    - Adita Artigo 10.º-A — Informações sobre a faturação e o consumo de aquecimento, arrefecimento e água quente para uso
+      doméstico
+    - Adita Artigo 11.º — Custo do acesso às informações sobre a contagem e a faturação de eletricidade e gás
+    - Adita Artigo 11.º-A — Custo do acesso às informações sobre contagem, faturação e consumo de aquecimento, arrefecimento
+      e água quente para uso doméstico
+    - Adita ANEXO I
+    - Adita PRINCÍPIOS GERAIS PARA O CÁLCULO DA ELETRICIDADE PRODUZIDA EM COGERAÇÃO
+    - Adita Parte I
+    - Adita Princípios gerais
+    - Adita Parte II
+    - Adita Tecnologias de cogeração abrangidas pela presente diretiva
+    - Adita ANEXO II
+    - Adita METODOLOGIA PARA A DETERMINAÇÃO DA EFICIÊNCIA DO PROCESSO DE COGERAÇÃO
+    - Adita a) Cogeração de elevada eficiência
+    - Adita b) Cálculo da economia de energia primária
+  - date: '2021-01-01'
+    amending: eu:celex:32019D0504:por
+    amending_title: DECISÃO (UE) 2019/504 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Objetivos de eficiência energética
+    - Altera Artigo 6.º — Aquisições por organismos públicos
+    - Altera Artigo 13.º — Sanções
+    - Altera Artigo 14.º — Promoção da eficiência no aquecimento e arrefecimento
+    - Altera Artigo 15.º — Transformação, transporte e distribuição de energia
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 24.º — Revisão e acompanhamento da aplicação
+    - Altera Artigo 27.º — Alterações e revogações
+    - Altera REQUISITOS DE EFICIÊNCIA ENERGÉTICA PARA A AQUISIÇÃO DE PRODUTOS, SERVIÇOS E EDIFÍCIOS PELAS ADMINISTRAÇÕES CENTRAIS
+    - 'Altera Métodos e princípios comuns de cálculo do impacto dos regimes de obrigação de eficiência energética ou de outras
+      medidas políticas, estabelecidos nos termos dos artigos 7.º, 7.º-A e 7.º-B, e do artigo 20.º, n.º 6:'
+    - Altera 1. Requisitos mínimos em matéria de faturação
+    - Altera PANORÂMICA DO SETOR DO AQUECIMENTO E ARREFECIMENTO
+    - Altera ANÁLISE DO POTENCIAL ECONÓMICO DA EFICIÊNCIA NO AQUECIMENTO E ARREFECIMENTO
+    - Altera NOVAS ESTRATÉGICAS E MEDIDAS POLÍTICAS A PONDERAR
+    - Altera Notas
+    - Adita Contagem de gás natural
+    - Adita Informações sobre a faturação de gás natural
+    - Adita Artigo 11.º
+    - Adita Custo do acesso às informações sobre contagem e faturação de gás natural
+    - Adita TEOR DE ENERGIA DOS COMBUSTÍVEIS SELECIONADOS PARA UTILIZAÇÃO FINAL – TABELA DE CONVERSÃO ([^14^](http://publications.europa.eu/resource/cellar/146b6f09-5666-11eb-b59f-01aa75ed71a1.0019.03/DOC_2#E0016))
+    - Adita Requisitos mínimos em matéria de faturação e informações sobre a faturação com base no consumo efetivo de gás
+      natural
+    - Suprime Contagem de gás e eletricidade
+    - Suprime Informações sobre a faturação de gás e eletricidade
+    - Suprime Artigo 11.º — Custo do acesso às informações sobre a contagem e a faturação de eletricidade e gás
+    - Suprime TEOR DE ENERGIA DOS COMBUSTÍVEIS SELECIONADOS PARA UTILIZAÇÃO FINAL – TABELA DE CONVERSÃO ([^15^](http://publications.europa.eu/resource/cellar/6ea32936-1857-11eb-b57e-01aa75ed71a1.0019.02/DOC_1#E0016))
+    - Suprime Requisitos mínimos em matéria de faturação e informações sobre a faturação com base no consumo efetivo de eletricidade
+      e de gás
+    - Suprime 1.1. Faturação com base no consumo efetivo
+    - Suprime 1.2. Informações mínimas contidas na fatura
+    - Suprime 1.3. Conselhos em matéria de eficiência energética que acompanham as faturas e outras informações destinadas
+      aos consumidores finais
+    - Suprime ANEXO XIV
+    - Suprime ENQUADRAMENTO GERAL DA APRESENTAÇÃO DE RELATÓRIOS
+    - Suprime Parte 1
+    - Suprime Enquadramento geral dos relatórios anuais
+    - Suprime Enquadramento geral dos Planos de Ação Nacionais em matéria de Eficiência Energética
+  - date: '2023-05-04'
+    amending: eu:celex:32023R0807:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/807 DA COMISSÃO de 15 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Objetivos de eficiência energética
+    - Altera Artigo 6.º — Aquisições por organismos públicos
+    - Altera Artigo 14.º — Promoção da eficiência no aquecimento e arrefecimento
+    - Altera Artigo 15.º — Transformação, transporte e distribuição de energia
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 24.º — Revisão e acompanhamento da aplicação
+    - Altera Artigo 27.º — Alterações e revogações
+    - Altera REQUISITOS DE EFICIÊNCIA ENERGÉTICA PARA A AQUISIÇÃO DE PRODUTOS, SERVIÇOS E EDIFÍCIOS PELAS ADMINISTRAÇÕES CENTRAIS
+    - 'Altera Métodos e princípios comuns de cálculo do impacto dos regimes de obrigação de eficiência energética ou de outras
+      medidas políticas, estabelecidos nos termos dos artigos 7.º, 7.º-A e 7.º-B, e do artigo 20.º, n.º 6:'
+    - Altera PANORÂMICA DO SETOR DO AQUECIMENTO E ARREFECIMENTO
+    - Altera ANÁLISE DO POTENCIAL ECONÓMICO DA EFICIÊNCIA NO AQUECIMENTO E ARREFECIMENTO
+    - Altera NOVAS ESTRATÉGICAS E MEDIDAS POLÍTICAS A PONDERAR
+    - Altera Notas
+    - Adita TEOR DE ENERGIA DOS COMBUSTÍVEIS SELECIONADOS PARA UTILIZAÇÃO FINAL – TABELA DE CONVERSÃO ([^14^](http://publications.europa.eu/resource/cellar/28acdca4-f984-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0016))
+    - Suprime TEOR DE ENERGIA DOS COMBUSTÍVEIS SELECIONADOS PARA UTILIZAÇÃO FINAL – TABELA DE CONVERSÃO ([^14^](http://publications.europa.eu/resource/cellar/146b6f09-5666-11eb-b59f-01aa75ed71a1.0019.03/DOC_2#E0016))
 identifiers:
   celex: 32012L0027
   eli: http://data.europa.eu/eli/dir/2012/27/oj
@@ -50,7 +172,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/345b96f1-2d99-11e2-ad46-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/28acdca4-f984-11ed-a05c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0027-20230504
-  retrieved_at: '2026-10-22T02:36:18Z'
+  retrieved_at: '2026-10-22T15:58:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T13:04:45.946+02:00'
 integrity:
@@ -59,9 +181,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:18Z'
-  notes: Texto consolidado 02012L0027-20230504.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:51Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2012-27.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -392,40 +514,23 @@ relationships:
   source: null
 article_structure:
   article_count: 36
-  section_count: 60
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 64
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:18Z'
-  warnings: []
+  checked_at: '2026-10-22T15:58:51Z'
+  warnings:
+  - '02012L0027-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012L0027-20181224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012L0027-20190612: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012L0027-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2012/27/UE do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
-
-> 02012L0027 — PT — 04.05.2023 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0012) — [DIRETIVA 2013/12/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0012) — L 141 — 28 — 28.5.2013
-- [M2](http://publications.europa.eu/resource/celex/32018L0844) — [DIRETIVA (UE) 2018/844 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0844) — L 156 — 75 — 19.6.2018
-- [►M3](http://publications.europa.eu/resource/celex/32018L2002) — [DIRETIVA (UE) 2018/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018L2002) — L 328 — 210 — 21.12.2018
-- [►M4](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-- [►M5](http://publications.europa.eu/resource/celex/32019D0504) — [DECISÃO (UE) 2019/504 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019D0504) — L 85I — 66 — 27.3.2019
-- [►M6](http://publications.europa.eu/resource/celex/32019R0826) — [REGULAMENTO DELEGADO (UE) 2019/826 DA COMISSÃO de 4 de março de 2019](http://publications.europa.eu/resource/celex/32019R0826) — L 137 — 3 — 23.5.2019
-- [►M7](http://publications.europa.eu/resource/celex/32019L0944) — [DIRETIVA (UE) 2019/944 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019L0944) — L 158 — 125 — 14.6.2019
-- [►M8](http://publications.europa.eu/resource/celex/32023R0807) — [REGULAMENTO DELEGADO (UE) 2023/807 DA COMISSÃO de 15 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0807) — L 101 — 16 — 14.4.2023
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32012L0027R%2801%29) — [Rectificação, JO L 113, 25.4.2013, p. 24 (2012/27/UE)](http://publications.europa.eu/resource/celex/32012L0027R%2801%29)
-
-## DIRETIVA 2012/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2012
 

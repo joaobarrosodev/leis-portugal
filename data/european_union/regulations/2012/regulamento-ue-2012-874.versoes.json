@@ -1,0 +1,511 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0874:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0874-20210901",
+ "dre_path": null,
+ "source_lastmod": "2021-09-01",
+ "versions": [
+  {
+   "date": "2012-09-26",
+   "future": false,
+   "celex": "32012R0874",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "81c3ec6179f8d016",
+    "86344067eb124c13",
+    "4194a7f7d207d7e2",
+    "348304511c4d6bd8",
+    "2deb1ec7fbac3037",
+    "e379ac5023df7f03",
+    "db0adb39b8e115d1",
+    "b5f18d0cd9f391dc",
+    "68dee64ead9b3071",
+    "e7ee2311404d6ec2",
+    "0a02c8218709b07b",
+    "cdb2985e2c74d2f6"
+   ]
+  },
+  {
+   "date": "2020-08-09",
+   "future": false,
+   "celex": "02012R0874-20200809",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0518:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014",
+     "published": null,
+     "celex": "32014R0518"
+    },
+    {
+     "id": "eu:celex:32017R0254:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0254"
+    },
+    {
+     "id": "eu:celex:32019R2015:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2019/2015 DA COMISSÃO de 11 de março de 2019",
+     "published": null,
+     "celex": "32019R2015"
+    },
+    {
+     "id": "eu:celex:32020R1059:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020",
+     "published": null,
+     "celex": "32020R1059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objeto e âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Responsabilidades dos fornecedores",
+    "Altera Artigo 4.º — Responsabilidades dos comerciantes",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Rótulo",
+    "Adita 1. RÓTULO PARA LÂMPADAS ELÉTRICAS APRESENTADAS NUM PONTO DE VENDA",
+    "Adita 2. RÓTULO PARA LUMINÁRIAS APRESENTADAS NUM PONTO DE VENDA",
+    "Adita ANEXO II",
+    "Adita Ficha de produto para lâmpadas elétricas",
+    "Adita ANEXO III",
+    "Adita Documentação técnica",
+    "Adita ANEXO IV",
+    "Adita Informações a fornecer nos casos em que não é de esperar que os proprietários finais vejam o produto exposto",
+    "Adita ANEXO V",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita 1. PROCEDIMENTO DE VERIFICAÇÃO PARA LÂMPADAS ELÉTRICAS E MÓDULOS LED COMERCIALIZADOS COMO PRODUTOS INDIVIDUAIS",
+    "Adita 2. PROCEDIMENTO DE VERIFICAÇÃO PARA LUMINÁRIAS A COMERCIALIZAR OU COMERCIALIZADAS JUNTO DO UTILIZADOR FINAL",
+    "Adita ANEXO VI",
+    "Adita Classes de eficiência energética",
+    "Adita ANEXO VII",
+    "Adita Método de cálculo do índice de eficiência energética e do consumo de energia",
+    "Adita 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CÁLCULO DO CONSUMO DE ENERGIA",
+    "Adita ANEXO VIII",
+    "Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet"
+   ],
+   "fragments": [
+    "2c9cf62c44ed405b",
+    "2d1f21d3f4b97336",
+    "efa766ef119deb43",
+    "df7bb62726b6161f",
+    "4194342f5d19fab8",
+    "e379ac5023df7f03",
+    "db0adb39b8e115d1",
+    "b5f18d0cd9f391dc",
+    "68dee64ead9b3071",
+    "e7ee2311404d6ec2",
+    "726fae4ef5b811e3",
+    "d664376e2a8dcecd",
+    "cd72cf4170b55dce",
+    "fa6f57c6071c1e4c",
+    "3189b3348b41462a",
+    "852174729551523b",
+    "ca7c812b7d52bca2",
+    "720af75c92791b10",
+    "5ce86a6badd94831",
+    "e03a0eb4d5b2eef3",
+    "7af6d305b16e2534",
+    "64610ae29a6cb67c",
+    "306a01b9a6d8ebf3",
+    "652c99e2077943da",
+    "c2c11de318758714",
+    "90c7d2baf4d44ee2",
+    "e82566f96ca25e23",
+    "d46ca50274582635",
+    "3ac67d86b9a21d13",
+    "b097dbd1885e10dd",
+    "b1c22d7fbb6f593d",
+    "1b41b51ec3248d43",
+    "ff067d11692b41d4",
+    "65a508f9a8707061"
+   ]
+  },
+  {
+   "date": "2021-09-01",
+   "future": false,
+   "celex": "02012R0874-20210901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objeto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Responsabilidades dos fornecedores",
+    "Suprime Artigo 4.º — Responsabilidades dos comerciantes",
+    "Suprime Artigo 5.º — Métodos de medição",
+    "Suprime Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Revogação",
+    "Suprime Artigo 9.º — Disposições transitórias",
+    "Suprime Artigo 10.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Rótulo",
+    "Suprime 1. RÓTULO PARA LÂMPADAS ELÉTRICAS APRESENTADAS NUM PONTO DE VENDA",
+    "Suprime 2. RÓTULO PARA LUMINÁRIAS APRESENTADAS NUM PONTO DE VENDA",
+    "Suprime ANEXO II",
+    "Suprime Ficha de produto para lâmpadas elétricas",
+    "Suprime ANEXO III",
+    "Suprime Documentação técnica",
+    "Suprime ANEXO IV",
+    "Suprime Informações a fornecer nos casos em que não é de esperar que os proprietários finais vejam o produto exposto",
+    "Suprime ANEXO V",
+    "Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime 1. PROCEDIMENTO DE VERIFICAÇÃO PARA LÂMPADAS ELÉTRICAS E MÓDULOS LED COMERCIALIZADOS COMO PRODUTOS INDIVIDUAIS",
+    "Suprime 2. PROCEDIMENTO DE VERIFICAÇÃO PARA LUMINÁRIAS A COMERCIALIZAR OU COMERCIALIZADAS JUNTO DO UTILIZADOR FINAL",
+    "Suprime ANEXO VI",
+    "Suprime Classes de eficiência energética",
+    "Suprime ANEXO VII",
+    "Suprime Método de cálculo do índice de eficiência energética e do consumo de energia",
+    "Suprime 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime 2. CÁLCULO DO CONSUMO DE ENERGIA",
+    "Suprime ANEXO VIII",
+    "Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5b338591418fc33f"
+   ]
+  }
+ ],
+ "fragments": {
+  "81c3ec6179f8d016": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de julho de 2012\n\nque complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das lâmpadas elétricas e luminárias\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntr1-L_2012258PT.01000101-E0001), nomeadamente o artigo 10.º,\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2010/30/UE exige que a Comissão adote atos delegados no que respeita à rotulagem dos produtos relacionados com a energia com um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.\n\n(2) A Diretiva 98/11/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntr2-L_2012258PT.01000101-E0002) estabeleceu disposições relativas à rotulagem energética das lâmpadas para uso doméstico.\n\n(3) A eletricidade utilizada pelas lâmpadas elétricas representa uma parte significativa da procura total de eletricidade na União. Para além das melhorias de eficiência energética já alcançadas, o consumo de energia das lâmpadas elétricas pode ser ainda substancialmente reduzido.\n\n(4) A Diretiva 98/11/CE deve ser revogada e o presente regulamento deve estabelecer novas disposições de modo a que o rótulo energético forneça incentivos dinâmicos aos fornecedores para continuarem a melhorar a eficiência energética das lâmpadas elétricas e acelerarem a transição do mercado para tecnologias energeticamente eficientes. O âmbito de aplicação da Diretiva 98/11/CE está limitado a determinadas tecnologias na categoria das lâmpadas para uso doméstico. Para que o rótulo seja um vetor de melhoria da eficiência energética de outras tecnologias de lâmpadas, designadamente as de iluminação profissional, o presente regulamento deve abranger também as lâmpadas direcionais, as lâmpadas de muito baixa tensão, os díodos emissores de luz e as lâmpadas utilizadas sobretudo na iluminação profissional, como as lâmpadas de descarga de alta intensidade.\n\n(5) As luminárias são frequentemente vendidas com lâmpadas incorporadas ou acompanhadas de lâmpadas. O presente regulamento deve assegurar que os consumidores são informados sobre a compatibilidade da luminária com as lâmpadas de baixo consumo e sobre a eficiência energética das lâmpadas incorporadas na luminária ou que a acompanham. Simultaneamente, o presente regulamento não deve impor encargos administrativos desproporcionados aos fabricantes e retalhistas de luminárias nem fazer qualquer discriminação entre as luminárias no que respeita ao fornecimento obrigatório de informações aos consumidores sobre a eficiência energética.\n\n(6) As informações fornecidas no rótulo devem ser obtidas através de procedimentos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição reconhecidos como os mais avançados, incluindo, caso existam, normas harmonizadas adotadas pelos organismos europeus de normalização, enumeradas no anexo I da Diretiva 98/34/CE do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntr3-L_2012258PT.01000101-E0003).\n\n(7) O presente regulamento deve especificar um modelo e um conteúdo uniformes para o rótulo das lâmpadas elétricas e luminárias.\n\n(8) Além disso, o presente regulamento deve especificar os requisitos respeitantes à documentação técnica das lâmpadas elétricas e luminárias e à ficha das lâmpadas elétricas.\n\n(9) Além disso, o presente regulamento deve especificar os requisitos respeitantes às informações a fornecer para quaisquer formas de vendas à distância, anúncios e material técnico de promoção das lâmpadas elétricas e luminárias.\n\n(10) É conveniente prever uma revisão das disposições do presente regulamento tendo em conta o progresso tecnológico.\n\n(11) A fim de facilitar a transição da Diretiva 98/11/CE para o presente regulamento, as lâmpadas para uso doméstico rotuladas em conformidade com o presente regulamento devem ser consideradas conformes com a Diretiva 98/11/CE.\n\n(12) Por conseguinte, a Diretiva 98/11/CE deve ser revogada,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "86344067eb124c13": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece requisitos para a rotulagem de lâmpadas elétricas e o fornecimento de informações suplementares sobre essas lâmpadas, nomeadamente:\n\na) lâmpadas de filamento,\n\nb) lâmpadas fluorescentes,\n\nc) lâmpadas de descarga de alta intensidade,\n\nd) lâmpadas LED e módulos LED.\n\nO presente regulamento estabelece igualmente requisitos para a rotulagem das luminárias concebidas para funcionar com as referidas lâmpadas e comercializadas junto dos utilizadores finais, inclusive quando estão integradas noutros produtos que não necessitam de energia para desempenhar a sua função principal quando são utilizados (designadamente mobiliário).\n\n2. São excluídos do âmbito de aplicação do presente regulamento os seguintes produtos:\n\na) Os módulos e lâmpadas LED com um fluxo luminoso inferior a 30 lúmenes;\n\nb) Os módulos e lâmpadas LED comercializados para funcionarem com baterias;\n\nc) Os módulos e lâmpadas LED comercializados para aplicações cuja finalidade principal não é a iluminação, nomeadamente: i) emissão de luz como agente em processos químicos ou biológicos (designadamente polimerização, terapia fotodinâmica, horticultura, cuidados com animais de estimação, produtos anti-insetos), ii) captação e projeção de imagens [designadamente aparelhos de luz-relâmpago (*flashes*) para fotografia e vídeo, fotocopiadoras, videoprojetores], iii) aquecimento (nomeadamente lâmpadas de infravermelhos), iv) sinalização (nomeadamente lâmpadas para aeródromos). Estes módulos e lâmpadas LED não são excluídos quando são comercializados para fins de iluminação.\n\ni) emissão de luz como agente em processos químicos ou biológicos (designadamente polimerização, terapia fotodinâmica, horticultura, cuidados com animais de estimação, produtos anti-insetos),\n\nii) captação e projeção de imagens [designadamente aparelhos de luz-relâmpago (*flashes*) para fotografia e vídeo, fotocopiadoras, videoprojetores],\n\niii) aquecimento (nomeadamente lâmpadas de infravermelhos),\n\niv) sinalização (nomeadamente lâmpadas para aeródromos).\n\nd) Os módulos e lâmpadas LED comercializados como componentes de uma luminária e que não se destinam a ser retirados pelo utilizador final, exceto quando são oferecidos para venda, locação ou locação-venda, ou expostos separadamente para venda aos utilizadores finais, nomeadamente como componentes de substituição.\n\ne) Os módulos e lâmpadas LED comercializados como componentes de um produto cuja finalidade principal não é a iluminação. No entanto, se forem apresentados para venda, locação ou locação-venda, ou expostos separadamente, nomeadamente como componentes de substituição, são abrangidos pelo âmbito de aplicação do presente regulamento.\n\nf) Os módulos e lâmpadas LED que não satisfazem os requisitos que se tornam aplicáveis em 2013 e 2014 em conformidade com os regulamentos que dão execução à Diretiva 2009/125/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntr4-L_2012258PT.01000101-E0004).\n\ng) As luminárias concebidas para funcionar unicamente com os módulos LED e as lâmpadas enumerados nas alíneas a) a c)."
+  },
+  "4194a7f7d207d7e2": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Diretiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1. «Fonte de luz», uma superfície ou um objeto concebido para emitir essencialmente radiação ótica visível produzida por transformação de energia. O termo «visível» refere-se a comprimentos de onda no intervalo 380-780 nm.\n\n2. «Iluminação», a projeção de luz num local, em objetos ou na vizinhança destes de modo a que as pessoas os possam ver.\n\n3. «Iluminação de realce», uma forma de iluminação em que a luz é dirigida de modo a realçar um objeto ou parte de uma zona.\n\n4. «Lâmpada», uma unidade cujo desempenho pode ser avaliado de forma independente e que é constituída por uma ou mais fontes de luz. Pode incluir componentes suplementares necessários para o arranque, a alimentação elétrica ou o funcionamento estável da unidade, ou ainda para a distribuição, filtragem ou transformação da radiação ótica, caso esses componentes não possam ser retirados sem danificar a unidade de forma permanente.\n\n5. «Casquilho da lâmpada», a parte da lâmpada que permite a ligação à fonte de alimentação através de um suporte ou conector e que pode ainda servir para fixar a lâmpada nesse suporte.\n\n6. «Suporte ou encaixe da lâmpada», um dispositivo que mantém a lâmpada na posição correta, normalmente por nele ser inserido o casquilho, caso em que permite também a ligação da lâmpada à fonte de alimentação.\n\n7. «Lâmpada direcional», uma lâmpada em que pelo menos 80 % da luz emitida estão concentrados num ângulo sólido de π sr (correspondente a um cone com um ângulo de 120°).\n\n8. «Lâmpada não direcional», uma lâmpada que não é direcional.\n\n9. «Lâmpada de filamento», uma lâmpada na qual a luz é produzida por um filamento condutor que é aquecido até à incandescência pela passagem de uma corrente elétrica. A lâmpada pode conter gases que influenciam o processo de incandescência.\n\n10. «Lâmpada de incandescência», uma lâmpada de filamento na qual o filamento funciona no interior de uma ampola sob vácuo ou cheia de um gás inerte.\n\n11. «Lâmpada halogénea (de tungsténio)», uma lâmpada de filamento de tungsténio rodeado por um gás que contém halogéneos ou compostos halogenados. Pode ser fornecida com uma fonte de alimentação integrada.\n\n12. «Lâmpada de descarga», uma lâmpada na qual a luz é direta ou indiretamente produzida por uma descarga elétrica através de um gás, de um vapor metálico ou de uma mistura de diversos gases e vapores.\n\n13. «Lâmpada fluorescente», uma lâmpada de descarga de mercúrio a baixa pressão na qual a maior parte da luz é emitida por uma ou várias camadas de substâncias fosforescentes que são excitadas pela radiação ultravioleta da descarga. Pode ser fornecida com um balastro integrado.\n\n14. «Lâmpada fluorescente sem balastro integrado», uma lâmpada fluorescente, de casquilho simples ou duplo, sem balastro integrado.\n\n15. «Lâmpada de descarga de alta intensidade», uma lâmpada de descarga elétrica em que o arco luminoso é estabilizado pela temperatura da parede da lâmpada, sendo a carga nessa parede superior a 3 W/cm^2^.\n\n16. «Díodo emissor de luz (LED)», uma fonte de luz constituída por um dispositivo eletrónico de estado sólido que integra uma junção p-n; esta junção emite radiação ótica quando excitada por uma corrente elétrica.\n\n17. «Pacote LED», uma montagem com um ou mais LED que pode incluir um elemento ótico e interfaces térmicas, mecânicas e elétricas.\n\n18. «Módulo LED», uma montagem sem casquilho que incorpora um ou mais pacotes LED numa placa de circuito impresso e que pode ter componentes elétricos, óticos, mecânicos e térmicos, interfaces e um dispositivo de comando.\n\n19. «Lâmpada LED», uma lâmpada que incorpora um ou mais módulos LED e que pode ter um casquilho.\n\n20. «Dispositivo de comando de lâmpadas», um dispositivo situado entre a fonte de alimentação elétrica e uma ou mais lâmpadas, que oferece uma funcionalidade relacionada com o funcionamento da(s) lâmpada(s), designadamente a transformação da tensão de alimentação, a limitação da corrente da(s) lâmpada(s) ao valor requerido, o fornecimento da tensão de arranque e da corrente de pré-aquecimento, a prevenção do arranque a frio, a correção do fator de potência ou a redução das interferências radioelétricas. O dispositivo pode ser concebido para se ligar a outro dispositivo de comando de lâmpadas a fim de desempenhar estas funções. Esta definição não abrange: — os aparelhos de comando, — as fontes de alimentação que convertem a tensão da rede noutra tensão de alimentação e que são concebidas para alimentar, na mesma instalação, tanto produtos de iluminação como produtos cuja finalidade principal não é a iluminação.\n\n— os aparelhos de comando,\n\n— as fontes de alimentação que convertem a tensão da rede noutra tensão de alimentação e que são concebidas para alimentar, na mesma instalação, tanto produtos de iluminação como produtos cuja finalidade principal não é a iluminação.\n\n21. «Aparelho de comando», um dispositivo eletrónico ou mecânico que comanda ou controla o fluxo luminoso da lâmpada por outros meios que não a conversão da energia que alimenta a lâmpada, nomeadamente os temporizadores, os sensores de ocupação, os sensores de luz e os dispositivos de regulação em função da luz natural. Além disso, os reguladores com corte da fase são também considerados aparelhos de comando.\n\n22. «Dispositivo externo de comando de lâmpadas», um dispositivo não integrado de comando de lâmpadas concebido para ser instalado no exterior do invólucro de uma lâmpada ou luminária ou para ser retirado do invólucro sem danificar de modo permanente a lâmpada ou a luminária.\n\n23. «Balastro», um dispositivo de comando de lâmpadas inserido entre a fonte de alimentação e uma ou mais lâmpadas de descarga, destinado, essencialmente, a limitar, por indutância, capacitância ou uma combinação das duas, a corrente da(s) lâmpada(s) ao valor requerido.\n\n24. «Dispositivo de comando de lâmpadas halogéneas», um dispositivo de comando de lâmpadas que transforma a tensão da rede em muito baixa tensão para a alimentação de lâmpadas halogéneas.\n\n25. «Lâmpada fluorescente compacta», uma lâmpada fluorescente que inclui todos os componentes necessários para o arranque e o funcionamento estável da lâmpada.\n\n26. «Luminária», um aparelho que distribui, filtra ou transforma a luz emitida por uma ou mais lâmpadas e que inclui todos os componentes necessários de suporte, fixação e proteção das lâmpadas e, quando necessário, os circuitos auxiliares, bem como os meios de ligação dos mesmos à fonte de alimentação.\n\n27. «Ponto de venda», um local físico onde o produto é exposto ou apresentado para venda, locação ou locação-venda ao utilizador final.\n\n28. «Utilizador final», uma pessoa singular que compra ou se prevê que compre uma lâmpada elétrica ou luminária para fins que estão fora do âmbito da sua atividade comercial, industrial, artesanal ou profissional.\n\n29. «Proprietário final», a pessoa ou a entidade que é proprietária de um produto durante a fase de utilização do seu ciclo de vida, ou qualquer pessoa ou entidade que atue em nome dessa pessoa ou entidade."
+  },
+  "348304511c4d6bd8": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\n1. Os fornecedores de lâmpadas elétricas colocadas no mercado como produtos individuais devem assegurar que:\n\na) é disponibilizada uma ficha de produto, como previsto no anexo II;\n\nb) a documentação técnica, como prevista no anexo III, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nc) a publicidade, as indicações formais de preços e as propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a uma determinada lâmpada indicam a classe de eficiência energética;\n\nd) o material técnico de promoção respeitante a uma determinada lâmpada que descreva os seus parâmetros técnicos específicos indica a classe de eficiência energética dessa lâmpada;\n\ne) caso a lâmpada se destine a ser comercializada através de um ponto de venda, é aposto, impresso ou fixado no exterior da embalagem individual um rótulo com o formato e o conteúdo informativo previstos no anexo I, secção 1, e a embalagem indica a potência nominal da lâmpada fora do rótulo.\n\n2. Os fornecedores de luminárias a comercializar junto dos utilizadores finais devem assegurar que:\n\na) a documentação técnica, como prevista no anexo III, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nb) as informações constantes do rótulo, previstas no anexo I, secção 2, são fornecidas nas seguintes situações: i) na publicidade, nas indicações formais de preços e nas propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a uma determinada luminária, ii) no material técnico de promoção respeitante a uma determinada lâmpada que descreva os seus parâmetros técnicos específicos. Nestes casos, as informações podem ser fornecidas em formato diferente do previsto no anexo I, secção 2, inclusive unicamente em texto;\n\ni) na publicidade, nas indicações formais de preços e nas propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a uma determinada luminária,\n\nii) no material técnico de promoção respeitante a uma determinada lâmpada que descreva os seus parâmetros técnicos específicos.\n\nc) caso a lâmpada se destine a ser comercializada através de um ponto de venda, é disponibilizado gratuitamente aos comerciantes, em papel ou em formato eletrónico, um rótulo com o formato e o conteúdo informativo previstos no anexo I. Se escolher um sistema de entrega em que os rótulos são fornecidos apenas mediante pedido dos comerciantes, o fornecedor deve enviar prontamente os rótulos em resposta aos pedidos;\n\nd) caso a luminária seja colocada no mercado numa embalagem destinada aos utilizadores finais que inclui lâmpadas elétricas que esses utilizadores poderão substituir na luminária, as embalagens de origem dessas lâmpadas são incluídas na embalagem da luminária. Em alternativa, a parte exterior ou interior da embalagem da luminária deve apresentar, sob outra forma, as informações constantes das embalagens de origem das lâmpadas e exigidas pelo presente regulamento e pelos regulamentos da Comissão que estabelecem requisitos de conceção ecológica para as lâmpadas, em conformidade com a Diretiva 2009/125/CE.\n\nConsidera-se que os fornecedores de luminárias a comercializar através de um ponto de venda que forneçam as informações previstas no presente regulamento cumpriram as suas obrigações como distribuidores no que respeita aos requisitos de informação sobre as lâmpadas estabelecidos nos regulamentos da Comissão que estabelecem requisitos de conceção ecológica para as lâmpadas, em conformidade com a Diretiva 2009/125/CE."
+  },
+  "2deb1ec7fbac3037": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos comerciantes\n\n1. Os comerciantes de lâmpadas elétricas devem assegurar que:\n\na) caso não seja de esperar que o proprietário final veja o produto exposto, os modelos apresentados para venda, locação ou locação-venda são comercializados com as informações a fornecer pelos fornecedores, em conformidade com o anexo IV;\n\nb) a publicidade, as indicações formais de preços e as propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a um determinado modelo indicam a classe de eficiência energética;\n\nc) o material técnico de promoção respeitante a um determinado modelo que descreva os seus parâmetros técnicos específicos indica a classe de eficiência energética desse modelo.\n\n2. Os comerciantes de luminárias comercializadas junto dos utilizadores finais devem assegurar que:\n\na) as informações constantes do rótulo, em conformidade com o anexo I, secção 2, são fornecidas nas seguintes situações: i) na publicidade, nas indicações formais de preços e nas propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a uma determinada luminária, ii) no material técnico de promoção respeitante a uma determinada luminária que descreva os seus parâmetros técnicos específicos. Nestes casos, as informações podem ser fornecidas em formato diferente do previsto no anexo I, secção 2, inclusive unicamente em texto;\n\ni) na publicidade, nas indicações formais de preços e nas propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a uma determinada luminária,\n\nii) no material técnico de promoção respeitante a uma determinada luminária que descreva os seus parâmetros técnicos específicos.\n\nb) os modelos apresentados num ponto de venda são acompanhados do rótulo, como previsto no anexo I, secção 2, exposto de um dos seguintes modos ou de ambos: i) na proximidade da luminária exposta, de modo a ser claramente visível e identificável como o rótulo correspondente ao modelo, tornando desnecessária a leitura do nome da marca e do número do modelo no rótulo, ii) acompanhando claramente as informações mais diretamente visíveis respeitantes à luminária (designadamente informações técnicas ou de preço) exposta no ponto de venda;\n\ni) na proximidade da luminária exposta, de modo a ser claramente visível e identificável como o rótulo correspondente ao modelo, tornando desnecessária a leitura do nome da marca e do número do modelo no rótulo,\n\nii) acompanhando claramente as informações mais diretamente visíveis respeitantes à luminária (designadamente informações técnicas ou de preço) exposta no ponto de venda;\n\nc) caso a luminária seja vendida numa embalagem destinada aos utilizadores finais que inclui lâmpadas elétricas que esses utilizadores poderão substituir na luminária, as embalagens originais dessas lâmpadas são incluídas na embalagem da luminária. Caso contrário, a parte exterior ou interior da embalagem da luminária deve apresentar, sob outra forma, as informações constantes das embalagens de origem das lâmpadas e exigidas pelo presente regulamento e pelos regulamentos da Comissão que estabelecem requisitos de conceção ecológica para as lâmpadas, em conformidade com a Diretiva 2009/125/CE."
+  },
+  "e379ac5023df7f03": {
+   "fragment_id": "Artigo 5.º — Métodos de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de medição\n\nAs informações a facultar nos termos dos artigos 3.º e 4.º devem ser obtidas por procedimentos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, em conformidade com o anexo V."
+  },
+  "db0adb39b8e115d1": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nOs Estados-Membros aplicam o procedimento previsto no anexo V ao avaliarem a conformidade da classe de eficiência energética e do consumo de energia declarados."
+  },
+  "b5f18d0cd9f391dc": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento à luz do progresso tecnológico o mais tardar três anos após a sua entrada em vigor. Nessa revisão será feita, nomeadamente, uma avaliação das tolerâncias aplicáveis à verificação constantes do anexo V."
+  },
+  "68dee64ead9b3071": {
+   "fragment_id": "Artigo 8.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nA Diretiva 98/11/CE é revogada com efeitos a partir de 1 de setembro de 2013.\n\nAs referências à Diretiva 98/11/CE são consideradas como referências ao presente regulamento. As referências ao anexo IV da Diretiva 98/11/CE são consideradas como referências ao anexo VI do presente regulamento."
+  },
+  "e7ee2311404d6ec2": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, n.º 2, e o artigo 4.º, n.º 2, não se aplicam às luminárias antes de 1 de março de 2014.\n\n2. O artigo 3.º, n.º 1, alíneas c) e d), e o artigo 4.º, n.º 1, alíneas a) a c), não se aplicam nem aos anúncios publicitários impressos nem ao material técnico promocional impresso publicados antes de 1 de março de 2014.\n\n3. As lâmpadas a que se refere o artigo 1.º, n.^os^ 1 e 2, da Diretiva 98/11/CE colocadas no mercado antes de 1 de setembro de 2013 devem estar em conformidade com o disposto na Diretiva 98/11/CE.\n\n4. As lâmpadas a que se refere o artigo 1.º, n.^os^ 1 e 2, da Diretiva 98/11/CE que estejam em conformidade com o disposto no presente regulamento e que sejam colocadas no mercado ou apresentadas para venda, locação ou locação-venda antes de 1 de setembro de 2013 são consideradas conformes com os requisitos da Diretiva 98/11/CE."
+  },
+  "0a02c8218709b07b": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 1 de setembro de 2013, exceto nos casos enumerados no artigo 9.º.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 12 de julho de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "cdb2985e2c74d2f6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntc1-L_2012258PT.01000101-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntc2-L_2012258PT.01000101-E0002) [JO L 71 de 10.3.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_071_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntc3-L_2012258PT.01000101-E0003) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/3056f500-21f1-4a67-8229-8e9a842d4a0f.0019.03/DOC_1#ntc4-L_2012258PT.01000101-E0004) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC)."
+  },
+  "2c9cf62c44ed405b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de julho de 2012\n\nque complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das lâmpadas elétricas e luminárias\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "2d1f21d3f4b97336": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece requisitos para a rotulagem de lâmpadas elétricas e o fornecimento de informações suplementares sobre essas lâmpadas, nomeadamente:\n\na) lâmpadas de filamento,\n\nb) lâmpadas fluorescentes,\n\nc) lâmpadas de descarga de alta intensidade,\n\nd) lâmpadas LED e módulos LED.\n\nO presente regulamento estabelece igualmente requisitos para a rotulagem das luminárias concebidas para funcionar com as referidas lâmpadas e comercializadas junto dos utilizadores finais, inclusive quando estão integradas noutros produtos que não necessitam de energia para desempenhar a sua função principal quando são utilizados (designadamente mobiliário).\n\n2. São excluídos do âmbito de aplicação do presente regulamento os seguintes produtos:\n\na) Os módulos e lâmpadas LED com um fluxo luminoso inferior a 30 lúmenes;\n\nb) Os módulos e lâmpadas LED comercializados para funcionarem com baterias;\n\nc) Os módulos e lâmpadas LED comercializados para aplicações cuja finalidade principal não é a iluminação, nomeadamente:\n\ni) emissão de luz como agente em processos químicos ou biológicos (designadamente polimerização, terapia fotodinâmica, horticultura, cuidados com animais de estimação, produtos anti-insetos),\n\nii) captação e projeção de imagens [designadamente aparelhos de luz-relâmpago (*flashes*) para fotografia e vídeo, fotocopiadoras, videoprojetores],\n\niii) aquecimento (nomeadamente lâmpadas de infravermelhos),\n\niv) sinalização (nomeadamente lâmpadas para aeródromos).\n\nd) Os módulos e lâmpadas LED comercializados como componentes de uma luminária e que não se destinam a ser retirados pelo utilizador final, exceto quando são oferecidos para venda, locação ou locação-venda, ou expostos separadamente para venda aos utilizadores finais, nomeadamente como componentes de substituição.\n\ne) Os módulos e lâmpadas LED comercializados como componentes de um produto cuja finalidade principal não é a iluminação. No entanto, se forem apresentados para venda, locação ou locação-venda, ou expostos separadamente, nomeadamente como componentes de substituição, são abrangidos pelo âmbito de aplicação do presente regulamento.\n\nf) Os módulos e lâmpadas LED que não satisfazem os requisitos que se tornam aplicáveis em 2013 e 2014 em conformidade com os regulamentos que dão execução à Diretiva 2009/125/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/f1a6a618-dbdc-11ea-adf7-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\ng) As luminárias concebidas para funcionar unicamente com os módulos LED e as lâmpadas enumerados nas alíneas a), b), c) e e)."
+  },
+  "efa766ef119deb43": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Diretiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1. «Fonte de luz», uma superfície ou um objeto concebido para emitir essencialmente radiação ótica visível produzida por transformação de energia. O termo «visível» refere-se a comprimentos de onda no intervalo 380-780 nm.\n\n2. «Iluminação», a projeção de luz num local, em objetos ou na vizinhança destes de modo a que as pessoas os possam ver.\n\n3. «Iluminação de realce», uma forma de iluminação em que a luz é dirigida de modo a realçar um objeto ou parte de uma zona.\n\n4. «Lâmpada», uma unidade cujo desempenho pode ser avaliado de forma independente e que é constituída por uma ou mais fontes de luz. Pode incluir componentes suplementares necessários para o arranque, a alimentação elétrica ou o funcionamento estável da unidade, ou ainda para a distribuição, filtragem ou transformação da radiação ótica, caso esses componentes não possam ser retirados sem danificar a unidade de forma permanente.\n\n5. «Casquilho da lâmpada», a parte da lâmpada que permite a ligação à fonte de alimentação através de um suporte ou conector e que pode ainda servir para fixar a lâmpada nesse suporte.\n\n6. «Suporte ou encaixe da lâmpada», um dispositivo que mantém a lâmpada na posição correta, normalmente por nele ser inserido o casquilho, caso em que permite também a ligação da lâmpada à fonte de alimentação.\n\n7. «Lâmpada direcional», uma lâmpada em que pelo menos 80 % da luz emitida estão concentrados num ângulo sólido de π sr (correspondente a um cone com um ângulo de 120°).\n\n8. «Lâmpada não direcional», uma lâmpada que não é direcional.\n\n9. «Lâmpada de filamento», uma lâmpada na qual a luz é produzida por um filamento condutor que é aquecido até à incandescência pela passagem de uma corrente elétrica. A lâmpada pode conter gases que influenciam o processo de incandescência.\n\n10. «Lâmpada de incandescência», uma lâmpada de filamento na qual o filamento funciona no interior de uma ampola sob vácuo ou cheia de um gás inerte.\n\n11. «Lâmpada halogénea (de tungsténio)», uma lâmpada de filamento de tungsténio rodeado por um gás que contém halogéneos ou compostos halogenados. Pode ser fornecida com uma fonte de alimentação integrada.\n\n12. «Lâmpada de descarga», uma lâmpada na qual a luz é direta ou indiretamente produzida por uma descarga elétrica através de um gás, de um vapor metálico ou de uma mistura de diversos gases e vapores.\n\n13. «Lâmpada fluorescente», uma lâmpada de descarga de mercúrio a baixa pressão na qual a maior parte da luz é emitida por uma ou várias camadas de substâncias fosforescentes que são excitadas pela radiação ultravioleta da descarga. Pode ser fornecida com um balastro integrado.\n\n14. «Lâmpada fluorescente sem balastro integrado», uma lâmpada fluorescente, de casquilho simples ou duplo, sem balastro integrado.\n\n15. «Lâmpada de descarga de alta intensidade», uma lâmpada de descarga elétrica em que o arco luminoso é estabilizado pela temperatura da parede da lâmpada, sendo a carga nessa parede superior a 3 W/cm^2^.\n\n16. «Díodo emissor de luz (LED)», uma fonte de luz constituída por um dispositivo eletrónico de estado sólido que integra uma junção p-n; esta junção emite radiação ótica quando excitada por uma corrente elétrica.\n\n17. «Pacote LED», uma montagem com um ou mais LED que pode incluir um elemento ótico e interfaces térmicas, mecânicas e elétricas.\n\n18. «Módulo LED», uma montagem sem casquilho que incorpora um ou mais pacotes LED numa placa de circuito impresso e que pode ter componentes elétricos, óticos, mecânicos e térmicos, interfaces e um dispositivo de comando.\n\n19. «Lâmpada LED», uma lâmpada que incorpora um ou mais módulos LED e que pode ter um casquilho.\n\n20. «Dispositivo de comando de lâmpadas», um dispositivo situado entre a fonte de alimentação elétrica e uma ou mais lâmpadas, que oferece uma funcionalidade relacionada com o funcionamento da(s) lâmpada(s), designadamente a transformação da tensão de alimentação, a limitação da corrente da(s) lâmpada(s) ao valor requerido, o fornecimento da tensão de arranque e da corrente de pré-aquecimento, a prevenção do arranque a frio, a correção do fator de potência ou a redução das interferências radioelétricas. O dispositivo pode ser concebido para se ligar a outro dispositivo de comando de lâmpadas a fim de desempenhar estas funções. Esta definição não abrange:\n\n— os aparelhos de comando,\n\n— as fontes de alimentação que convertem a tensão da rede noutra tensão de alimentação e que são concebidas para alimentar, na mesma instalação, tanto produtos de iluminação como produtos cuja finalidade principal não é a iluminação.\n\n21. «Aparelho de comando», um dispositivo eletrónico ou mecânico que comanda ou controla o fluxo luminoso da lâmpada por outros meios que não a conversão da energia que alimenta a lâmpada, nomeadamente os temporizadores, os sensores de ocupação, os sensores de luz e os dispositivos de regulação em função da luz natural. Além disso, os reguladores com corte da fase são também considerados aparelhos de comando.\n\n22. «Dispositivo externo de comando de lâmpadas», um dispositivo não integrado de comando de lâmpadas concebido para ser instalado no exterior do invólucro de uma lâmpada ou luminária ou para ser retirado do invólucro sem danificar de modo permanente a lâmpada ou a luminária.\n\n23. «Balastro», um dispositivo de comando de lâmpadas inserido entre a fonte de alimentação e uma ou mais lâmpadas de descarga, destinado, essencialmente, a limitar, por indutância, capacitância ou uma combinação das duas, a corrente da(s) lâmpada(s) ao valor requerido.\n\n24. «Dispositivo de comando de lâmpadas halogéneas», um dispositivo de comando de lâmpadas que transforma a tensão da rede em muito baixa tensão para a alimentação de lâmpadas halogéneas.\n\n25. «Lâmpada fluorescente compacta», uma lâmpada fluorescente que inclui todos os componentes necessários para o arranque e o funcionamento estável da lâmpada.\n\n26. «Luminária», um aparelho que distribui, filtra ou transforma a luz emitida por uma ou mais lâmpadas e que inclui todos os componentes necessários de suporte, fixação e proteção das lâmpadas e, quando necessário, os circuitos auxiliares, bem como os meios de ligação dos mesmos à fonte de alimentação.\n\n27. «Ponto de venda», um local físico onde o produto é exposto ou apresentado para venda, locação ou locação-venda ao utilizador final.\n\n28. «Utilizador final», uma pessoa singular que compra ou se prevê que compre uma lâmpada elétrica ou luminária para fins que estão fora do âmbito da sua atividade comercial, industrial, artesanal ou profissional.\n\n29. «Proprietário final», a pessoa ou a entidade que é proprietária de um produto durante a fase de utilização do seu ciclo de vida, ou qualquer pessoa ou entidade que atue em nome dessa pessoa ou entidade."
+  },
+  "df7bb62726b6161f": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\n1. Os fornecedores de lâmpadas elétricas colocadas no mercado como produtos individuais devem assegurar que:\n\na) é disponibilizada uma ficha de produto, como previsto no anexo II;\n\nb) a documentação técnica, como prevista no anexo III, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nc) a publicidade, as indicações formais de preços e as propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a uma determinada lâmpada indicam a classe de eficiência energética;\n\nd) o material técnico de promoção respeitante a uma determinada lâmpada que descreva os seus parâmetros técnicos específicos indica a classe de eficiência energética dessa lâmpada;\n\ne) caso a lâmpada se destine a ser comercializada através de um ponto de venda, é aposto, impresso ou fixado no exterior da embalagem individual um rótulo com o formato e o conteúdo informativo previstos no anexo I, secção 1, e a embalagem indica a potência nominal da lâmpada fora do rótulo;\n\nf) é disponibilizado aos comerciantes um rótulo eletrónico com o formato e as informações previstos no ponto 1 do anexo I, para cada modelo de lâmpada colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Esse rótulo pode também ser disponibilizado aos distribuidores para outros modelos de lâmpada."
+  },
+  "4194342f5d19fab8": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos comerciantes\n\n1. Os comerciantes de lâmpadas elétricas devem assegurar que:\n\na) os modelos postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o proprietário final veja o produto exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do anexo IV. Caso a oferta seja feita através da Internet e tenha sido disponibilizado um rótulo eletrónico em conformidade com o artigo 3.º, n.º 1, alínea f), aplica-se, em vez do que precede, o disposto no anexo VIII;\n\nb) a publicidade, as indicações formais de preços e as propostas apresentadas em concursos que deem a conhecer informações sobre energia ou preços respeitantes a um determinado modelo indicam a classe de eficiência energética;\n\nc) o material técnico de promoção respeitante a um determinado modelo que descreva os seus parâmetros técnicos específicos indica a classe de eficiência energética desse modelo."
+  },
+  "726fae4ef5b811e3": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 1 de setembro de 2013, exceto nos casos enumerados no artigo 9.º.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cd72cf4170b55dce": {
+   "fragment_id": "Rótulo",
+   "type": "divisao",
+   "heading": "Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rótulo"
+  },
+  "fa6f57c6071c1e4c": {
+   "fragment_id": "1. RÓTULO PARA LÂMPADAS ELÉTRICAS APRESENTADAS NUM PONTO DE VENDA",
+   "type": "divisao",
+   "heading": "1. RÓTULO PARA LÂMPADAS ELÉTRICAS APRESENTADAS NUM PONTO DE VENDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. RÓTULO PARA LÂMPADAS ELÉTRICAS APRESENTADAS NUM PONTO DE VENDA\n\n1) Caso não esteja impresso na embalagem, o rótulo deve ser conforme com a seguinte ilustração:\n\n2) O rótulo deve conter as seguintes informações:\n\nI. Nome do fornecedor ou marca comercial;\n\nII. Identificador do modelo, atribuído pelo fornecedor, ou seja, o código, geralmente alfanumérico, que distingue um modelo específico de lâmpada de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nIII. Classe de eficiência energética determinada em conformidade com o anexo VI; a ponta da seta que contém a indicação da classe de eficiência energética da lâmpada deve ficar ao mesmo nível que a ponta da seta correspondente a essa classe de eficiência energética;\n\nIV. Consumo de energia ponderado (*EC*) em kWh por 1 000 horas, calculado e arredondado por excesso às unidades, em conformidade com o anexo VII.\n\n3) Caso o rótulo esteja impresso na embalagem e as informações especificadas no ponto 2), parágrafos I, II e IV, sejam apresentadas noutra parte da embalagem, essas informações podem ser omitidas no rótulo. O rótulo será então escolhido de entre as seguintes ilustrações:\n\n4) O formato do rótulo é o seguinte:\n\na) As especificações das dimensões na figura acima e na alínea d) se aplicam ao rótulo de uma lâmpada com 36 mm de largura e 75 mm de altura. Se o rótulo for impresso num formato diferente, o seu conteúdo deve, ainda assim, manter as proporções das especificações acima indicadas.\n\nb) O fundo deve ser de cor branca tanto na versão policromática do rótulo como na monocromática;\n\nc) Na versão policromática do rótulo, as cores devem ser CMAP — ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto;\n\nd) O rótulo deve satisfazer todos os requisitos que se seguem (os números referem-se à figura acima; as especificações de cor aplicam-se apenas à versão policromática do rótulo):\n\n**Traço de rebordo:** 2 pt — cor: ciano 100 % — cantos redondos: 1 mm.\n\n**Logótipo da UE** — cores: X-80-00-00 e 00-00-X-00.\n\n**Logótipo de energia:** cor: X-00-00-00. Pictograma apresentado: logótipo UE e logótipo de energia (combinados): largura: 30 mm, altura: 9 mm.\n\n**Rebordo dos sublogótipos:** 1 pt — cor: ciano 100 % — comprimento: 30 mm.\n\n**Escala A++-E**\n\n— **Seta:** altura: 5 mm, intervalo: 0,8 mm — cores:\n\n— **Texto:** Calibri bold 15 pt, maiúsculas e branco; símbolos «+»: Calibri bold 15 pt, expoente, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 11,2 mm, altura: 7 mm, 100 % preto;\n\n— **Texto:** Calibri bold 20 pt, maiúsculas e branco; símbolos «+»: Calibri bold 20 pt, expoente, branco, alinhado numa fila única.\n\n**Consumo de energia ponderado**\n\n**Nome do fornecedor ou marca comercial**\n\n**Identificador do modelo, atribuído pelo fornecedor**\n\nNenhum outro elemento aposto, impresso ou fixado na embalagem individual deve ocultar o rótulo ou reduzir a sua visibilidade.\n\nNão obstante, caso um modelo tenha recebido um rótulo ecológico da UE ao abrigo do Regulamento (CE) n.º 66/2010 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f1a6a618-dbdc-11ea-adf7-01aa75ed71a1.0019.03/DOC_1#E0002)), pode acrescentar-se uma cópia desse rótulo."
+  },
+  "3189b3348b41462a": {
+   "fragment_id": "2. RÓTULO PARA LUMINÁRIAS APRESENTADAS NUM PONTO DE VENDA",
+   "type": "divisao",
+   "heading": "2. RÓTULO PARA LUMINÁRIAS APRESENTADAS NUM PONTO DE VENDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. RÓTULO PARA LUMINÁRIAS APRESENTADAS NUM PONTO DE VENDA\n\n1) O rótulo deve corresponder à versão linguística adequada e ser conforme com a ilustração seguinte ou com as variantes definidas nos pontos 2) e 3).\n\n2) O rótulo deve conter as seguintes informações:\n\nI. Nome do fornecedor ou marca comercial;\n\nII. Identificador do modelo, atribuído pelo fornecedor, ou seja, o código, geralmente alfanumérico, que distingue um modelo específico de luminária de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nIII. A frase apresentada no exemplo incluído no ponto 1) ou uma das frases alternativas apresentadas nos exemplos incluídos no ponto 3), consoante o caso. Em vez do termo «luminária», pode utilizar-se um termo mais preciso que descreva o tipo de luminária em causa ou o produto em que a luminária está integrada (designadamente mobiliário), desde que seja claro que esse termo se refere ao produto à venda que funciona com as fontes de luz;\n\nIV. A gama de classes de eficiência energética, em conformidade com a parte 1 do presente anexo, acompanhada dos seguintes elementos, quando adequado:\n\na) pictograma «lâmpada», que indica as classes das lâmpadas substituíveis pelo utilizador compatíveis com a luminária, em consonância com os requisitos de compatibilidade mais avançados;\n\nb) cruz sobre as classes das lâmpadas não compatíveis com a luminária, em consonância com os requisitos de compatibilidade mais avançados;\n\nc) as letras «LED» dispostas verticalmente ao longo das classes A a A++, caso a luminária contenha módulos LED não destinados a ser retirados pelo utilizador final. Caso essa luminária não contenha suportes de lâmpadas substituíveis pelo utilizador, as classes de B a E devem ser cobertas por uma cruz;\n\nV. Uma das seguintes opções, consoante as circunstâncias:\n\na) caso a luminária funcione com lâmpadas substituíveis pelo utilizador final e essas lâmpadas estejam incluídas na embalagem da luminária, a frase apresentada no exemplo incluído no ponto 1), com indicação das respetivas classes de eficiência energética. Se necessário, a frase pode ser adaptada de modo a referir-se a uma ou várias lâmpadas, podendo ser enumeradas várias classes de energia;\n\nb) caso a luminária contenha apenas módulos LED não destinados a ser retirados pelo utilizador final, a frase apresentada no exemplo incluído no ponto 3), alínea b);\n\nc) caso a luminária contenha módulos LED não destinados a ser retirados pelo utilizador final e suportes de lâmpadas substituíveis e essas lâmpadas não acompanhem a luminária, a frase apresentada no exemplo incluído no ponto 3), alínea d);\n\nd) caso a luminária funcione unicamente com lâmpadas substituíveis pelo utilizador final, mas não incluídas na luminária, o espaço deve ficar vazio, como se mostra no exemplo incluído no ponto 3), alínea a).\n\n3) As ilustrações seguintes constituem exemplos de rótulos comuns de luminárias, para além da ilustração no ponto 1), mas há outras combinações possíveis.\n\na) Luminária que funciona com lâmpadas substituíveis pelo utilizador é compatível com lâmpadas de todas as classes de energia e não inclui lâmpadas:\n\nb) Luminária que contém apenas módulos LED não substituíveis:\n\nc) Luminária que contém módulos LED não substituíveis e suportes de lâmpadas para lâmpadas substituíveis pelo utilizador e inclui lâmpadas:\n\nd) Luminária que contém módulos LED não substituíveis e suportes de lâmpadas para lâmpadas substituíveis pelo utilizador e não inclui lâmpadas:\n\n4) O rótulo deve respeitar os modelos a seguir apresentados:\n\na) O rótulo deve ter, no mínimo, 50 mm de largura e 100 mm de altura;\n\nb) O fundo deve ser de cor branca ou transparente, mas as letras das classes de energia devem ser sempre brancas. Se o fundo for transparente, o comerciante deve assegurar que o rótulo é aplicado numa superfície branca ou cinzenta clara que mantenha a legibilidade de todos os elementos do rótulo;\n\nc) As cores devem ser CMAP — ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto;\n\nd) O rótulo deve satisfazer todos os requisitos que se seguem (os números referem-se à figura acima):\n\n**Traço de rebordo:** 2 pt – cor: ciano 100 % — cantos redondos: 1 mm.\n\n**Rebordo dos sublogótipos:** 1 pt – cor: ciano 100 % — comprimento: 43 mm.\n\n**Logótipo da luminária:** traço: 1 pt — cor: ciano 100 % — Dimensões: 13 mm x 13 mm — cantos redondos: 1 mm. Pictograma como o apresentado, ou pictograma ou fotografia proveniente do próprio fornecedor, caso represente melhor a luminária associada ao rótulo.\n\n**Texto:** Calibri normal 9 pt ou superior, 100 % preto\n\n**Escala A++-E**\n\n— **Seta:** altura: 5 mm, intervalo: 0,8 mm — cores:\n\n— **Texto:** Calibri bold 14 pt, maiúsculas e branco; símbolos «+»: Calibri bold 14 pt, expoente, branco, alinhado numa fila única.\n\n**Texto «LED»:** Verdana normal 15 pt, 100 % preto\n\n**Cruz:** cor: 13-X-X-04, traço: 3 pt\n\n**Logótipo «lâmpada»:** Pictograma como o apresentado\n\n**Texto:** Calibri normal 10 pt ou superior, 100 % preto\n\n**Número do regulamento:** Calibri bold 10 pt, 100 % preto.\n\n**Logótipo da UE:** Cores: X-80-00-00 e 00-00-X-00.\n\n**Nome do fornecedor ou marca comercial**.\n\n**Identificador do modelo, atribuído pelo fornecedor**:\n\n**Seta indicadora da classe de energia**\n\n— **Seta:** altura: 3,9 mm, largura: como indicado na ilustração do ponto 4), mas reduzida na mesma proporção que a altura, cor: a cor definida no ponto, consoante o caso.\n\n— **Texto:** Calibri bold 10,5 pt, maiúsculas e branco; símbolos «+»: Calibri bold 10,5 pt, expoente, branco, alinhado numa fila única.\n\ne) O rótulo pode também ser apresentado com a orientação horizontal, caso em que deve ter, no mínimo, 100 mm de largura e 50 mm de altura. Os elementos constituintes do rótulo devem ser conformes com a descrição apresentada nas alíneas b) a d) e estar dispostos de acordo com os exemplos seguintes, consoante o caso. Se não houver espaço suficiente para apresentar a seta indicadora da classe de energia na caixa de texto à esquerda da escala A++ a E, a referida caixa pode ser aumentada verticalmente, conforme necessário."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "ca7c812b7d52bca2": {
+   "fragment_id": "Ficha de produto para lâmpadas elétricas",
+   "type": "divisao",
+   "heading": "Ficha de produto para lâmpadas elétricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de produto para lâmpadas elétricas\n\nA ficha deve incluir as informações especificadas para o rótulo. Caso não sejam fornecidos folhetos relativos ao produto, pode considerar-se que o rótulo fornecido com o produto é também a ficha."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "5ce86a6badd94831": {
+   "fragment_id": "Documentação técnica",
+   "type": "divisao",
+   "heading": "Documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação técnica\n\nA documentação técnica a que se refere o artigo 3.º, n.º 1, alínea b), e n.º 2, alínea a), deve incluir:\n\na) o nome e o endereço do fornecedor;\n\nb) a descrição geral do modelo, suficiente para a sua identificação inequívoca e fácil;\n\nc) se for o caso, referências das normas harmonizadas aplicadas;\n\nd) se for o caso, outras normas e especificações técnicas utilizadas;\n\ne) a identificação e a assinatura da pessoa com poderes para representar o fornecedor;\n\nf) os parâmetros técnicos utilizados para determinar o consumo de energia e a eficiência energética no caso das lâmpadas elétricas e a compatibilidade com as lâmpadas no caso das luminárias, especificando-se, no mínimo, uma combinação realista de regulações do produto e condições para efetuar o ensaio do produto;\n\ng) para as lâmpadas elétricas, os resultados dos cálculos efetuados em conformidade com o anexo VII.\n\nAs informações incluídas nessa documentação técnica podem integrar-se na documentação técnica fornecida em conformidade com as medidas adotadas ao abrigo da Diretiva 2009/125/CE."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "7af6d305b16e2534": {
+   "fragment_id": "Informações a fornecer nos casos em que não é de esperar que os proprietários finais vejam o produto exposto",
+   "type": "divisao",
+   "heading": "Informações a fornecer nos casos em que não é de esperar que os proprietários finais vejam o produto exposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer nos casos em que não é de esperar que os proprietários finais vejam o produto exposto\n\n1. As informações a que se refere o artigo 4.º, n.º 1, alínea a), devem ser fornecidas pela seguinte ordem:\n\na) a classe de eficiência energética, em conformidade com o anexo VI;\n\nb) se exigido pelo anexo I, o consumo de energia ponderado, em kWh por 1 000 horas, arredondado por excesso às unidades e calculado em conformidade com a secção 2 do anexo VII.\n\n2. Caso sejam apresentadas outras informações constantes da ficha de produto, tais informações devem ser apresentadas na forma e pela ordem especificadas no anexo II.\n\n3. A dimensão e o tipo dos carateres utilizados para a impressão ou apresentação das informações a que se refere o presente anexo devem assegurar a sua legibilidade."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "306a01b9a6d8ebf3": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelo fornecedor como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica. Os valores e classes indicados no rótulo ou na ficha de produto não podem ser mais favoráveis para o fornecedor do que os indicados na documentação técnica.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento delegado, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:"
+  },
+  "652c99e2077943da": {
+   "fragment_id": "1. PROCEDIMENTO DE VERIFICAÇÃO PARA LÂMPADAS ELÉTRICAS E MÓDULOS LED COMERCIALIZADOS COMO PRODUTOS INDIVIDUAIS",
+   "type": "divisao",
+   "heading": "1. PROCEDIMENTO DE VERIFICAÇÃO PARA LÂMPADAS ELÉTRICAS E MÓDULOS LED COMERCIALIZADOS COMO PRODUTOS INDIVIDUAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. PROCEDIMENTO DE VERIFICAÇÃO PARA LÂMPADAS ELÉTRICAS E MÓDULOS LED COMERCIALIZADOS COMO PRODUTOS INDIVIDUAIS\n\n(1) As autoridades dos Estados-Membros devem verificar uma amostra de, no mínimo, 20 lâmpadas do mesmo modelo e do mesmo fornecedor, se possível obtidas em partes iguais em quatro fontes selecionadas aleatoriamente.\n\n(2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do artigo 5.º, alínea b), da Diretiva 2010/30/UE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fornecedor do que os valores correspondentes apresentados nos relatórios de ensaio em conformidade com o ponto iii) do referido artigo; e\n\nb) Os valores publicados no rótulo e na ficha do produto não forem mais favoráveis para o fornecedor do que os valores declarados, e a classe de eficiência energética indicada não for mais favorável para o fornecedor do que a classe determinada em função dos valores declarados; e\n\nc) quando do ensaio das unidades do modelo, a média aritmética dos valores determinados (os valores dos parâmetros relevantes, medidos no ensaio, e os valores calculados a partir dessas medições) se situar dentro dos limites da respetiva tolerância de 10 %.\n\n(3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a), b) ou c), deve considerar-se que o modelo não está conforme com o presente regulamento delegado.\n\n(4) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não-conformidade do modelo de acordo com o disposto no ponto 3.\n\nAs autoridades dos Estados-Membros devem utilizar processos de medição que correspondam às atuais melhores práticas geralmente reconhecidas e que sejam fiáveis, precisos e reprodutíveis, incluindo os métodos descritos em documentos cujas referências tenham sido publicadas para o efeito no *Jornal Oficial da União Europeia*. As autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo VII.\n\nAs autoridades dos Estados-Membros devem aplicar apenas a tolerância de verificação de 10 % e utilizar apenas o procedimento descrito nos pontos 1 a 4 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição."
+  },
+  "c2c11de318758714": {
+   "fragment_id": "2. PROCEDIMENTO DE VERIFICAÇÃO PARA LUMINÁRIAS A COMERCIALIZAR OU COMERCIALIZADAS JUNTO DO UTILIZADOR FINAL",
+   "type": "divisao",
+   "heading": "2. PROCEDIMENTO DE VERIFICAÇÃO PARA LUMINÁRIAS A COMERCIALIZAR OU COMERCIALIZADAS JUNTO DO UTILIZADOR FINAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PROCEDIMENTO DE VERIFICAÇÃO PARA LUMINÁRIAS A COMERCIALIZAR OU COMERCIALIZADAS JUNTO DO UTILIZADOR FINAL\n\nConsidera-se que a luminária está conforme com os requisitos estabelecidos no presente regulamento se for acompanhada da necessária informação relativa ao produto, se for apresentada como compatível com todas as classes de eficiência energética das lâmpadas com que é compatível e se, ao aplicar os métodos e critérios mais avançados para a avaliação da compatibilidade, for compatível com as classes de eficiência energética das lâmpadas com as quais é alegadamente compatível em aplicação do anexo I, parte 2, ponto 2.IV, alíneas a) e b)."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "e82566f96ca25e23": {
+   "fragment_id": "Classes de eficiência energética",
+   "type": "divisao",
+   "heading": "Classes de eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de eficiência energética\n\nA classe de eficiência energética das lâmpadas é determinada com base no seu índice de eficiência energética (IEE), como indicado no quadro 1.\n\nO IEE das lâmpadas é determinado em conformidade com o anexo VII.\n\n| Classe de eficiência energética | Índice de eficiência energética (IEE) das lâmpadas não direcionais | Índice de eficiência energética (IEE) das lâmpadas direcionais |\n| --- | --- | --- |\n| A++ (maior eficiência) | IEE ≤ 0,11 | IEE ≤ 0,13 |\n| A+ | 0,11 < IEE ≤ 0,17 | 0,13 < IEE ≤ 0,18 |\n| A | 0,17 < IEE ≤ 0,24 | 0,18 < IEE ≤ 0,40 |\n| B | 0,24 < IEE ≤ 0,60 | 0,40 < IEE ≤ 0,95 |\n| C | 0,60 < IEE ≤ 0,80 | 0,95 < IEE ≤ 1,20 |\n| D | 0,80 < IEE ≤ 0,95 | 1,20 < IEE ≤ 1,75 |\n| E (menor eficiência) | IEE > 0,95 | IEE > 1,75 |"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "3ac67d86b9a21d13": {
+   "fragment_id": "Método de cálculo do índice de eficiência energética e do consumo de energia",
+   "type": "divisao",
+   "heading": "Método de cálculo do índice de eficiência energética e do consumo de energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de cálculo do índice de eficiência energética e do consumo de energia"
+  },
+  "b097dbd1885e10dd": {
+   "fragment_id": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA\n\nPara calcular o índice de eficiência energética (IEE) de um modelo, compara-se a sua potência, corrigida em função das eventuais perdas nos dispositivos de comando, com a sua potência de referência. A potência de referência é obtida a partir do fluxo luminoso útil, que é o fluxo total no caso das lâmpadas não direcionais e o fluxo num cone de 90° ou 120° no caso das lâmpadas direcionais.\n\nO IEE é calculado do seguinte modo e arredondado às centésimas:\n\nIEE = Pcor/Pref\n\nem que:\n\nPcor é a potência efetiva (Pef) nos modelos sem dispositivo externo de comando e a potência efetiva (Pef) corrigida, como indicado no quadro 2, nos modelos com dispositivo externo de comando. A potência efetiva das lâmpadas é medida à sua tensão de entrada nominal.\n\nÂmbito da correção Potência corrigida em função das perdas no dispositivo de comando (Pcor)\n\nLâmpadas que funcionam com dispositivos externos de comando de lâmpadas halogéneas Pef × 1,06\n\nLâmpadas que funcionam com dispositivos externos de comando de lâmpadas LED Pef × 1,10\n\nLâmpadas fluorescentes com 16 mm de diâmetro (lâmpadas T5) e lâmpadas fluorescentes de casquilho simples de quatro pinos que funcionam com dispositivos externos de comando de lâmpadas fluorescentes Pef × 1,10\n\nOutras lâmpadas que funcionam com dispositivos externos de comando de lâmpadas fluorescentes\n\nLâmpadas que funcionam com dispositivos externos de comando de lâmpadas de descarga de alta intensidade Pef × 1,10\n\nLâmpadas que funcionam com dispositivos externos de comando de lâmpadas de sódio de baixa pressão Pef × 1,15\n\nPref é a potência de referência obtida a partir do fluxo luminoso útil do modelo (Φut) com as seguintes fórmulas:\n\nO fluxo luminoso útil (Φut) é definido em conformidade com o quadro 3.\n\nModelo Fluxo luminoso útil (Φut)\n\nLâmpadas não direcionais Fluxo luminoso total efetivo (Φ)\n\nLâmpadas direcionais com um ângulo de feixe ≥ 90°, exceto as lâmpadas de filamento, e que ostentam na embalagem um aviso, gráfico ou em texto, de que não se destinam a iluminação de realce Fluxo luminoso efetivo num cone de 120° (Φ120°)\n\nOutras lâmpadas direcionais Fluxo luminoso efetivo num cone de 90° (Φ90°)"
+  },
+  "b1c22d7fbb6f593d": {
+   "fragment_id": "2. CÁLCULO DO CONSUMO DE ENERGIA",
+   "type": "divisao",
+   "heading": "2. CÁLCULO DO CONSUMO DE ENERGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CÁLCULO DO CONSUMO DE ENERGIA\n\nO consumo de energia ponderado (*Ec*) é calculado do seguinte modo, expresso em kWh/1 000 h, e arredondado às centésimas:\n\nem que Pcor é a potência corrigida em função das eventuais perdas nos dispositivos de comando, em conformidade com a parte 1."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "ff067d11692b41d4": {
+   "fragment_id": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "type": "divisao",
+   "heading": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet\n\n1) Para efeitos dos pontos 2 a 4 do presente anexo, aplicam-se as seguintes definições:\n\na) «mecanismo de visualização», qualquer ecrã, inclusive um ecrã tátil, ou outra tecnologia de visualização utilizada para a apresentação de conteúdos da Internet aos utilizadores;\n\nb) «apresentação em ninho», uma interface visual em que o acesso a uma imagem ou a um conjunto de dados se faz através de um clique no rato, do movimento do rato ou da expansão em ecrã tátil sobre outra imagem ou outro conjunto de dados;\n\nc) «ecrã tátil», um ecrã que reage ao toque, como é o caso nos computadores-tablete, computadores-ardósia ou telefones inteligentes;\n\nd) «texto alternativo», texto fornecido em alternativa a um gráfico, permitindo que a informação seja apresentada em forma não gráfica, nos casos em que os dispositivos de visualização não podem produzir o gráfico ou em que se pretende melhorar a acessibilidade, nomeadamente através de aplicações de síntese de voz.\n\n2) O rótulo pertinente, disponibilizado pelos fornecedores em conformidade com o artigo 3.º, n.º 1, alínea f), ou n.º 2, alínea e), deve ser apresentado no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que o rótulo seja claramente visível e legível e devem ser proporcionais às dimensões especificadas no anexo I. O rótulo pode ser apresentado em ninho, caso em que a imagem utilizada para se aceder ao rótulo deve obedecer às especificações estabelecidas no ponto 3 do presente anexo. Caso se utilize a apresentação em ninho, o rótulo deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem.\n\n3) A imagem utilizada para se aceder ao rótulo no caso da apresentação em ninho deve:\n\na) ser uma seta de cor correspondente à classe de eficiência energética do produto indicada no rótulo;\n\nb) indicar na seta a classe de eficiência energética do produto, a branco e com carateres de tamanho equivalente ao dos do preço; e\n\nc) obedecer a um dos seguintes formatos:\n\n4) No caso da apresentação em ninho, a sequência de apresentação do rótulo deve ser a seguinte:\n\na) a imagem a que se refere o ponto 3 do presente anexo deve ser apresentada ao utilizador final na primeira apresentação e nas subsequentes apresentações de informações sobre o preço do produto;\n\nb) a imagem deve remeter, por hiperligação, para o rótulo;\n\nc) o rótulo deve ser apresentado após um clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem;\n\nd) o rótulo deve ser apresentado em janela emergente, novo separador, nova página ou inserção no ecrã;\n\ne) para ampliar o rótulo em ecrãs táteis, aplicam-se os procedimentos específicos do dispositivo para o efeito;\n\nf) a apresentação do rótulo deve cessar mediante recurso a uma opção de fecho ou a outro mecanismo de fecho normal;\n\ng) o texto alternativo à imagem, a apresentar em caso de impossibilidade de apresentação do rótulo, deve indicar a classe de eficiência energética do produto em carateres de tamanho equivalente ao dos do preço.\n\n---"
+  },
+  "65a508f9a8707061": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f1a6a618-dbdc-11ea-adf7-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 285 de 31.10.2009, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f1a6a618-dbdc-11ea-adf7-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 27 de 30.1.2010, p. 1."
+  },
+  "5b338591418fc33f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02012R0874 — PT — 01.09.2021 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32012R0874) [REGULAMENTO DELEGADO (UE) N.º 874/2012 DA COMISSÃO](http://publications.europa.eu/resource/celex/32012R0874) [de 12 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0874) [que complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das lâmpadas elétricas e luminárias](http://publications.europa.eu/resource/celex/32012R0874) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32012R0874) (JO L 258, 26.9.2012, p.1)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2015 da Comissão de 11 de março de 2019](http://publications.europa.eu/resource/celex/32019R2015) — L 315 — 68 — 5.12.2019"
+  }
+ }
+}

@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-12'
+version_history:
+  file: diretiva-ue-2011-24.versoes.json
+  count: 3
+  source_lastmod: '2025-01-12'
+  versions:
+  - date: '2011-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013L0064:por
+    amending_title: DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Articulação com outros actos da União
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Cuidados de saúde que podem ser sujeitos a autorização prévia
+    - Altera Artigo 10.º — Assistência mútua e cooperação
+    - Altera Artigo 12.º — Redes europeias de referência
+    - Altera Artigo 14.º — Saúde em linha
+    - Altera Artigo 21.º — Transposição
+    - Altera Artigo 23.º — Destinatários
+    - Altera Notas
+  - date: '2025-01-12'
+    amending: eu:celex:32021R2282:por
+    amending_title: REGULAMENTO (UE) 2021/2282 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021; DIRETIVA (UE)
+      2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Articulação com outros actos da União
+    - Altera Artigo 10.º — Assistência mútua e cooperação
+    - Altera Artigo 20.º — Relatórios
+    - Altera Notas
+    - Suprime Artigo 15.º — Cooperação em matéria de avaliação das tecnologias da saúde
 identifiers:
   celex: 32011L0024
   eli: http://data.europa.eu/eli/dir/2011/24/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/377ab800-836b-4fde-85ff-2e4aac7dee94.0005
   content_url: http://publications.europa.eu/resource/cellar/be5f9f08-cd06-11ef-be2a-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0024-20250112
-  retrieved_at: '2026-10-22T02:48:21Z'
+  retrieved_at: '2026-10-22T15:50:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T13:02:18.828+02:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:21Z'
-  notes: Texto consolidado 02011L0024-20250112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:06Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2011-24.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -318,31 +352,19 @@ relationships:
   source: null
 article_structure:
   article_count: 22
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:21Z'
+  checked_at: '2026-10-22T15:50:06Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2011/24/UE do Parlamento Europeu e do Conselho, de 9 de Março de 2011
-
-> 02011L0024 — PT — 12.01.2025 — 002.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0064) — [DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0064) — L 353 — 8 — 28.12.2013
-- [►M2](http://publications.europa.eu/resource/celex/32021R2282) — [REGULAMENTO (UE) 2021/2282 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2282) — L 458 — 1 — 22.12.2021
-- [►M3](http://publications.europa.eu/resource/celex/32024L2839) — [DIRETIVA (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2839) — L 2839 — 1 — 7.11.2024
-
-## DIRECTIVA 2011/24/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de Março de 2011
 

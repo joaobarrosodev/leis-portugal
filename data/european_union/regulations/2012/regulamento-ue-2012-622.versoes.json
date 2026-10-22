@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0622:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0622-20120801",
+ "dre_path": null,
+ "source_lastmod": "2012-08-01",
+ "versions": [
+  {
+   "date": "2012-07-12",
+   "future": false,
+   "celex": "32012R0622",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52e3f926ff417f98",
+    "89cd4ca77909731b",
+    "f945fba119186a98",
+    "c471f19dcb27f876"
+   ]
+  }
+ ],
+ "fragments": {
+  "52e3f926ff417f98": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de julho de 2012\n\nque altera o Regulamento (CE) n.º 641/2009 no que respeita aos requisitos de conceção ecológica para bombas de circulação sem empanque autónomas e integradas em produtos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativa à criação de um quadro para definir os requisitos de conceção ecológica dos produtos relacionados com o consumo de energia [([^1])](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntr1-L_2012180PT.01000401-E0001), nomeadamente o artigo 15.º, n.º 1,\n\nApós consulta do Fórum de Consulta sobre a Conceção Ecológica,\n\nConsiderando o seguinte:\n\n(1) O artigo 7.º do Regulamento (CE) n.º 641/2009 da Comissão, de 22 de julho de 2009, que dá execução à Diretiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de conceção ecológica para bombas de circulação sem empanque autónomas e integradas em produtos [([^2])](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntr2-L_2012180PT.01000401-E0002), incumbe a Comissão da revisão, antes de 1 de janeiro de 2012, da metodologia de cálculo do índice de eficiência energética das bombas de circulação sem empanque integradas em produtos, prevista no anexo II, ponto 2, desse regulamento.\n\n(2) A revisão efetuada pela Comissão e a experiência adquirida na execução do Regulamento (CE) n.º 641/2009 revelaram ser necessário alterar determinadas disposições deste regulamento, a fim de evitar efeitos indesejados nos mercados das bombas de circulação e no desempenho dos produtos abrangidos pelo Regulamento (CE) n.º 641/2009.\n\n(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo artigo 19.º, n.º 1, da Diretiva 2009/125/CE,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "89cd4ca77909731b": {
+   "fragment_id": "Artigo 1.º — Alterações do Regulamento (CE) n.º 641/2009",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alterações do Regulamento (CE) n.º 641/2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações do Regulamento (CE) n.º 641/2009\n\nO Regulamento (CE) n.º 641/2009 é alterado do seguinte modo:\n\n1) Os artigos 1.º e 2.º passam a ter a seguinte redação: «Artigo 1.º Objeto e âmbito de aplicação 1. O presente regulamento estabelece requisitos de conceção ecológica para a colocação no mercado de bombas de circulação sem empanque autónomas e de bombas de circulação sem empanque integradas em produtos. 2. O presente regulamento não se aplica a: a) Bombas de circulação para água potável, exceto no que respeita aos requisitos de informação sobre o produto estabelecidos no anexo I, ponto 2.1, alínea d); b) Bombas de circulação integradas em produtos colocadas no mercado o mais tardar a 1 de janeiro de 2020 em substituição de bombas de circulação integradas em produtos idênticas, colocadas no mercado o mais tardar a 1 de agosto de 2015, exceto no que respeita aos requisitos de informação sobre o produto estabelecidos no anexo I, ponto 2.1, alínea e). Artigo 2.º Definições Para efeitos do presente regulamento, entende-se por: 1) “*Bomba de circulação*”, uma bomba de impulsor, com ou sem carcaça, cuja potência hidráulica nominal de saída está compreendida entre 1 W e 2 500 W, concebida para ser utilizada em sistemas de aquecimento ou nos circuitos secundários de sistemas distribuidores de refrigeração. 2) “*Bomba de circulação sem empanque*”, uma bomba de circulação cujo rotor está diretamente acoplado ao impulsor e está imerso no meio bombeado. 3) “*Bomba de circulação autónoma*”, uma bomba de circulação concebida para funcionar independentemente do produto. 4) “*Produto*”, um aparelho que gera e/ou transfere calor. 5) “*Bomba de circulação integrada num produto*”, uma bomba de circulação concebida para funcionar incorporada num produto e com pelo menos uma das seguintes características de conceção: a) a carcaça da bomba destina-se a ser montada e utilizada dentro de um produto; b) a bomba de circulação foi concebida para ter a sua velocidade controlada pelo produto; c) a bomba de circulação possui características de segurança inadequadas para funcionamento autónomo (classes IP ISO); d) a bomba de circulação é abrangida pela aprovação do produto ou pela marcação CE do produto. 6) “*Bomba de circulação para água potável*”, uma bomba de circulação concebida especificamente para ser utilizada na recirculação de água destinada ao consumo humano, na aceção do artigo 2.º da Diretiva 98/83/CE do Conselho[([^*1])](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntr*1-L_2012180PT.01000401-E0003). 7) “*Carcaça de bomba*”, a parte de uma bomba de impulsor destinada a ser ligada à canalização de um sistema de aquecimento ou dos circuitos secundários de um sistema distribuidor de refrigeração. [(^*1^)](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntc*1-L_2012180PT.01000401-E0003) [JO L 330 de 5.12.1998, p. 32](http://publications.europa.eu/resource/oj/JOL_1998_330_R_TOC).».\"\n\na) Bombas de circulação para água potável, exceto no que respeita aos requisitos de informação sobre o produto estabelecidos no anexo I, ponto 2.1, alínea d);\n\nb) Bombas de circulação integradas em produtos colocadas no mercado o mais tardar a 1 de janeiro de 2020 em substituição de bombas de circulação integradas em produtos idênticas, colocadas no mercado o mais tardar a 1 de agosto de 2015, exceto no que respeita aos requisitos de informação sobre o produto estabelecidos no anexo I, ponto 2.1, alínea e).\n\n1) “*Bomba de circulação*”, uma bomba de impulsor, com ou sem carcaça, cuja potência hidráulica nominal de saída está compreendida entre 1 W e 2 500 W, concebida para ser utilizada em sistemas de aquecimento ou nos circuitos secundários de sistemas distribuidores de refrigeração.\n\n2) “*Bomba de circulação sem empanque*”, uma bomba de circulação cujo rotor está diretamente acoplado ao impulsor e está imerso no meio bombeado.\n\n3) “*Bomba de circulação autónoma*”, uma bomba de circulação concebida para funcionar independentemente do produto.\n\n4) “*Produto*”, um aparelho que gera e/ou transfere calor.\n\n5) “*Bomba de circulação integrada num produto*”, uma bomba de circulação concebida para funcionar incorporada num produto e com pelo menos uma das seguintes características de conceção: a) a carcaça da bomba destina-se a ser montada e utilizada dentro de um produto; b) a bomba de circulação foi concebida para ter a sua velocidade controlada pelo produto; c) a bomba de circulação possui características de segurança inadequadas para funcionamento autónomo (classes IP ISO); d) a bomba de circulação é abrangida pela aprovação do produto ou pela marcação CE do produto.\n\na) a carcaça da bomba destina-se a ser montada e utilizada dentro de um produto;\n\nb) a bomba de circulação foi concebida para ter a sua velocidade controlada pelo produto;\n\nc) a bomba de circulação possui características de segurança inadequadas para funcionamento autónomo (classes IP ISO);\n\nd) a bomba de circulação é abrangida pela aprovação do produto ou pela marcação CE do produto.\n\n6) “*Bomba de circulação para água potável*”, uma bomba de circulação concebida especificamente para ser utilizada na recirculação de água destinada ao consumo humano, na aceção do artigo 2.º da Diretiva 98/83/CE do Conselho[([^*1])](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntr*1-L_2012180PT.01000401-E0003).\n\n7) “*Carcaça de bomba*”, a parte de uma bomba de impulsor destinada a ser ligada à canalização de um sistema de aquecimento ou dos circuitos secundários de um sistema distribuidor de refrigeração.\n\n2) O artigo 7.º passa a ter a seguinte redação: «Artigo 7.º Revisão Antes de 1 de janeiro de 2017, a Comissão procede à revisão do presente regulamento à luz dos progressos tecnológicos realizados. A revisão inclui a avaliação das opções de conceção que possam facilitar a reutilização e a reciclagem. Os resultados da revisão são apresentados ao Fórum de Consulta sobre a Conceção Ecológica.».\n\n3) Os anexos I e II do Regulamento (CE) n.º 641/2009 são alterados em conformidade com o anexo do presente regulamento."
+  },
+  "f945fba119186a98": {
+   "fragment_id": "Artigo 2.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 11 de julho de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "c471f19dcb27f876": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntc1-L_2012180PT.01000401-E0001) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e27f261e-cc57-11e1-b84a-01aa75ed71a1.0018.04/DOC_5#ntc2-L_2012180PT.01000401-E0002) [JO L 191 de 23.7.2009, p. 35](http://publications.europa.eu/resource/oj/JOL_2009_191_R_TOC)."
+  }
+ }
+}

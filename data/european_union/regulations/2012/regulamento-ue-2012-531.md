@@ -35,6 +35,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-01'
+version_history:
+  file: regulamento-ue-2012-531.versoes.json
+  count: 4
+  source_lastmod: '2022-07-01'
+  versions:
+  - date: '2015-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Acesso grossista à itinerância
+    - Altera Artigo 14.º — Transparência das tarifas retalhistas para chamadas e mensagens SMS itinerantes
+    - Altera Artigo 15.º — Transparência e mecanismos de salvaguarda para os serviços retalhistas de itinerância de dados
+    - Altera Artigo 16.º — Supervisão e execução
+    - Altera Notas
+    - Adita Artigo 4.º
+    - Adita Venda separada de serviços regulados de itinerância de dados a nível retalhista
+    - Adita Artigo 5.º
+    - Adita Realização da venda separada de serviços regulados de itinerância de dados a nível retalhista
+    - Adita Artigo 6.º-E — Prestação de serviços regulados de itinerância a nível retalhista
+    - Suprime Artigo 4.º — Venda separada de serviços regulamentados de itinerância a nível retalhista
+    - Suprime Artigo 5.º — Realização da venda separada de serviços regulamentados de itinerância ao nível retalhista
+    - Suprime Artigo 8.º — Tarifas retalhistas para as chamadas de itinerância regulamentadas
+    - Suprime Artigo 10.º — Tarifas retalhistas para as mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 13.º — Tarifas retalhistas para os serviços regulamentados de itinerância de dados
+  - date: '2017-06-15'
+    amending: eu:celex:32017R0920:por
+    amending_title: REGULAMENTO (UE) 2017/920 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de maio de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Acesso grossista à itinerância
+    - Altera Artigo 7.º — Tarifas grossistas para as chamadas de itinerância regulamentadas efetuadas
+    - Altera Artigo 9.º — Tarifas grossistas para as mensagens SMS itinerantes regulamentadas
+    - Altera Artigo 12.º — Tarifas grossistas para os serviços regulamentados de itinerância de dados
+    - Altera Artigo 14.º — Transparência das tarifas retalhistas para chamadas e mensagens SMS itinerantes
+    - Altera Artigo 15.º — Transparência e mecanismos de salvaguarda para os serviços retalhistas de itinerância de dados
+    - Altera Artigo 16.º — Supervisão e execução
+    - Altera Artigo 17.º — Resolução de litígios
+    - Altera Artigo 19.º — Reexame
+    - Adita Artigo 6.º-A — Abolição das sobretaxas de itinerância a nível retalhista
+    - Adita Artigo 6.º-B — Utilização responsável
+    - Adita Artigo 6.º-C — Sustentabilidade da abolição das sobretaxas de itinerância a nível retalhista
+    - Adita Artigo 6.º-D — Aplicação das políticas de utilização responsável e avaliação da sustentabilidade da abolição das
+      sobretaxas de itinerância a nível retalhista
+    - Adita Artigo 6.º-F — Sobretaxas de itinerância transitórias a nível retalhista
+    - Suprime Notas
+  - date: '2022-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objeto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Acesso grossista à itinerância
+    - Suprime Artigo 4.º
+    - Suprime Venda separada de serviços regulados de itinerância de dados a nível retalhista
+    - Suprime Artigo 5.º
+    - Suprime Realização da venda separada de serviços regulados de itinerância de dados a nível retalhista
+    - Suprime Artigo 6.º — Procedimento de comité
+    - Suprime Artigo 6.º-A — Abolição das sobretaxas de itinerância a nível retalhista
+    - Suprime Artigo 6.º-B — Utilização responsável
+    - Suprime Artigo 6.º-C — Sustentabilidade da abolição das sobretaxas de itinerância a nível retalhista
+    - Suprime Artigo 6.º-D — Aplicação das políticas de utilização responsável e avaliação da sustentabilidade da abolição
+      das sobretaxas de itinerância a nível retalhista
+    - Suprime Artigo 6.º-E — Prestação de serviços regulados de itinerância a nível retalhista
+    - Suprime Artigo 6.º-F — Sobretaxas de itinerância transitórias a nível retalhista
+    - Suprime Artigo 7.º — Tarifas grossistas para as chamadas de itinerância regulamentadas efetuadas
+    - Suprime Artigo 9.º — Tarifas grossistas para as mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 11.º — Características técnicas das mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 12.º — Tarifas grossistas para os serviços regulamentados de itinerância de dados
+    - Suprime Artigo 14.º — Transparência das tarifas retalhistas para chamadas e mensagens SMS itinerantes
+    - Suprime Artigo 15.º — Transparência e mecanismos de salvaguarda para os serviços retalhistas de itinerância de dados
+    - Suprime Artigo 16.º — Supervisão e execução
+    - Suprime Artigo 17.º — Resolução de litígios
+    - Suprime Artigo 18.º — Sanções
+    - Suprime Artigo 19.º — Reexame
+    - Suprime Artigo 20.º — Notificação
+    - Suprime Artigo 21.º — Revogação
+    - Suprime Artigo 22.º — Entrada em vigor e caducidade
+    - Suprime ANEXO I
+    - Suprime ANEXO II
 identifiers:
   celex: 32012R0531
   eli: http://data.europa.eu/eli/reg/2012/531/oj
@@ -49,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/06bc16ca-c59e-11e1-b84a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e33c308d-0edc-11ed-8fa0-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0531-20220701
-  retrieved_at: '2026-10-22T02:45:39Z'
+  retrieved_at: '2026-10-22T15:59:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T11:33:23.869+02:00'
 integrity:
@@ -58,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:39Z'
-  notes: Texto consolidado 02012R0531-20220701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:42Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2012-531.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +280,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:39Z'
+  checked_at: '2026-10-22T15:59:42Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02012R0531-20120630: versão indisponível (Sem expressão na língua por para CELEX 02012R0531-20120630.)'
   errors: []
 ---
 

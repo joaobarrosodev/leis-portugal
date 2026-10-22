@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-02'
+version_history:
+  file: regulamento-ue-2011-1035.versoes.json
+  count: 3
+  source_lastmod: '2020-01-02'
+  versions:
+  - date: '2011-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-23'
+    amending: eu:celex:32012R0923:por
+    amending_title: Regulamento de Execução (UE) n. o 923/2012 da Comissão de 26 de setembro de 2012; Regulamento de Execução
+      (UE) n. o 448/2014 da Comissão de 2 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Autoridade competente para a certificação
+    - Altera Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008
+    - Altera Artigo 15.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Requisitos gerais para a prestação de serviços de navegação aérea
+    - Adita 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA
+    - Adita 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO
+    - Adita 2.1. Estrutura da organização
+    - Adita 2.2. Gestão da organização
+    - Adita 2.2.1. Plano de actividades
+    - Adita 2.2.2. Plano anual
+    - Adita 2.2.3. Parte dos planos relativa ao desempenho
+    - Adita 3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE
+    - Adita 3.1. Gestão da segurança
+    - Adita 3.2. Sistema de gestão da qualidade
+    - Adita 3.3. Manuais de operações
+    - Adita 4. SEGURANÇA (SECURITY)
+    - Adita 5. RECURSOS HUMANOS
+    - Adita 6. CAPACIDADE FINANCEIRA
+    - Adita 6.1. Capacidade económica e financeira
+    - Adita 6.2. Auditoria financeira
+    - Adita 7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO
+    - Adita 8. QUALIDADE DOS SERVIÇOS
+    - Adita 8.1. Prestação aberta e transparente de serviços de navegação aérea
+    - Adita 8.2. Planos de contingência
+    - Adita 9. REQUISITOS EM MATÉRIA DE RELATÓRIOS
+    - Adita ANEXO II
+    - Adita Requisitos específicos para a prestação de serviços de tráfego aéreo
+    - Adita 1. PROPRIEDADE
+    - Adita 2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE
+    - Adita 3. SEGURANÇA (SAFETY) DOS SERVIÇOS
+    - Adita 3.1. Sistema de gestão da segurança (SMS)
+    - Adita 3.1.1. Requisitos gerais de segurança
+    - Adita 3.1.2. Requisitos para a obtenção da segurança
+    - Adita 3.1.3. Requisitos para a garantia de segurança
+    - Adita 3.1.4. Requisitos para a promoção da segurança
+    - Adita 3.2. Requisitos de segurança para avaliação e atenuação dos riscos relativamente a alterações
+    - Adita 3.2.1. Secção 1
+  - date: '2020-01-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Autoridade competente para a certificação
+    - Suprime Artigo 4.º — Concessão de certificados
+    - Suprime Artigo 5.º — Derrogações
+    - Suprime Artigo 6.º — Demonstração do cumprimento
+    - Suprime Artigo 7.º — Facilitação da verificação do cumprimento
+    - Suprime Artigo 8.º — Continuidade do cumprimento
+    - Suprime Artigo 9.º — Regulamentação de segurança aplicável ao pessoal técnico
+    - Suprime Artigo 10.º — Procedimento de avaliação pelos pares
+    - Suprime Artigo 11.º — Disposições transitórias
+    - Suprime Artigo 12.º — Revogação
+    - Suprime Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008
+    - Suprime Artigo 14.º — Alteração ao Regulamento (UE) n.º 691/2010
+    - Suprime Artigo 15.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Requisitos gerais para a prestação de serviços de navegação aérea
+    - Suprime 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA
+    - Suprime 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO
+    - Suprime 2.1. Estrutura da organização
+    - Suprime 2.2. Gestão da organização
+    - Suprime 2.2.1. Plano de actividades
+    - Suprime 2.2.2. Plano anual
+    - Suprime 2.2.3. Parte dos planos relativa ao desempenho
+    - Suprime 3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE
+    - Suprime 3.1. Gestão da segurança
+    - Suprime 3.2. Sistema de gestão da qualidade
+    - Suprime 3.3. Manuais de operações
+    - Suprime 4. SEGURANÇA (SECURITY)
+    - Suprime 5. RECURSOS HUMANOS
+    - Suprime 6. CAPACIDADE FINANCEIRA
+    - Suprime 6.1. Capacidade económica e financeira
+    - Suprime 6.2. Auditoria financeira
+    - Suprime 7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO
+    - Suprime 8. QUALIDADE DOS SERVIÇOS
+    - Suprime 8.1. Prestação aberta e transparente de serviços de navegação aérea
+    - Suprime 8.2. Planos de contingência
+    - Suprime 9. REQUISITOS EM MATÉRIA DE RELATÓRIOS
+    - Suprime ANEXO II
 identifiers:
   celex: 32011R1035
   eli: http://data.europa.eu/eli/reg_impl/2011/1035/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022
   content_url: http://publications.europa.eu/resource/cellar/76541514-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1035-20200102
-  retrieved_at: '2026-10-22T02:48:26Z'
+  retrieved_at: '2026-10-22T15:54:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T00:08:18.649+02:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:26Z'
-  notes: Texto consolidado 02011R1035-20200102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:54:44Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-1035.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,16 +268,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:26Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:54:44Z'
+  warnings: []
   errors: []
 ---
 

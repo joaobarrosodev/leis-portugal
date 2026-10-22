@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2011-181.versoes.json
+  count: 1
+  source_lastmod: '2011-03-20'
+  versions:
+  - date: '2011-02-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32011R0181
   eli: http://data.europa.eu/eli/reg/2011/181/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/42013690-354a-4289-b094-cef215ad6534.0010
   content_url: http://publications.europa.eu/resource/cellar/42013690-354a-4289-b094-cef215ad6534.0010.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:48:24Z'
+  retrieved_at: '2026-10-22T15:50:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T16:29:23.021+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:24Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:50:56Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2011-181.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,21 +160,20 @@ relationships:
   date: '2017-12-27'
 article_structure:
   article_count: 34
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:24Z'
+  checked_at: '2026-10-22T15:50:56Z'
   warnings:
-  - Versão consolidada 02011R0181-20110320 indisponível (Sem expressão na língua por para CELEX 02011R0181-20110320.); usado
-    o texto do JO.
+  - '02011R0181-20110320: versão indisponível (Sem expressão na língua por para CELEX 02011R0181-20110320.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 181/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. ° 181/2011 do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 2011
 
 de 16 de Fevereiro de 2011
 

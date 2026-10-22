@@ -41,6 +41,79 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-04-01'
+version_history:
+  file: regulamento-ue-2011-1169.versoes.json
+  count: 3
+  source_lastmod: '2025-04-01'
+  versions:
+  - date: '2011-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-01'
+    amending: eu:celex:32013R1155:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1155/2013 DA COMISSÃO de 21 de agosto de 2013; REGULAMENTO DELEGADO (UE)
+      N. o 78/2014 DA COMISSÃO de 22 de novembro de 2013; REGULAMENTO (UE) 2015/2283 DO PARLAMENTO EUROPEU E DO CONSELHO de
+      25 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Princípios que regem a informação obrigatória sobre os géneros alimentícios
+    - Altera Artigo 18.º — Lista de ingredientes
+    - Altera Artigo 19.º — Omissão da lista de ingredientes
+    - Altera Artigo 20.º — Omissão de componentes de um género alimentício na lista de ingredientes
+    - Altera Artigo 26.º — País de origem ou local de proveniência
+    - Altera Artigo 29.º — Relação com outros actos legislativos
+    - Altera Artigo 30.º — Conteúdo
+    - Altera Artigo 32.º — Expressão por 100 g ou por 100 ml
+    - Altera Artigo 36.º — Requisitos aplicáveis
+    - Altera Artigo 45.º — Procedimento de notificação
+    - Altera Artigo 49.º — Alterações ao Regulamento (CE) n.º 1924/2006
+    - Altera Artigo 50.º — Alterações ao Regulamento (CE) n.º 1925/2006
+    - Altera Artigo 54.º — Medidas transitórias
+    - Altera Artigo 55.º — Entrada em vigor e data de aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES ESPECÍFICAS
+    - Adita A que se refere o artigo 2.º, n.º 4
+    - Adita ANEXO II
+    - Adita SUBSTÂNCIAS OU PRODUTOS QUE PROVOCAM ALERGIAS OU INTOLERÂNCIAS
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita DEFINIÇÃO DE «ALTURA DE x»
+    - Adita Legenda
+    - Adita ANEXO V
+    - Adita GÉNEROS ALIMENTÍCIOS ISENTOS DO REQUISITO DE DECLARAÇÃO NUTRICIONAL OBRIGATÓRIA
+    - Adita ANEXO VI
+    - Adita DENOMINAÇÃO DO GÉNERO ALIMENTÍCIO E MENÇÕES QUE A ACOMPANHAM
+    - Adita PARTE A — MENÇÕES OBRIGATÓRIAS QUE ACOMPANHAM A DENOMINAÇÃO DO GÉNERO ALIMENTÍCIO
+    - Adita PARTE B — REQUISITOS ESPECÍFICOS RELATIVOS À DESIGNAÇÃO DE «CARNE PICADA»
+    - Adita PARTE C — REQUISITOS ESPECÍFICOS RELATIVOS À DESIGNAÇÃO DAS TRIPAS PARA ENCHIDOS
+    - Adita ANEXO VII
+    - Adita INDICAÇÃO E DESIGNAÇÃO DE INGREDIENTES
+    - Adita PARTE A — DISPOSIÇÕES ESPECÍFICAS RELATIVAS À INDICAÇÃO DOS INGREDIENTES POR ORDEM DECRESCENTE DE PESO
+    - Adita PARTE B — DESIGNAÇÃO DE DETERMINADOS INGREDIENTES POR INDICAÇÃO DA CATEGORIA E NÃO DO NOME ESPECÍFICO
+    - Adita PARTE C — DESIGNAÇÃO DE CERTOS INGREDIENTES POR DENOMINAÇÃO DA RESPECTIVA CATEGORIA SEGUIDA DA SUA DENOMINAÇÃO
+      ESPECÍFICA OU NÚMERO E
+    - Adita PARTE D — DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Adita PARTE E — DESIGNAÇÃO DE INGREDIENTES COMPOSTOS
+  - date: '2025-04-01'
+    amending: eu:celex:32024R2512:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2512 DA COMISSÃO de 17 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 26.º — País de origem ou local de proveniência
+    - Altera Artigo 29.º — Relação com outros actos legislativos
+    - Altera Artigo 45.º — Procedimento de notificação
+    - Altera Artigo 49.º — Alterações ao Regulamento (CE) n.º 1924/2006
+    - Altera Artigo 50.º — Alterações ao Regulamento (CE) n.º 1925/2006
+    - Altera Artigo 54.º — Medidas transitórias
+    - Altera SUBSTÂNCIAS OU PRODUTOS QUE PROVOCAM ALERGIAS OU INTOLERÂNCIAS
+    - Altera ANEXO III
+    - Altera GÉNEROS ALIMENTÍCIOS ISENTOS DO REQUISITO DE DECLARAÇÃO NUTRICIONAL OBRIGATÓRIA
+    - Altera PARTE B — REQUISITOS ESPECÍFICOS RELATIVOS À DESIGNAÇÃO DE «CARNE PICADA»
+    - Altera PARTE B — DESIGNAÇÃO DE DETERMINADOS INGREDIENTES POR INDICAÇÃO DA CATEGORIA E NÃO DO NOME ESPECÍFICO
+    - Altera Notas
 identifiers:
   celex: 32011R1169
   eli: http://data.europa.eu/eli/reg/2011/1169/oj
@@ -55,7 +128,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/519f20de-6cb8-46d0-b02f-412e34d5a653.0008
   content_url: http://publications.europa.eu/resource/cellar/0d97f4fa-212e-11f0-af23-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1169-20250401
-  retrieved_at: '2026-10-22T02:36:17Z'
+  retrieved_at: '2026-10-22T15:55:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T10:38:18.885+02:00'
 integrity:
@@ -64,9 +137,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:17Z'
-  notes: Texto consolidado 02011R1169-20250401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:55:10Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2011-1169.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -576,38 +649,22 @@ relationships:
   date: '2008-02-01'
 article_structure:
   article_count: 55
-  section_count: 61
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 62
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:17Z'
-  warnings: []
+  checked_at: '2026-10-22T15:55:10Z'
+  warnings:
+  - '02011R1169-20111212: versão indisponível (Sem expressão na língua por para CELEX 02011R1169-20111212.)'
+  - '02011R1169-20131206: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R1169-20140219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. o 1169/2011 do Parlamento Europeu e do Conselho, de 25 de Outubro de 2011
-
-> 02011R1169 — PT — 01.04.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1155) — [REGULAMENTO DELEGADO (UE) N.º 1155/2013 DA COMISSÃO de 21 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R1155) — L 306 — 7 — 16.11.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014R0078) — [REGULAMENTO DELEGADO (UE) N.º 78/2014 DA COMISSÃO de 22 de novembro de 2013](http://publications.europa.eu/resource/celex/32014R0078) — L 27 — 7 — 30.1.2014
-- [►M3](http://publications.europa.eu/resource/celex/32015R2283) — [REGULAMENTO (UE) 2015/2283 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2283) — L 327 — 1 — 11.12.2015
-- [►M4](http://publications.europa.eu/resource/celex/32024R2512) — [REGULAMENTO DELEGADO (UE) 2024/2512 DA COMISSÃO de 17 de abril de 2024](http://publications.europa.eu/resource/celex/32024R2512) — L 2512 — 1 — 25.9.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R1169R%2806%29) — [Rectificação, JO L 331, 18.11.2014, p. 40 (1169/2011)](http://publications.europa.eu/resource/celex/32011R1169R%2806%29)
-- [►C2](http://publications.europa.eu/resource/celex/32011R1169R%2812%29) — [Rectificação, JO L 266, 30.9.2016, p. 7 (1169/2011)](http://publications.europa.eu/resource/celex/32011R1169R%2812%29)
-- [►C3](http://publications.europa.eu/resource/celex/32011R1169R%2820%29) — [Rectificação, JO L 142, 1.6.2023, p. 41 (n.o 1169/2011)](http://publications.europa.eu/resource/celex/32011R1169R%2820%29)
-
-## REGULAMENTO (UE) N.º 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Outubro de 2011
 

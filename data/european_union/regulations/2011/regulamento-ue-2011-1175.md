@@ -36,6 +36,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-13'
+version_history:
+  file: regulamento-ue-2011-1175.versoes.json
+  count: 2
+  source_lastmod: '2011-12-13'
+  versions:
+  - date: '2011-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita «SECÇÃO 1- –A
+    - Adita SEMESTRE EUROPEU PARA A COORDENAÇÃO DAS POLÍTICAS ECONÓMICAS
+    - Adita «SECÇÃO 1- –AA
+    - Adita DIÁLOGO ECONÓMICO
+    - Adita «SECÇÃO 3-A
+    - Adita PRINCÍPIO DA INDEPENDÊNCIA ESTATÍSTICA
 identifiers:
   celex: 32011R1175
   eli: http://data.europa.eu/eli/reg/2011/1175/oj
@@ -50,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bd318a84-96a3-4281-9112-673bccae2041.0015
   content_url: http://publications.europa.eu/resource/cellar/5bf306af-3818-4dd6-89dc-6b7e3b3500f3.0002.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1175-20111213
-  retrieved_at: '2026-10-22T02:48:26Z'
+  retrieved_at: '2026-10-22T15:55:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-12T02:59:19.284+02:00'
 integrity:
@@ -59,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:26Z'
-  notes: Texto consolidado 02011R1175-20111213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:55:14Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2011-1175.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,29 +172,19 @@ relationships:
   date: '2024-04-30'
 article_structure:
   article_count: 2
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:26Z'
+  checked_at: '2026-10-22T15:55:14Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 1175/2011 do Parlamento Europeu e do Conselho, de 16 de Novembro de 2011
-
-> 2011R1175 — PT — 13.12.2011 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R1175R%2803%29) — [Rectificação, JO L 200, 30.7.2015, p. 19 (1175/2011)](http://publications.europa.eu/resource/celex/32011R1175R%2803%29)
-
-## REGULAMENTO (UE) N.º 1175/2011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Novembro de 2011
 

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012L0036:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0036-20121121",
+ "dre_path": null,
+ "source_lastmod": "2012-11-21",
+ "versions": [
+  {
+   "date": "2012-11-20",
+   "future": false,
+   "celex": "32012L0036",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c9408079f574ae7e",
+    "60df28d109f97068",
+    "e06cb4710b8ec7cd",
+    "8ef1de06753ec0ca",
+    "5bab21b7e2f59948",
+    "dc174ebf33d93684"
+   ]
+  }
+ ],
+ "fragments": {
+  "c9408079f574ae7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de novembro de 2012\n\nque altera a Diretiva 2006/126/CE do Parlamento Europeu e do Conselho relativa à carta de condução\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2006/126/CE do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativa à carta de condução [([^1])](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntr1-L_2012321PT.01005401-E0001), nomeadamente o artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) Os códigos e subcódigos que constam do anexo I da Diretiva 2006/126/CE devem ser atualizados à luz das novas categorias de veículos introduzidas pela Diretiva 2006/126/CE, cujas características técnicas são diferentes das que estão em vigor nos termos da Diretiva 91/439/CEE, de 29 de julho de 1991, relativa à carta de condução [([^2])](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntr2-L_2012321PT.01005401-E0002). Neste contexto, as habilitações para conduzir adquiridas antes da aplicação da Diretiva 2006/126/CE, em 19 de janeiro de 2013, devem ser mantidas.\n\n(2) O conteúdo do exame de condução para veículos da categoria C1 deve ser adaptado às diferentes características dos veículos abrangidos por esta categoria. Ao contrário dos veículos da categoria C, destinados ao transporte profissional de mercadorias, a categoria C1 é heterogénea e inclui uma ampla gama de veículos, como os veículos para lazer ou para uso pessoal, os veículos de emergência ou de combate a incêndios, ou os veículos comerciais utilizados para fins profissionais mas em que a condução não é a principal atividade do condutor. Não deve ser exigido que os condutores desses veículos demonstrem durante o exame de condução o conhecimento de regras ou equipamento só aplicáveis aos condutores abrangidos pela legislação relativa ao setor do transporte profissional, nomeadamente o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários [([^3])](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntr3-L_2012321PT.01005401-E0003) e o Regulamento (CEE) n.º 3821/85 do Conselho, de 20 de dezembro de 1985, relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários [([^4])](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntr4-L_2012321PT.01005401-E0004). Esta adaptação das regras existentes reduziria o risco de os condutores conduzirem com veículos da categoria B sobrecarregados a fim de evitarem os custos de formação e passagem do exame para veículos C ou C1, melhorando assim a segurança rodoviária. Reduziria também a sobrecarga administrativa e financeira para as PME e micro-empresas que devem utilizar esses veículos comerciais no quadro das suas atividades.\n\n(3) Os requisitos aplicáveis aos motociclos de exame das categorias A1, A2 e A a utilizar no exame das aptidões e comportamentos devem ser revistos à luz do progresso técnico, nomeadamente o desenvolvimento e uma mais ampla utilização dos motociclos elétricos. As especificações técnicas para os veículos de exame devem também ser adaptadas a fim de assegurar que os candidatos sejam examinados em veículos representativos da categoria para a qual seria emitida a carta de condução.\n\n(4) Os requisitos mínimos aplicáveis aos veículos de exame e ao conteúdo do exame das aptidões e comportamentos associados à condução de veículos das categorias C e D devem ser alterados à luz do progresso técnico, em especial de modo a ter em conta o crescente desenvolvimento e utilização no setor dos transportes de veículos mais modernos, mais seguros e menos poluentes, equipados com uma ampla gama de sistemas de transmissão semi-automáticos ou híbridos. Deve ser examinada a competência dos condutores no que respeita à sua capacidade de utilizar o sistema de transmissão dos veículos de forma segura, económica e respeitadora do ambiente. A simplificação das atuais restrições à condução de veículos automáticos reduziria também a sobrecarga administrativa e financeira para as PME e micro-empresas que exercem a atividade no transporte rodoviário.\n\n(5) Atendendo a que a Diretiva 2006/126/CE será aplicável integralmente em 19 de janeiro de 2013, a presente diretiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n(6) A Diretiva 2006/126/CE deve, por conseguinte, ser alterada em conformidade.\n\n(7) As medidas previstas na presente diretiva são conformes com o parecer do Comité da Carta de Condução,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "60df28d109f97068": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos I e II da Diretiva 2006/126/CE são alterados em conformidade com o anexo da presente diretiva."
+  },
+  "e06cb4710b8ec7cd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem colocar em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva, o mais tardar, em 31 de dezembro de 2013. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "8ef1de06753ec0ca": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "5bab21b7e2f59948": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 19 de novembro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "dc174ebf33d93684": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntc1-L_2012321PT.01005401-E0001) [JO L 403 de 30.12.2006, p. 18](http://publications.europa.eu/resource/oj/JOL_2006_403_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntc2-L_2012321PT.01005401-E0002) [JO L 237 de 24.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_237_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntc3-L_2012321PT.01005401-E0003) [JO L 102 de 11.4.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_102_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0018.04/DOC_1#ntc4-L_2012321PT.01005401-E0004) [JO L 370 de 31.12.1985, p. 8](http://publications.europa.eu/resource/oj/JOL_1985_370_R_TOC)."
+  }
+ }
+}

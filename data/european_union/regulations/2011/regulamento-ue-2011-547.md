@@ -36,6 +36,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2011-547.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2011-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS DE ROTULAGEM REFERIDOS NO ARTIGO 1.º
+    - Adita ANEXO II
+    - Adita FRASES-TIPO, REFERIDAS NO ARTIGO 1.º, RELATIVAS A RISCOS ESPECIAIS PARA A SAÚDE HUMANA OU ANIMAL OU PARA O AMBIENTE
+    - Adita INTRODUÇÃO
+    - Adita 1. Frases-tipo relativas a riscos especiais
+    - Adita 1.1. Riscos especiais para os seres humanos (RSh)
+    - Adita 1.2. Riscos especiais para o ambiente (RSe)
+    - Adita 2. Critérios de atribuição de frases-tipo relativas a riscos especiais
+    - Adita 2.1. Critérios de atribuição de frases-tipo relativas aos seres humanos
+    - Adita 2.2. Critérios de atribuição de frases-tipo relativas ao ambiente
+    - Adita ANEXO III
+    - Adita FRASES-TIPO, REFERIDAS NO ARTIGO 1.º, RELATIVAS A PRECAUÇÕES A TOMAR PARA A PROTECÇÃO DA SAÚDE HUMANA OU ANIMAL
+      OU PARA O AMBIENTE
+    - Adita 1. Disposições gerais
+    - Adita 2. Precauções específicas a tomar
+    - Adita 2.1. Precauções a tomar pelos operadores (SPo)
+    - Adita 2.2. Precauções a tomar em relação ao ambiente (SPe)
+    - Adita 2.3. Precauções a tomar relacionadas com as boas práticas agrícolas
+    - Adita 2.4. Precauções específicas a tomar em relação aos rodenticidas (SPr)
+    - Adita 3. Critérios de atribuição de frases-tipo relativas a precauções específicas a tomar
+    - Adita 3.1. Introdução
+    - Adita 3.2. Critérios de atribuição das frases-tipo relativas a precauções a tomar em relação aos operadores
+    - Adita 3.3. Critérios de atribuição das frases-tipo relativas a precauções a tomar em relação ao ambiente
+    - Adita 3.4. Critérios de atribuição das frases-tipo relativas a precauções a tomar relacionadas com as boas práticas
+      agrícolas
+    - Adita 3.5. Critérios de atribuição de frases-tipo relativas a precauções específicas a tomar em relação aos rodenticidas
 identifiers:
   celex: 32011R0547
   eli: http://data.europa.eu/eli/reg/2011/547/oj
@@ -50,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/51010a46-6df1-4587-bb5b-394e3965fee8.0006
   content_url: http://publications.europa.eu/resource/cellar/3e4047ec-a762-481d-8e40-49d6082a3411.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0547-20130701
-  retrieved_at: '2026-10-22T02:53:03Z'
+  retrieved_at: '2026-10-22T15:53:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T10:15:19.696+02:00'
 integrity:
@@ -59,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:03Z'
-  notes: Texto consolidado 02011R0547-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:53:32Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2011-547.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -113,29 +156,19 @@ relationships:
   date: '2026-05-27'
 article_structure:
   article_count: 2
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:03Z'
+  checked_at: '2026-10-22T15:53:32Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 547/2011 da Comissão, de 8 de Junho de 2011
-
-> 2011R0547 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-
-## REGULAMENTO (UE) N.º 547/2011 DA COMISSÃO
 
 de 8 de Junho de 2011
 

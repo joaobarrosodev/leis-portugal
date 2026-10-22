@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011L0015:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0015-20110316",
+ "dre_path": null,
+ "source_lastmod": "2011-03-16",
+ "versions": [
+  {
+   "date": "2011-02-24",
+   "future": false,
+   "celex": "32011L0015",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba100f1392792125",
+    "a73b06eb6612b9bf",
+    "e45a07f5643d6a7c",
+    "121bc7f29193c6b3",
+    "e1f8e481c34e6f4b",
+    "f0f2ef277c94ae29"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba100f1392792125": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Fevereiro de 2011\n\nque altera a Directiva 2002/59/CE do Parlamento Europeu e do Conselho relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de Junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Directiva 93/75/CEE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/1cc7f048-acb7-47cc-bfbb-e1e3846f6113.0010.03/DOC_2#ntr1-L_2011049PT.01003301-E0001), e, nomeadamente, o seu artigo 27.º,\n\nConsiderando o seguinte:\n\n(1) A Resolução MSC.150(77) da Organização Marítima Internacional (OMI) foi revogada e substituída pela Resolução OMI MSC.286(86), com efeitos a partir de 1 de Julho de 2009. Por conseguinte, o artigo 12.º da Directiva 2002/59/CE, que remete para a Resolução da OMI revogada, deve igualmente ser actualizado em conformidade.\n\n(2) As prescrições relativas à instalação a bordo de sistemas de identificação automática (AIS) e de sistemas de registo dos dados de viagem (VDR) devem ser actualizadas de modo a acompanharem as alterações introduzidas na Convenção Internacional para a Salvaguarda da Vida Humana no Mar (SOLAS) e ter em conta o desenvolvimento de VDR simplificados aprovados pela OMI. O âmbito da dispensa de instalação destes equipamentos, de que beneficiam os navios de passageiros de pequeno porte que efectuam viagens curtas, deve também ser mais bem delimitado e adaptado a tais viagens.\n\n(3) Os poderes de intervenção dos Estados-Membros em caso de incidente no mar devem ser definidos com maior detalhe. Importa, em particular, estabelecer claramente a faculdade de instruírem as empresas de assistência, salvamento ou reboque, a fim de prevenir riscos sérios e iminentes para a sua orla costeira ou interesses conexos, ou para a segurança dos outros navios, suas tripulações e passageiros ou das pessoas em terra, e de proteger o meio marinho.\n\n(4) As medidas previstas na presente directiva são conformes com o parecer do Comité para a Segurança Marítima e a Prevenção da Poluição por Navios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a73b06eb6612b9bf": {
+   "fragment_id": "Artigo 1.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações\n\nA Directiva 2002/59/CE é alterada do seguinte modo:\n\n1. O artigo 12.º, n.º 1, alínea b), passa a ter a seguinte redacção: «b) Relativamente às substâncias referidas no anexo I da Convenção MARPOL, a ficha de dados de segurança que discrimina as características físico-químicas dos produtos, incluindo, se for caso disso, a viscosidade expressa em cSt a 50 °C e a densidade a 15 °C, bem como os restantes dados contidos na ficha de dados de segurança, em conformidade com a Resolução OMI MSC.286(86).».\n\n«b) Relativamente às substâncias referidas no anexo I da Convenção MARPOL, a ficha de dados de segurança que discrimina as características físico-químicas dos produtos, incluindo, se for caso disso, a viscosidade expressa em cSt a 50 °C e a densidade a 15 °C, bem como os restantes dados contidos na ficha de dados de segurança, em conformidade com a Resolução OMI MSC.286(86).».\n\n2. O anexo II é substituído pelo anexo I da presente directiva.\n\n3. O anexo IV é substituído pelo anexo II da presente directiva."
+  },
+  "e45a07f5643d6a7c": {
+   "fragment_id": "Artigo 2.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transposição\n\n1. Os Estados-Membros põem em vigor, no prazo de 12 meses a contar da data de entrada em vigor da presente directiva, as disposições legislativas, regulamentares e administrativas necessárias para lhe dar cumprimento, sem prejuízo da data de transposição prevista no artigo 2.º, n.º 1, da Directiva 2009/17/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/1cc7f048-acb7-47cc-bfbb-e1e3846f6113.0010.03/DOC_2#ntr2-L_2011049PT.01003301-E0002) no que diz respeito aos navios de pesca. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições. Quando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "e1f8e481c34e6f4b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Fevereiro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "f0f2ef277c94ae29": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/1cc7f048-acb7-47cc-bfbb-e1e3846f6113.0010.03/DOC_2#ntc1-L_2011049PT.01003301-E0001) [JO L 208 de 5.8.2002, p. 10](http://publications.europa.eu/resource/oj/JOL_2002_208_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/1cc7f048-acb7-47cc-bfbb-e1e3846f6113.0010.03/DOC_2#ntc2-L_2011049PT.01003301-E0002) [JO L 131 de 28.5.2009, p. 101](http://publications.europa.eu/resource/oj/JOL_2009_131_R_TOC)."
+  }
+ }
+}

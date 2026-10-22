@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-12'
+version_history:
+  file: regulamento-ue-2012-520.versoes.json
+  count: 3
+  source_lastmod: '2026-02-12'
+  versions:
+  - date: '2012-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-08-12'
+    amending: eu:celex:32025R1466:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1466 DA COMISSÃO de 22 de julho de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Conteúdo do dossiê principal do sistema de farmacovigilância
+    - Altera Artigo 4.º — Manutenção
+    - Altera Artigo 10.º — Gestão de recursos humanos
+    - Altera Artigo 18.º — Requisitos gerais
+    - Altera Artigo 21.º — Processo de gestão de sinais
+    - Altera Artigo 28.º — Conteúdo dos relatórios de segurança de casos individuais
+    - Altera Artigo 41.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Formato do plano de gestão do risco
+    - Adita ANEXO II
+    - Adita Formato dos relatórios periódicos de segurança
+    - Adita ANEXO III
+    - Adita Protocolos, resumos e relatórios finais dos estudos de segurança pós-autorização
+    - Adita 1. Formato do protocolo de estudo
+    - Adita 2. Formato do resumo do relatório final do estudo
+    - Adita 3. Formato do relatório final do estudo
+  - date: '2026-02-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Conteúdo do dossiê principal do sistema de farmacovigilância
+    - Altera Artigo 4.º — Manutenção
+    - Altera Artigo 6.º — Subcontratação
+    - Altera Artigo 10.º — Gestão de recursos humanos
+    - Altera Artigo 11.º — Gestão da conformidade
+    - Altera Artigo 13.º — Auditoria
+    - Altera Artigo 17.º — Auditoria
+    - Altera Artigo 19.º — Identificação de riscos novos ou da alteração de riscos existentes
+    - Altera Artigo 21.º — Processo de gestão de sinais
+    - Altera Artigo 23.º — Apoio no âmbito da deteção de sinais
+    - Altera Artigo 25.º — Utilização de terminologia aprovada a nível internacional
+    - Altera Artigo 26.º — Utilização de formatos e normas aprovados a nível internacional
+    - Altera Artigo 28.º — Conteúdo dos relatórios de segurança de casos individuais
+    - Altera Artigo 34.º — Conteúdo dos relatórios periódicos de segurança
+    - Altera Artigo 36.º — Âmbito de aplicação
+    - Altera Formato dos relatórios periódicos de segurança
+    - Altera 3. Formato do relatório final do estudo
+    - Altera Notas
 identifiers:
   celex: 32012R0520
   eli: http://data.europa.eu/eli/reg_impl/2012/520/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d981f7f-28c0-4fdf-85ba-ab53af679e8e.0016
   content_url: http://publications.europa.eu/resource/cellar/9fd6195f-1cdb-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0520-20260212
-  retrieved_at: '2026-10-22T03:16:12Z'
+  retrieved_at: '2026-10-22T15:59:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T20:39:19.168+02:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:12Z'
-  notes: Texto consolidado 02012R0520-20260212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:36Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2012-520.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -126,29 +179,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/12ce8247-93b2-428f-98d7-0f9c68ed050f
 article_structure:
   article_count: 41
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:12Z'
+  checked_at: '2026-10-22T15:59:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 520/2012 da Comissão, de 19 de junho de 2012
-
-> 02012R0520 — PT — 12.02.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R1466) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1466 DA COMISSÃO de 22 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1466) — L 1466 — 1 — 23.7.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 520/2012 DA COMISSÃO
 
 de 19 de junho de 2012
 

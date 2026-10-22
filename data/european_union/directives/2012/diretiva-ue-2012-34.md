@@ -35,6 +35,118 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-01-01'
+version_history:
+  file: diretiva-ue-2012-34.versoes.json
+  count: 5
+  source_lastmod: '2019-01-01'
+  versions:
+  - date: '2012-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º — Âmbito do acompanhamento do mercado
+    - Altera Artigo 32.º — Exceções aos princípios de tarifação
+    - Altera Artigo 44.º — Pedidos
+    - Altera Artigo 55.º — Entidade reguladora
+    - Altera Artigo 56.º — Funções da entidade reguladora
+    - Altera Artigo 57.º — Cooperação entre as entidades reguladoras
+    - Altera Artigo 58.º — Regras de contratação pública
+    - Altera Artigo 65.º — Revogações
+    - Altera Artigo 67.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DOS ELEMENTOS DA INFRAESTRUTURA FERROVIÁRIA
+    - Adita ANEXO II
+    - Adita SERVIÇOS A PRESTAR ÀS EMPRESAS FERROVIÁRIAS
+    - Adita (referidos no artigo 13.º)
+    - Adita ANEXO III
+    - Adita CAPACIDADE FINANCEIRA
+    - Adita (referida no artigo 20.º)
+    - Adita ANEXO IV
+    - Adita CONTEÚDO DAS ESPECIFICAÇÕES DA REDE
+    - Adita (referido no artigo 27.º)
+    - Adita ANEXO V
+    - Adita PRINCÍPIOS E PARÂMETROS BÁSICOS DOS CONTRATOS ENTRE AS AUTORIDADES COMPETENTES E OS GESTORES DE INFRAESTRUTURA
+    - Adita (referidos no artigo 30.º)
+    - Adita ANEXO VI
+    - Adita REQUISITOS RELATIVOS AOS CUSTOS E TAXAS ASSOCIADOS À INFRAESTRUTURA FERROVIÁRIA
+    - Adita (referidos no artigo 32.º, n.º 1, e no artigo 35.º)
+    - Adita ANEXO VII
+    - Adita CALENDÁRIO DO PROCESSO DE REPARTIÇÃO
+    - Adita (referido no artigo 43.º)
+    - Adita ANEXO VIII
+    - Adita INFORMAÇÕES CONTABILÍSTICAS A APRESENTAR, MEDIANTE PEDIDO, À ENTIDADE REGULADORA
+    - Adita (referidas no artigo 56.º, n.º 12)
+    - Adita ANEXO IX
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO X
+  - date: '2016-12-24'
+    amending: eu:celex:32016L2370:por
+    amending_title: DIRETIVA (UE) 2016/2370 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14
+      de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Separação das contas
+    - Altera Artigo 15.º — Âmbito do acompanhamento do mercado
+    - Altera Artigo 19.º — Requisitos de boa reputação
+    - Altera Artigo 32.º — Exceções aos princípios de tarifação
+    - Altera Artigo 44.º — Pedidos
+    - Altera Artigo 53.º — Capacidade de infraestrutura para operações de manutenção
+    - Altera Artigo 54.º — Medidas especiais em caso de perturbações
+    - Altera Artigo 55.º — Entidade reguladora
+    - Altera Artigo 56.º — Funções da entidade reguladora
+    - Altera Artigo 57.º — Cooperação entre as entidades reguladoras
+    - Altera Artigo 58.º — Regras de contratação pública
+    - Altera Artigo 63.º — Relatório
+    - Altera Notas
+    - Adita Artigo 7.º — Independência do gestor de infraestrutura
+    - Adita Artigo 7.º-A — Independência das funções essenciais
+    - Adita Artigo 7.º-B — Imparcialidade do gestor de infraestrutura em matéria de gestão do tráfego e planeamento da manutenção
+    - Adita Artigo 7.º-C — Externalização e partilha das funções do gestor de infraestrutura
+    - Adita Artigo 7.º-D — Transparência financeira
+    - Adita Artigo 7.º-E — Mecanismos de coordenação
+    - Adita Artigo 7.º-F — Rede Europeia de Gestores de Infraestrutura
+    - Suprime Artigo 7.º — Independência das funções essenciais do gestor de infraestrutura
+  - date: '2017-12-04'
+    amending: eu:celex:32017D2075:por
+    amending_title: DECISÃO DELEGADA (UE) 2017/2075 DA COMISSÃO Texto relevante para efeitos do EEE de 4 de setembro de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 15.º — Âmbito do acompanhamento do mercado
+    - Altera Artigo 32.º — Exceções aos princípios de tarifação
+    - Altera Artigo 44.º — Pedidos
+    - Altera Artigo 55.º — Entidade reguladora
+    - Altera Artigo 56.º — Funções da entidade reguladora
+    - Altera Artigo 57.º — Cooperação entre as entidades reguladoras
+    - Altera Artigo 58.º — Regras de contratação pública
+    - Altera (referido no artigo 43.º)
+    - Altera Notas
+  - date: '2019-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Condições de acesso à infraestrutura ferroviária
+    - Altera Artigo 11.º — Limitação do direito de acesso e do direito de embarcar e desembarcar passageiros
+    - Altera Artigo 15.º — Âmbito do acompanhamento do mercado
+    - Altera Artigo 32.º — Exceções aos princípios de tarifação
+    - Altera Artigo 38.º — Direitos de capacidade
+    - Altera Artigo 44.º — Pedidos
+    - Altera Artigo 55.º — Entidade reguladora
+    - Altera Artigo 56.º — Funções da entidade reguladora
+    - Altera Artigo 57.º — Cooperação entre as entidades reguladoras
+    - Altera Artigo 58.º — Regras de contratação pública
+    - Altera Notas
+    - Adita Artigo 11.º-A — Serviços de passageiros de alta velocidade
+    - Adita Artigo 13.º-A — Sistemas comuns de informação e de bilhética única
 identifiers:
   celex: 32012L0034
   eli: http://data.europa.eu/eli/dir/2012/34/oj
@@ -49,7 +161,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0a4ee661-4433-11e2-9b3b-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/17aff1f0-35ff-11e9-8d04-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0034-20190101
-  retrieved_at: '2026-10-22T02:39:15Z'
+  retrieved_at: '2026-10-22T15:58:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T17:48:25.575+02:00'
 integrity:
@@ -58,9 +170,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:15Z'
-  notes: Texto consolidado 02012L0034-20190101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:58:58Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2012-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -348,34 +460,19 @@ relationships:
   source: null
 article_structure:
   article_count: 75
-  section_count: 63
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 64
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:15Z'
+  checked_at: '2026-10-22T15:58:58Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2012/34/UE do Parlamento Europeu e do Conselho, de 21 de novembro de 2012
-
-> 02012L0034 — PT — 01.01.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016L2370) — [DIRETIVA (UE) 2016/2370 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2370) — L 352 — 1 — 23.12.2016
-- [►M2](http://publications.europa.eu/resource/celex/32017D2075) — [DECISÃO DELEGADA (UE) 2017/2075 DA COMISSÃO de 4 de setembro de 2017](http://publications.europa.eu/resource/celex/32017D2075) — L 295 — 69 — 14.11.2017
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012L0034R%2804%29) — [Rectificação, JO L 067, 12.3.2015, p. 32 (2012/34/UE)](http://publications.europa.eu/resource/celex/32012L0034R%2804%29)
-
-## DIRETIVA 2012/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de novembro de 2012
 

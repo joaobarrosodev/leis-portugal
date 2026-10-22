@@ -35,6 +35,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-02-13'
+version_history:
+  file: regulamento-ue-2012-389.versoes.json
+  count: 3
+  source_lastmod: '2023-02-13'
+  versions:
+  - date: '2012-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autoridades competentes
+    - Altera Artigo 14.º — Pedido de notificação de decisões e medidas administrativas
+    - Altera Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos
+      fiscais
+    - Altera Artigo 39.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2023-02-13'
+    amending: eu:celex:32020R0261:por
+    amending_title: REGULAMENTO (UE) 2020/261 DO CONSELHO de 19 de dezembro de 2019; REGULAMENTO (UE) 2021/774 DO CONSELHO
+      de 10 de maio de 2021; REGULAMENTO (UE) 2023/246 DO CONSELHO de 30 de janeiro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 14.º — Pedido de notificação de decisões e medidas administrativas
+    - Altera Artigo 15.º — Troca obrigatória de informações
+    - Altera Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos
+      fiscais
+    - Altera Artigo 20.º — Acesso à informação e retificação dos dados
+    - Altera Notas
 identifiers:
   celex: 32012R0389
   eli: http://data.europa.eu/eli/reg/2012/389/oj
@@ -49,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006
   content_url: http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0389-20230213
-  retrieved_at: '2026-10-22T02:59:53Z'
+  retrieved_at: '2026-10-22T15:59:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T20:34:22.619+02:00'
 integrity:
@@ -58,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:53Z'
-  notes: Texto consolidado 02012R0389-20230213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:59:20Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2012-389.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -156,32 +191,19 @@ relationships:
   date: '2004-12-08'
 article_structure:
   article_count: 39
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:53Z'
+  checked_at: '2026-10-22T15:59:20Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 389/2012 do Conselho, de 2 de maio de 2012
-
-> 02012R0389 — PT — 13.02.2023 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32020R0261) — [REGULAMENTO (UE) 2020/261 DO CONSELHO de 19 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020R0261) — L 58 — 1 — 27.2.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021R0774) — [REGULAMENTO (UE) 2021/774 DO CONSELHO de 10 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0774) — L 167 — 1 — 12.5.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023R0246) — [REGULAMENTO (UE) 2023/246 DO CONSELHO de 30 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0246) — L 34 — 1 — 6.2.2023
-
-## REGULAMENTO (UE) N.º 389/2012 DO CONSELHO
 
 de 2 de maio de 2012
 
