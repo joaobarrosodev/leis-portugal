@@ -36,6 +36,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-12-05'
+version_history:
+  file: diretiva-ue-2014-95.versoes.json
+  count: 2
+  source_lastmod: '2014-12-05'
+  versions:
+  - date: '2014-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alteração da Diretiva 2013/34/UE
+    - Altera Artigo 6.º — Destinatários
+    - Altera Notas
 identifiers:
   celex: 32014L0095
   eli: http://data.europa.eu/eli/dir/2014/95/oj
@@ -50,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/406ad3b8-6c9f-11e4-9680-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/bc69fa79-720a-441c-a48b-cc092e3b706a.0011.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0095-20141205
-  retrieved_at: '2026-10-22T03:00:20Z'
+  retrieved_at: '2026-10-22T16:31:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T21:47:48.473+02:00'
 integrity:
@@ -59,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:20Z'
-  notes: Texto consolidado 02014L0095-20141205.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:09Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-95.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,29 +137,19 @@ relationships:
   source: null
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:20Z'
+  checked_at: '2026-10-22T16:31:09Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/95/UE do Parlamento Europeu e do Conselho, de 22 de outubro de 2014
-
-> 2014L0095 — PT — 05.12.2014 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0095R%2802%29) — [Rectificação, JO L 207, 4.8.2015, p. 75 (2014/95/UE)](http://publications.europa.eu/resource/celex/32014L0095R%2802%29)
-
-## DIRETIVA 2014/95/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de outubro de 2014
 

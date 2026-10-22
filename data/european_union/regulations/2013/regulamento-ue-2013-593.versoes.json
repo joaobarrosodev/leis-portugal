@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R0593:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0593-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2013-06-22",
+   "future": false,
+   "celex": "32013R0593",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0ebac6ba3eb5aca9",
+    "6d989918a34904a4",
+    "6824bddd286c0ec5",
+    "f6a3a5e2a495abc5",
+    "85f43e8b5b0f49e2",
+    "7f40b859a0080faa",
+    "a2e381829eb4233b",
+    "a9c6c0a5fda5fd4c",
+    "8d46718cb394eb83",
+    "9cc8fde391c554cb",
+    "6526aa3994dc469e",
+    "56c78dfc194c6543",
+    "c8029e3afe5f2b3b",
+    "68e79b41984d80c3",
+    "632d85448df3ac15"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02013R0593-20210101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "376650927beae65e"
+   ]
+  }
+ ],
+ "fragments": {
+  "0ebac6ba3eb5aca9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de junho de 2013\n\nrelativo à abertura e modo de gestão dos contingentes pautais para carne de bovino de alta qualidade, fresca, refrigerada ou congelada, e carne de búfalo congelada\n\n(reformulação)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1095/96 do Conselho, de 18 de Junho de 1996, relativo à aplicação das concessões constantes da lista CXL estabelecida na sequência da conclusão das negociações no âmbito do artigo XXIV, n.º 6, do GATT [([^1])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2013170PT.01003201-E0001), nomeadamente, o artigo 1.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 810/2008 da Comissão, de 11 de agosto de 2008, relativo à abertura e modo de gestão dos contingentes pautais para carne de bovino de alta qualidade, fresca, refrigerada ou congelada, e carne de búfalo congelada [([^2])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2013170PT.01003201-E0002) foi várias vezes alterado de modo substancial [([^3])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2013170PT.01003201-E0003). Dada a necessidade de introduzir novas alterações, e por uma questão de clareza, deve proceder-se à reformulação do referido regulamento.\n\n(2) A União comprometeu-se, no quadro do acordo sobre a agricultura concluído no âmbito das negociações comerciais multilaterais do «Uruguay Round» [([^4])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2013170PT.01003201-E0004), a abrir contingentes pautais anuais para a carne de bovino de alta qualidade e para a carne de búfalo congelada. É necessário abrir estes contingentes a título plurianual por períodos de doze meses com início em 1 de julho e adoptar as respectivas normas de execução.\n\n(3) Os países terceiros exportadores comprometeram-se a emitir certificados de autenticidade que garantam a origem destes produtos. É necessário definir o modelo desses certificados e prever as regras da sua utilização. O certificado de autenticidade deve ser emitido por um organismo emissor, situado num país terceiro, que apresente todas as garantias necessárias para assegurar o bom funcionamento do regime em causa.\n\n(4) É necessário prever que o contingente em causa seja gerido através de certificados de importação. Para o efeito, devem ser definidas as regras relativas à apresentação dos pedidos bem como os elementos que devem constar dos pedidos e dos certificados, em derrogação, eventualmente, do Regulamento (CE) n.º 376/2008 da Comissão, de 23 de abril de 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas [([^5])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2013170PT.01003201-E0005), e do Regulamento (CE) n.º 382/2008 da Comissão, de 21 de abril de 2008, que estabelece as normas de execução do regime dos certificados de importação e de exportação no sector da carne de bovino [([^6])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2013170PT.01003201-E0006).\n\n(5) O Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação [([^7])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2013170PT.01003201-E0007), estabelece regras pormenorizadas sobre os pedidos de certificados de importação, o estatuto dos requerentes e a emissão dos certificados. O mesmo regulamento limita o período de eficácia dos certificados ao último dia do período de contingentamento pautal da importação. As disposições do Regulamento (CE) n.º 1301/2006 devem aplicar-se aos certificados de importação emitidos para o contingente em questão, sem prejuízo de condições adicionais estabelecidas no presente regulamento.\n\n(6) A fim de garantir uma gestão eficaz da importação destas carnes, é conveniente, se for caso disso, subordinar a emissão dos certificados de importação à verificação, designadamente, das indicações constantes dos certificados de autenticidade.\n\n(7) A experiência mostra que os importadores nem sempre informam as autoridades competentes que emitiram os certificados de importação da quantidade e origem da carne de bovino importada no âmbito do contingente em causa. Esses dados são importantes no contexto da avaliação da situação do mercado. É, pois, conveniente introduzir uma garantia relativa ao respeito dessa comunicação.\n\n(8) O Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu [([^8])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2013170PT.01003201-E0008), estabelece normas comuns para a notificação de informações e documentos pelas autoridades competentes dos Estados-Membros à Comissão. Essas normas abrangem, nomeadamente, a obrigação de os Estados-Membros utilizarem os sistemas de informação disponibilizados pela Comissão e a validação dos direitos de acesso das autoridades ou indivíduos autorizados a efetuar comunicações. Além disso, o referido regulamento fixa princípios comuns aplicáveis aos sistemas de informação, para garantir a autenticidade, a integridade e a legibilidade, ao longo do tempo, dos documentos, e estabelece a proteção dos dados pessoais.\n\n(9) Nos termos do Regulamento (CE) n.º 792/2009, os regulamentos que impõem obrigações de notificação específicas devem estabelecer a obrigação de utilizar os sistemas de informação em conformidade com esse regulamento.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6d989918a34904a4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. São abertos, anualmente, para períodos compreendidos entre 1 de julho de um ano e 30 de junho do ano seguinte, seguidamente designados por «período de contingentamento pautal da importação», os seguintes contingentes pautais:\n\na) 66 750 toneladas de carne de bovino de alta qualidade, fresca, refrigerada ou congelada, dos códigos NC 0201 e 0202, bem como de produtos dos códigos NC 0206 10 95 e 0206 29 91. Para os períodos de importação de 2012/2013, 2013/2014 e 2014/2015, a quantidade total é de 67 250 toneladas;\n\nb) 2 250 toneladas de carne de búfalo desossada congelada do código NC 0202 30 90, expressas em peso de carne desossada, originária da Austrália. Este contingente terá o número de ordem 09.4001;\n\nc) 200 toneladas de carne de búfalo desossada, fresca, refrigerada ou congelada, dos códigos NC 0201 30 00 e 0202 30 90, expressas em peso de carne desossada, originária da Argentina. Este contingente tem o número de ordem 09.4004.\n\n2. Para efeitos da aplicação do presente regulamento, entende-se por «carne congelada» a carne que, no momento da sua introdução no território aduaneiro da União, se encontra a uma temperatura interna igual ou inferior a – 12 °C.\n\n3. No âmbito dos contingentes referidos no n.º 1, o direito aduaneiro *ad valorem* é fixado em 20 %."
+  },
+  "6824bddd286c0ec5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO contingente pautal de carne de bovino fresca, refrigerada ou congelada previsto no artigo 1.º, n.º 1, alínea a), é repartido do seguinte modo:\n\na) 29 500 toneladas de carne de bovino desossada dos códigos NC 0201 30 00 e 0206 10 95, que corresponda à seguinte definição: «Cortes seleccionados de carne de bovino provenientes de novilhos, novilhos precoces e novilhas, alimentados exclusivamente em regime de pastagem desde o desmame. As carcaças de novilho são classificadas “JJ”, “J”, “U” ou “U2” e as carcaças de novilhos precoces e novilhas são classificadas “AA”, “A” ou “B”, de acordo com a classificação oficial da carne de bovino da *Secretaría de Agricultura, Ganadería, Pesca y Alimentos - SAGPyA* ». Contudo, para os períodos de importação de 2012/2013, 2013/2014 e 2014/2015, a quantidade total é de 30 000 toneladas. Os cortes são rotulados em conformidade com o artigo 13.º do Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2013170PT.01003201-E0009). A indicação «Carne de bovino de alta qualidade» pode ser acrescentada às informações constantes do rótulo. Este contingente terá o número de ordem 09.4450.\n\nb) 7 150 toneladas, em peso de produto, de carnes dos códigos NC 0201 20 90, 0201 30 00, 0202 20 90, 0202 30, 0206 10 95 e 0206 29 91, que correspondam à seguinte definição: «Cortes seleccionados provenientes de carcaças de novilhos ou de novilhas que tenham sido classificadas numa das categorias oficiais “Y”, “YS”, “YG”, “YGS”, “YP” e “YPS”, definidas por AUS-MEAT Australia. A cor da carne de bovino deve ser conforme com as normas de referência AUS-MEAT 1 B a 4 de cor da carne; a cor da gordura deve ser conforme com as normas de referência AUS-MEAT 0 a 4 de cor da gordura; a espessura de gordura (medida na posição P8) deve ser conforme com as classes AUS-MEAT de gordura 2 a 5». Os cortes são rotulados em conformidade com o artigo 13.º do Regulamento (CE) n.º 1760/2000. A indicação «carne de bovino de alta qualidade» pode ser aditada às informações constantes do rótulo. Este contingente terá o número de ordem 09.4451.\n\nc) 6 300 toneladas de carne de bovino desossada dos códigos NC 0201 30 00 e 0206 10 95, que corresponda à seguinte definição: «Cortes seleccionados de carne de bovino provenientes de novilhos (“novillo”) ou novilhas (“vaquillona”) tal como definidos na classificação oficial de carcaças de carne de bovino do Instituto Nacional de Carnes (INAC) do Uruguai. Os animais elegíveis para a produção de carne de bovino de alta qualidade foram exclusivamente alimentados em regime de pastagem desde o desmame. As carcaças são classificadas “I”, “N” ou “A”, com cobertura de gordura “1”, “2” ou “3” de acordo com a classificação acima referida». Os cortes são rotulados em conformidade com o artigo 13.º do Regulamento (CE) n.º 1760/2000. A indicação «Carne de bovino de alta qualidade» pode ser acrescentada às informações constantes do rótulo. Este contingente terá o número de ordem 09.4452.\n\nd) 10 000 toneladas de carne de bovino desossada dos códigos NC 0201 30 00, 0202 30 90, 0206 10 95 e 0206 29 91, que corresponda à seguinte definição: «Cortes seleccionados provenientes de novilhos ou novilhas exclusivamente alimentados com pasto desde o desmame. As carcaças são classificadas “B” com cobertura de gordura “2” ou “3” de acordo com a classificação oficial de carcaças de bovino do Ministério de Agricultura, Pecuária e Abastecimento do Brasil». Os cortes são rotulados em conformidade com o artigo 13.º do Regulamento (CE) n.º 1760/2000. A indicação «Carne de bovino de alta qualidade» pode ser acrescentada às informações constantes do rótulo. Este contingente terá o número de ordem 09.4453.\n\ne) 1 300 toneladas, em peso de produto, de carnes dos códigos NC 0201 20 90, 0201 30 00, 0202 20 90, 0202 30, 0206 10 95 e 0206 29 91, que correspondam à seguinte definição: «Cortes seleccionados de carne de animais da espécie bovina proveniente de novilhos ou novilhas alimentados exclusivamente no pasto, cujas carcaças tenham um peso não superior a 370 quilogramas. As carcaças devem ser classificadas “A”, “L”, “P”, “T” ou “F”, aparadas até uma espessura de gordura igual ou inferior a P e ter uma classificação muscular de 1 ou 2, de acordo com o sistema de classificação das carcaças gerido pelo *New Zealand Meat Board* ». Este contingente terá o número de ordem 09.4454.\n\nf) 11 500 toneladas, em peso de produto, de carnes dos códigos NC 0201, 0202, 0206 10 95 e 0206 29 91, que correspondam à seguinte definição: «Carcaças ou cortes provenientes de bovinos com menos de 30 meses, alimentados durante pelo menos 100 dias com uma alimentação equilibrada de alta concentração energética, contendo, pelo menos, 70 % de cereais e com um peso total mínimo de 20 libras por dia. A carne com a marca *choice* ou *prime* segundo as normas do *United States Department of Agriculture* (USDA) entra automaticamente nesta definição. As carnes classificadas em “Canada A”, “Canada AA”, “Canada AAA”, “Canada Choice” e “Canada Prime”, “A1”, “A2”, “A3” e “A4”, segundo as normas da *Canadian Food Inspection Agency* — *Government of Canada*, correspondem a essa definição». Este contingente terá o número de ordem 09.4002.\n\ng) 1 000 toneladas de carne desossada dos códigos NC 0201 30 00 e 0202 30 90, que correspondam à seguinte definição: «Lombo (*lomito*), vazia (*lomo*), alcatra (*rabadilla*) e chã de dentro (*carnaza negra*) provenientes de animais seleccionados, resultantes de hibridação com menos de 50 % de raças do tipo zebu, exclusivamente alimentados com forragem ou feno. Os animais abatidos devem ser novilhos ou novilhas da categoria “V” da grelha de classificação de carcaças “VACUNO” que produzam carcaças cujo peso não exceda 260 quilogramas». Os cortes devem ser rotulados em conformidade com o artigo 13.º do Regulamento (CE) n.º 1760/2000. A indicação «carne de bovino de alta qualidade» pode ser aditada às informações constantes do rótulo. Este contingente terá o número de ordem 09.4455."
+  },
+  "f6a3a5e2a495abc5": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A importação das quantidades referidas no artigo 2.º, alínea f), fica subordinada à apresentação, aquando da introdução em livre prática:\n\na) De um certificado de importação emitido em conformidade com os artigos 4.º e 5.º, e\n\nb) De um certificado de autenticidade emitido em conformidade com o artigo 6.º\n\n2. O período de contingentamento pautal da importação da quantidade referida na alínea f) do artigo 2.º divide-se em 12 subperíodos de um mês cada. A quantidade disponível em cada subperíodo deve corresponder a um duodécimo da quantidade total."
+  },
+  "85f43e8b5b0f49e2": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara obter o certificado de importação referido no artigo 3.º devem ser cumpridas as seguintes condições:\n\na) O pedido de certificado e o certificado devem ostentar, na casa 8, a menção do país de origem; a casa «sim» deve ser assinalada com uma cruz; o certificado obriga a importar do país indicado;\n\nb) O pedido de certificado e o certificado devem ostentar, na casa 20, uma das menções constantes do anexo I."
+  },
+  "7f40b859a0080faa": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O pedido de certificado referido no artigo 4.º só pode ser apresentado nos cinco primeiros dias de cada mês de cada período de contingentamento pautal da importação.\n\nEm derrogação ao disposto no artigo 5.º, n.º 1, do Regulamento (CE) n.º 382/2008, os pedidos podem abranger, relativamente a cada número de ordem de contingente, um ou vários dos produtos dos códigos ou grupos de códigos NC constantes do anexo I do mesmo regulamento. Caso abranjam vários códigos NC, os pedidos devem especificar a quantidade solicitada por código ou grupo de códigos NC. Em todos os casos, nos pedidos de certificado e nos certificados devem ser indicados, na casa 16, todos os códigos NC e, na casa 15, a correspondente descrição.\n\n2. Os Estados-Membros devem comunicar à Comissão, até ao dia 10 do mês em que são apresentados os pedidos, a quantidade total objeto de pedidos, por país de origem.\n\n3. Os certificados de importação devem ser emitidos entre o dia 17 e o dia 21 do mês em que os pedidos foram apresentados. Todos os certificados emitidos devem especificar as quantidades a que se referem, discriminadas por código NC ou por grupo de códigos NC."
+  },
+  "a2e381829eb4233b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O certificado de autenticidade será estabelecido num original e, pelo menos, numa cópia, num formulário cujo modelo consta do anexo II.\n\nO formato deste formulário será de cerca de 210 × 297 milímetros e o papel a utilizar deve pesar, pelo menos, 40 gramas por metro quadrado.\n\n2. Os formulários serão impressos e preenchidos numa das línguas oficiais da União; poderão ainda ser impressos e preenchidos na língua oficial ou numa das línguas oficiais do país de exportação.\n\nNo verso do formulário deve constar a definição, referida no artigo 2.º, aplicável à carne originária do país de exportação.\n\n3. Os certificados de autenticidade serão individualizados por um número de emissão atribuído pelo organismo emissor referido no artigo 7.º. As cópias têm o mesmo número de emissão que o original.\n\n4. O original e as cópias dos certificados devem ser preenchidos à mão ou à máquina. Se forem preenchidos à mão, devem sê-lo a tinta preta e em caracteres de imprensa.\n\n5. O certificado de autenticidade só é válido se estiver devidamente preenchido e visado, em conformidade com as indicações constantes dos anexos II e III, por um organismo emissor constante da lista do anexo III.\n\n6. O certificado de autenticidade estará devidamente visado se indicar o local e a data de emissão e tiver o carimbo do organismo emissor e a assinatura da pessoa ou das pessoas habilitadas a assiná-lo.\n\nO carimbo pode ser substituído, no original do certificado de autenticidade e nas suas cópias, por um selo branco."
+  },
+  "a9c6c0a5fda5fd4c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os organismos emissores constantes da lista do anexo III devem:\n\na) Ser reconhecidos como tal pelo país exportador;\n\nb) Comprometer-se a verificar as menções dos certificados de autenticidade;\n\nc) Comprometer-se a transmitir à Comissão, todas as quartas-feiras, qualquer informação útil para permitir a verificação das indicações constantes dos certificados de autenticidade.\n\n2. A lista do anexo III pode ser revista pela Comissão sempre que um organismo emissor deixe de ser reconhecido ou não cumpra uma das obrigações que lhe incumbem, ou sempre que seja designado um novo organismo emissor."
+  },
+  "8d46718cb394eb83": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A importação das quantidades referidas no artigo 1.º, n.º 1, alíneas b) e c), e no artigo 2.º, alíneas a) a e) e g), fica subordinada, aquando da introdução em livre prática, à apresentação de um certificado de importação emitido em conformidade com o artigo 4.º, alíneas a) e b), e com o n.º 2 do presente artigo.\n\n2. O original do certificado de autenticidade, estabelecido em conformidade com os artigos 6.º e 7.º, deve ser apresentado, acompanhado de uma cópia, à autoridade competente juntamente com o pedido do primeiro certificado de importação abrangido pelo certificado de autenticidade.\n\nDentro do limite da quantidade dele constante, um certificado de autenticidade pode ser utilizado para a emissão de vários certificados de importação. Neste caso, a autoridade competente deve imputar no certificado de autenticidade as quantidades atribuídas.\n\nA autoridade competente só pode emitir o certificado de importação depois de se certificar de que as menções constantes do certificado de autenticidade correspondem às informações recebidas da Comissão nas comunicações semanais sobre a matéria. Os certificados de importação devem em seguida ser imediatamente emitidos.\n\n3. Em derrogação ao n.º 2, primeiro e terceiro parágrafos, e no respeito do disposto nos n.^os^ 4, 5 e 6, a autoridade competente pode emitir um certificado de importação quando:\n\na) O original do certificado de autenticidade tiver sido apresentado, mas as informações da Comissão que lhe dizem respeito não tiverem ainda sido recebidas; ou\n\nb) O original do certificado de autenticidade não tiver sido apresentado; ou\n\nc) O original do certificado de autenticidade tiver sido apresentado e as informações da Comissão que lhe dizem respeito tiverem sido recebidas, mas certos dados não estiverem conformes.\n\n4. Nos casos referidos no n.º 3, em derrogação ao artigo 5.º, n.º 3, alínea a) do Regulamento (CE) n.º 382/2008, o montante da garantia a constituir para os certificados de importação será igual ao montante correspondente, para os produtos em questão, à taxa plena do direito da pauta aduaneira comum aplicável no dia do pedido do certificado de importação.\n\nApós recepção do original do certificado de autenticidade e das informações da Comissão respeitantes ao certificado em questão, e após ter controlado a conformidade dos dados, os Estados-Membros liberarão essa garantia sob condição de ser constituída para o mesmo certificado de importação a garantia referida no artigo 5.º, n.º 3, alínea a) do Regulamento (CE) n.º 382/2008.\n\n5. A apresentação à autoridade competente do original do certificado de autenticidade conforme antes do termo do período de eficácia do certificado de importação em causa constitui uma exigência principal na acepção do artigo 19.º do Regulamento de Execução (UE) n.º 282/2012 [([^10])](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntr10-L_2013170PT.01003201-E0010) da Comissão para a garantia referida no n.º 4, primeiro parágrafo.\n\n6. Os montantes da garantia referida no n.º 4, primeiro parágrafo, não liberados ficarão perdidos e serão conservados a título de direitos aduaneiros."
+  },
+  "9cc8fde391c554cb": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs certificados de autenticidade e os certificados de importação são válidos durante três meses a contar da data de emissão. Todavia, os certificados de autenticidade caducam, o mais tardar, no dia 30 de junho seguinte à data da sua emissão."
+  },
+  "6526aa3994dc469e": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nNo que se refere às quantidades indicadas no artigo 2.º, alínea f), do presente regulamento e salvo disposição em contrário do mesmo, aplica-se o disposto no no Regulamento (CE) n.º 1301/2006, no Regulamento (CE) n.º 376/2008 e no Regulamento (CE) n.º 382/2008.\n\nNo que se refere às quantidades indicadas no artigo 1.º, n.º 1, alíneas b) e c), e no artigo 2.º, alíneas a) a e) e g), do presente regulamento e salvo disposição em contrário do mesmo, aplica-se o disposto no Regulamento (CE) n.º 376/2008, no Regulamento (CE) n.º 382/2008 e no capítulo III do Regulamento (CE) n.º 1301/2006."
+  },
+  "56c78dfc194c6543": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Em derrogação do artigo 11.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1301/2006, os Estados-Membros comunicam à Comissão:\n\na) até ao décimo dia de cada mês, em relação aos contingentes pautais de importação com os números de ordem 09.4450, 09.4451, 09.4452, 09.4453, 09.4454, 09.4002 e 09.4455, as quantidades de produtos, mesmo nulas, para as quais tenham sido emitidos certificados de importação no mês anterior;\n\nb) até 31 de agosto seguinte ao termo de cada período de contingentamento pautal de importação, em relação ao contingente pautal de importação com os números de ordem 09.4001 e 09.4004, as quantidades de produtos, mesmo nulas, para as quais tenham sido emitidos certificados de importação no período de contingentamento pautal de importação anterior;\n\nc) as quantidades de produtos, mesmo nulas, abrangidas por certificados de importação não utilizados ou utilizados apenas parcialmente e correspondentes à diferença entre as quantidades indicadas no verso dos certificados de importação e as quantidades para as quais os certificados tenham sido emitidos: i) juntamente com as comunicações referidas no artigo 5.º, n.º 2, do presente regulamento no que respeita aos pedidos apresentados em relação ao último subperíodo do período de contingentamento pautal da importação; ii) o mais tardar no dia 31 de outubro seguinte ao termo de cada período de contingentamento pautal da importação.\n\ni) juntamente com as comunicações referidas no artigo 5.º, n.º 2, do presente regulamento no que respeita aos pedidos apresentados em relação ao último subperíodo do período de contingentamento pautal da importação;\n\nii) o mais tardar no dia 31 de outubro seguinte ao termo de cada período de contingentamento pautal da importação.\n\n2. Os Estados-Membros devem comunicar à Comissão os dados relativos às quantidades de produtos introduzidas em livre prática em conformidade com o artigo 4.º do Regulamento (CE) n.º 1301/2006.\n\n3. Em relação às comunicações referidas nos n.^os^ 1 e 2, as quantidades são expressas em quilogramas, em peso de produto, por país de origem e por categoria de produto, conforme indicado no anexo V do Regulamento (CE) n.º 382/2008.\n\nAs comunicações relativas às quantidades referidas no artigo 1.º, n.º 1, alíneas b) e c), e no artigo 2.º, alíneas a) a e) e g), do presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009."
+  },
+  "c8029e3afe5f2b3b": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO Regulamento (CE) n.º 810/2008 é revogado.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo V."
+  },
+  "68e79b41984d80c3": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 21 de junho de 2013.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "632d85448df3ac15": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2013170PT.01003201-E0001) [JO L 146 de 20.6.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_146_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2013170PT.01003201-E0002) [JO L 219 de 14.8.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_219_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2013170PT.01003201-E0003) Ver Anexo IV.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2013170PT.01003201-E0004) [JO L 336 de 23.12.1994, p. 22](http://publications.europa.eu/resource/oj/JOL_1994_336_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2013170PT.01003201-E0005) [JO L 114 de 26.4.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_114_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2013170PT.01003201-E0006) [JO L 115 de 29.4.2008, p. 10](http://publications.europa.eu/resource/oj/JOL_2008_115_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2013170PT.01003201-E0007) [JO L 238 de 1.9.2006, p. 13](http://publications.europa.eu/resource/oj/JOL_2006_238_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2013170PT.01003201-E0008) [JO L 228 de 1.9.2009, p. 3](http://publications.europa.eu/resource/oj/JOL_2009_228_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2013170PT.01003201-E0009) [JO L 204 de 11.8.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_204_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018.03/DOC_1#ntc10-L_2013170PT.01003201-E0010) [JO L 92 de 30.3.2012, p. 4](http://publications.europa.eu/resource/oj/JOL_2012_092_R_TOC)."
+  },
+  "376650927beae65e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02013R0593 — PT — 01.01.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32013R0593) [REGULAMENTO DE EXECUÇÃO (UE) N.º 593/2013 DA COMISSÃO](http://publications.europa.eu/resource/celex/32013R0593) [de 21 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0593) [relativo à abertura e modo de gestão dos contingentes pautais para carne de bovino de alta qualidade, fresca, refrigerada ou congelada, e carne de búfalo congelada](http://publications.europa.eu/resource/celex/32013R0593) [(reformulação)](http://publications.europa.eu/resource/celex/32013R0593) (JO L 170, 22.6.2013, p.32)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2020/760 da Comissão de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020R0760) — L 185 — 1 — 12.6.2020"
+  }
+ }
+}

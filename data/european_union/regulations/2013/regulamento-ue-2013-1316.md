@@ -37,6 +37,182 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-02'
+version_history:
+  file: regulamento-ue-2013-1316.versoes.json
+  count: 7
+  source_lastmod: '2021-01-02'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-20'
+    amending: eu:celex:32014R0275:por
+    amending_title: Regulamento Delegado (UE) n. o 275/2014 da Comissão de 7 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Objetivos gerais
+    - Altera Artigo 4.º — Objetivos setoriais específicos
+    - Altera Artigo 5.º — Orçamento
+    - Altera Artigo 7.º — Elegibilidade e condições da assistência financeira
+    - Altera Artigo 10.º — Taxas de financiamento
+    - Altera Artigo 11.º — Convites específicos para fundos transferidos do Fundo de Coesão no setor dos transportes
+    - Altera Artigo 21.º — Atos delegados
+    - Altera Artigo 24.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 32.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PARTE I
+    - Adita LISTA DE PROJETOS PREDEFINIDOS DA REDE PRINCIPAL DO SETOR DE TRANSPORTES
+    - Adita 1) Prioridades horizontais
+    - Adita 2) Corredores da rede principal
+    - Adita 3) Outros troços da rede principal
+    - Adita PARTE II
+    - Adita LISTA DE CORREDORES E DOMÍNIOS PRIORITÁRIOS EM MATÉRIA DE INFRAESTRUTURAS NO SETOR DA ENERGIA
+    - Adita 1. Corredores prioritários no setor da eletricidade
+    - Adita 2. Corredores prioritários no setor do gás
+    - Adita 3. Domínios temáticos prioritários
+    - Adita PARTE III
+    - Adita TERMOS, CONDIÇÕES E PROCEDIMENTOS DOS INSTRUMENTOS FINANCEIROS
+    - Adita Objetivo e fundamentação
+    - Adita I. Instrumento de dívida
+    - Adita 1) Disposições gerais
+    - Adita a) Instrumento de partilha de riscos para empréstimos e garantias
+    - Adita b) Iniciativa Obrigações para Projetos
+    - Adita 2. Parâmetros financeiros e alavancagem
+    - Adita 3. Combinação com outras fontes de financiamento
+    - Adita 4. Execução
+    - Adita 5. Utilização da contribuição da União
+    - Adita 6. Partilha de tarifas, riscos e receitas
+    - Adita 7. Procedimento de pedido e de aprovação
+    - Adita 8. Vigência do Instrumento de Dívida
+    - Adita 9. Caducidade
+    - Adita 10. Reporte
+    - Adita 11. Acompanhamento, controlo e avaliação
+    - Adita 12. Ações de apoio
+  - date: '2015-07-04'
+    amending: eu:celex:32015R1017:por
+    amending_title: REGULAMENTO (UE) 2015/1017 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de junho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Orçamento
+    - Altera Artigo 7.º — Elegibilidade e condições da assistência financeira
+    - Altera Artigo 14.º — Tipo de instrumentos financeiros
+    - Altera Artigo 21.º — Atos delegados
+    - Altera Artigo 24.º — Proteção dos interesses financeiros da União
+    - Altera "ANEXO
+    - Altera Notas
+  - date: '2017-11-04'
+    amending: eu:celex:32017R1953:por
+    amending_title: REGULAMENTO (UE) 2017/1953 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Objetivos setoriais específicos
+    - Altera Artigo 5.º — Orçamento
+    - Altera Artigo 7.º — Elegibilidade e condições da assistência financeira
+    - Altera Artigo 9.º — Condições de participação
+    - Altera Artigo 10.º — Taxas de financiamento
+    - Altera Artigo 14.º — Tipo de instrumentos financeiros
+    - Altera Artigo 17.º — Programas de trabalho plurianuais e/ou anuais
+    - Altera Artigo 22.º — Responsabilidade dos beneficiários e dos Estados-Membros
+    - Altera Artigo 24.º — Proteção dos interesses financeiros da União
+    - Altera "ANEXO
+    - Altera Notas
+  - date: '2017-12-30'
+    amending: eu:celex:32017R2396:por
+    amending_title: REGULAMENTO (UE) 2017/2396 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Orçamento
+    - Altera Artigo 7.º — Elegibilidade e condições da assistência financeira
+    - Altera Artigo 14.º — Tipo de instrumentos financeiros
+    - Altera Artigo 24.º — Proteção dos interesses financeiros da União
+    - Altera "ANEXO
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32018R1046:por
+    amending_title: REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018; REGULAMENTO
+      (UE) 2019/495 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de março de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Orçamento
+    - Altera Artigo 7.º — Elegibilidade e condições da assistência financeira
+    - Altera Artigo 14.º — Tipo de instrumentos financeiros
+    - Altera Artigo 17.º — Programas de trabalho plurianuais e/ou anuais
+    - Altera Artigo 22.º — Responsabilidade dos beneficiários e dos Estados-Membros
+    - Altera Artigo 24.º — Proteção dos interesses financeiros da União
+    - Altera 2) Corredores da rede principal
+    - Altera I. Instrumento de dívida
+    - Altera II. Instrumento de capital
+    - Altera PRIORIDADES DE FINANCIAMENTO NO SETOR DOS TRANSPORTES PARA EFEITOS DOS PROGRAMAS DE TRABALHO PLURIANUAIS E ANUAIS
+    - Altera "ANEXO
+    - Altera Notas
+    - Adita CAPÍTULO V-A
+    - Adita Financiamento misto
+    - Adita Artigo 16.º-A — Mecanismos de financiamento misto do MIE
+    - Suprime 1) Disposições gerais
+    - Suprime a) Instrumento de partilha de riscos para empréstimos e garantias
+    - Suprime b) Iniciativa Obrigações para Projetos
+    - Suprime 2. Parâmetros financeiros e alavancagem
+    - Suprime 3. Combinação com outras fontes de financiamento
+    - Suprime 4. Execução
+    - Suprime 5. Utilização da contribuição da União
+    - Suprime 6. Partilha de tarifas, riscos e receitas
+    - Suprime 7. Procedimento de pedido e de aprovação
+    - Suprime 8. Vigência do Instrumento de Dívida
+    - Suprime 9. Caducidade
+    - Suprime 10. Reporte
+    - Suprime 11. Acompanhamento, controlo e avaliação
+    - Suprime 12. Ações de apoio
+    - Suprime 1. Disposições gerais
+    - Suprime 8. Vigência do Instrumento de Capital
+    - Suprime 1. Prioridades de financiamento para efeitos dos programas de trabalho plurianuais
+    - Suprime 2. Prioridades de financiamento para efeitos dos programas de trabalho anuais
+  - date: '2021-01-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES COMUNS
+    - Suprime CAPÍTULO I
+    - Suprime O mecanismo interligar a europa
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Objetivos gerais
+    - Suprime Artigo 4.º — Objetivos setoriais específicos
+    - Suprime Artigo 5.º — Orçamento
+    - Suprime CAPÍTULO II
+    - Suprime Formas de financiamento e disposições financeiras
+    - Suprime Artigo 6.º — Formas de assistência financeira
+    - Suprime Artigo 7.º — Elegibilidade e condições da assistência financeira
+    - Suprime CAPÍTULO III
+    - Suprime Subvenções
+    - Suprime Artigo 8.º — Formas de subvenções e custos elegíveis
+    - Suprime Artigo 9.º — Condições de participação
+    - Suprime Artigo 10.º — Taxas de financiamento
+    - Suprime Artigo 11.º — Convites específicos para fundos transferidos do Fundo de Coesão no setor dos transportes
+    - Suprime Artigo 12.º — Anulação, redução, suspensão e cessação da subvenção
+    - Suprime CAPÍTULO IV
+    - Suprime Adjudicação de contratos públicos
+    - Suprime Artigo 13.º — Adjudicação de contratos públicos
+    - Suprime CAPÍTULO V
+    - Suprime Instrumentos financeiros
+    - Suprime Artigo 14.º — Tipo de instrumentos financeiros
+    - Suprime Artigo 15.º — Condições de concessão de assistência financeira através de instrumentos financeiros
+    - Suprime Artigo 16.º — Ações em países terceiros
+    - Suprime CAPÍTULO V-A
+    - Suprime Financiamento misto
+    - Suprime Artigo 16.º-A — Mecanismos de financiamento misto do MIE
+    - Suprime CAPÍTULO VI
+    - Suprime Programação, execução e controlo
+    - Suprime Artigo 17.º — Programas de trabalho plurianuais e/ou anuais
+    - Suprime Artigo 18.º — Concessão de assistência financeiro da União
+    - Suprime Artigo 19.º — Prestações anuais
+    - Suprime Artigo 20.º — Transição das dotações anuais
+    - Suprime Artigo 21.º — Atos delegados
+    - Suprime Artigo 22.º — Responsabilidade dos beneficiários e dos Estados-Membros
 identifiers:
   celex: 32013R1316
   eli: http://data.europa.eu/eli/reg/2013/1316/oj
@@ -51,7 +227,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dba332db-69a6-11e3-8e4e-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/36172f3c-2059-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1316-20210102
-  retrieved_at: '2026-10-22T02:53:17Z'
+  retrieved_at: '2026-10-22T16:25:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T19:25:18.486+02:00'
 integrity:
@@ -60,9 +236,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:17Z'
-  notes: Texto consolidado 02013R1316-20210102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:27Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2013-1316.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -232,16 +408,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:17Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:25:27Z'
+  warnings: []
   errors: []
 ---
 

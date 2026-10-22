@@ -39,6 +39,312 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-11'
+version_history:
+  file: diretiva-ue-2014-59.versoes.json
+  count: 12
+  source_lastmod: '2026-05-11'
+  versions:
+  - date: '2014-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Planos de resolução
+    - Altera Artigo 12.º — Planos de resolução de grupo
+    - Altera Artigo 32.º — Condições para desencadear a resolução
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 38.º — Instrumento de alienação da atividade
+    - Altera Artigo 43.º — Instrumento de recapitalização interna
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 45.º — Aplicação do requisito mínimo
+    - Altera Artigo 46.º — Avaliação do montante da recapitalização interna
+    - Altera Artigo 47.º — Tratamento dos acionistas na recapitalização interna ou na redução ou conversão de instrumentos
+      de capital
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 71.º — Poderes para suspender temporariamente direitos de rescisão
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 86.º — Restrições a outros processos judiciais
+    - Altera Artigo 87.º — Princípios gerais respeitantes à tomada de decisões que impliquem mais do que um Estado-Membro
+    - Altera Artigo 94.º — Reconhecimento e execução dos procedimentos de resolução de países terceiros
+    - Altera Artigo 98.º — Intercâmbio de informações confidenciais
+    - Altera Artigo 108.º — Posição dos depósitos na hierarquia da insolvência
+    - Altera Artigo 116.º — Alteração da Diretiva 82/891/CEE
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 120.º — Alteração da Diretiva 2005/56/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 122.º — Alteração da Diretiva 2011/35/UE
+    - Altera Artigo 123.º — Alteração da Diretiva 2012/30/UE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 132.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO
+    - Adita SECÇÃO A
+    - Adita Informações a incluir nos planos de recuperação
+    - Adita SECÇÃO B
+    - Adita Informações que as autoridades de resolução podem exigir às instituições para efeitos da elaboração e manutenção
+      dos planos de resolução
+    - Adita SECÇÃO C
+  - date: '2017-07-20'
+    amending: eu:celex:32017L1132:por
+    amending_title: DIRETIVA (UE) 2017/1132 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14
+      de junho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+    - Suprime Artigo 116.º — Alteração da Diretiva 82/891/CEE
+    - Suprime Artigo 120.º — Alteração da Diretiva 2005/56/CE
+    - Suprime Artigo 122.º — Alteração da Diretiva 2011/35/UE
+    - Suprime Artigo 123.º — Alteração da Diretiva 2012/30/UE
+  - date: '2017-12-28'
+    amending: eu:celex:32017L2399:por
+    amending_title: DIRETIVA (UE) 2017/2399 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+    - Adita Artigo 108.º — Posição na hierarquia da insolvência
+    - Suprime Artigo 108.º — Posição dos depósitos na hierarquia da insolvência
+  - date: '2020-01-07'
+    amending: eu:celex:32019L0879:por
+    amending_title: DIRETIVA (UE) 2019/879 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019; DIRETIVA (UE) 2019/2162
+      DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Planos de resolução
+    - Altera Artigo 12.º — Planos de resolução de grupo
+    - Altera Artigo 13.º — Requisitos e procedimentos aplicáveis aos planos de resolução de grupos
+    - Altera Artigo 16.º — Avaliação da resolubilidade para os grupos
+    - Altera Artigo 17.º — Poderes para reduzir ou eliminar os impedimentos à resolubilidade
+    - 'Altera Artigo 18.º — Poderes para eliminar ou fazer face aos impedimentos à resolubilidade: tratamento de grupos'
+    - Altera Artigo 32.º — Condições para desencadear a resolução
+    - Altera Artigo 33.º — Condições para desencadear a resolução em relação às instituições financeirase às companhias financeiras
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 36.º — Avaliação para fins de resolução
+    - Altera Artigo 37.º — Princípios gerais aplicáveis aos instrumentos de resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 46.º — Avaliação do montante da recapitalização interna
+    - Altera Artigo 47.º — Tratamento dos acionistas na recapitalização interna ou na redução ou conversão de instrumentos
+      de capital
+    - Altera Artigo 48.º — Sequência da redução e da conversão
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 55.º — Reconhecimento contratual da recapitalização interna
+    - Altera Artigo 61.º — Autoridades responsáveis pela determinação
+    - 'Altera Artigo 62.º — Aplicação em base consolidada: procedimento de determinação'
+    - Altera Artigo 63.º — Poderes gerais
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 66.º — Poderes para dar execução a medidas de prevenção ou de gestão de crises tomadas por outros Estados-Membros
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 69.º — Poderes para suspender determinadas obrigações
+    - Altera Artigo 70.º — Poderes para restringir a execução de penhoras de títulos
+    - Altera Artigo 71.º — Poderes para suspender temporariamente direitos de rescisão
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 88.º — Colégios de resolução
+    - Altera Artigo 89.º — Colégios de resolução europeus
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Informações que as autoridades de resolução podem exigir às instituições para efeitos da elaboração e manutenção
+      dos planos de resolução
+    - Altera Questões que a autoridade de resolução deve ter em conta ao avaliar a resolubilidade de uma instituição
+    - Altera Notas
+  - date: '2021-06-26'
+    amending: eu:celex:32019L2034:por
+    amending_title: DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 45.º — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 45.º-B — Passivos elegíveis para as entidades de resolução
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+  - date: '2022-11-14'
+    amending: eu:celex:32022R2036:por
+    amending_title: REGULAMENTO (UE) 2022/2036 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 45.º-D — Determinação do requisito mínimo de fundos próprios e passivos elegíveis aplicável às entidades
+      de resolução de G-SII e às filiais importantes da União de G-SII extra-UE
+    - Altera Artigo 45.º-F — Aplicação do requisito mínimo de fundos próprios e passivos elegíveis a entidades que não sejam,
+      elas próprias, entidades de resolução
+    - Altera Artigo 45.º-H — Procedimento para determinar o requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 129.º — Reexame
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 45.º-I — Reporte de supervisão e divulgação pública do requisito
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+    - Adita Artigo 128.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-11-14'
+    amending: eu:celex:32024L1174:por
+    amending_title: DIRETIVA (UE) 2024/1174 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 45.º-C — Determinação do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 45.º-F — Aplicação do requisito mínimo de fundos próprios e passivos elegíveis a entidades que não sejam,
+      elas próprias, entidades de resolução
+    - Altera Artigo 45.º-I — Reporte de supervisão e divulgação pública do requisito
+    - Altera Artigo 45.º-J — Comunicação de informações à EBA
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 128.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Planos de resolução
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 128.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Informações a incluir nos planos de recuperação
+    - Altera Informações que as autoridades de resolução podem exigir às instituições para efeitos da elaboração e manutenção
+      dos planos de resolução
+    - Altera Questões que a autoridade de resolução deve ter em conta ao avaliar a resolubilidade de uma instituição
+    - Altera Notas
+  - date: '2026-05-11'
+    amending: eu:celex:32026L0806:por
+    amending_title: DIRETIVA (UE) 2026/806 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Planos de resolução
+    - Altera Artigo 34.º — Princípios gerais que regem a resolução
+    - Altera Artigo 44.º — Âmbito de aplicação do instrumento de recapitalização interna
+    - Altera Artigo 53.º — Efeito da recapitalização interna
+    - Altera Artigo 64.º — Poderes complementares
+    - Altera Artigo 68.º — Exclusão de certos termos contratuais na intervenção precoce e na resolução
+    - Altera Artigo 83.º — Obrigações procedimentais das autoridades de resolução
+    - Altera Artigo 108.º — Posição na hierarquia da insolvência
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/24/CE
+    - Altera Artigo 118.º — Alteração da Diretiva 2002/47/CE
+    - Altera Artigo 119.º — Alteração da Diretiva 2004/25/CE
+    - Altera Artigo 121.º — Alteração da Diretiva 2007/36/CE
+    - Altera Artigo 125.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 126.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 128.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
+    - Adita Artigo 128.º — Cooperação e intercâmbio de informações entre instituições e autoridades
+    - Suprime Artigo 128.º — Cooperação com a EBA
 identifiers:
   celex: 32014L0059
   eli: http://data.europa.eu/eli/dir/2014/59/oj
@@ -53,7 +359,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d108610e-f1f7-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7d004fc0-4e3d-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0059-20260511
-  retrieved_at: '2026-10-22T02:37:17Z'
+  retrieved_at: '2026-10-22T16:30:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T04:12:51.585+02:00'
 integrity:
@@ -62,9 +368,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:17Z'
-  notes: Texto consolidado 02014L0059-20260511.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:30:01Z'
+  notes: 12 versão(ões); histórico completo em diretiva-ue-2014-59.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -510,45 +816,20 @@ relationships:
   source: null
 article_structure:
   article_count: 148
-  section_count: 77
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 80
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:17Z'
-  warnings: []
+  checked_at: '2026-10-22T16:30:01Z'
+  warnings:
+  - '02014L0059-20190627: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2014/59/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 02014L0059 — PT — 11.05.2026 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L1132) — [DIRETIVA (UE) 2017/1132 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017L1132) — L 169 — 46 — 30.6.2017
-- [►M2](http://publications.europa.eu/resource/celex/32017L2399) — [DIRETIVA (UE) 2017/2399 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017L2399) — L 345 — 96 — 27.12.2017
-- [►M3](http://publications.europa.eu/resource/celex/32019L0879) — [DIRETIVA (UE) 2019/879 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0879) — L 150 — 296 — 7.6.2019
-- [►M4](http://publications.europa.eu/resource/celex/32019L2034) — [DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2034) — L 314 — 64 — 5.12.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019L2162) — [DIRETIVA (UE) 2019/2162 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2162) — L 328 — 29 — 18.12.2019
-- [►M6](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [►M7](http://publications.europa.eu/resource/celex/32022R2036) — [REGULAMENTO (UE) 2022/2036 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2036) — L 275 — 1 — 25.10.2022
-- [►M8](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M9](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M10](http://publications.europa.eu/resource/celex/32024L1174) — [DIRETIVA (UE) 2024/1174 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1174) — L 1174 — 1 — 22.4.2024
-- [►M11](http://publications.europa.eu/resource/celex/32026L0806) — [DIRETIVA (UE) 2026/806 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026](http://publications.europa.eu/resource/celex/32026L0806) — L 806 — 1 — 20.4.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0059R%2802%29) — [Rectificação, JO L 366, 20.12.2014, p. 109 (2014/59/UE)](http://publications.europa.eu/resource/celex/32014L0059R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/32019L0879R%2802%29) — [Rectificação, JO L 283, 31.8.2020, p. 2 (2019/879)](http://publications.europa.eu/resource/celex/32019L0879R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32019L2034R%2802%29) — [Rectificação, JO L 405, 2.12.2020, p. 84 (2019/2034)](http://publications.europa.eu/resource/celex/32019L2034R%2802%29)
-
-## DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

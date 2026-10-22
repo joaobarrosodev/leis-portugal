@@ -40,6 +40,582 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-26'
+version_history:
+  file: regulamento-ue-2013-575.versoes.json
+  count: 16
+  source_lastmod: '2027-01-01'
+  versions:
+  - date: '2013-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-06-27'
+    amending: eu:celex:32015R0062:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/62 DA COMISSÃO de 10 de outubro de 2014; REGULAMENTO (UE) 2016/1014 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016; REGULAMENTO DELEGADO (UE) 2017/2188 DA COMISSÃO de 11 de agosto
+      de 2017; REGULAMENTO (UE) 2017/2395 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017; REGULAMENTO (UE)
+      2017/2401 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017; M6; REGULAMENTO (UE) 2019/630 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 17 de abril de 2019; REGULAMENTO (UE) 2019/876 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de
+      maio de 2019; REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019; REGULAMENTO
+      (UE) 2020/873 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 8.º — Derrogação da aplicação de requisitos de liquidez em base individual
+    - Altera Artigo 10.º — Dispensa aplicável a instituições de crédito associadas de modo permanente a um organismo central
+    - Altera Artigo 11.º — Tratamento geral
+    - Altera Artigo 13.º — Aplicação dos requisitos de divulgação em base consolidada
+    - Altera Artigo 15.º — Derrogação da aplicação de requisitos de fundos próprios em base consolidada a grupos de empresas
+      de investimento
+    - Altera Artigo 18.º — Métodos de consolidação prudencial
+    - Altera Artigo 19.º — Entidades excluídas do âmbito da consolidação prudencial
+    - Altera Artigo 22.º — Subconsolidação de entidades em países terceiros
+    - Altera Artigo 27.º — Instrumentos de fundos próprios de sociedades mútuas, sociedades cooperativas, instituições de
+      poupança ou instituições similares incluídos nos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 28.º — Instrumentos de fundos próprios principais de nível 1
+    - Altera Artigo 29.º — Instrumentos de fundos próprios emitidos por sociedades mútuas, sociedades cooperativas, instituições
+      de poupança e instituições similares
+    - Altera Artigo 32.º — Ativos titularizados
+    - Altera Artigo 33.º — Coberturas de fluxos de caixa e alterações no valor do passivo próprio
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 37.º — Dedução de ativos intangíveis
+    - Altera Artigo 39.º — Excesso de pagamento de imposto, reporte de prejuízos fiscais e ativos por impostos diferidos que
+      não dependam de rendibilidade futura
+    - Altera Artigo 40.º — Dedução de montantes negativos resultantes do cálculo dos montantes das perdas esperadas
+    - Altera Artigo 41.º — Dedução de ativos do fundo de pensões de benefício definido
+    - Altera Artigo 42.º — Dedução de instrumentos próprios de fundos próprios principais de nível 1
+    - Altera Artigo 45.º — Dedução de instrumentos de fundos próprios principais de nível 1 de entidades do setor financeiro
+      detidos
+    - Altera Artigo 46.º — Dedução de instrumentos de fundos próprios principais de nível 1 detidos caso a instituição não
+      tenha um investimento significativo numa entidade do setor financeiro
+    - Altera Artigo 48.º — Limiares de isenção relativos à dedução aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 52.º — Instrumentos de fundos próprios adicionais de nível 1
+    - Altera Artigo 54.º — Redução ou conversão de instrumentos de fundos próprios adicionais de nível 1
+    - Altera Artigo 56.º — Deduções aos elementos de fundos próprios adicionais de nível 1
+    - Altera Artigo 57.º — Deduções de instrumentos próprios de fundos próprios adicionais de nível 1 detidos
+    - Altera Artigo 59.º — Dedução de instrumentos de fundos próprios adicionais de nível 1 de entidades do setor financeiro
+      detidos
+    - Altera Artigo 60.º — Dedução de instrumentos de fundos próprios adicionais de nível 1 caso a instituição não tenha um
+      investimento significativo numa entidade do setor financeiro
+    - Altera Artigo 62.º — Elementos de fundos próprios de nível 2
+    - Altera Artigo 63.º — Instrumentos de fundos próprios de nível 2
+    - Altera Artigo 64.º — Amortização de instrumentos de fundos próprios de nível 2
+    - Altera Artigo 66.º — Deduções aos elementos de fundos próprios de nível 2
+    - Altera Artigo 67.º — Deduções de instrumentos próprios de fundos próprios de nível 2
+    - Altera Artigo 69.º — Dedução em instrumentos de fundos próprios de nível 2 de entidades do setor financeiro detidos
+  - date: '2020-12-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 11.º — Tratamento geral
+    - Altera Artigo 18.º — Métodos de consolidação prudencial
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 93.º — Requisito de capital inicial numa perspetiva de continuidade
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 124.º — Posições em risco garantidas por hipotecas sobre bens imóveis
+    - Altera Artigo 164.º — Perda dado o incumprimento (LGD)
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 458.º — Riscos macroprudenciais ou sistémicos identificados a nível de um Estado-Membro
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 501.º — Ajustamento das posições ponderadas pelo risco sobre PME que não estejam em situação de incumprimento
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Artigo 498.º — Isenção para os operadores em mercadorias
+    - Suprime Artigo 12.º — Companhias financeiras ou companhias financeiras mistas com instituições de crédito e empresas
+      de investimento como filiais
+    - Suprime Artigo 498.º — Isenção para os operadores especializados na negociação de mercadorias
+  - date: '2021-06-29'
+    amending: eu:celex:32021R0558:por
+    amending_title: REGULAMENTO (UE) 2021/558 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de março de 2021; M12
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 8.º — Derrogação da aplicação de requisitos de liquidez em base individual
+    - Altera Artigo 10.º — Dispensa aplicável a instituições de crédito associadas de modo permanente a um organismo central
+    - Altera Artigo 11.º — Tratamento geral
+    - Altera Artigo 22.º — Subconsolidação de entidades em países terceiros
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 81.º — Interesses minoritários elegíveis para inclusão nos fundos próprios principais de nível 1 consolidados
+    - Altera Artigo 82.º — Fundos próprios adicionais de nível 1, fundos próprios de nível 1 e fundos próprios de nível 2
+      elegíveis e fundos próprios elegíveis
+    - Altera Artigo 84.º — Interesses minoritários incluídos nos fundos próprios principais de nível 1 consolidados
+    - Altera Artigo 85.º — Instrumentos de fundos próprios de nível 1 elegíveis incluídos nos fundos próprios de nível 1 consolidados
+    - Altera Artigo 87.º — Fundos próprios elegíveis incluídos nos fundos próprios consolidados
+    - Altera Artigo 92.º — Requisitos de fundos próprios
+    - Altera Artigo 93.º — Requisito de capital inicial numa perspetiva de continuidade
+    - Altera Artigo 94.º — Derrogação aplicável a empresas com pequenas carteiras de negociação
+    - Altera Artigo 102.º — Requisitos aplicáveis à carteira de negociação
+    - Altera Artigo 103.º — Gestão da carteira de negociação
+    - Altera Artigo 104.º — Inclusão na carteira de negociação
+    - Altera Artigo 105.º — Requisitos de avaliação prudente
+    - Altera Artigo 107.º — Métodos de tratamento do risco de crédito
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 128.º — Elementos associados a riscos particularmente elevados
+    - Altera Artigo 144.º — Avaliação, pelas autoridades competentes, de um pedido de autorização para utilização do Método
+      IRB
+    - Altera Artigo 152.º — Tratamento de posições em risco sob a forma de ações ou unidades de participação em OIC
+    - Altera Artigo 158.º — Tratamento por tipo de risco
+    - Altera Artigo 162.º — Prazo de vencimento
+    - Altera Artigo 197.º — Elegibilidade das cauções no âmbito de todas as metodologias e métodos
+    - Altera Artigo 200.º — Outras formas de proteção real de crédito
+    - Altera Artigo 201.º — Elegibilidade dos prestadores de proteção no âmbito de todos os métodos
+    - Altera Artigo 202.º — Elegibilidade dos prestadores de proteção no âmbito do Método IRB aos quais pode ser aplicado
+      o tratamento estabelecido no artigo 153.º, n.º 3
+    - Altera Artigo 221.º — Utilização do Método dos Modelos Internos em acordos-quadro de compensação
+    - Altera Artigo 223.º — Método Integral sobre Cauções Financeiras
+    - Altera Artigo 224.º — Ajustamento de volatilidade regulamentar de acordo com o Método Integral sobre Cauções Financeiras
+    - Altera Artigo 227.º — Condições de aplicação de um ajustamento de volatilidade de 0 % no âmbito do Método Integral sobre
+      Cauções Financeiras
+    - Altera Artigo 242.º — Definições
+    - Altera Artigo 243.º — Critérios aplicáveis às titularizações STS elegíveis para tratamento diferenciado em termos de
+      capital
+  - date: '2021-09-30'
+    amending: eu:celex:32021R0424:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/424 DA COMISSÃO de 17 de dezembro de 2019
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 11.º — Tratamento geral
+    - Altera Artigo 12.º-A — Cálculo consolidado para G-SII com várias entidades de resolução
+    - Altera Artigo 13.º — Aplicação dos requisitos de divulgação em base consolidada
+    - Altera Artigo 22.º — Subconsolidação de entidades em países terceiros
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 72.º-E — Deduções aos elementos de passivos elegíveis
+    - Altera Artigo 76.º — Posições detidas em instrumentos de fundos próprios através de índices
+    - Altera Artigo 78.º — Autorização das autoridades de supervisão para reduzir os fundos próprios
+    - Altera Artigo 82.º — Fundos próprios adicionais de nível 1, fundos próprios de nível 1 e fundos próprios de nível 2
+      elegíveis e fundos próprios elegíveis
+    - Altera Artigo 92.º-A — Requisito de fundos próprios e de passivos elegíveis para G-SII
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 279.º-A — Delta de supervisão
+    - Altera Artigo 279.º-B — Montante nocional ajustado
+    - Altera Artigo 280.º-E — Acréscimo da categoria de risco de mercadorias
+    - Altera Artigo 325.º-A — Isenções dos requisitos de reporte específicos para risco de mercado
+    - Altera Artigo 325.º-E — Componentes do método baseado nas sensibilidades
+    - Altera Artigo 325.º-G — Requisitos de fundos próprios para risco de curvatura
+    - Altera Artigo 325.º-H — Agregação dos requisitos de fundos próprios específicos de uma categoria de risco para riscos
+      delta, vega e de curvatura
+    - Altera Artigo 325.º-J — Tratamento dos organismos de investimento coletivo
+    - Altera Artigo 325.º-Q — Fatores de risco cambial
+    - Altera Artigo 325.º-R — Sensibilidades ao risco delta
+    - Altera Artigo 325.º-W — Montantes brutos por incumprimento súbito
+    - Altera Artigo 325.º-AE — Ponderadores de risco para risco de taxa de juro geral
+    - Altera Artigo 325.º-AH — Ponderadores de risco para risco de spread de crédito de não titularizações
+    - Altera Artigo 325.º-AJ — Correlações entre escalões para risco de spread de crédito de não titularizações
+    - Altera Artigo 325.º-AK — Ponderadores de risco para risco de spread de crédito de titularizações que estão incluídas
+      na ACTP
+    - Altera Artigo 325.º-AM — Ponderadores de risco para risco de spread de crédito de titularizações que não estão incluídas
+      na ACTP
+    - Altera Artigo 325.º-AP — Ponderadores de risco para risco de títulos de capital
+    - Altera Artigo 325.º-AQ — Correlações intraescalões para risco de títulos de capital
+    - Altera Artigo 325.º-AR — Correlações entre escalões para risco de títulos de capital
+    - Altera Artigo 325.º-AS — Ponderadores de risco para risco de mercadorias
+    - Altera Artigo 325.º-AV — Ponderadores de risco para risco cambial
+    - Altera Artigo 325.º-AX — Ponderadores de riscos vega e de curvatura
+    - Altera Artigo 325.º-AY — Correlações de riscos vega e de curvatura
+    - Altera Artigo 325.º-BB — Medida do risco de perda esperada condicional
+  - date: '2022-04-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 248.º — Valor da posição em risco
+    - Altera Artigo 256.º — Determinação do ponto de conexão (attachment point) (A) e do ponto de desconexão (detachment point)
+      (D)
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 501.º — Ajustamento das posições ponderadas pelo risco sobre PME que não estejam em situação de incumprimento
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+  - date: '2022-07-08'
+    amending: eu:celex:32019R2160:por
+    amending_title: REGULAMENTO (UE) 2019/2160 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 416.º — Reporte de ativos líquidos
+    - Altera Artigo 425.º — Entradas
+    - Altera Artigo 427.º — Elementos que proporcionam um financiamento estável
+    - Altera Artigo 428.º — Elementos que requerem um financiamento estável
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 501.º — Ajustamento das posições ponderadas pelo risco sobre PME que não estejam em situação de incumprimento
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Elementos sujeitos reporte complementar relativo a ativos líquidos
+    - Altera Notas
+    - Suprime Artigo 496.º — Requisitos de fundos próprios aplicáveis às obrigações cobertas
+  - date: '2023-01-01'
+    amending: eu:celex:32022R2036:por
+    amending_title: REGULAMENTO (UE) 2022/2036 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 12.º-A — Cálculo consolidado para G-SII com várias entidades de resolução
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 72.º-B — Instrumentos de passivos elegíveis
+    - Altera Artigo 72.º-E — Deduções aos elementos de passivos elegíveis
+    - Altera Artigo 92.º — Requisitos de fundos próprios
+    - Altera Artigo 92.º-A — Requisito de fundos próprios e de passivos elegíveis para G-SII
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 300.º — Definições
+    - Altera Artigo 305.º — Tratamento das posições em risco dos clientes
+    - Altera Artigo 306.º — Requisitos de fundos próprios para riscos comerciais
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 501.º — Ajustamento das posições ponderadas pelo risco sobre PME que não estejam em situação de incumprimento
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Subsecção 3-A
+    - Adita Artigo 477.º-A — Deduções aos elementos de passivos elegíveis
+  - date: '2023-06-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 106.º — Coberturas internas
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 501.º — Ajustamento das posições ponderadas pelo risco sobre PME que não estejam em situação de incumprimento
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Artigo 104.º-A — Reclassificação de uma posição
+    - Adita Artigo 204.º-A — Tipos de derivados de capital próprio elegíveis
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 72.º-E — Deduções aos elementos de passivos elegíveis
+    - Altera Artigo 113.º — Cálculo dos montantes das posições ponderadas pelo risco
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 151.º — Tratamento por classe de risco
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 501.º — Ajustamento das posições ponderadas pelo risco sobre PME que não estejam em situação de incumprimento
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Artigo 434.º-B — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-07-09'
+    amending: eu:celex:32024R1623:por
+    amending_title: REGULAMENTO (UE) 2024/1623 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Definições específicas para os requisitos de fundos próprios para o risco de crédito
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 18.º — Métodos de consolidação prudencial
+    - Altera Artigo 20.º — Decisões conjuntas sobre requisitos prudenciais
+    - Altera Artigo 34.º — Ajustamentos de valor adicionais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 94.º — Derrogação aplicável a empresas com pequenas carteiras de negociação
+    - Altera Artigo 104.º — Inclusão na carteira de negociação
+    - Altera Artigo 104.º-A — Reclassificação de uma posição
+    - Altera Artigo 111.º — Valor da posição em risco
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 123.º — Posições em risco sobre a carteira de retalho
+    - Altera Artigo 124.º — Posições em risco garantidas por hipotecas sobre bens imóveis
+    - Altera Artigo 127.º — Posições em risco em situação de incumprimento
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 135.º — Utilização das avaliações de crédito das ECAI
+    - Altera Artigo 143.º — Autorização para utilização do Método IRB
+    - Altera Artigo 144.º — Avaliação, pelas autoridades competentes, de um pedido de autorização para utilização do Método
+      IRB
+    - Altera Artigo 147.º — Metodologia de afetação de posições em risco a classes de risco
+    - Altera Artigo 150.º — Condições de utilização parcial permanente
+    - Altera Artigo 153.º — Montantes das posições ponderadas pelo risco para posições em risco sobre empresas, instituições,
+      administrações centrais e bancos centrais
+    - Altera Artigo 157.º — Montantes das posições ponderadas pelo risco para efeitos do risco de redução dos montantes a
+      receber adquiridos
+    - Altera Artigo 173.º — Integridade do processo de afetação
+    - Altera Artigo 178.º — Incumprimento do devedor
+    - Altera Artigo 180.º — Requisitos específicos para as estimativas de PD
+    - Altera Artigo 181.º — Requisitos específicos aplicáveis às estimativas próprias de LGD
+    - Altera Artigo 182.º — Requisitos específicos aplicáveis às estimativas próprias dos fatores de conversão
+    - Altera Artigo 229.º — Princípios de avaliação de outras cauções elegíveis no âmbito do Método IRB
+    - Altera Artigo 279.º-A — Delta de supervisão
+    - Altera Artigo 314.º — Utilização combinada de métodos
+    - Altera Artigo 315.º — Requisitos de fundos próprios
+    - Altera Quadro 1
+    - Altera Artigo 317.º — Requisitos de fundos próprios
+    - Altera Artigo 321.º — Critérios qualitativos
+    - Altera Artigo 323.º — Impacto dos seguros e de outros mecanismos de transferência de risco
+    - Altera Artigo 325.º — Métodos para calcular os requisitos de fundos próprios para risco de mercado
+  - date: '2025-01-01'
+    amending: eu:celex:32024R2795:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2795 DA COMISSÃO de 24 de julho de 2024; REGULAMENTO (UE) 2024/2987 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º-A — Definições específicas dos criptoativos
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 13.º — Aplicação dos requisitos de divulgação em base consolidada
+    - Altera Artigo 18.º — Métodos de consolidação prudencial
+    - Altera Artigo 19.º — Entidades excluídas do âmbito da consolidação prudencial
+    - Altera Artigo 20.º — Decisões conjuntas sobre requisitos prudenciais
+    - Altera Artigo 22.º — Subconsolidação de entidades em países terceiros
+    - Altera Artigo 27.º — Instrumentos de fundos próprios de sociedades mútuas, sociedades cooperativas, instituições de
+      poupança ou instituições similares incluídos nos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 34.º — Ajustamentos de valor adicionais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 46.º — Dedução de instrumentos de fundos próprios principais de nível 1 detidos caso a instituição não
+      tenha um investimento significativo numa entidade do setor financeiro
+    - Altera Artigo 47.º-C — Dedução para exposições não produtivas
+    - Altera Artigo 48.º — Limiares de isenção relativos à dedução aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 60.º — Dedução de instrumentos de fundos próprios adicionais de nível 1 caso a instituição não tenha um
+      investimento significativo numa entidade do setor financeiro
+    - Altera Artigo 62.º — Elementos de fundos próprios de nível 2
+    - Altera Artigo 70.º — Dedução de instrumentos de fundos próprios de nível 2 caso a instituição não tenha um investimento
+      significativo numa entidade relevante
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 72.º-B — Instrumentos de passivos elegíveis
+    - Altera Artigo 72.º-I — Dedução de passivos elegíveis caso a instituição não tenha um investimento significativo em entidades
+      G-SII
+    - Altera Artigo 84.º — Interesses minoritários incluídos nos fundos próprios principais de nível 1 consolidados
+    - Altera Artigo 85.º — Instrumentos de fundos próprios de nível 1 elegíveis incluídos nos fundos próprios de nível 1 consolidados
+    - Altera Artigo 87.º — Fundos próprios elegíveis incluídos nos fundos próprios consolidados
+    - Altera Artigo 89.º — Ponderação pelo risco e proibição de participações qualificadas fora do setor financeiro
+    - Altera Artigo 92.º — Requisitos de fundos próprios
+    - Altera Artigo 92.º-A — Requisito de fundos próprios e de passivos elegíveis para G-SII
+    - Altera Artigo 94.º — Derrogação aplicável a empresas com pequenas carteiras de negociação
+    - Altera Artigo 95.º — Requisitos de fundos próprios aplicáveis às empresas de investimento com autorização limitada para
+      prestar serviços de investimento
+    - Altera Artigo 96.º — Requisitos de fundos próprios aplicáveis às empresas de investimento que possuam o capital inicial
+      estabelecido no artigo 28.º, n.º 2, da Diretiva 2013/36/UE
+    - Altera Artigo 102.º — Requisitos aplicáveis à carteira de negociação
+    - Altera Artigo 104.º — Inclusão na carteira de negociação
+    - Altera Artigo 104.º-A — Reclassificação de uma posição
+    - Altera Artigo 104.º-B — Requisitos aplicáveis às mesas de negociação
+    - Altera Artigo 104.º-C — Tratamento das coberturas de risco cambial dos rácios de fundos próprios
+    - Altera Artigo 106.º — Coberturas internas
+    - Altera Artigo 107.º — Métodos de tratamento do risco de crédito
+    - Altera Artigo 111.º — Valor da posição em risco
+    - Altera Artigo 112.º — Classes de risco
+  - date: '2025-06-29'
+    amending: eu:celex:32025R1215:por
+    amending_title: REGULAMENTO (UE) 2025/1215 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º-A — Definições específicas dos criptoativos
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 314.º — Indicador de atividade
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 434.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 505.º — Revisão do financiamento agrícola
+    - Altera Artigo 510.º — Requisitos de financiamento estável líquido
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R1496:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1496 DA COMISSÃO de 12 de junho de 2025
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º-A — Definições específicas dos criptoativos
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 314.º — Indicador de atividade
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 434.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 505.º — Revisão do financiamento agrícola
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 520.º-A — Aplicação dos requisitos de fundos próprios para o risco de mercado
+    - Altera Notas
+  - date: '2026-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º-A — Definições específicas dos criptoativos
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 314.º — Indicador de atividade
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 434.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 505.º — Revisão do financiamento agrícola
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Suprime Artigo 95.º — Requisitos de fundos próprios aplicáveis às empresas de investimento com autorização limitada
+      para prestar serviços de investimento
+    - Suprime Artigo 96.º — Requisitos de fundos próprios aplicáveis às empresas de investimento que possuam o capital inicial
+      estabelecido no artigo 28.º, n.º 2, da Diretiva 2013/36/UE
+    - Suprime Artigo 97.º — Fundos próprios baseados em despesas gerais fixas
+    - Suprime Artigo 98.º — Fundos próprios aplicáveis a empresas de investimento em base consolidada
+  - date: '2027-01-01'
+    amending: eu:celex:32026R1221:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1221 DA COMISSÃO de 4 de junho de 2026
+    changes:
+    - Altera Artigo 2.º — Poderes de supervisão
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º-A — Definições específicas dos criptoativos
+    - Altera Artigo 6.º — Princípios gerais
+    - Altera Artigo 36.º — Deduções aos elementos de fundos próprios principais de nível 1
+    - Altera Artigo 49.º — Requisitos de dedução em caso de consolidação, de supervisão complementar ou de sistemas de proteção
+      institucional
+    - Altera Artigo 72.º-A — Elementos de passivos elegíveis
+    - Altera Artigo 119.º — Posições em risco sobre instituições
+    - Altera Artigo 129.º — Posições em risco sob a forma de obrigações cobertas
+    - Altera Artigo 314.º — Indicador de atividade
+    - Altera Artigo 395.º — Limites aos grandes riscos
+    - Altera Artigo 429.º-A — Posições em risco excluídas da medida da exposição total
+    - Altera Artigo 430.º — Reporte em matéria de requisitos prudenciais e de informações financeiras
+    - Altera Artigo 434.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 450.º — Divulgação da política de remuneração
+    - Altera Artigo 464.º — Comité Bancário Europeu
+    - Altera Artigo 473.º — Introdução de alterações na IAS 19
+    - Altera Artigo 493.º — Disposições transitórias em matéria de grandes riscos
+    - Altera Artigo 505.º — Revisão do financiamento agrícola
+    - Altera Cálculos e reporte para efeitos do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Artigo 495.º-I — Disposições transitórias relativas ao teste de atribuição de lucros e perdas de acordo com o
+      método alternativo dos modelos internos para o risco de mercado
+    - Adita Artigo 495.º-J — Medida operacional de apoio transitória relativa aos requisitos de fundos próprios para os fatores
+      de risco não modelizáveis
+    - Adita Artigo 495.º-K — Disposições transitórias relativas aos requisitos em matéria de dados para a avaliação do caráter
+      modelizável de novas emissões
+    - Adita Artigo 495.º-L — Disposições transitórias relativas aos requisitos de fundos próprios de acordo com o modelo interno
+      de risco de incumprimento
+    - Adita Artigo 495.º-M — Disposições transitórias relativas à frequência de cálculo no método alternativo dos modelos
+      internos
+    - Adita Artigo 495.º-N — Disposições transitórias relativas aos requisitos de fundos próprios para posições em OIC de
+      acordo com o método alternativo dos modelos internos
+    - Adita Artigo 495.º-O — Disposições transitórias relativas aos requisitos de fundos próprios para posições em OIC de
+      acordo com o método padrão alternativo
+    - Adita Artigo 495.º-P — Disposições transitórias relativas aos requisitos de fundos próprios para o acréscimo de capital
+      correspondente aos riscos residuais de acordo com o método padrão alternativo
+    - Adita Artigo 495.º-Q — Disposições transitórias relativas ao cálculo dos requisitos de fundos próprios para o risco
+      de incumprimento de acordo com o método padrão alternativo
+    - Adita Artigo 495.º-R — Disposições transitórias relativas ao cálculo dos requisitos de fundos próprios de acordo com
+      o método padrão alternativo para instrumentos sujeitos ao risco do comércio de carbono no CELE UE
+    - Adita Artigo 495.º-S — Disposições transitórias relativas à introdução progressiva dos requisitos de fundos próprios
+      de acordo com o método padrão alternativo e o método padrão simplificado
+    - Adita Artigo 495.º-T — Disposições transitórias relativas ao tratamento dos instrumentos na carteira ACTP
+    - Adita Artigo 495.º-U — Disposições transitórias relativas à derrogação aplicável às instituições com pequenas carteiras
+      de negociação
+    - Adita Artigo 495.º-V — Disposições transitórias relativas à aplicação de um multiplicador aos requisitos de fundos próprios
+      para o risco de mercado
 identifiers:
   celex: 32013R0575
   eli: http://data.europa.eu/eli/reg/2013/575/oj
@@ -54,7 +630,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ccd31733-df06-11e2-9165-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5e2e0133-2d76-11f1-906d-01aa75ed71a1.0021.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0575-20260626
-  retrieved_at: '2026-10-22T02:35:32Z'
+  retrieved_at: '2026-10-22T16:23:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T10:04:20.764+02:00'
 integrity:
@@ -63,9 +639,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:32Z'
-  notes: Texto consolidado 02013R0575-20260626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:23:59Z'
+  notes: 16 versão(ões); histórico completo em regulamento-ue-2013-575.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -564,62 +1140,24 @@ relationships:
   date: '2023-11-16'
 article_structure:
   article_count: 737
-  section_count: 385
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 402
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:32Z'
-  warnings: []
+  checked_at: '2026-10-22T16:23:59Z'
+  warnings:
+  - '02013R0575-20130628: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0575-20150118: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0575-20160719: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0575-20190627: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0575-20191225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 575/2013 do Parlamento Europeu e do Conselho 26 de junho de 2013 relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n. ° 648/2012 Texto relevante para efeitos do EEE
-
-> 02013R0575 — PT — 26.06.2026 — 021.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32015R0062) — [REGULAMENTO DELEGADO (UE) 2015/62 DA COMISSÃO de 10 de outubro de 2014](http://publications.europa.eu/resource/celex/32015R0062) — L 11 — 37 — 17.1.2015
-- [M2](http://publications.europa.eu/resource/celex/32016R1014) — [REGULAMENTO (UE) 2016/1014 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1014) — L 171 — 153 — 29.6.2016
-- [M3](http://publications.europa.eu/resource/celex/32017R2188) — [REGULAMENTO DELEGADO (UE) 2017/2188 DA COMISSÃO de 11 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R2188) — L 310 — 1 — 25.11.2017
-- [►M4](http://publications.europa.eu/resource/celex/32017R2395) — [REGULAMENTO (UE) 2017/2395 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2395) — L 345 — 27 — 27.12.2017
-- [►M5](http://publications.europa.eu/resource/celex/32017R2401) — [REGULAMENTO (UE) 2017/2401 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2401) — L 347 — 1 — 28.12.2017
-- [M6](http://publications.europa.eu/resource/celex/32018R0405) — [REGULAMENTO DELEGADO (UE) 2018/405 DA COMISSÃO de 21 de novembro de 2017](http://publications.europa.eu/resource/celex/32018R0405) — L 74 — 3 — 16.3.2018
-- [►M7](http://publications.europa.eu/resource/celex/32019R0630) — [REGULAMENTO (UE) 2019/630 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0630) — L 111 — 4 — 25.4.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019R0876) — [REGULAMENTO (UE) 2019/876 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0876) — L 150 — 1 — 7.6.2019
-- [►M9](http://publications.europa.eu/resource/celex/32019R2033) — [REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2033) — L 314 — 1 — 5.12.2019
-- [►M10](http://publications.europa.eu/resource/celex/32019R2160) — [REGULAMENTO (UE) 2019/2160 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2160) — L 328 — 1 — 18.12.2019
-- [►M11](http://publications.europa.eu/resource/celex/32020R0873) — [REGULAMENTO (UE) 2020/873 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0873) — L 204 — 4 — 26.6.2020
-- [►M12](http://publications.europa.eu/resource/celex/32021R0424) — [REGULAMENTO DELEGADO (UE) 2021/424 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32021R0424) — L 84 — 1 — 11.3.2021
-- [►M13](http://publications.europa.eu/resource/celex/32021R0558) — [REGULAMENTO (UE) 2021/558 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de março de 2021](http://publications.europa.eu/resource/celex/32021R0558) — L 116 — 25 — 6.4.2021
-- [M14](http://publications.europa.eu/resource/celex/32021R1043) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1043 DA COMISSÃO de 24 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1043) — L 225 — 52 — 25.6.2021
-- [►M15](http://publications.europa.eu/resource/celex/32022R2036) — [REGULAMENTO (UE) 2022/2036 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2036) — L 275 — 1 — 25.10.2022
-- [►M16](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M17](http://publications.europa.eu/resource/celex/32024R1623) — [REGULAMENTO (UE) 2024/1623 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1623) — L 1623 — 1 — 19.6.2024
-- [M18](http://publications.europa.eu/resource/celex/32024R2795) — [REGULAMENTO DELEGADO (UE) 2024/2795 DA COMISSÃO de 24 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2795) — L 2795 — 1 — 31.10.2024
-- [►M19](http://publications.europa.eu/resource/celex/32024R2987) — [REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2987) — L 2987 — 1 — 4.12.2024
-- [►M20](http://publications.europa.eu/resource/celex/32025R1215) — [REGULAMENTO (UE) 2025/1215 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1215) — L 1215 — 1 — 25.6.2025
-- [►M21](http://publications.europa.eu/resource/celex/32025R1496) — [REGULAMENTO DELEGADO (UE) 2025/1496 DA COMISSÃO de 12 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1496) — L 1496 — 1 — 19.9.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R0575R%2801%29) — [Rectificação, JO L 208, 2.8.2013, p. 68 (575/2013)](http://publications.europa.eu/resource/celex/32013R0575R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013R0575R%2802%29) — [Rectificação, JO L 321, 30.11.2013, p. 6 (n.o 575/2013)](http://publications.europa.eu/resource/celex/32013R0575R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32013R0575R%2804%29) — [Rectificação, JO L 020, 25.1.2017, p. 2 (575/2013)](http://publications.europa.eu/resource/celex/32013R0575R%2804%29)
-- [►C4](http://publications.europa.eu/resource/celex/32019R0630R%2802%29) — [Rectificação, JO L 335, 13.10.2020, p. 20 (2019/630)](http://publications.europa.eu/resource/celex/32019R0630R%2802%29)
-- [►C5](http://publications.europa.eu/resource/celex/32019R2033R%2805%29) — [Rectificação, JO L 405, 2.12.2020, p. 79 (2019/2033)](http://publications.europa.eu/resource/celex/32019R2033R%2805%29)
-- [C6](http://publications.europa.eu/resource/celex/32019R0876R%2808%29) — [Rectificação, JO L 065, 25.2.2021, p. 62 (2019/876)](http://publications.europa.eu/resource/celex/32019R0876R%2808%29)
-- [►C7](http://publications.europa.eu/resource/celex/32019R0876R%2811%29) — [Rectificação, JO L 398, 11.11.2021, p. 32 (2019/876)](http://publications.europa.eu/resource/celex/32019R0876R%2811%29)
-- [►C8](http://publications.europa.eu/resource/celex/32019R0876R%2813%29) — [Rectificação, JO L 316, 8.12.2022, p. 101 (2019/876)](http://publications.europa.eu/resource/celex/32019R0876R%2813%29)
-- [►C9](http://publications.europa.eu/resource/celex/32013R0575R%2805%29) — [Rectificação, JO L 092, 30.3.2023, p. 29 (n.o 575/2013)](http://publications.europa.eu/resource/celex/32013R0575R%2805%29)
-- [►C10](http://publications.europa.eu/resource/celex/32024R1623R%2802%29) — [Rectificação, JO L 90328, 16.4.2025, p. 1 (2024/1623)](http://publications.europa.eu/resource/celex/32024R1623R%2802%29)
-
-## REGULAMENTO (UE) N.º 575/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de junho de 2013
 

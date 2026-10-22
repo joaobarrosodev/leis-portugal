@@ -35,6 +35,136 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-11'
+version_history:
+  file: regulamento-ue-2014-180.versoes.json
+  count: 5
+  source_lastmod: '2026-04-11'
+  versions:
+  - date: '2014-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-06'
+    amending: eu:celex:32014R1282:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1282/2014 DA COMISSÃO de 2 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Documentos a apresentar pelos operadores e período de eficácia do certificado
+    - Altera Artigo 16.º — Controlo
+    - Altera Artigo 22.º — Princípios gerais
+    - Altera Artigo 28.º — Recuperação de pagamentos indevidos e penalização
+    - Altera Artigo 39.º — Relatório
+    - Altera Artigo 40.º — Alteração dos programas
+    - Altera Artigo 42.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Parte A
+    - Adita Parte B
+    - Adita Parte C
+    - Adita Parte D
+    - Adita Parte E
+    - Adita Parte F
+    - Adita Parte G
+    - Adita Parte H
+    - Adita Parte I
+    - Adita Parte J
+    - Adita ANEXO II
+    - Adita Quantidades máximas anuais de produtos transformados que podem ser objeto de exportação ou despacho no âmbito
+      do comércio regional ou de expedição tradicional, a partir dos departamentos franceses ultramarinos
+    - Adita ANEXO III
+    - Adita Quantidades máximas anuais de produtos transformados que podem ser objeto de exportação ou despacho no âmbito
+      do comércio regional e de expedição tradicional, a partir dos Açores e da Madeira
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Quantidades máximas anuais de produtos transformados que podem ser exportadas das ilhas Canárias no âmbito do
+      comércio regional
+    - Adita ANEXO VI
+    - Adita Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      dos departamentos franceses ultramarinos
+    - Adita Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      dos Açores e da Madeira
+    - Adita Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      das ilhas Canárias
+    - Adita ANEXO VII
+    - Adita Coeficientes de equivalência para os produtos que beneficiam da isenção dos direitos aduaneiros aplicáveis à importação
+      direta para as ilhas Canárias
+    - Adita ANEXO VIII
+    - Adita Indicadores de desempenho
+  - date: '2018-07-02'
+    amending: eu:celex:32018R0920:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/920 DA COMISSÃO de 28 de junho de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Certificado de importação
+    - Altera Artigo 3.º — Certificado de isenção
+    - Altera Artigo 5.º — Certificados de ajuda e de pagamento
+    - Altera Artigo 8.º — Documentos a apresentar pelos operadores e período de eficácia do certificado
+    - Altera Artigo 12.º — Fixação da quantidade máxima por pedido de certificado
+    - Altera Artigo 16.º — Controlo
+    - Altera Artigo 22.º — Princípios gerais
+    - Altera Artigo 24.º — Seleção dos agricultores a submeter a ações de controlo no local
+    - Altera Artigo 28.º — Recuperação de pagamentos indevidos e penalização
+    - Altera Artigo 29.º — Força maior e circunstâncias excecionais
+    - Altera Artigo 32.º — Medidas nacionais
+    - Altera Artigo 35.º — Condições de isenção
+    - Altera Artigo 38.º — Notificações
+    - Altera Artigo 40.º — Alteração dos programas
+    - Altera Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      dos departamentos franceses ultramarinos
+    - Altera Notas
+    - Adita Artigo 39.º — Relatório anual
+    - Adita ANEXO IX
+    - Adita Estrutura e teor do relatório anual a que se refere o artigo 39.º
+    - Adita 1. CONTEXTO GERAL NO ANO ANTERIOR
+    - Adita 2. EXECUÇÃO FÍSICA E FINANCEIRA DAS MEDIDAS E AÇÕES
+    - Adita 3. DESEMPENHO DO PROGRAMA NO ANO ANTERIOR
+    - Adita 4. GESTÃO DO PROGRAMA
+    - Adita 5. ALTERAÇÕES
+    - Suprime Artigo 39.º — Relatório
+  - date: '2023-10-22'
+    amending: eu:celex:32019R0260:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/260 DA COMISSÃO de 14 de fevereiro de 2019; REGULAMENTO DE EXECUÇÃO
+      (UE) 2023/2224 DA COMISSÃO de 17 de outubro de 2023
+    changes:
+    - Altera Artigo 2.º — Certificado de importação
+    - Altera Artigo 8.º — Documentos a apresentar pelos operadores e período de eficácia do certificado
+    - Altera Artigo 12.º — Fixação da quantidade máxima por pedido de certificado
+    - Altera Artigo 16.º — Controlo
+    - Altera Artigo 22.º — Princípios gerais
+    - Altera Artigo 28.º — Recuperação de pagamentos indevidos e penalização
+    - Altera Artigo 29.º — Força maior e circunstâncias excecionais
+    - Altera Artigo 32.º — Medidas nacionais
+    - Altera Artigo 35.º — Condições de isenção
+    - Altera Artigo 38.º — Notificações
+    - Altera Artigo 40.º — Alteração dos programas
+    - Altera Quantidades máximas anuais de produtos transformados que podem ser objeto de exportação ou despacho no âmbito
+      do comércio regional e de expedição tradicional, a partir dos Açores e da Madeira
+    - Altera ANEXO IV
+    - Altera Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      dos departamentos franceses ultramarinos
+    - Altera Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      dos Açores e da Madeira
+    - Altera Notas
+    - Adita Quantidades máximas anuais de produtos transformados que podem ser objeto de exportação ou despacho no âmbito
+      de exportações e expedições tradicionais, a partir das ilhas Canárias
+  - date: '2026-04-11'
+    amending: eu:celex:32026R0769:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/769 DA COMISSÃO de 7 de abril de 2026
+    changes:
+    - Altera Artigo 2.º — Certificado de importação
+    - Altera Artigo 8.º — Documentos a apresentar pelos operadores e período de eficácia do certificado
+    - Altera Artigo 12.º — Fixação da quantidade máxima por pedido de certificado
+    - Altera Artigo 16.º — Controlo
+    - Altera Artigo 22.º — Princípios gerais
+    - Altera Artigo 23.º — Controlo no local
+    - Altera Artigo 28.º — Recuperação de pagamentos indevidos e penalização
+    - Altera Artigo 29.º — Força maior e circunstâncias excecionais
+    - Altera Artigo 35.º — Condições de isenção
+    - Altera Artigo 38.º — Notificações
+    - Altera Artigo 40.º — Alteração dos programas
+    - Altera Países terceiros destinatários das exportações de produtos transformados, no âmbito do comércio regional, a partir
+      dos departamentos franceses ultramarinos
+    - Altera Notas
 identifiers:
   celex: 32014R0180
   eli: http://data.europa.eu/eli/reg_impl/2014/180/oj
@@ -49,7 +179,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ec0417c2-a37c-11e3-9f91-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d5208230-641e-11f1-9b18-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0180-20260411
-  retrieved_at: '2026-10-22T03:17:12Z'
+  retrieved_at: '2026-10-22T16:31:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T23:00:00.308+02:00'
 integrity:
@@ -58,9 +188,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:12Z'
-  notes: Texto consolidado 02014R0180-20260411.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:47Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2014-180.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,33 +293,19 @@ relationships:
   date: '2015-10-03'
 article_structure:
   article_count: 42
-  section_count: 66
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 67
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:12Z'
+  checked_at: '2026-10-22T16:31:47Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 180/2014 da Comissão, de 20 de fevereiro de 2014
-
-> 02014R0180 — PT — 11.04.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R1282) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1282/2014 DA COMISSÃO de 2 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1282) — L 347 — 13 — 3.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32018R0920) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/920 DA COMISSÃO de 28 de junho de 2018](http://publications.europa.eu/resource/celex/32018R0920) — L 164 — 5 — 29.6.2018
-- [►M3](http://publications.europa.eu/resource/celex/32019R0260) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/260 DA COMISSÃO de 14 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0260) — L 44 — 1 — 15.2.2019
-- [►M4](http://publications.europa.eu/resource/celex/32023R2224) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2224 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2224) — L 2224 — 1 — 19.10.2023
-- [►M5](http://publications.europa.eu/resource/celex/32026R0769) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/769 DA COMISSÃO de 7 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0769) — L 769 — 1 — 8.4.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 180/2014 DA COMISSÃO
 
 de 20 de fevereiro de 2014
 

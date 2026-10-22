@@ -1,0 +1,1031 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0029:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0029-20260530",
+ "dre_path": null,
+ "source_lastmod": "2026-05-30",
+ "versions": [
+  {
+   "date": "2014-03-29",
+   "future": false,
+   "celex": "32014L0029",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "023a0a5414f6e449",
+    "f6c2eb219fe1b284",
+    "e17a2adcfbbdd4cc",
+    "6375ce5f36581d72",
+    "38e681f4b4c74119",
+    "1288000fc8c65538",
+    "975223b20e24dcd9",
+    "b38dbcf19f1e3eef",
+    "8a6992ea3c104fd1",
+    "d0c1084d62b9fc85",
+    "c90a9ad8a7e5ec2c",
+    "8ae5289262bcfa74",
+    "702b02de415f9ae9",
+    "e78b9c5d8378ac02",
+    "075beaa7fedac1b8",
+    "5bfd382ca07fbf26",
+    "a3b195c08c38f795",
+    "2c53f896c00a7dfc",
+    "6fdff08ea1fc40b1",
+    "ed2a38cd55094507",
+    "5e47178929ed360a",
+    "74288f3060ca77a6",
+    "56c787a91783db94",
+    "6cc3b57c1b453c93",
+    "0bf464dd9b000583",
+    "303b67fa7823a393",
+    "1b19aa3d36217a6f",
+    "3b7b7c636952d115",
+    "c5a5b615ff6f07da",
+    "3deb2177446a712f",
+    "714b609acdc8796c",
+    "a8fb65788e41f2cf",
+    "d0c0afc968642822",
+    "14a1989d0d6bab53",
+    "0706b69595111d03",
+    "831861d1bee81718",
+    "1d61adac2e428680",
+    "389e9a581f7d261d",
+    "c6c1e03cc30309ae",
+    "c9ea07f6be29a5fc",
+    "5d092decf79f7ddd",
+    "6a2655547c06e638",
+    "ba538fa7b6eb44e8",
+    "1fb9240394cc0e10",
+    "2720ccb8b7e01bc8",
+    "e0eedc72a66f1f5d",
+    "334e484cea5b93e3",
+    "081d0d8fe0cf8d56",
+    "e54756c313675a1c",
+    "47858455157b62ca",
+    "08eea57f04a169e2",
+    "9a6a214fae8a339e",
+    "aa072da1b65ff826",
+    "077da3d7ec7043d7",
+    "42164cca82de6db7",
+    "0b33f10e70f8470e",
+    "baa2dc3031f10a0b",
+    "48de145fd543a451",
+    "4312048d939050cd"
+   ]
+  },
+  {
+   "date": "2026-05-30",
+   "future": false,
+   "celex": "02014L0029-20260530",
+   "acts": [
+    {
+     "id": "eu:celex:32024L2749:por",
+     "title": "DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024",
+     "published": null,
+     "celex": "32024L2749"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 13.º — Procedimentos de avaliação da conformidade",
+    "Altera Artigo 45.º — Destinatários",
+    "Altera Notas",
+    "Adita CAPÍTULO 5-A",
+    "Adita PROCEDIMENTOS DE EMERGÊNCIA",
+    "Adita Artigo 38.º-A — Aplicação de procedimentos de emergência",
+    "Adita Artigo 38.º-B — Prioridade da avaliação da conformidade de recipientes designados como bens relevantes em situação de crise",
+    "Adita Artigo 38.º-C — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório de um organismo notificado",
+    "Adita Artigo 38.º-D — Presunção de conformidade baseada em normas e especificações comuns",
+    "Adita Artigo 38.º-E — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades",
+    "Adita ANEXO I",
+    "Adita REQUISITOS ESSENCIAIS DE SEGURANÇA",
+    "Adita 1. Materiais",
+    "Adita 2. Conceção dos recipientes",
+    "Adita 3. Processos de fabrico",
+    "Adita 4. Colocação dos recipientes em serviço",
+    "Adita ANEXO II",
+    "Adita PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE",
+    "Adita 1. Exame ue de tipo (Módulo B)",
+    "Adita 2. Conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (Módulo C1)",
+    "Adita 3. Conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (Módulo C2)",
+    "Adita 4. Conformidade com o tipo baseada no controlo interno da produção (Módulo C)",
+    "Adita ANEXO III",
+    "Adita INSCRIÇÕES, INSTRUÇÕES, DEFINIÇÕES E SÍMBOLOS",
+    "Adita 1. Marcação CE e inscrições",
+    "Adita 2. Instruções e informações de segurança",
+    "Adita 3. Definições e símbolos",
+    "Adita ANEXO IV",
+    "Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0003))",
+    "Adita ANEXO V",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO VI",
+    "Adita DECLARAÇÃO DO PARLAMENTO EUROPEU"
+   ],
+   "fragments": [
+    "668a63cf784365bc",
+    "f6c2eb219fe1b284",
+    "e17a2adcfbbdd4cc",
+    "1ecc1e3553921ef0",
+    "84c7aef527fa6ec2",
+    "1288000fc8c65538",
+    "975223b20e24dcd9",
+    "b38dbcf19f1e3eef",
+    "8a6992ea3c104fd1",
+    "d0c1084d62b9fc85",
+    "c90a9ad8a7e5ec2c",
+    "9af0fb14f590e621",
+    "702b02de415f9ae9",
+    "e78b9c5d8378ac02",
+    "075beaa7fedac1b8",
+    "5bfd382ca07fbf26",
+    "a3b195c08c38f795",
+    "2c53f896c00a7dfc",
+    "6fdff08ea1fc40b1",
+    "e40cb7643c09b1f5",
+    "5e47178929ed360a",
+    "74288f3060ca77a6",
+    "56c787a91783db94",
+    "6cc3b57c1b453c93",
+    "0bf464dd9b000583",
+    "303b67fa7823a393",
+    "1b19aa3d36217a6f",
+    "3b7b7c636952d115",
+    "c5a5b615ff6f07da",
+    "8061b4366254a65c",
+    "714b609acdc8796c",
+    "a8fb65788e41f2cf",
+    "d0c0afc968642822",
+    "14a1989d0d6bab53",
+    "0706b69595111d03",
+    "831861d1bee81718",
+    "1d61adac2e428680",
+    "389e9a581f7d261d",
+    "c6c1e03cc30309ae",
+    "7803b9aeb2d3027d",
+    "5d092decf79f7ddd",
+    "6a2655547c06e638",
+    "ba538fa7b6eb44e8",
+    "1fb9240394cc0e10",
+    "2720ccb8b7e01bc8",
+    "236c4be45b290504",
+    "334e484cea5b93e3",
+    "081d0d8fe0cf8d56",
+    "483f2eafc1bfda63",
+    "9780d4dc9d737d88",
+    "5e062bf41c5998ec",
+    "1e961f5c9511d7aa",
+    "85cc7fa1916a1862",
+    "5317317cd0eec191",
+    "f44145acc783a802",
+    "4ce8aa8e5245fb30",
+    "47858455157b62ca",
+    "08eea57f04a169e2",
+    "9a6a214fae8a339e",
+    "aa072da1b65ff826",
+    "077da3d7ec7043d7",
+    "42164cca82de6db7",
+    "0b33f10e70f8470e",
+    "baa2dc3031f10a0b",
+    "7b40ef8bc241a092",
+    "d664376e2a8dcecd",
+    "817a03ef330f744c",
+    "b3358aa28f59317d",
+    "19510cda2f002755",
+    "2a0101972b5ced6a",
+    "4045426893255e60",
+    "852174729551523b",
+    "bad566cd14ea8187",
+    "41845c3806dbf63c",
+    "702e09d502b337dc",
+    "3cc385d55ffa5f8e",
+    "2ffcb26c2f0660f3",
+    "720af75c92791b10",
+    "b6102c11ff7cac6b",
+    "89d7e2e2663726b0",
+    "cfab9dc4ad2ae566",
+    "3b26be9ea6d69648",
+    "e03a0eb4d5b2eef3",
+    "e5a78bb587fc2f92",
+    "64610ae29a6cb67c",
+    "37c9738de80b8690",
+    "5d8928a994eb517c",
+    "93565215a1f7f848",
+    "1f2572ae2727c32a",
+    "b22b999017aa8bb2"
+   ]
+  }
+ ],
+ "fragments": {
+  "023a0a5414f6e449": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de fevereiro de 2014\n\nrelativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização de recipientes sob pressão simples no mercado\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 114.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2014096PT.01004501-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2014096PT.01004501-E0002),\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2009/105/CE do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativa aos recipientes sob pressão simples [([^3])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2014096PT.01004501-E0003), foi substancialmente alterada [([^4])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2014096PT.01004501-E0004). Uma vez que devem ser efetuadas alterações suplementares, é conveniente, por razões de clareza, proceder à reformulação da referida diretiva.\n\n(2) O Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos [([^5])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2014096PT.01004501-E0005), fixa regras de acreditação dos organismos de avaliação da conformidade, define um quadro para a fiscalização do mercado de produtos e para o controlo dos produtos provenientes de países terceiros, e estabelece os princípios gerais que regulam a marcação CE.\n\n(3) A Decisão n.º 768/2008/CE do Parlamento Europeu e do Conselho, de 9 de julho de 2008, relativa a um quadro comum para a comercialização de produtos [([^6])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2014096PT.01004501-E0006), estabelece princípios comuns e disposições de referência destinados a ser aplicados transversalmente na legislação setorial, a fim de constituírem uma base coerente de revisão ou reformulação dessa legislação. A Diretiva 2009/105/CE deverá ser adaptada a essa decisão.\n\n(4) A presente diretiva abrange recipientes sob pressão simples colocados no mercado da União pela primeira vez, o que significa que se trata de recipientes sob pressão simples novos produzidos por um fabricante estabelecido na União, ou de recipientes sob pressão simples, novos ou em segunda mão, importados de países terceiros.\n\n(5) A presente diretiva deverá aplicar-se a todas as formas de fornecimento, incluindo a venda à distância.\n\n(6) Os Estados-Membros deverão garantir, no seu território, a proteção da saúde e da segurança das pessoas e a proteção dos animais domésticos e dos bens contra os riscos de fugas ou de explosão que podem advir dos recipientes sob pressão simples.\n\n(7) Os operadores económicos deverão ser responsáveis pela conformidade dos recipientes sob pressão simples com a presente diretiva, de acordo com o seu respetivo papel no circuito comercial, a fim de assegurar um elevado nível de proteção do interesse público, nomeadamente a saúde e a segurança das pessoas e a proteção dos animais domésticos e dos bens, e de garantir uma concorrência leal no mercado da União.\n\n(8) Os operadores económicos que intervenham no circuito comercial deverão tomar as medidas adequadas para garantir que apenas disponibilizem no mercado recipientes sob pressão simples conformes com a presente diretiva. É necessário prever uma repartição clara e proporcionada dos deveres de cada operador económico na cadeia de abastecimento e distribuição.\n\n(9) A fim de facilitar a comunicação entre os operadores económicos, as autoridades de fiscalização do mercado e os utilizadores finais, os Estados-Membros deverão encorajar os operadores económicos a incluir, além do endereço postal, o endereço de um sítio *web*.\n\n(10) O fabricante, mais conhecedor do projeto e do processo de produção, encontra-se na melhor posição para efetuar o procedimento de avaliação da conformidade. Por conseguinte, a avaliação da conformidade deverá continuar a ser um dever exclusivo do fabricante.\n\n(11) É necessário assegurar que os recipientes sob pressão simples provenientes de países terceiros que entram no mercado da União cumpram o disposto na presente diretiva, nomeadamente que os procedimentos adequados de avaliação da conformidade desses recipientes sob pressão simples sejam respeitados pelos fabricantes. Importa, por conseguinte, prever que os importadores se certifiquem de que os recipientes sob pressão simples que colocam no mercado cumprem os requisitos da presente diretiva e não coloquem no mercado recipientes sob pressão simples que não cumpram esses requisitos ou que apresentem riscos. Importa igualmente prever que os importadores se certifiquem de que os procedimentos de avaliação da conformidade foram cumpridos e de que a marcação do produto e a documentação elaborada pelo fabricante estão à disposição das autoridades nacionais competentes para inspeção.\n\n(12) Ao colocarem um recipiente sob pressão simples no mercado, os importadores deverão indicar no recipiente o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto. Deverão ser previstas exceções para os casos em que a natureza do recipiente sob pressão simples não permita essa indicação.\n\n(13) O distribuidor disponibiliza os recipientes sob pressão simples no mercado após a sua colocação no mercado pelo fabricante ou pelo importador, e deverá atuar com a devida diligência para assegurar que o manuseamento que faz dos recipientes sob pressão simples não afete negativamente a sua conformidade.\n\n(14) Um operador económico que coloque no mercado um recipiente sob pressão simples em seu próprio nome ou sob a sua marca, ou que altere um recipiente sob pressão simples de tal modo que a conformidade com a presente diretiva possa ser afetada, deverá ser considerado como sendo o fabricante e deverá cumprir as suas obrigações enquanto tal.\n\n(15) Os distribuidores e importadores, por estarem próximos do mercado, deverão ser envolvidos nas atividades de fiscalização do mercado realizadas pelas autoridades nacionais competentes, e deverão estar preparados para participar ativamente, facultando a essas autoridades toda a informação necessária relacionada com o recipiente sob pressão simples em causa.\n\n(16) Ao garantir-se a rastreabilidade de um recipiente sob pressão simples ao longo de todo o circuito comercial contribui-se para simplificar e tornar mais eficiente a fiscalização do mercado. Um sistema eficaz de rastreabilidade facilita a tarefa das autoridades de fiscalização relativamente à identificação dos operadores económicos responsáveis pela disponibilização no mercado de recipientes sob pressão simples não conformes. Ao manterem a informação exigida pela presente diretiva para a identificação de outros operadores económicos, os operadores económicos não deverão ser obrigados a atualizá-la no que diz respeito aos operadores económicos que lhes tenham fornecido ou aos quais eles próprios tenham fornecido recipientes sob pressão simples.\n\n(17) A presente diretiva deverá limitar-se à expressão de requisitos essenciais de segurança. A fim de facilitar a avaliação da conformidade com esses requisitos, é necessário conferir uma presunção de conformidade aos recipientes sob pressão simples que respeitam as normas harmonizadas, adotadas nos termos do Regulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à normalização europeia [([^7])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr7-L_2014096PT.01004501-E0007), com vista à formulação de especificações técnicas pormenorizadas para esses requisitos.\n\n(18) O Regulamento (UE) n.º 1025/2012 prevê um procedimento para a apresentação de objeções às normas harmonizadas caso essas normas não satisfaçam plenamente os requisitos da presente diretiva.\n\n(19) A fim de permitir que os operadores económicos demonstrem e as autoridades competentes assegurem que os recipientes sob pressão simples disponibilizados no mercado são conformes com os requisitos essenciais de segurança, é necessário prever procedimentos de avaliação da conformidade. A Decisão n.º 768/2008/CE estabelece módulos para os procedimentos de avaliação da conformidade, que incluem procedimentos menos ou mais restritivos, proporcionalmente ao nível de risco em causa e ao nível de segurança exigido. A fim de garantir a coerência intersetorial e de evitar variantes *ad hoc*, os procedimentos de avaliação da conformidade deverão ser escolhidos de entre os referidos módulos.\n\n(20) Os fabricantes deverão elaborar uma declaração UE de conformidade, a fim de facultar as informações exigidas pela presente diretiva acerca da conformidade de um recipiente sob pressão simples com a presente diretiva e com outra legislação de harmonização da União aplicável.\n\n(21) A fim de assegurar o acesso efetivo à informação para efeitos de fiscalização do mercado, a informação necessária para identificar todos os atos da União aplicáveis deverá estar disponível numa única declaração UE de conformidade. A fim de reduzir a carga administrativa que recai sobre os operadores económicos, essa declaração UE de conformidade única pode consistir num processo constituído pelas várias declarações de conformidade pertinentes.\n\n(22) A marcação CE, que assinala a conformidade de um recipiente sob pressão simples, é o corolário visível de todo um processo que abrange a avaliação da conformidade em sentido lato. Os princípios gerais que regem a marcação CE e a sua relação com outras marcações encontram-se estabelecidos no Regulamento (CE) n.º 765/2008. As regras de aposição da marcação CE deverão ser estabelecidas na presente diretiva.\n\n(23) É necessário um controlo do respeito dos requisitos essenciais de segurança relevantes para proteger eficazmente os utilizadores finais e terceiros.\n\n(24) Os procedimentos de avaliação da conformidade previstos na presente diretiva exigem a intervenção de organismos de avaliação da conformidade, que são notificados à Comissão pelos Estados-Membros.\n\n(25) A experiência demonstrou que os critérios enunciados na Diretiva 2009/105/CE que devem ser cumpridos pelos organismos de avaliação da conformidade para serem notificados à Comissão, não bastam para garantir um nível uniformemente elevado de desempenho dos organismos notificados em toda a União. Contudo, é essencial que todos os organismos notificados desempenhem as suas funções a um nível idêntico e em condições de concorrência leal. Para tal, é indispensável o estabelecimento de requisitos obrigatórios para os organismos de avaliação da conformidade que desejem ser notificados para prestar serviços de avaliação da conformidade.\n\n(26) Deverá presumir-se que os organismos de avaliação da conformidade que provem a sua conformidade com os critérios estabelecidos nas normas harmonizadas cumprem os requisitos correspondentes previstos na presente diretiva.\n\n(27) A fim de garantir um nível coerente de qualidade da avaliação da conformidade, é também necessário estabelecer requisitos a cumprir pelas autoridades notificadoras e por outros organismos envolvidos na avaliação, na notificação e no controlo dos organismos notificados.\n\n(28) O sistema de acreditação previsto no Regulamento (CE) n.º 765/2008 deverá complementar o sistema estabelecido na presente diretiva. Como a acreditação é um meio fundamental para verificar a competência técnica dos organismos de avaliação da conformidade, deveria ser igualmente utilizada para efeitos de notificação.\n\n(29) A acreditação organizada de forma transparente nos termos do Regulamento (CE) n.º 765/2008, que garante a necessária confiança nos certificados de conformidade, deverá ser considerada como o instrumento preferido das autoridades públicas em toda a União para demonstrar a competência técnica dos organismos de avaliação da conformidade. Contudo, as autoridades nacionais podem considerar que possuem os meios adequados para realizarem elas próprias essa avaliação. Neste caso, a fim de assegurar o nível adequado de credibilidade das avaliações efetuadas por outras autoridades nacionais, aquelas deverão apresentar à Comissão e aos restantes Estados-Membros as devidas provas documentais de que os organismos de avaliação da conformidade avaliados cumprem os requisitos regulamentares aplicáveis.\n\n(30) Os organismos de avaliação da conformidade subcontratam frequentemente partes das respetivas atividades relacionadas com a avaliação da conformidade ou recorrem a filiais. A fim de salvaguardar o nível de proteção exigido para os recipientes sob pressão simples a colocar no mercado da União, é indispensável que os subcontratados e as filiais que desempenham tarefas de avaliação da conformidade cumpram requisitos idênticos aos dos organismos notificados relativamente à realização de tarefas de avaliação da conformidade. Por conseguinte, é importante que a avaliação da competência técnica e do desempenho dos organismos a notificar, assim como o controlo dos organismos já notificados, abranjam igualmente as atividades efetuadas por subcontratados e filiais.\n\n(31) É necessário aumentar a eficácia e a transparência do procedimento de notificação e, em particular, adaptá-lo às novas tecnologias, a fim de permitir a notificação eletrónica.\n\n(32) Como os organismos notificados podem propor os seus serviços em todo território da União, é conveniente que os restantes Estados-Membros e a Comissão tenham a oportunidade de levantar objeções em relação a um organismo notificado. Assim, é primordial prever um período durante o qual possam ser esclarecidas quaisquer dúvidas e reticências quanto à competência técnica dos organismos de avaliação da conformidade, antes de estes iniciarem as suas funções como organismos notificados.\n\n(33) No interesse da competitividade, é crucial que os organismos notificados apliquem os procedimentos de avaliação da conformidade sem sobrecarregar desnecessariamente os operadores económicos. Pelo mesmo motivo, e a fim de favorecer a igualdade de tratamento dos operadores económicos, é necessário assegurar que a aplicação técnica dos procedimentos de avaliação da conformidade seja feita de forma coerente. A melhor maneira de o conseguir será através de uma coordenação e cooperação adequadas entre os organismos notificados.\n\n(34) A fim de garantir a segurança jurídica, é necessário esclarecer que as regras da União em matéria de fiscalização do mercado e de controlo dos produtos que entram no mercado da União, consagradas no Regulamento (CE) n.º 765/2008, se aplicam aos recipientes sob pressão simples. A presente diretiva não deverá impedir os Estados-Membros de escolher as autoridades competentes para desempenhar essas tarefas.\n\n(35) Os Estados-Membros deverão tomar todas as medidas adequadas para garantir que os recipientes sob pressão simples só possam ser colocados no mercado se, uma vez convenientemente armazenados e utilizados para o fim a que se destinam, ou sujeitos a condições de utilização razoavelmente previsíveis, não ameaçarem a saúde e a segurança das pessoas. Os recipientes sob pressão simples só deverão ser considerados não conformes com os requisitos essenciais de segurança previstos na presente diretiva quando sujeitos a condições de utilização razoavelmente previsíveis, isto é, quando essa utilização possa derivar de um comportamento humano lícito e facilmente previsível.\n\n(36) A Diretiva 2009/105/CE já prevê um procedimento de salvaguarda que permite à Comissão examinar a justificação de uma medida tomada por um Estado-Membro contra recipientes sob pressão simples que considera não conformes. A fim de aumentar a transparência do processo e de abreviar o tempo de tramitação, há que melhorar o atual procedimento de salvaguarda para o tornar mais eficiente, com base na experiência disponível nos Estados-Membros.\n\n(37) O sistema vigente deverá ser complementado por um procedimento que permita que as partes interessadas sejam informadas das medidas previstas em relação a recipientes sob pressão simples que apresentem riscos para a saúde ou para a segurança das pessoas, ou para os animais domésticos ou os bens. O sistema deverá permitir igualmente que as autoridades de fiscalização do mercado atuem numa fase precoce em relação a tais recipientes sob pressão simples, em cooperação com os operadores económicos em causa.\n\n(38) Nos casos em que os Estados-Membros e a Comissão concordem quanto à justificação de uma medida tomada por um Estado-Membro, não deverá ser necessária qualquer outra participação da Comissão, salvo se a não conformidade puder ser imputada a deficiências de uma norma harmonizada.\n\n(39) A fim de assegurar condições uniformes de execução da presente diretiva, deverão ser atribuídas competências de execução à Comissão. As referidas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão [([^8])](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntr8-L_2014096PT.01004501-E0008).\n\n(40) O procedimento consultivo deverá aplicar-se para a adoção dos atos de execução destinados a requerer que o Estado-Membro notificante tome as medidas corretivas necessárias em relação aos organismos notificados que não cumpram ou que tenham deixado de cumprir os requisitos para a sua notificação.\n\n(41) O procedimento de exame deverá aplicar-se para a adoção de atos de execução no que diz respeito a recipientes sob pressão simples conformes que apresentem riscos para a saúde ou a segurança das pessoas ou para outros aspetos da proteção do interesse público.\n\n(42) Caso razões imperiosas de urgência assim o exijam, a Comissão deverá adotar atos de execução imediatamente aplicáveis em casos devidamente justificados relacionados com recipientes sob pressão simples conformes que apresentem riscos para a saúde ou a segurança das pessoas, para animais domésticos ou para bens.\n\n(43) De acordo com a prática estabelecida, o comité criado pela presente diretiva pode desempenhar um papel útil no exame de questões relativas à aplicação da presente diretiva suscitadas pelo seu presidente ou por representantes dos Estados-Membros nos termos do seu regulamento interno.\n\n(44) Quando um grupo de peritos da Comissão tratar de questões relativas à presente diretiva, com exceção das questões relativas à sua aplicação ou a casos de incumprimento, o Parlamento Europeu deverá receber de acordo com a prática estabelecida informações e documentação completas e, se for caso disso, um convite para participar nessas reuniões.\n\n(45) A Comissão deverá determinar através de atos de execução e, dada a sua natureza especial, atuando sem aplicar o Regulamento (UE) n.º 182/2011, se as medidas tomadas pelos Estados-Membros relativamente aos recipientes sob pressão simples não conformes se justificam ou não.\n\n(46) Os Estados-Membros deverão estabelecer regras sobre as sanções aplicáveis às infrações ao disposto no direito nacional aprovado em execução da presente diretiva e assegurar a aplicação dessas regras. As sanções previstas deverão ser efetivas, proporcionadas e dissuasivas.\n\n(47) É necessário prever medidas transitórias razoáveis que permitam a disponibilização no mercado e a colocação em serviço, sem necessidade de os produtos cumprirem requisitos adicionais, de recipientes sob pressão simples já colocados no mercado nos termos da Diretiva 2009/105/CE antes da data de aplicação das medidas nacionais que transpõem a presente diretiva. Por conseguinte, os distribuidores deverão poder fornecer recipientes sob pressão simples colocados no mercado, a saber, existências que já se encontram na cadeia de distribuição, antes da data de aplicação das medidas nacionais que transpõem a presente diretiva.\n\n(48) Atendendo a que o objetivo da presente diretiva, a saber, assegurar que os recipientes sob pressão simples colocados no mercado cumpram os requisitos que proporcionam um elevado nível de proteção da saúde e segurança das pessoas, bem como a proteção dos animais domésticos e dos bens, permitindo ao mesmo tempo o funcionamento do mercado interno, não pode ser suficientemente alcançado pelos Estados-Membros, mas pode, devido à sua dimensão e aos seus efeitos, ser mais bem alcançado a nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente diretiva não excede o necessário para alcançar esse objetivo.\n\n(49) A obrigação de transpor a presente diretiva para o direito nacional deverá limitar-se às disposições que tenham sofrido alterações de fundo relativamente à diretiva anterior. A obrigação de transpor as disposições não alteradas decorre da diretiva anterior.\n\n(50) A presente diretiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e às datas de aplicação das diretivas, previstos no anexo V, parte B,\n\nADOTARAM A PRESENTE DIRETIVA:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "6375ce5f36581d72": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente diretiva aplica-se a recipientes simples sob pressão («recipientes») fabricados em série e com as seguintes características:\n\na) os recipientes são de construção soldada, destinam-se a ser submetidos a uma pressão interior superior a 0,5 bar e a conter ar ou nitrogénio, e não se destinam a ser submetidos a uma chama;\n\nb) as partes e as juntas que participam na resistência do recipiente sob pressão são fabricadas quer em aço de qualidade não ligado quer em alumínio não ligado quer em liga de alumínio não autotemperante;\n\nc) os recipientes são constituídos, em alternativa, pelos seguintes elementos: i) uma parte cilíndrica de secção transversal circular, fechada por fundos copados com a face côncava voltada para o interior ou por fundos planos com o mesmo eixo de revolução que a parte cilíndrica; ii) dois fundos copados com o mesmo eixo de revolução;\n\ni) uma parte cilíndrica de secção transversal circular, fechada por fundos copados com a face côncava voltada para o interior ou por fundos planos com o mesmo eixo de revolução que a parte cilíndrica;\n\nii) dois fundos copados com o mesmo eixo de revolução;\n\nd) a pressão máxima de serviço do recipiente não excede 30 bar e o produto desta pressão pela capacidade do recipiente (PS × V) não excede 10 000 bar.L;\n\ne) a temperatura mínima de serviço não é inferior a - 50 °C e a temperatura máxima de serviço não excede 300 °C para os recipientes de aço ou 100 °C para os recipientes de alumínio ou de liga de alumínio.\n\n2. A presente diretiva não se aplica a:\n\na) recipientes concebidos especificamente para utilização nuclear, cuja avaria possa causar emissão de radioatividade;\n\nb) recipientes destinados especificamente ao equipamento ou à propulsão de barcos e aeronaves;\n\nc) extintores de incêndio."
+  },
+  "38e681f4b4c74119": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente diretiva, entende-se por:\n\n1) «Disponibilização no mercado», a oferta de recipientes para distribuição ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;\n\n2) «Colocação no mercado», a primeira disponibilização de um recipiente no mercado da União;\n\n3) «Fabricante», uma pessoa singular ou coletiva que fabrica ou manda conceber ou fabricar recipientes e que os comercializa com o seu nome ou a sua marca comercial;\n\n4) «Mandatário», a pessoa singular ou coletiva estabelecida na União, mandatada por escrito pelo fabricante para praticar determinados atos em seu nome;\n\n5) «Importador», uma pessoa singular ou coletiva estabelecida na União que coloca recipientes provenientes de países terceiros no mercado da União;\n\n6) «Distribuidor», a pessoa singular ou coletiva que faz parte da cadeia de distribuição, com exceção do fabricante ou do importador, e que disponibiliza recipientes no mercado;\n\n7) «Operadores económicos», o fabricante, o mandatário, o importador e o distribuidor;\n\n8) «Especificação técnica», um documento que define os requisitos técnicos que os recipientes devem cumprir;\n\n9) «Norma harmonizada», uma norma harmonizada na aceção do artigo 2.º, ponto 1, alínea c), do Regulamento (UE) n.º 1025/2012;\n\n10) «Acreditação», acreditação na aceção do artigo 2.º, ponto 10, do Regulamento (CE) n.º 765/2008;\n\n11) «Organismo nacional de acreditação», um organismo nacional de acreditação na aceção do artigo 2.º, ponto 11, do Regulamento (CE) n.º 765/2008;\n\n12) «Avaliação da conformidade», o processo de verificação através do qual se demonstra se estão cumpridos os requisitos essenciais de segurança previstos na presente diretiva relativos a um recipiente;\n\n13) «Organismo de avaliação da conformidade», um organismo que efetua atividades de avaliação da conformidade, nomeadamente calibração, ensaio, certificação e inspeção;\n\n14) «Recolha», uma medida destinada a obter o retorno de um recipiente já disponibilizado ao utilizador final;\n\n15) «Retirada», uma medida destinada a impedir a disponibilização no mercado de um recipiente presente na cadeia de distribuição;\n\n16) «Legislação de harmonização da União», legislação da União destinada a harmonizar as condições de comercialização dos produtos;\n\n17) «Marcação CE», a marcação através da qual o fabricante indica que um recipiente cumpre os requisitos aplicáveis estabelecidos na legislação de harmonização da União que prevê a sua aposição."
+  },
+  "1288000fc8c65538": {
+   "fragment_id": "Artigo 3.º — Disponibilização no mercado e colocação em serviço",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disponibilização no mercado e colocação em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disponibilização no mercado e colocação em serviço\n\n1. Os Estados-Membros devem tomar todas as medidas adequadas para assegurar que os recipientes só possam ser disponibilizados no mercado e colocados em serviço se cumprirem os requisitos da presente diretiva, sendo devidamente instalados, mantidos e utilizados para os fins a que se destinam.\n\n2. As disposições da presente diretiva não afetam o direito dos Estados-Membros de especificarem as condições que consideram necessárias para assegurar a proteção dos trabalhadores durante a utilização dos recipientes, desde que tal não implique a alteração dos referidos recipientes em moldes não especificados na presente diretiva."
+  },
+  "975223b20e24dcd9": {
+   "fragment_id": "Artigo 4.º — Requisitos essenciais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos essenciais\n\n1. Os recipientes cujo produto PS × V exceda 50 bar.L devem respeitar os requisitos essenciais de segurança constantes do anexo I.\n\n2. Os recipientes cujo produto PS × V não exceda 50 bar.L devem ser concebidos e fabricados segundo as regras da arte na matéria utilizadas num dos Estados-Membros."
+  },
+  "b38dbcf19f1e3eef": {
+   "fragment_id": "Artigo 5.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Livre circulação\n\nOs Estados-Membros não podem impedir a disponibilização no mercado e a colocação em serviço no seu território de recipientes que satisfaçam os requisitos da presente diretiva."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "d0c1084d62b9fc85": {
+   "fragment_id": "DEVERES DOS OPERADORES ECONÓMICOS",
+   "type": "divisao",
+   "heading": "DEVERES DOS OPERADORES ECONÓMICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEVERES DOS OPERADORES ECONÓMICOS"
+  },
+  "c90a9ad8a7e5ec2c": {
+   "fragment_id": "Artigo 6.º — Obrigações dos fabricantes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos fabricantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos fabricantes\n\n1. Quando colocam no mercado os seus recipientes cujo produto PS × V exceda 50 bar.L, os fabricantes devem assegurar que esses recipientes foram concebidos e fabricados em conformidade com os requisitos essenciais de segurança estabelecidos no anexo I.\n\nQuando colocam no mercado os seus recipientes cujo produto PS × V não exceda 50 bar.L, os fabricantes devem assegurar que esses recipientes foram concebidos e fabricados segundo as regras da arte na matéria utilizadas num dos Estados-Membros.\n\n2. No que se refere aos recipientes cujo produto PS × V exceda 50 bar.L, os fabricantes devem reunir a documentação técnica referida no anexo II e efetuar ou mandar efetuar o procedimento de avaliação da conformidade referido no artigo 13.º.\n\nCaso a conformidade de um recipiente cujo produto PS × V exceda 50 bar.L com os requisitos aplicáveis tenha sido demonstrada através desse procedimento, os fabricantes devem elaborar uma declaração UE de conformidade e apor a marcação CE, bem como as inscrições previstas no anexo III, ponto 1.\n\nOs fabricantes devem garantir que os recipientes cujo produto PS × V não exceda 50 bar.L ostentem as inscrições previstas no anexo III, ponto 1.\n\n3. Os fabricantes devem conservar a documentação técnica e a declaração UE de conformidade durante 10 anos a contar da data de colocação do recipiente no mercado.\n\n4. Os fabricantes devem assegurar a existência de procedimentos para manter a conformidade da produção em série com a presente diretiva. As alterações efetuadas no projeto ou nas características do recipiente e as alterações das normas harmonizadas ou das outras especificações técnicas que constituíram a referência para a comprovação da conformidade de um recipiente devem ser devidamente tidas em conta.\n\nSempre que for considerado apropriado, em função do risco que um recipiente apresenta, os fabricantes devem realizar, a fim de proteger a saúde e a segurança dos consumidores finais, ensaios por amostragem dos recipientes disponibilizados no mercado, investigar e, se necessário, conservar um registo das reclamações, dos recipientes não conformes e dos recipientes recolhidos, e devem informar os distribuidores de todas estas ações de controlo.\n\n5. Os fabricantes devem assegurar que nos recipientes que colocaram no mercado figure o tipo, bem como a identificação do lote ou da série, a fim de permitir a respetiva identificação.\n\n6. Os fabricantes devem indicar no recipiente o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto. O endereço deve indicar um único ponto de contacto do fabricante. Os dados de contacto devem ser facultados numa língua facilmente compreensível pelos utilizadores finais e pelas autoridades de fiscalização do mercado.\n\n7. Os fabricantes devem assegurar que os recipientes sejam acompanhados das instruções e informações de segurança referidas no anexo III, ponto 2, numa língua facilmente compreensível pelos utilizadores finais, de acordo com o que o Estado-Membro em causa determinar. Essas instruções e informações de segurança, bem como a rotulagem, devem ser claras, compreensíveis e inteligíveis.\n\n8. Os fabricantes que considerem ou tenham motivos para crer que um recipiente que colocaram no mercado não é conforme com a presente diretiva devem tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o recipiente apresentar um risco, os fabricantes devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o recipiente no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.\n\n9. Mediante pedido fundamentado da autoridade nacional competente, os fabricantes devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico, numa língua facilmente compreensível por essa autoridade, a fim de demonstrar a conformidade do recipiente com a presente diretiva. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de recipientes que tenham colocado no mercado."
+  },
+  "8ae5289262bcfa74": {
+   "fragment_id": "Artigo 7.º — Mandatários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Mandatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mandatários\n\n1. Os fabricantes podem designar por escrito um mandatário.\n\nOs deveres previstos no artigo 6.º, n.º 1, e o dever de elaborar documentação técnica referido no artigo 6.º, n.º 2, não fazem parte do mandato.\n\n2. O mandatário deve praticar os atos definidos no mandato conferido pelo fabricante. O mandato deve permitir ao mandatário, no mínimo:\n\na) manter à disposição das autoridades nacionais de fiscalização do mercado a declaração UE de conformidade e a documentação técnica pelo prazo de 10 anos a contar da data de colocação do recipiente no mercado;\n\nb) mediante pedido fundamentado da autoridade nacional competente, facultar-lhe toda a informação e a documentação necessárias para demonstrar a conformidade do recipiente;\n\nc) cooperar com a autoridade nacional competente, a pedido desta, no que se refere a qualquer ação para eliminar os riscos decorrentes de recipientes abrangidos pelo seu mandato."
+  },
+  "702b02de415f9ae9": {
+   "fragment_id": "Artigo 8.º — Deveres dos importadores",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Deveres dos importadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres dos importadores\n\n1. Os importadores só podem colocar no mercado recipientes conformes.\n\n2. Antes de colocarem no mercado um recipiente cujo produto PS × V exceda 50 bar.L, os importadores devem assegurar que o fabricante aplicou o procedimento de avaliação da conformidade adequado referido no artigo 13.º. Devem assegurar que o fabricante elaborou a documentação técnica, que o recipiente ostenta a marcação CE e as inscrições previstas no anexo III, ponto 1, e vem acompanhado dos documentos necessários, e que o fabricante respeitou os requisitos previstos no artigo 6.º, n.^os^ 5 e 6.\n\nCaso o importador considere ou tenha motivos para crer que um recipiente cujo produto PS × V exceda 50 bar.L não é conforme com os requisitos essenciais de segurança previstos no anexo I, não deve colocar o recipiente no mercado até que este seja posto em conformidade. Além disso, caso o recipiente apresente um risco, o importador deve informar desse facto o fabricante e as autoridades de fiscalização do mercado.\n\nAntes de colocarem no mercado um recipiente cujo produto PS × V não exceda 50 bar.L, os importadores devem assegurar que o recipiente foi concebido e fabricado segundo as regras da arte na matéria utilizadas num dos Estados-Membros, ostenta as inscrições previstas no anexo III, ponto 1.2, e que o fabricante respeitou os requisitos previstos no artigo 6.º, n.^os^ 5 e 6.\n\n3. Os importadores devem indicar o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto no recipiente ou, se tal não for possível, num documento que o acompanhe. Os dados de contacto devem ser facultados numa língua facilmente compreensível pelos utilizadores finais e pelas autoridades de fiscalização do mercado.\n\n4. Os importadores devem assegurar que os recipientes sejam acompanhados das instruções e informações de segurança referidas no anexo III, ponto 2, numa língua facilmente compreensível pelos utilizadores finais, de acordo com o que o Estado-Membro em causa determinar.\n\n5. Os importadores devem assegurar que, enquanto um recipiente cujo produto PS × V exceda 50 bar.L estiver sob a sua responsabilidade, as suas condições de armazenamento ou de transporte não prejudiquem a sua conformidade com os requisitos essenciais de segurança previstos no anexo I.\n\n6. Sempre que for considerado apropriado, em função do risco que um recipiente apresenta, os importadores devem realizar, a fim de proteger a saúde e a segurança dos consumidores finais, ensaios por amostragem dos recipientes disponibilizados no mercado, investigar e, se necessário, conservar um registo das reclamações, dos recipientes não conformes e dos recipientes recolhidos, e devem informar os distribuidores de todas estas ações de controlo.\n\n7. Os importadores que considerem ou tenham motivos para crer que um recipiente que colocaram no mercado não é conforme com a presente diretiva devem tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o recipiente apresentar um risco, os importadores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o recipiente no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.\n\n8. No que respeita aos recipientes cujo produto PS × V exceda 50 bar.L, durante 10 anos a contar da data de colocação do recipiente no mercado, os importadores devem manter um exemplar da declaração UE de conformidade à disposição das autoridades de fiscalização do mercado e assegurar que a documentação técnica lhes possa ser facultada, a pedido.\n\n9. Mediante pedido fundamentado da autoridade nacional competente, os importadores devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico, numa língua facilmente compreensível por essa autoridade, a fim de demonstrar a conformidade do recipiente. Os importadores devem cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de recipientes que tenham colocado no mercado."
+  },
+  "e78b9c5d8378ac02": {
+   "fragment_id": "Artigo 9.º — Deveres dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Deveres dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres dos distribuidores\n\n1. Ao disponibilizarem um recipiente no mercado, os distribuidores devem agir com a devida diligência em relação aos requisitos da presente diretiva.\n\n2. Antes de disponibilizarem no mercado um recipiente cujo produto PS × V exceda 50 bar.L, os distribuidores devem verificar se o mesmo ostenta a marcação CE e as inscrições previstas no anexo III, ponto 1, se vem acompanhado dos documentos exigidos e das instruções e informações respeitantes à segurança referidas no anexo III, ponto 2, numa língua facilmente compreensível pelos utilizadores finais no Estado-Membro em que o recipiente é disponibilizado no mercado, e ainda se o fabricante e o importador respeitaram os requisitos previstos, respetivamente, no artigo 6.º, n.^os^ 5 e 6, e no artigo 8.º, n.º 3.\n\nCaso o distribuidor considere ou tenha motivos para crer que um recipiente cujo produto PS × V exceda 50 bar.L não é conforme com os requisitos essenciais de segurança previstos no anexo I, não deve disponibilizar o recipiente no mercado até que este seja posto em conformidade. Além disso, caso o recipiente apresente um risco, o distribuidor deve informar desse facto o fabricante ou o importador e as autoridades de fiscalização do mercado.\n\nAntes de disponibilizarem no mercado um recipiente cujo produto PS × V não exceda 50 bar.L, os distribuidores devem verificar se o mesmo ostenta as inscrições previstas no anexo III, ponto 1.2, se vem acompanhado dos documentos exigidos e das instruções e informações respeitantes à segurança referidas no anexo III, ponto 2, numa língua facilmente compreensível pelos utilizadores finais no Estado-Membro em que o recipiente é disponibilizado no mercado, e se o fabricante e o importador respeitaram os requisitos previstos, respetivamente, no artigo 6.º, n.^os^ 5 e 6, e no artigo 8.º, n.º 3.\n\n3. Os distribuidores devem assegurar que, enquanto um recipiente cujo produto PS × V exceda 50 bar.L estiver sob a sua responsabilidade, as suas condições de armazenamento ou de transporte não prejudiquem a sua conformidade com os requisitos essenciais de segurança previstos no anexo I.\n\n4. Os distribuidores que considerem ou tenham motivos para crer que um recipiente que disponibilizaram no mercado não é conforme com a presente diretiva devem tomar as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o recipiente apresentar um risco, os distribuidores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o recipiente no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.\n\n5. Mediante pedido fundamentado da autoridade nacional competente, os distribuidores devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico a fim de demonstrar a conformidade de um recipiente. Os distribuidores devem cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de recipientes que tenham disponibilizado no mercado."
+  },
+  "075beaa7fedac1b8": {
+   "fragment_id": "Artigo 10.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores\n\nOs importadores ou os distribuidores são considerados fabricantes para efeitos da presente diretiva, ficando sujeitos aos mesmos deveres que estes nos termos do artigo 6.º, sempre que coloquem no mercado recipientes em seu nome ou ao abrigo de uma marca sua, ou alterem recipientes já colocados no mercado de tal modo que a conformidade com a presente diretiva possa ser afetada."
+  },
+  "5bfd382ca07fbf26": {
+   "fragment_id": "Artigo 11.º — Identificação dos operadores económicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Identificação dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Identificação dos operadores económicos\n\nA pedido das autoridades de fiscalização do mercado, os operadores económicos devem identificar:\n\na) o operador económico que lhes forneceu um recipiente;\n\nb) o operador económico ao qual forneceram um recipiente.\n\nOs operadores económicos devem estar em condições de apresentar as informações referidas no primeiro parágrafo pelo prazo de 10 anos após lhes ter sido fornecido o recipiente, e de 10 anos após terem fornecido o recipiente."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "2c53f896c00a7dfc": {
+   "fragment_id": "CONFORMIDADE DOS RECIPIENTES CUJO PRODUTO PS × V EXCEDE 50 bar.L",
+   "type": "divisao",
+   "heading": "CONFORMIDADE DOS RECIPIENTES CUJO PRODUTO PS × V EXCEDE 50 bar.L",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFORMIDADE DOS RECIPIENTES CUJO PRODUTO PS × V EXCEDE 50 bar.L"
+  },
+  "6fdff08ea1fc40b1": {
+   "fragment_id": "Artigo 12.º — Presunção da conformidade dos recipientes cujo produto PS × V excede 50 bar.L",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Presunção da conformidade dos recipientes cujo produto PS × V excede 50 bar.L",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Presunção da conformidade dos recipientes cujo produto PS × V excede 50 bar.L\n\nPresume-se que os recipientes cujo produto PS × V excede 50 bar.L, que estão em conformidade com as normas harmonizadas ou partes destas, e cujas referências tenham sido publicadas no *Jornal Oficial da União Europeia*, são conformes com os requisitos essenciais de segurança previstos no anexo I, abrangidos pelas referidas normas ou por partes destas."
+  },
+  "ed2a38cd55094507": {
+   "fragment_id": "Artigo 13.º — Procedimentos de avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimentos de avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimentos de avaliação da conformidade\n\n1. Antes do seu fabrico, os recipientes cujo produto de PS × V exceda 50 bar.L devem ser submetidos ao exame UE de tipo (módulo B) estabelecido no anexo II, ponto 1, da seguinte forma:\n\na) no que respeita aos recipientes fabricados em conformidade com as normas harmonizadas referidas no artigo 12.º, através de um dos seguintes métodos, à escolha do fabricante: i) avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de prova, sem exame de um exemplar (módulo B — tipo de projeto); ii) avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de suporte, e exame de um protótipo, representativo da produção prevista, do recipiente completo (módulo B – tipo de produção);\n\ni) avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de prova, sem exame de um exemplar (módulo B — tipo de projeto);\n\nii) avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de suporte, e exame de um protótipo, representativo da produção prevista, do recipiente completo (módulo B – tipo de produção);\n\nb) no que respeita aos recipientes fabricados sem respeitar as normas harmonizadas referidas no artigo 12.º, ou que as respeitem apenas parcialmente, o fabricante deve apresentar para exame um protótipo, representativo da produção prevista, do recipiente completo, bem como a documentação técnica e os elementos de prova para análise e avaliação da adequação do projeto técnico do recipiente (módulo B — tipo de produção).\n\n2. Antes da sua colocação no mercado, os recipientes devem ser submetidos aos seguintes procedimentos:\n\na) caso o produto PS × V exceda 3 000 bar.L, ao procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2;\n\nb) caso o produto PS × V não exceda 3 000 bar.L e exceda 200 bar.L, a um dos seguintes procedimentos, à escolha do fabricante: i) procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2; ii) procedimento de conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (módulo C2) estabelecido no anexo II, ponto 3;\n\ni) procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2;\n\nii) procedimento de conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (módulo C2) estabelecido no anexo II, ponto 3;\n\nc) caso o produto PS × V não exceda 200 bar.L e exceda 50 bar.L, a um dos seguintes procedimentos, à escolha do fabricante: i) procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2; ii) procedimento de conformidade com o tipo baseada no controlo interno da produção (módulo C) estabelecido no anexo II, ponto 4;\n\ni) procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2;\n\nii) procedimento de conformidade com o tipo baseada no controlo interno da produção (módulo C) estabelecido no anexo II, ponto 4;\n\n3. A documentação e a correspondência relativas aos procedimentos de avaliação de conformidade referidos nos n.^os^ 1 e 2 devem ser redigidas numa língua oficial do Estado-Membro em que o organismo notificado estiver estabelecido, ou numa língua por ele aceite."
+  },
+  "5e47178929ed360a": {
+   "fragment_id": "Artigo 14.º — Declaração UE de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Declaração UE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Declaração UE de conformidade\n\n1. A declaração UE de conformidade deve indicar que foi demonstrado o cumprimento dos requisitos essenciais de segurança especificados no anexo I.\n\n2. A declaração UE de conformidade deve respeitar o modelo que consta do anexo IV, conter os elementos especificados nos módulos aplicáveis que constam do anexo II e ser permanentemente atualizada. A referida declaração deve ser traduzida para a língua ou línguas exigidas pelo Estado-Membro no qual o recipiente é colocado ou disponibilizado no mercado.\n\n3. Caso um recipiente esteja sujeito a mais do que um ato da União que exija uma declaração UE de conformidade, deve ser elaborada uma única declaração UE de conformidade referente a todos esses atos da União. Essa declaração deve conter a identificação dos atos da União em causa, incluindo as respetivas referências de publicação.\n\n4. Ao elaborar a declaração UE de conformidade, o fabricante assume a responsabilidade pela conformidade do recipiente com os requisitos previstos na presente diretiva."
+  },
+  "74288f3060ca77a6": {
+   "fragment_id": "Artigo 15.º — Princípios gerais da marcação CE",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Princípios gerais da marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Princípios gerais da marcação CE\n\nA marcação CE está sujeita aos princípios gerais previstos no artigo 30.º do Regulamento (CE) n.º 765/2008."
+  },
+  "56c787a91783db94": {
+   "fragment_id": "Artigo 16.º — Regras e condições para a aposição da marcação CE e de inscrições",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Regras e condições para a aposição da marcação CE e de inscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras e condições para a aposição da marcação CE e de inscrições\n\n1. A marcação CE e as inscrições previstas no anexo III, ponto 1, devem ser apostas de modo visível, legível e indelével no recipiente ou na respetiva placa de identificação.\n\n2. A marcação CE deve ser aposta antes de o recipiente ser colocado no mercado.\n\n3. A marcação CE deve ser seguida do número de identificação do organismo notificado envolvido na fase de controlo da produção.\n\nO número de identificação do organismo notificado deve ser aposto pelo próprio organismo ou, de acordo com as suas instruções, pelo fabricante ou pelo seu mandatário.\n\n4. A marcação CE e o número de identificação do organismo notificado podem ser seguidos de outras indicações referentes a riscos ou a utilizações especiais.\n\n5. Os Estados-Membros devem basear-se nos mecanismos existentes para assegurar a correta aplicação do regime de marcação CE e devem tomar as medidas adequadas em caso de utilização indevida dessa marcação."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "0bf464dd9b000583": {
+   "fragment_id": "NOTIFICAÇÃO DOS ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "NOTIFICAÇÃO DOS ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOTIFICAÇÃO DOS ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE"
+  },
+  "303b67fa7823a393": {
+   "fragment_id": "Artigo 17.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Notificação\n\nOs Estados-Membros devem notificar a Comissão e os outros Estados-Membros dos organismos autorizados a executar atividades de avaliação da conformidade para terceiros ao abrigo da presente diretiva."
+  },
+  "1b19aa3d36217a6f": {
+   "fragment_id": "Artigo 18.º — Autoridades notificadoras",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Autoridades notificadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Autoridades notificadoras\n\n1. Os Estados-Membros devem designar uma autoridade notificadora responsável pelo estabelecimento e aplicação dos procedimentos necessários para a avaliação e notificação dos organismos de avaliação da conformidade e para o controlo dos organismos notificados, designadamente a observância do artigo 23.º.\n\n2. Os Estados-Membros podem decidir que a avaliação e o controlo referidos no n.º 1 sejam efetuados por um organismo de acreditação nacional, na aceção e nos termos do Regulamento (CE) n.º 765/2008.\n\n3. Sempre que a autoridade notificadora delegar ou, a outro título, atribuir as tarefas de avaliação, notificação ou controlo referidas no n.º 1 a um organismo que não seja público, esse organismo deve ser uma pessoa coletiva e cumprir, com as devidas adaptações, os requisitos previstos no artigo 19.º. Além disso, esse organismo deve dotar-se de capacidade para garantir a cobertura da responsabilidade civil decorrente das atividades que exerce.\n\n4. A autoridade notificadora assume a plena responsabilidade pelas tarefas executadas pelo organismo a que se refere o n.º 3."
+  },
+  "3b7b7c636952d115": {
+   "fragment_id": "Artigo 19.º — Requisitos aplicáveis às autoridades notificadoras",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Requisitos aplicáveis às autoridades notificadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requisitos aplicáveis às autoridades notificadoras\n\n1. As autoridades notificadoras devem ser constituídas de modo a evitar conflitos de interesses com os organismos de avaliação da conformidade.\n\n2. As autoridades notificadoras devem estar organizadas e funcionar de modo a garantir a objetividade e a imparcialidade das suas atividades.\n\n3. As autoridades notificadoras devem estar organizadas de modo a que as decisões relativas à notificação do organismo de avaliação da conformidade sejam tomadas por pessoas competentes diferentes das que realizaram a avaliação.\n\n4. As autoridades notificadoras não devem propor nem exercer atividades realizadas pelos organismos de avaliação da conformidade, nem serviços de consultoria com caráter comercial ou concorrencial.\n\n5. As autoridades notificadoras devem garantir a confidencialidade das informações obtidas.\n\n6. As autoridades notificadoras devem dispor de pessoal competente em número suficiente para o correto exercício das suas funções."
+  },
+  "c5a5b615ff6f07da": {
+   "fragment_id": "Artigo 20.º — Dever de informação das autoridades notificadoras",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Dever de informação das autoridades notificadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dever de informação das autoridades notificadoras\n\nOs Estados-Membros devem informar a Comissão dos seus procedimentos de avaliação e notificação dos organismos de avaliação da conformidade e de controlo dos organismos notificados, e de quaisquer alterações nessa matéria.\n\nA Comissão deve disponibilizar essas informações ao público."
+  },
+  "3deb2177446a712f": {
+   "fragment_id": "Artigo 21.º — Requisitos aplicáveis aos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Requisitos aplicáveis aos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requisitos aplicáveis aos organismos notificados\n\n1. Para efeitos de notificação, os organismos de avaliação da conformidade devem cumprir os requisitos previstos nos n.^os^ 2 a 11.\n\n2. Os organismos de avaliação da conformidade devem ser criados nos termos do direito nacional de um Estado-Membro e devem ser dotados de personalidade jurídica.\n\n3. Os organismos de avaliação da conformidade devem ser organismos terceiros independentes da organização ou do recipiente que avaliam.\n\nPode considerar-se que preenche esses requisitos qualquer organismo que pertença a uma organização empresarial ou a uma associação profissional representativa de empresas envolvidas em atividades de projeto, fabrico, fornecimento, montagem, utilização ou manutenção dos recipientes que avalia, desde que prove a respetiva independência e a inexistência de conflitos de interesses.\n\n4. Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem ser o projetista, o fabricante, o fornecedor, o instalador, o comprador, o proprietário, o utilizador ou o responsável pela manutenção dos recipientes a avaliar, nem o mandatário de qualquer dessas pessoas. Esta exigência não impede a utilização de recipientes avaliados necessários para as atividades do organismo de avaliação da conformidade, nem a utilização dos recipientes para fins pessoais.\n\nOs organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem intervir diretamente no projeto, no fabrico ou na construção, na comercialização, na instalação, na utilização ou na manutenção desses recipientes, nem ser mandatários das pessoas envolvidas nessas atividades. Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem exercer atividades suscetíveis de entrar em conflito com a independência da sua apreciação ou com a sua integridade no desempenho das atividades de avaliação da conformidade para as quais são notificados. Esta disposição aplica-se, nomeadamente, aos serviços de consultoria.\n\nOs organismos de avaliação da conformidade devem certificar-se de que as atividades das suas filiais ou dos seus subcontratados não afetam a confidencialidade, objetividade e imparcialidade das suas atividades de avaliação da conformidade.\n\n5. Os organismos de avaliação da conformidade e o seu pessoal devem executar as suas atividades de avaliação da conformidade com a maior integridade profissional e a maior competência técnica, e não podem estar sujeitos a pressões ou incentivos, nomeadamente de ordem financeira, suscetíveis de influenciar a sua apreciação ou os resultados das suas atividades de avaliação da conformidade, em especial por pessoas ou grupos de pessoas interessados nos resultados dessas atividades.\n\n6. Os organismos de avaliação da conformidade devem ter capacidade para executar todas as tarefas de avaliação da conformidade que lhes são atribuídas nos termos do anexo I, ponto 3.2, e do anexo II, relativamente às quais tenham sido notificados, quer as referidas tarefas sejam executadas por si próprios, quer em seu nome e sob a sua responsabilidade.\n\nPara cada procedimento de avaliação da conformidade e para cada tipo de recipientes para os quais tenham sido notificados, os organismos de avaliação da conformidade devem dispor sempre de:\n\na) pessoal com conhecimentos técnicos e experiência suficiente e adequada para desempenhar as tarefas de avaliação da conformidade;\n\nb) descrições dos procedimentos de avaliação da conformidade que assegurem a transparência e a capacidade de reprodução destes procedimentos. Devem dispor de uma política e de procedimentos apropriados para distinguir as funções que executam na qualidade de organismos notificados de outras atividades;\n\nc) procedimentos que permitam o exercício das suas atividades atendendo à dimensão, ao setor e à estrutura das empresas, ao grau de complexidade da tecnologia do produto em questão e à natureza do processo de produção em massa ou em série.\n\nOs organismos de avaliação da conformidade devem dispor dos meios necessários para a boa execução das tarefas técnicas e administrativas relacionadas com as atividades de avaliação da conformidade e devem ter acesso a todos os equipamentos e instalações necessários.\n\n7. O pessoal encarregado de executar as tarefas de avaliação da conformidade deve possuir:\n\na) uma sólida formação técnica e profissional, que abranja todas as atividades de avaliação da conformidade para as quais os organismos de avaliação da conformidade tenham sido notificados;\n\nb) um conhecimento satisfatório dos requisitos das avaliações que efetuam e a devida autoridade para as efetuar;\n\nc) um conhecimento e uma compreensão adequados dos requisitos essenciais de segurança constantes do anexo I, das normas harmonizadas aplicáveis e das disposições aplicáveis da legislação de harmonização da União e da legislação nacional;\n\nd) a aptidão necessária para redigir os certificados, registos e relatórios comprovativos de que as avaliações foram efetuadas.\n\n8. A imparcialidade dos organismos de avaliação da conformidade, dos seus quadros superiores e do pessoal encarregado de executar as tarefas de avaliação da conformidade deve ser assegurada.\n\nA remuneração dos seus quadros superiores e do seu pessoal encarregado de executar as tarefas de avaliação da conformidade não deve depender do número de avaliações realizadas nem do seu resultado.\n\n9. Os organismos de avaliação da conformidade devem fazer um seguro de responsabilidade civil, a não ser que essa responsabilidade seja coberta pelo Estado com base no direito nacional, ou que o próprio Estado-Membro seja diretamente responsável pelas avaliações da conformidade.\n\n10. O pessoal dos organismos de avaliação da conformidade está sujeito ao sigilo profissional no que se refere a todas as informações que obtiver no exercício das suas funções ao abrigo do anexo I, ponto 3.2, e do anexo II, ou de qualquer disposição de direito nacional que lhe dê aplicação, exceto em relação às autoridades competentes do Estado-Membro em que exerce as suas atividades. Os direitos de propriedade devem ser protegidos.\n\n11. Os organismos de avaliação da conformidade devem participar nas atividades de normalização relevantes e nas atividades do grupo de coordenação dos organismos notificados criado ao abrigo da legislação de harmonização da União aplicável, ou assegurar que o seu pessoal encarregado de executar as tarefas de avaliação da conformidade seja informado dessas atividades, e devem aplicar como orientações gerais as decisões e os documentos administrativos decorrentes dos trabalhos desse grupo."
+  },
+  "714b609acdc8796c": {
+   "fragment_id": "Artigo 22.º — Presunção da conformidade dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Presunção da conformidade dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Presunção da conformidade dos organismos notificados\n\nPresume-se que os organismos de avaliação da conformidade que provem a sua conformidade com os critérios estabelecidos nas normas harmonizadas aplicáveis ou em partes destas, cuja referência tenha sido publicada no *Jornal Oficial da União Europeia*, cumprem os requisitos previstos no artigo 21.º, na medida em que aquelas normas harmonizadas contemplem estes requisitos."
+  },
+  "a8fb65788e41f2cf": {
+   "fragment_id": "Artigo 23.º — Filiais e subcontratados dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Filiais e subcontratados dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Filiais e subcontratados dos organismos notificados\n\n1. Caso um organismo notificado subcontrate tarefas específicas relacionadas com a avaliação da conformidade ou recorra a uma filial, deve certificar-se de que o subcontratado ou a filial cumprem os requisitos previstos no artigo 21.º e informar a autoridade notificadora desse facto.\n\n2. O organismo notificado assume plena responsabilidade pelas tarefas executadas por subcontratados ou filiais, independentemente do local em que estes se encontrem estabelecidos.\n\n3. As atividades só podem ser executadas por um subcontratado ou por uma filial com o acordo do cliente.\n\n4. Os organismos notificados devem manter à disposição da autoridade notificadora os documentos relevantes no que diz respeito à avaliação das qualificações do subcontratado ou da filial, e do trabalho efetuado por estes ao abrigo do anexo I, ponto 3.2, e do anexo II."
+  },
+  "d0c0afc968642822": {
+   "fragment_id": "Artigo 24.º — Pedido de notificação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Pedido de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pedido de notificação\n\n1. Os organismos de avaliação da conformidade devem apresentar um pedido de notificação à autoridade notificadora do Estado-Membro onde se encontram estabelecidos.\n\n2. O pedido de notificação deve ser acompanhado de uma descrição das atividades de avaliação da conformidade, do módulo ou módulos de avaliação da conformidade e do recipiente ou recipientes em relação aos quais os organismos se consideram competentes, bem como de um certificado de acreditação, se existir, emitido por um organismo nacional de acreditação, que ateste que os organismos de avaliação da conformidade cumprem os requisitos estabelecidos no artigo 21.º.\n\n3. Caso os organismos de avaliação da conformidade não possam apresentar o certificado de acreditação, devem fornecer à autoridade notificadora todas as provas documentais necessárias para a verificação, reconhecimento e controlo periódico da sua conformidade com os requisitos previstos no artigo 21.º."
+  },
+  "14a1989d0d6bab53": {
+   "fragment_id": "Artigo 25.º — Procedimento de notificação",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Procedimento de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Procedimento de notificação\n\n1. As autoridades notificadoras só podem notificar os organismos de avaliação da conformidade que cumpram os requisitos previstos no artigo 21.º.\n\n2. As autoridades notificadoras notificam a Comissão e os outros Estados-Membros através do instrumento de notificação eletrónica criado e gerido pela Comissão.\n\n3. A notificação deve incluir dados pormenorizados das atividades de avaliação da conformidade, do módulo ou módulos de avaliação da conformidade e do recipiente ou recipientes em causa, bem como a certificação de competência relevante.\n\n4. Caso a notificação não se baseie no certificado de acreditação referido no artigo 24.º, n.º 2, a autoridade notificadora deve fornecer à Comissão e aos outros Estados-Membros provas documentais que atestem a competência técnica do organismo de avaliação da conformidade e as disposições introduzidas para assegurar que o organismo seja auditado periodicamente e continue a cumprir os requisitos previstos no artigo 21.º.\n\n5. O organismo em causa só pode efetuar as atividades de um organismo notificado se nem a Comissão nem os Estados-Membros tiverem levantado objeções nas duas semanas seguintes à notificação, sempre que seja utilizado um certificado de acreditação, ou nos dois meses seguintes à notificação, se a acreditação não for utilizada.\n\nApenas esse organismo pode ser considerado um organismo notificado para efeitos da presente diretiva.\n\n6. A autoridade notificadora notifica à Comissão e aos outros Estados-Membros todas as alterações relevantes subsequentemente introduzidas na notificação."
+  },
+  "0706b69595111d03": {
+   "fragment_id": "Artigo 26.º — Números de identificação e listas dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Números de identificação e listas dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Números de identificação e listas dos organismos notificados\n\n1. A Comissão deve atribuir um número de identificação a cada organismo notificado.\n\nA Comissão deve atribuir um número único, mesmo que o organismo esteja notificado ao abrigo de vários atos da União.\n\n2. A Comissão disponibiliza publicamente a lista dos organismos notificados ao abrigo da presente diretiva, incluindo os números de identificação que lhes foram atribuídos e as atividades para as quais tiverem sido notificados.\n\nA Comissão deve assegurar a atualização da lista."
+  },
+  "831861d1bee81718": {
+   "fragment_id": "Artigo 27.º — Alteração da notificação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Alteração da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Alteração da notificação\n\n1. Caso a autoridade notificadora verifique ou seja informada de que um organismo notificado deixou de cumprir os requisitos previstos no artigo 21.º, ou de que não cumpre os seus deveres, deve restringir, suspender ou retirar a notificação, consoante o caso, em função da gravidade do incumprimento em causa, e informar imediatamente desse facto a Comissão e os restantes Estados-Membros.\n\n2. Em caso de restrição, suspensão ou retirada de uma notificação, ou caso o organismo notificado tenha cessado a sua atividade, o Estado-Membro notificador deve tomar as medidas necessárias para que os processos desse organismo sejam tratados por outro organismo notificado ou mantidos à disposição das autoridades notificadoras e das autoridades de fiscalização do mercado competentes, a pedido destas."
+  },
+  "1d61adac2e428680": {
+   "fragment_id": "Artigo 28.º — Contestação da competência técnica dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Contestação da competência técnica dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contestação da competência técnica dos organismos notificados\n\n1. A Comissão deve investigar todos os casos em relação aos quais tenha dúvidas ou lhe tenham sido comunicadas dúvidas quanto à competência técnica de um organismo notificado, ou quanto ao cumprimento continuado por um organismo notificado dos requisitos exigidos e das responsabilidades que lhe foram cometidas.\n\n2. O Estado-Membro notificador deve fornecer à Comissão, a pedido, todas as informações relacionadas com o fundamento da notificação ou com a manutenção da competência técnica do organismo notificado em causa.\n\n3. A Comissão deve assegurar que todas as informações sensíveis obtidas no decurso das suas investigações sejam tratadas de forma confidencial.\n\n4. Caso a Comissão verifique que um organismo notificado não cumpre ou deixou de cumprir os requisitos para a sua notificação, adota um ato de execução solicitando ao Estado-Membro notificador que tome as medidas corretivas necessárias, incluindo, se necessário, a retirada da notificação.\n\nO referido ato de execução é adotado pelo procedimento consultivo a que se refere o artigo 39.º, n.º 2."
+  },
+  "389e9a581f7d261d": {
+   "fragment_id": "Artigo 29.º — Deveres funcionais dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Deveres funcionais dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Deveres funcionais dos organismos notificados\n\n1. Os organismos notificados devem efetuar as avaliações da conformidade segundo os procedimentos de avaliação da conformidade previstos no anexo II.\n\n2. As avaliações da conformidade devem ser efetuadas de modo proporcionado, evitando encargos desnecessários para os operadores económicos.\n\nOs organismos de avaliação da conformidade devem exercer as suas atividades tendo devidamente em conta a dimensão das empresas, o setor em que exercem as suas atividades, a sua estrutura, o grau de complexidade da tecnologia dos recipientes e a natureza, em massa ou em série, do processo de produção.\n\nAo fazê-lo, os referidos organismos devem, contudo, respeitar o grau de rigor e o nível de proteção exigidos para que o recipiente cumpra o disposto na presente diretiva.\n\n3. Caso um organismo notificado verifique que os requisitos essenciais de segurança previstos no anexo I, nas correspondentes normas harmonizadas ou noutras especificações técnicas não foram respeitados por um fabricante, deve exigir que esse fabricante tome as medidas corretivas adequadas, e não deve emitir o certificado de conformidade.\n\n4. Caso, durante uma avaliação da conformidade efetuada na sequência da emissão de um certificado, o organismo notificado verifique que o recipiente deixou de estar conforme, deve exigir que o fabricante tome as medidas corretivas adequadas e, se necessário, suspende ou retira o certificado.\n\n5. Caso não sejam tomadas medidas corretivas, ou caso essas medidas não tenham o efeito desejado, o organismo notificado restringe, suspende ou retira o certificado, consoante o caso."
+  },
+  "c6c1e03cc30309ae": {
+   "fragment_id": "Artigo 30.º — Procedimento de recurso das decisões do organismo notificado",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Procedimento de recurso das decisões do organismo notificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Procedimento de recurso das decisões do organismo notificado\n\nOs Estados-Membros asseguram a existência de procedimentos de recurso das decisões dos organismos notificados."
+  },
+  "c9ea07f6be29a5fc": {
+   "fragment_id": "Artigo 31.º — Obrigação de informação dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Obrigação de informação dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Obrigação de informação dos organismos notificados\n\n1. Os organismos notificados devem comunicar à autoridade notificadora as seguintes informações:\n\na) as recusas, restrições, suspensões ou retiradas de certificados;\n\nb) as circunstâncias que afetem o âmbito ou as condições de notificação;\n\nc) os pedidos de informação sobre as atividades de avaliação da conformidade efetuadas que tenham recebido das autoridades de fiscalização do mercado;\n\nd) a pedido, as atividades de avaliação da conformidade que efetuaram no âmbito da respetiva notificação e todas as outras atividades efetuadas, nomeadamente atividades transfronteiriças e de subcontratação.\n\n2. Os organismos notificados devem disponibilizar aos outros organismos notificados ao abrigo da presente diretiva que efetuem atividades de avaliação da conformidade semelhantes, que abranjam recipientes idênticos, informações relevantes sobre questões relativas aos resultados negativos da avaliação da conformidade e, a pedido, aos resultados positivos."
+  },
+  "5d092decf79f7ddd": {
+   "fragment_id": "Artigo 32.º — Troca de experiências",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Troca de experiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Troca de experiências\n\nA Comissão deve organizar a troca de experiências entre as autoridades nacionais dos Estados-Membros responsáveis pela política de notificação."
+  },
+  "6a2655547c06e638": {
+   "fragment_id": "Artigo 33.º — Coordenação dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Coordenação dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Coordenação dos organismos notificados\n\nA Comissão deve assegurar a realização e o bom funcionamento de atividades de coordenação e cooperação entre os organismos notificados ao abrigo da presente diretiva, no âmbito de um ou vários grupos setoriais de organismos notificados.\n\nOs Estados-Membros devem assegurar que os organismos por si notificados participem, diretamente ou através de representantes designados, nos trabalhos desses grupos."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "1fb9240394cc0e10": {
+   "fragment_id": "FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DOS RECIPIENTES QUE ENTRAM NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO",
+   "type": "divisao",
+   "heading": "FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DOS RECIPIENTES QUE ENTRAM NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DOS RECIPIENTES QUE ENTRAM NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO"
+  },
+  "2720ccb8b7e01bc8": {
+   "fragment_id": "Artigo 34.º — Fiscalização do mercado da União e controlo dos recipientes que entram no mercado da União",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Fiscalização do mercado da União e controlo dos recipientes que entram no mercado da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Fiscalização do mercado da União e controlo dos recipientes que entram no mercado da União\n\nO artigo 15.º, n.º 3, e os artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008 aplicam-se aos recipientes abrangidos pelo artigo 1.º da presente diretiva."
+  },
+  "e0eedc72a66f1f5d": {
+   "fragment_id": "Artigo 35.º — Procedimento aplicável aos recipientes que apresentam um risco a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Procedimento aplicável aos recipientes que apresentam um risco a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Procedimento aplicável aos recipientes que apresentam um risco a nível nacional\n\n1. Caso as autoridades de fiscalização do mercado de um Estado-Membro tenham motivos suficientes para crer que um recipiente abrangido pela presente diretiva apresenta riscos para a saúde ou a segurança das pessoas, ou para animais domésticos ou bens, devem efetuar uma avaliação do recipiente em causa que abranja todos os requisitos pertinentes previstos na presente diretiva. Os operadores económicos envolvidos devem cooperar, na medida do necessário, com as autoridades de fiscalização do mercado para esse efeito.\n\nCaso, durante a avaliação referida no primeiro parágrafo, as autoridades de fiscalização do mercado verifiquem que o recipiente não cumpre os requisitos da presente diretiva, devem exigir imediatamente que o operador económico em causa tome todas as medidas corretivas adequadas para o pôr em conformidade com esses requisitos, para o retirar do mercado ou para o recolher num prazo razoável por si fixado, proporcionado em relação à natureza dos riscos.\n\nAs autoridades de fiscalização do mercado devem informar desse facto o organismo notificado em causa.\n\nO artigo 21.º do Regulamento (CE) n.º 765/2008 aplica-se às medidas referidas no segundo parágrafo do presente número.\n\n2. Caso as autoridades de fiscalização do mercado considerem que a não conformidade não se limita ao território nacional, devem comunicar à Comissão e aos outros Estados-Membros os resultados da avaliação e as medidas que exigiram que o operador económico tomasse.\n\n3. O operador económico deve assegurar a aplicação de todas as medidas corretivas adequadas relativamente aos recipientes em causa por si disponibilizados no mercado da União.\n\n4. Caso o operador económico em causa não tome as medidas corretivas adequadas no prazo referido no n.º 1, segundo parágrafo, as autoridades de fiscalização do mercado devem tomar todas as medidas provisórias adequadas para proibir ou restringir a disponibilização dos recipientes nos seus mercados nacionais, para os retirar do mercado ou para os recolher.\n\nAs autoridades de fiscalização do mercado devem informar imediatamente a Comissão e os demais Estados-Membros das medidas tomadas.\n\n5. As informações referidas no n.º 4, segundo parágrafo, devem conter todos os pormenores disponíveis, nomeadamente os dados necessários para identificar o recipiente não conforme, a sua origem, a natureza da alegada não conformidade e do risco conexo, a natureza e a duração das medidas nacionais tomadas e os argumentos expostos pelo operador económico em causa. As autoridades de fiscalização do mercado devem indicar, nomeadamente, se a não conformidade se deve a uma das seguintes razões:\n\na) não conformidade do recipiente com os requisitos ligados à saúde e à segurança das pessoas, ou à proteção de animais domésticos ou de bens; ou\n\nb) deficiências das normas harmonizadas referidas no artigo 12.º que conferem a presunção de conformidade.\n\n6. Os Estados-Membros, com exceção do Estado-Membro que desencadeou o procedimento ao abrigo do presente artigo, devem informar imediatamente a Comissão e os outros Estados-Membros das medidas adotadas, dos dados complementares de que disponham relativamente à não conformidade do recipiente em causa e, em caso de desacordo com a medida nacional tomada, das suas objeções.\n\n7. Se, no prazo de três meses a contar da receção das informações referidas no n.º 4, segundo parágrafo, nem os Estados-Membros nem a Comissão tiverem levantado objeções a uma medida provisória tomada por um Estado-Membro, considera-se que essa medida é justificada.\n\n8. Os Estados-Membros devem assegurar a aplicação imediata de medidas restritivas adequadas, como a retirada do mercado, em relação ao recipiente em causa."
+  },
+  "334e484cea5b93e3": {
+   "fragment_id": "Artigo 36.º — Procedimento de salvaguarda da União",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Procedimento de salvaguarda da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Procedimento de salvaguarda da União\n\n1. Caso, no termo do procedimento previsto no artigo 35.º, n.^os^ 3 e 4, sejam levantadas objeções à medida tomada por um Estado-Membro, ou caso a Comissão considere que essa medida é contrária à legislação da União, a Comissão deve iniciar imediatamente consultas com os Estados-Membros e com os operadores económicos em causa e avaliar a medida nacional. Com base nos resultados dessa avaliação, a Comissão adota um ato de execução que determina se a medida nacional se justifica ou não.\n\nA Comissão dirige a sua decisão aos Estados-Membros e comunica-a imediatamente aos mesmos e aos operadores económicos em causa.\n\n2. Se a medida nacional for considerada justificada, os Estados-Membros tomam as medidas necessárias para assegurar que o recipiente não conforme seja retirado dos seus mercados nacionais e informam desse facto a Comissão. Se a medida nacional for considerada injustificada, o Estado-Membro em causa deve revogá-la.\n\n3. Se a medida nacional for considerada justificada e a não conformidade do recipiente for atribuída a deficiências das normas harmonizadas referidas no artigo 35.º, n.º 5, alínea b), da presente diretiva, a Comissão aplica o procedimento previsto no artigo 11.º do Regulamento (UE) n.º 1025/2012."
+  },
+  "081d0d8fe0cf8d56": {
+   "fragment_id": "Artigo 37.º — Recipientes conformes que apresentam riscos",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Recipientes conformes que apresentam riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Recipientes conformes que apresentam riscos\n\n1. Caso, após ter efetuado a avaliação prevista no artigo 35.º, n.º 1, um Estado-Membro verifique que, embora conforme com a presente diretiva, um recipiente apresenta um risco para a saúde ou a segurança das pessoas, para os animais domésticos ou para os bens, deve exigir que o operador económico em causa tome todas as medidas corretivas adequadas para garantir que o recipiente em causa, uma vez colocado no mercado, já não apresente esse risco, para o retirar do mercado ou para o recolher num prazo razoável por si fixado, proporcionado em relação à natureza do risco.\n\n2. O operador económico deve assegurar que sejam tomadas todas as medidas corretivas necessárias relativamente aos recipientes em causa por si disponibilizados no mercado da União.\n\n3. O Estado-Membro deve informar imediatamente desse facto a Comissão e os outros Estados-Membros. Essas informações devem conter todos os pormenores disponíveis, nomeadamente os dados necessários para identificar o recipiente em causa, a origem e o circuito comercial do recipiente, a natureza do risco conexo e a natureza e duração das medidas nacionais tomadas.\n\n4. A Comissão deve iniciar imediatamente consultas com os Estados-Membros e com os operadores económicos relevantes e proceder à avaliação das medidas nacionais tomadas. Com base nos resultados dessa avaliação, a Comissão decide, por meio de atos de execução, se as medidas nacionais se justificam ou não e, se necessário, propõe as medidas adequadas.\n\nOs atos de execução referidos no primeiro parágrafo do presente número são adotados pelo procedimento de exame a que se refere o artigo 39.º, n.º 3.\n\nCaso imperativos de urgência relativos à proteção da saúde e da segurança das pessoas, dos animais domésticos ou dos bens o justifiquem, a Comissão adota atos de execução imediatamente aplicáveis pelo procedimento a que se refere o artigo 39.º, n.º 4.\n\n5. A Comissão dirige a sua decisão aos Estados-Membros e comunica-a imediatamente aos mesmos e aos operadores económicos em causa."
+  },
+  "e54756c313675a1c": {
+   "fragment_id": "Artigo 38.º — Não conformidade formal",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Não conformidade formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Não conformidade formal\n\n1. Sem prejuízo do artigo 35.º, caso um Estado-Membro constate um dos factos a seguir enunciados, deve exigir que o operador económico em causa ponha termo à não conformidade verificada:\n\na) a marcação CE foi aposta em violação do artigo 30.º do Regulamento (CE) n.º 765/2008 ou do artigo 16.º da presente diretiva;\n\nb) a marcação CE não foi aposta;\n\nc) o número de identificação do organismo notificado envolvido na fase de controlo da produção foi aposto em violação do artigo 16.º ou não foi aposto;\n\nd) as inscrições previstas no anexo III, ponto 1, não foram apostas ou foram apostas em violação do artigo 16.º ou do anexo III, ponto 1;\n\ne) a declaração UE de conformidade não foi elaborada;\n\nf) a declaração UE de conformidade não foi corretamente elaborada;\n\ng) a documentação técnica não está disponível ou não está completa;\n\nh) as informações referidas no artigo 6.º, n.º 6, ou no artigo 8.º, n.º 3, estão ausentes ou são falsas ou incompletas;\n\ni) não foram respeitados outros requisitos administrativos previstos no artigo 6.º ou no artigo 8.º.\n\n2. Caso a não conformidade referida no n.º 1 persista, o Estado-Membro em causa deve tomar as medidas adequadas para restringir ou proibir a disponibilização no mercado do recipiente ou para garantir que o mesmo seja recolhido ou retirado do mercado."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "08eea57f04a169e2": {
+   "fragment_id": "COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "9a6a214fae8a339e": {
+   "fragment_id": "Artigo 39.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité dos Recipientes sob Pressão Simples. Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\n3. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\n4. Caso se faça referência ao presente número, aplica-se o artigo 8.º do Regulamento (UE) n.º 182/2011, em conjugação com o artigo 5.º do mesmo regulamento.\n\n5. O comité é consultado pela Comissão sobre todas as questões para as quais a consulta de peritos setoriais é obrigatória por força do Regulamento (UE) n.º 1025/2012 ou de outra legislação da União.\n\nAlém disso, o comité pode examinar qualquer outra questão relativa à aplicação da presente diretiva suscitada pelo seu presidente ou por representantes dos Estados-Membros nos termos do seu regulamento interno."
+  },
+  "aa072da1b65ff826": {
+   "fragment_id": "Artigo 40.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Sanções\n\nOs Estados-Membros devem estabelecer regras sobre as sanções aplicáveis às infrações cometidas pelos operadores económicos ao disposto no direito nacional aprovado em execução da presente diretiva e tomar as medidas necessárias para assegurar a sua execução. Essas regras podem incluir sanções penais para infrações graves.\n\nEssas sanções previstas devem ser efetivas, proporcionadas e dissuasivas."
+  },
+  "077da3d7ec7043d7": {
+   "fragment_id": "Artigo 41.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Disposições transitórias\n\nOs Estados-Membros não podem impedir a disponibilização no mercado e/ou a colocação em serviço de recipientes abrangidos pela Diretiva 2009/105/CE que estejam em conformidade com essa diretiva e que tenham sido colocados no mercado antes de 20 de abril de 2016.\n\nOs certificados emitidos por organismos de controlo aprovados ao abrigo da Diretiva 2009/105/CE são válidos ao abrigo da presente diretiva."
+  },
+  "42164cca82de6db7": {
+   "fragment_id": "Artigo 42.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Transposição\n\n1. Os Estados-Membros adotam e publicam até 19 de abril de 2016 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao artigo 2.º, aos artigos 6.º a 41.º e aos anexos II e IV. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 20 de abril de 2016.\n\nQuando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. Essas disposições incluem igualmente uma menção de que as referências feitas nas disposições legislativas, regulamentares e administrativas em vigor à diretiva revogada pela presente diretiva se consideram como sendo feitas à presente diretiva. As modalidades dessa referência e desta menção são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que tiverem aprovado nas matérias reguladas pela presente diretiva."
+  },
+  "0b33f10e70f8470e": {
+   "fragment_id": "Artigo 43.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Revogação\n\nA Diretiva 2009/105/CE, com as alterações que lhe foram introduzidas pelo regulamento constante do anexo V, parte A, é revogada com efeitos a partir de 20 de abril de 2016, sem prejuízo das obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e às datas de aplicação das diretivas, indicados no anexo V, parte B.\n\nAs referências à diretiva revogada devem entender-se como sendo feitas à presente diretiva e devem ser lidas de acordo com a tabela de correspondência constante do anexo VI."
+  },
+  "baa2dc3031f10a0b": {
+   "fragment_id": "Artigo 44.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor e aplicação\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nOs artigos 1.º, 3.º, 4.º e 5.º e os anexos I e III são aplicáveis a partir de 20 de abril de 2016."
+  },
+  "48de145fd543a451": {
+   "fragment_id": "Artigo 45.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Estrasburgo, em 26 de fevereiro de 2014.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. KOURKOULAS**\n\n---"
+  },
+  "4312048d939050cd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2014096PT.01004501-E0001) [JO C 27 de 3.2.2009, p. 41](http://publications.europa.eu/resource/oj/JOC_2009_027_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2014096PT.01004501-E0002) Posição do Parlamento Europeu de 5 de fevereiro de 2014 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 20 de fevereiro de 2014.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2014096PT.01004501-E0003) [JO L 264 de 8.10.2009, p. 12](http://publications.europa.eu/resource/oj/JOL_2009_264_R_TOC). A Diretiva 2009/105/CE é a codificação da Diretiva 87/404/CEE do Conselho, de 25 de junho de 1987, relativa à aproximação das legislações dos Estados-Membros respeitantes aos recipientes sob pressão simples ([OJ L 220 de 8.8.1987, p. 48](http://publications.europa.eu/resource/oj/JOL_1987_220_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2014096PT.01004501-E0004) Ver anexo V, parte A.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2014096PT.01004501-E0005) [JO L 218 de 13.8.2008, p. 30](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2014096PT.01004501-E0006) [JO L 218 de 13.8.2008, p. 82](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc7-L_2014096PT.01004501-E0007) [JO L 316 de 14.11.2012, p. 12](http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019.03/DOC_1#ntc8-L_2014096PT.01004501-E0008) [JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)."
+  },
+  "668a63cf784365bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de fevereiro de 2014\n\nrelativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização de recipientes sob pressão simples no mercado\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "1ecc1e3553921ef0": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1.\n\nA presente diretiva aplica-se a recipientes simples sob pressão («recipientes») fabricados em série e com as seguintes características:\n\na) os recipientes são de construção soldada, destinam-se a ser submetidos a uma pressão interior superior a 0,5 bar e a conter ar ou nitrogénio, e não se destinam a ser submetidos a uma chama;\n\nb) as partes e as juntas que participam na resistência do recipiente sob pressão são fabricadas quer em aço de qualidade não ligado quer em alumínio não ligado quer em liga de alumínio não autotemperante;\n\nc) os recipientes são constituídos, em alternativa, pelos seguintes elementos:\n\ni) uma parte cilíndrica de secção transversal circular, fechada por fundos copados com a face côncava voltada para o interior ou por fundos planos com o mesmo eixo de revolução que a parte cilíndrica;\n\nii) dois fundos copados com o mesmo eixo de revolução;\n\nd) a pressão máxima de serviço do recipiente não excede 30 bar e o produto desta pressão pela capacidade do recipiente (PS × V) não excede 10 000 bar.L;\n\ne) a temperatura mínima de serviço não é inferior a - 50 °C e a temperatura máxima de serviço não excede 300 °C para os recipientes de aço ou 100 °C para os recipientes de alumínio ou de liga de alumínio.\n\n2.\n\nA presente diretiva não se aplica a:\n\na) recipientes concebidos especificamente para utilização nuclear, cuja avaria possa causar emissão de radioatividade;\n\nb) recipientes destinados especificamente ao equipamento ou à propulsão de barcos e aeronaves;\n\nc) extintores de incêndio."
+  },
+  "84c7aef527fa6ec2": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente diretiva, entende-se por:\n\n1) «Disponibilização no mercado», a oferta de recipientes para distribuição ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;\n\n2) «Colocação no mercado», a primeira disponibilização de um recipiente no mercado da União;\n\n3) «Fabricante», uma pessoa singular ou coletiva que fabrica ou manda conceber ou fabricar recipientes e que os comercializa com o seu nome ou a sua marca comercial;\n\n4) «Mandatário», a pessoa singular ou coletiva estabelecida na União, mandatada por escrito pelo fabricante para praticar determinados atos em seu nome;\n\n5) «Importador», uma pessoa singular ou coletiva estabelecida na União que coloca recipientes provenientes de países terceiros no mercado da União;\n\n6) «Distribuidor», a pessoa singular ou coletiva que faz parte da cadeia de distribuição, com exceção do fabricante ou do importador, e que disponibiliza recipientes no mercado;\n\n7) «Operadores económicos», o fabricante, o mandatário, o importador e o distribuidor;\n\n8) «Especificação técnica», um documento que define os requisitos técnicos que os recipientes devem cumprir;\n\n9) «Norma harmonizada», uma norma harmonizada na aceção do artigo 2.º, ponto 1, alínea c), do Regulamento (UE) n.º 1025/2012;\n\n10) «Acreditação», acreditação na aceção do artigo 2.º, ponto 10, do Regulamento (CE) n.º 765/2008;\n\n11) «Organismo nacional de acreditação», um organismo nacional de acreditação na aceção do artigo 2.º, ponto 11, do Regulamento (CE) n.º 765/2008;\n\n12) «Avaliação da conformidade», o processo de verificação através do qual se demonstra se estão cumpridos os requisitos essenciais de segurança previstos na presente diretiva relativos a um recipiente;\n\n13) «Organismo de avaliação da conformidade», um organismo que efetua atividades de avaliação da conformidade, nomeadamente calibração, ensaio, certificação e inspeção;\n\n14) «Recolha», uma medida destinada a obter o retorno de um recipiente já disponibilizado ao utilizador final;\n\n15) «Retirada», uma medida destinada a impedir a disponibilização no mercado de um recipiente presente na cadeia de distribuição;\n\n16) «Legislação de harmonização da União», legislação da União destinada a harmonizar as condições de comercialização dos produtos;\n\n17) «Marcação CE», a marcação através da qual o fabricante indica que um recipiente cumpre os requisitos aplicáveis estabelecidos na legislação de harmonização da União que prevê a sua aposição;\n\n18) «Bens relevantes em situação de crise», os bens relevantes em situação de crise na aceção do artigo 3.º, ponto 6, do Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0001));\n\n19) «Modo de emergência do mercado interno», o modo de emergência do mercado interno na aceção do artigo 3.º, ponto 3, do Regulamento (UE) 2024/2747."
+  },
+  "9af0fb14f590e621": {
+   "fragment_id": "Artigo 7.º — Mandatários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Mandatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mandatários\n\n1. Os fabricantes podem designar por escrito um mandatário.\n\nOs deveres previstos no artigo 6.º, n.º 1, e o dever de elaborar documentação técnica referido no artigo 6.º, n.º 2, não fazem parte do mandato.\n\n2.\n\nO mandatário deve praticar os atos definidos no mandato conferido pelo fabricante. O mandato deve permitir ao mandatário, no mínimo:\n\na) manter à disposição das autoridades nacionais de fiscalização do mercado a declaração UE de conformidade e a documentação técnica pelo prazo de 10 anos a contar da data de colocação do recipiente no mercado;\n\nb) mediante pedido fundamentado da autoridade nacional competente, facultar-lhe toda a informação e a documentação necessárias para demonstrar a conformidade do recipiente;\n\nc) cooperar com a autoridade nacional competente, a pedido desta, no que se refere a qualquer ação para eliminar os riscos decorrentes de recipientes abrangidos pelo seu mandato."
+  },
+  "e40cb7643c09b1f5": {
+   "fragment_id": "Artigo 13.º — Procedimentos de avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimentos de avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimentos de avaliação da conformidade\n\n1.\n\nAntes do seu fabrico, os recipientes cujo produto de PS × V exceda 50 bar.L devem ser submetidos ao exame UE de tipo (módulo B) estabelecido no anexo II, ponto 1, da seguinte forma:\n\na) no que respeita aos recipientes fabricados em conformidade com as normas harmonizadas referidas no artigo 12.º, através de um dos seguintes métodos, à escolha do fabricante:\n\ni) avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de prova, sem exame de um exemplar (módulo B — tipo de projeto);\n\nii) avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de suporte, e exame de um protótipo, representativo da produção prevista, do recipiente completo (módulo B – tipo de produção);\n\nb) no que respeita aos recipientes fabricados sem respeitar as normas harmonizadas referidas no artigo 12.º, ou que as respeitem apenas parcialmente, o fabricante deve apresentar para exame um protótipo, representativo da produção prevista, do recipiente completo, bem como a documentação técnica e os elementos de prova para análise e avaliação da adequação do projeto técnico do recipiente (módulo B — tipo de produção).\n\n2.\n\nAntes da sua colocação no mercado, os recipientes devem ser submetidos aos seguintes procedimentos:\n\na) caso o produto PS × V exceda 3 000 bar.L, ao procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2;\n\nb) caso o produto PS × V não exceda 3 000 bar.L e exceda 200 bar.L, a um dos seguintes procedimentos, à escolha do fabricante:\n\ni) procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2;\n\nii) procedimento de conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (módulo C2) estabelecido no anexo II, ponto 3;\n\nc) caso o produto PS × V não exceda 200 bar.L e exceda 50 bar.L, a um dos seguintes procedimentos, à escolha do fabricante:\n\ni) procedimento de conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (módulo C1) estabelecido no anexo II, ponto 2;\n\nii) procedimento de conformidade com o tipo baseada no controlo interno da produção (módulo C) estabelecido no anexo II, ponto 4;\n\n3. A documentação e a correspondência relativas aos procedimentos de avaliação de conformidade referidos nos n.^os^ 1 e 2 devem ser redigidas numa língua oficial do Estado-Membro em que o organismo notificado estiver estabelecido, ou numa língua por ele aceite."
+  },
+  "8061b4366254a65c": {
+   "fragment_id": "Artigo 21.º — Requisitos aplicáveis aos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Requisitos aplicáveis aos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requisitos aplicáveis aos organismos notificados\n\n1. Para efeitos de notificação, os organismos de avaliação da conformidade devem cumprir os requisitos previstos nos n.^os^ 2 a 11.\n\n2. Os organismos de avaliação da conformidade devem ser criados nos termos do direito nacional de um Estado-Membro e devem ser dotados de personalidade jurídica.\n\n3. Os organismos de avaliação da conformidade devem ser organismos terceiros independentes da organização ou do recipiente que avaliam.\n\nPode considerar-se que preenche esses requisitos qualquer organismo que pertença a uma organização empresarial ou a uma associação profissional representativa de empresas envolvidas em atividades de projeto, fabrico, fornecimento, montagem, utilização ou manutenção dos recipientes que avalia, desde que prove a respetiva independência e a inexistência de conflitos de interesses.\n\n4. Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem ser o projetista, o fabricante, o fornecedor, o instalador, o comprador, o proprietário, o utilizador ou o responsável pela manutenção dos recipientes a avaliar, nem o mandatário de qualquer dessas pessoas. Esta exigência não impede a utilização de recipientes avaliados necessários para as atividades do organismo de avaliação da conformidade, nem a utilização dos recipientes para fins pessoais.\n\nOs organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem intervir diretamente no projeto, no fabrico ou na construção, na comercialização, na instalação, na utilização ou na manutenção desses recipientes, nem ser mandatários das pessoas envolvidas nessas atividades. Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem exercer atividades suscetíveis de entrar em conflito com a independência da sua apreciação ou com a sua integridade no desempenho das atividades de avaliação da conformidade para as quais são notificados. Esta disposição aplica-se, nomeadamente, aos serviços de consultoria.\n\nOs organismos de avaliação da conformidade devem certificar-se de que as atividades das suas filiais ou dos seus subcontratados não afetam a confidencialidade, objetividade e imparcialidade das suas atividades de avaliação da conformidade.\n\n5. Os organismos de avaliação da conformidade e o seu pessoal devem executar as suas atividades de avaliação da conformidade com a maior integridade profissional e a maior competência técnica, e não podem estar sujeitos a pressões ou incentivos, nomeadamente de ordem financeira, suscetíveis de influenciar a sua apreciação ou os resultados das suas atividades de avaliação da conformidade, em especial por pessoas ou grupos de pessoas interessados nos resultados dessas atividades.\n\n6. Os organismos de avaliação da conformidade devem ter capacidade para executar todas as tarefas de avaliação da conformidade que lhes são atribuídas nos termos do anexo I, ponto 3.2, e do anexo II, relativamente às quais tenham sido notificados, quer as referidas tarefas sejam executadas por si próprios, quer em seu nome e sob a sua responsabilidade.\n\nPara cada procedimento de avaliação da conformidade e para cada tipo de recipientes para os quais tenham sido notificados, os organismos de avaliação da conformidade devem dispor sempre de:\n\na) pessoal com conhecimentos técnicos e experiência suficiente e adequada para desempenhar as tarefas de avaliação da conformidade;\n\nb) descrições dos procedimentos de avaliação da conformidade que assegurem a transparência e a capacidade de reprodução destes procedimentos. Devem dispor de uma política e de procedimentos apropriados para distinguir as funções que executam na qualidade de organismos notificados de outras atividades;\n\nc) procedimentos que permitam o exercício das suas atividades atendendo à dimensão, ao setor e à estrutura das empresas, ao grau de complexidade da tecnologia do produto em questão e à natureza do processo de produção em massa ou em série.\n\nOs organismos de avaliação da conformidade devem dispor dos meios necessários para a boa execução das tarefas técnicas e administrativas relacionadas com as atividades de avaliação da conformidade e devem ter acesso a todos os equipamentos e instalações necessários.\n\n7.\n\nO pessoal encarregado de executar as tarefas de avaliação da conformidade deve possuir:\n\na) uma sólida formação técnica e profissional, que abranja todas as atividades de avaliação da conformidade para as quais os organismos de avaliação da conformidade tenham sido notificados;\n\nb) um conhecimento satisfatório dos requisitos das avaliações que efetuam e a devida autoridade para as efetuar;\n\nc) um conhecimento e uma compreensão adequados dos requisitos essenciais de segurança constantes do anexo I, das normas harmonizadas aplicáveis e das disposições aplicáveis da legislação de harmonização da União e da legislação nacional;\n\nd) a aptidão necessária para redigir os certificados, registos e relatórios comprovativos de que as avaliações foram efetuadas.\n\n8. A imparcialidade dos organismos de avaliação da conformidade, dos seus quadros superiores e do pessoal encarregado de executar as tarefas de avaliação da conformidade deve ser assegurada.\n\nA remuneração dos seus quadros superiores e do seu pessoal encarregado de executar as tarefas de avaliação da conformidade não deve depender do número de avaliações realizadas nem do seu resultado.\n\n9. Os organismos de avaliação da conformidade devem fazer um seguro de responsabilidade civil, a não ser que essa responsabilidade seja coberta pelo Estado com base no direito nacional, ou que o próprio Estado-Membro seja diretamente responsável pelas avaliações da conformidade.\n\n10. O pessoal dos organismos de avaliação da conformidade está sujeito ao sigilo profissional no que se refere a todas as informações que obtiver no exercício das suas funções ao abrigo do anexo I, ponto 3.2, e do anexo II, ou de qualquer disposição de direito nacional que lhe dê aplicação, exceto em relação às autoridades competentes do Estado-Membro em que exerce as suas atividades. Os direitos de propriedade devem ser protegidos.\n\n11. Os organismos de avaliação da conformidade devem participar nas atividades de normalização relevantes e nas atividades do grupo de coordenação dos organismos notificados criado ao abrigo da legislação de harmonização da União aplicável, ou assegurar que o seu pessoal encarregado de executar as tarefas de avaliação da conformidade seja informado dessas atividades, e devem aplicar como orientações gerais as decisões e os documentos administrativos decorrentes dos trabalhos desse grupo."
+  },
+  "7803b9aeb2d3027d": {
+   "fragment_id": "Artigo 31.º — Obrigação de informação dos organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Obrigação de informação dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Obrigação de informação dos organismos notificados\n\n1.\n\nOs organismos notificados devem comunicar à autoridade notificadora as seguintes informações:\n\na) as recusas, restrições, suspensões ou retiradas de certificados;\n\nb) as circunstâncias que afetem o âmbito ou as condições de notificação;\n\nc) os pedidos de informação sobre as atividades de avaliação da conformidade efetuadas que tenham recebido das autoridades de fiscalização do mercado;\n\nd) a pedido, as atividades de avaliação da conformidade que efetuaram no âmbito da respetiva notificação e todas as outras atividades efetuadas, nomeadamente atividades transfronteiriças e de subcontratação.\n\n2. Os organismos notificados devem disponibilizar aos outros organismos notificados ao abrigo da presente diretiva que efetuem atividades de avaliação da conformidade semelhantes, que abranjam recipientes idênticos, informações relevantes sobre questões relativas aos resultados negativos da avaliação da conformidade e, a pedido, aos resultados positivos."
+  },
+  "236c4be45b290504": {
+   "fragment_id": "Artigo 35.º — Procedimento aplicável aos recipientes que apresentam um risco a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Procedimento aplicável aos recipientes que apresentam um risco a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Procedimento aplicável aos recipientes que apresentam um risco a nível nacional\n\n1. Caso as autoridades de fiscalização do mercado de um Estado-Membro tenham motivos suficientes para crer que um recipiente abrangido pela presente diretiva apresenta riscos para a saúde ou a segurança das pessoas, ou para animais domésticos ou bens, devem efetuar uma avaliação do recipiente em causa que abranja todos os requisitos pertinentes previstos na presente diretiva. Os operadores económicos envolvidos devem cooperar, na medida do necessário, com as autoridades de fiscalização do mercado para esse efeito.\n\nCaso, durante a avaliação referida no primeiro parágrafo, as autoridades de fiscalização do mercado verifiquem que o recipiente não cumpre os requisitos da presente diretiva, devem exigir imediatamente que o operador económico em causa tome todas as medidas corretivas adequadas para o pôr em conformidade com esses requisitos, para o retirar do mercado ou para o recolher num prazo razoável por si fixado, proporcionado em relação à natureza dos riscos.\n\nAs autoridades de fiscalização do mercado devem informar desse facto o organismo notificado em causa.\n\nO artigo 21.º do Regulamento (CE) n.º 765/2008 aplica-se às medidas referidas no segundo parágrafo do presente número.\n\n2. Caso as autoridades de fiscalização do mercado considerem que a não conformidade não se limita ao território nacional, devem comunicar à Comissão e aos outros Estados-Membros os resultados da avaliação e as medidas que exigiram que o operador económico tomasse.\n\n3. O operador económico deve assegurar a aplicação de todas as medidas corretivas adequadas relativamente aos recipientes em causa por si disponibilizados no mercado da União.\n\n4. Caso o operador económico em causa não tome as medidas corretivas adequadas no prazo referido no n.º 1, segundo parágrafo, as autoridades de fiscalização do mercado devem tomar todas as medidas provisórias adequadas para proibir ou restringir a disponibilização dos recipientes nos seus mercados nacionais, para os retirar do mercado ou para os recolher.\n\nAs autoridades de fiscalização do mercado devem informar imediatamente a Comissão e os demais Estados-Membros das medidas tomadas.\n\n5.\n\nAs informações referidas no n.º 4, segundo parágrafo, devem conter todos os pormenores disponíveis, nomeadamente os dados necessários para identificar o recipiente não conforme, a sua origem, a natureza da alegada não conformidade e do risco conexo, a natureza e a duração das medidas nacionais tomadas e os argumentos expostos pelo operador económico em causa. As autoridades de fiscalização do mercado devem indicar, nomeadamente, se a não conformidade se deve a uma das seguintes razões:\n\na) não conformidade do recipiente com os requisitos ligados à saúde e à segurança das pessoas, ou à proteção de animais domésticos ou de bens; ou\n\nb) deficiências das normas harmonizadas referidas no artigo 12.º que conferem a presunção de conformidade.\n\n6. Os Estados-Membros, com exceção do Estado-Membro que desencadeou o procedimento ao abrigo do presente artigo, devem informar imediatamente a Comissão e os outros Estados-Membros das medidas adotadas, dos dados complementares de que disponham relativamente à não conformidade do recipiente em causa e, em caso de desacordo com a medida nacional tomada, das suas objeções.\n\n7. Se, no prazo de três meses a contar da receção das informações referidas no n.º 4, segundo parágrafo, nem os Estados-Membros nem a Comissão tiverem levantado objeções a uma medida provisória tomada por um Estado-Membro, considera-se que essa medida é justificada.\n\n8. Os Estados-Membros devem assegurar a aplicação imediata de medidas restritivas adequadas, como a retirada do mercado, em relação ao recipiente em causa."
+  },
+  "483f2eafc1bfda63": {
+   "fragment_id": "Artigo 38.º — Não conformidade formal",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Não conformidade formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Não conformidade formal\n\n1.\n\nSem prejuízo do artigo 35.º, caso um Estado-Membro constate um dos factos a seguir enunciados, deve exigir que o operador económico em causa ponha termo à não conformidade verificada:\n\na) a marcação CE foi aposta em violação do artigo 30.º do Regulamento (CE) n.º 765/2008 ou do artigo 16.º da presente diretiva;\n\nb) a marcação CE não foi aposta;\n\nc) o número de identificação do organismo notificado envolvido na fase de controlo da produção foi aposto em violação do artigo 16.º ou não foi aposto;\n\nd) as inscrições previstas no anexo III, ponto 1, não foram apostas ou foram apostas em violação do artigo 16.º ou do anexo III, ponto 1;\n\ne) a declaração UE de conformidade não foi elaborada;\n\nf) a declaração UE de conformidade não foi corretamente elaborada;\n\ng) a documentação técnica não está disponível ou não está completa;\n\nh) as informações referidas no artigo 6.º, n.º 6, ou no artigo 8.º, n.º 3, estão ausentes ou são falsas ou incompletas;\n\ni) não foram respeitados outros requisitos administrativos previstos no artigo 6.º ou no artigo 8.º.\n\n2. Caso a não conformidade referida no n.º 1 persista, o Estado-Membro em causa deve tomar as medidas adequadas para restringir ou proibir a disponibilização no mercado do recipiente ou para garantir que o mesmo seja recolhido ou retirado do mercado."
+  },
+  "9780d4dc9d737d88": {
+   "fragment_id": "CAPÍTULO 5-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5-A"
+  },
+  "5e062bf41c5998ec": {
+   "fragment_id": "PROCEDIMENTOS DE EMERGÊNCIA",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS DE EMERGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS DE EMERGÊNCIA"
+  },
+  "1e961f5c9511d7aa": {
+   "fragment_id": "Artigo 38.º-A — Aplicação de procedimentos de emergência",
+   "type": "artigo",
+   "heading": "Artigo 38.º-A — Aplicação de procedimentos de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-A — Aplicação de procedimentos de emergência\n\n1. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 38.º-B a 38.º-E da presente diretiva são aplicáveis apenas se a Comissão tiver adotado um ato de execução nos termos do artigo 28.º do Regulamento (UE) 2024/2747 no que diz respeito aos recipientes abrangidos pela presente diretiva.\n\n2. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 38.º-B a 38.º-E são aplicáveis apenas aos recipientes que tenham sido designados como bens relevantes em situação de crise nos termos do artigo 18.º, n.º 4, do Regulamento (UE) 2024/2747.\n\n3. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 38.º-B a 38.º-E da presente diretiva são aplicáveis apenas durante o modo de emergência do mercado interno que tenha sido ativado em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747.\n\nContudo, o artigo 38.º-C, n.º 7, é aplicável durante o modo de emergência do mercado interno e após a sua caducidade ou desativação.\n\n4. A Comissão pode adotar atos de execução relativos às medidas corretivas ou restritivas a tomar, aos procedimentos a seguir e aos requisitos específicos de rotulagem e rastreabilidade relativamente a recipientes colocados no mercado em conformidade com os artigos 38.º-C e 38.º-D. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 39.º, n.º 3."
+  },
+  "85cc7fa1916a1862": {
+   "fragment_id": "Artigo 38.º-B — Prioridade da avaliação da conformidade de recipientes designados como bens relevantes em situação de crise",
+   "type": "artigo",
+   "heading": "Artigo 38.º-B — Prioridade da avaliação da conformidade de recipientes designados como bens relevantes em situação de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-B — Prioridade da avaliação da conformidade de recipientes designados como bens relevantes em situação de crise\n\n1. O presente artigo aplica-se aos recipientes elencados no ato de execução a que se refere o artigo 38.º-A, n.º 1, que estão sujeitos a procedimentos de avaliação da conformidade referido no artigo 13.º que exigem o envolvimento obrigatório de um organismo notificado.\n\n2. Os organismos notificados envidam todos os esforços para proceder à tramitação com caráter prioritário de todos os pedidos de avaliação da conformidade de recipientes a que se refere o n.º 1 do presente artigo, independentemente de esses pedidos terem sido apresentados antes ou depois da ativação dos procedimentos de emergência nos termos do artigo 38.º-A.\n\n3. A atribuição de prioridade aos pedidos de avaliação da conformidade de recipientes nos termos do n.º 2 não deve resultar em custos adicionais desproporcionais para os fabricantes que apresentaram esses pedidos.\n\n4. Os organismos notificados envidam esforços razoáveis para aumentar as suas capacidades de ensaio dos recipientes a que se refere o n.º 1 relativamente aos quais foram notificados."
+  },
+  "5317317cd0eec191": {
+   "fragment_id": "Artigo 38.º-C — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório de um organismo notificado",
+   "type": "artigo",
+   "heading": "Artigo 38.º-C — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório de um organismo notificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-C — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório de um organismo notificado\n\n1. Em derrogação do disposto no artigo 13.º, um Estado-Membro pode autorizar, mediante pedido devidamente justificado de um operador económico, a colocação no mercado, no território desse Estado-Membro, de um recipiente específico, elencado no ato de execução a que se refere o artigo 38.º-A, n.º 1, e relativamente ao qual os procedimentos de avaliação da conformidade a que se refere o artigo 13.º que exigem o envolvimento obrigatório de um organismo notificado não tenham sido realizados, mas em relação ao qual foi demonstrada, no respeito dos procedimentos referidos nessa autorização, a conformidade com todos os requisitos essenciais de segurança aplicáveis da presente diretiva.\n\n2. O Estado-Membro notifica imediatamente a Comissão e os outros Estados-Membros das autorizações concedidas em conformidade com o n.º 1 do presente artigo. Desde que os requisitos estabelecidos na autorização garantam a conformidade com os requisitos essenciais de segurança aplicáveis da presente diretiva, a Comissão adota, sem demora, um ato de execução que alargue a todo o território da União a validade da autorização concedida por um Estado-Membro nos termos do n.º 1 do presente artigo e estabelece as condições em que o recipiente específico pode ser colocado no mercado. Ao elaborar o projeto de ato de execução, a Comissão pode solicitar às autoridades nacionais de fiscalização do mercado que prestem informações ou formulem observações pertinentes sobre a avaliação técnica que serviu de base à autorização a que se refere o n.º 1 do presente artigo. O ato de execução é adotado pelo procedimento de exame a que se refere o artigo 39.º, n.º 3.\n\nO recipiente ao qual se aplique a validade alargada a que se refere o primeiro parágrafo deve ostentar a informação de que é colocado no mercado como «bem relevante em situação de crise». O ato de execução a que se refere o primeiro parágrafo especifica o teor e a apresentação dessa informação. A referida informação, bem como toda e qualquer rotulagem, deve ser clara, compreensível e inteligível e, se for caso disso, redigida numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais, de acordo com o que o Estado-Membro em causa determinar.\n\n3. Por imperativos de urgência devidamente justificados relativos à necessidade de preservar a saúde e a segurança das pessoas, a Comissão adota atos de execução imediatamente aplicáveis pelo procedimento a que se refere o artigo 39.º, n.º 4.\n\n4. Enquanto não tiver sido adotado um ato de execução referido no n.º 2 ou no n.º 3, a autorização concedida por uma autoridade nacional competente num Estado-Membro só é válida no território desse Estado-Membro e no território dos outros Estados-Membros cujas autoridades nacionais competentes tenham reconhecido a validade dessa autorização antes da adoção de um tal ato de execução. Os Estados-Membros informam a Comissão e os demais Estados-Membros de qualquer decisão de reconhecer a validade dessa autorização.\n\n5. Os fabricantes de recipientes sujeitos ao procedimento de autorização a que se refere o n.º 1 declaram, sob a sua exclusiva responsabilidade, que os recipientes em causa cumprem todos os requisitos essenciais de segurança aplicáveis da presente diretiva e são responsáveis pelo cumprimento de todos os procedimentos de avaliação da conformidade indicados pela autoridade nacional competente.\n\n6.\n\nQualquer autorização emitida nos termos do n.º 1 deve definir as condições e os requisitos ao abrigo dos quais o recipiente pode ser colocado no mercado. Essas autorizações devem estabelecer, pelo menos, o seguinte:\n\na) Uma descrição dos procedimentos através dos quais a conformidade com os requisitos essenciais de segurança aplicáveis da presente diretiva foi demonstrada com êxito;\n\nb) Quaisquer requisitos específicos respeitantes à rastreabilidade do recipiente em causa;\n\nc) O prazo de validade da autorização, que não pode exceder o último dia do período para o qual o modo de emergência do mercado interno foi ativado em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747;\n\nd) Quaisquer requisitos específicos relativos à necessidade de garantir uma avaliação da conformidade contínua no que diz respeito ao recipiente em causa;\n\ne) Medidas a serem adotadas após a caducidade ou desativação do modo de emergência do mercado interno no que diz respeito ao recipiente em causa que tenha sido colocado no mercado.\n\n7. Em derrogação do disposto nos artigos 5.º, 15.º e 16.º, os recipientes relativamente aos quais tenha sido concedida uma autorização em conformidade com o n.º 1 do presente artigo não podem ostentar a marcação CE e as inscrições previstas no ponto 1 do anexo III e no artigo 5.º não lhes são aplicáveis.\n\n8. As autoridades de fiscalização do mercado de um Estado-Membro em que uma autorização nos termos dos n.^os^ 1, 2 e 4 do presente artigo seja válida ficam habilitadas a tomar, em relação a esses recipientes, todas as medidas corretivas e restritivas a nível nacional previstas no Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0002)) e na presente diretiva. Estas autoridades devem informar imediatamente a Comissão e as autoridades de fiscalização do mercado de todos os outros Estados-Membros dessas medidas.\n\n9. A utilização do procedimento de autorização estabelecido nos n.^os^ 1 a 4 do presente artigo não afeta a aplicação, no território do Estado-Membro em causa, dos procedimentos de avaliação da conformidade relevantes estabelecidos no artigo 13.º."
+  },
+  "f44145acc783a802": {
+   "fragment_id": "Artigo 38.º-D — Presunção de conformidade baseada em normas e especificações comuns",
+   "type": "artigo",
+   "heading": "Artigo 38.º-D — Presunção de conformidade baseada em normas e especificações comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-D — Presunção de conformidade baseada em normas e especificações comuns\n\n1.\n\nNos casos em que os recipientes tenham sido designados como bens relevantes em situação de crise, a Comissão fica habilitada a adotar atos de execução que elenquem normas adequadas ou estabeleçam especificações comuns para esses recipientes, a fim de abranger os requisitos essenciais de segurança da presente diretiva, em qualquer um dos seguintes casos:\n\na) Sempre que não se encontre publicada no *Jornal Oficial da União Europeia* uma referência a normas harmonizadas que abranjam os requisitos essenciais de segurança da presente diretiva, em conformidade com o Regulamento (UE) n.º 1025/2012, e não esteja prevista a publicação de tal referência dentro de um prazo razoável; ou\n\nb) Sempre que perturbações graves no funcionamento do mercado interno, que conduziram à ativação do modo de emergência do mercado interno em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747, restrinjam significativamente as possibilidades de os fabricantes fazerem uso das normas harmonizadas que abrangem os requisitos essenciais de segurança da presente diretiva, e cujas referências já foram publicadas no *Jornal Oficial da União Europeia* em conformidade com o Regulamento (UE) n.º 1025/2012.\n\n2. Os atos de execução a que se refere o n.º 1 devem estabelecer a solução técnica alternativa mais adequada para conferir a presunção de conformidade nos termos do n.º 5. Para o efeito, as referências das normas europeias ou as referências das normas nacionais ou internacionais aplicáveis pertinentes podem ser publicadas nesses atos de execução ou, caso não exista uma norma europeia ou uma norma nacional ou internacional aplicável pertinente, podem ser estabelecidas especificações comuns por esses atos de execução.\n\n3. Os atos de execução a que se refere o n.º 1 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 39.º, n.º 3, e são aplicáveis até ao último dia do período durante o qual o modo de emergência do mercado interno estiver ativo, salvo se os referidos atos de execução forem alterados ou revogados em conformidade com o n.º 7 do presente artigo.\n\n4. Antes de elaborar o projeto de ato de execução a que se refere o n.º 1 do presente artigo, a Comissão informa o comité a que se refere o artigo 22.º do Regulamento (UE) n.º 1025/2012 de que considera terem sido preenchidas as condições previstas no n.º 1 do presente artigo. Ao elaborar esse projeto de ato de execução, a Comissão tem em conta as opiniões dos organismos pertinentes ou dos grupos de peritos criados ao abrigo da presente diretiva e consulta devidamente todas as partes interessadas pertinentes.\n\n5. Sem prejuízo do disposto no artigo 12.º, presume-se que os recipientes que estejam em conformidade com as normas ou especificações comuns a que se refere o n.º 1 do presente artigo, ou partes destas, estão conformes com os requisitos essenciais de segurança da presente diretiva que são abrangidos por essas normas e especificações comuns ou por partes destas. A partir do dia seguinte à caducidade ou desativação do modo de emergência do mercado interno, os fabricantes deixam de poder basear-se na presunção de conformidade conferida pelas normas ou especificações comuns referidas nos atos de execução a que se refere o n.º 1 do presente artigo.\n\n6. Em derrogação do disposto no artigo 38.º-A, n.º 3, primeiro parágrafo, a menos que exista razão suficiente para crer que os recipientes abrangidos pelas normas ou especificações comuns a que se refere o n.º 1 do presente artigo representam um risco para a saúde ou a segurança das pessoas, os recipientes que estejam em conformidade com essas normas ou especificações comuns e que tenham sido colocados no mercado são considerados conformes com os requisitos essenciais de segurança da presente diretiva, após a caducidade ou revogação de um ato de execução adotado nos termos do n.º 3 do presente artigo e após a caducidade ou desativação do modo de emergência do mercado interno.\n\n7. Quando um Estado-Membro considere que uma norma ou especificação comum a que se refere o n.º 1 não satisfaz plenamente os requisitos essenciais de segurança da presente diretiva, informa a Comissão desse facto, apresentando uma explicação detalhada. A Comissão avalia essa explicação detalhada e pode, se for caso disso, alterar ou revogar o ato de execução que elenca a norma ou estabelece a especificação comum em causa."
+  },
+  "4ce8aa8e5245fb30": {
+   "fragment_id": "Artigo 38.º-E — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades",
+   "type": "artigo",
+   "heading": "Artigo 38.º-E — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-E — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades\n\n1. Os Estados-Membros dão prioridade a atividades de fiscalização do mercado relativas a recipientes elencados no ato de execução a que se refere o artigo 38.º-A, n.º 1, da presente diretiva. A Comissão facilita a coordenação destes esforços de atribuição de prioridade através da rede da União para a conformidade dos produtos, criada ao abrigo do artigo 29.º do Regulamento (UE) 2019/1020.\n\n2. As autoridades de fiscalização do mercado dos Estados-Membros asseguram que são envidados os melhores esforços para prestar assistência a outras autoridades de fiscalização do mercado interno durante o modo de emergência do mercado interno, nomeadamente através da mobilização e do envio de equipas de peritos para reforçar temporariamente o pessoal das autoridades de fiscalização do mercado que solicitam assistência ou prestando apoio logístico como o reforço da capacidade de ensaio de recipientes elencados no ato de execução a que se refere o artigo 38.º-A, n.º 1."
+  },
+  "7b40ef8bc241a092": {
+   "fragment_id": "Artigo 45.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "817a03ef330f744c": {
+   "fragment_id": "REQUISITOS ESSENCIAIS DE SEGURANÇA",
+   "type": "divisao",
+   "heading": "REQUISITOS ESSENCIAIS DE SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS ESSENCIAIS DE SEGURANÇA"
+  },
+  "b3358aa28f59317d": {
+   "fragment_id": "1. Materiais",
+   "type": "divisao",
+   "heading": "1. Materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Materiais\n\nOs materiais devem ser selecionados de acordo com a utilização prevista para os recipientes e em conformidade com os pontos 1.1 a 1.4.\n\nOs materiais utilizados para o fabrico das partes dos recipientes submetidas a pressão devem ser:\n\na) soldáveis;\n\nb) dúcteis e tenazes para que, em caso de rutura à temperatura mínima de serviço, aquela não provoque fragmentação nem rutura frágil;\n\nc) insensíveis ao envelhecimento.\n\nQuanto aos recipientes de aço, os materiais devem também satisfazer os requisitos estabelecidos no ponto 1.1.1, e quanto aos recipientes de alumínio ou ligas de alumínio, os estabelecidos no ponto 1.1.2.\n\nOs materiais devem ser acompanhados por um relatório de controlo, tal como definido no ponto 3.1, alínea i), do Anexo III, elaborado pelo produtor dos materiais.\n\nOs aços de qualidade não ligados devem satisfazer os seguintes requisitos:\n\na) devem ser não efervescentes e fornecidos após tratamento de normalização ou num estado equivalente;\n\nb) o teor de carbono deve ser inferior a 0,25 % e os teores de enxofre e fósforo devem ser inferiores a 0,05 % para cada um destes elementos;\n\nc) devem ter as seguintes características mecânicas:\n\ni) o valor máximo da resistência à tração Rm max deve ser inferior a 580 N/mm^2^;\n\nii) o alongamento após rutura deverá ser:\n\n| espessura ≥ 3 mm: | A | ≥ 22 %, |\n| --- | --- | --- |\n| espessura < 3 mm: | A80 mm | ≥ 17 %, |\n\n| espessura ≥ 3 mm: | A | ≥ 20 %, |\n| --- | --- | --- |\n| espessura < 3 mm: | A80 mm | ≥ 15 %, |\n\niii) o valor médio da resiliência KCV determinado sobre três provetes longitudinais não deve ser inferior a 35 J/cm^2^ à temperatura mínima de serviço. Apenas um dos três valores pode ser inferior a 35 J/cm^2^, mas nunca inferior a 25 J/cm^2^. A verificação desta característica é exigida aos aços destinados ao fabrico de recipientes cuja temperatura mínima de serviço seja inferior a -10 °C e cuja espessura das paredes exceda 5 mm.\n\nO alumínio não ligado deve ter um teor de alumínio pelo menos igual a 99,5 %, e as ligas a que se refere o artigo 1.º, n.º 1, alínea b), devem oferecer uma resistência adequada à corrosão intercristalina à temperatura máxima de serviço.\n\nPara além disso, estes materiais devem satisfazer os seguintes requisitos:\n\na) ser fornecidos no estado recozido;\n\nb) ter as seguintes características mecânicas:\n\n— o valor máximo da resistência à tração Rm max não deverá exceder 350 N/mm^2^,\n\n— o alongamento após rutura deverá ser:\n\n— a ≥ 16 % em provetes paralelos à direção de laminagem,\n\n— a ≥ 14 % em provetes perpendiculares à direção de laminagem.\n\nOs materiais de soldadura utilizados na execução de soldaduras no fabrico do recipiente devem ser adequados e compatíveis com os materiais a soldar.\n\nEstes acessórios (por exemplo, parafusos e porcas) devem ser fabricados quer num material especificado no ponto 1.1, quer noutros tipos de aço, alumínio ou ligas de alumínio apropriadas e compatíveis com os materiais utilizados no fabrico das partes sujeitas a pressão.\n\nEstes últimos materiais devem ter, à temperatura mínima de serviço, um alongamento após rutura e uma resiliência adequados.\n\nOs materiais das partes não sujeitas a pressão dos recipientes devem ser compatíveis com os elementos aos quais estão ligados por soldadura."
+  },
+  "19510cda2f002755": {
+   "fragment_id": "2. Conceção dos recipientes",
+   "type": "divisao",
+   "heading": "2. Conceção dos recipientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Conceção dos recipientes\n\na) ao conceber os recipientes o fabricante deve definir o respetiva domínio de utilização, escolhendo:\n\ni) a temperatura mínima de serviço Tmin;\n\nii) a temperatura máxima de serviço Tmax;\n\niii) a pressão máxima de serviço PS.\n\nb) o fabricante deve ter igualmente em conta as seguintes disposições:\n\ni) deve ser possível inspecionar o interior dos recipientes,\n\nii) deve ser possível purgar os recipientes,\n\niii) as características mecânicas devem manter-se durante todo o período de utilização do recipiente para os fins a que se destina,\n\niv) os recipientes devem estar adequadamente protegidos contra a corrosão, tendo em conta a utilização prevista;\n\nc) o fabricante deve atender a que, nas condições de utilização previstas:\n\ni) os recipientes não devem ser sujeitos a esforços suscetíveis de prejudicar a segurança da sua utilização;\n\nii) a pressão interior não deve exceder a pressão máxima de serviço PS de forma permanente. Pode, contudo, haver sobrepressões momentâneas até um limite máximo de 10 %;\n\nd) As juntas circulares e longitudinais devem ser realizadas com soldaduras de penetração total ou de eficácia equivalente. Os fundos copados que não sejam hemisféricos devem ter um bordo cilíndrico.\n\nSe o produto PS × V não for superior a 3 000 bar.L, o fabricante deve escolher um dos métodos descritos em 2.1.1 e 2.1.2 para determinar a espessura das paredes no recipiente; se o produto PS × V for superior a 3 000 bar.L ou se a temperatura máxima de serviço exceder 100 °C, a espessura de paredes deve ser determinada pelo método descrito em 2.1.1.\n\nA espessura efetiva das paredes da virola e dos fundos não deve, contudo, ser inferior a 2 mm no caso dos recipientes de aço e a 3 mm no caso dos recipientes de alumínio ou de liga de alumínio.\n\nA espessura mínima das partes submetidas a pressão deve ser calculada em função da intensidade das tensões e das disposições seguintes:\n\na) a pressão de cálculo a ter em conta não deve ser inferior à pressão máxima de serviço PS escolhida;\n\nb) a tensão geral de membrana admissível não deve ser superior ao mais baixo dos valores 0,6 ReT ou 0,3 Rm. Para determinar o valor da tensão admissível, o fabricante deve utilizar os valores de ReT e Rm mínimos garantidos pelo produtor do material.\n\nContudo, quando a parte cilíndrica do recipiente contiver uma ou várias soldaduras longitudinais efetuadas por um processo de soldadura não automática, a espessura, calculada de acordo com as regras indicadas no primeiro parágrafo, deve ser multiplicada pelo coeficiente 1,15.\n\nA espessura das paredes deve ser determinada de tal modo que os recipientes possam, à temperatura ambiente, resistir a uma pressão igual a pelo menos cinco vezes a pressão máxima de serviço, com uma deformação circunferencial permanente inferior ou igual a 1 %."
+  },
+  "2a0101972b5ced6a": {
+   "fragment_id": "3. Processos de fabrico",
+   "type": "divisao",
+   "heading": "3. Processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Processos de fabrico\n\nOs recipientes devem ser fabricados e sujeitos a controlos de produção de acordo com o anexo II, pontos 2, 3 ou 4.\n\nA preparação dos componentes (por exemplo, a enformação e a chanfragem) não deve provocar defeitos superficiais, fissuras ou qualquer alteração das características mecânicas suscetíveis de prejudicar a segurança na utilização dos recipientes.\n\nAs características dos cordões de soldadura e das zonas adjacentes devem ser idênticas às dos materiais sujeitos a soldadura, e não devem ter defeitos superficiais ou internos suscetíveis de prejudicar a segurança na utilização dos recipientes.\n\nAs soldaduras devem ser executadas por soldadores ou operadores qualificados com um nível de aptidão apropriado e de acordo com processos de soldadura aprovados. Essas aprovações e qualificações devem ser concedidas por organismos notificados.\n\nO fabricante deve igualmente assegurar uma qualidade consistente das soldaduras através de ensaios apropriados efetuados durante o fabrico, com recurso a procedimentos adequados. Estes ensaios devem ser objeto de um relatório."
+  },
+  "4045426893255e60": {
+   "fragment_id": "4. Colocação dos recipientes em serviço",
+   "type": "divisao",
+   "heading": "4. Colocação dos recipientes em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Colocação dos recipientes em serviço\n\nOs recipientes devem ser acompanhados das instruções elaboradas pelo fabricante, tal como referido no anexo III, ponto 2."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "bad566cd14ea8187": {
+   "fragment_id": "PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE"
+  },
+  "41845c3806dbf63c": {
+   "fragment_id": "1. Exame ue de tipo (Módulo B)",
+   "type": "divisao",
+   "heading": "1. Exame ue de tipo (Módulo B)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Exame ue de tipo (Módulo B)\n\n1.1. O exame UE de tipo é a parte do procedimento de avaliação da conformidade mediante a qual um organismo notificado examina o projeto técnico de um recipiente e verifica e atesta que este cumpre os requisitos da presente diretiva que lhe são aplicáveis.\n\n1.2. O exame UE de tipo é efetuado de acordo com uma das seguintes modalidades nos termos do artigo 13.º:\n\n— avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de suporte referidos no ponto 1.3, e exame de um protótipo, representativo da produção prevista, do recipiente completo (tipo de produção),\n\n— avaliação da adequação do projeto técnico do recipiente mediante análise da documentação técnica e dos elementos de suporte referidos no ponto 1.3, sem exame de um protótipo do recipiente (tipo de projeto).\n\n1.3. O fabricante deve apresentar o pedido de exame UE de tipo a um único organismo notificado da sua escolha.\n\na) o nome e o endereço do fabricante e, se apresentado pelo mandatário, igualmente o nome e o endereço deste último;\n\nb) uma declaração escrita que indique que não foi apresentado nenhum pedido idêntico a outro organismo notificado;\n\nc) a documentação técnica. A documentação técnica deve permitir a avaliação da conformidade do recipiente com os requisitos aplicáveis da presente diretiva e incluir uma análise e uma avaliação adequadas dos riscos.\n\ni) uma descrição geral do recipiente;\n\nii) os desenhos de projeto e de fabrico e esquemas de componentes, etc.;\n\niii) as descrições e explicações necessárias para a compreensão dos referidos desenhos e esquemas e do funcionamento do recipiente;\n\niv) uma lista das normas harmonizadas, aplicadas total ou parcialmente, cujas referências foram publicadas no *Jornal Oficial da União Europeia*, e, caso essas normas harmonizadas não tenham sido aplicadas, descrições das soluções adotadas para cumprir os requisitos essenciais de segurança da presente diretiva, incluindo uma lista de outras especificações técnicas pertinentes aplicadas. No caso de terem sido parcialmente aplicadas normas harmonizadas, a documentação técnica deve especificar as partes que foram aplicadas;\n\nv) os resultados dos cálculos de projeto, dos exames efetuados, etc.;\n\nvi) os relatórios de ensaio;\n\nvii) as instruções e informações de segurança referidas no anexo III, ponto 2,\n\nviii) uma memória descritiva que especifique:\n\n— os materiais utilizados,\n\n— os processos de soldadura utilizados,\n\n— os controlos efetuados,\n\n— todas as informações pertinentes relacionadas com o projeto do recipiente;\n\nd) se for caso disso, os protótipos de recipientes representativos da produção prevista. O organismo notificado pode exigir exemplares suplementares, se o programa de ensaios assim o indicar;\n\ne) os elementos de suporte relativos à adequação da solução de projeto técnico. Estes elementos de suporte devem mencionar todos os documentos que tenham sido utilizados, designadamente nos casos em que as normas harmonizadas aplicáveis não tenham sido aplicadas na íntegra. Devem incluir, se necessário, os resultados dos ensaios realizados em conformidade com outras especificações técnicas pertinentes pelo laboratório competente do fabricante ou por outro laboratório de ensaios em nome e sob a responsabilidade do fabricante.\n\n— os certificados relativos à qualificação apropriada do processo de soldadura e dos soldadores ou operadores de soldadura,\n\n— o relatório de controlo dos materiais utilizados para o fabrico das partes e componentes que contribuem para a resistência do recipiente,\n\n— relatórios dos exames e ensaios efetuados, ou uma descrição dos controlos previstos.\n\n1.4. O organismo notificado deve:\n\n1.4.1. Analisar a documentação técnica e os elementos de suporte que permitem avaliar a adequação do projeto técnico do recipiente;\n\n1.4.2. Verificar se o ou os protótipos do recipiente foram fabricados em conformidade com a documentação técnica, se podem ser utilizados em segurança nas condições de serviço previstas e identificar os elementos que tenham sido projetados em conformidade com as disposições aplicáveis das normas harmonizadas aplicáveis, assim como os elementos cuja conceção está em conformidade com outras especificações técnicas pertinentes;\n\n1.4.3. Efetuar ou mandar efetuar os controlos e ensaios adequados para verificar se, nos casos em que o fabricante optou por aplicar as soluções constantes das normas harmonizadas relevantes, estas foram aplicadas corretamente;\n\n1.4.4. Realizar ou mandar realizar os controlos e ensaios adequados para verificar se, caso as soluções constantes das normas harmonizadas pertinentes não tenham sido aplicadas, as soluções adotadas pelo fabricante que aplique outras especificações técnicas pertinentes cumprem os requisitos essenciais de segurança correspondentes da presente diretiva;\n\n1.4.5. Acordar com o fabricante um local para a execução dos controlos e ensaios.\n\n1.5. O organismo notificado deve elaborar um relatório de avaliação que indique as atividades desenvolvidas de acordo com o ponto 1.4 e os respetivos resultados. Sem prejuízo dos seus deveres para com as autoridades notificadoras, o organismo notificado apenas divulga, na totalidade ou em parte, o conteúdo desse relatório com o acordo do fabricante.\n\n1.6. Se o tipo cumprir os requisitos da presente diretiva, o organismo notificado deve emitir um certificado de exame UE de tipo e remetê-lo ao fabricante. Esse certificado deve conter o nome e o endereço do fabricante, as conclusões do controlo, as condições, se as houver, da sua validade e os dados necessários à identificação do tipo aprovado. O certificado de exame UE de tipo pode ser acompanhado de um ou mais anexos.\n\n1.7. O organismo notificado deve manter-se a par das alterações do estado da técnica geralmente reconhecido que indiquem que o tipo aprovado possa ter deixado de cumprir os requisitos aplicáveis da presente diretiva, e determinar se tais alterações requerem exames complementares. Em caso afirmativo, o organismo notificado deve informar o fabricante desse facto.\n\n1.8. Cada organismo notificado deve informar a respetiva autoridade notificadora dos certificados de exame UE de tipo e/ou de quaisquer aditamentos aos mesmos que tenha emitido ou retirado, e, periodicamente ou a pedido, disponibilizar a essa autoridade a lista desses certificados e/ou de quaisquer aditamentos aos mesmos que tenha recusado, suspendido ou submetido a quaisquer outras restrições.\n\n1.9. O fabricante deve manter à disposição das autoridades nacionais uma cópia do certificado de exame UE de tipo e dos respetivos anexos e aditamentos, assim como da documentação técnica, por um período de 10 anos a contar da data de colocação do recipiente no mercado.\n\n1.10. O mandatário pode apresentar o pedido referido no ponto 1.3 e cumprir todos os deveres previstos nos pontos 1.7 e 1.9, desde que se encontrem especificados no mandato."
+  },
+  "702e09d502b337dc": {
+   "fragment_id": "2. Conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (Módulo C1)",
+   "type": "divisao",
+   "heading": "2. Conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (Módulo C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (Módulo C1)\n\n2.1. A conformidade com o tipo baseada no controlo interno da produção e o ensaio supervisionado do recipiente é a parte do procedimento de avaliação da conformidade mediante a qual o fabricante cumpre os deveres estabelecidos nos pontos 2.2, 2.3 e 2.4 e garante e declara, sob a sua exclusiva responsabilidade, que os recipientes em causa estão em conformidade com o tipo definido no certificado de exame UE de tipo e satisfazem os requisitos da presente diretiva que lhes são aplicáveis.\n\n2.2. *Fabrico* O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade dos recipientes fabricados com o tipo descrito no certificado de exame UE de tipo e com os requisitos da presente diretiva que lhes são aplicáveis. Antes de dar início ao fabrico, o fabricante deve fornecer ao organismo notificado da sua escolha todas as informações necessárias, em especial: a) a documentação técnica, que deve incluir igualmente: — os certificados relativos à qualificação apropriada do processo de soldadura e dos soldadores ou operadores de soldadura, — o relatório de controlo dos materiais utilizados para o fabrico das partes e componentes que contribuem para a resistência do recipiente, — relatórios sobre os exames e ensaios efetuados; b) o programa de inspeções, que deve descrever os exames e ensaios adequados, bem como os respetivos procedimentos e frequências de execução, a efetuar durante o fabrico; c) o certificado de exame UE de tipo.\n\n2.3. *Controlos do recipiente* 2.3.1. Para cada recipiente fabricado, a fim de verificar a sua conformidade com o tipo descrito no certificado de exame UE de tipo e com os requisitos correspondentes da presente diretiva, o organismo notificado deve efetuar os exames e ensaios adequados, de acordo com o seguinte: a) o fabricante deve apresentar os seus recipientes sob a forma de lotes homogéneos e tomar todas as medidas necessárias para que o processo de fabrico assegure a homogeneidade de cada lote produzido; b) ao examinar um lote de recipientes, o organismo notificado deve certificar-se que os recipientes foram fabricados e controlados de acordo com a documentação técnica, e deve efetuar a cada recipiente um ensaio hidráulico ou um ensaio pneumático de eficácia equivalente, a uma pressão Ph igual a 1,5 vezes a pressão de cálculo, a fim de verificar a sua resistência. A realização do ensaio pneumático fica subordinada à aceitação dos procedimentos de segurança de ensaio pelo Estado-Membro onde o ensaio for efetuado; c) além disso, o organismo notificado deve efetuar ensaios com provetes retirados, à escolha do fabricante, de uma placa-testemunho de referência de produção ou de um recipiente, a fim de controlar a qualidade das soldaduras. Os ensaios devem ser efetuados nas soldaduras longitudinais. Todavia, quando for utilizado um método de soldadura diferente para as soldaduras longitudinais e para as circulares, esses ensaios devem ser repetidos nas soldaduras circulares; d) para os recipientes concebidos pelo método experimental a que se refere o anexo I, ponto 2.1.2, os ensaios com provetes devem ser substituídos por um ensaio hidráulico efetuado em cinco recipientes tirados ao acaso de cada lote, a fim de verificar a sua conformidade com os requisitos essenciais de segurança previstos no anexo I, ponto 2.1.2; e) no que se refere aos lotes aceites, o organismo notificado deve apor ou mandar apor o seu número de identificação em cada recipiente e redigir um certificado de conformidade relativo aos ensaios efetuados. Todos os recipientes do lote podem ser colocados no mercado, com exceção daqueles que não resistiram à prova hidráulica ou ao ensaio pneumático; f) se um lote for rejeitado, o organismo notificado deve adotar as medidas adequadas para evitar a colocação desse lote no mercado. Na eventualidade de rejeição frequente de lotes, o organismo notificado pode suspender a verificação estatística; g) o fabricante deve estar em condições de apresentar, a pedido das autoridades competentes, os certificados de conformidade emitidos pelo organismo notificado a que se refere a alínea e). 2.3.2. O organismo notificado deve fornecer ao Estado-Membro que o tiver notificado e, a pedido, aos outros organismos notificados, aos outros Estados-Membros e à Comissão, uma cópia do relatório de inspeção por si emitido. 2.3.3. O fabricante deve apor, durante o processo de fabrico e sob a responsabilidade do organismo notificado, o número de identificação deste último.\n\n2.4. *Marcação CE e declaração UE de conformidade* 2.4.1. O fabricante deve apor a marcação CE em cada recipiente que esteja em conformidade com o tipo descrito no certificado de exame UE de tipo e que cumpra os requisitos aplicáveis da presente diretiva. 2.4.2. O fabricante deve elaborar uma declaração de conformidade UE escrita para cada modelo de recipiente e mantê-la à disposição das autoridades nacionais pelo prazo de 10 anos a contar da data de colocação no mercado do recipiente. A declaração UE de conformidade deve especificar o modelo de recipiente para o qual foi estabelecida. 2.4.3. Deve ser fornecida às autoridades competentes, a pedido destas, uma cópia da declaração UE de conformidade.\n\n2.5. *Mandatário* Os deveres do fabricante, enunciados no ponto 2.4, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato."
+  },
+  "3cc385d55ffa5f8e": {
+   "fragment_id": "3. Conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (Módulo C2)",
+   "type": "divisao",
+   "heading": "3. Conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (Módulo C2)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios (Módulo C2)\n\n3.1. A conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a intervalos aleatórios é a parte do procedimento de avaliação da conformidade mediante a qual o fabricante cumpre os deveres estabelecidos nos pontos 3.2, 3.3 e 3.4 e garante e declara, sob a sua exclusiva responsabilidade, que os recipientes em causa estão em conformidade com o tipo descrito no certificado de exame UE de tipo e satisfazem os requisitos da presente diretiva que lhes são aplicáveis.\n\n3.2. *Fabrico* 3.2.1. O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade dos recipientes sob pressão simples fabricados com o tipo descrito no certificado de exame UE de tipo e com os requisitos da presente diretiva que lhe são aplicáveis. 3.2.2. Antes de dar início ao fabrico, o fabricante deve fornecer ao organismo notificado da sua escolha todas as informações necessárias, nomeadamente: a) a documentação técnica, que deve incluir igualmente: — os certificados relativos à qualificação apropriada do processo de soldadura e dos soldadores ou operadores de soldadura, — o relatório de controlo dos materiais utilizados para o fabrico das partes e componentes que contribuem para a resistência do recipiente, — relatórios sobre os exames e ensaios efetuados; b) o certificado de exame UE de tipo; c) um documento que descreva os processos de fabrico e todas as medidas sistemáticas predeterminadas destinadas a assegurar a conformidade dos recipientes com o tipo descrito no certificado de exame UE de tipo. Antes da data de início do fabrico, o organismo notificado deve examinar esses documentos a fim de se certificar da sua conformidade com o certificado de exame UE de tipo. 3.2.3. O documento referido no ponto 3.2.2, alínea c), deve incluir: a) uma descrição dos meios de fabrico e de verificação adequados para o fabrico dos recipientes; b) um programa de inspeções que descreva os exames e ensaios adequados, bem como os respetivos procedimentos e frequências de execução, a efetuar durante o fabrico; c) o compromisso de realizar os exames e ensaios em conformidade com o programa de inspeções e de fazer um ensaio hidráulico ou, mediante o acordo do Estado-Membro, um ensaio pneumático, a uma pressão de ensaio igual a 1,5 vezes a pressão de cálculo sobre cada recipiente fabricado. Esses exames e ensaios são efetuados sob a responsabilidade de pessoal qualificado e independente em relação aos serviços encarregados da produção, e são objeto de um relatório; d) o endereço dos locais de fabrico e de armazenamento, bem como a data de início do fabrico.\n\n3.3. *Controlos do recipiente* O organismo notificado deve executar ou mandar executar controlos dos recipientes, em amostras aleatórias e a intervalos aleatórios por si determinados, a fim de verificar a qualidade dos controlos internos efetuados ao recipiente, tendo em conta, nomeadamente, a complexidade tecnológica do recipiente e a quantidade produzida. Um exemplar adequado do recipiente final, recolhido *in loco* pelo organismo antes da colocação no mercado, deve ser examinado e sujeito aos ensaios apropriados — determinados pelas partes aplicáveis das normas harmonizadas —, e/ou a ensaios equivalentes estabelecidos noutras especificações técnicas relevantes, a fim de verificar a conformidade do recipiente com o tipo descrito no certificado de exame UE de tipo e com os requisitos relevantes da presente diretiva. O organismo notificado deve igualmente certificar-se de que o fabricante verifica efetivamente os recipientes fabricados em série, em conformidade com o ponto 3.2.3, alínea c). Caso um exemplar não esteja em conformidade com o nível de qualidade aceitável, o organismo notificado deve tomar as medidas adequadas. O procedimento de aceitação a aplicar destina-se a determinar se o processo de fabrico do recipiente tem um desempenho dentro de limites aceitáveis, a fim de assegurar a conformidade do recipiente. O organismo notificado deve fornecer ao Estado-Membro que o tiver notificado e, a pedido, aos outros organismos notificados, aos outros Estados-Membros e à Comissão, uma cópia do relatório de inspeção por si emitido. O fabricante deve apor, durante o processo de fabrico e sob a responsabilidade do organismo notificado, o número de identificação deste último.\n\n3.4. *Marcação CE e declaração UE de conformidade* 3.4.1. O fabricante deve apor a marcação CE em cada recipiente que esteja em conformidade com o tipo descrito no certificado de exame UE de tipo e que cumpra os requisitos aplicáveis da presente diretiva. 3.4.2. O fabricante deve elaborar por escrito uma declaração UE de conformidade para cada modelo de recipiente e mantê-la à disposição das autoridades nacionais pelo prazo de 10 anos a contar da data de colocação do recipiente no mercado. A declaração UE de conformidade deve especificar o modelo de recipiente para o qual foi emitida. 3.4.3. Deve ser fornecida às autoridades competentes, a pedido destas, uma cópia da declaração UE de conformidade.\n\n3.5. *Mandatário* Os deveres do fabricante, enunciados no ponto 3.4, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato."
+  },
+  "2ffcb26c2f0660f3": {
+   "fragment_id": "4. Conformidade com o tipo baseada no controlo interno da produção (Módulo C)",
+   "type": "divisao",
+   "heading": "4. Conformidade com o tipo baseada no controlo interno da produção (Módulo C)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Conformidade com o tipo baseada no controlo interno da produção (Módulo C)\n\n4.1. A conformidade com o tipo baseada no controlo interno da produção é a parte do procedimento de avaliação da conformidade mediante a qual o fabricante cumpre os deveres estabelecidos nos pontos 4.2 e 4.3 e garante e declara que os recipientes em causa estão em conformidade com o tipo descrito no certificado de exame UE de tipo e satisfazem os requisitos da presente diretiva que lhes são aplicáveis.\n\n4.2. *Fabrico* O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade dos recipientes fabricados com o tipo aprovado descrito no certificado de exame UE de tipo e com os requisitos da presente diretiva que lhes são aplicáveis. Antes de dar início ao fabrico, o fabricante deve fornecer ao organismo notificado que emitiu o certificado de exame UE de tipo todas as informações necessárias, nomeadamente: a) os certificados relativos à qualificação apropriada do processo de soldadura e dos soldadores ou operadores de soldadura; b) um relatório de controlo dos materiais utilizados para o fabrico das partes e componentes que contribuem para a resistência do recipiente; c) um relatório sobre os exames e ensaios efetuados; d) um documento que descreva os processos de fabrico e todas as medidas sistemáticas predeterminadas destinadas a assegurar a conformidade dos recipientes com o tipo descrito no certificado de exame UE de tipo. Esse documento deve incluir: i) uma descrição dos meios de fabrico e de verificação adequados para o fabrico dos recipientes; ii) um programa de inspeções que descreva os exames e ensaios adequados, bem como os respetivos procedimentos e frequências de execução, a efetuar durante o fabrico; iii) o compromisso de realizar os exames e ensaios em conformidade com o programa de inspeções e de fazer um ensaio hidráulico ou, mediante o acordo do Estado-Membro, um ensaio pneumático, a uma pressão de ensaio igual a 1,5 vezes a pressão de cálculo sobre cada recipiente fabricado. Esses exames e ensaios são efetuados sob a responsabilidade de pessoal qualificado e independente em relação aos serviços encarregados da produção, e são objeto de um relatório; iv) o endereço dos locais de fabrico e de armazenamento, bem como a data de início do fabrico. Antes da data de início do fabrico, o organismo notificado deve examinar esses documentos a fim de se certificar da sua conformidade com o certificado de exame UE de tipo.\n\n4.3. *Marcação CE e declaração UE de conformidade* 4.3.1. O fabricante deve apor a marcação CE em cada recipiente que esteja em conformidade com o tipo descrito no certificado de exame UE de tipo e que cumpra os requisitos aplicáveis da presente diretiva. 4.3.2. O fabricante deve elaborar uma declaração UE de conformidade escrita para cada modelo de recipiente e mantê-la à disposição das autoridades nacionais, por um período de 10 anos a contar da data de colocação no mercado do recipiente. A declaração UE de conformidade deve especificar o modelo de recipiente para o qual foi estabelecida. 4.3.3. Deve ser fornecida às autoridades competentes, a pedido destas, uma cópia da declaração UE de conformidade.\n\n4.4. *Mandatário* Os deveres do fabricante, enunciados no ponto 4.3, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "b6102c11ff7cac6b": {
+   "fragment_id": "INSCRIÇÕES, INSTRUÇÕES, DEFINIÇÕES E SÍMBOLOS",
+   "type": "divisao",
+   "heading": "INSCRIÇÕES, INSTRUÇÕES, DEFINIÇÕES E SÍMBOLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INSCRIÇÕES, INSTRUÇÕES, DEFINIÇÕES E SÍMBOLOS"
+  },
+  "89d7e2e2663726b0": {
+   "fragment_id": "1. Marcação CE e inscrições",
+   "type": "divisao",
+   "heading": "1. Marcação CE e inscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Marcação CE e inscrições\n\n1.1. Os recipientes cujo produto PS × V exceda 50 bar.L devem ostentar a marcação CE prevista no anexo II do Regulamento (CE) n.º 765/2008 e os dois últimos algarismos do ano de aposição da marcação CE.\n\n1.2. Os recipientes ou as placas sinaléticas devem exibir, pelo menos, as seguintes inscrições:\n\na) a pressão máxima de serviço, PS, em bar;\n\nb) a temperatura máxima de serviço, Tmax, em graus Célsius (°C);\n\nc) a temperatura mínima de serviço, Tmin, em graus Célsius (°C);\n\nd) a capacidade do recipiente, V, em litros;\n\ne) o nome, o nome comercial registado ou a marca registada e o endereço do fabricante;\n\nf) o tipo e a identificação do lote ou da série do recipiente.\n\n1.3. Quando for utilizada uma placa sinalética, esta deve ser concebida de maneira a não poder voltar a ser utilizada e deve incluir um espaço livre a fim de possibilitar a inscrição de outros dados."
+  },
+  "cfab9dc4ad2ae566": {
+   "fragment_id": "2. Instruções e informações de segurança",
+   "type": "divisao",
+   "heading": "2. Instruções e informações de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Instruções e informações de segurança\n\nAs instruções devem conter as seguintes informações:\n\na) as indicações previstas no ponto 1.2, com exceção do número de série ou lote do recipiente;\n\nb) a utilização a que o recipiente se destina;\n\nc) as condições de manutenção e instalação necessárias para garantir a segurança do recipiente."
+  },
+  "3b26be9ea6d69648": {
+   "fragment_id": "3. Definições e símbolos",
+   "type": "divisao",
+   "heading": "3. Definições e símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Definições e símbolos\n\na) a pressão do cálculo «P» é a pressão manométrica escolhida pelo fabricante e utilizada para determinar a espessura das partes do recipiente sujeitas a pressão;\n\nb) a pressão máxima de serviço «PS» é a pressão manométrica máxima que pode ser exercida nas condições normais de utilização do recipiente;\n\nc) a temperatura mínima de serviço «Tmin» é a temperatura estabilizada mais baixa da parede do recipiente nas condições normais de utilização;\n\nd) a temperatura máxima de serviço «Tmax» é a temperatura estabilizada mais elevada da parede do recipiente nas condições normais de utilização;\n\ne) a tensão limite de elasticidade «ReT» é um dos seguintes valores, à temperatura máxima de serviço Tmax:\n\ni) da tensão superior de cedência ReH, para um material que apresente uma tensão inferior e uma tensão superior de cedência;\n\nii) da tensão limite convencional de elasticidade a 0,2 %, Rp0,2;\n\niii) da tensão limite convencional de elasticidade a 1,0 %, Rp1,0, no caso de alumínio não ligado;\n\nf) família de recipientes:\n\ni) se o modelo for constituído por uma ou várias virolas, para além dos fundos, as variantes devem incluir pelo menos um virola;\n\nii) se o modelo for constituído apenas por dois fundos copados, as variantes não devem incluir virolas.\n\ng) um lote de recipientes é constituído no máximo por 3 000 recipientes do mesmo tipo;\n\nh) existe fabrico em série, na aceção da presente diretiva, se, durante um dado período, forem fabricados pelos mesmos processos de fabrico e em regime contínuo vários recipientes do mesmo tipo que obedeçam a uma conceção comum;\n\ni) relatório de controlo: documento pelo qual o produtor dos materiais atesta que os produtos entregues estão em conformidade com as especificações da encomenda e no qual apresenta os resultados dos ensaios de inspeção de rotina efetuado em fábrica, em especial a composição química e as características mecânicas, realizados em produtos resultantes de um processo de fabrico idêntico ao utilizado no fabrico do produto fornecido, mas não necessariamente nos produtos entregues.\n\n| A | alongamento após rutura (Lo = 5,65√So) | % |\n| --- | --- | --- |\n| A80 mm | alongamento após rutura (Lo = 80 mm) | % |\n| KCV | resiliência | J/cm^2^ |\n| P | pressão de cálculo | bar |\n| PS | pressão máxima de serviço | bar |\n| Ph | pressão de ensaio hidráulico ou pneumático | bar |\n| Rp0,2 | tensão-limite convencional de elasticidade a 0,2 % | N/mm^2^ |\n| ReT | tensão-limite de elasticidade à temperatura máxima de serviço | N/mm^2^ |\n| ReH | tensão-limite superior de cedência | N/mm^2^ |\n| Rm | resistência à tração à temperatura ambiente | N/mm^2^ |\n| Rm, max | resistência máxima à tração | N/mm^2^ |\n| Rp1,0 | tensão-limite convencional de elasticidade a 1,0 % | N/mm^2^ |\n| Tmax | temperatura máxima de serviço | °C |\n| Tmin | temperatura mínima de serviço | °C |\n| V | capacidade do recipiente | L |"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "e5a78bb587fc2f92": {
+   "fragment_id": "DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0003))",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0003))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0003))\n\n1. Recipiente/modelo de recipiente (número do produto, do tipo, do lote ou de série):\n\n2. Nome e endereço do fabricante e, se for o caso, do seu mandatário:\n\n3. A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante.\n\n4. Objeto da declaração (identificação do recipiente que permita rastreá-lo; se for necessário para a identificação do recipiente, pode incluir uma imagem):\n\n5. O objeto da declaração acima descrito está em conformidade com a legislação de harmonização da União aplicável:\n\n6. Referências às normas harmonizadas aplicáveis utilizadas ou às outras especificações técnicas em relação às quais é declarada a conformidade:\n\n7. O organismo notificado … (nome, número) efetuou … (descrição da intervenção) e emitiu o certificado:\n\n8. Informações complementares:"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "37c9738de80b8690": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDiretiva 2009/105/CE do Parlamento Europeu e do Conselho (JO L 264 de 8.10.2009, p. 12).\n\nRegulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho (JO L 316 de 14.11.2012, p. 12). Apenas o artigo 26.º, n.º 1, alínea j)"
+  },
+  "5d8928a994eb517c": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\n| Diretiva | Prazos de transposição | Data de aplicação |\n| --- | --- | --- |\n| 87/404/CEE | 31 de dezembro de 1989 | 1 de julho de 1990 [(^1^)](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0004) |\n| 90/488/CEE | 1 de julho de 1991 | — |\n| 93/68/CEE | 30 de junho de 1994 | 1 de janeiro de 1995 [(^2^)](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0005) |\n| (^1^) Nos termos do disposto no artigo 18.º, n.º 2, terceiro parágrafo, da Diretiva 87/404/CEE, até 1 de julho de 1992, os Estados-Membros autorizam a colocação no mercado e/ou em serviço dos recipientes conformes com a regulamentação em vigor nos respetivos territórios antes de 1 de julho de 1990. (^2^) Nos termos do disposto no artigo 14.º, n.º 2, da Diretiva 93/68/CEE, os Estados-Membros admitem, até 1 de janeiro de 1997, a colocação no mercado e a entrada em serviço dos produtos conformes com os regimes de marcação em vigor até 1 de janeiro de 1995. |  |  |"
+  },
+  "93565215a1f7f848": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nDiretiva 2009/105/CE Presente diretiva\n\nArtigo 1.º, n.º 1 Artigo 1.º, n.º 1, frase introdutória\n\nArtigo 1.º, n.º 2 Artigo 1.º, n.º 2\n\nArtigo 1.º, n.º 3, alínea a) Artigo 1.º, n.º 1, alíneas a) a e)\n\nArtigo 1.º, n.º 3, alínea b) —\n\nArtigo 2.º Artigo 3.º\n\n— Artigo 2.º\n\nArtigo 3.º Artigo 4.º\n\nArtigo 4.º Artigo 5.º\n\n— Artigo 6.º\n\n— Artigo 7.º\n\n— Artigo 8.º\n\n— Artigo 9.º\n\n— Artigo 10.º\n\n— Artigo 11.º\n\n— Artigo 12.º\n\nArtigo 5.º —\n\nArtigo 6.º —\n\nArtigo 7.º —\n\nArtigo 8.º —\n\n— Artigo 13.º\n\nArtigo 9.º —\n\nArtigo 10.º —\n\nArtigo 11.º, n.^os^ 1 e 2 —\n\nArtigo 11.º, n.º 3 Anexo II, ponto 2.3\n\nArtigo 12.º —\n\nArtigo 13.º, n.º 1 Anexo II, ponto 3.2.1\n\nArtigo 13.º, n.º 2 Anexo II, ponto 3.2.2\n\nArtigo 13.º, n.º 3 —\n\nArtigo 14.º —\n\n— Artigo 14.º\n\n— Artigo 15.º\n\n— Artigo 16.º\n\n— Artigo 17.º\n\n— Artigo 18.º\n\n— Artigo 19.º\n\n— Artigo 20.º\n\n— Artigo 21.º\n\n— Artigo 22.º\n\n— Artigo 23.º\n\n— Artigo 24.º\n\n— Artigo 25.º\n\n— Artigo 26.º\n\n— Artigo 27.º\n\n— Artigo 28.º\n\n— Artigo 29.º\n\n— Artigo 30.º\n\n— Artigo 31.º\n\n— Artigo 32.º\n\n— Artigo 33.º\n\nArtigo 15.º —\n\nArtigo 16.º —\n\nArtigo 17.º —\n\n— Artigo 34.º\n\n— Artigo 35.º\n\n— Artigo 36.º\n\n— Artigo 37.º\n\n— Artigo 38.º\n\n— Artigo 39.º\n\n— Artigo 40.º\n\n— Artigo 41.º\n\nArtigo 18.º Artigo 42.º, n.º 2\n\n— Artigo 42.º, n.º 1\n\nArtigo 19.º Artigo 43.º\n\nArtigo 20.º Artigo 44.º\n\nArtigo 21.º Artigo 45.º\n\nAnexo I Anexo I\n\n— Anexo II\n\nAnexo II, pontos 1, 2 e 4 Anexo III\n\nAnexo II, ponto 3 Anexo II, ponto 1, ponto 3, alínea c), pontos 2.2 e 3.2.2 e ponto 4.2, alíneas a), b) e c)\n\nAnexo III —\n\n— Anexo IV\n\nAnexo IV Anexo V\n\nAnexo V Anexo VI"
+  },
+  "1f2572ae2727c32a": {
+   "fragment_id": "DECLARAÇÃO DO PARLAMENTO EUROPEU",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO DO PARLAMENTO EUROPEU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## DECLARAÇÃO DO PARLAMENTO EUROPEU\n\nO Parlamento Europeu considera que, unicamente nos casos em que atos de execução nos termos do Regulamento (UE) n.º 182/2011 sejam debatidos em reuniões de comissões, podem estas ser consideradas comités de comitologia na aceção do anexo I do Acordo-quadro sobre as relações entre o Parlamento Europeu e a Comissão Europeia. Por conseguinte, as reuniões das comissões inserem-se no âmbito de aplicação do ponto 15 do Acordo-quadro quando e na medida em que sejam debatidas outras questões.\n\n---"
+  },
+  "b22b999017aa8bb2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho, de 9 de outubro de 2024, que estabelece um regime relativo a emergências no mercado interno e à resiliência do mercado interno e que altera o Regulamento (CE) n.º 2679/98 do Conselho (Regulamento relativo a Emergências e à Resiliência do Mercado Interno) (JO L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à fiscalização do mercado e à conformidade dos produtos e que altera a Diretiva 2004/42/CE e os Regulamentos (CE) n.º 765/2008 e (UE) n.º 305/2011 (JO L 169 de 25.6.2019, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#src.E0003)) É facultativo para o fabricante atribuir um número à declaração de conformidade."
+  }
+ }
+}

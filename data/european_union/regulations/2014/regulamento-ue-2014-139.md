@@ -37,6 +37,231 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-22'
+version_history:
+  file: regulamento-ue-2014-139.versoes.json
+  count: 16
+  source_lastmod: '2026-02-22'
+  versions:
+  - date: '2014-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Informações a comunicar à Agência Europeia para a Segurança da Aviação
+    - Altera Artigo 11.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Definições dos termos utilizados nos anexos II a IV
+    - Adita ANEXO II
+    - Adita Parte Requisitos aplicáveis às autoridades — Aeródromos (Parte ADR.AR)
+    - Adita SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Adita SUBPARTE B — GESTÃO (ADR.AR.B)
+    - Adita SUBPARTE C — SUPERVISÃO, CERTIFICAÇÃO E REGIME SANCIONATÓRIO (ADR.AR.C)
+    - Adita ANEXO III
+    - Adita Parte Requisitos aplicáveis às organizações — Operadores de aeródromos (Parte-ADR.OR)
+    - Adita SUBPARTE A — REQUISITOS GERAIS (ADR.OR.A)
+    - Adita SUBPARTE B — CERTIFICAÇÃO (ADR.OR.B)
+    - Adita SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Adita SUBPARTE D — GESTÃO (ADR.OR.D)
+    - Adita SUBPARTE E — MANUAL E DOCUMENTAÇÃO DO AERÓDROMO (ADR.OR.E)
+    - Adita ANEXO IV
+    - Adita Parte Requisitos aplicáveis às operações — Aeródromos (Parte ADR.OPS)
+    - Adita SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Adita SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Adita SUBPARTE C — MANUTENÇÃO DO AERÓDROMO (ADR.OPS.C)
+  - date: '2017-02-21'
+    amending: eu:celex:32017R0161:por
+    amending_title: M1
+    changes:
+    - Altera preambulo
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera Notas
+  - date: '2018-04-04'
+    amending: eu:celex:32018R0401:por
+    amending_title: REGULAMENTO (UE) 2018/401 DA COMISSÃO de 14 de março de 2018
+    changes:
+    - Altera Definições dos termos utilizados nos anexos II a IV
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera Notas
+  - date: '2021-01-07'
+    amending: eu:celex:32020R2148:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/2148 DA COMISSÃO de 8 de outubro de 2020
+    changes:
+    - Altera Definições dos termos utilizados nos anexos II a IV
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE D — GESTÃO (ADR.OR.D)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE C — MANUTENÇÃO DO AERÓDROMO (ADR.OPS.C)
+    - Altera Notas
+    - Adita Apêndice 1
+    - Adita FORMATO NOTAM
+    - Adita Apêndice 2
+    - Adita FORMATO SNOWTAM
+  - date: '2021-08-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera Notas
+  - date: '2022-01-27'
+    amending: eu:celex:32020R0469:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/469 DA COMISSÃO de 14 de fevereiro de 2020
+    changes:
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — CERTIFICAÇÃO (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE D — GESTÃO (ADR.OR.D)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera Notas
+  - date: '2022-03-20'
+    amending: eu:celex:32020R1234:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1234 DA COMISSÃO de 9 de junho de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 11.º — Entrada em vigor e aplicação
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — GESTÃO (ADR.AR.B)
+    - Altera SUBPARTE C — SUPERVISÃO, CERTIFICAÇÃO E REGIME SANCIONATÓRIO (ADR.AR.C)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera Notas
+    - Adita Artigo 3.º
+    - Adita Supervisão
+    - Adita Parte Requisitos aplicáveis às organizações (parte ADR.OR)
+    - Adita SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Adita SUBPARTE D — GESTÃO — OPERADORES DE AERÓDROMOS (ADR.OR.D)
+    - Adita SUBPARTE F — SERVIÇO DE GESTÃO DA PLACA DE ESTACIONAMENTO (ADR.OR.F)
+    - Adita SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Suprime Artigo 3.º — Supervisão de aeródromos
+    - Suprime Parte Requisitos aplicáveis às organizações — Operadores de aeródromos (Parte-ADR.OR)
+    - Suprime SUBPARTE B — CERTIFICAÇÃO (ADR.OR.B)
+    - Suprime SUBPARTE D — GESTÃO (ADR.OR.D)
+  - date: '2022-05-24'
+    amending: eu:celex:32022R0697:por
+    amending_title: M6
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+  - date: '2022-08-01'
+    amending: eu:celex:32022R0208:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/208 DA COMISSÃO de 14 de dezembro de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Definições dos termos utilizados nos anexos II a IV
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+  - date: '2022-11-17'
+    amending: eu:celex:32022R2074:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2074 DA COMISSÃO de 20 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Definições dos termos utilizados nos anexos II a IV
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+  - date: '2023-03-12'
+    amending: eu:celex:32023R0369:por
+    amending_title: M9
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+  - date: '2025-03-20'
+    amending: eu:celex:32024R0894:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/894 DA COMISSÃO de 13 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — GESTÃO (ADR.AR.B)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+    - Suprime Artigo 4.º — Informações a comunicar à Agência Europeia para a Segurança da Aviação
+    - Suprime Artigo 5.º — Isenções
+  - date: '2025-05-24'
+    amending: eu:celex:32024R0405:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/405 DA COMISSÃO de 30 de janeiro de 2024; REGULAMENTO DELEGADO (UE) 2024/1400
+      DA COMISSÃO de 13 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 7.º — Desvios em relação às especificações de certificação
+    - Altera Definições dos termos utilizados nos anexos II a IV
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE C — SUPERVISÃO, CERTIFICAÇÃO E REGIME SANCIONATÓRIO (ADR.AR.C)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE C — RESPONSABILIDADES ADICIONAIS DO OPERADOR DO AERÓDROMO (ADR.OR.C)
+    - Altera SUBPARTE D — GESTÃO — OPERADORES DE AERÓDROMOS (ADR.OR.D)
+    - Altera SUBPARTE F — SERVIÇO DE GESTÃO DA PLACA DE ESTACIONAMENTO (ADR.OR.F)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE C — MANUTENÇÃO DO AERÓDROMO (ADR.OPS.C)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+  - date: '2025-10-16'
+    amending: eu:celex:32022R1645:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1645 DA COMISSÃO de 14 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE D — GESTÃO — OPERADORES DE AERÓDROMOS (ADR.OR.D)
+    - Altera SUBPARTE F — SERVIÇO DE GESTÃO DA PLACA DE ESTACIONAMENTO (ADR.OR.F)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/2293 DA COMISSÃO de 10 de novembro de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ADR.AR.A)
+    - Altera SUBPARTE B — GESTÃO (ADR.AR.B)
+    - Altera SUBPARTE C — SUPERVISÃO, CERTIFICAÇÃO E REGIME SANCIONATÓRIO (ADR.AR.C)
+    - Altera SUBPARTE B — CERTIFICAÇÃO — AERÓDROMOS E OPERADORES DE AERÓDROMOS (ADR.OR.B)
+    - Altera SUBPARTE D — GESTÃO — OPERADORES DE AERÓDROMOS (ADR.OR.D)
+    - Altera SUBPARTE A — DADOS DO AERÓDROMO (ADR.OPS.A)
+    - Altera SUBPARTE B — SERVIÇOS OPERACIONAIS, EQUIPAMENTO E INSTALAÇÕES DO AERÓDROMO (ADR.OPS.B)
+    - Altera SUBPARTE D — OPERAÇÕES DE GESTÃO DA PLACA DE ESTACIONAMENTO
+    - Altera Notas
 identifiers:
   celex: 32014R0139
   eli: http://data.europa.eu/eli/reg/2014/139/oj
@@ -51,7 +276,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3cc00bdc-955e-11e3-8c34-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ba2a8ce5-277a-11f1-a7dd-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0139-20260222
-  retrieved_at: '2026-10-22T03:00:23Z'
+  retrieved_at: '2026-10-22T16:32:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T15:19:51.034+02:00'
 integrity:
@@ -60,9 +285,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:23Z'
-  notes: Texto consolidado 02014R0139-20260222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:32:37Z'
+  notes: 16 versão(ões); histórico completo em regulamento-ue-2014-139.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -241,48 +466,19 @@ relationships:
   date: '2024-05-30'
 article_structure:
   article_count: 9
-  section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:23Z'
+  checked_at: '2026-10-22T16:32:37Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 139/2014 da Comissão, de 12 de fevereiro de 2014
-
-> 02014R0139 — PT — 22.02.2026 — 014.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32017R0161) — [REGULAMENTO (UE) 2017/161 DA COMISSÃO de 31 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0161) — L 27 — 99 — 1.2.2017
-- [►M2](http://publications.europa.eu/resource/celex/32018R0401) — [REGULAMENTO (UE) 2018/401 DA COMISSÃO de 14 de março de 2018](http://publications.europa.eu/resource/celex/32018R0401) — L 72 — 17 — 15.3.2018
-- [►M3](http://publications.europa.eu/resource/celex/32020R0469) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/469 DA COMISSÃO de 14 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0469) — L 104 — 1 — 3.4.2020
-- [►M4](http://publications.europa.eu/resource/celex/32020R1234) — [REGULAMENTO DELEGADO (UE) 2020/1234 DA COMISSÃO de 9 de junho de 2020](http://publications.europa.eu/resource/celex/32020R1234) — L 282 — 1 — 31.8.2020
-- [►M5](http://publications.europa.eu/resource/celex/32020R2148) — [REGULAMENTO DELEGADO (UE) 2020/2148 DA COMISSÃO de 8 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R2148) — L 428 — 10 — 18.12.2020
-- [►M6](http://publications.europa.eu/resource/celex/32022R0208) — [REGULAMENTO DELEGADO (UE) 2022/208 DA COMISSÃO de 14 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0208) — L 35 — 1 — 17.2.2022
-- [M7](http://publications.europa.eu/resource/celex/32022R0697) — [REGULAMENTO DELEGADO (UE) 2022/697 DA COMISSÃO de 10 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0697) — L 130 — 1 — 4.5.2022
-- [►M8](http://publications.europa.eu/resource/celex/32022R1645) — [REGULAMENTO DELEGADO (UE) 2022/1645 DA COMISSÃO de 14 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1645) — L 248 — 18 — 26.9.2022
-- [►M9](http://publications.europa.eu/resource/celex/32022R2074) — [REGULAMENTO DELEGADO (UE) 2022/2074 DA COMISSÃO de 20 de julho de 2022](http://publications.europa.eu/resource/celex/32022R2074) — L 280 — 4 — 28.10.2022
-- [►M10](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [M11](http://publications.europa.eu/resource/celex/32023R0369) — [REGULAMENTO DELEGADO (UE) 2023/369 DA COMISSÃO de 29 de novembro de 2022](http://publications.europa.eu/resource/celex/32023R0369) — L 51 — 23 — 20.2.2023
-- [►M12](http://publications.europa.eu/resource/celex/32024R0894) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/894 DA COMISSÃO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0894) — L 894 — 1 — 20.3.2024
-- [►M13](http://publications.europa.eu/resource/celex/32024R0405) — [REGULAMENTO DELEGADO (UE) 2024/405 DA COMISSÃO de 30 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0405) — L 405 — 1 — 11.4.2024
-- [►M14](http://publications.europa.eu/resource/celex/32024R1400) — [REGULAMENTO DELEGADO (UE) 2024/1400 DA COMISSÃO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R1400) — L 1400 — 1 — 24.5.2024
-- [►M15](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32014R0139R%2801%29) — [Rectificação, JO L 276, 18.9.2014, p. 65 (139/2014)](http://publications.europa.eu/resource/celex/32014R0139R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020R2148R%2803%29) — [Rectificação, JO L 092, 21.3.2022, p. 98 (2020/2148)](http://publications.europa.eu/resource/celex/32020R2148R%2803%29)
-
-## REGULAMENTO (UE) N.º 139/2014 DA COMISSÃO
 
 de 12 de fevereiro de 2014
 

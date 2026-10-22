@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2014-32.versoes.json
+  count: 1
+  source_lastmod: '2015-01-27'
+  versions:
+  - date: '2014-03-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014L0032
   eli: http://data.europa.eu/eli/dir/2014/32/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cb24c6ac-b723-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/cb24c6ac-b723-11e3-86f9-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:43:05Z'
+  retrieved_at: '2026-10-22T16:27:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T11:46:05.286+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:05Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:27:33Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2014-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -198,21 +207,20 @@ relationships:
   source: null
 article_structure:
   article_count: 54
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:05Z'
+  checked_at: '2026-10-22T16:27:33Z'
   warnings:
-  - 'Versão consolidada 02014L0032-20150127 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02014L0032-20150127: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DIRETIVA 2014/32/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Diretiva 2014/32/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
 
 de 26 de fevereiro de 2014
 

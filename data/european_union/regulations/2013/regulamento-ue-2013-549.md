@@ -35,6 +35,93 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-09-01'
+version_history:
+  file: regulamento-ue-2013-549.versoes.json
+  count: 3
+  source_lastmod: '2025-09-01'
+  versions:
+  - date: '2013-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-09-01'
+    amending: eu:celex:32015R1342:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/1342 DA COMISSÃO de 22 de abril de 2015; REGULAMENTO (UE) 2023/734 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 15 de março de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Data de aplicação e de primeira transmissão dos dados
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 10.º — Disposições transitórias
+    - Altera Artigo 13.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO A
+    - Adita CAPÍTULO 1
+    - Adita ARQUITETURA GERAL DO SISTEMA E PRINCÍPIOS FUNDAMENTAIS
+    - Adita ARQUITETURA GERAL DO SISTEMA
+    - Adita UTILIZAÇÕES DO SEC 2010
+    - Adita PRINCÍPIOS FUNDAMENTAIS DO SEC 2010 ENQUANTO SISTEMA
+    - Adita CAPÍTULO 2
+    - Adita UNIDADES E CONJUNTOS DE UNIDADES
+    - Adita DELIMITAÇÃO DA ECONOMIA NACIONAL
+    - Adita AS UNIDADES INSTITUCIONAIS
+    - Adita SETORES INSTITUCIONAIS
+    - Adita UNIDADES DE ATIVIDADE ECONÓMICA A NÍVEL LOCAL E RAMOS DE ATIVIDADE
+    - Adita UNIDADES DE PRODUÇÃO HOMOGÉNEA E RAMOS HOMOGÉNEOS
+    - Adita CAPÍTULO 3
+    - Adita OPERAÇÕES SOBRE PRODUTOS E ATIVOS NÃO PRODUZIDOS
+    - Adita OPERAÇÕES SOBRE PRODUTOS EM GERAL
+    - Adita ATIVIDADE PRODUTIVA E PRODUÇÃO
+    - Adita CONSUMO INTERMÉDIO (P.2)
+    - Adita CONSUMO FINAL (P.3, P.4)
+    - Adita FORMAÇÃO BRUTA DE CAPITAL (P.5)
+    - Adita EXPORTAÇÕES E IMPORTAÇÕES DE BENS E SERVIÇOS (P.6 e P.7)
+    - Adita OPERAÇÕES SOBRE BENS EXISTENTES
+    - Adita AQUISIÇÕES LÍQUIDAS DE CESSÕES DE ATIVOS NÃO PRODUZIDOS (NP)
+    - Adita CAPÍTULO 4
+    - Adita OPERAÇÕES DE DISTRIBUIÇÃO
+    - Adita REMUNERAÇÃO DOS EMPREGADOS (D.1)
+    - Adita IMPOSTOS SOBRE A PRODUÇÃO E A IMPORTAÇÃO (D.2)
+    - Adita SUBSÍDIOS (D.3)
+    - Adita RENDIMENTOS DE PROPRIEDADE (D.4)
+    - Adita IMPOSTOS CORRENTES SOBRE O RENDIMENTO, O PATRIMÓNIO, ETC. (D.5)
+    - Adita CONTRIBUIÇÕES E PRESTAÇÕES SOCIAIS (D.6)
+    - Adita OUTRAS TRANSFERÊNCIAS CORRENTES (D.7)
+    - Adita AJUSTAMENTO PELA VARIAÇÃO EM DIREITOS ASSOCIADOS A PENSÕES (D.8)
+    - Adita TRANSFERÊNCIAS DE CAPITAL (D.9)
+  - date: '2025-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 5.º — Data de aplicação e de primeira transmissão dos dados
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 10.º — Disposições transitórias
+    - Altera ARQUITETURA GERAL DO SISTEMA
+    - Altera UTILIZAÇÕES DO SEC 2010
+    - Altera PRINCÍPIOS FUNDAMENTAIS DO SEC 2010 ENQUANTO SISTEMA
+    - Altera SETORES INSTITUCIONAIS
+    - Altera CATEGORIAS DE ATIVOS E PASSIVOS
+    - Altera MAPA DAS ENTRADAS DESDE A CONTA DE PATRIMÓNIO NO INÍCIO DO EXERCÍCIO ATÉ À CONTA DE PATRIMÓNIO NO FINAL DO EXERCÍCIO
+    - Altera FERRAMENTA PARA ANÁLISE E ALARGAMENTOS
+    - Altera PRINCÍPIOS GERAIS DE MEDIÇÃO DOS ÍNDICES DE PREÇOS E DE VOLUME
+    - Altera ÍNDICES DE PREÇOS E VOLUME INTERESPACIAIS
+    - Altera DESEMPREGO
+    - Altera TOTAL DE HORAS TRABALHADAS
+    - Altera PRODUÇÃO DE SEGURO DIRETO
+    - Altera OPERAÇÕES DO SEGURO DE VIDA
+    - Altera OPERAÇÕES ASSOCIADAS AO RESSEGURO
+    - Altera QUADRO SUPLEMENTAR DOS DIREITOS ASSOCIADOS A PENSÕES ADQUIRIDOS ATÉ À DATA EM SEGURO SOCIAL
+    - Altera CONTAS DO SETOR DO RESTO DO MUNDO E A SUA RELAÇÃO COM AS CONTAS INTERNACIONAIS DA BALANÇA DE PAGAMENTOS
+    - Altera DAS CONTAS NACIONAIS PARA AS CONTAS EUROPEIAS
+    - Altera DEFINIÇÃO DO SETOR DAS ADMINISTRAÇÕES PÚBLICAS
+    - Altera APRESENTAÇÃO DAS ESTATÍSTICAS DAS FINANÇAS PÚBLICAS
+    - Altera NOVE CONTAS SATÉLITE ESPECÍFICAS
+    - Altera NOMENCLATURA DOS SETORES INSTITUCIONAIS (S)
+    - Altera NOMENCLATURA DAS OPERAÇÕES E OUTROS FLUXOS
+    - Altera NOMENCLATURA DOS ATIVOS (A)
+    - Altera Dados
+    - Altera População e emprego
+    - Altera Notas
 identifiers:
   celex: 32013R0549
   eli: http://data.europa.eu/eli/reg/2013/549/oj
@@ -49,7 +136,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/41239b25-9bba-4c36-9b25-926d90511bb3.0002
   content_url: http://publications.europa.eu/resource/cellar/e47000eb-72c3-11f0-bf4e-01aa75ed71a1.0023.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0549-20250901
-  retrieved_at: '2026-10-22T02:45:50Z'
+  retrieved_at: '2026-10-22T16:19:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T22:06:30.339+02:00'
 integrity:
@@ -58,9 +145,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:50Z'
-  notes: Texto consolidado 02013R0549-20250901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:19:49Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-549.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -219,30 +306,21 @@ relationships:
   date: '2024-11-28'
 article_structure:
   article_count: 13
-  section_count: 196
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 197
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:50Z'
-  warnings: []
+  checked_at: '2026-10-22T16:19:49Z'
+  warnings:
+  - '02013R0549-20130716: versão indisponível (Sem expressão na língua por para CELEX 02013R0549-20130716.)'
+  - '02013R0549-20150824: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 549/2013 do Parlamento Europeu e do Conselho, de 21 de maio de 2013
-
-> 02013R0549 — PT — 01.09.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R1342) — [REGULAMENTO DELEGADO (UE) 2015/1342 DA COMISSÃO de 22 de abril de 2015](http://publications.europa.eu/resource/celex/32015R1342) — L 207 — 35 — 4.8.2015
-- [►M2](http://publications.europa.eu/resource/celex/32023R0734) — [REGULAMENTO (UE) 2023/734 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023](http://publications.europa.eu/resource/celex/32023R0734) — L 97 — 1 — 5.4.2023
-
-## REGULAMENTO (UE) N.º 549/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de maio de 2013
 

@@ -37,6 +37,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2014-283.versoes.json
+  count: 4
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2014-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-11-04'
+    amending: eu:celex:32017R1953:por
+    amending_title: REGULAMENTO (UE) 2017/1953 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Projetos de interesse comum
+    - Altera Artigo 5.º — Métodos de intervenção
+    - Altera Artigo 6.º — Critérios de elegibilidade e prioridades de financiamento
+    - Altera Artigo 8.º — Intercâmbio de informações, monitorização e apresentação de relatórios
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita PROJETOS DE INTERESSE COMUM
+    - Adita SECÇÃO 1. INFRAESTRUTURAS DE SERVIÇOS DIGITAIS
+    - Adita SECÇÃO 2. REDES DE BANDA LARGA
+    - Adita 1. Âmbito das ações
+    - Adita 2. Contribuição para a consecução dos objetivos da Agenda Digital para a Europa
+    - Adita 3. Análise de projetos com vista ao estabelecimento de estruturas de financiamento ótimas
+    - Adita 4. Fontes de financiamento
+    - Adita SECÇÃO 3. AÇÕES HORIZONTAIS
+    - Adita SECÇÃO 4. CONECTIVIDADE SEM FIO EM COMUNIDADES LOCAIS
+  - date: '2018-08-02'
+    amending: eu:celex:32018R1046:por
+    amending_title: REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Métodos de intervenção
+    - Altera Artigo 8.º — Intercâmbio de informações, monitorização e apresentação de relatórios
+    - Altera SECÇÃO 4. CONECTIVIDADE SEM FIO EM COMUNIDADES LOCAIS
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Objetivos
+    - Suprime Artigo 4.º — Projetos de interesse comum
+    - Suprime Artigo 5.º — Métodos de intervenção
+    - Suprime Artigo 6.º — Critérios de elegibilidade e prioridades de financiamento
+    - Suprime Artigo 7.º — Cooperação com países terceiros e organizações internacionais
+    - Suprime Artigo 8.º — Intercâmbio de informações, monitorização e apresentação de relatórios
+    - Suprime Artigo 9.º — Revogação
+    - Suprime Artigo 10.º — Entrada em vigor
+    - Suprime ANEXO
+    - Suprime PROJETOS DE INTERESSE COMUM
+    - Suprime SECÇÃO 1. INFRAESTRUTURAS DE SERVIÇOS DIGITAIS
+    - Suprime SECÇÃO 2. REDES DE BANDA LARGA
+    - Suprime 1. Âmbito das ações
+    - Suprime 2. Contribuição para a consecução dos objetivos da Agenda Digital para a Europa
+    - Suprime 3. Análise de projetos com vista ao estabelecimento de estruturas de financiamento ótimas
+    - Suprime 4. Fontes de financiamento
+    - Suprime SECÇÃO 3. AÇÕES HORIZONTAIS
+    - Suprime SECÇÃO 4. CONECTIVIDADE SEM FIO EM COMUNIDADES LOCAIS
+    - Suprime Notas
 identifiers:
   celex: 32014R0283
   eli: http://data.europa.eu/eli/reg/2014/283/oj
@@ -51,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c86feb02-b129-11e3-86f9-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/1654b483-066b-11ec-b5d3-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0283-20210101
-  retrieved_at: '2026-10-22T03:00:23Z'
+  retrieved_at: '2026-10-22T16:32:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T21:08:21.273+02:00'
 integrity:
@@ -60,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:23Z'
-  notes: Texto consolidado 02014R0283-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:32:41Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2014-283.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,16 +244,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:23Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:32:41Z'
+  warnings: []
   errors: []
 ---
 

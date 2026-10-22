@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014D0541:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014D0541-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2014-05-27",
+   "future": false,
+   "celex": "32014D0541",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7e05dfd7fc4536a8",
+    "3c5489b6273e7fba",
+    "5f49bda8e9568305",
+    "58715d1c0c317d5f",
+    "f828df94cb5297ef",
+    "a6cb728f59aa9016",
+    "b37d16d74e95aaa3",
+    "79f11f26ce8671ab",
+    "09126edbb66256cb",
+    "adf65bd9e9fd589f",
+    "319bbef2a1df4fcb",
+    "f0a86574bcc802c8",
+    "6e0865f033cd4129",
+    "b676c125445f5114",
+    "7de5ab7009baf904",
+    "2c39fe84d7436d18"
+   ]
+  },
+  {
+   "date": "2018-08-02",
+   "future": false,
+   "celex": "02014D0541-20180802",
+   "acts": [
+    {
+     "id": "eu:celex:32018R1046:por",
+     "title": "REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018",
+     "published": null,
+     "celex": "32018R1046"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Ações apoiadas pelo quadro de apoio SST",
+    "Altera Artigo 7.º — Participação dos Estados-Membros",
+    "Altera Artigo 14.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1a222a301b75adff",
+    "3c5489b6273e7fba",
+    "5f49bda8e9568305",
+    "58715d1c0c317d5f",
+    "1161a81db7e13be8",
+    "a6cb728f59aa9016",
+    "b37d16d74e95aaa3",
+    "74c1f211bc7b0155",
+    "09126edbb66256cb",
+    "adf65bd9e9fd589f",
+    "319bbef2a1df4fcb",
+    "f0a86574bcc802c8",
+    "6e0865f033cd4129",
+    "b676c125445f5114",
+    "0682fbd70b70cf3f"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02014D0541-20210101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Estabelecimento do quadro de apoio",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Objetivos do quadro de apoio SST",
+    "Suprime Artigo 4.º — Ações apoiadas pelo quadro de apoio SST",
+    "Suprime Artigo 5.º — Serviços SST",
+    "Suprime Artigo 6.º — Papel da Comissão",
+    "Suprime Artigo 7.º — Participação dos Estados-Membros",
+    "Suprime Artigo 8.º — Papel do Centro de Satélites da União Europeia",
+    "Suprime Artigo 9.º — Dados SST e informações SST",
+    "Suprime Artigo 10.º — Coordenação das atividades operacionais",
+    "Suprime Artigo 11.º — Acompanhamento e avaliação",
+    "Suprime Artigo 12.º — Procedimento de comité",
+    "Suprime Artigo 13.º — Entrada em vigor",
+    "Suprime Artigo 14.º"
+   ],
+   "fragments": [
+    "fdbc9c930355dfc3"
+   ]
+  }
+ ],
+ "fragments": {
+  "7e05dfd7fc4536a8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de abril de 2014\n\nque estabelece um quadro de apoio à vigilância e ao rastreio de objetos no espaço\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 189.º, n.º 2,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014158PT.01022701-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014158PT.01022701-E0002),\n\nConsiderando o seguinte:\n\n(1) Na sua Comunicação de 4 de abril de 2011 intitulada «Para uma estratégia espacial da União Europeia ao serviço do cidadão», a Comissão sublinhou que a competência partilhada no domínio do espaço, conferida à União pelo Tratado sobre o Funcionamento da União Europeia (TFUE), se articula com um reforço da parceria com os Estados-Membros. A Comissão sublinhou igualmente que todas as novas ações devem basear-se nos recursos existentes e na identificação conjunta das necessidades de novos recursos.\n\n(2) Na sua Resolução de 26 de setembro de 2008 intitulada «Levar para diante a Política Espacial Europeia» [([^3])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014158PT.01022701-E0003), o Conselho recordava que os recursos espaciais se tornaram indispensáveis para a nossa economia e que a sua segurança deve ser garantida. Sublinhava «a necessidade de a Europa […] desenvolver uma capacidade europeia operacional para o controlo e a vigilância da sua infraestrutura espacial e dos seus detritos espaciais, inicialmente baseada nos recursos nacionais e europeus existentes, beneficiando das relações que podem ser estabelecidas com outras nações parceiras e respetivas capacidades».\n\n(3) Na sua Resolução de 25 de novembro de 2010 intitulada «Desafios globais: tirar o máximo partido dos sistemas espaciais europeus», o Conselho reconheceu a necessidade de uma futura capacidade de conhecimento do estado do espaço (SSA, *space situational awareness*) como uma atividade a nível europeu para desenvolver e explorar os recursos nacionais e europeus existentes, tanto civis como militares, e convidou a Comissão e o Conselho a proporem um sistema de governação e uma política de tratamento de dados que permita aos Estados-Membros contribuírem com as suas capacidades nacionais relevantes, em conformidade com os requisitos e a regulamentação aplicáveis em matéria de segurança. Convidou ainda «todos os atores institucionais europeus a explorarem medidas adequadas» que tenham em conta as necessidades dos utilizadores civis e militares, façam uso de recursos relevantes em conformidade com os requisitos de segurança aplicáveis e explorem o desenvolvimento do programa preparatório SSA da Agência Espacial Europeia (AEE).\n\n(4) As Conclusões do Conselho de 31 de maio de 2011 sobre a Comunicação da Comissão «Para uma estratégia espacial da União Europeia ao serviço do cidadão» e a Resolução do Conselho de 6 de dezembro de 2011 intitulada «Orientações sobre o valor acrescentado e os benefícios da política espacial para a segurança dos cidadãos europeus» [([^4])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014158PT.01022701-E0004) reiteravam que «é necessário dispor de uma capacidade de Conhecimento da Situação no Espaço (SSA) efetiva enquanto atividade a nível europeu» e instavam a União a fazer a mais ampla utilização possível dosrecursos, das competências e das qualificações que já existam ou estejam a ser desenvolvidas nos Estados-Membros, a nível europeu e, se necessário, internacionalmente. Reconhecendo que se trata de um sistema suscetível de dupla utilização e tendo em conta a sua dimensão específica de segurança, o Conselho instou a Comissão e o Serviço Europeu para a Ação Externa (SEAE), em estreita cooperação com a AEE e os Estados-Membros, que possuem tais meios e dispõem de capacidades, e em consulta com todos os intervenientes envolvidos, a apresentar propostas destinadas a explorar e desenvolver plenamente esses meios e capacidades, a fim de desenvolver uma capacidade de SSA enquanto atividade a nível europeu e a definir, nesse contexto, uma governação e política em matéria de dados adequadas que tenham em conta a elevada sensibilidade dos dados SSA.\n\n(5) Entende-se que o SSA abrange três áreas principais, a saber, a vigilância e rastreio de objetos no espaço (SST, *space surveillance and tracking*), a monitorização e previsão da meteorologia espacial, e os objetos próximos da terra. As atividades nestas áreas têm por objetivo proteger infraestruturas no espaço e dos perigos provenientes do espaço. A presente decisão, que abrange a SST, deverá promover sinergias entre estas áreas.\n\n(6) A fim de reduzir os riscos de colisão, a União deveria igualmente buscar sinergias com as iniciativas referentes a medidas ativas de remoção e desativação de detritos espaciais, como a desenvolvida pela AEE.\n\n(7) Os detritos espaciais tornaram-se uma grave ameaça para a proteção, a segurança e a sustentabilidade das atividades espaciais. Consequentemente, deverá ser estabelecido um quadro de apoio SST, com o objetivo de apoiar a criação e o funcionamento de serviços de monitorização e vigilância de objetos espaciais, tendo em vista prevenir danos em veículos espaciais resultantes de colisões e a proliferação de detritos espaciais, e com o objetivo de prever as trajetórias e rotas de reentrada na atmosfera, a fim de fornecer a informação mais completa aos serviços do Estado e à proteção civil no caso de reentradas descontroladas de veículos espaciais inteiros ou dos seus detritos espaciais na atmosfera terrestre.\n\n(8) O quadro de apoio SST deverá contribuir para assegurar a disponibilidade a longo prazo das infraestruturas, meios e serviços espaciais europeus e nacionais que são essenciais para a proteção e a segurança das economias, das sociedades e dos cidadãos da Europa.\n\n(9) A prestação de serviços SST beneficiará todos os operadores públicos e privados de infraestruturas espaciais, incluindo a União, tendo em conta as responsabilidades da União a nível dos programas espaciais da União, particularmente os programas europeus de navegação por satélite Galileo e EGNOS, criados pelo Regulamento (UE) n.º 1285/2013 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2014158PT.01022701-E0005), assim como o programa Copernicus, criado pelo Regulamento (UE) n.º 377/2014 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2014158PT.01022701-E0006). Os alertas precoces sobre reentradas descontroladas na atmosfera e a estimativa do momento e da área do impacto também beneficiarão as autoridades públicas nacionais competentes em matéria de proteção civil. Esses serviços poderão, além disso, ser de interesse para outros utilizadores, como sejam as seguradoras privadas, para poderem calcular a eventual responsabilidade associada a colisões ocorridas durante o ciclo de vida do satélite. Deverá também ser considerada a hipótese de criar, a longo prazo, um serviço público de informação reutilizável e gratuito sobre elementos orbitais dos objetos espaciais que orbitam a Terra.\n\n(10) Os serviços SST deverão ser complementares das atividades de investigação relacionadas com a proteção das infraestruturas espaciais levadas a cabo no âmbito do Horizonte 2020, estabelecido pelo Regulamento (UE) n.º 1291/2013 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2014158PT.01022701-E0007), dos programas espaciais emblemáticos da União Copernicus e Galileo, da iniciativa Agenda Digital, referida na Comunicação da Comissão de 26 de agosto de 2010 intitulada «Agenda Digital para a Europa», de outras infraestruturas de telecomunicações, que ajudam a concretizar a sociedade da informação, bem como das atividades da AEE.\n\n(11) O quadro de apoio SST deverá contribuir para garantir a utilização e exploração pacíficas do espaço exterior.\n\n(12) O quadro de apoio SST deverá ainda ter em atenção a cooperação com parceiros internacionais, particularmente os Estados Unidos da América, organizações internacionais e outras partes terceiras, em especial com o objetivo de evitar as colisões no espaço e prevenir a proliferação dos detritos espaciais. Adicionalmente, deverá ser complementar das medidas de mitigação existentes, como as orientações das Nações Unidas em matéria de mitigação dos riscos associados aos detritos espaciais ou outras iniciativas, para garantir a segurança e a sustentabilidade das atividades no espaço exterior. Deverá ainda ser coerente com a proposta da União relativa a um Código de Conduta internacional para as atividades no espaço exterior.\n\n(13) O quadro de apoio SST deverá consistir na colocação em rede e na utilização de meios SST nacionais para fornecer serviços SST. Uma vez alcançado este objetivo, deverá ser incentivado o desenvolvimento de novos sensores ou a melhoria dos sensores existentes utilizados pelos Estados-Membros.\n\n(14) A Comissão e o consórcio SST criado ao abrigo da presente decisão deverão, em estreita cooperação com a AEE e outras partes interessadas, continuar a liderar um diálogo de natureza técnica no domínio da SST com parceiros estratégicos, de acordo com as respetivas competências.\n\n(15) Os requisitos dos utilizadores civis-militares do SSA foram definidos no documento de trabalho aprovado dos serviços da Comissão sobre os requisitos dos utilizadores civis e militares para a o conhecimento europeu da situação no espaço («European space situational awareness civil-military user requirements»). A prestação de serviços SST deverá ser orientada em função de requisitos dos utilizadores civis. Os fins puramente militares não deverão ser abordados na presente decisão. A Comissão deverá estabelecer um mecanismo para rever e atualizar regularmente os requisitos dos utilizadores, consoante as necessidades, com a participação de representantes da comunidade de utilizadores. Para esse efeito, deverá manter o necessário diálogo com outros intervenientes relevantes como a Agência Europeia de Defesa e a AEE.\n\n(16) O funcionamento dos serviços SST deverá basear-se numa parceria entre a União e os Estados-Membros e utilizar competências e recursos de que se disponha ou venha a dispor a nível nacional, inclusive os desenvolvidos pela AEE. Os Estados-Membros deverão manter a propriedade e o controlo dos seus recursos e deverão continuar a ser responsáveis pelo respetivo funcionamento e pela sua manutenção e renovação. O quadro de apoio SST não deverá conceder apoio financeiro ao desenvolvimento de novos sensores SST. A necessidade de novos sensores para fazer face aos requisitos dos utilizadores, caso surja, poderá ser suprida a nível nacional ou através de um programa de investigação e desenvolvimento europeu, consoante mais adequado. A Comissão e os Estados-Membros deverão promover e facilitar a participação do maior número de Estados-Membros no quadro de apoio SST, sem prejuízo do cumprimento dos critérios de participação.\n\n(17) O Centro de Satélites da União Europeia (SATCEN), a agência da União criada pela Ação Comum 2001/555/PESC do Conselho [([^8])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2014158PT.01022701-E0008), que fornece serviços e produtos de informação e imagens geoespaciais com diferentes níveis de classificação aos utilizadores civis e militares, poderá contribuir para a prestação de serviços SST. As suas competências especializadas de tratamento de informações classificadas num ambiente seguro e a sua estreita ligação institucional com os Estados-Membros são vantagens que facilitam o tratamento e a prestação de serviços SST. Condição prévia para que o SATCEN desempenhe um papel no quadro de apoio SST é a alteração da referida ação comum, que atualmente não prevê atividades do SATCEN no domínio da SST. A Comissão deverá cooperar, se necessário, com o SEAE, dada a função por este desempenhada no apoio ao Alto Representante da União Europeia para os Negócios Estrangeiros e a Política de Segurança na direção operacional do SATCEN.\n\n(18) A existência de informações precisas quanto à natureza, às características e à localização de determinados objetos espaciais pode afetar a segurança da União ou dos seus Estados-Membros e de países terceiros. Os Estados-Membros e, se necessário, através do Comité de Segurança do Conselho (a seguir designado «Comité de Segurança»), deverão ter em conta as considerações de segurança adequadas e, na criação e no funcionamento da rede de capacidades relevantes, incluindo sensores SST, a capacidade para tratar e analisar dados SST e o fornecimento de serviços SST. É, pois, necessário prever na presente decisão disposições gerais sobre a utilização e o intercâmbio seguro de informações SST entre os Estados-Membros, os destinatários dos serviços SST e, quando se justifique, o SATCEN. Além disso, a Comissão, o SEAE e os Estados-Membros deverão definir os mecanismos de coordenação necessários para dar resposta a questões relacionadas com a segurança do quadro de apoio SST.\n\n(19) Os Estados-Membros participantes deverão ser responsáveis pela negociação e aplicação das disposições sobre a utilização de dados SST e sobre a utilização e o intercâmbio de informações SST. As disposições sobre a utilização de dados SST e sobre a utilização e o intercâmbio de informações SST estabelecidas na presente decisão e no acordo entre os Estados-Membros participantes e, quando se justifique, o SATCEN deverão ter em conta as recomendações aprovadas em matéria de segurança dos dados SST.\n\n(20) A potencial sensibilidade dos dados SST requer uma cooperação baseada na eficácia e na confiança, incluindo no que se refere ao modo como os dados SST são tratados e analisados. A potencial utilização de *software* de fonte aberta, que permita o acesso seguro ao código-fonte dos colaboradores autorizados que contribuem com dados SST tendo em vista efetuar modificações e melhorias operacionais, deverá contribuir para a consecução desse objetivo.\n\n(21) O Comité de Segurança recomendou a criação de uma estrutura de gestão do risco para assegurar que as questões da segurança dos dados são devidamente tidas em conta na execução do quadro de apoio SST. Para esse efeito, as estruturas e os procedimentos adequados de gestão do risco deverão ser estabelecidos pelos Estados-Membros participantes e, quando se justifique, pelo SATCEN, tendo em conta as recomendações do Comité de Segurança.\n\n(22) A fim de assegurar condições uniformes para a execução da presente decisão, deverão ser atribuídas competências de execução à Comissão. Essas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2014158PT.01022701-E0009).\n\n(23) Atendendo a que os objetivos da presente decisão, a saber, apoiar as ações que visem a criação e o funcionamento da rede de sensores, a criação de capacidade para tratar e analisar dados SST, e a criação e o funcionamento de serviços SST, não podem ser suficientemente alcançados pelos Estados-Membros individualmente, dado que a prestação desse tipo de serviços por um consórcio de Estados-Membros participantes beneficiará a União, nomeadamente enquanto grande detentora de recursos espaciais, mas podem, devido à dimensão da decisão, ser mais bem alcançados ao nível da União, a União pode adotar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente decisão não excede o necessário para alcançar esses objetivos.\n\n(24) Os objetivos da presente decisão são semelhantes aos objetivos dos programas estabelecidos pelo Regulamento (UE) n.º 1285/2013, no artigo 1.º, no artigo 3.º, alíneas c) e d), e no artigo 4.º; pela Decisão 2013/743/UE do Conselho [([^10])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr10-L_2014158PT.01022701-E0010), no artigo 2.º, n.º 2, alíneas b) e c), no Anexo I, Parte II, ponto 1.6.2, alínea d), e no Anexo I, Parte III, pontos 7.5 e 7.8; pelo Regulamento (UE) n.º 377/2014, no artigo 8.º, n.º 2, alínea b), que atribui um montante máximo de 26,5 milhões de EUR a preços correntes. O esforço financeiro global para a realização dos objetivos do quadro de apoio SST, nomeadamente a colocação em rede dos recursos existentes, é calculado em 70 milhões de EUR. Tendo em consideração a similaridade dos objetivos da presente decisão e dos objetivos dos programas acima referidos, as ações estabelecidas pela presente decisão poderão ser financiadas por esses programas, em plena conformidade com os respetivos atos de base.\n\n(25) Para assegurar um nível aceitável de autonomia europeia nas atividades SST, poderá ser necessário adotar um ato de base na aceção do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho [([^11])](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr11-L_2014158PT.01022701-E0011) para o SST. Esta possibilidade poderá ser analisada durante a revisão intercalar do atual quadro financeiro plurianual.\n\n(26) Reconhecendo a natureza sensível do SSA, a operação de sensores e o tratamento de dados conducente à prestação de serviços SST deverá ficar a cargo dos Estados-Membros participantes. Os recursos SST nacionais permanecerão sob a autoridade dos Estados-Membros responsáveis pelo seu controlo e funcionamento,\n\nADOTARAM A PRESENTE DECISÃO:"
+  },
+  "3c5489b6273e7fba": {
+   "fragment_id": "Artigo 1.º — Estabelecimento do quadro de apoio",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Estabelecimento do quadro de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estabelecimento do quadro de apoio\n\nA presente decisão estabelece um quadro de apoio à vigilância e ao rastreio de objetos no espaço (SST, *space surveillance and tracking*)."
+  },
+  "5f49bda8e9568305": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente decisão, entende-se por:\n\n1) «Objeto espacial», qualquer objeto de origem humana no espaço exterior;\n\n2) «Veículo espacial», qualquer objeto espacial que sirva um objetivo específico, incluindo satélites artificiais e andares superiores de lançadores ativos;\n\n3) «Detritos espaciais», quaisquer objetos espaciais, incluindo veículos espaciais ou seus fragmentos e elementos, que se encontrem na órbita da Terra ou reentrem na atmosfera terrestre e não funcionem ou já não sirvam um fim específico, incluindo componentes de foguetes ou satélites artificiais, ou satélites artificiais inativos;\n\n4) «Sensor SST», um dispositivo ou combinação de dispositivos, como radares e telescópios terrestres ou espaciais, capaz de medir parâmetros físicos relacionados com objetos espaciais, tais como a dimensão, a localização e a velocidade;\n\n5) «Dados SST», parâmetros físicos de objetos espaciais adquiridos por sensores SST ou parâmetros orbitais de objetos espaciais obtidos mediante observações efetuadas por sensores SST;\n\n6) «Informações SST», os dados SST que tenham sido tratados e sejam facilmente interpretados pelo destinatário."
+  },
+  "58715d1c0c317d5f": {
+   "fragment_id": "Artigo 3.º — Objetivos do quadro de apoio SST",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objetivos do quadro de apoio SST",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos do quadro de apoio SST\n\n1. O objetivo geral do quadro de apoio SST é contribuir para assegurar a disponibilidade a longo prazo das infraestruturas, dos meios e dos serviços espaciais europeus e nacionais que são essenciais para a proteção e a segurança das economias, das sociedades e dos cidadãos da Europa.\n\n2. Os objetivos específicos do quadro de apoio SST são:\n\na) Avaliar e reduzir os riscos relacionados com colisões para as operações em órbita de veículos espaciais europeus, e permitir aos operadores de veículos espaciais planear e adotar medidas de mitigação de forma mais eficaz;\n\nb) Reduzir os riscos relacionados com o lançamento de veículos espaciais europeus;\n\nc) Vigiar as reentradas descontroladas de veículos espaciais ou de detritos espaciais na atmosfera terrestre, e permitir alertas precoces mais precisos e eficazes, com o objetivo de reduzir potenciais riscos para a segurança dos cidadãos da União e mitigar potenciais danos à infraestrutura terrestre;\n\nd) Procurar prevenir a proliferação dos detritos espaciais."
+  },
+  "f828df94cb5297ef": {
+   "fragment_id": "Artigo 4.º — Ações apoiadas pelo quadro de apoio SST",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Ações apoiadas pelo quadro de apoio SST",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ações apoiadas pelo quadro de apoio SST\n\n1. Para alcançar os objetivos estabelecidos no artigo 3.º, o quadro de apoio SST presta apoio às ações que a seguir se enunciam destinadas a criar uma capacidade SST a nível europeu e com um grau adequado de autonomia europeia:\n\na) A criação e o funcionamento de uma função sensor, composta por uma rede de sensores terrestres e/ou espaciais dos Estados-Membros, incluindo os sensores nacionais desenvolvidos através da AEE, destinados a vigiar e rastrear objetos espaciais, e constituir uma base de dados dos mesmos;\n\nb) A criação e operação de uma função tratamento para processar e analisar os dados SST a nível nacional, a fim de gerar informações e serviços SST para transmissão à função prestação de serviços SST;\n\nc) A criação de uma função prestação de serviços SST, tal como definidos no artigo 5.º, n.º 1, para as entidades referidas no artigo 5.º, n.º 2.\n\n2. O quadro de apoio SST não abrange o desenvolvimento de novos sensores SST."
+  },
+  "a6cb728f59aa9016": {
+   "fragment_id": "Artigo 5.º — Serviços SST",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Serviços SST",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços SST\n\n1. Os serviços SST a que se refere o artigo 4.º são de natureza civil. Devem compreender os seguintes serviços:\n\na) A avaliação de riscos de colisão entre veículos espaciais, ou entre veículos espaciais e detritos espaciais, e a criação de alertas anticolisão durante as fases de lançamento, de órbita inicial, de operação em órbita e de desativação dos veículos das missões com veículos espaciais;\n\nb) A deteção e caracterização de fragmentações, desmembramentos ou colisões em órbita;\n\nc) A avaliação de riscos relacionados com a reentrada descontrolada de objetos e detritos espaciais na atmosfera terrestre e a geração de informações conexas, incluindo a estimativa do momento e da localização provável do eventual impacto.\n\n2. Os serviços SST são prestados:\n\na) A todos os Estados-Membros;\n\nb) Ao Conselho;\n\nc) À Comissão;\n\nd) Ao SEAE;\n\ne) Aos proprietários e operadores de veículos espaciais públicos e privados;\n\nf) Às autoridades públicas competentes em matéria de proteção civil.\n\nOs serviços SST são prestados em conformidade com as disposições em matéria de utilização e intercâmbio de dados e de informações SST estabelecidas no artigo 9.º.\n\n3. Os Estados-Membros participantes, a Comissão e, consoante o caso, o SATCEN, não são responsáveis por:\n\na) Prejuízos resultantes da falta ou da interrupção da prestação de serviços SST;\n\nb) Atrasos na prestação dos serviços SST;\n\nc) Falta de fiabilidade das informações fornecidas através dos serviços SST; ou\n\nd) Medidas tomadas na sequência da prestação de serviços SST."
+  },
+  "b37d16d74e95aaa3": {
+   "fragment_id": "Artigo 6.º — Papel da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Papel da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Papel da Comissão\n\n1. A Comissão:\n\na) Gere o quadro de apoio SST e assegura a sua execução;\n\nb) Adota as medidas necessárias para identificar, controlar, atenuar e monitorizar os riscos associados ao quadro de apoio SST;\n\nc) Assegura a atualização dos requisitos de utilizadores SST de forma adequada;\n\nd) Define as orientações gerais para a governação do quadro de apoio SST, em particular com o objetivo de facilitar a constituição e o funcionamento do consórcio referido no artigo 7.º, n.º 3;\n\ne) Facilita a mais ampla participação possível dos Estados-Membros, nos termos do artigo 7.º, quando tal se justifique.\n\n2. A Comissão adota atos de execução para elaborar um plano de coordenação e medidas técnicas relevantes para as atividades do quadro de apoio SST. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2.\n\n3. A Comissão fornece em tempo útil ao Parlamento Europeu e ao Conselho todas as informações relevantes sobre a execução do quadro de apoio SST, em especial para garantir transparência e clareza no que respeita:\n\na) Aos esforços indicativos e às diferentes fontes de financiamento da União;\n\nb) À participação no quadro de apoio SST e às ações que beneficiam do seu apoio;\n\nc) À evolução da colocação em rede dos recursos SST dos Estados-Membros e da prestação de serviços SST;\n\nd) Ao intercâmbio e à utilização das informações SST."
+  },
+  "79f11f26ce8671ab": {
+   "fragment_id": "Artigo 7.º — Participação dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Participação dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Participação dos Estados-Membros\n\n1. Os Estados-Membros que pretendam participar na execução das ações enunciadas no artigo 4.º apresentam à Comissão um pedido em que demonstrem que cumprem os seguintes critérios:\n\na) Ser proprietário de ou ter acesso a: i) sensores SST disponíveis ou em desenvolvimento e recursos técnicos e humanos necessários para os operar, que sejam adequados, ou ii) capacidades de análise operacional e de tratamento de dados especificamente concebidas para SST, que sejam adequadas;\n\ni) sensores SST disponíveis ou em desenvolvimento e recursos técnicos e humanos necessários para os operar, que sejam adequados, ou\n\nii) capacidades de análise operacional e de tratamento de dados especificamente concebidas para SST, que sejam adequadas;\n\nb) Ter elaborado um plano de ação para executar as ações enunciadas no artigo 4.º, incluindo as modalidades de cooperação com outros Estados-Membros.\n\n2. A Comissão adota os atos de execução relativos aos procedimentos de apresentação de candidaturas e ao cumprimento dos critérios estabelecidos no n.º 1 pelos Estados-Membros. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2.\n\n3. Todos os Estados-Membros que cumpram os critérios referidos no n.º 1 designam uma entidade nacional para os representar. As entidades nacionais designadas constituem um consórcio e celebram o acordo a que se refere o artigo 10.º.\n\n4. A Comissão publica e atualiza, no seu sítio *web*, a lista dos Estados-Membros participantes.\n\n5. A responsabilidade pelo funcionamento dos sensores, pelo tratamento dos dados e pela execução da política em matéria de tratamento de dados incumbe aos Estados-Membros participantes. Os recursos dos Estados-Membros participantes ficam exclusivamente sob o controlo nacional."
+  },
+  "09126edbb66256cb": {
+   "fragment_id": "Artigo 8.º — Papel do Centro de Satélites da União Europeia",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Papel do Centro de Satélites da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Papel do Centro de Satélites da União Europeia\n\nO Centro de Satélites da União Europeia (SATCEN) pode cooperar com o consórcio a constituir nos termos do artigo 7.º, n.º 3. Nesse caso, o SATCEN celebra os necessários acordos de execução com os Estados-Membros participantes."
+  },
+  "adf65bd9e9fd589f": {
+   "fragment_id": "Artigo 9.º — Dados SST e informações SST",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Dados SST e informações SST",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dados SST e informações SST\n\nA utilização e o intercâmbio de informações SST disponibilizadas pelo consórcio e a utilização dos dados SST no contexto do quadro de apoio SST para efeitos da execução das ações enunciadas no artigo 4.º obedecem às seguintes regras:\n\na) É prevenida a divulgação não autorizada de dados e informações, salvaguardando-se simultaneamente a eficiência das operações e otimizando-se a utilização das informações geradas;\n\nb) É garantida a segurança dos dados SST;\n\nc) As informações e os serviços SST são fornecidos aos destinatários dos serviços SST indicados no artigo 5.º, n.º 2, em função das suas necessidades de informação, de acordo com as instruções e as regras de segurança da entidade que origina as informações e do proprietário do objeto espacial em causa."
+  },
+  "319bbef2a1df4fcb": {
+   "fragment_id": "Artigo 10.º — Coordenação das atividades operacionais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Coordenação das atividades operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coordenação das atividades operacionais\n\nAs entidades nacionais designadas que constituem o consórcio a que se refere o artigo 7.º, n.º 3, celebram um acordo em que definem as regras e os mecanismos aplicáveis à sua cooperação na execução das ações enunciadas no artigo 4.º. Em especial, o acordo prevê disposições sobre:\n\na) A utilização e o intercâmbio de informações SST, tendo em conta as recomendações aprovadas relativas à «política de dados em matéria de Conhecimento da Situação no espaço — recomendações sobre aspetos de segurança»;\n\nb) A criação de uma estrutura de gestão do risco, a fim de garantir a execução das disposições sobre a utilização e o intercâmbio de dados SST e informações SST em condições seguras;\n\nc) A cooperação com o SATCEN para executar a ação enunciada no artigo 4.º, n.º 1, alínea c)."
+  },
+  "f0a86574bcc802c8": {
+   "fragment_id": "Artigo 11.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento e avaliação\n\n1. A Comissão acompanha a execução do quadro de apoio SST.\n\n2. Até 1 de julho de 2018, a Comissão envia ao Parlamento Europeu e ao Conselho um relatório sobre a execução do quadro de apoio SST no que respeita à concretização dos objetivos da presente decisão, tanto na perspetiva dos resultados como dos impactos, à eficácia da utilização dos recursos e ao valor acrescentado europeu.\n\nEste relatório poderá ser acompanhado de propostas de alterações, quando se justifique, incluindo a possibilidade de adotar um ato de base na aceção do Regulamento (UE, Euratom) n.º 966/2012 para a SST."
+  },
+  "6e0865f033cd4129": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité. Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "b676c125445f5114": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "7de5ab7009baf904": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs destinatários da presente decisão são os Estados-Membros.\n\nFeito em Estrasburgo, em 16 de abril de 2014.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. KOURKOULAS**\n\n---"
+  },
+  "2c39fe84d7436d18": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014158PT.01022701-E0001) [JO C 327 de 12.11.2013, p. 38](http://publications.europa.eu/resource/oj/JOC_2013_327_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014158PT.01022701-E0002) Posição do Parlamento Europeu de 2 de abril de 2014 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 14 de abril de 2014.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014158PT.01022701-E0003) [JO C 268 de 23.10.2008, p. 1](http://publications.europa.eu/resource/oj/JOC_2008_268_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014158PT.01022701-E0004) [JO C 377 de 23.12.2011, p. 1](http://publications.europa.eu/resource/oj/JOC_2011_377_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2014158PT.01022701-E0005) Regulamento (UE) n.º 1285/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à implantação e à exploração dos sistemas europeus de navegação por satélite e que revoga o Regulamento (CE) n.º 876/2002 do Conselho e o Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho ([JO L 347 de 20.12.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2014158PT.01022701-E0006) Regulamento (UE) n.º 377/2014 do Parlamento Europeu e do Conselho, de 3 de abril de 2014, que estabelece o programa Copernicus e revoga o Regulamento (UE) n.º 911/2010 ([JO L 122 de 24.4.2014, p. 44](http://publications.europa.eu/resource/oj/JOL_2014_122_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2014158PT.01022701-E0007) Regulamento (UE) n.º 1291/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria o Horizonte 2020, Programa-Quadro de Investigação e Inovação (2014-2020) e que revoga a Decisão n.º 1982/2006/CE ([JO L 347 de 20.12.2013, p. 104](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2014158PT.01022701-E0008) Ação Comum 2001/555/PESC do Conselho, de 20 de julho de 2001, relativa à criação do Centro de Satélites da União Europeia ([JO L 200 de 25.7.2001, p. 5](http://publications.europa.eu/resource/oj/JOL_2001_200_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2014158PT.01022701-E0009) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc10-L_2014158PT.01022701-E0010) Decisão 2013/743/UE do Conselho, de 3 de dezembro de 2013, que estabelece o programa específico de execução do Horizonte 2020 — Programa-Quadro de Investigação e Inovação (2014-2020) e revoga as Decisões 2006/971/CE, 2006/972/CE, 2006/973/CE, 2006/974/CE e 2006/975/CE ([JO L 347 de 20.12.2013, p. 965](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc11-L_2014158PT.01022701-E0011) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 ([JO L 298 de 26.10.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_298_R_TOC))."
+  },
+  "1a222a301b75adff": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de abril de 2014\n\nque estabelece um quadro de apoio à vigilância e ao rastreio de objetos no espaço"
+  },
+  "1161a81db7e13be8": {
+   "fragment_id": "Artigo 4.º — Ações apoiadas pelo quadro de apoio SST",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Ações apoiadas pelo quadro de apoio SST",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ações apoiadas pelo quadro de apoio SST\n\n1. Para alcançar os objetivos estabelecidos no artigo 3.º, o quadro de apoio SST presta apoio às ações que a seguir se enunciam destinadas a criar uma capacidade SST a nível europeu e com um grau adequado de autonomia europeia:\n\na) A criação e o funcionamento de uma função sensor, composta por uma rede de sensores terrestres e/ou espaciais dos Estados-Membros, incluindo os sensores nacionais desenvolvidos através da AEE, destinados a vigiar e rastrear objetos espaciais, e constituir uma base de dados dos mesmos;\n\nb) A criação e operação de uma função tratamento para processar e analisar os dados SST a nível nacional, a fim de gerar informações e serviços SST para transmissão à função prestação de serviços SST;\n\nc) A criação de uma função prestação de serviços SST, tal como definidos no artigo 5.º, n.º 1, para as entidades referidas no artigo 5.º, n.º 2.\n\n2. O quadro de apoio SST não abrange o desenvolvimento de novos sensores SST.\n\n3. Os programas de financiamento estabelecidos pelos Regulamentos (UE) n.º 377/2014 e (UE) n.º 1285/2013 e pela Decisão 2013/743/UE podem contribuir para o financiamento das ações referidas no n.º 1 do presente artigo, no âmbito desses programas e em conformidade com as respetivas metas e objetivos. Essas contribuições são despendidas nos termos do Regulamento (UE) n.º 377/2014. A Comissão avalia, antes do termo do Quadro Financeiro Plurianual 2014-2020, as novas regras financeiras simplificadas por força do presente número e o respetivo contributo para os objetivos do quadro de apoio à SST."
+  },
+  "74c1f211bc7b0155": {
+   "fragment_id": "Artigo 7.º — Participação dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Participação dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Participação dos Estados-Membros\n\n1. Os Estados-Membros que pretendam participar na execução das ações enunciadas no artigo 4.º apresentam à Comissão um pedido em que demonstrem que cumprem os seguintes critérios:\n\na) Ser proprietário de ou ter acesso a:\n\ni) sensores SST disponíveis ou em desenvolvimento e recursos técnicos e humanos necessários para os operar, que sejam adequados, ou\n\nii) capacidades de análise operacional e de tratamento de dados especificamente concebidas para SST, que sejam adequadas;\n\nb) Ter elaborado um plano de ação para executar as ações enunciadas no artigo 4.º, incluindo as modalidades de cooperação com outros Estados-Membros.\n\n2. A Comissão adota os atos de execução relativos aos procedimentos de apresentação de candidaturas e ao cumprimento dos critérios estabelecidos no n.º 1 pelos Estados-Membros. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2.\n\n3. Todos os Estados-Membros que cumpram os critérios referidos no n.º 1 designam uma entidade nacional para os representar. As entidades nacionais designadas constituem um consórcio e celebram o acordo a que se refere o artigo 10.º.\n\n4. A Comissão publica e atualiza, no seu sítio *web*, a lista dos Estados-Membros participantes.\n\n5. A responsabilidade pelo funcionamento dos sensores, pelo tratamento dos dados e pela execução da política em matéria de tratamento de dados incumbe aos Estados-Membros participantes. Os recursos dos Estados-Membros participantes ficam exclusivamente sob o controlo nacional."
+  },
+  "0682fbd70b70cf3f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs destinatários da presente decisão são os Estados-Membros."
+  },
+  "fdbc9c930355dfc3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02014D0541 — PT — 01.01.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32014D0541) [DECISÃO N.º 541/2014/UE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32014D0541) [de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014D0541) [que estabelece um quadro de apoio à vigilância e ao rastreio de objetos no espaço](http://publications.europa.eu/resource/celex/32014D0541) (JO L 158, 27.5.2014, p.227)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2021/696 do Parlamento Europeu e do Conselho de 28 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0696) — L 170 — 69 — 12.5.2021"
+  }
+ }
+}

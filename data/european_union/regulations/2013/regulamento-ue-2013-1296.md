@@ -36,6 +36,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2013-1296.versoes.json
+  count: 4
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-05-12'
+    amending: eu:celex:32016R0589:por
+    amending_title: REGULAMENTO (UE) 2016/589 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Coerência e complementaridade
+    - Altera Artigo 11.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 16.º — Tipos de ações
+    - Altera Artigo 24.º — Participação
+    - Altera Artigo 26.º — Objetivos específicos
+    - Altera Artigo 39.º — Alteração da Decisão n.º 283/2010/UE
+    - Altera Artigo 40.º — Entrada em vigor
+    - Altera Notas
+    - Suprime Artigo 23.º — Acompanhamento dos padrões de mobilidade
+  - date: '2018-08-02'
+    amending: eu:celex:32018R1046:por
+    amending_title: REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Orçamento
+    - Altera Artigo 7.º — Coerência e complementaridade
+    - Altera Artigo 11.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 14.º — Secções temáticas e financiamento
+    - Altera Artigo 19.º — Secções temáticas e financiamento
+    - Altera Artigo 24.º — Participação
+    - Altera Artigo 25.º — Secções temáticas e financiamento
+    - Altera Artigo 32.º — Programas de trabalho
+    - Altera Artigo 39.º — Alteração da Decisão n.º 283/2010/UE
+    - Altera Notas
+    - Suprime Artigo 33.º — Reafetação de fundos entre os eixos e a cada uma das secções temáticas dentro de cada eixo
+    - Suprime Artigo 34.º — Exercício da delegação
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES COMUNS
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Estrutura do Programa
+    - Suprime Artigo 4.º — Objetivos gerais do programa
+    - Suprime Artigo 5.º — Orçamento
+    - Suprime Artigo 6.º — Ações conjuntas
+    - Suprime Artigo 7.º — Coerência e complementaridade
+    - Suprime Artigo 8.º — Cooperação com organismos competentes
+    - Suprime Artigo 9.º — Disseminação de resultados e comunicação
+    - Suprime Artigo 10.º — Disposições financeiras
+    - Suprime Artigo 11.º — Proteção dos interesses financeiros da União
+    - Suprime Artigo 12.º — Acompanhamento
+    - Suprime Artigo 13.º — Avaliação
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES ESPECÍFICAS DOS EIXOS DO PROGRAMA
+    - Suprime CAPÍTULO I
+    - Suprime Eixo Progress
+    - Suprime Artigo 14.º — Secções temáticas e financiamento
+    - Suprime Artigo 15.º — Objetivos específicos
+    - Suprime Artigo 16.º — Tipos de ações
+    - Suprime Artigo 17.º — Cofinanciamento da União
+    - Suprime Artigo 18.º — Participação
+    - Suprime CAPÍTULO II
+    - Suprime Eixo EURES
+    - Suprime Artigo 19.º — Secções temáticas e financiamento
+    - Suprime Artigo 20.º — Objetivos específicos
+    - Suprime Artigo 21.º — Tipos de ações
+    - Suprime Artigo 22.º — Cofinanciamento da União
+    - Suprime Artigo 24.º — Participação
+    - Suprime CAPÍTULO III
+    - Suprime Eixo Microfinanciamento e Empreendedorismo Social
+    - Suprime Artigo 25.º — Secções temáticas e financiamento
+    - Suprime Artigo 26.º — Objetivos específicos
+    - Suprime Artigo 27.º — Tipos de ações
+    - Suprime Artigo 28.º — Participação
+    - Suprime Artigo 29.º — Contribuição financeira
+    - Suprime Artigo 30.º — Gestão
 identifiers:
   celex: 32013R1296
   eli: http://data.europa.eu/eli/reg/2013/1296/oj
@@ -50,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/e07f7f42-e56d-11eb-a1a5-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1296-20210101
-  retrieved_at: '2026-10-22T02:48:34Z'
+  retrieved_at: '2026-10-22T16:22:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T22:01:19.897+02:00'
 integrity:
@@ -59,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:34Z'
-  notes: Texto consolidado 02013R1296-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:22:22Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2013-1296.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -203,16 +288,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:34Z'
+  checked_at: '2026-10-22T16:22:22Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02013R1296-20131221: versão indisponível (Sem expressão na língua por para CELEX 02013R1296-20131221.)'
   errors: []
 ---
 

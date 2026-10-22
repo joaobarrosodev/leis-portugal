@@ -40,6 +40,593 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-03-01'
+version_history:
+  file: regulamento-ue-2013-1303.versoes.json
+  count: 17
+  source_lastmod: '2024-03-01'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-16'
+    amending: eu:celex:32015R1839:por
+    amending_title: REGULAMENTO (UE) 2015/1839 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Cálculo dos prazos para as decisões da Comissão
+    - Altera Artigo 4.º — Princípios Gerais
+    - Altera Artigo 5.º — Parceria e governação a vários níveis
+    - Altera Artigo 7.º — Promoção da igualdade entre homens e mulheres e não discriminação
+    - Altera Artigo 8.º — Desenvolvimento sustentável
+    - Altera Artigo 10.º — Quadro estratégico comum
+    - Altera Artigo 11.º — Conteúdo
+    - Altera Artigo 13.º — Orientações para os beneficiários
+    - Altera Artigo 14.º — Elaboração do acordo de parceria
+    - Altera Artigo 15.º — Conteúdo do acordo de parceria
+    - Altera Artigo 19.º — Condicionalidades ex ante
+    - Altera Artigo 20.º — Reserva de desempenho
+    - Altera Artigo 22.º — Aplicação do quadro de desempenho
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Artigo 24.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 25.º — Gestão da assistência técnica aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 26.º — Elaboração dos programas
+    - Altera Artigo 27.º — Conteúdo dos programas
+    - Altera Artigo 29.º — Procedimento de adoção dos programas
+    - Altera Artigo 30.º — Alteração dos programas
+    - Altera Artigo 32.º — Desenvolvimento local de base comunitária
+    - Altera Artigo 33.º — Estratégias de desenvolvimento local de base comunitária
+    - Altera Artigo 34.º — Grupos de ação local
+    - Altera Artigo 35.º — Apoio dos FEEI ao desenvolvimento local de base comunitária
+    - Altera Artigo 36.º — Investimentos territoriais integrados
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 38.º — Execução dos instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 40.º — Gestão e controlo de instrumentos financeiros
+    - Altera Artigo 44.º — Reutilização de recursos atribuíveis ao apoio dos FEEI até ao termo do período de elegibilidade
+    - Altera Artigo 47.º — Comité de acompanhamento
+    - Altera Artigo 49.º — Funções do comité de acompanhamento
+    - Altera Artigo 50.º — Relatórios de execução
+    - Altera Artigo 51.º — Reunião anual de avaliação
+    - Altera Artigo 53.º — Apresentação de relatórios pela Comissão e debate sobre os FEEI
+    - Altera Artigo 54.º — Disposições gerais
+    - Altera Artigo 55.º — Avaliação ex ante
+  - date: '2016-12-14'
+    amending: eu:celex:32016R2135:por
+    amending_title: REGULAMENTO (UE) 2016/2135 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2016
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Artigo 24.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^22^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0022))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^23^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0023))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^24^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0024))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^25^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0025))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^26^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0026))
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^22^](http://publications.europa.eu/resource/cellar/f159b422-72ae-49e5-86e6-2f2ea93955f1.0016.02/DOC_2#E0022))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^23^](http://publications.europa.eu/resource/cellar/f159b422-72ae-49e5-86e6-2f2ea93955f1.0016.02/DOC_2#E0023))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^24^](http://publications.europa.eu/resource/cellar/f159b422-72ae-49e5-86e6-2f2ea93955f1.0016.02/DOC_2#E0024))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^25^](http://publications.europa.eu/resource/cellar/f159b422-72ae-49e5-86e6-2f2ea93955f1.0016.02/DOC_2#E0025))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^26^](http://publications.europa.eu/resource/cellar/f159b422-72ae-49e5-86e6-2f2ea93955f1.0016.02/DOC_2#E0026))
+  - date: '2017-05-20'
+    amending: eu:celex:32017R0825:por
+    amending_title: REGULAMENTO (UE) 2017/825 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de maio de 2017; REGULAMENTO (UE)
+      2017/1199 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2017
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 58.º — Assistência técnica por iniciativa da Comissão
+    - Altera Artigo 91.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita Artigo 25.º
+    - Adita Gestão da assistência técnica aos Estados-Membros
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^24^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0024))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^25^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0025))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^26^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0026))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^27^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0027))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^28^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0028))
+    - Suprime Artigo 25.º — Gestão da assistência técnica aos Estados-Membros com dificuldades orçamentais temporárias
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^22^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0022))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^23^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0023))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^24^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0024))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^25^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0025))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^26^](http://publications.europa.eu/resource/cellar/1f66ab69-b99b-467e-815a-ba51a01044a1.0016.02/DOC_1#E0026))
+  - date: '2017-12-16'
+    amending: eu:celex:32017R2305:por
+    amending_title: REGULAMENTO (UE) 2017/2305 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 91.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 92.º — Recursos para o objetivo de Investimento no Crescimento e no Emprego e para o objetivo da Cooperação
+      Territorial Europeia
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^24^](http://publications.europa.eu/resource/cellar/30e482ef-58e0-46c6-be50-c64fa3fab120.0016.02/DOC_1#E0024))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^25^](http://publications.europa.eu/resource/cellar/30e482ef-58e0-46c6-be50-c64fa3fab120.0016.02/DOC_1#E0025))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^26^](http://publications.europa.eu/resource/cellar/30e482ef-58e0-46c6-be50-c64fa3fab120.0016.02/DOC_1#E0026))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^27^](http://publications.europa.eu/resource/cellar/30e482ef-58e0-46c6-be50-c64fa3fab120.0016.02/DOC_1#E0027))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^28^](http://publications.europa.eu/resource/cellar/30e482ef-58e0-46c6-be50-c64fa3fab120.0016.02/DOC_1#E0028))
+    - Adita REPARTIÇÃO ANUAL DAS DOTAÇÕES DE AUTORIZAÇÃO PARA OS ANOS DE 2014 A 2020
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^24^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0024))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^25^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0025))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^26^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0026))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^27^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0027))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^28^](http://publications.europa.eu/resource/cellar/61c22d49-61d5-49a5-934e-7dcd2d0e9240.0016.02/DOC_2#E0028))
+    - Suprime REPARTIÇÃO ANUAL DAS DE AUTORIZAÇÕES PARA O PERÍODO DE 2014 A 2020
+  - date: '2018-08-02'
+    amending: eu:celex:32018R1046:por
+    amending_title: REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Princípios Gerais
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 16.º — Adoção e alteração do acordo de parceria
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 30.º — Alteração dos programas
+    - Altera Artigo 32.º — Desenvolvimento local de base comunitária
+    - Altera Artigo 34.º — Grupos de ação local
+    - Altera Artigo 36.º — Investimentos territoriais integrados
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 38.º — Execução dos instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 40.º — Gestão e controlo de instrumentos financeiros
+    - Altera Artigo 41.º — Pedidos de pagamento, incluindo despesas para os instrumentos financeiros
+    - Altera Artigo 42.º — Despesas elegíveis no encerramento
+    - Altera Artigo 44.º — Reutilização de recursos atribuíveis ao apoio dos FEEI até ao termo do período de elegibilidade
+    - Altera Artigo 46.º — Relatório sobre a execução dos instrumentos financeiros
+    - Altera Artigo 49.º — Funções do comité de acompanhamento
+    - Altera Artigo 51.º — Reunião anual de avaliação
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 56.º — Avaliação durante o período de programação
+    - Altera Artigo 57.º — Avaliação ex post
+    - Altera Artigo 58.º — Assistência técnica por iniciativa da Comissão
+    - Altera Artigo 59.º — Assistência técnica por iniciativa dos Estados-Membros
+    - Altera Artigo 61.º — Operações geradoras de receita líquida após a sua conclusão
+    - Altera Artigo 65.º — Elegibilidade
+    - Altera Artigo 67.º — Formas das subvenções e ajuda reembolsável
+    - Altera Artigo 70.º — Elegibilidade das operações em função da localização
+    - Altera Artigo 71.º — Durabilidade das operações
+    - Altera Artigo 75.º — Poderes e responsabilidades da Comissão
+    - Altera Artigo 76.º — Autorizações orçamentais
+    - Altera Artigo 79.º — Pedidos de pagamento
+    - Altera Artigo 83.º — Interrupção do prazo de pagamento
+    - Altera Artigo 84.º — Prazo para a fiscalização e aprovação das contas pela Comissão
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 98.º — Apoio conjunto dos Fundos no âmbito do objetivo de Investimento no Crescimento e no Emprego
+    - Altera Artigo 102.º — Decisão sobre grandes projetos
+    - Altera Artigo 104.º — Âmbito de aplicação
+  - date: '2019-05-11'
+    amending: eu:celex:32018R1719:por
+    amending_title: REGULAMENTO (UE) 2018/1719 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018; REGULAMENTO
+      (UE) 2019/711 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 91.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 92.º — Recursos para o objetivo de Investimento no Crescimento e no Emprego e para o objetivo da Cooperação
+      Territorial Europeia
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - Altera REPARTIÇÃO ANUAL DAS DOTAÇÕES DE AUTORIZAÇÃO PARA OS ANOS DE 2014 A 2020
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^29^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0029))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^30^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0030))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^31^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0031))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^32^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0032))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^33^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0033))
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^29^](http://publications.europa.eu/resource/cellar/9d05553d-e83c-4028-a22e-654a437d878f.0016.02/DOC_1#E0029))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^30^](http://publications.europa.eu/resource/cellar/9d05553d-e83c-4028-a22e-654a437d878f.0016.02/DOC_1#E0030))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^31^](http://publications.europa.eu/resource/cellar/9d05553d-e83c-4028-a22e-654a437d878f.0016.02/DOC_1#E0031))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^32^](http://publications.europa.eu/resource/cellar/9d05553d-e83c-4028-a22e-654a437d878f.0016.02/DOC_1#E0032))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^33^](http://publications.europa.eu/resource/cellar/9d05553d-e83c-4028-a22e-654a437d878f.0016.02/DOC_1#E0033))
+  - date: '2020-04-01'
+    amending: eu:celex:32020R0460:por
+    amending_title: REGULAMENTO (UE) 2020/460 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 30.º — Alteração dos programas
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 65.º — Elegibilidade
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 96.º — Conteúdo, adoção e alteração dos programas operacionais do objetivo de Investimento no Crescimento
+      e no Emprego
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 139.º — Fiscalização e aprovação das contas
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^29^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0029))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^30^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0030))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^31^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0031))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^32^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0032))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^33^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0033))
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^29^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0029))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^30^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0030))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^31^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0031))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^32^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0032))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^33^](http://publications.europa.eu/resource/cellar/2f1e1725-ca7b-11e9-992f-01aa75ed71a1.0020.03/DOC_1#E0033))
+  - date: '2020-04-24'
+    amending: eu:celex:32020R0558:por
+    amending_title: REGULAMENTO (UE) 2020/558 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 130.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita CAPÍTULO V
+    - Adita Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Adita Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^30^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0030))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^31^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0031))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^32^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0032))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^33^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0033))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^34^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0034))
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^29^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0029))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^30^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0030))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^31^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0031))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^32^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0032))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^33^](http://publications.europa.eu/resource/cellar/b5f772df-83ea-11ea-bf12-01aa75ed71a1.0020.03/DOC_1#E0033))
+  - date: '2020-07-18'
+    amending: eu:celex:32020R1041:por
+    amending_title: REGULAMENTO (UE) 2020/1041 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 91.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 92.º — Recursos para o objetivo de Investimento no Crescimento e no Emprego e para o objetivo da Cooperação
+      Territorial Europeia
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - Altera REPARTIÇÃO ANUAL DAS DOTAÇÕES DE AUTORIZAÇÃO PARA OS ANOS DE 2014 A 2020
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^30^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0030))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^31^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0031))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^32^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0032))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^33^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0033))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^34^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0034))
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^30^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0030))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^31^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0031))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^32^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0032))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^33^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0033))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^34^](http://publications.europa.eu/resource/cellar/c6512314-961f-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0034))
+  - date: '2020-11-15'
+    amending: eu:celex:32020R1542:por
+    amending_title: REGULAMENTO (UE) 2020/1542 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 134.º — Pagamento do pré-financiamento
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Altera 5.2. Desenvolvimento sustentável
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^30^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0030))
+    - Adita 4.5. O programa para o ambiente e a ação climática (LIFE) ([^31^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0031))
+      e o acervo ambiental
+    - Adita 4.6. Erasmus+ ([^32^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0032))
+    - Adita 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^33^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0033))
+    - Adita 4.8. Mecanismo «Interligar a Europa» (MIE) ([^34^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0034))
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^30^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0030))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^31^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0031))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^32^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0032))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^33^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0033))
+    - Suprime 4.8. Mecanismo «Interligar a Europa» (MIE) ([^34^](http://publications.europa.eu/resource/cellar/720e3e0e-d0e7-11ea-adf7-01aa75ed71a1.0020.02/DOC_1#E0034))
+  - date: '2020-12-29'
+    amending: eu:celex:32020R2221:por
+    amending_title: REGULAMENTO (UE) 2020/2221 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera Artigo 154.º — Entrada em vigor
+    - Altera 3. ABORDAGEM INTEGRADA AOS FEEI E DISPOSIÇÕES PARA A SUA UTILIZAÇÃO
+    - Altera 4. COORDENAÇÃO E SINERGIAS ENTRE OS FEEI E OUTRAS POLÍTICAS E INSTRUMENTOS DA UNIÃO
+    - Altera 5. OS PRINCÍPIOS HORIZONTAIS A QUE SE REFEREM OS ARTIGOS 5.º, 7.º E 8.º E OS OBJETIVOS POLÍTICOS TRANSVERSAIS
+    - Altera 7. ATIVIDADES DE COOPERAÇÃO
+    - Altera 2. VERIFICAÇÃO
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera 2. MEDIDAS DE INFORMAÇÃO E COMUNICAÇÃO E MEDIDAS PARA AUMENTAR A NOTORIEDADE JUNTO DO PÚBLICO
+    - Altera 3. MEDIDAS DE INFORMAÇÃO PARA POTENCIAIS BENEFICIÁRIOS E BENEFICIÁRIOS
+    - Altera 3. ATIVIDADES DE GESTÃO E CONTROLO
+    - Altera 4. MONITORIZAÇÃO
+    - Altera Notas
+    - Adita Artigo 92.º-A — Recursos da REACT-EU
+    - Adita Artigo 92.º-B — Disposições de execução para os recursos da REACT-EU
+    - Adita ANEXO VII-A
+    - Adita METODOLOGIA PARA A AFETAÇÃO DOS RECURSOS DA REACT-EU — ARTIGO 92.º-B, N.º 4
+    - Suprime 3.1. Introdução
+    - Suprime 3.2. Coordenação e complementaridade
+    - Suprime 3.3. Incentivar as abordagens integradas
+    - Suprime 4.1. Introdução
+    - Suprime 4.2. Coordenação com a Política Agrícola Comum e a Política Comum das Pescas
+    - Suprime 4.3. O Horizonte 2020 e outros programas da União geridos centralizadamente nos domínios da investigação e inovação
+    - Suprime 4.4. Financiamento de demonstração para a reserva destinada aos novos operadores (NER) 300 ([^30^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0030))
+    - Suprime 4.5. O programa para o ambiente e a ação climática (LIFE) ([^31^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0031))
+      e o acervo ambiental
+    - Suprime 4.6. Erasmus+ ([^32^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0032))
+    - Suprime 4.7. Programa da União Europeia para o Emprego e a Inovação Social («EaSI») ([^33^](http://publications.europa.eu/resource/cellar/b677d059-2360-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0033))
+  - date: '2022-04-09'
+    amending: eu:celex:32022R0562:por
+    amending_title: REGULAMENTO (UE) 2022/562 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 65.º — Elegibilidade
+    - Altera Artigo 92.º-A — Recursos da REACT-EU
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 98.º — Apoio conjunto dos Fundos no âmbito do objetivo de Investimento no Crescimento e no Emprego
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4. COORDENAÇÃO E SINERGIAS ENTRE OS FEEI E OUTRAS POLÍTICAS E INSTRUMENTOS DA UNIÃO
+    - Altera 5. OS PRINCÍPIOS HORIZONTAIS A QUE SE REFEREM OS ARTIGOS 5.º, 7.º E 8.º E OS OBJETIVOS POLÍTICOS TRANSVERSAIS
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+  - date: '2022-04-14'
+    amending: eu:celex:32022R0613:por
+    amending_title: REGULAMENTO (UE) 2022/613 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 92.º-A — Recursos da REACT-EU
+    - Altera Artigo 92.º-B — Disposições de execução para os recursos da REACT-EU
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 131.º — Pedidos de pagamento
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4. COORDENAÇÃO E SINERGIAS ENTRE OS FEEI E OUTRAS POLÍTICAS E INSTRUMENTOS DA UNIÃO
+    - Altera 5. OS PRINCÍPIOS HORIZONTAIS A QUE SE REFEREM OS ARTIGOS 5.º, 7.º E 8.º E OS OBJETIVOS POLÍTICOS TRANSVERSAIS
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita Artigo 68.º-C — Custo unitário das operações destinadas a fazer face aos desafios migratórios resultantes da agressão
+      militar por parte da Federação da Rússia
+  - date: '2022-10-26'
+    amending: eu:celex:32022R2039:por
+    amending_title: REGULAMENTO (UE) 2022/2039 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 30.º — Alteração dos programas
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 65.º — Elegibilidade
+    - Altera Artigo 68.º-C — Custo unitário das operações destinadas a fazer face aos desafios migratórios resultantes da
+      agressão militar por parte da Federação da Rússia
+    - Altera Artigo 70.º — Elegibilidade das operações em função da localização
+    - Altera Artigo 92.º-A — Recursos da REACT-EU
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 96.º — Conteúdo, adoção e alteração dos programas operacionais do objetivo de Investimento no Crescimento
+      e no Emprego
+    - Altera Artigo 98.º — Apoio conjunto dos Fundos no âmbito do objetivo de Investimento no Crescimento e no Emprego
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 130.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4. COORDENAÇÃO E SINERGIAS ENTRE OS FEEI E OUTRAS POLÍTICAS E INSTRUMENTOS DA UNIÃO
+    - Altera 5. OS PRINCÍPIOS HORIZONTAIS A QUE SE REFEREM OS ARTIGOS 5.º, 7.º E 8.º E OS OBJETIVOS POLÍTICOS TRANSVERSAIS
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+  - date: '2023-03-01'
+    amending: eu:celex:32023R0435:por
+    amending_title: REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 68.º-C — Custo unitário das operações destinadas a fazer face aos desafios migratórios resultantes da
+      agressão militar por parte da Federação da Rússia
+    - Altera Artigo 92.º-A — Recursos da REACT-EU
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4. COORDENAÇÃO E SINERGIAS ENTRE OS FEEI E OUTRAS POLÍTICAS E INSTRUMENTOS DA UNIÃO
+    - Altera 5. OS PRINCÍPIOS HORIZONTAIS A QUE SE REFEREM OS ARTIGOS 5.º, 7.º E 8.º E OS OBJETIVOS POLÍTICOS TRANSVERSAIS
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
+    - Adita Artigo 25.º-B — Medidas excecionais para a utilização dos Fundos no apoio às PME particularmente afetadas por
+      aumentos dos preços da energia, aos agregados familiares vulneráveis e aos regimes de tempo de trabalho reduzido e regimes
+      equivalentes
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Objetivos temáticos
+    - Altera Artigo 23.º — Medidas destinadas a ligar a eficácia dos FEEI a uma boa governação económica
+    - Altera Gestão da assistência técnica aos Estados-Membros
+    - Altera Artigo 25.º-A — Medidas excecionais para a utilização dos FEEI em resposta ao surto de COVID-19
+    - Altera Artigo 37.º — Instrumentos financeiros
+    - Altera Artigo 39.º — Contribuição do FEDER e do FEADER para os instrumentos financeiros conjuntos de garantias não niveladas
+      e titularizações a favor das PME executados pelo BEI
+    - Altera Artigo 55.º — Avaliação ex ante
+    - Altera Artigo 68.º-C — Custo unitário das operações destinadas a fazer face aos desafios migratórios resultantes da
+      agressão militar por parte da Federação da Rússia
+    - Altera Artigo 92.º-A — Recursos da REACT-EU
+    - Altera Artigo 95.º — Adicionalidade
+    - Altera Artigo 120.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 124.º — Procedimento de designação da autoridade de gestão e da autoridade de certificação
+    - Altera Artigo 130.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 135.º — Prazo de apresentação dos pedidos de pagamento intermédios e do respetivo pagamento
+    - Altera Artigo 138.º — Apresentação de informações
+    - Altera Artigo 146.º — Obrigações dos Estados-Membros
+    - Altera 4. COORDENAÇÃO E SINERGIAS ENTRE OS FEEI E OUTRAS POLÍTICAS E INSTRUMENTOS DA UNIÃO
+    - Altera 5. OS PRINCÍPIOS HORIZONTAIS A QUE SE REFEREM OS ARTIGOS 5.º, 7.º E 8.º E OS OBJETIVOS POLÍTICOS TRANSVERSAIS
+    - 'Altera PARTE I: Condicionalidades ex ante temáticas'
+    - 'Altera PARTE II: Condicionalidades ex ante gerais'
+    - Altera Notas
 identifiers:
   celex: 32013R1303
   eli: http://data.europa.eu/eli/reg/2013/1303/oj
@@ -54,7 +641,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fcd9e6d2-6c02-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/a0f2ae67-e613-11ee-8b2b-01aa75ed71a1.0009.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1303-20240301
-  retrieved_at: '2026-10-22T02:34:41Z'
+  retrieved_at: '2026-10-22T16:23:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T06:12:39.939+02:00'
 integrity:
@@ -63,9 +650,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:41Z'
-  notes: Texto consolidado 02013R1303-20240301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:23:15Z'
+  notes: 17 versão(ões); histórico completo em regulamento-ue-2013-1303.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -752,50 +1339,19 @@ relationships:
   date: '2012-05-24'
 article_structure:
   article_count: 163
-  section_count: 193
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 196
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:41Z'
+  checked_at: '2026-10-22T16:23:15Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013
-
-> 02013R1303 — PT — 01.03.2024 — 017.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R1839) — [REGULAMENTO (UE) 2015/1839 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1839) — L 270 — 1 — 15.10.2015
-- [►M2](http://publications.europa.eu/resource/celex/32016R2135) — [REGULAMENTO (UE) 2016/2135 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2135) — L 338 — 34 — 13.12.2016
-- [►M3](http://publications.europa.eu/resource/celex/32017R0825) — [REGULAMENTO (UE) 2017/825 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0825) — L 129 — 1 — 19.5.2017
-- [►M4](http://publications.europa.eu/resource/celex/32017R1199) — [REGULAMENTO (UE) 2017/1199 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1199) — L 176 — 1 — 7.7.2017
-- [►M5](http://publications.europa.eu/resource/celex/32017R2305) — [REGULAMENTO (UE) 2017/2305 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2305) — L 335 — 1 — 15.12.2017
-- [►M6](http://publications.europa.eu/resource/celex/32018R1046) — [REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1046) — L 193 — 1 — 30.7.2018
-- [►M7](http://publications.europa.eu/resource/celex/32018R1719) — [REGULAMENTO (UE) 2018/1719 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1719) — L 291 — 5 — 16.11.2018
-- [M8](http://publications.europa.eu/resource/celex/32019R0711) — [REGULAMENTO (UE) 2019/711 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0711) — L 123 — 1 — 10.5.2019
-- [►M9](http://publications.europa.eu/resource/celex/32020R0460) — [REGULAMENTO (UE) 2020/460 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020](http://publications.europa.eu/resource/celex/32020R0460) — L 99 — 5 — 31.3.2020
-- [►M10](http://publications.europa.eu/resource/celex/32020R0558) — [REGULAMENTO (UE) 2020/558 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0558) — L 130 — 1 — 24.4.2020
-- [►M11](http://publications.europa.eu/resource/celex/32020R1041) — [REGULAMENTO (UE) 2020/1041 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1041) — L 231 — 4 — 17.7.2020
-- [►M12](http://publications.europa.eu/resource/celex/32020R1542) — [REGULAMENTO (UE) 2020/1542 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1542) — L 356 — 1 — 26.10.2020
-- [►M13](http://publications.europa.eu/resource/celex/32020R2221) — [REGULAMENTO (UE) 2020/2221 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2221) — L 437 — 30 — 28.12.2020
-- [►M14](http://publications.europa.eu/resource/celex/32022R0562) — [REGULAMENTO (UE) 2022/562 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0562) — L 109 — 1 — 8.4.2022
-- [►M15](http://publications.europa.eu/resource/celex/32022R0613) — [REGULAMENTO (UE) 2022/613 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0613) — L 115 — 38 — 13.4.2022
-- [►M16](http://publications.europa.eu/resource/celex/32022R2039) — [REGULAMENTO (UE) 2022/2039 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2039) — L 275 — 23 — 25.10.2022
-- [►M17](http://publications.europa.eu/resource/celex/32023R0435) — [REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0435) — L 63 — 1 — 28.2.2023
-- [►M18](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1303R%2801%29) — [Rectificação, JO L 200, 26.7.2016, p. 140 (1303/2013)](http://publications.europa.eu/resource/celex/32013R1303R%2801%29)
-
-## REGULAMENTO (UE) N.º 1303/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de dezembro de 2013
 

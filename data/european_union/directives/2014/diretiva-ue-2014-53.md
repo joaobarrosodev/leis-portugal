@@ -36,6 +36,122 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2014-53.versoes.json
+  count: 6
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2014-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-09-11'
+    amending: eu:celex:32018R1139:por
+    amending_title: REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 52.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita EQUIPAMENTOS NÃO ABRANGIDOS PELA PRESENTE DIRETIVA
+    - Adita ANEXO II
+    - Adita MÓDULO A DE AVALIAÇÃO DA CONFORMIDADE
+    - Adita ANEXO III
+    - Adita MÓDULOS B E C DE AVALIAÇÃO DA CONFORMIDADE
+    - Adita EXAME UE DE TIPO E CONFORMIDADE COM O TIPO BASEADA NO CONTROLO INTERNO DA PRODUÇÃO
+    - Adita Módulo B
+    - Adita Exame UE de tipo
+    - Adita Módulo C
+    - Adita Conformidade com o tipo baseada no controlo interno da produção
+    - Adita ANEXO IV
+    - Adita MÓDULO H DE AVALIAÇÃO DA CONFORMIDADE
+    - Adita CONFORMIDADE BASEADA NA GARANTIA DA QUALIDADE TOTAL
+    - Adita ANEXO V
+    - Adita CONTEÚDO DA DOCUMENTAÇÃO TÉCNICA
+    - Adita ANEXO VI
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^4^](http://publications.europa.eu/resource/cellar/52b108a1-e581-4a51-ba99-c6f743756833.0015.02/DOC_1#E0004))
+    - Adita ANEXO VII
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE SIMPLIFICADA
+    - Adita ANEXO VIII
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Adita DECLARAÇÃO DO PARLAMENTO EUROPEU
+  - date: '2022-12-27'
+    amending: eu:celex:32022L2380:por
+    amending_title: DIRETIVA (UE) 2022/2380 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos essenciais
+    - Altera Artigo 10.º — Deveres dos fabricantes
+    - Altera Artigo 12.º — Deveres dos importadores
+    - Altera Artigo 13.º — Deveres dos distribuidores
+    - Altera Artigo 17.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 43.º — Não conformidade formal
+    - Altera Artigo 44.º — Exercício da delegação
+    - Altera Artigo 47.º — Revisão e informação
+    - Altera EQUIPAMENTOS NÃO ABRANGIDOS PELA PRESENTE DIRETIVA
+    - Altera DECLARAÇÃO UE DE CONFORMIDADE SIMPLIFICADA
+    - Altera Notas
+    - Adita Artigo 3.º-A
+    - Adita Artigo 40.º
+    - Adita Procedimento a nível nacional aplicável aos equipamentos de rádio que apresentam risco de não cumprir, ou não
+      cumprem, requisitos essenciais
+    - Adita ANEXO I-A
+    - Adita ESPECIFICAÇÕES E INFORMAÇÕES RELATIVAS AO CARREGAMENTO APLICÁVEIS A DETERMINADAS CATEGORIAS OU CLASSES DE EQUIPAMENTOS
+      DE RÁDIO
+    - Adita Parte I
+    - Adita Especificações relativas às capacidades de carregamento
+    - Adita Parte II
+    - Adita Informações sobre as especificações relativas às capacidades de carregamento e os dispositivos de carregamento
+      compatíveis
+    - Adita Parte III
+    - Adita Pictograma que indica se o equipamento de rádio inclui um dispositivo de carregamento
+    - Adita Parte IV
+    - Adita Conteúdo e formato do rótulo
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^5^](http://publications.europa.eu/resource/cellar/8a421632-966a-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0005))
+    - Suprime Artigo 40.º — Procedimento aplicável aos equipamentos de rádio que apresentem riscos a nível nacional
+    - Suprime DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^4^](http://publications.europa.eu/resource/cellar/52b108a1-e581-4a51-ba99-c6f743756833.0015.02/DOC_1#E0004))
+  - date: '2023-10-01'
+    amending: eu:celex:32023R1717:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1717 DA COMISSÃO de 27 de junho de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 44.º — Exercício da delegação
+    - Altera EQUIPAMENTOS NÃO ABRANGIDOS PELA PRESENTE DIRETIVA
+    - Altera Especificações relativas às capacidades de carregamento
+    - Altera Notas
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^5^](http://publications.europa.eu/resource/cellar/cb7648d9-5ecc-11ee-9220-01aa75ed71a1.0020.02/DOC_1#E0005))
+    - Suprime DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^5^](http://publications.europa.eu/resource/cellar/8a421632-966a-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0005))
+  - date: '2024-12-28'
+    amending: eu:celex:32024L2839:por
+    amending_title: DIRETIVA (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 44.º — Exercício da delegação
+    - Altera Artigo 47.º — Revisão e informação
+    - Altera EQUIPAMENTOS NÃO ABRANGIDOS PELA PRESENTE DIRETIVA
+    - Altera Especificações relativas às capacidades de carregamento
+    - Altera Notas
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^5^](http://publications.europa.eu/resource/cellar/9c5f4d65-c223-11ef-91ed-01aa75ed71a1.0020.02/DOC_2#E0005))
+    - Suprime DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^5^](http://publications.europa.eu/resource/cellar/cb7648d9-5ecc-11ee-9220-01aa75ed71a1.0020.02/DOC_1#E0005))
+  - date: '2026-05-30'
+    amending: eu:celex:32024L2749:por
+    amending_title: DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 44.º — Exercício da delegação
+    - Altera EQUIPAMENTOS NÃO ABRANGIDOS PELA PRESENTE DIRETIVA
+    - Altera Especificações relativas às capacidades de carregamento
+    - Altera Notas
+    - Adita CAPÍTULO V-A
+    - Adita PROCEDIMENTOS DE EMERGÊNCIA
+    - Adita Artigo 43.º-A
+    - Adita Artigo 43.º-B
+    - Adita Artigo 43.º-C
+    - Adita Artigo 43.º-D
+    - Adita Artigo 43.º-E
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^7^](http://publications.europa.eu/resource/cellar/cec7c085-48af-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0007))
+    - Suprime DECLARAÇÃO UE DE CONFORMIDADE (N.º XXX) ([^5^](http://publications.europa.eu/resource/cellar/9c5f4d65-c223-11ef-91ed-01aa75ed71a1.0020.02/DOC_2#E0005))
 identifiers:
   celex: 32014L0053
   eli: http://data.europa.eu/eli/dir/2014/53/oj
@@ -50,7 +166,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1b79e176-e181-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/cec7c085-48af-11f1-8095-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0053-20260530
-  retrieved_at: '2026-10-22T02:40:51Z'
+  retrieved_at: '2026-10-22T16:29:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T17:14:21.149+02:00'
 integrity:
@@ -59,9 +175,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:51Z'
-  notes: Texto consolidado 02014L0053-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:29:16Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2014-53.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -227,33 +343,20 @@ relationships:
   source: null
 article_structure:
   article_count: 58
-  section_count: 49
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 51
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:51Z'
-  warnings: []
+  checked_at: '2026-10-22T16:29:16Z'
+  warnings:
+  - '02014L0053-20140611: versão indisponível (Sem expressão na língua por para CELEX 02014L0053-20140611.)'
   errors: []
 ---
 
 # Diretiva 2014/53/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014L0053 — PT — 30.05.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1139) — [REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1139) — L 212 — 1 — 22.8.2018
-- [►M2](http://publications.europa.eu/resource/celex/32022L2380) — [DIRETIVA (UE) 2022/2380 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022L2380) — L 315 — 30 — 7.12.2022
-- [►M3](http://publications.europa.eu/resource/celex/32023R1717) — [REGULAMENTO DELEGADO (UE) 2023/1717 DA COMISSÃO de 27 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1717) — L 223 — 1 — 11.9.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024L2839) — [DIRETIVA (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2839) — L 2839 — 1 — 7.11.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-## DIRETIVA 2014/53/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

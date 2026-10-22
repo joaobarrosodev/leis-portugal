@@ -35,6 +35,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-08-02'
+version_history:
+  file: regulamento-ue-2013-1304.versoes.json
+  count: 3
+  source_lastmod: '2018-08-02'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-22'
+    amending: eu:celex:32015R0779:por
+    amending_title: REGULAMENTO (UE) 2015/779 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Âmbito do apoio
+    - Altera Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais
+    - Altera Artigo 13.º — Elegibilidade das despesas
+    - Altera Artigo 29.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 22.º-A — Pagamento de um montante suplementar do pré-financiamento inicial a programas operacionais apoiados
+      pela IEJ
+    - Adita ANEXO I
+    - Adita Indicadores de realização e de resultado comuns para os investimentos do FSE
+    - Adita 1) Indicadores comuns de realização relativos aos participantes
+    - Adita ANEXO II
+    - Adita Indicadores de resultado para a IEJ
+    - Adita 1) Indicadores comuns de resultado imediatos para os participantes
+    - Adita 2) Indicadores comuns de resultado a longo prazo para os participantes
+    - Adita ANEXO III
+  - date: '2018-08-02'
+    amending: eu:celex:32018R1046:por
+    amending_title: REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018
+    changes:
+    - Altera Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais
+    - Altera Artigo 13.º — Elegibilidade das despesas
+    - Altera Artigo 14.º — Opções simplificadas em matéria de custos
+    - Altera Indicadores de realização e de resultado comuns para os investimentos do FSE
+    - Altera 1) Indicadores comuns de resultado imediatos para os participantes
+    - Altera Notas
+    - Suprime 1) Indicadores comuns de realização relativos aos participantes
 identifiers:
   celex: 32013R1304
   eli: http://data.europa.eu/eli/reg/2013/1304/oj
@@ -49,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1304-20180802
-  retrieved_at: '2026-10-22T02:53:16Z'
+  retrieved_at: '2026-10-22T16:23:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T20:19:19.125+02:00'
 integrity:
@@ -58,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:16Z'
-  notes: Texto consolidado 02013R1304-20180802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:23:18Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-1304.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,34 +246,19 @@ relationships:
   date: '2006-07-05'
 article_structure:
   article_count: 30
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:16Z'
+  checked_at: '2026-10-22T16:23:18Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1304/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013
-
-> 02013R1304 — PT — 02.08.2018 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0779) — [REGULAMENTO (UE) 2015/779 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0779) — L 126 — 1 — 21.5.2015
-- [►M2](http://publications.europa.eu/resource/celex/32018R1046) — [REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1046) — L 193 — 1 — 30.7.2018
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1304R%2801%29) — [Rectificação, JO L 330, 3.12.2016, p. 7 (1304/2013)](http://publications.europa.eu/resource/celex/32013R1304R%2801%29)
-
-## REGULAMENTO (UE) N.º 1304/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de dezembro de 2013
 

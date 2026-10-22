@@ -35,6 +35,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-08-01'
+version_history:
+  file: regulamento-ue-2013-1370.versoes.json
+  count: 5
+  source_lastmod: '2017-08-01'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-20'
+    amending: eu:celex:32016R0591:por
+    amending_title: REGULAMENTO (UE) 2016/591 DO CONSELHO de 15 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis
+    - Altera Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças
+    - Altera Artigo 13.º — Fixação das restituições à exportação
+    - Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz
+    - Altera Artigo 17.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Adita referida no artigo 16.º
+  - date: '2016-06-30'
+    amending: eu:celex:32016R1042:por
+    amending_title: REGULAMENTO (UE) 2016/1042 DO CONSELHO de 24 de junho de 2016
+    changes:
+    - Altera Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis
+    - Altera Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças
+    - Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz
+    - Altera Notas
+  - date: '2016-12-08'
+    amending: eu:celex:32016R2145:por
+    amending_title: REGULAMENTO (UE) 2016/2145 DO CONSELHO de 1 de dezembro de 2016
+    changes:
+    - Altera Artigo 2.º — Preços de intervenção pública
+    - Altera Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças
+    - Altera Artigo 8.º — Restituição à produção do setor do açúcar
+    - Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz
+    - Altera Notas
+    - Adita Artigo 1.º-A — Limiares de referência
+  - date: '2017-08-01'
+    amending: eu:celex:32016R0795:por
+    amending_title: REGULAMENTO (UE) 2016/795 DO CONSELHO de 11 de abril de 2016
+    changes:
+    - Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz
+    - Altera Notas
+    - Adita Artigo 5.º — Ajuda à distribuição de fruta, produtos hortícolas e leite nas escolas, medidas educativas de acompanhamento
+      e custos conexos
+    - Adita [►M2](http://publications.europa.eu/resource/celex/32016R0795) ANEXO II◄
+    - Adita ANEXO I
+    - Adita DOTAÇÕES INDICATIVAS
+    - Adita para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023
+    - Adita (conforme referido no artigo 5.º, n.º 4, segundo parágrafo)
+    - Suprime Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças
+    - Suprime Artigo 6.º — Ajuda ao fornecimento de leite e de produtos lácteos às crianças
+    - Suprime ANEXO
 identifiers:
   celex: 32013R1370
   eli: http://data.europa.eu/eli/reg/2013/1370/oj
@@ -49,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5dc155ac-299d-4fec-b63e-95094618e6ed.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1370-20170801
-  retrieved_at: '2026-10-22T02:43:04Z'
+  retrieved_at: '2026-10-22T16:25:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T19:17:42.832+02:00'
 integrity:
@@ -58,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:04Z'
-  notes: Texto consolidado 02013R1370-20170801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:36Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2013-1370.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,36 +228,19 @@ relationships:
   date: '2016-05-19'
 article_structure:
   article_count: 17
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:04Z'
+  checked_at: '2026-10-22T16:25:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1370/2013 do Conselho, de 16 de dezembro de 2013
-
-> 02013R1370 — PT — 01.08.2017 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32016R0591) — [REGULAMENTO (UE) 2016/591 DO CONSELHO de 15 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0591) — L 103 — 3 — 19.4.2016
-- [►M2](http://publications.europa.eu/resource/celex/32016R0795) — [REGULAMENTO (UE) 2016/795 DO CONSELHO de 11 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0795) — L 135 — 115 — 24.5.2016
-- [►M3](http://publications.europa.eu/resource/celex/32016R1042) — [REGULAMENTO (UE) 2016/1042 DO CONSELHO de 24 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1042) — L 170 — 1 — 29.6.2016
-- [►M4](http://publications.europa.eu/resource/celex/32016R2145) — [REGULAMENTO (UE) 2016/2145 DO CONSELHO de 1 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2145) — L 333 — 1 — 8.12.2016
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1370R%2801%29) — [Rectificação, JO L 130, 19.5.2016, p. 19 (1370/2013)](http://publications.europa.eu/resource/celex/32013R1370R%2801%29)
-
-## REGULAMENTO (UE) N.º 1370/2013 DO CONSELHO
 
 de 16 de dezembro de 2013
 

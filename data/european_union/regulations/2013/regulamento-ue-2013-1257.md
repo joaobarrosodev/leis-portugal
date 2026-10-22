@@ -38,6 +38,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-20'
+version_history:
+  file: regulamento-ue-2013-1257.versoes.json
+  count: 2
+  source_lastmod: '2024-05-20'
+  versions:
+  - date: '2018-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-20'
+    amending: eu:celex:32024R1157:por
+    amending_title: REGULAMENTO (UE) 2024/1157 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Requisitos gerais aplicáveis aos armadores
+    - Altera Artigo 23.º — Pedido de intervenção
+    - Altera Artigo 27.º — Alteração do Regulamento (CE) n.º 1013/2006
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/16/CE
+    - Altera CONTROLO DAS MATÉRIAS PERIGOSAS
+    - Altera Notas
 identifiers:
   celex: 32013R1257
   eli: http://data.europa.eu/eli/reg/2013/1257/oj
@@ -52,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f17fa5d6-6171-11e3-ab0f-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/68196851-1776-11ef-a251-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1257-20240520
-  retrieved_at: '2026-10-22T02:45:48Z'
+  retrieved_at: '2026-10-22T16:22:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T00:06:39.844+02:00'
 integrity:
@@ -61,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:48Z'
-  notes: Texto consolidado 02013R1257-20240520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:22:15Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-1257.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,30 +226,20 @@ relationships:
   date: '2024-04-30'
 article_structure:
   article_count: 32
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:48Z'
-  warnings: []
+  checked_at: '2026-10-22T16:22:15Z'
+  warnings:
+  - '02013R1257-20131210: versão indisponível (Sem expressão na língua por para CELEX 02013R1257-20131210.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1257/2013 do Parlamento Europeu e do Conselho, de 20 de novembro de 2013
-
-> 02013R1257 — PT — 20.05.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018D0853) — [DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0853) — L 150 — 155 — 14.6.2018
-- [►M2](http://publications.europa.eu/resource/celex/32024R1157) — [REGULAMENTO (UE) 2024/1157 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1157) — L 1157 — 1 — 30.4.2024
-
-## REGULAMENTO (UE) N.º 1257/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de novembro de 2013
 

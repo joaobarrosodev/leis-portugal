@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2013-1024.versoes.json
+  count: 1
+  source_lastmod: '2013-11-03'
+  versions:
+  - date: '2013-10-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32013R1024
   eli: http://data.europa.eu/eli/reg/2013/1024/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/67811106-4080-11e3-b4f5-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/67811106-4080-11e3-b4f5-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:45:47Z'
+  retrieved_at: '2026-10-22T16:22:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T22:53:26.807+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:47Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:22:09Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2013-1024.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -211,21 +220,20 @@ relationships:
   date: '2018-12-19'
 article_structure:
   article_count: 34
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:47Z'
+  checked_at: '2026-10-22T16:22:09Z'
   warnings:
-  - Versão consolidada 02013R1024-20131103 indisponível (Sem expressão na língua por para CELEX 02013R1024-20131103.); usado
-    o texto do JO.
+  - '02013R1024-20131103: versão indisponível (Sem expressão na língua por para CELEX 02013R1024-20131103.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 1024/2013 DO CONSELHO
+# Regulamento (UE) n. ° 1024/2013 do Conselho, de 15 de outubro de 2013
 
 de 15 de outubro de 2013
 

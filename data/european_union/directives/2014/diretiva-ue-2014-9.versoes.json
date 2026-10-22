@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0009:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0009-20140129",
+ "dre_path": null,
+ "source_lastmod": "2014-01-29",
+ "versions": [
+  {
+   "date": "2014-01-09",
+   "future": false,
+   "celex": "32014L0009",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e700102e61042bef",
+    "16f090dfef39025f",
+    "88519b4c086c7810",
+    "84c17099055df313",
+    "766c7ac73a5b832b",
+    "09c21dbe32d7ed79"
+   ]
+  }
+ ],
+ "fragments": {
+  "e700102e61042bef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de outubro de 2013\n\nque altera, para efeitos de adaptação ao progresso técnico, o anexo IV da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho no que respeita a uma isenção para chumbo e cádmio em ligações metálicas que permitam a criação de circuitos magnéticos supercondutores em detetores de IRM, SQUID, RMN (Ressonância magnética nuclear) ou FTMS (Espetrómetro de massa de transformada de Fourier)\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos [([^1])](http://publications.europa.eu/resource/cellar/4402d1aa-7940-11e3-b889-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2014004PT.01006101-E0001), nomeadamente o artigo 5.º, n.º 1, alínea a),\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2011/65/UE proíbe a utilização de chumbo e cádmio nos equipamentos elétricos e eletrónicos colocados no mercado.\n\n(2) A isenção n.º 12 em vigor cobre apenas os detetores IRM e SQUID, mas é necessária igualmente uma isenção para as aplicações industriais da subcategoria 9.\n\n(3) A substituição ou a eliminação do chumbo e do cádmio não é atualmente possível nos detetores de IRM, SQUID, RMN e FTMS.\n\n(4) É necessário mais tempo para ensaios de fiabilidade e para a qualificação de soluções alternativas.\n\n(5) A Diretiva 2011/65/UE deve, por conseguinte, ser alterada em conformidade,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "16f090dfef39025f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo IV da Diretiva 2011/65/UE é alterado em conformidade com o anexo da presente diretiva."
+  },
+  "88519b4c086c7810": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até ao último dia do sexto mês após a sua entrada em vigor. Os Estados-Membros comunicarão à Comissão de imediato o texto dessas disposições.\n\nQuando os Estados-Membros adotarem as referidas disposições, estas devem incluir uma referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito nacional que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "84c17099055df313": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia a contar da data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "766c7ac73a5b832b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 18 de outubro de 2013.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "09c21dbe32d7ed79": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/4402d1aa-7940-11e3-b889-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2014004PT.01006101-E0001) [JO L 174 de 1.7.2011, p. 88](http://publications.europa.eu/resource/oj/JOL_2011_174_R_TOC)."
+  }
+ }
+}

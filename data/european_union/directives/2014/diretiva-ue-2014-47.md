@@ -35,6 +35,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-09-27'
+version_history:
+  file: diretiva-ue-2014-47.versoes.json
+  count: 2
+  source_lastmod: '2022-09-27'
+  versions:
+  - date: '2014-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-09-27'
+    amending: eu:celex:32021L1716:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/1716 DA COMISSÃO de 29 de junho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 13.º — Inspeção das condições de imobilização da carga
+    - Altera Artigo 24.º — Relatórios
+    - Altera Artigo 29.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ELEMENTOS DO SISTEMA DE CLASSIFICAÇÃO POR NÍVEL DE RISCO
+    - Adita ANEXO II
+    - Adita ÂMBITO DA INSPEÇÃO TÉCNICA NA ESTRADA
+    - Adita 1. PONTOS A INSPECIONAR
+    - Adita 2. REQUISITOS RELATIVOS À INSPEÇÃO
+    - Adita 3. OBJETO E MÉTODOS DE INSPEÇÃO, AVALIAÇÃO DAS DEFICIÊNCIAS DOS VEÍCULOS
+    - Adita ANEXO III
+    - Adita I. Princípios da imobilização da carga
+    - Adita II. Inspeção da imobilização da carga
+    - Adita 1. Classificação das deficiências
+    - Adita 2. Métodos De Inspeção
+    - Adita 3. Avaliação das deficiências
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita MODELO NORMALIZADO DO RELATÓRIO A APRESENTAR À COMISSÃO
+    - Adita Quadro recapitulativo
+    - Adita de todas as inspeções (iniciais e minuciosas)
+    - Adita Resultados de inspeções minuciosas
 identifiers:
   celex: 32014L0047
   eli: http://data.europa.eu/eli/dir/2014/47/oj
@@ -49,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ef65b25e-cf66-11e3-b682-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/d55c5c21-3355-11ed-975d-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0047-20220927
-  retrieved_at: '2026-10-22T02:53:20Z'
+  retrieved_at: '2026-10-22T16:29:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:28:19.243+02:00'
 integrity:
@@ -58,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:20Z'
-  notes: Texto consolidado 02014L0047-20220927.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:29:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-47.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -199,34 +237,20 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:20Z'
-  warnings: []
+  checked_at: '2026-10-22T16:29:02Z'
+  warnings:
+  - '02014L0047-20140519: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2014/47/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014
-
-> 02014L0047 — PT — 27.09.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1716) — [DIRETIVA DELEGADA (UE) 2021/1716 DA COMISSÃO de 29 de junho de 2021](http://publications.europa.eu/resource/celex/32021L1716) — L 342 — 45 — 27.9.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0047R%2801%29) — [Rectificação, JO L 197, 4.7.2014, p. 87 (2014/47/UE)](http://publications.europa.eu/resource/celex/32014L0047R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014L0047R%2802%29) — [Rectificação, JO L 219, 22.8.2019, p. 77 (2014/47/UE)](http://publications.europa.eu/resource/celex/32014L0047R%2802%29)
-
-## DIRETIVA 2014/47/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 3 de abril de 2014
 

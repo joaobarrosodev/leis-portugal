@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2014-52.versoes.json
+  count: 1
+  source_lastmod: '2014-05-15'
+  versions:
+  - date: '2014-04-25'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014L0052
   eli: http://data.europa.eu/eli/dir/2014/52/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ce58f551-cc3b-11e3-b74e-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/ce58f551-cc3b-11e3-b74e-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:40:50Z'
+  retrieved_at: '2026-10-22T16:29:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T22:50:36.822+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:50Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:29:07Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2014-52.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -207,21 +216,20 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:50Z'
+  checked_at: '2026-10-22T16:29:07Z'
   warnings:
-  - Versão consolidada 02014L0052-20140515 indisponível (Sem expressão na língua por para CELEX 02014L0052-20140515.); usado
-    o texto do JO.
+  - '02014L0052-20140515: versão indisponível (Sem expressão na língua por para CELEX 02014L0052-20140515.)'
   errors: []
 ---
 
-# DIRETIVA 2014/52/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Diretiva 2014/52/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014
 
 de 16 de abril de 2014
 

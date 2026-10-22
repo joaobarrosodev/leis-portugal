@@ -39,6 +39,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2014-540.versoes.json
+  count: 1
+  source_lastmod: '2019-05-27'
+  versions:
+  - date: '2014-05-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014R0540
   eli: http://data.europa.eu/eli/reg/2014/540/oj
@@ -53,7 +62,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fe98a835-e656-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/fe98a835-e656-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:17:20Z'
+  retrieved_at: '2026-10-22T16:34:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T03:55:18.898+02:00'
 integrity:
@@ -62,9 +71,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:20Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:34:01Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2014-540.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -260,21 +269,22 @@ relationships:
   date: '2007-06-15'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:20Z'
+  checked_at: '2026-10-22T16:34:01Z'
   warnings:
-  - 'Versão consolidada 02014R0540-20190527 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02014R0540-20140616: versão indisponível (Sem expressão na língua por para CELEX 02014R0540-20140616.)'
+  - '02014R0540-20170922: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R0540-20190527: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 540/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. °540/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
 
 de 16 de abril de 2014
 

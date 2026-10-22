@@ -37,6 +37,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-03-28'
+version_history:
+  file: regulamento-ue-2014-515.versoes.json
+  count: 2
+  source_lastmod: '2020-03-28'
+  versions:
+  - date: '2018-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-03-28'
+    amending: eu:celex:32020R0446:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/446 DA COMISSÃO de 15 de outubro de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Recursos globais e execução
+    - Altera Artigo 6.º — Recursos para ações elegíveis nos Estados-Membros
+    - Altera Artigo 8.º — Recursos no quadro da revisão intercalar
+    - Altera Artigo 11.º — Apoio operacional ao regime de trânsito facilitado
+    - Altera Lista de ações específicas
+    - Altera Notas
 identifiers:
   celex: 32014R0515
   eli: http://data.europa.eu/eli/reg/2014/515/oj
@@ -51,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fda6f7ea-dff0-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e10e4eb0-83e2-11ea-bf12-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0515-20200328
-  retrieved_at: '2026-10-22T03:00:24Z'
+  retrieved_at: '2026-10-22T16:33:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T05:49:20.533+02:00'
 integrity:
@@ -60,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:24Z'
-  notes: Texto consolidado 02014R0515-20200328.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:30Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-515.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,30 +259,20 @@ relationships:
   date: '2013-03-13'
 article_structure:
   article_count: 23
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:24Z'
-  warnings: []
+  checked_at: '2026-10-22T16:33:30Z'
+  warnings:
+  - '02014R0515-20140101: versão indisponível (Sem expressão na língua por para CELEX 02014R0515-20140101.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 515/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014R0515 — PT — 28.03.2020 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1240) — [REGULAMENTO (UE) 2018/1240 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1240) — L 236 — 1 — 19.9.2018
-- [►M2](http://publications.europa.eu/resource/celex/32020R0446) — [REGULAMENTO DELEGADO (UE) 2020/446 DA COMISSÃO de 15 de outubro de 2019](http://publications.europa.eu/resource/celex/32020R0446) — L 94 — 3 — 27.3.2020
-
-## REGULAMENTO (UE) N.º 515/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

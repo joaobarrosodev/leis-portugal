@@ -37,6 +37,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2014-29.versoes.json
+  count: 2
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2014-03-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-05-30'
+    amending: eu:celex:32024L2749:por
+    amending_title: DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 45.º — Destinatários
+    - Altera Notas
+    - Adita CAPÍTULO 5-A
+    - Adita PROCEDIMENTOS DE EMERGÊNCIA
+    - Adita Artigo 38.º-A — Aplicação de procedimentos de emergência
+    - Adita Artigo 38.º-B — Prioridade da avaliação da conformidade de recipientes designados como bens relevantes em situação
+      de crise
+    - Adita Artigo 38.º-C — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório
+      de um organismo notificado
+    - Adita Artigo 38.º-D — Presunção de conformidade baseada em normas e especificações comuns
+    - Adita Artigo 38.º-E — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
+    - Adita ANEXO I
+    - Adita REQUISITOS ESSENCIAIS DE SEGURANÇA
+    - Adita 1. Materiais
+    - Adita 2. Conceção dos recipientes
+    - Adita 3. Processos de fabrico
+    - Adita 4. Colocação dos recipientes em serviço
+    - Adita ANEXO II
+    - Adita PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Adita 1. Exame ue de tipo (Módulo B)
+    - Adita 2. Conformidade com o tipo baseada no controlo interno da produção e ensaio supervisionado do recipiente (Módulo
+      C1)
+    - Adita 3. Conformidade com o tipo baseada no controlo interno da produção e controlos supervisionados do recipiente a
+      intervalos aleatórios (Módulo C2)
+    - Adita 4. Conformidade com o tipo baseada no controlo interno da produção (Módulo C)
+    - Adita ANEXO III
+    - Adita INSCRIÇÕES, INSTRUÇÕES, DEFINIÇÕES E SÍMBOLOS
+    - Adita 1. Marcação CE e inscrições
+    - Adita 2. Instruções e informações de segurança
+    - Adita 3. Definições e símbolos
+    - Adita ANEXO IV
+    - Adita DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1#E0003))
+    - Adita ANEXO V
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO VI
+    - Adita DECLARAÇÃO DO PARLAMENTO EUROPEU
 identifiers:
   celex: 32014L0029
   eli: http://data.europa.eu/eli/dir/2014/29/oj
@@ -51,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ab6beef3-2396-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0029-20260530
-  retrieved_at: '2026-10-22T03:00:16Z'
+  retrieved_at: '2026-10-22T16:27:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T19:45:23.326+02:00'
 integrity:
@@ -60,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:16Z'
-  notes: Texto consolidado 02014L0029-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:27:24Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,29 +184,20 @@ relationships:
   source: null
 article_structure:
   article_count: 50
-  section_count: 38
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 39
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:16Z'
-  warnings: []
+  checked_at: '2026-10-22T16:27:24Z'
+  warnings:
+  - '02014L0029-20140418: versão indisponível (Sem expressão na língua por para CELEX 02014L0029-20140418.)'
   errors: []
 ---
 
 # Diretiva 2014/29/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
-
-> 02014L0029 — PT — 30.05.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-## DIRETIVA 2014/29/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de fevereiro de 2014
 

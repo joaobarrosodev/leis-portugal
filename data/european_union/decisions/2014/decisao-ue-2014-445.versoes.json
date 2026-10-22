@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014D0445:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014D0445-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2014-05-03",
+   "future": false,
+   "celex": "32014D0445",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "29fe1622b608e94f",
+    "f214a4a587a6a1cd",
+    "b10f7ae1e3a3a306",
+    "28f59b35fb366ae1",
+    "46d5930174a72a48",
+    "a78ae52a106eabb0",
+    "8387c04cbeed3fc0",
+    "357db87ab7a83fb4",
+    "8fbc2fe672c36a77",
+    "6683a84a4a0fb787",
+    "384cebcde51010f3",
+    "5c10f8f5a788d60d",
+    "759eb26b6330960b",
+    "46f60d999317ea6e",
+    "7429718b7c6c93ce",
+    "ab28b5df83706241",
+    "6db364794a08e545",
+    "1a87bf9161c6b25e",
+    "61d9f4879e932ce6",
+    "cc4f467bb52768ab"
+   ]
+  },
+  {
+   "date": "2017-10-05",
+   "future": false,
+   "celex": "02014D0445-20171005",
+   "acts": [
+    {
+     "id": "eu:celex:32017D1545:por",
+     "title": "DECISÃO (UE) 2017/1545 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de setembro de 2017",
+     "published": null,
+     "celex": "32017D1545"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Acesso à ação",
+    "Altera Artigo 5.º — Critérios",
+    "Altera Artigo 6.º — Júri de peritos",
+    "Altera Artigo 11.º — Designação",
+    "Altera Artigo 13.º — Acompanhamento",
+    "Altera Artigo 18.º — Entrada em vigor",
+    "Adita Artigo 10.º",
+    "Adita Pré-seleção e seleção nos países EFTA/EEE, nos países candidatos e nos países potenciais candidatos",
+    "Adita ANEXO",
+    "Adita CALENDÁRIO",
+    "Suprime Artigo 10.º — Pré-seleção e seleção nos países candidatos e nos potenciais candidatos",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "680a907af13b0393",
+    "f214a4a587a6a1cd",
+    "b10f7ae1e3a3a306",
+    "c7aeeb3c5b4bd256",
+    "46d5930174a72a48",
+    "e0de34270f9ec7ee",
+    "4b689267992c4539",
+    "357db87ab7a83fb4",
+    "8fbc2fe672c36a77",
+    "6683a84a4a0fb787",
+    "7c50ed4343b1e48a",
+    "313818c4b984cc21",
+    "622b69501af4b41c",
+    "759eb26b6330960b",
+    "4053af12b8ea3c69",
+    "7429718b7c6c93ce",
+    "ab28b5df83706241",
+    "6db364794a08e545",
+    "1a87bf9161c6b25e",
+    "25dcd898c452ee43",
+    "10220b9774fa9034",
+    "243aad32791073c2"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02014D0445-20210101",
+   "acts": [
+    {
+     "id": "eu:celex:32020D2229:por",
+     "title": "DECISÃO (UE) 2020/2229 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020",
+     "published": null,
+     "celex": "32020D2229"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Acesso à ação",
+    "Altera Artigo 4.º — Aplicação",
+    "Altera Artigo 16.º — Avaliação",
+    "Altera CALENDÁRIO"
+   ],
+   "fragments": [
+    "680a907af13b0393",
+    "f214a4a587a6a1cd",
+    "83ceb88b1d68d267",
+    "4520018e2b52dd46",
+    "dc187b5addcd23d0",
+    "e0de34270f9ec7ee",
+    "8129dc5c43c151b7",
+    "357db87ab7a83fb4",
+    "8fbc2fe672c36a77",
+    "6683a84a4a0fb787",
+    "7c50ed4343b1e48a",
+    "313818c4b984cc21",
+    "622b69501af4b41c",
+    "759eb26b6330960b",
+    "3abcaf6f056f32b4",
+    "7429718b7c6c93ce",
+    "ab28b5df83706241",
+    "d848cd630a2fbbe0",
+    "1a87bf9161c6b25e",
+    "25dcd898c452ee43",
+    "10220b9774fa9034",
+    "1c7a48d2bc9edc33"
+   ]
+  }
+ ],
+ "fragments": {
+  "29fe1622b608e94f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de abril de 2014\n\nque cria uma ação da União de apoio às Capitais Europeias da Cultura para os anos de 2020 a 2033 e que revoga a Decisão n.º 1622/2006/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 167.º, n.º 5, primeiro travessão,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta os pareceres do Comité das Regiões [([^1])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014132PT.01000101-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014132PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) O Tratado sobre o Funcionamento da União Europeia (TFUE) visa criar uma união cada vez mais estreita entre os povos europeus e atribui à União, nomeadamente, a missão de contribuir para o desenvolvimento das culturas dos Estados-Membros, respeitando a sua diversidade nacional e regional, e pondo simultaneamente em evidência o património cultural comum. Neste contexto, a União apoia e complementa, se necessário, a ação dos Estados-Membros para aperfeiçoar o conhecimento e a difusão da cultura e da história dos povos europeus.\n\n(2) A Comunicação da Comissão de 10 de maio de 2007 sobre uma agenda europeia para a cultura num mundo globalizado, apoiada pelo Conselho na sua Resolução de 16 de novembro de 2007 [([^3])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014132PT.01000101-E0003) e pelo Parlamento Europeu na sua Resolução de 10 de abril de 2008 [([^4])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014132PT.01000101-E0004), define os objetivos das atividades futuras da União no domínio da cultura. Essas atividades deverão promover a diversidade cultural e o diálogo intercultural, a cultura enquanto elemento catalisador da criatividade no âmbito do quadro para o crescimento e o emprego, e a cultura enquanto elemento vital das relações internacionais da União.\n\n(3) A Convenção da Unesco sobre a Proteção e a Promoção da Diversidade das Expressões Culturais, que entrou em vigor em 18 de março de 2007 e na qual a União é parte, visa proteger e promover a diversidade cultural, fomentar a interculturalidade e sensibilizar para o valor da diversidade cultural a nível local, nacional e internacional.\n\n(4) A Decisão n.º 1622/2006/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2014132PT.01000101-E0005) estabeleceu uma ação de apoio à manifestação Capital Europeia da Cultura para os anos de 2007 a 2019.\n\n(5) As avaliações das Capitais Europeias da Cultura, bem como a consulta pública sobre o futuro dessa ação após 2019, revelaram que esta se tem progressivamente tornado uma das mais ambiciosas iniciativas culturais na Europa, bem como uma das mais apreciadas pelos cidadãos europeus. Por conseguinte, deverá ser estabelecida uma nova ação que abranja os anos de 2020-2033.\n\n(6) Para além dos objetivos originais das Capitais Europeias da Cultura, que consistiam em valorizar a riqueza e a diversidade das culturas europeias e as características que estas culturas partilham, bem como em promover uma maior compreensão mútua entre os cidadãos europeus, as cidades detentoras do título de Capital Europeia da Cultura («título») também têm progressivamente acrescentado uma nova dimensão, graças à utilização do efeito de alavanca do título para estimular o seu desenvolvimento de caráter mais geral em conformidade com as respetivas estratégias e prioridades.\n\n(7) Os objetivos da ação estabelecida pela presente decisão deverão estar plenamente em consonância com os objetivos do programa Europa Criativa, criado pelo Regulamento (UE) n.º 1295/2013 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2014132PT.01000101-E0006), que visa salvaguardar, desenvolver e promover a diversidade cultural e linguística da Europa, promover o património cultural europeu e reforçar a competitividade dos setores cultural e criativo europeus, nomeadamente a do setor audiovisual, com vista a apoiar um crescimento inteligente, sustentável e inclusivo. A prossecução desses objetivos deverá contribuir igualmente para reforçar o sentimento de pertença a uma área cultural comum e para estimular o diálogo intercultural e a compreensão mútua.\n\n(8) Para alcançar tais objetivos, é importante que as cidades detentoras do título procurem desenvolver ligações entre, por um lado, os respetivos setores culturais e criativos, e, por outro, setores como a educação, a investigação, o ambiente, o desenvolvimento urbano ou o turismo cultural. Em particular, a experiência anterior tem demonstrado o potencial das Capitais Europeias da Cultura como elemento catalisador para o desenvolvimento local e o turismo cultural, tal como destacado na Comunicação da Comissão de 30 de junho de 2010, intitulada «Europa, primeiro destino turístico do mundo — novo quadro político para o turismo europeu», saudada pelo Conselho nas suas Conclusões de 12 de outubro de 2010 e apoiada pelo Parlamento Europeu na sua Resolução de 27 de setembro de 2011 [([^7])](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2014132PT.01000101-E0007).\n\n(9) É igualmente importante que as cidades detentoras do título procurem promover a inclusão social e a igualdade de oportunidades e que desenvolvam todos os esforços para garantir a mais ampla participação possível de todas as componentes da sociedade civil na preparação e implementação do programa cultural, prestando especial atenção aos jovens e aos setores marginalizados e desfavorecidos.\n\n(10) As avaliações e a consulta pública mostraram também de forma convincente que as Capitais Europeias da Cultura têm muitas vantagens potenciais sempre que são cuidadosamente planeadas. Continuam a ser, antes de mais e sobretudo, uma iniciativa cultural, mas também podem trazer benefícios sociais e económicos significativos, nomeadamente quando constituem parte integrante de uma estratégia de desenvolvimento a longo prazo, baseada na cultura, para a cidade em causa.\n\n(11) A ação Capitais Europeias da Cultura tem também constituído um desafio de relevo. Organizar um programa de atividades culturais com a duração de um ano é uma tarefa exigente e algumas cidades detentoras do título têm tido mais êxito do que outras na capitalização do potencial do título. Por conseguinte, essa ação deverá ser reforçada, a fim de ajudar todas as cidades a tirarem o máximo partido do título.\n\n(12) O título deverá continuar a ser reservado às cidades, independentemente da sua dimensão, mas para chegar a um público mais vasto e amplificar as suas repercussões, também deverá ser possível, tal como anteriormente, que as cidades em causa incluam a sua zona envolvente.\n\n(13) A atribuição do título deverá continuar a basear-se num programa cultural especificamente criado, que deverá ter uma dimensão europeia forte. Esse programa cultural deverá inserir-se numa estratégia a longo prazo com um impacto sustentável no desenvolvimento económico, cultural e social local.\n\n(14) O processo de seleção em duas fases com base numa lista cronológica de Estados-Membros e levado a cabo por um júri de peritos independentes revelou-se justo e transparente. Permitiu às cidades melhorarem as suas candidaturas entre a fase de pré-seleção e a fase de seleção, com base no parecer qualificado desse júri, e assegurou uma distribuição equitativa do título por todos os Estados-Membros. Além disso, a fim de salvaguardar a continuidade da ação Capitais Europeias da Cultura e evitar a perda de experiência e de saber-fazer que resultaria da substituição simultânea de todos os peritos, a substituição dos peritos deverá ser escalonada no tempo.\n\n(15) Deverá continuar a ser assegurada a presença de peritos nacionais mediante a possibilidade de os Estados-Membros nomearem até dois peritos para um júri que realize os procedimentos de seleção e acompanhamento.\n\n(16) Os critérios de seleção deverão ser tornados mais explícitos, de modo a orientar melhor as cidades candidatas no que se refere aos objetivos e requisitos que precisam de cumprir para ganhar o título. Esses critérios de seleção deverão ser também mais facilmente quantificáveis, de forma a ajudar o júri na seleção e acompanhamento das cidades. A este respeito, deverá ser prestada uma atenção especial aos planos das cidades candidatas de atividades relacionadas com o património inseridas numa estratégia de política cultural a longo prazo, capaz de gerar um impacto cultural, económico e social sustentável.\n\n(17) As cidades candidatas deverão, sempre que adequado, explorar a possibilidade de procurar obter apoio financeiro dos programas e fundos da União.\n\n(18) A fase de preparação entre a designação de uma cidade e o ano do título é de importância crucial para o êxito da ação Capitais Europeias da Cultura. Existe um amplo consenso entre as partes interessadas quanto ao facto de as medidas de acompanhamento introduzidas pela Decisão n.º 1622/2006/CE terem sido muito úteis para as cidades em causa. Essas medidas deverão ser ainda mais desenvolvidas, em particular através de reuniões de acompanhamento e de visitas mais frequentes às cidades pelos peritos do júri, e através de um intercâmbio de experiências reforçado entre cidades detentoras do título anteriores, presentes e futuras, bem como entre cidades candidatas. As cidades designadas poderão igualmente desenvolver mais relações com outras cidades detentoras do título.\n\n(19) O prémio Melina Mercouri estabelecido pela Decisão n.º 1622/2006/CE adquiriu um grande valor simbólico que vai muito além do montante efetivo atribuído pela Comissão. No entanto, a fim de assegurar que as cidades designadas cumprem os seus compromissos, as condições de pagamento do prémio pecuniário deverão ser tornadas mais rigorosas e explícitas.\n\n(20) É importante que as cidades em causa tornem claro em todos os seus materiais de comunicação que a ação estabelecida pela presente decisão é uma ação da União.\n\n(21) As avaliações pela Comissão das anteriores Capitais Europeias da Cultura, que se baseiam em dados recolhidos a nível local, não têm podido fornecer dados primários sobre o impacto do título. Assim, as próprias cidades deverão ser os principais intervenientes no processo de avaliação.\n\n(22) A experiência anterior demonstrou que a participação de países candidatos pode contribuir para a sua aproximação à União, destacando os aspetos comuns das culturas europeias. A ação estabelecida pela presente decisão deverá, por conseguinte, estar aberta à participação de países candidatos e de potenciais candidatos após 2019.\n\n(23) No entanto, durante o período abrangido pela presente decisão, a saber, de 2020 a 2033, por razões de equidade com as cidades dos Estados-Membros, as cidades de países candidatos e de potenciais candidatos deverão poder participar em apenas um concurso para o título. Além disso, também por razões de equidade com os Estados-Membros, cada país candidato ou cada potencial candidato deverão poder acolher o título apenas uma vez durante o referido período.\n\n(24) A Decisão n.º 1622/2006/CE deverá ser revogada. As suas disposições deverão, no entanto, continuar a ser aplicáveis em relação a todas as cidades que já tenham sido designadas ou que estejam em vias de o ser nos anos até 2019.\n\n(25) Atendendo a que os objetivos da presente decisão, a saber, salvaguardar e promover a diversidade das culturas na Europa, pôr em evidência as características comuns que partilham e promover o contributo da cultura para o desenvolvimento a longo prazo das cidades, não podem ser suficientemente alcançados pelos Estados-Membros, em especial devido à necessidade de estabelecer critérios e procedimentos comuns, claros e transparentes de seleção e acompanhamento, e de uma maior coordenação entre os Estados-Membros, mas podem, devido à dimensão e aos efeitos esperados da ação, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente decisão não excede o necessário para alcançar esses objetivos,\n\nADOTARAM A PRESENTE DECISÃO:"
+  },
+  "f214a4a587a6a1cd": {
+   "fragment_id": "Artigo 1.º — Criação da ação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação da ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação da ação\n\nÉ criada uma ação da União intitulada «Capitais Europeias da Cultura» para os anos de 2020 a 2033 («ação»)."
+  },
+  "b10f7ae1e3a3a306": {
+   "fragment_id": "Artigo 2.º — Objetivos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1. Os objetivos gerais da ação são:\n\na) Salvaguardar e promover a diversidade das culturas na Europa e pôr em evidência as características comuns que partilham, bem como reforçar o sentimento de pertença dos cidadãos a uma zona cultural comum;\n\nb) Promover o contributo da cultura para o desenvolvimento de longo prazo das cidades em conformidade com as suas respetivas estratégias e prioridades.\n\n2. Os objetivos específicos da ação são:\n\na) Reforçar o alcance, a diversidade e a dimensão europeia da oferta cultural nas cidades, nomeadamente através da cooperação transnacional;\n\nb) Alargar o acesso e a participação na cultura;\n\nc) Reforçar a capacidade do setor cultural e as suas ligações a outros setores;\n\nd) Melhorar o perfil internacional das cidades através da cultura."
+  },
+  "28f59b35fb366ae1": {
+   "fragment_id": "Artigo 3.º — Acesso à ação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acesso à ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à ação\n\n1. O concurso para o título está aberto apenas às cidades, podendo estas incluir a sua zona envolvente.\n\n2. O número de cidades detentoras do título em cada ano («ano do título») não pode exceder três.\n\nO título deve ser atribuído anualmente a uma cidade, no máximo, de cada um dos dois Estados-Membros constantes do calendário estabelecido no Anexo («calendário») e, nos anos previstos, a uma cidade de um país candidato ou de um potencial candidato ou a uma cidade de um país que adira à União nas circunstâncias descritas no n.º 5.\n\n3. As cidades dos Estados-Membros têm direito a ser deter o título, por um ano, em conformidade com a ordem dos Estados-Membros que figuram no calendário.\n\n4. As cidades situadas em países candidatos e em potenciais candidatos que participem no programa Europa Criativa ou em programas subsequentes da União de apoio à cultura na data de publicação do convite à apresentação de candidaturas referido no artigo 10.º, n.º 2, podem concorrer ao título por um ano, no âmbito de um concurso aberto organizado de três em três anos, em conformidade com o calendário.\n\nAs cidades situadas em países candidatos e em potenciais candidatos podem participar em apenas um concurso durante o período de 2020 a 2033.\n\nCada país candidato ou cada potencial candidato pode acolher o título apenas uma vez durante o período de 2020 a 2033.\n\n5. Caso um país adira à União após 4 de maio de 2014, mas antes de 1 de janeiro de 2027, tem direito a acolher o título sete anos após a sua adesão, de acordo com as regras e os procedimentos aplicáveis aos Estados-Membros. O calendário é atualizado em conformidade. Caso um país adira à União em ou após 1 de janeiro de 2027 não tem direito a participar na ação como Estado-Membro.\n\nTodavia, nos anos em que já haja três cidades detentoras do título em conformidade com o calendário, as cidades situadas em países referidos no primeiro parágrafo só têm direito a deter o título no ano seguinte disponível no calendário, respeitando a ordem de adesão desses países.\n\nSe uma cidade de um país referido no primeiro parágrafo tiver participado anteriormente num concurso para países candidatos e para potenciais candidatos, não pode participar em nenhum concurso subsequente para os Estados-Membros. Caso, durante o período de 2020 até 2033, uma cidade de um tal país tenha sido designada detentora do título nos termos do n.º 4, esse país não tem direito a, após a sua adesão, organizar um concurso enquanto Estado-Membro durante esse período.\n\nSe mais do que um país aderir à União na mesma data e não houver acordo entre esses países quanto à sua ordem de participação na ação, o Conselho organiza um sorteio."
+  },
+  "46d5930174a72a48": {
+   "fragment_id": "Artigo 4.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\n1. A Comissão elabora um formulário de candidatura comum baseado nos critérios estabelecidos no artigo 5.º que deve ser utilizado por todas as cidades candidatas.\n\nCaso uma cidade candidata inclua a sua zona envolvente, a candidatura deve ser apresentada em nome dessa cidade.\n\n2. Cada candidatura deve ser baseada num programa cultural com uma forte dimensão europeia.\n\nEsse programa deve abranger o ano do título e ser especificamente criado para o título, em conformidade com os critérios estabelecidos no artigo 5.º."
+  },
+  "a78ae52a106eabb0": {
+   "fragment_id": "Artigo 5.º — Critérios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios\n\nOs critérios de avaliação das candidaturas («critérios») são divididos pelas categorias «contributo para a estratégia a longo prazo», «dimensão europeia», «conteúdo cultural e artístico», «capacidade de execução», «projeção» e «gestão» nos termos seguintes:\n\n1) No que diz respeito à categoria «contributo para a estratégia a longo prazo», devem ser tidos em conta os seguintes fatores: a) Existência, no momento da candidatura, de uma estratégia cultural para a cidade candidata que abranja a ação e inclua planos de atividades culturais sustentáveis para além do ano do título; b) Os planos destinados a reforçar a capacidade dos setores cultural e criativo, incluindo o desenvolvimento de relações de longo prazo entre os setores cultural, económico e social na cidade candidata; c) O impacto previsto a longo prazo ao nível cultural, económico e social, incluindo o desenvolvimento urbano, que o título pode ter sobre a cidade candidata; d) Os planos para o acompanhamento e a avaliação do impacto do título na cidade candidata e para a divulgação dos resultados da avaliação.\n\na) Existência, no momento da candidatura, de uma estratégia cultural para a cidade candidata que abranja a ação e inclua planos de atividades culturais sustentáveis para além do ano do título;\n\nb) Os planos destinados a reforçar a capacidade dos setores cultural e criativo, incluindo o desenvolvimento de relações de longo prazo entre os setores cultural, económico e social na cidade candidata;\n\nc) O impacto previsto a longo prazo ao nível cultural, económico e social, incluindo o desenvolvimento urbano, que o título pode ter sobre a cidade candidata;\n\nd) Os planos para o acompanhamento e a avaliação do impacto do título na cidade candidata e para a divulgação dos resultados da avaliação.\n\n2) No que diz respeito à categoria «dimensão europeia», devem ser avaliados os seguintes fatores: a) O âmbito e a qualidade das atividades que promovem a diversidade cultural da Europa, o diálogo intercultural e uma maior compreensão mútua entre os cidadãos europeus; b) O âmbito e a qualidade das atividades que realçam os aspetos comuns da cultura, do património e da história europeus, bem como a integração europeia e os temas europeus atuais; c) O âmbito e a qualidade das atividades em que participam artistas europeus, a cooperação com operadores ou cidades de diferentes países, incluindo, se for caso disso, outras cidades detentoras do título, e parcerias transnacionais; d) A estratégia para atrair o interesse de um vasto público europeu e internacional.\n\na) O âmbito e a qualidade das atividades que promovem a diversidade cultural da Europa, o diálogo intercultural e uma maior compreensão mútua entre os cidadãos europeus;\n\nb) O âmbito e a qualidade das atividades que realçam os aspetos comuns da cultura, do património e da história europeus, bem como a integração europeia e os temas europeus atuais;\n\nc) O âmbito e a qualidade das atividades em que participam artistas europeus, a cooperação com operadores ou cidades de diferentes países, incluindo, se for caso disso, outras cidades detentoras do título, e parcerias transnacionais;\n\nd) A estratégia para atrair o interesse de um vasto público europeu e internacional.\n\n3) No que diz respeito à categoria «conteúdo cultural e artístico», devem ser avaliados os seguintes fatores: a) Uma visão e uma estratégia artísticas claras e coerentes para o programa cultural; b) A participação de artistas e organizações culturais locais na conceção e na execução do programa cultural; c) O alcance e a diversidade das atividades propostas e a sua qualidade artística global; d) A capacidade para combinar o património cultural local e as formas de arte tradicionais com expressões culturais novas, inovadoras e de caráter experimental.\n\na) Uma visão e uma estratégia artísticas claras e coerentes para o programa cultural;\n\nb) A participação de artistas e organizações culturais locais na conceção e na execução do programa cultural;\n\nc) O alcance e a diversidade das atividades propostas e a sua qualidade artística global;\n\nd) A capacidade para combinar o património cultural local e as formas de arte tradicionais com expressões culturais novas, inovadoras e de caráter experimental.\n\n4) No que diz respeito à categoria «capacidade de execução», as cidades candidatas devem demonstrar que: a) A candidatura tem um amplo e sólido apoio político e conta com o empenho sustentável das autoridades locais, regionais e nacionais; b) A cidade candidata tem, ou terá, infraestruturas adequadas e viáveis para deter o título.\n\na) A candidatura tem um amplo e sólido apoio político e conta com o empenho sustentável das autoridades locais, regionais e nacionais;\n\nb) A cidade candidata tem, ou terá, infraestruturas adequadas e viáveis para deter o título.\n\n5) No que diz respeito à categoria «projeção», devem ser avaliados os seguintes fatores: a) A participação da população local e da sociedade civil na preparação da candidatura e na execução da ação; b) A criação de novas oportunidades sustentáveis, tendo em vista a participação e a presença de uma vasta gama de cidadãos nas atividades culturais, em particular jovens, voluntários e pessoas marginalizadas e desfavorecidas, incluindo as minorias, sendo dada especial atenção ao acesso a essas atividades por parte das pessoas com deficiência e dos idosos; c) A estratégia global de alargamento do público, nomeadamente a ligação com o ensino e a participação das escolas.\n\na) A participação da população local e da sociedade civil na preparação da candidatura e na execução da ação;\n\nb) A criação de novas oportunidades sustentáveis, tendo em vista a participação e a presença de uma vasta gama de cidadãos nas atividades culturais, em particular jovens, voluntários e pessoas marginalizadas e desfavorecidas, incluindo as minorias, sendo dada especial atenção ao acesso a essas atividades por parte das pessoas com deficiência e dos idosos;\n\nc) A estratégia global de alargamento do público, nomeadamente a ligação com o ensino e a participação das escolas.\n\n6) No que diz respeito à categoria «gestão», devem ser avaliados os seguintes fatores: a) A viabilidade da estratégia de captação de fundos e do orçamento proposto, que inclui, sempre que adequado, planos para procurar obter apoio financeiro de programas e fundos da União e cobre a fase de preparação, o ano do título, a avaliação e as dotações para a continuidade das atividades e o planeamento de medidas de contingência; b) A estrutura de governação e execução prevista para a execução da ação, que prevê, nomeadamente, a cooperação adequada entre as autoridades locais e a estrutura de execução, incluindo a equipa artística; c) Os processos de nomeação dos diretores-gerais e dos diretores artísticos e respetivos domínios de ação; d) A estratégia de *marketing* e comunicação ser abrangente e realçar que a ação é uma ação da União; e) A estrutura de execução dispor de pessoal com competências adequadas e experiência para planear, gerir e executar o programa cultural no ano do título.\n\na) A viabilidade da estratégia de captação de fundos e do orçamento proposto, que inclui, sempre que adequado, planos para procurar obter apoio financeiro de programas e fundos da União e cobre a fase de preparação, o ano do título, a avaliação e as dotações para a continuidade das atividades e o planeamento de medidas de contingência;\n\nb) A estrutura de governação e execução prevista para a execução da ação, que prevê, nomeadamente, a cooperação adequada entre as autoridades locais e a estrutura de execução, incluindo a equipa artística;\n\nc) Os processos de nomeação dos diretores-gerais e dos diretores artísticos e respetivos domínios de ação;\n\nd) A estratégia de *marketing* e comunicação ser abrangente e realçar que a ação é uma ação da União;\n\ne) A estrutura de execução dispor de pessoal com competências adequadas e experiência para planear, gerir e executar o programa cultural no ano do título."
+  },
+  "8387c04cbeed3fc0": {
+   "fragment_id": "Artigo 6.º — Júri de peritos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Júri de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Júri de peritos\n\n1. É criado um júri composto por peritos independentes («júri») para executar os procedimentos de seleção e acompanhamento.\n\n2. O júri é composto por 10 peritos nomeados por instituições e organismos da União («peritos europeus») nos termos do n.º 3.\n\n3. Após organizar um convite público à manifestação de interesse, a Comissão propõe um grupo de potenciais peritos europeus.\n\nO Parlamento Europeu, o Conselho e a Comissão devem cada um selecionar três peritos de entre esse grupo e designá-los de acordo com os seus procedimentos respetivos.\n\nO Comité das Regiões seleciona um perito de entre esse grupo e designa-o de acordo com os seus procedimentos.\n\nAo selecionar os peritos europeus, cada uma dessas instituições e organismos da União deve procurar assegurar a complementaridade das suas competências, uma distribuição geográfica equilibrada e o equilíbrio entre homens e mulheres na composição global do júri.\n\n4. Além dos peritos europeus, para proceder à seleção e acompanhamento de uma cidade de um Estado-Membro, o Estado-Membro em causa tem direito a designar até dois peritos para o júri de acordo com os seus procedimentos próprios e em consulta com a Comissão.\n\n5. Todos os peritos devem:\n\na) Ter a cidadania da União;\n\nb) Ser independentes;\n\nc) Ter conhecimentos e experiência substanciais; i) no setor cultural, ii) no desenvolvimento cultural das cidades, iii) na organização de um evento de uma Capital Europeia da Cultura ou de um evento cultural internacional de âmbito e dimensão semelhantes;\n\ni) no setor cultural,\n\nii) no desenvolvimento cultural das cidades,\n\niii) na organização de um evento de uma Capital Europeia da Cultura ou de um evento cultural internacional de âmbito e dimensão semelhantes;\n\nd) Estar em condições de consagrar um número adequado de dias de trabalho por ano ao júri.\n\n6. O júri designa o seu presidente.\n\n7. Os peritos europeus são nomeados por três anos.\n\nNão obstante o primeiro parágrafo, no que diz respeito ao primeiro júri a estabelecer, o Parlamento Europeu nomeia os seus peritos por três anos, a Comissão por dois anos e o Conselho e o Comité das Regiões por um ano.\n\n8. Todos os peritos devem declarar qualquer conflito de interesses, real ou potencial, relativamente a uma cidade candidata específica. Em caso de tal declaração, ou se for revelada a existência de um tal conflito de interesses, o perito em causa deve apresentar a sua demissão e a instituição ou o organismo competente da União ou o Estado-Membro deve substituí-lo pelo período remanescente do mandato, em conformidade com o procedimento aplicável."
+  },
+  "357db87ab7a83fb4": {
+   "fragment_id": "Artigo 7.º — Apresentação de candidaturas nos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apresentação de candidaturas nos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação de candidaturas nos Estados-Membros\n\n1. Cada Estado-Membro é responsável pela organização do concurso entre as suas cidades, em conformidade com o calendário.\n\n2. Os Estados-Membros em causa publicam um convite à apresentação de candidaturas, pelo menos seis anos antes do ano do título.\n\nEm derrogação do primeiro parágrafo, os Estados-Membros que tenham direito a designar uma cidade para ser a detentora do título em 2020 devem publicar esse convite o mais rapidamente possível após 4 de maio de 2014.\n\nCada convite à apresentação de candidaturas inclui o formulário de candidatura referido no artigo 4.º, n.º 1.\n\nO prazo para a apresentação de candidaturas pelas cidades candidatas ao abrigo dos convites à apresentação de candidaturas é, no mínimo, de 10 meses após a respetiva publicação.\n\n3. Os Estados-Membros em causa notificam as candidaturas à Comissão."
+  },
+  "8fbc2fe672c36a77": {
+   "fragment_id": "Artigo 8.º — Pré-seleção pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Pré-seleção pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pré-seleção pelos Estados-Membros\n\n1. Cada Estado-Membro em causa convoca o júri para uma reunião de pré-seleção com as cidades candidatas até cinco anos antes do ano do título.\n\nEm derrogação do primeiro parágrafo, os Estados-Membros que tenham direito a designar uma cidade para ser a detentora do título no ano de 2020 podem prorrogar esse prazo no máximo por um ano.\n\n2. O júri, depois de avaliar as candidaturas de acordo com os critérios, aprova uma lista de finalistas das cidades candidatas e redige um relatório de pré-seleção sobre todas as candidaturas que inclui, nomeadamente, recomendações às cidades candidatas que integram a lista de finalistas.\n\n3. O júri apresenta o relatório de pré-seleção aos Estados-Membros em causa e à Comissão.\n\n4. Cada Estado-Membro em causa aprova formalmente a lista de finalistas baseada no relatório do júri."
+  },
+  "6683a84a4a0fb787": {
+   "fragment_id": "Artigo 9.º — Seleção pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Seleção pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Seleção pelos Estados-Membros\n\n1. As cidades candidatas que integram a lista de finalistas completam e reveem as suas candidaturas de modo a respeitar os critérios e a ter em conta as recomendações constantes do relatório de pré-seleção, e apresentam-nas ao Estado-Membro em causa, que por sua vez as transmite à Comissão.\n\n2. Cada Estado-Membro em causa convoca o júri para uma reunião de seleção com as cidades candidatas que integram a lista de finalistas, o mais tardar nove meses após a reunião de pré-seleção.\n\nSe necessário, o Estado-Membro em causa, em consulta com a Comissão, pode prorrogar o prazo de nove meses por um período razoável.\n\n3. O júri avalia as candidaturas completadas e revistas.\n\n4. O júri elabora um relatório de seleção sobre as candidaturas das cidades candidatas que integram a lista de finalistas, com uma recomendação relativa à designação de um máximo de uma cidade no Estado-Membro em causa.\n\nO relatório de seleção inclui igualmente recomendações destinadas à cidade em causa sobre os progressos a realizar até ao ano do título.\n\nO júri apresenta o relatório de seleção ao Estado-Membro em causa e à Comissão.\n\n5. Não obstante o n.º 4, se nenhuma das cidades candidatas preencher todos os critérios, o júri pode recomendar que o título não seja atribuído no ano em causa."
+  },
+  "384cebcde51010f3": {
+   "fragment_id": "Artigo 10.º — Pré-seleção e seleção nos países candidatos e nos potenciais candidatos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pré-seleção e seleção nos países candidatos e nos potenciais candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pré-seleção e seleção nos países candidatos e nos potenciais candidatos\n\n1. A Comissão é responsável pela organização do concurso entre cidades nos países candidatos e nos potenciais candidatos.\n\n2. A Comissão publica no *Jornal Oficial da União Europeia* um convite à apresentação de candidaturas, pelo menos seis anos antes do ano do título.\n\nCada convite à apresentação de candidaturas inclui o formulário de candidatura referido no artigo 4.º, n.º 1.\n\nO prazo para a apresentação de candidaturas ao abrigo dos convites à apresentação de candidaturas é, no mínimo, de 10 meses após a respetiva publicação.\n\n3. A pré-seleção das cidades é realizada pelo júri pelo menos cinco anos antes do ano do título, com base nas respetivas candidaturas. Não é organizada nenhuma reunião com as cidades candidatas.\n\nO júri, depois de avaliar as candidaturas de acordo com os critérios, aprova uma lista de finalistas das cidades candidatas e redige um relatório de pré-seleção sobre todas as candidaturas que inclui, nomeadamente, recomendações às cidades candidatas que integram a lista de finalistas.\n\nO júri apresenta o relatório de pré-seleção à Comissão.\n\n4. As cidades candidatas que integram a lista de finalistas completam e reveem as suas candidaturas de modo a respeitar os critérios e a ter em conta as recomendações constantes do relatório de pré-seleção, e apresentam-nas à Comissão.\n\nA Comissão convoca o júri para uma reunião de seleção com as cidades candidatas que integram a lista de finalistas, até nove meses após a reunião de pré-seleção.\n\nSe necessário, a Comissão pode prorrogar o prazo de nove meses por um período razoável.\n\n5. O júri avalia as candidaturas completadas e revistas.\n\n6. O júri elabora um relatório sobre as candidaturas das cidades candidatas constantes que integram a lista de finalistas, juntamente com uma recomendação relativa à designação de um máximo de uma cidade num país candidato ou num potencial candidato.\n\nO relatório de seleção inclui igualmente recomendações destinadas à cidade em causa sobre os progressos a realizar até ao ano do título.\n\nO júri apresenta o relatório de seleção à Comissão.\n\n7. Não obstante o n.º 6, se nenhuma das cidades candidatas preencher todos os critérios, o júri pode recomendar que o título não seja atribuído no ano em causa."
+  },
+  "5c10f8f5a788d60d": {
+   "fragment_id": "Artigo 11.º — Designação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação\n\n1. Cada Estado-Membro em causa designa uma cidade para ser a detentora do título, com base nas recomendações constantes do relatório de seleção do júri, e notifica, até quatro anos antes do ano do título, a designação ao Parlamento Europeu, ao Conselho, à Comissão e ao Comité das Regiões.\n\nEm derrogação do primeiro parágrafo, os Estados-Membros que tenham direito a designar uma cidade para ser a detentora do título no ano de 2020 podem prorrogar esse prazo no máximo por um ano.\n\n2. No caso dos países candidatos e dos potenciais candidatos, a Comissão designa uma cidade para ser a detentora do título nos anos em questão, com base nas recomendações constantes do relatório de seleção do júri, e notifica, até quatro anos antes do ano do título, as designações ao Parlamento Europeu, ao Conselho, à Comissão e ao Comité das Regiões.\n\n3. As designações referidas nos n.^os^ 1 e 2 são acompanhadas de uma justificação baseada nos relatórios do júri.\n\n4. Caso uma cidade inclua a sua zona envolvente, a designação aplica-se à cidade.\n\n5. No prazo de dois meses a contar da notificação de designação, a Comissão publica a lista das cidades designadas como Capitais Europeias da Cultura na série C do *Jornal Oficial da União Europeia*."
+  },
+  "759eb26b6330960b": {
+   "fragment_id": "Artigo 12.º — Cooperação entre cidades designadas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Cooperação entre cidades designadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cooperação entre cidades designadas\n\nAs cidades designadas para o mesmo ano devem procurar desenvolver laços entre os seus programas culturais, podendo essa cooperação ser considerada no quadro do procedimento de acompanhamento previsto no artigo 13.º."
+  },
+  "46f60d999317ea6e": {
+   "fragment_id": "Artigo 13.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento\n\n1. O júri acompanha a preparação das cidades designadas para o ano do título e presta-lhes apoio e orientação desde o momento da sua designação até ao início do ano do título.\n\n2. Para o efeito, a Comissão convoca três reuniões de acompanhamento, nas quais estão presentes o júri e as cidades designadas, nos termos seguintes:\n\na) Três anos antes do ano do título;\n\nb) 18 meses antes do ano do título;\n\nc) Dois meses antes do ano do título.\n\nO Estado-Membro ou o país candidato ou o potencial candidato em causa podem nomear um observador para estar presente nessas reuniões.\n\nAs cidades designadas devem apresentar relatórios intercalares à Comissão seis semanas antes de cada reunião de acompanhamento.\n\nDurante as reuniões de acompanhamento, o júri deve fazer o balanço dos preparativos e prestar aconselhamento, com vista a ajudar as cidades designadas a desenvolverem um programa de elevada qualidade e uma estratégia eficaz. O júri deve prestar especial atenção às recomendações estabelecidas no relatório de seleção e nos precedentes relatórios de acompanhamento a que se refere o n.º 3.\n\n3. Após cada reunião de acompanhamento, o júri elabora um relatório de acompanhamento sobre a evolução dos preparativos e as eventuais medidas a tomar.\n\nO júri transmite os seus relatórios de acompanhamento à Comissão, bem como às cidades designadas e ao Estado-Membro ou país candidato ou potencial candidato em causa.\n\n4. Para além das reuniões de acompanhamento, a Comissão pode organizar visitas do júri às cidades designadas, sempre que necessário."
+  },
+  "7429718b7c6c93ce": {
+   "fragment_id": "Artigo 14.º — Prémio",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prémio\n\n1. A Comissão pode atribuir um prémio pecuniário em honra de Melina Mercouri («prémio») a uma cidade designada em função do financiamento disponibilizado ao abrigo do quadro financeiro plurianual pertinente.\n\nOs aspetos jurídicos e financeiros do prémio são determinados no âmbito dos respetivos programas de apoio à cultura da União.\n\n2. O prémio pecuniário é pago até ao final de março do ano do título, desde que a cidade designada em questão cumpra os compromissos assumidos na fase de candidatura, respeite os critérios e tenha em conta as recomendações constantes dos relatórios de seleção e de acompanhamento.\n\nConsidera-se que os compromissos assumidos na fase de candidatura foram cumpridos pela cidade designada se não tiver sido efetuada nenhuma alteração substancial no programa e na estratégia entre a fase da candidatura e o ano do título, nomeadamente caso:\n\na) O orçamento tenha sido mantido a um nível capaz de oferecer um programa cultural de elevada qualidade em consonância com a aplicação dos critérios;\n\nb) A independência da equipa artística tenha sido devidamente respeitada;\n\nc) A dimensão europeia tenha continuado a ser suficientemente forte na versão final do programa cultural;\n\nd) A estratégia de *marketing* e comunicação e o material de comunicação utilizados pela cidade designada reflitam claramente o facto de a ação ser uma ação da União;\n\ne) Os planos para o acompanhamento e a avaliação do impacto do título na cidade designada estejam estabelecidos."
+  },
+  "ab28b5df83706241": {
+   "fragment_id": "Artigo 15.º — Disposições práticas",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições práticas\n\nA Comissão deve, nomeadamente:\n\na) Assegurar a coerência global da ação;\n\nb) Assegurar a coordenação entre os Estados-Membros e o júri;\n\nc) À luz dos objetivos referidos no artigo 2.º e dos critérios, definir orientações que facilitem os procedimentos de seleção e acompanhamento, em estreita cooperação com o júri;\n\nd) Prestar assistência técnica ao júri;\n\ne) Publicar no seu sítio *web* todos os relatórios do júri;\n\nf) Tornar públicas todas as informações relevantes e contribuir para a visibilidade da ação a nível europeu e a nível internacional;\n\ng) Promover o intercâmbio de experiências e de boas práticas entre as cidades detentoras do título passadas, presentes e futuras, bem como entre as cidades candidatas, e promover uma maior divulgação dos relatórios de avaliação das cidades e das lições aprendidas."
+  },
+  "6db364794a08e545": {
+   "fragment_id": "Artigo 16.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação\n\n1. Cada cidade em causa é responsável pela avaliação dos resultados do respetivo ano enquanto Capital Europeia da Cultura.\n\nA Comissão estabelece orientações e indicadores comuns para as cidades em causa, com base nos objetivos referidos no artigo 2.º e nos critérios, a fim de assegurar uma abordagem coerente do processo de avaliação.\n\nAs cidades em causa redigem os seus relatórios de avaliação e transmitem-nos à Comissão até 31 de dezembro do ano seguinte ao ano do título.\n\nA Comissão publica os relatórios de avaliação no seu sítio *web*.\n\n2. Para além das avaliações realizadas pelas cidades, a Comissão assegura que sejam realizadas periodicamente avaliações externas e independentes dos resultados da ação.\n\nAs avaliações externas e independentes devem incidir na inserção de todas as anteriores Capitais Europeias da Cultura num contexto europeu, permitindo estabelecer comparações e retirar ensinamentos úteis para as futuras Capitais Europeias da Cultura, bem como para todas as cidades europeias. Essas avaliações devem incluir uma apreciação da ação como um todo, incluindo a eficiência dos processos utilizados na sua gestão, o seu impacto e o modo como pode ser melhorada.\n\nA Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité das Regiões os seguintes relatórios baseados nessas avaliações, eventualmente acompanhados de propostas pertinentes:\n\na) Até 31 de dezembro de 2024, um relatório intercalar inicial;\n\nb) Até 31 de dezembro de 2029, um segundo relatório intercalar;\n\nc) Até 31 de dezembro de 2034, um relatório *ex post*."
+  },
+  "1a87bf9161c6b25e": {
+   "fragment_id": "Artigo 17.º — Revogação e disposição transitória",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação e disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação e disposição transitória\n\nÉ revogada a Decisão n.º 1622/2006/CE. No entanto, a Decisão n.º 1622/2006/CE continua a aplicar-se às cidades que foram ou estão em vias de ser designadas Capitais Europeias da Cultura para os anos de 2013 a 2019."
+  },
+  "61d9f4879e932ce6": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nFeito em Estrasburgo, em 16 de abril de 2014.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. KOURKOULAS**\n\n---"
+  },
+  "cc4f467bb52768ab": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014132PT.01000101-E0001) [JO C 113 de 18.4.2012, p. 17](http://publications.europa.eu/resource/oj/JOC_2012_113_R_TOC), e [JO C 17 de 19.1.2013, p. 97](http://publications.europa.eu/resource/oj/JOC_2013_017_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014132PT.01000101-E0002) Posição do Parlamento Europeu de 12 de dezembro de 2013 (ainda não publicada no Jornal Oficial) e Posição do Conselho em primeira leitura de 24 de março de 2014 (ainda não publicada no Jornal Oficial). Posição do Parlamento Europeu de 15 de abril de 2014 (ainda não publicada no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014132PT.01000101-E0003) [JO C 287 de 29.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOC_2007_287_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014132PT.01000101-E0004) [JO C 247 E de 15.10.2009, p. 32](http://publications.europa.eu/resource/oj/JOC_2009_247_E_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2014132PT.01000101-E0005) Decisão n.º 1622/2006/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 2006, relativa à criação de uma ação comunitária de apoio à manifestação Capital Europeia da Cultura para os anos de 2007 a 2019 ([JO L 304 de 3.11.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_304_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2014132PT.01000101-E0006) Regulamento (UE) n.º 1295/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria o Programa Europa Criativa (2014-2020) e que revoga as Decisões n.º 1718/2006/CE, n.º 1855/2006/CE e n.º 1041/2009/CE ([JO L 347 de 20.12.2013, p. 221](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2014132PT.01000101-E0007) [JO C 56 de 26.2.2013, p. 41](http://publications.europa.eu/resource/oj/JOC_2013_056_R_TOC)."
+  },
+  "680a907af13b0393": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de abril de 2014\n\nque cria uma ação da União de apoio às Capitais Europeias da Cultura para os anos de 2020 a 2033 e que revoga a Decisão n.º 1622/2006/CE"
+  },
+  "c7aeeb3c5b4bd256": {
+   "fragment_id": "Artigo 3.º — Acesso à ação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acesso à ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à ação\n\n1. O concurso para o título está aberto apenas às cidades, podendo estas incluir a sua zona envolvente.\n\n2. O número de cidades detentoras do título em cada ano («ano do título») não pode exceder três.\n\nO título é atribuído anualmente a uma cidade, no máximo, de cada um dos dois Estados-Membros constantes do calendário constante do anexo («calendário») e, nos anos previstos, a uma cidade de um país pertencente à Associação Europeia de Comércio Livre e que seja Parte no Acordo sobre o Espaço Económico Europeu («país EFTA/EEE»), de um país candidato ou potencial candidato, ou ainda a uma cidade de um país que adira à União nas circunstâncias previstas no n.º 5.\n\n3. As cidades dos Estados-Membros têm direito a ser deter o título, por um ano, em conformidade com a ordem dos Estados-Membros que figuram no calendário.\n\n4. As cidades situadas em países EFTA/EEE, em países candidatos e em países potenciais candidatos que participem no programa Europa Criativa ou em programas subsequentes da União de apoio à cultura à data de publicação do convite à apresentação de candidaturas referido no artigo 10.º, n.º 2, podem concorrer ao título por um ano, no âmbito de um concurso aberto organizado em conformidade com o calendário constante do anexo.\n\nAs cidades situadas em países EFTA/EEE, em países candidatos e em países potenciais candidatos só podem participar num concurso durante o período de 2020 a 2033.\n\nCada país EFTA/EEE e cada país candidato ou potencial candidato pode acolher o título apenas uma vez durante o período de 2020 a 2033.\n\n5. Caso um país adira à União após 4 de maio de 2014, mas antes de 1 de janeiro de 2027, tem direito a acolher o título sete anos após a sua adesão, de acordo com as regras e os procedimentos aplicáveis aos Estados-Membros. O calendário é atualizado em conformidade. Caso um país adira à União em ou após 1 de janeiro de 2027 não tem direito a participar na ação como Estado-Membro.\n\nTodavia, nos anos em que já haja três cidades detentoras do título em conformidade com o calendário, as cidades situadas em países referidos no primeiro parágrafo só têm direito a deter o título no ano seguinte disponível no calendário, respeitando a ordem de adesão desses países.\n\nSe uma cidade de um país referido no primeiro parágrafo tiver participado anteriormente num concurso para países candidatos e para potenciais candidatos, não pode participar em nenhum concurso subsequente para os Estados-Membros. Caso, durante o período de 2020 até 2033, uma cidade de um tal país tenha sido designada detentora do título nos termos do n.º 4, esse país não tem direito a, após a sua adesão, organizar um concurso enquanto Estado-Membro durante esse período.\n\nSe mais do que um país aderir à União na mesma data e não houver acordo entre esses países quanto à sua ordem de participação na ação, o Conselho organiza um sorteio."
+  },
+  "e0de34270f9ec7ee": {
+   "fragment_id": "Artigo 5.º — Critérios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios\n\nOs critérios de avaliação das candidaturas («critérios») são divididos pelas categorias «contributo para a estratégia a longo prazo», «dimensão europeia», «conteúdo cultural e artístico», «capacidade de execução», «projeção» e «gestão» nos termos seguintes:\n\n1) No que diz respeito à categoria «contributo para a estratégia a longo prazo», devem ser tidos em conta os seguintes fatores:\n\na) Existência, no momento da candidatura, de uma estratégia cultural para a cidade candidata que abranja a ação e inclua planos de atividades culturais sustentáveis para além do ano do título;\n\nb) Os planos destinados a reforçar a capacidade dos setores cultural e criativo, incluindo o desenvolvimento de relações de longo prazo entre os setores cultural, económico e social na cidade candidata;\n\nc) O impacto previsto a longo prazo ao nível cultural, económico e social, incluindo o desenvolvimento urbano, que o título pode ter sobre a cidade candidata;\n\nd) Os planos para o acompanhamento e a avaliação do impacto do título na cidade candidata e para a divulgação dos resultados da avaliação.\n\n2) No que diz respeito à categoria «dimensão europeia», devem ser avaliados os seguintes fatores:\n\na) O âmbito e a qualidade das atividades que promovem a diversidade cultural da Europa, o diálogo intercultural e uma maior compreensão mútua entre os cidadãos europeus;\n\nb) O âmbito e a qualidade das atividades que realçam os aspetos comuns da cultura, do património e da história europeus, bem como a integração europeia e os temas europeus atuais;\n\nc) O âmbito e a qualidade das atividades em que participam artistas europeus, a cooperação com operadores ou cidades de diferentes países, incluindo, se for caso disso, outras cidades detentoras do título, e parcerias transnacionais;\n\nd) A estratégia para atrair o interesse de um vasto público europeu e internacional.\n\n3) No que diz respeito à categoria «conteúdo cultural e artístico», devem ser avaliados os seguintes fatores:\n\na) Uma visão e uma estratégia artísticas claras e coerentes para o programa cultural;\n\nb) A participação de artistas e organizações culturais locais na conceção e na execução do programa cultural;\n\nc) O alcance e a diversidade das atividades propostas e a sua qualidade artística global;\n\nd) A capacidade para combinar o património cultural local e as formas de arte tradicionais com expressões culturais novas, inovadoras e de caráter experimental.\n\n4) No que diz respeito à categoria «capacidade de execução», as cidades candidatas devem demonstrar que:\n\na) A candidatura tem um amplo e sólido apoio político e conta com o empenho sustentável das autoridades locais, regionais e nacionais;\n\nb) A cidade candidata tem, ou terá, infraestruturas adequadas e viáveis para deter o título.\n\n5) No que diz respeito à categoria «projeção», devem ser avaliados os seguintes fatores:\n\na) A participação da população local e da sociedade civil na preparação da candidatura e na execução da ação;\n\nb) A criação de novas oportunidades sustentáveis, tendo em vista a participação e a presença de uma vasta gama de cidadãos nas atividades culturais, em particular jovens, voluntários e pessoas marginalizadas e desfavorecidas, incluindo as minorias, sendo dada especial atenção ao acesso a essas atividades por parte das pessoas com deficiência e dos idosos;\n\nc) A estratégia global de alargamento do público, nomeadamente a ligação com o ensino e a participação das escolas.\n\n6) No que diz respeito à categoria «gestão», devem ser avaliados os seguintes fatores:\n\na) A viabilidade da estratégia de captação de fundos e do orçamento proposto, que inclui, sempre que adequado, planos para procurar obter apoio financeiro de programas e fundos da União e cobre a fase de preparação, o ano do título, a avaliação e as dotações para a continuidade das atividades e o planeamento de medidas de contingência;\n\nb) A estrutura de governação e execução prevista para a execução da ação, que prevê, nomeadamente, a cooperação adequada entre as autoridades locais e a estrutura de execução, incluindo a equipa artística;\n\nc) Os processos de nomeação dos diretores-gerais e dos diretores artísticos e respetivos domínios de ação;\n\nd) A estratégia de *marketing* e comunicação ser abrangente e realçar que a ação é uma ação da União;\n\ne) A estrutura de execução dispor de pessoal com competências adequadas e experiência para planear, gerir e executar o programa cultural no ano do título."
+  },
+  "4b689267992c4539": {
+   "fragment_id": "Artigo 6.º — Júri de peritos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Júri de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Júri de peritos\n\n1. É criado um júri composto por peritos independentes («júri») para executar os procedimentos de seleção e acompanhamento.\n\n2. O júri é composto por 10 peritos nomeados por instituições e organismos da União («peritos europeus») nos termos do n.º 3.\n\n3. Após organizar um convite público à manifestação de interesse, a Comissão propõe um grupo de potenciais peritos europeus.\n\nO Parlamento Europeu, o Conselho e a Comissão devem cada um selecionar três peritos de entre esse grupo e designá-los de acordo com os seus procedimentos respetivos.\n\nO Comité das Regiões seleciona um perito de entre esse grupo e designa-o de acordo com os seus procedimentos.\n\nAo selecionar os peritos europeus, cada uma dessas instituições e organismos da União deve procurar assegurar a complementaridade das suas competências, uma distribuição geográfica equilibrada e o equilíbrio entre homens e mulheres na composição global do júri.\n\n4. Além dos peritos europeus, para proceder à seleção e acompanhamento de uma cidade de um Estado-Membro, o Estado-Membro em causa tem direito a designar até dois peritos para o júri de acordo com os seus procedimentos próprios e em consulta com a Comissão.\n\n5. Todos os peritos devem:\n\na) Ter a cidadania da União;\n\nb) Ser independentes;\n\nc) Ter conhecimentos e experiência substanciais;\n\ni) no setor cultural,\n\nii) no desenvolvimento cultural das cidades,\n\niii) na organização de um evento de uma Capital Europeia da Cultura ou de um evento cultural internacional de âmbito e dimensão semelhantes;\n\nd) Estar em condições de consagrar um número adequado de dias de trabalho por ano ao júri.\n\n6. O júri designa o seu presidente.\n\n7. Os peritos europeus são nomeados por três anos.\n\nNão obstante o primeiro parágrafo, no que diz respeito ao primeiro júri a estabelecer, o Parlamento Europeu nomeia os seus peritos por três anos, a Comissão por dois anos e o Conselho e o Comité das Regiões por um ano.\n\n8. Todos os peritos devem declarar qualquer conflito de interesses, real ou potencial, relativamente a uma cidade candidata específica. Em caso de tal declaração, ou se for revelada a existência de um tal conflito de interesses, o perito em causa deve apresentar a sua demissão e a instituição ou o organismo competente da União ou o Estado-Membro deve substituí-lo pelo período remanescente do mandato, em conformidade com o procedimento aplicável."
+  },
+  "7c50ed4343b1e48a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º"
+  },
+  "313818c4b984cc21": {
+   "fragment_id": "Pré-seleção e seleção nos países EFTA/EEE, nos países candidatos e nos países potenciais candidatos",
+   "type": "divisao",
+   "heading": "Pré-seleção e seleção nos países EFTA/EEE, nos países candidatos e nos países potenciais candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Pré-seleção e seleção nos países EFTA/EEE, nos países candidatos e nos países potenciais candidatos\n\n1. A Comissão é responsável pela organização do concurso entre cidades nos países EFTA/EEE, nos países candidatos e nos países potenciais candidatos.\n\n2. A Comissão publica no *Jornal Oficial da União Europeia* um convite à apresentação de candidaturas, pelo menos seis anos antes do ano do título.\n\nCada convite à apresentação de candidaturas inclui o formulário de candidatura referido no artigo 4.º, n.º 1.\n\nO prazo para a apresentação de candidaturas ao abrigo dos convites à apresentação de candidaturas é, no mínimo, de 10 meses após a respetiva publicação.\n\n3. A pré-seleção das cidades é realizada pelo júri pelo menos cinco anos antes do ano do título, com base nas respetivas candidaturas. Não é organizada nenhuma reunião com as cidades candidatas.\n\nO júri, depois de avaliar as candidaturas de acordo com os critérios, aprova uma lista de finalistas das cidades candidatas e redige um relatório de pré-seleção sobre todas as candidaturas que inclui, nomeadamente, recomendações às cidades candidatas que integram a lista de finalistas.\n\nO júri apresenta o relatório de pré-seleção à Comissão.\n\n4. As cidades candidatas que integram a lista de finalistas completam e reveem as suas candidaturas de modo a respeitar os critérios e a ter em conta as recomendações constantes do relatório de pré-seleção, e apresentam-nas à Comissão.\n\nA Comissão convoca o júri para uma reunião de seleção com as cidades candidatas que integram a lista de finalistas, até nove meses após a reunião de pré-seleção.\n\nSe necessário, a Comissão pode prorrogar o prazo de nove meses por um período razoável.\n\n5. O júri avalia as candidaturas completadas e revistas.\n\n6. O júri elabora um relatório sobre as candidaturas das cidades candidatas constantes da lista de finalistas juntamente com uma recomendação relativa à designação de um máximo de uma cidade num país EFTA/EEE, num país candidato ou num país potencial candidato.\n\nO relatório de seleção inclui igualmente recomendações destinadas à cidade em causa sobre os progressos a realizar até ao ano do título.\n\nO júri apresenta o relatório de seleção à Comissão.\n\n7. Não obstante o n.º 6, se nenhuma das cidades candidatas preencher todos os critérios, o júri pode recomendar que o título não seja atribuído no ano em causa."
+  },
+  "622b69501af4b41c": {
+   "fragment_id": "Artigo 11.º — Designação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação\n\n1. Cada Estado-Membro em causa designa uma cidade para ser a detentora do título, com base nas recomendações constantes do relatório de seleção do júri, e notifica, até quatro anos antes do ano do título, a designação ao Parlamento Europeu, ao Conselho, à Comissão e ao Comité das Regiões.\n\nEm derrogação do primeiro parágrafo, os Estados-Membros que tenham direito a designar uma cidade para ser a detentora do título no ano de 2020 podem prorrogar esse prazo no máximo por um ano.\n\n2. No caso dos países EFTA/EEE, dos países candidatos e dos países potenciais candidatos, a Comissão designa uma cidade para ser a detentora do título nos anos em questão, com base nas recomendações constantes do relatório de seleção do júri, e notifica, pelo menos quatro anos antes do ano do título, as designações ao Parlamento Europeu, ao Conselho e ao Comité das Regiões.\n\n3. As designações referidas nos n.^os^ 1 e 2 são acompanhadas de uma justificação baseada nos relatórios do júri.\n\n4. Caso uma cidade inclua a sua zona envolvente, a designação aplica-se à cidade.\n\n5. No prazo de dois meses a contar da notificação de designação, a Comissão publica a lista das cidades designadas como Capitais Europeias da Cultura na série C do *Jornal Oficial da União Europeia*."
+  },
+  "4053af12b8ea3c69": {
+   "fragment_id": "Artigo 13.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento\n\n1. O júri acompanha a preparação das cidades designadas para o ano do título e presta-lhes apoio e orientação desde o momento da sua designação até ao início do ano do título.\n\n2. Para o efeito, a Comissão convoca três reuniões de acompanhamento, nas quais estão presentes o júri e as cidades designadas, nos termos seguintes:\n\na) Três anos antes do ano do título;\n\nb) 18 meses antes do ano do título;\n\nc) Dois meses antes do ano do título.\n\nO Estado-Membro, o país EFTA/EEE, o país candidato ou o país potencial candidato em causa pode nomear um observador para estar presente nessas reuniões.\n\nAs cidades designadas devem apresentar relatórios intercalares à Comissão seis semanas antes de cada reunião de acompanhamento.\n\nDurante as reuniões de acompanhamento, o júri deve fazer o balanço dos preparativos e prestar aconselhamento, com vista a ajudar as cidades designadas a desenvolverem um programa de elevada qualidade e uma estratégia eficaz. O júri deve prestar especial atenção às recomendações estabelecidas no relatório de seleção e nos precedentes relatórios de acompanhamento a que se refere o n.º 3.\n\n3. Após cada reunião de acompanhamento, o júri elabora um relatório de acompanhamento sobre a evolução dos preparativos e as eventuais medidas a tomar.\n\nO júri transmite os seus relatórios de acompanhamento à Comissão, às cidades designadas e aos respetivos Estados-Membros, bem como às cidades designadas e ao país EFTA/EEE, ao país candidato ou ao país potencial candidato em causa.\n\n4. Para além das reuniões de acompanhamento, a Comissão pode organizar visitas do júri às cidades designadas, sempre que necessário."
+  },
+  "25dcd898c452ee43": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "243aad32791073c2": {
+   "fragment_id": "CALENDÁRIO",
+   "type": "divisao",
+   "heading": "CALENDÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CALENDÁRIO\n\n| 2020 | Croácia | Irlanda |  |\n| --- | --- | --- | --- |\n| 2021 | Roménia | Grécia | País candidato ou potencial candidato |\n| 2022 | Lituânia | Luxemburgo |  |\n| 2023 | Hungria | Reino Unido |  |\n| 2024 | Estónia | Áustria | País EFTA/EEE, país candidato ou potencial candidato [(^1^)](http://publications.europa.eu/resource/cellar/109682bd-27fa-440c-bec0-927b43b06668.0015.02/DOC_1#E0001) |\n| 2025 | Eslovénia | Alemanha |  |\n| 2026 | Eslováquia | Finlândia |  |\n| 2027 | Letónia | Portugal |  |\n| 2028 | República Checa | França | País EFTA/EEE, país candidato ou potencial candidato |\n| 2029 | Polónia | Suécia |  |\n| 2030 | Chipre | Bélgica | País EFTA/EEE, país candidato ou potencial candidato |\n| 2031 | Malta | Espanha |  |\n| 2032 | Bulgária | Dinamarca |  |\n| 2033 | Países Baixos | Itália | País EFTA/EEE, país candidato ou potencial candidato |\n| (^1^)Desde que a presente decisão entre em vigor antes da data em que deve ser publicado o convite à apresentação de candidaturas para a edição de 2024, ou seja, seis anos antes do ano do título. |  |  |  |"
+  },
+  "83ceb88b1d68d267": {
+   "fragment_id": "Artigo 2.º — Objetivos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1.\n\nOs objetivos gerais da ação são:\n\na) Salvaguardar e promover a diversidade das culturas na Europa e pôr em evidência as características comuns que partilham, bem como reforçar o sentimento de pertença dos cidadãos a uma zona cultural comum;\n\nb) Promover o contributo da cultura para o desenvolvimento de longo prazo das cidades em conformidade com as suas respetivas estratégias e prioridades.\n\n2.\n\nOs objetivos específicos da ação são:\n\na) Reforçar o alcance, a diversidade e a dimensão europeia da oferta cultural nas cidades, nomeadamente através da cooperação transnacional;\n\nb) Alargar o acesso e a participação na cultura;\n\nc) Reforçar a capacidade do setor cultural e as suas ligações a outros setores;\n\nd) Melhorar o perfil internacional das cidades através da cultura."
+  },
+  "4520018e2b52dd46": {
+   "fragment_id": "Artigo 3.º — Acesso à ação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acesso à ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à ação\n\n1. O concurso para o título está aberto apenas às cidades, podendo estas incluir a sua zona envolvente.\n\n2. O número de cidades detentoras do título em cada ano («ano do título») não pode exceder três.\n\nO título deve ser atribuído anualmente a uma cidade, no máximo, de cada um dos dois Estados-Membros constantes do calendário estabelecido no anexo («calendário») e, nos anos previstos, a uma cidade de um país da Associação Europeia de Comércio Livre que seja parte no Acordo sobre o Espaço Económico Europeu (país EFTA/EEE), de um país candidato ou de um potencial candidato, ou ainda a uma cidade de um país que adira à União nas circunstâncias descritas no n.º 5. Contudo, uma cidade, no máximo, de cada um dos três Estados-Membros constantes do calendário deterá o título em 2023.\n\n3. As cidades dos Estados-Membros têm direito a deter o título por um ano, de acordo com a ordem dos Estados-Membros constante do calendário. As cidades detentoras do título em 2020 podem continuar a deter o título até 30 de abril de 2021, sem que o ano de designação seja alterado.\n\n4. As cidades situadas em países EFTA/EEE, em países candidatos e em países potenciais candidatos que participem no programa Europa Criativa ou em programas subsequentes da União de apoio à cultura à data de publicação do convite à apresentação de candidaturas referido no artigo 10.º, n.º 2, podem concorrer ao título por um ano, no âmbito de um concurso aberto organizado em conformidade com o calendário constante do anexo.\n\nAs cidades situadas em países EFTA/EEE, em países candidatos e em países potenciais candidatos só podem participar num concurso durante o período de 2020 a 2033.\n\nCada país EFTA/EEE e cada país candidato ou potencial candidato pode acolher o título apenas uma vez durante o período de 2020 a 2033.\n\n5. Caso um país adira à União após 4 de maio de 2014, mas antes de 1 de janeiro de 2027, tem direito a acolher o título sete anos após a sua adesão, de acordo com as regras e os procedimentos aplicáveis aos Estados-Membros. O calendário é atualizado em conformidade. Caso um país adira à União em ou após 1 de janeiro de 2027 não tem direito a participar na ação como Estado-Membro.\n\nTodavia, nos anos em que já haja três cidades detentoras do título em conformidade com o calendário, as cidades situadas em países referidos no primeiro parágrafo só têm direito a deter o título no ano seguinte disponível no calendário, respeitando a ordem de adesão desses países.\n\nSe uma cidade de um país referido no primeiro parágrafo tiver participado anteriormente num concurso para países candidatos e para potenciais candidatos, não pode participar em nenhum concurso subsequente para os Estados-Membros. Caso, durante o período de 2020 até 2033, uma cidade de um tal país tenha sido designada detentora do título nos termos do n.º 4, esse país não tem direito a, após a sua adesão, organizar um concurso enquanto Estado-Membro durante esse período.\n\nSe mais do que um país aderir à União na mesma data e não houver acordo entre esses países quanto à sua ordem de participação na ação, o Conselho organiza um sorteio."
+  },
+  "dc187b5addcd23d0": {
+   "fragment_id": "Artigo 4.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\n1. A Comissão elabora um formulário de candidatura comum baseado nos critérios estabelecidos no artigo 5.º que deve ser utilizado por todas as cidades candidatas.\n\nCaso uma cidade candidata inclua a sua zona envolvente, a candidatura deve ser apresentada em nome dessa cidade.\n\n2. Cada candidatura deve ser baseada num programa cultural com uma forte dimensão europeia.\n\nO programa cultural abrange o ano do título e é criado especificamente para o título, de acordo com os critérios estabelecidos no artigo 5.º. No entanto, as cidades detentoras do título em 2020 podem continuar a realizar o seu programa cultural até 30 de abril de 2021."
+  },
+  "8129dc5c43c151b7": {
+   "fragment_id": "Artigo 6.º — Júri de peritos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Júri de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Júri de peritos\n\n1. É criado um júri composto por peritos independentes («júri») para executar os procedimentos de seleção e acompanhamento.\n\n2. O júri é composto por 10 peritos nomeados por instituições e organismos da União («peritos europeus») nos termos do n.º 3.\n\n3. Após organizar um convite público à manifestação de interesse, a Comissão propõe um grupo de potenciais peritos europeus.\n\nO Parlamento Europeu, o Conselho e a Comissão devem cada um selecionar três peritos de entre esse grupo e designá-los de acordo com os seus procedimentos respetivos.\n\nO Comité das Regiões seleciona um perito de entre esse grupo e designa-o de acordo com os seus procedimentos.\n\nAo selecionar os peritos europeus, cada uma dessas instituições e organismos da União deve procurar assegurar a complementaridade das suas competências, uma distribuição geográfica equilibrada e o equilíbrio entre homens e mulheres na composição global do júri.\n\n4. Além dos peritos europeus, para proceder à seleção e acompanhamento de uma cidade de um Estado-Membro, o Estado-Membro em causa tem direito a designar até dois peritos para o júri de acordo com os seus procedimentos próprios e em consulta com a Comissão.\n\n5.\n\nTodos os peritos devem:\n\na) Ter a cidadania da União;\n\nb) Ser independentes;\n\nc) Ter conhecimentos e experiência substanciais;\n\ni) no setor cultural,\n\nii) no desenvolvimento cultural das cidades,\n\niii) na organização de um evento de uma Capital Europeia da Cultura ou de um evento cultural internacional de âmbito e dimensão semelhantes;\n\nd) Estar em condições de consagrar um número adequado de dias de trabalho por ano ao júri.\n\n6. O júri designa o seu presidente.\n\n7. Os peritos europeus são nomeados por três anos.\n\nNão obstante o primeiro parágrafo, no que diz respeito ao primeiro júri a estabelecer, o Parlamento Europeu nomeia os seus peritos por três anos, a Comissão por dois anos e o Conselho e o Comité das Regiões por um ano.\n\n8. Todos os peritos devem declarar qualquer conflito de interesses, real ou potencial, relativamente a uma cidade candidata específica. Em caso de tal declaração, ou se for revelada a existência de um tal conflito de interesses, o perito em causa deve apresentar a sua demissão e a instituição ou o organismo competente da União ou o Estado-Membro deve substituí-lo pelo período remanescente do mandato, em conformidade com o procedimento aplicável."
+  },
+  "3abcaf6f056f32b4": {
+   "fragment_id": "Artigo 13.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento\n\n1. O júri acompanha a preparação das cidades designadas para o ano do título e presta-lhes apoio e orientação desde o momento da sua designação até ao início do ano do título.\n\n2.\n\nPara o efeito, a Comissão convoca três reuniões de acompanhamento, nas quais estão presentes o júri e as cidades designadas, nos termos seguintes:\n\na) Três anos antes do ano do título;\n\nb) 18 meses antes do ano do título;\n\nc) Dois meses antes do ano do título.\n\nO Estado-Membro, o país EFTA/EEE, o país candidato ou o país potencial candidato em causa pode nomear um observador para estar presente nessas reuniões.\n\nAs cidades designadas devem apresentar relatórios intercalares à Comissão seis semanas antes de cada reunião de acompanhamento.\n\nDurante as reuniões de acompanhamento, o júri deve fazer o balanço dos preparativos e prestar aconselhamento, com vista a ajudar as cidades designadas a desenvolverem um programa de elevada qualidade e uma estratégia eficaz. O júri deve prestar especial atenção às recomendações estabelecidas no relatório de seleção e nos precedentes relatórios de acompanhamento a que se refere o n.º 3.\n\n3. Após cada reunião de acompanhamento, o júri elabora um relatório de acompanhamento sobre a evolução dos preparativos e as eventuais medidas a tomar.\n\nO júri transmite os seus relatórios de acompanhamento à Comissão, às cidades designadas e aos respetivos Estados-Membros, bem como às cidades designadas e ao país EFTA/EEE, ao país candidato ou ao país potencial candidato em causa.\n\n4. Para além das reuniões de acompanhamento, a Comissão pode organizar visitas do júri às cidades designadas, sempre que necessário."
+  },
+  "d848cd630a2fbbe0": {
+   "fragment_id": "Artigo 16.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação\n\n1. Cada cidade em causa é responsável pela avaliação dos resultados do respetivo ano enquanto Capital Europeia da Cultura.\n\nA Comissão estabelece orientações e indicadores comuns para as cidades em causa, com base nos objetivos referidos no artigo 2.º e nos critérios, a fim de assegurar uma abordagem coerente do processo de avaliação.\n\nAs cidades em causa redigem os seus relatórios de avaliação e transmitem-nos à Comissão até 31 de dezembro do ano seguinte ao ano do título. No entanto, as cidades detentoras do título em 2020 devem elaborar os seus relatórios de avaliação e transmiti-los à Comissão até 30 de abril de 2022.\n\nA Comissão publica os relatórios de avaliação no seu sítio *web*.\n\n2. Para além das avaliações realizadas pelas cidades, a Comissão assegura que sejam realizadas periodicamente avaliações externas e independentes dos resultados da ação.\n\nAs avaliações externas e independentes devem incidir na inserção de todas as anteriores Capitais Europeias da Cultura num contexto europeu, permitindo estabelecer comparações e retirar ensinamentos úteis para as futuras Capitais Europeias da Cultura, bem como para todas as cidades europeias. Essas avaliações devem incluir uma apreciação da ação como um todo, incluindo a eficiência dos processos utilizados na sua gestão, o seu impacto e o modo como pode ser melhorada.\n\nA Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité das Regiões os seguintes relatórios baseados nessas avaliações, eventualmente acompanhados de propostas pertinentes:\n\na) Até 31 de dezembro de 2024, um relatório intercalar inicial;\n\nb) Até 31 de dezembro de 2029, um segundo relatório intercalar;\n\nc) Até 31 de dezembro de 2034, um relatório *ex post*."
+  },
+  "1c7a48d2bc9edc33": {
+   "fragment_id": "CALENDÁRIO",
+   "type": "divisao",
+   "heading": "CALENDÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CALENDÁRIO\n\n| 2020 | Croácia | Irlanda |  |\n| --- | --- | --- | --- |\n| 2021 |  |  |  |\n| 2022 | Lituânia | Luxemburgo | País candidato ou potencial candidato |\n| 2023 | Hungria | Roménia | Grécia |\n| 2024 | Estónia | Áustria | País EFTA/EEE, país candidato ou potencial candidato |\n| 2025 | Eslovénia | Alemanha |  |\n| 2026 | Eslováquia | Finlândia |  |\n| 2027 | Letónia | Portugal |  |\n| 2028 | Chéquia | França | País EFTA/EEE, país candidato ou potencial candidato |\n| 2029 | Polónia | Suécia |  |\n| 2030 | Chipre | Bélgica | País EFTA/EEE, país candidato ou potencial candidato |\n| 2031 | Malta | Espanha |  |\n| 2032 | Bulgária | Dinamarca |  |\n| 2033 | Países Baixos | Itália | País EFTA/EEE, país candidato ou potencial candidato |"
+  }
+ }
+}

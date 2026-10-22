@@ -40,6 +40,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-09-01'
+version_history:
+  file: regulamento-ue-2013-609.versoes.json
+  count: 5
+  source_lastmod: '2025-09-01'
+  versions:
+  - date: '2017-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-28'
+    amending: eu:celex:32021R0571:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/571 DA COMISSÃO de 20 de janeiro de 2021
+    changes:
+    - Altera Artigo 8.º — Acesso aos documentos
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2023-03-21'
+    amending: eu:celex:32023R0439:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/439 DA COMISSÃO de 16 de dezembro de 2022
+    changes:
+    - Altera Artigo 8.º — Acesso aos documentos
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2024-11-20'
+    amending: eu:celex:32024R2791:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2791 DA COMISSÃO de 29 de janeiro de 2024
+    changes:
+    - Altera Artigo 8.º — Acesso aos documentos
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2025-09-01'
+    amending: eu:celex:32025R1735:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1735 DA COMISSÃO de 4 de junho de 2025
+    changes:
+    - Altera Artigo 8.º — Acesso aos documentos
+    - Altera ANEXO
+    - Altera Notas
 identifiers:
   celex: 32013R0609
   eli: http://data.europa.eu/eli/reg/2013/609/oj
@@ -54,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c7757455-e08d-11e2-9165-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/16fb3cb1-8d71-11f0-bfe2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0609-20250901
-  retrieved_at: '2026-10-22T02:45:46Z'
+  retrieved_at: '2026-10-22T16:20:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T12:50:00.005+02:00'
 integrity:
@@ -63,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:46Z'
-  notes: Texto consolidado 02013R0609-20250901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:20:11Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2013-609.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -286,33 +323,20 @@ relationships:
   date: '2009-10-15'
 article_structure:
   article_count: 22
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:46Z'
-  warnings: []
+  checked_at: '2026-10-22T16:20:11Z'
+  warnings:
+  - '02013R0609-20130629: versão indisponível (Sem expressão na língua por para CELEX 02013R0609-20130629.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 609/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013
-
-> 02013R0609 — PT — 01.09.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1091) — [REGULAMENTO DELEGADO (UE) 2017/1091 DA COMISSÃO de 10 de abril de 2017](http://publications.europa.eu/resource/celex/32017R1091) — L 158 — 5 — 21.6.2017
-- [►M2](http://publications.europa.eu/resource/celex/32021R0571) — [REGULAMENTO DELEGADO (UE) 2021/571 DA COMISSÃO de 20 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0571) — L 120 — 1 — 8.4.2021
-- [►M3](http://publications.europa.eu/resource/celex/32023R0439) — [REGULAMENTO DELEGADO (UE) 2023/439 DA COMISSÃO de 16 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0439) — L 64 — 1 — 1.3.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R2791) — [REGULAMENTO DELEGADO (UE) 2024/2791 DA COMISSÃO de 29 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R2791) — L 2791 — 1 — 31.10.2024
-- [►M5](http://publications.europa.eu/resource/celex/32025R1735) — [REGULAMENTO DELEGADO (UE) 2025/1735 DA COMISSÃO de 4 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1735) — L 1735 — 1 — 12.8.2025
-
-## REGULAMENTO (UE) N.º 609/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de junho de 2013
 

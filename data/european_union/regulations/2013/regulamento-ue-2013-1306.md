@@ -39,6 +39,158 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2013-1306.versoes.json
+  count: 6
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1310:por
+    amending_title: REGULAMENTO (UE) N. o 1310/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 9.º — Organismos de certificação
+    - Altera Artigo 43.º — Afetação das receitas
+    - Altera Artigo 47.º — Verificações no local efetuadas pela Comissão
+    - Altera Artigo 54.º — Disposições comuns
+    - Altera Artigo 62.º — Competências da Comissão em matéria de controlos
+    - Altera Artigo 67.º — Âmbito de aplicação e definições
+    - Altera Artigo 68.º — Elementos do sistema integrado
+    - Altera Artigo 69.º — Base de dados informatizada
+    - Altera Artigo 72.º — Pedidos de ajuda e pedidos de pagamento
+    - Altera Artigo 78.º — Competências de execução
+    - Altera Artigo 90.º — Controlos relacionados com as denominações de origem, as indicações geográficas e as menções tradicionais
+      protegidas
+    - Altera Artigo 96.º — Controlos relativos à condicionalidade
+    - Altera Artigo 97.º — Aplicação da sanção administrativa
+    - Altera Artigo 102.º — Comunicação de informações
+    - Altera Artigo 104.º — Competências da Comissão
+    - Altera Artigo 111.º — Publicação da lista dos beneficiários
+    - Altera Artigo 119.º — Revogação
+    - Altera Artigo 120.º — Medidas transitórias
+    - Altera Artigo 121.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 119.º-A — Derrogação do Regulamento (UE) n.º 966/2012
+    - Adita ANEXO I
+    - Adita INFORMAÇÃO NO DOMÍNIO DA ADAPTAÇÃO ÀS ALTERAÇÕES CLIMÁTICAS E SUA ATENUAÇÃO, DA BIODIVERSIDADE E DA PROTEÇÃO DAS
+      ÁGUAS, COMO ESTABELECIDO NO ARTIGO 12.º, N.º 3, ALÍNEA D)
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Declaração comum do Parlamento Europeu e do Conselho sobre a condicionalidade
+  - date: '2017-08-01'
+    amending: eu:celex:32016R0791:por
+    amending_title: REGULAMENTO (UE) 2016/791 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de maio de 2016
+    changes:
+    - Altera Artigo 4.º — Despesas do FEAGA
+    - Altera Artigo 6.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 47.º — Verificações no local efetuadas pela Comissão
+    - Altera Artigo 62.º — Competências da Comissão em matéria de controlos
+    - Altera Artigo 67.º — Âmbito de aplicação e definições
+    - Altera Artigo 68.º — Elementos do sistema integrado
+    - Altera Artigo 69.º — Base de dados informatizada
+    - Altera Artigo 72.º — Pedidos de ajuda e pedidos de pagamento
+    - Altera Artigo 90.º — Controlos relacionados com as denominações de origem, as indicações geográficas e as menções tradicionais
+      protegidas
+    - Altera Artigo 96.º — Controlos relativos à condicionalidade
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2020-02-01'
+    amending: eu:celex:32017R2393:por
+    amending_title: REGULAMENTO (UE) 2017/2393 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017; REGULAMENTO
+      (UE) 2020/127 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de janeiro de 2020
+    changes:
+    - Altera Artigo 6.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 9.º — Organismos de certificação
+    - Altera Artigo 16.º — Limite máximo orçamental
+    - Altera Artigo 26.º — Disciplina financeira
+    - Altera Artigo 38.º — Anulação automática relativa aos programas de desenvolvimento rural
+    - Altera Artigo 43.º — Afetação das receitas
+    - Altera Artigo 47.º — Verificações no local efetuadas pela Comissão
+    - Altera Artigo 54.º — Disposições comuns
+    - Altera Artigo 62.º — Competências da Comissão em matéria de controlos
+    - Altera Artigo 63.º — Montantes indevidamente pagos e sanções administrativas
+    - Altera Artigo 67.º — Âmbito de aplicação e definições
+    - Altera Artigo 68.º — Elementos do sistema integrado
+    - Altera Artigo 69.º — Base de dados informatizada
+    - Altera Artigo 72.º — Pedidos de ajuda e pedidos de pagamento
+    - Altera Artigo 75.º — Pagamento aos beneficiários
+    - Altera Artigo 90.º — Controlos relacionados com as denominações de origem, as indicações geográficas e as menções tradicionais
+      protegidas
+    - Altera Artigo 96.º — Controlos relativos à condicionalidade
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2020-12-29'
+    amending: eu:celex:32020R2220:por
+    amending_title: REGULAMENTO (UE) 2020/2220 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020
+    changes:
+    - Altera Artigo 6.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 25.º — Reserva para crises no setor agrícola
+    - Altera Artigo 35.º — Disposições de pré-financiamento
+    - Altera Artigo 36.º — Pagamentos intermédios
+    - Altera Artigo 37.º — Pagamento do saldo e encerramento do programa
+    - Altera Artigo 38.º — Anulação automática relativa aos programas de desenvolvimento rural
+    - Altera Artigo 47.º — Verificações no local efetuadas pela Comissão
+    - Altera Artigo 62.º — Competências da Comissão em matéria de controlos
+    - Altera Artigo 67.º — Âmbito de aplicação e definições
+    - Altera Artigo 68.º — Elementos do sistema integrado
+    - Altera Artigo 69.º — Base de dados informatizada
+    - Altera Artigo 72.º — Pedidos de ajuda e pedidos de pagamento
+    - Altera Artigo 90.º — Controlos relacionados com as denominações de origem, as indicações geográficas e as menções tradicionais
+      protegidas
+    - Altera Artigo 96.º — Controlos relativos à condicionalidade
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 33. — Autorizações orçamentais
+    - Suprime Artigo 33.º — Autorizações orçamentais
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Termos utilizados no presente regulamento
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES GERAIS DOS FUNDOS AGRÍCOLAS
+    - Suprime CAPÍTULO I
+    - Suprime Fundos agrícolas
+    - Suprime Artigo 3.º — Fundos de financiamento das despesas agrícolas
+    - Suprime Artigo 4.º — Despesas do FEAGA
+    - Suprime Artigo 5.º — Despesas do FEADER
+    - Suprime Artigo 6.º — Outras despesas, incluindo assistência técnica
+    - Suprime CAPÍTULO II
+    - Suprime Organismos pagadores e outros organismos
+    - Suprime Artigo 7.º — Acreditação e retirada da acreditação dos organismos pagadores e dos organismos de coordenação
+    - Suprime Artigo 8.º — Competências da Comissão
+    - Suprime Artigo 9.º — Organismos de certificação
+    - Suprime Artigo 10.º — Admissibilidade dos pagamentos efetuados pelos organismos pagadores
+    - Suprime Artigo 11.º — Pagamento integral aos beneficiários
+    - Suprime TÍTULO III
+    - Suprime SISTEMA DE ACONSELHAMENTO AGRÍCOLA
+    - Suprime Artigo 12.º — Princípios e âmbito de aplicação
+    - Suprime Artigo 13.º — Disposições específicas relativas ao sistema de aconselhamento agrícola
+    - Suprime Artigo 14.º — Acesso ao sistema de aconselhamento agrícola
+    - Suprime Artigo 15.º — Competências da Comissão
+    - Suprime TÍTULO IV
+    - Suprime GESTÃO FINANCEIRA DOS FUNDOS
+    - Suprime FEAGA
+    - Suprime Secção I
+    - Suprime Financiamento das despesas
+    - Suprime Artigo 16.º — Limite máximo orçamental
+    - Suprime Artigo 17.º — Pagamentos mensais
+    - Suprime Artigo 18.º — Procedimento para os pagamentos mensais
+    - Suprime Artigo 19.º — Custos administrativos e de pessoal
+    - Suprime Artigo 20.º — Despesas de intervenção pública
+    - Suprime Artigo 21.º — Aquisição de imagens de satélite
+    - Suprime Artigo 22.º — Acompanhamento dos recursos agrícolas
+    - Suprime Artigo 23.º — Competências de execução
+    - Suprime Secção II
 identifiers:
   celex: 32013R1306
   eli: http://data.europa.eu/eli/reg/2013/1306/oj
@@ -53,7 +205,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1dc2a025-6c04-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/f18768b6-9d6e-11ed-b508-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1306-20230101
-  retrieved_at: '2026-10-22T02:23:43Z'
+  retrieved_at: '2026-10-22T16:23:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T18:45:04.090+02:00'
 integrity:
@@ -62,9 +214,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:43Z'
-  notes: Texto consolidado 02013R1306-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:23:49Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2013-1306.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -829,16 +981,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:43Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:23:49Z'
+  warnings: []
   errors: []
 ---
 

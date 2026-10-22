@@ -36,6 +36,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-03-01'
+version_history:
+  file: regulamento-ue-2014-223.versoes.json
+  count: 6
+  source_lastmod: '2024-03-01'
+  versions:
+  - date: '2018-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-04-25'
+    amending: eu:celex:32020R0559:por
+    amending_title: REGULAMENTO (UE) 2020/559 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Alterações dos programas operacionais
+    - Altera Artigo 13.º — Relatórios de execução e indicadores
+    - Altera Artigo 20.º — Cofinanciamento
+    - Altera Artigo 21.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 22.º — Período de elegibilidade
+    - Altera Artigo 23.º — Elegibilidade das operações
+    - Altera Artigo 26.º — Elegibilidade das despesas
+    - Altera Artigo 30.º — Responsabilidades dos Estados-Membros
+    - Altera 2. Modelo de programa operacional PO II
+    - Altera Notas
+    - Adita Artigo 26.º-A — Elegibilidade das despesas relativas a operações apoiadas no âmbito do PO I durante a sua suspensão
+      em consequência do surto de COVID-19
+    - Adita Artigo 26.º-B — Elegibilidade das despesas relativas a operações apoiadas no âmbito do PO II ou a assistência
+      técnica durante a sua suspensão em consequência do surto de COVID-19
+    - Adita Artigo 26.º-C — Elegibilidade das despesas relativas a operações apoiadas no âmbito do PO II ou a assistência
+      técnica que não foram executadas de forma integral em consequência do surto de COVID-19
+  - date: '2021-02-17'
+    amending: eu:celex:32021R0177:por
+    amending_title: REGULAMENTO (UE) 2021/177 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Recursos globais
+    - Altera Artigo 21.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 27.º — Assistência técnica
+    - Altera 2. Modelo de programa operacional PO II
+    - Altera 3. Atividades de gestão e controlo
+    - Altera 4. Acompanhamento
+    - Altera Notas
+    - Adita Artigo 6.º-A — Recursos adicionais em resposta à crise associada ao surto de COVID-19
+    - Adita Artigo 63.º-A — Aplicabilidade
+    - Suprime A. Autoridade de gestão
+    - Suprime B. Autoridade de certificação
+  - date: '2022-04-09'
+    amending: eu:celex:32022R0562:por
+    amending_title: REGULAMENTO (UE) 2022/562 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º-A — Recursos adicionais em resposta à crise associada ao surto de COVID-19
+    - Altera Artigo 9.º — Alterações dos programas operacionais
+    - Altera Artigo 20.º — Cofinanciamento
+    - Altera Artigo 21.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 22.º — Período de elegibilidade
+    - Altera 2. Modelo de programa operacional PO II
+    - Altera Notas
+  - date: '2022-04-14'
+    amending: eu:celex:32022R0613:por
+    amending_title: REGULAMENTO (UE) 2022/613 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º-A — Recursos adicionais em resposta à crise associada ao surto de COVID-19
+    - Altera Artigo 21.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera 2. Modelo de programa operacional PO II
+    - Altera Notas
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º-A — Recursos adicionais em resposta à crise associada ao surto de COVID-19
+    - Altera Artigo 13.º — Relatórios de execução e indicadores
+    - Altera Artigo 21.º — Aumento dos pagamentos aos Estados-Membros com dificuldades orçamentais temporárias
+    - Altera Artigo 22.º — Período de elegibilidade
+    - Altera Artigo 45.º — Prazo de apresentação dos pedidos de pagamento intercalares e respetivo pagamento
+    - Altera Artigo 48.º — Apresentação de informação
+    - Altera 2. Modelo de programa operacional PO II
+    - Altera Notas
 identifiers:
   celex: 32014R0223
   eli: http://data.europa.eu/eli/reg/2014/223/oj
@@ -50,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1a1ccbf9-a9bb-11e3-86f9-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/79e18d5b-eba5-11ee-8e14-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0223-20240301
-  retrieved_at: '2026-10-22T02:38:22Z'
+  retrieved_at: '2026-10-22T16:31:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T05:46:57.328+02:00'
 integrity:
@@ -59,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:22Z'
-  notes: Texto consolidado 02014R0223-20240301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:57Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2014-223.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -215,34 +295,20 @@ relationships:
   date: '2014-09-17'
 article_structure:
   article_count: 69
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:22Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:57Z'
+  warnings:
+  - '02014R0223-20140101: versão indisponível (Sem expressão na língua por para CELEX 02014R0223-20140101.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 223/2014 do Parlamento Europeu e do Conselho, de 11 de março de 2014
-
-> 02014R0223 — PT — 01.03.2024 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1046) — [REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1046) — L 193 — 1 — 30.7.2018
-- [►M2](http://publications.europa.eu/resource/celex/32020R0559) — [REGULAMENTO (UE) 2020/559 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0559) — L 130 — 7 — 24.4.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021R0177) — [REGULAMENTO (UE) 2021/177 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0177) — L 53 — 1 — 16.2.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R0562) — [REGULAMENTO (UE) 2022/562 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0562) — L 109 — 1 — 8.4.2022
-- [►M5](http://publications.europa.eu/resource/celex/32022R0613) — [REGULAMENTO (UE) 2022/613 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0613) — L 115 — 38 — 13.4.2022
-- [►M6](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-
-## REGULAMENTO (UE) N.º 223/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de março de 2014
 

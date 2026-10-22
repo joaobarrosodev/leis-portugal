@@ -35,6 +35,137 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: diretiva-ue-2014-24.versoes.json
+  count: 6
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2016-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2365:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/2365 DA COMISSÃO de 18 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Montantes limiares
+    - Altera Artigo 8.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 10.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 13.º — Contratos subsidiados pelas autoridades adjudicantes
+    - Altera Artigo 22.º — Regras aplicáveis à comunicação
+    - Altera Artigo 39.º — Contratos que envolvem autoridades adjudicantes de vários Estados-Membros
+    - Altera Artigo 44.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 57.º — Motivos de exclusão
+    - Altera Artigo 83.º — Aplicação
+    - Altera Artigo 86.º — Cooperação administrativa
+    - Altera Artigo 89.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.º, N.º 1, PONTO 6, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/f8a212ba-32a1-41c5-b4a0-7074bbdf318a.0015.02/DOC_1#E0024))
+    - Suprime REGISTOS ([^44^](http://publications.europa.eu/resource/cellar/5c33929b-3b42-4906-b060-00b88fa8901b.0015.02/DOC_1#E0045))
+  - date: '2020-01-01'
+    amending: eu:celex:32019R1828:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1828 DA COMISSÃO de 30 de outubro de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Montantes limiares
+    - Altera Artigo 8.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 10.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 13.º — Contratos subsidiados pelas autoridades adjudicantes
+    - Altera Artigo 22.º — Regras aplicáveis à comunicação
+    - Altera Artigo 39.º — Contratos que envolvem autoridades adjudicantes de vários Estados-Membros
+    - Altera Artigo 44.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 57.º — Motivos de exclusão
+    - Altera Artigo 83.º — Aplicação
+    - Altera Artigo 86.º — Cooperação administrativa
+    - Altera Artigo 89.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.º, N.º 1, PONTO 6, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/06b4c18a-32da-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1#E0024))
+    - Suprime REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/f8a212ba-32a1-41c5-b4a0-7074bbdf318a.0015.02/DOC_1#E0024))
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1952:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1952 DA COMISSÃO de 10 de novembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Montantes limiares
+    - Altera Artigo 8.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 10.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 13.º — Contratos subsidiados pelas autoridades adjudicantes
+    - Altera Artigo 22.º — Regras aplicáveis à comunicação
+    - Altera Artigo 39.º — Contratos que envolvem autoridades adjudicantes de vários Estados-Membros
+    - Altera Artigo 44.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 57.º — Motivos de exclusão
+    - Altera Artigo 83.º — Aplicação
+    - Altera Artigo 86.º — Cooperação administrativa
+    - Altera Artigo 89.º — Procedimento de comité
+    - Altera FRANÇA
+    - Altera LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.º, N.º 1, PONTO 6, ALÍNEA A)
+    - Altera (conforme referido no artigo 48.º)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 20. — Contratos reservados
+    - Adita REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/e982c48b-5789-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0024))
+    - Suprime Artigo 20.o — Contratos reservados
+    - Suprime 1. Ministérios
+    - Suprime 2. Instituições, autoridades e jurisdições independentes
+    - Suprime 3. Organismos nacionais de direito público
+    - Suprime 4. Outros organismos públicos
+    - Suprime I. Informações a incluir em todos os casos
+    - Suprime II. Informações adicionais a prestar quando o anúncio servir como meio de abertura do concurso (Artigo 48.º,
+      n.º 2)
+    - Suprime REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/06b4c18a-32da-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1#E0024))
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2495:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2495 DA COMISSÃO de 15 de novembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Montantes limiares
+    - Altera Artigo 8.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 10.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 13.º — Contratos subsidiados pelas autoridades adjudicantes
+    - Altera Artigo 22.º — Regras aplicáveis à comunicação
+    - Altera Artigo 39.º — Contratos que envolvem autoridades adjudicantes de vários Estados-Membros
+    - Altera Artigo 44.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 57.º — Motivos de exclusão
+    - Altera Artigo 83.º — Aplicação
+    - Altera Artigo 86.º — Cooperação administrativa
+    - Altera Artigo 89.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.º, N.º 1, PONTO 6, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/06c63187-b466-11ee-b164-01aa75ed71a1.0019.03/DOC_1#E0024))
+    - Suprime REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/e982c48b-5789-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0024))
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2152:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2152 DA COMISSÃO de 22 de outubro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Montantes limiares
+    - Altera Artigo 8.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 10.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 13.º — Contratos subsidiados pelas autoridades adjudicantes
+    - Altera Artigo 22.º — Regras aplicáveis à comunicação
+    - Altera Artigo 39.º — Contratos que envolvem autoridades adjudicantes de vários Estados-Membros
+    - Altera Artigo 44.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 57.º — Motivos de exclusão
+    - Altera Artigo 83.º — Aplicação
+    - Altera Artigo 86.º — Cooperação administrativa
+    - Altera Artigo 89.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.º, N.º 1, PONTO 6, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/385cb957-f086-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1#E0024))
+    - Suprime REGISTOS ([^23^](http://publications.europa.eu/resource/cellar/06c63187-b466-11ee-b164-01aa75ed71a1.0019.03/DOC_1#E0024))
 identifiers:
   celex: 32014L0024
   eli: http://data.europa.eu/eli/dir/2014/24/oj
@@ -49,7 +180,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aa61f069-b654-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/385cb957-f086-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0024-20260101
-  retrieved_at: '2026-10-22T02:34:44Z'
+  retrieved_at: '2026-10-22T16:27:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T06:36:54.485+02:00'
 integrity:
@@ -58,9 +189,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:44Z'
-  notes: Texto consolidado 02014L0024-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:27:01Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2014-24.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1000,38 +1131,20 @@ relationships:
   source: null
 article_structure:
   article_count: 94
-  section_count: 141
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 142
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:44Z'
-  warnings: []
+  checked_at: '2026-10-22T16:27:01Z'
+  warnings:
+  - '02014L0024-20140328: versão indisponível (Sem expressão na língua por para CELEX 02014L0024-20140328.)'
   errors: []
 ---
 
 # Diretiva 2014/24/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
-
-> 02014L0024 — PT — 01.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32015R2170) — [REGULAMENTO DELEGADO (UE) 2015/2170 DA COMISSÃO de 24 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2170) — L 307 — 5 — 25.11.2015
-- [M2](http://publications.europa.eu/resource/celex/32017R2365) — [REGULAMENTO DELEGADO (UE) 2017/2365 DA COMISSÃO de 18 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2365) — L 337 — 19 — 19.12.2017
-- [M3](http://publications.europa.eu/resource/celex/32019R1828) — [REGULAMENTO DELEGADO (UE) 2019/1828 DA COMISSÃO de 30 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1828) — L 279 — 25 — 31.10.2019
-- [M4](http://publications.europa.eu/resource/celex/32021R1952) — [REGULAMENTO DELEGADO (UE) 2021/1952 DA COMISSÃO de 10 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1952) — L 398 — 23 — 11.11.2021
-- [M5](http://publications.europa.eu/resource/celex/32023R2495) — [REGULAMENTO DELEGADO (UE) 2023/2495 DA COMISSÃO de 15 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2495) — L 2495 — 1 — 16.11.2023
-- [►M6](http://publications.europa.eu/resource/celex/32025R2152) — [REGULAMENTO DELEGADO (UE) 2025/2152 DA COMISSÃO de 22 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2152) — L 2152 — 1 — 23.10.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0024R%2817%29) — [Rectificação, JO L 90063, 3.11.2023, p. 1 (Diretiva 2014/24/UE)](http://publications.europa.eu/resource/celex/32014L0024R%2817%29)
-
-## DIRETIVA 2014/24/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de fevereiro de 2014
 

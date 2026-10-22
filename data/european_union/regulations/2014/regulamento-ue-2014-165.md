@@ -40,6 +40,115 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-31'
+version_history:
+  file: regulamento-ue-2014-165.versoes.json
+  count: 4
+  source_lastmod: '2024-12-31'
+  versions:
+  - date: '2014-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-20'
+    amending: eu:celex:32020R1054:por
+    amending_title: REGULAMENTO (UE) 2020/1054 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e princípios
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 4.º — Requisitos e dados a registar
+    - Altera Artigo 6.º — Visualização e alerta
+    - Altera Artigo 7.º — Proteção de dados
+    - Altera Artigo 8.º — Registo da posição do veículo em certos pontos durante o período de trabalho diário
+    - Altera Artigo 9.º — Deteção rápida à distância de eventual manipulação ou uso indevido
+    - Altera Artigo 10.º — Interface com sistemas de transporte inteligentes
+    - Altera Artigo 11.º — Disposições pormenorizadas aplicáveis aos tacógrafos inteligentes
+    - Altera Artigo 12.º — Pedidos de homologação
+    - Altera Artigo 22.º — Instalação e reparação
+    - Altera Artigo 26.º — Emissão dos cartões de condutor
+    - Altera Artigo 34.º — Utilização dos cartões de condutor e das folhas de registo
+    - Altera Artigo 35.º — Cartões de condutor e folhas de registo danificados
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 561/2006
+    - Altera Artigo 48.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CONDIÇÕES DE CONSTRUÇÃO, ENSAIO, INSTALAÇÃO E CONTROLO DE TACÓGRAFOS ANALÓGICOS
+    - Adita I. DEFINIÇÕES
+    - Adita II. CARACTERÍSTICAS GERAIS E FUNÇÕES DO APARELHO DE CONTROLO
+    - Adita III. REQUISITOS DE CONSTRUÇÃO DO APARELHO DE CONTROLO
+    - Adita a) Generalidades
+    - Adita 3. Materiais
+    - Adita 4. Medição da distância percorrida
+    - Adita 5. Medição da velocidade
+    - Adita 6. Medição do tempo (relógio)
+    - Adita 7. Iluminação e proteção
+    - Adita b) Dispositivos indicadores
+    - Adita 1. Indicador da distância percorrida (contador totalizador)
+    - Adita 2. Indicador da velocidade (velocímetro)
+    - Adita 3. Indicador de tempo (relógio)
+    - Adita c) Dispositivos registadores
+    - Adita 1. Generalidades
+    - Adita 2. Registo da distância percorrida
+    - Adita 3. Registo da velocidade
+    - Adita 4. Registo dos grupos de tempo
+    - Adita d) Dispositivo de fecho
+    - Adita e) Inscrições
+  - date: '2024-05-19'
+    amending: eu:celex:32024R1230:por
+    amending_title: REGULAMENTO (UE) 2024/1230 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e princípios
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 24.º — Aprovação de instaladores, oficinas e fabricantes de veículos
+    - Altera Artigo 26.º — Emissão dos cartões de condutor
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 561/2006
+    - Altera III. REQUISITOS DE CONSTRUÇÃO DO APARELHO DE CONTROLO
+    - Altera IV. FOLHAS DE REGISTO
+    - Altera V. INSTALAÇÃO DO APARELHO DE CONTROLO
+    - Altera VI. VERIFICAÇÕES E CONTROLOS
+    - Altera I. MARCA DE HOMOLOGAÇÃO
+    - Altera II. CERTIFICADO DE HOMOLOGAÇÃO PARA TACÓGRAFOS ANALÓGICOS
+    - Altera III. CERTIFICADO DE HOMOLOGAÇÃO PARA TACÓGRAFOS DIGITAIS
+    - Altera Notas
+    - Suprime a) Generalidades
+    - Suprime 3. Materiais
+    - Suprime 4. Medição da distância percorrida
+    - Suprime 5. Medição da velocidade
+    - Suprime 6. Medição do tempo (relógio)
+    - Suprime 7. Iluminação e proteção
+    - Suprime b) Dispositivos indicadores
+    - Suprime 1. Indicador da distância percorrida (contador totalizador)
+    - Suprime 2. Indicador da velocidade (velocímetro)
+    - Suprime 3. Indicador de tempo (relógio)
+    - Suprime c) Dispositivos registadores
+    - Suprime 1. Generalidades
+    - Suprime 2. Registo da distância percorrida
+    - Suprime 3. Registo da velocidade
+    - Suprime 4. Registo dos grupos de tempo
+    - Suprime d) Dispositivo de fecho
+    - Suprime e) Inscrições
+    - Suprime f) Erros máximos tolerados (dispositivos indicadores e registadores)
+    - Suprime b) Zonas de registo e respetivas graduações
+    - Suprime c) Indicações impressas nas folhas de registo
+    - Suprime d) Espaço livre para as inscrições manuscritas
+    - Suprime 1. Certificação dos instrumentos novos ou reparados
+    - Suprime 2. Instalação
+    - Suprime 3. Controlos periódicos
+    - Suprime 4. Determinação dos erros
+  - date: '2024-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e princípios
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 26.º — Emissão dos cartões de condutor
+    - Altera Artigo 36.º — Registos que devem acompanhar o condutor
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 561/2006
+    - Altera V. INSTALAÇÃO DO APARELHO DE CONTROLO
+    - Altera I. MARCA DE HOMOLOGAÇÃO
+    - Altera II. CERTIFICADO DE HOMOLOGAÇÃO PARA TACÓGRAFOS ANALÓGICOS
+    - Altera III. CERTIFICADO DE HOMOLOGAÇÃO PARA TACÓGRAFOS DIGITAIS
+    - Altera Notas
 identifiers:
   celex: 32014R0165
   eli: http://data.europa.eu/eli/reg/2014/165/oj
@@ -54,7 +163,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fe086399-a04f-11e3-8b87-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/c6a8bd2b-c1f5-11ef-91ed-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0165-20241231
-  retrieved_at: '2026-10-22T02:40:52Z'
+  retrieved_at: '2026-10-22T16:31:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T04:48:45.307+02:00'
 integrity:
@@ -63,9 +172,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:52Z'
-  notes: Texto consolidado 02014R0165-20241231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:39Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2014-165.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -342,30 +451,20 @@ relationships:
   date: '2009-12-23'
 article_structure:
   article_count: 48
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:52Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:39Z'
+  warnings:
+  - '02014R0165-20140301: versão indisponível (Sem expressão na língua por para CELEX 02014R0165-20140301.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014
-
-> 02014R0165 — PT — 31.12.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1054) — [REGULAMENTO (UE) 2020/1054 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1054) — L 249 — 1 — 31.7.2020
-- [►M2](http://publications.europa.eu/resource/celex/32024R1230) — [REGULAMENTO (UE) 2024/1230 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1230) — L 1230 — 1 — 29.4.2024
-
-## REGULAMENTO (UE) N.º 165/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de fevereiro de 2014
 

@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1123:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1123-20131110",
+ "dre_path": null,
+ "source_lastmod": "2013-11-10",
+ "versions": [
+  {
+   "date": "2013-11-09",
+   "future": false,
+   "celex": "32013R1123",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "35c0befc241e368d",
+    "3967b3386186e5f6",
+    "e473e4251e44472f",
+    "a3506963b10cc301",
+    "810fe7ac01fb4a28"
+   ]
+  }
+ ],
+ "fragments": {
+  "35c0befc241e368d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de novembro de 2013\n\nrelativo à determinação dos direitos a créditos internacionais nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Diretiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013299PT.01003201-E0001), nomeadamente o artigo 11.º-A, n.º 8,\n\nConsiderando o seguinte:\n\n(1) O Protocolo à Convenção-Quadro das Nações Unidas sobre Alterações Climáticas (Protocolo de Quioto) institui dois mecanismos para a criação de créditos internacionais que as Partes podem utilizar em compensação de emissões. A Implementação Conjunta (IC) prevê a criação de unidades de redução de emissões (URE), e o Mecanismo de Desenvolvimento Limpo (MDL) prevê a criação de reduções certificadas de emissões (RCE).\n\n(2) Os planos nacionais de atribuição dos Estados-Membros, adotados em conformidade com o artigo 9.º da Diretiva 2003/87/CE, preveem a utilização, pelos operadores, de certas quantidades de RCE e de URE para cumprirem as suas obrigações de devolução de licenças, conforme refere o artigo 12.º da Diretiva 2003/87/CE, a respeito do período de 2008 a 2012.\n\n(3) O artigo 11.º-A da Diretiva 2003/87/CE prevê que RCE e URE emitidas ao abrigo do Protocolo de Quioto sejam utilizadas continuamente no regime de comércio de licenças de emissão instituído pela mesma diretiva, no período de 2013 a 2020, e inclui disposições relativas aos níveis permitidos por categoria de operador e de operador de aeronaves para o cumprimento das suas obrigações de devolução de licenças, nos termos do artigo 12.º da diretiva. No artigo 11.º-A, o n.º 8 estabelece certos direitos mínimos, expressos em níveis percentuais, de utilização de créditos internacionais pelos operadores e operadores de aeronaves no período de 2008 a 2020 e prevê medidas para determinar os limites percentuais exatos.\n\n(4) A Diretiva 2003/87/CE permitiu que os mecanismos do Protocolo de Quioto baseados em projetos fossem associados ao regime de comércio de licenças de emissão, a fim de aumentar a eficácia, em termos de custos, da realização de reduções nas emissões mundiais de gases com efeito de estufa. Atendendo ao número de licenças válidas para o período de 2013 a 2020, concedidas em conformidade com o artigo 13.º, n.º 2, segundo parágrafo, da Diretiva 2003/87/CE, os direitos de utilização de créditos internacionais devem ser fixados nos níveis mínimos especificados no artigo 11.º-A, n.º 8, primeiro e terceiro parágrafos. Em consequência, o limite global para a utilização de créditos internacionais, previsto no artigo 11.º-A, n.º 8, quinto parágrafo, da Diretiva 2003/87/CE, será respeitado, e não se aplicará o disposto no artigo 11.º-A, n.º 8, segundo parágrafo, e no artigo 11.º-A, n.º 8, quarto parágrafo, segundo período. Qualquer direito residual de 2012 dos operadores de aeronaves é mantido em conformidade com o disposto no artigo 11.º-A, n.^os^ 2, 3 e 4, da Diretiva 2003/87/CE.\n\n(5) Os operadores de instalações fixas com uma extensão significativa da capacidade, em conformidade com o artigo 20.º da Decisão 2011/278/UE da Comissão, de 27 de abril de 2011, sobre a determinação das regras transitórias da União relativas à atribuição harmonizada de licenças de emissão a título gratuito nos termos do artigo 10.º-A da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013299PT.01003201-E0002), devem ter direito a ser tratados como operadores existentes ou como novos operadores.\n\n(6) Os artigos 58.º a 61.º do Regulamento (UE) n.º 389/2013 da Comissão, de 2 de maio de 2013, que estabelece um Registo da União nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho e das Decisões n.º 280/2004/CE e n.º 406/2009/CE do Parlamento Europeu e do Conselho e que revoga os Regulamentos (UE) n.º 920/2010 e (UE) n.º 1193/2011 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2013299PT.01003201-E0003), dão indicações circunstanciadas para a aplicação dos limites aí estabelecidos para os direitos.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das Alterações Climáticas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "3967b3386186e5f6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O operador de uma instalação fixa que tiver recebido uma licença de emissão a título gratuito ou um direito a utilizar créditos internacionais no período de 2008 a 2012 tem direito a utilizar créditos internacionais durante o período de 2008 a 2020 até ao maior dos seguintes montantes: o que lhe foi permitido no período de 2008 a 2012; ou o correspondente a um máximo de 11% da sua licença no período de 2008 a 2012.\n\n2. O operador de uma instalação fixa que não tiver recebido qualquer licença de emissão a título gratuito nem qualquer direito a utilizar créditos internacionais no período de 2008 a 2012 e, em derrogação do disposto no n.º 1, o operador de uma instalação fixa na aceção do artigo 3.º, alínea h), primeiro e segundo travessões, da Diretiva 2003/87/CE têm direito a utilizar créditos internacionais no período de 2008 a 2020 até um máximo de 4,5% das suas emissões verificadas no período de 2013 a 2020.\n\n3. O operador de uma instalação fixa com uma extensão significativa da capacidade, em conformidade com o artigo 20.º da Decisão 2011/278/UE, tem direito a utilizar créditos internacionais durante o período de 2008 a 2020 até ao maior dos seguintes montantes: o que lhe foi permitido no período de 2008 a 2012; o correspondente a um máximo de 11% da sua licença no período de 2008 a 2012; ou um máximo de 4,5% das suas emissões verificadas durante o período de 2013 a 2020.\n\n4. O operador de uma instalação fixa que tiver recebido uma licença de emissão a título gratuito para o período de 2008 a 2012 e que leve a efeito atividades não enumeradas no anexo I da Diretiva 2003/87/CE com a redação que lhe foi dada pelo Regulamento (CE) n.º 219/2009 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2013299PT.01003201-E0004), mas enumeradas no anexo I da Diretiva 2003/87/CE com a redação que lhe foi dada pela Diretiva 2009/29/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2013299PT.01003201-E0005), tem direito a utilizar créditos internacionais durante o período de 2008 a 2020 até ao maior dos seguintes montantes: o que lhe foi permitido no período de 2008 a 2012; o correspondente a um máximo de 11% da sua licença no período de 2008 a 2012; ou um máximo de 4,5% das suas emissões verificadas durante o período de 2013 a 2020.\n\n5. Cada operador de aeronaves tem direito a utilizar créditos internacionais até um máximo de 1,5% das suas emissões verificadas durante o período de 2013 a 2020, sem prejuízo de eventuais direitos residuais de 2012."
+  },
+  "e473e4251e44472f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem calcular e publicar o direito de crédito internacional relativo a cada um dos seus operadores em conformidade com o disposto no artigo 1.º, n.º 1, e notificar a Comissão em conformidade com o disposto no artigo 59.º do Regulamento (UE) n.º 389/2013, no prazo de um mês a contar da data de entrada em vigor do presente regulamento.\n\n2. Para cada um dos operadores referidos no artigo 1.º, n.º 2, e dos operadores de aeronaves referidos no artigo 1.º, n.º 5, é calculado, com base nas emissões verificadas, um direito de crédito internacional, a atualizar anualmente. Para os operadores referidos no artigo 1.º, n.^os^ 3 e 4, é calculado um direito de crédito internacional atualizado, equivalente ao maior dos seguintes montantes: o calculado no artigo 1.º, n.º 1; ou 4,5% das emissões verificadas no período de 2013 a 2020. Logo que sejam aprovadas as emissões verificadas, os Estados-Membros devem notificar a Comissão das alterações das suas tabelas de direitos de crédito internacionais, em conformidade com o artigo 59.º do Regulamento (UE) n.º 389/2013."
+  },
+  "a3506963b10cc301": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 8 de novembro de 2013.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "810fe7ac01fb4a28": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013299PT.01003201-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013299PT.01003201-E0002) [JO L 130 de 17.5.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_130_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2013299PT.01003201-E0003) [JO L 122 de 3.5.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_122_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2013299PT.01003201-E0004) [JO L 87 de 31.3.2009, p. 109](http://publications.europa.eu/resource/oj/JOL_2009_087_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2013299PT.01003201-E0005) [JO L 140 de 5.6.2009, p. 63](http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC)."
+  }
+ }
+}

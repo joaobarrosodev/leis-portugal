@@ -37,6 +37,142 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2013-1380.versoes.json
+  count: 6
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2013-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1385:por
+    amending_title: REGULAMENTO (UE) N. o 1385/2013 DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 7.º — Tipos de medidas de conservação
+    - Altera Artigo 15.º — Obrigação de desembarcar
+    - Altera Artigo 23.º — Regime de entrada/saída
+    - Altera Artigo 35.º — Objetivos
+    - Altera Artigo 36.º — Objetivos
+    - Altera Artigo 48.º — Revogação e alteração
+    - Altera Artigo 51.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ACESSO ÀS FAIXAS COSTEIRAS NA ACEÇÃO DO ARTIGO 5.º, N.º 2
+    - Adita 1. Faixa costeira do reino unido
+    - Adita 2. Faixa costeira da irlanda
+    - Adita 3. Faixa costeira da bélgica
+    - Adita 4. Faixa costeira da dinamarca
+    - Adita 5. Faixa costeira da alemanha
+    - Adita 6. Faixa costeira da frança e dos departamentos ultramarinos
+    - Adita 7. Faixa costeira de espanha
+    - Adita 8. Faixa costeira da croácia [(27)](http://publications.europa.eu/resource/cellar/9fd86cad-d087-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0029)
+    - Adita 9. Faixa costeira dos países baixos
+    - Adita 10. Faixa costeira da eslovénia [(27)](http://publications.europa.eu/resource/cellar/9fd86cad-d087-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0030)
+    - Adita 11. Faixa costeira da finlândia
+    - Adita 12. Faixa costeira da suécia
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita 1. Nome e zona de competência dos conselhos consultivos
+    - Adita 2. Funcionamento e financiamento dos conselhos consultivos
+  - date: '2015-06-01'
+    amending: eu:celex:32015R0812:por
+    amending_title: REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 15.º — Obrigação de desembarcar
+    - Altera Artigo 35.º — Objetivos
+    - Altera Artigo 48.º — Revogação e alteração
+    - Altera 4. Faixa costeira da dinamarca
+    - Altera 11. Faixa costeira da finlândia
+    - Altera 12. Faixa costeira da suécia
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita 8. Faixa costeira da croácia [(27)](http://publications.europa.eu/resource/cellar/65394081-0736-49c1-b819-0f9269e8ae15.0015.02/DOC_1#E0029)
+    - Adita 10. Faixa costeira da eslovénia [(27)](http://publications.europa.eu/resource/cellar/65394081-0736-49c1-b819-0f9269e8ae15.0015.02/DOC_1#E0030)
+    - Suprime 8. Faixa costeira da croácia [(27)](http://publications.europa.eu/resource/cellar/9fd86cad-d087-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0029)
+    - Suprime 10. Faixa costeira da eslovénia [(27)](http://publications.europa.eu/resource/cellar/9fd86cad-d087-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0030)
+  - date: '2017-11-20'
+    amending: eu:celex:32017R2092:por
+    amending_title: REGULAMENTO (UE) 2017/2092 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 15.º — Obrigação de desembarcar
+    - Altera Artigo 18.º — Cooperação regional sobre as medidas de conservação
+    - Altera Artigo 35.º — Objetivos
+    - Altera Artigo 36.º — Objetivos
+    - Altera Artigo 48.º — Revogação e alteração
+    - Altera 4. Faixa costeira da dinamarca
+    - Altera 11. Faixa costeira da finlândia
+    - Altera 12. Faixa costeira da suécia
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita 8. Faixa costeira da croácia [()](http://publications.europa.eu/resource/cellar/a131941f-280e-492b-8c00-dc04674dbb29.0016.02/DOC_3#E0012)
+    - Adita 10. Faixa costeira da eslovénia [()](http://publications.europa.eu/resource/cellar/a131941f-280e-492b-8c00-dc04674dbb29.0016.02/DOC_3#E0013)
+    - Suprime 8. Faixa costeira da croácia [(27)](http://publications.europa.eu/resource/cellar/65394081-0736-49c1-b819-0f9269e8ae15.0015.02/DOC_1#E0029)
+    - Suprime 10. Faixa costeira da eslovénia [(27)](http://publications.europa.eu/resource/cellar/65394081-0736-49c1-b819-0f9269e8ae15.0015.02/DOC_1#E0030)
+  - date: '2019-08-14'
+    amending: eu:celex:32019R1241:por
+    amending_title: REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 15.º — Obrigação de desembarcar
+    - Altera Artigo 35.º — Objetivos
+    - Altera Artigo 48.º — Revogação e alteração
+    - Altera 4. Faixa costeira da dinamarca
+    - Altera 11. Faixa costeira da finlândia
+    - Altera 12. Faixa costeira da suécia
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita 8. Faixa costeira da croácia [()](http://publications.europa.eu/resource/cellar/2aeea87f-dbc3-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0012)
+    - Adita 10. Faixa costeira da eslovénia [()](http://publications.europa.eu/resource/cellar/2aeea87f-dbc3-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0013)
+    - Suprime 8. Faixa costeira da croácia [()](http://publications.europa.eu/resource/cellar/a131941f-280e-492b-8c00-dc04674dbb29.0016.02/DOC_3#E0012)
+    - Suprime 10. Faixa costeira da eslovénia [()](http://publications.europa.eu/resource/cellar/a131941f-280e-492b-8c00-dc04674dbb29.0016.02/DOC_3#E0013)
+  - date: '2023-01-01'
+    amending: eu:celex:32022R2495:por
+    amending_title: REGULAMENTO (UE) 2022/2495 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Regras gerais de acesso às águas
+    - Altera Artigo 35.º — Objetivos
+    - Altera Artigo 48.º — Revogação e alteração
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita ACESSO ÀS ÁGUAS COSTEIRAS NA ACEÇÃO DO ARTIGO 5.º, N.º 2
+    - Adita 1. Águas costeiras da Irlanda
+    - Adita a) ACESSO PARA A FRANÇA
+    - Adita b) ACESSO PARA OS PAÍSES BAIXOS
+    - Adita c) ACESSO PARA A ALEMANHA
+    - Adita d) ACESSO PARA A BÉLGICA
+    - Adita 2. Águas costeiras da Bélgica
+    - Adita 3. Águas costeiras da Dinamarca
+    - Adita 4. Águas costeiras da Alemanha
+    - Adita 5. Águas costeiras da França e dos departamentos ultramarinos
+    - Adita 6. Águas costeiras de Espanha
+    - Adita 7. Águas costeiras da Croácia [()](http://publications.europa.eu/resource/cellar/1d280d12-9118-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0012)
+    - Adita 8. Águas costeiras dos Países Baixos
+    - Adita 9. Águas costeiras da Eslovénia [()](http://publications.europa.eu/resource/cellar/1d280d12-9118-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0013)
+    - Adita 10. Águas costeiras da Finlândia
+    - Adita 11. Águas costeiras da Suécia
+    - Adita 12. Águas costeiras da Grécia
+    - Suprime ACESSO ÀS FAIXAS COSTEIRAS NA ACEÇÃO DO ARTIGO 5.º, N.º 2
+    - Suprime 1. Faixa costeira do reino unido
+    - Suprime 2. Faixa costeira da irlanda
+    - Suprime 3. Faixa costeira da bélgica
+    - Suprime 4. Faixa costeira da dinamarca
+    - Suprime 5. Faixa costeira da alemanha
+    - Suprime 6. Faixa costeira da frança e dos departamentos ultramarinos
+    - Suprime 7. Faixa costeira de espanha
+    - Suprime 8. Faixa costeira da croácia [()](http://publications.europa.eu/resource/cellar/2aeea87f-dbc3-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0012)
+    - Suprime 9. Faixa costeira dos países baixos
+    - Suprime 10. Faixa costeira da eslovénia [()](http://publications.europa.eu/resource/cellar/2aeea87f-dbc3-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0013)
+    - Suprime 11. Faixa costeira da finlândia
+    - Suprime 12. Faixa costeira da suécia
 identifiers:
   celex: 32013R1380
   eli: http://data.europa.eu/eli/reg/2013/1380/oj
@@ -51,7 +187,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/127ceea5-76cc-11e3-b889-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/1d280d12-9118-11ed-b508-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1380-20230101
-  retrieved_at: '2026-10-22T02:36:28Z'
+  retrieved_at: '2026-10-22T16:25:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T01:44:20.461+02:00'
 integrity:
@@ -60,9 +196,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:28Z'
-  notes: Texto consolidado 02013R1380-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:52Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2013-1380.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -414,38 +550,19 @@ relationships:
   date: '2012-12-12'
 article_structure:
   article_count: 51
-  section_count: 63
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 64
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:28Z'
+  checked_at: '2026-10-22T16:25:52Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013
-
-> 02013R1380 — PT — 01.01.2023 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1385) — [REGULAMENTO (UE) N.º 1385/2013 DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1385) — L 354 — 86 — 28.12.2013
-- [►M2](http://publications.europa.eu/resource/celex/32015R0812) — [REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0812) — L 133 — 1 — 29.5.2015
-- [►M3](http://publications.europa.eu/resource/celex/32017R2092) — [REGULAMENTO (UE) 2017/2092 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2092) — L 302 — 1 — 17.11.2017
-- [►M4](http://publications.europa.eu/resource/celex/32019R1241) — [REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1241) — L 198 — 105 — 25.7.2019
-- [►M5](http://publications.europa.eu/resource/celex/32022R2495) — [REGULAMENTO (UE) 2022/2495 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2495) — L 325 — 1 — 20.12.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1380R%2805%29) — [Rectificação, JO L 044, 16.2.2018, p. 9 (n.o 1380/2013)](http://publications.europa.eu/resource/celex/32013R1380R%2805%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013R1385R%2802%29) — [Rectificação, JO L 122, 17.5.2018, p. 35 (n.o 1385/2013)](http://publications.europa.eu/resource/celex/32013R1385R%2802%29)
-
-## REGULAMENTO (UE) N.º 1380/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de dezembro de 2013
 

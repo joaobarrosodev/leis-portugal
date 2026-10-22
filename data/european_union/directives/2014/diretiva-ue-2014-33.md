@@ -37,6 +37,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2014-33.versoes.json
+  count: 2
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2014-03-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-05-30'
+    amending: eu:celex:32024L2749:por
+    amending_title: DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Procedimento de avaliação da conformidade de ascensores
+    - Altera Artigo 49.º — Destinatários
+    - Altera Notas
+    - Adita CAPÍTULO V-A
+    - Adita PROCEDIMENTOS DE EMERGÊNCIA
+    - Adita Artigo 41.º-A
+    - Adita Artigo 41.º-B
+    - Adita Artigo 41.º-C
+    - Adita Artigo 41.º-D
+    - Adita Artigo 41.º-E
+    - Adita ANEXO I
+    - Adita REQUISITOS ESSENCIAIS DE SEGURANÇA E DE SAÚDE
+    - Adita OBSERVAÇÕES PRELIMINARES
+    - Adita ANEXO II
+    - Adita A. CONTEÚDO DA DECLARAÇÃO UE DE CONFORMIDADE PARA OS COMPONENTES DE SEGURANÇA PARA ASCENSORES
+    - Adita B. CONTEÚDO DA DECLARAÇÃO UE DE CONFORMIDADE PARA OS ASCENSORES
+    - Adita ANEXO III
+    - Adita LISTA DOS COMPONENTES DE SEGURANÇA PARA ASCENSORES
+    - Adita ANEXO IV
+    - Adita EXAME UE DE TIPO DOS ASCENSORES E COMPONENTES DE SEGURANÇA PARA ASCENSORES
+    - Adita (Módulo B)
+    - Adita A. Exame ue de tipo dos componentes de segurança para ascensores
+    - Adita B. Exame ue de tipo dos ascensores
+    - Adita ANEXO V
+    - Adita CONTROLO FINAL DOS ASCENSORES
+    - Adita ANEXO VI
+    - Adita CONFORMIDADE COM O TIPO BASEADA NA GARANTIA DA QUALIDADE DO PRODUTO PARA COMPONENTES DE SEGURANÇA PARA ASCENSORES
+    - Adita (Módulo E)
+    - Adita ANEXO VII
+    - Adita CONFORMIDADE BASEADA NA GARANTIA DE QUALIDADE TOTAL PARA COMPONENTES DE SEGURANÇA PARA ASCENSORES
+    - Adita (Módulo H)
+    - Adita ANEXO VIII
+    - Adita CONFORMIDADE BASEADA NA VERIFICAÇÃO POR UNIDADE PARA ASCENSORES
+    - Adita (Módulo G)
+    - Adita ANEXO IX
+    - Adita CONFORMIDADE COM O TIPO COM CONTROLO POR AMOSTRAGEM CONTROLO FINAL DOS COMPONENTES DE SEGURANÇA PARA ASCENSORES
+    - Adita (Módulo C 2)
+    - Adita ANEXO X
 identifiers:
   celex: 32014L0033
   eli: http://data.europa.eu/eli/dir/2014/33/oj
@@ -51,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d50803ea-b722-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/fba8c175-53db-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0033-20260530
-  retrieved_at: '2026-10-22T03:16:55Z'
+  retrieved_at: '2026-10-22T16:27:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T05:48:19.120+02:00'
 integrity:
@@ -60,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:55Z'
-  notes: Texto consolidado 02014L0033-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:27:38Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,29 +207,20 @@ relationships:
   source: null
 article_structure:
   article_count: 54
-  section_count: 54
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 55
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:55Z'
-  warnings: []
+  checked_at: '2026-10-22T16:27:38Z'
+  warnings:
+  - '02014L0033-20140418: versão indisponível (Sem expressão na língua por para CELEX 02014L0033-20140418.)'
   errors: []
 ---
 
 # Diretiva 2014/33/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
-
-> 02014L0033 — PT — 30.05.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-## DIRETIVA 2014/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de fevereiro de 2014
 

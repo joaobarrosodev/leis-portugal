@@ -35,6 +35,196 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-09'
+version_history:
+  file: regulamento-ue-2014-241.versoes.json
+  count: 5
+  source_lastmod: '2023-05-09'
+  versions:
+  - date: '2014-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-04-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Significado de «previsíveis» na expressão dividendos previsíveis para efeitos do artigo 26.º, n.º
+      2, alínea b), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 4.º — Tipo de empresas reconhecido pelo direito nacional aplicável como uma sociedade cooperativa para
+      efeitos do artigo 27.º, n.º 1, alínea a), subalínea ii), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 5.º — Tipo de empresas reconhecido pelo direito nacional aplicável como uma instituição de poupança para
+      efeitos do artigo 27.º, n.º 1, alínea a), subalínea iii), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 8.º — Financiamento indireto dos instrumentos de fundos próprios para efeitos do artigo 28.º, n.º 1, alínea
+      b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 9.º — Formas aplicáveis e natureza do financiamento indireto dos instrumentos de fundos próprios para
+      efeitos do artigo 28.º, n.º 1, alínea b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 13.º — Dedução das perdas do exercício em curso para efeitos do artigo 36.º, n.º 1, alínea a), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 17.º — Outras deduções aos instrumentos de fundos próprios das instituições financeiras para efeitos do
+      artigo 36.º, n.º 3, do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 21.º — Natureza da reposição do valor do capital no seguimento de uma redução para efeito dos artigos
+      52.º, n.º 1, alínea n), e 52.º, n.º 2, alínea c), subalínea ii), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 29.º — Apresentação de um pedido de autorização, por uma instituição, de reembolsos, reduções e recompras
+      nos termos dos artigos 77.º e 78.º do Regulamento (UE) n.º 575/2013 e bases apropriadas para a limitação dos reembolsos
+      para efeitos do artigo 78.º, n.º 3, do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 37.º
+    - Altera Notas
+  - date: '2015-04-13'
+    amending: eu:celex:32015R0488:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/488 DA COMISSÃO de 4 de setembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Significado de «previsíveis» na expressão dividendos previsíveis para efeitos do artigo 26.º, n.º
+      2, alínea b), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 8.º — Financiamento indireto dos instrumentos de fundos próprios para efeitos do artigo 28.º, n.º 1, alínea
+      b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 9.º — Formas aplicáveis e natureza do financiamento indireto dos instrumentos de fundos próprios para
+      efeitos do artigo 28.º, n.º 1, alínea b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 13.º — Dedução das perdas do exercício em curso para efeitos do artigo 36.º, n.º 1, alínea a), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 17.º — Outras deduções aos instrumentos de fundos próprios das instituições financeiras para efeitos do
+      artigo 36.º, n.º 3, do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita CAPÍTULO V-A
+    - Adita FUNDOS PRÓPRIOS COM BASE EM DESPESAS GERAIS FIXAS
+    - Adita Artigo 34.º-B — Cálculo do capital elegível de, pelo menos, um quarto das despesas gerais fixas do ano anterior
+      para efeitos do artigo 97.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 34.º-C — Condições para o ajustamento pela autoridade competente do requisito de manter um capital elegível
+      de, pelo menos, um quarto das despesas gerais fixas do ano anterior, em conformidade com o artigo 97.º, n.º 2, do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 34.º-D — Cálculo das despesas gerais fixas previstas no caso de uma empresa que não tenha completado um
+      ano de exercício de atividade, de acordo com o artigo 97.º, n.º 3, do Regulamento (UE) n.º 575/2013
+  - date: '2020-12-23'
+    amending: eu:celex:32015R0850:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/850 DA COMISSÃO de 30 de janeiro de 2015; REGULAMENTO DELEGADO (UE) 2015/923
+      DA COMISSÃO de 11 de março de 2015; REGULAMENTO DELEGADO (UE) 2020/2176 DA COMISSÃO de 12 de novembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Significado de «previsíveis» na expressão dividendos previsíveis para efeitos do artigo 26.º, n.º
+      2, alínea b), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 8.º — Financiamento indireto dos instrumentos de fundos próprios para efeitos do artigo 28.º, n.º 1, alínea
+      b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 9.º — Formas aplicáveis e natureza do financiamento indireto dos instrumentos de fundos próprios para
+      efeitos do artigo 28.º, n.º 1, alínea b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 13.º — Dedução das perdas do exercício em curso para efeitos do artigo 36.º, n.º 1, alínea a), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 15.º — Dedução de ativos de fundos de pensões de benefício definido para efeitos dos artigos 36.º, n.º
+      1, alínea e), e 41.º, n.º 1, alínea b), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 17.º — Outras deduções aos instrumentos de fundos próprios das instituições financeiras para efeitos do
+      artigo 36.º, n.º 3, do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 34.º-B — Cálculo do capital elegível de, pelo menos, um quarto das despesas gerais fixas do ano anterior
+      para efeitos do artigo 97.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Artigo 7.º-A — Distribuições de múltiplo de dividendos que constituem um esforço desproporcional nos fundos próprios
+    - Adita Artigo 7.º-B — Distribuições preferenciais resultantes de direitos preferenciais ao pagamento das distribuições
+    - Adita Artigo 7.º-C — Cálculo do rácio de distribuição para efeitos do artigo 7.º-B, n.º 8, alínea b)
+    - Adita Artigo 7.º-D — Distribuições preferenciais no que diz respeito à ordem do respetivo pagamento
+    - Adita Artigo 13.º-A — Dedução de ativos de programas informáticos classificados como ativos intangíveis para fins contabilísticos
+      para efeitos do artigo 36.º, n.º 1, alínea b), do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 15.º-A — Participações indiretas para efeitos do artigo 36.º, n.º 1, alíneas f), h) e i), do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 15.-B — Participações sintéticas para efeitos do artigo 36.º, n.º 1, alíneas f), h) e i), do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 15.-C — Cálculo das participações indiretas para efeitos do artigo 36.º, n.º 1, alíneas f), h) e i), do
+      Regulamento (UE) n.º 575/2013
+    - Adita Artigo 15.º-D — Método «por defeito» para o cálculo das participações indiretas para efeitos do artigo 36.º, n.º
+      1, alíneas f), h) e i), do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 15.º-E — Método baseado na estrutura para o cálculo das participações indiretas para efeitos do artigo
+      36.º, n.º 1, alíneas f), h) e i), do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 15.º-F — Cálculo das participações sintéticas para efeitos do artigo 36.º, n.º 1, alíneas f), h) e i),
+      do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 15.º-G — Cálculo dos investimentos significativos para efeitos do artigo 36.º, n.º 1, alínea i), do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 15.º-H — Participações em instrumentos de fundos próprios adicionais de nível 1 e de nível 2
+    - Adita Artigo 15.º-I — Ordem e montante máximo das deduções de participações indiretas em instrumentos de fundos próprios
+      de entidades do setor financeiro
+    - Adita Artigo 15.º-J — Goodwill
+    - Adita Artigo 24.º-A — Distribuição dos instrumentos de fundos próprios — índices de mercado alargados
+    - Adita Artigo 34.º-A — Interesses minoritários incluídos nos fundos próprios principais de nível 1 consolidados
+  - date: '2023-05-09'
+    amending: eu:celex:32023R0827:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/827 DA COMISSÃO de 11 de outubro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Significado de «previsíveis» na expressão dividendos previsíveis para efeitos do artigo 26.º, n.º
+      2, alínea b), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 4.º — Tipo de empresas reconhecido pelo direito nacional aplicável como uma sociedade cooperativa para
+      efeitos do artigo 27.º, n.º 1, alínea a), subalínea ii), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 7.º-C — Cálculo do rácio de distribuição para efeitos do artigo 7.º-B, n.º 8, alínea b)
+    - Altera Artigo 12.º — Conceito de lucro na venda para efeitos do artigo 32.º, n.º 1, alínea a), do Regulamento (UE) n.º
+      575/2013
+    - Altera Artigo 13.º — Dedução das perdas do exercício em curso para efeitos do artigo 36.º, n.º 1, alínea a), do Regulamento
+      (UE) n.º 575/2013
+    - Altera Artigo 17.º — Outras deduções aos instrumentos de fundos próprios das instituições financeiras para efeitos do
+      artigo 36.º, n.º 3, do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 26.º — Significado de operacionalmente oneroso para efeitos do artigo 76.º, n.º 3, do Regulamento (UE)
+      n.º 575/2013
+    - Altera Artigo 34.º-B — Cálculo do capital elegível de, pelo menos, um quarto das despesas gerais fixas do ano anterior
+      para efeitos do artigo 97.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Altera Notas
+    - Adita Artigo 1.º-A — Aplicação do presente regulamento às entidades sujeitas ao requisito mínimo de fundos próprios
+      e passivos elegíveis e aos passivos elegíveis referidos na Diretiva 2014/59/UE
+    - Adita ELEMENTOS DE FUNDOS PRÓPRIOS E PASSIVOS ELEGÍVEIS
+    - Adita Elementos e instrumentos de fundos próprios principais de nível 1 e de passivos elegíveis
+    - Adita Artigo 8.º — Financiamento indireto de instrumentos de fundos próprios para efeitos do artigo 28.º, n.º 1, alínea
+      b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), bem como dos passivos para efeitos do artigo 72.º-B,
+      n.º 2, alínea c), do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 9.º — Formas aplicáveis e natureza do financiamento indireto de instrumentos de fundos próprios para efeitos
+      do artigo 28.º, n.º 1, alínea b), do artigo 52.º, n.º 1, alínea c), e do artigo 63.º, alínea c), bem como de passivos
+      para efeitos do artigo 72.º-B, n.º 2, alínea c), do Regulamento (UE) n.º 575/2013
+    - Adita FUNDOS PRÓPRIOS ADICIONAIS DE NÍVEL 1 E NÍVEL 2 E PASSIVOS ELEGÍVEIS
+    - Adita Artigo 20.º — Forma e natureza dos incentivos ao resgate para efeitos do artigo 52.º, n.º 1, alínea g), do artigo
+      63.º, alínea h), do artigo 72.º-B, n.º 2, alínea g), e do artigo 72.º-C, n.º 3, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 25.º — Grau de prudência necessário nas estimativas para o cálculo de exposições utilizadas como uma alternativa
+      às exposições subjacentes para efeitos do artigo 76.º, n.º 2, do Regulamento (UE) n.º 575/2013
+    - Adita Autorização para a redução dos fundos próprios e passivos elegíveis
+    - Adita Artigo 27.º — Significado de «sustentável para a capacidade da instituição em termos de receitas» para efeitos
+      do artigo 78.º, n.º 1, alínea a), e do artigo 78.º, n.º 4, alínea d), do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 28.º — Requisitos processuais, incluindo limites e procedimentos de apresentação de pedidos de redução
+      dos fundos próprios, por uma instituição, nos termos do artigo 77.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 29.º — Apresentação de um pedido de autorização, por uma instituição, para a redução dos fundos próprios
+      nos termos do artigo 77.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 30.º — Conteúdo dos pedidos a apresentar pela instituição para efeitos do artigo 77.º, n.º 1, do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 30.º-A — Informações adicionais a apresentar juntamente com o pedido de autorização geral prévia para as
+      operações enumeradas no artigo 77.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 30.º-B — Informações a apresentar juntamente com o pedido de renovação da autorização geral prévia para
+      as operações enumeradas no artigo 77.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 31.º — Calendário da apresentação dos pedidos a apresentar pela instituição e do tratamento desses mesmos
+      pedidos pela autoridade competente para efeitos do artigo 77.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 32.º — Pedidos de resgates, reduções e recompras por mútuas, sociedades cooperativas, instituições de poupança
+      ou instituições semelhantes para efeitos do artigo 77.º, n.º 1, do Regulamento (UE) n.º 575/2013
+    - Adita Autorização para a redução dos instrumentos de passivos elegíveis
+    - Adita Artigo 32.º-A — Significado de «sustentável no que respeita à capacidade da instituição em termos de receitas»
+      para efeitos do artigo 78.º-A, n.º 1, alínea a), do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 32.º-B — Requisitos processuais, incluindo os limites e procedimentos de apresentação de pedidos, por uma
+      instituição, para a redução dos instrumentos de passivos elegíveis nos termos do artigo 77.º, n.º 2, do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 32.º-C — Apresentação de um pedido de autorização, por uma instituição, para a redução dos instrumentos
+      de passivos elegíveis nos termos do artigo 77.º, n.º 2, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 32.º-D — Conteúdo dos pedidos a apresentar pela instituição para efeitos do artigo 77.º, n.º 2, do Regulamento
+      (UE) n.º 575/2013
+    - Adita Artigo 32.º-E — Informações adicionais a apresentar juntamente com o pedido de autorização geral prévia para as
+      operações enumeradas no artigo 77.º, n.º 2, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 32.º-F — Informações a apresentar juntamente com o pedido de renovação da autorização geral prévia para
+      as operações enumeradas no artigo 77.º, n.º 2, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 32.º-G — Calendário da apresentação dos pedidos a apresentar pela instituição e do tratamento desses mesmos
+      pedidos pela autoridade de resolução para efeitos do artigo 77.º, n.º 2, do Regulamento (UE) n.º 575/2013
+    - Adita Artigo 32.º-H — Requisitos simplificados para as instituições relativamente às quais a autoridade de resolução
+      tenha fixado o requisito mínimo de fundos próprios e passivos elegíveis estabelecido no artigo 45.º, n.º 1, da Diretiva
+      2014/59/UE num nível que não exceda um montante suficiente para absorver as perdas
+    - Adita Artigo 32.º-I — Processo de cooperação entre a autoridade competente e a autoridade de resolução no momento da
+      concessão da autorização referida no artigo 78.º-A do Regulamento (UE) n.º 575/2013
+    - Adita Dispensa temporária da dedução aos fundos próprios e passivos elegíveis
+    - Adita Artigo 33.º — Dispensa temporária da dedução aos fundos próprios e passivos elegíveis para efeitos do artigo 79.º,
+      n.º 1, do Regulamento (UE) n.º 575/2013
 identifiers:
   celex: 32014R0241
   eli: http://data.europa.eu/eli/reg_del/2014/241/oj
@@ -49,7 +239,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb0646a0-ab51-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/9bcf2cc6-007a-11ee-87ec-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0241-20230509
-  retrieved_at: '2026-10-22T03:17:15Z'
+  retrieved_at: '2026-10-22T16:32:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T18:45:20.730+02:00'
 integrity:
@@ -58,9 +248,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:15Z'
-  notes: Texto consolidado 02014R0241-20230509.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:32:08Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2014-241.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,37 +359,21 @@ relationships:
   date: '2016-03-22'
 article_structure:
   article_count: 69
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:15Z'
-  warnings: []
+  checked_at: '2026-10-22T16:32:08Z'
+  warnings:
+  - '02014R0241-20150622: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R0241-20150707: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 241/2014 da Comissão, de 7 de janeiro de 2014
-
-> 02014R0241 — PT — 09.05.2023 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0488) — [REGULAMENTO DELEGADO (UE) 2015/488 DA COMISSÃO de 4 de setembro de 2014](http://publications.europa.eu/resource/celex/32015R0488) — L 78 — 1 — 24.3.2015
-- [►M2](http://publications.europa.eu/resource/celex/32015R0850) — [REGULAMENTO DELEGADO (UE) 2015/850 DA COMISSÃO de 30 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0850) — L 135 — 1 — 2.6.2015
-- [►M3](http://publications.europa.eu/resource/celex/32015R0923) — [REGULAMENTO DELEGADO (UE) 2015/923 DA COMISSÃO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0923) — L 150 — 1 — 17.6.2015
-- [►M4](http://publications.europa.eu/resource/celex/32020R2176) — [REGULAMENTO DELEGADO (UE) 2020/2176 DA COMISSÃO de 12 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R2176) — L 433 — 27 — 22.12.2020
-- [►M5](http://publications.europa.eu/resource/celex/32023R0827) — [REGULAMENTO DELEGADO (UE) 2023/827 DA COMISSÃO de 11 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0827) — L 104 — 1 — 19.4.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0241R%2801%29) — [Rectificação, JO L 196, 3.7.2014, p. 45 (n.o 241/2014)](http://publications.europa.eu/resource/celex/32014R0241R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) N.º 241/2014 DA COMISSÃO
 
 de 7 de janeiro de 2014
 

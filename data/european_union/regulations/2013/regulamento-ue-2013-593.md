@@ -35,6 +35,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2013-593.versoes.json
+  count: 2
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2013-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Notas
 identifiers:
   celex: 32013R0593
   eli: http://data.europa.eu/eli/reg_impl/2013/593/oj
@@ -49,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/51194f40-dc9f-11e2-bfa7-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/6d24b6f6-6796-11eb-aeb5-01aa75ed71a1.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0593-20210101
-  retrieved_at: '2026-10-22T03:16:39Z'
+  retrieved_at: '2026-10-22T16:19:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T06:10:54.307+02:00'
 integrity:
@@ -58,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:39Z'
-  notes: Texto consolidado 02013R0593-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:19:57Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-593.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,16 +210,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:39Z'
+  checked_at: '2026-10-22T16:19:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02013R0593-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0593-20170626: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0593-20170921: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

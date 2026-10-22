@@ -37,6 +37,111 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2014-68.versoes.json
+  count: 3
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2014-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Disponibilização no mercado e colocação em serviço
+    - Altera Artigo 4.º — Requisitos técnicos
+    - Altera Artigo 5.º — Livre circulação
+    - Altera Artigo 6.º — Deveres dos fabricantes
+    - Altera Artigo 7.º — Mandatários
+    - Altera Artigo 8.º — Deveres dos importadores
+    - Altera Artigo 9.º — Deveres dos distribuidores
+    - Altera Artigo 11.º — Identificação dos operadores económicos
+    - Altera Artigo 12.º — Presunção da conformidade
+    - Altera Artigo 13.º — Classificação dos equipamentos sob pressão
+    - Altera Artigo 14.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 15.º — Aprovação europeia de materiais
+    - Altera Artigo 16.º — Serviços de inspeção dos utilizadores
+    - Altera Artigo 17.º — Declaração UE de conformidade
+    - Altera Artigo 19.º — Regras e condições para a aposição da marcação CE
+    - Altera Artigo 21.º — Autoridades notificadoras
+    - Altera Artigo 22.º — Requisitos aplicáveis às autoridades notificadoras
+    - Altera Artigo 24.º — Requisitos aplicáveis aos organismos notificados e às entidades terceiras reconhecidas
+    - Altera Artigo 25.º — Requisitos aplicáveis aos serviços de inspeção dos utilizadores
+    - Altera Artigo 27.º — Filiais e subcontratados dos organismos de avaliação da conformidade
+    - Altera Artigo 28.º — Pedido de notificação
+    - Altera Artigo 29.º — Procedimento de notificação
+    - Altera Artigo 30.º — Números de identificação e listas dos organismos notificados
+    - Altera Artigo 32.º — Alterações à notificação
+    - Altera Artigo 33.º — Contestação da competência técnica dos organismos notificados, das entidades terceiras reconhecidas
+      e dos serviços de inspeção dos utilizadores
+    - Altera Artigo 34.º — Deveres funcionais dos organismos notificados, dos serviços de inspeção dos utilizadores e das
+      entidades terceiras reconhecidas
+    - Altera Artigo 36.º — Obrigação de informação dos organismos notificados, das entidades terceiras reconhecidas e dos
+      serviços de inspeção dos utilizadores
+    - Altera CAPÍTULO 5
+    - Altera Artigo 40.º — Procedimento aplicável aos equipamentos sob pressão e aos conjuntos que apresentam um risco a nível
+      nacional
+    - Altera Artigo 41.º — Procedimento de salvaguarda da União
+    - Altera Artigo 42.º — Equipamentos sob pressão ou conjuntos conformes que apresentam um risco
+    - Altera Artigo 43.º — Não conformidade formal
+    - Altera Artigo 44.º — Procedimento de comité
+    - Altera Artigo 45.º — Poderes delegados
+    - Altera Artigo 46.º — Exercício da delegação
+    - Altera Artigo 48.º — Disposições transitórias
+    - Altera Artigo 49.º — Transposição
+  - date: '2026-05-30'
+    amending: eu:celex:32024L2749:por
+    amending_title: DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Disponibilização no mercado e colocação em serviço
+    - Altera Artigo 4.º — Requisitos técnicos
+    - Altera Artigo 5.º — Livre circulação
+    - Altera Artigo 6.º — Deveres dos fabricantes
+    - Altera Artigo 7.º — Mandatários
+    - Altera Artigo 8.º — Deveres dos importadores
+    - Altera Artigo 9.º — Deveres dos distribuidores
+    - Altera Artigo 11.º — Identificação dos operadores económicos
+    - Altera Artigo 12.º — Presunção da conformidade
+    - Altera Artigo 13.º — Classificação dos equipamentos sob pressão
+    - Altera Artigo 14.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 15.º — Aprovação europeia de materiais
+    - Altera Artigo 16.º — Serviços de inspeção dos utilizadores
+    - Altera Artigo 17.º — Declaração UE de conformidade
+    - Altera Artigo 19.º — Regras e condições para a aposição da marcação CE
+    - Altera Artigo 21.º — Autoridades notificadoras
+    - Altera Artigo 22.º — Requisitos aplicáveis às autoridades notificadoras
+    - Altera Artigo 24.º — Requisitos aplicáveis aos organismos notificados e às entidades terceiras reconhecidas
+    - Altera Artigo 25.º — Requisitos aplicáveis aos serviços de inspeção dos utilizadores
+    - Altera Artigo 27.º — Filiais e subcontratados dos organismos de avaliação da conformidade
+    - Altera Artigo 28.º — Pedido de notificação
+    - Altera Artigo 29.º — Procedimento de notificação
+    - Altera Artigo 30.º — Números de identificação e listas dos organismos notificados
+    - Altera Artigo 32.º — Alterações à notificação
+    - Altera Artigo 33.º — Contestação da competência técnica dos organismos notificados, das entidades terceiras reconhecidas
+      e dos serviços de inspeção dos utilizadores
+    - Altera Artigo 34.º — Deveres funcionais dos organismos notificados, dos serviços de inspeção dos utilizadores e das
+      entidades terceiras reconhecidas
+    - Altera Artigo 36.º — Obrigação de informação dos organismos notificados, das entidades terceiras reconhecidas e dos
+      serviços de inspeção dos utilizadores
+    - Altera CAPÍTULO 5
+    - Altera Artigo 40.º — Procedimento aplicável aos equipamentos sob pressão e aos conjuntos que apresentam um risco a nível
+      nacional
+    - Altera Artigo 41.º — Procedimento de salvaguarda da União
+    - Altera Artigo 42.º — Equipamentos sob pressão ou conjuntos conformes que apresentam um risco
+    - Altera Artigo 43.º — Não conformidade formal
+    - Altera Artigo 44.º — Procedimento de comité
+    - Altera Artigo 45.º — Poderes delegados
+    - Altera Artigo 46.º — Exercício da delegação
+    - Altera Artigo 48.º — Disposições transitórias
+    - Altera Artigo 49.º — Transposição
 identifiers:
   celex: 32014L0068
   eli: http://data.europa.eu/eli/dir/2014/68/oj
@@ -51,7 +156,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1ddec7ca-0e96-11e4-a7d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/88ac7a11-5901-11f1-b3e2-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0068-20260530
-  retrieved_at: '2026-10-22T02:53:21Z'
+  retrieved_at: '2026-10-22T16:30:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T21:34:27.406+02:00'
 integrity:
@@ -60,9 +165,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:21Z'
-  notes: Texto consolidado 02014L0068-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:30:47Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2014-68.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -235,33 +340,19 @@ relationships:
   source: null
 article_structure:
   article_count: 57
-  section_count: 58
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 59
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:21Z'
+  checked_at: '2026-10-22T16:30:47Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/68/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 02014L0068 — PT — 30.05.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0068R%2804%29) — [Rectificação, JO L 157, 23.6.2015, p. 112 (2014/68/UE)](http://publications.europa.eu/resource/celex/32014L0068R%2804%29)
-
-## DIRETIVA 2014/68/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

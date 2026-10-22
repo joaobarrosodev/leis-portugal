@@ -1,0 +1,720 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1304:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1304-20180802",
+ "dre_path": null,
+ "source_lastmod": "2018-08-02",
+ "versions": [
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "32013R1304",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a41a61c1f481c92b",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a03cfb731fc8a335",
+    "594021783213ca0f",
+    "4cba0c7c3dba66f3",
+    "187f3fa763fe9d71",
+    "0a98152f9cd4de2d",
+    "f0f8c960bfdbce9b",
+    "6c3a7ddde6d556f0",
+    "8db00263c6041c44",
+    "176a6f3e138f2b35",
+    "4345cbc683718f31",
+    "a7e196ffd41a3f9a",
+    "f5850ee808c87d24",
+    "b0748ea51747cce8",
+    "dabfd55bdf62585f",
+    "1e7a0903d2eed348",
+    "e0ae21be13803299",
+    "7e050f948eb41ec6",
+    "a693fad97bb8b12f",
+    "b1bb3de51fe6941b",
+    "1ecfc79da3f1ac7f",
+    "9edd7f0d5bdfa6bb",
+    "17b6824777d8ac77",
+    "b000af56992544bf",
+    "0a7ca1ce266b41e2",
+    "d11dcf199e414198",
+    "ff9430477768747c",
+    "fc083832e0aedf20",
+    "a2ef8efe6f739d0d",
+    "540e25d25655eb27",
+    "40ed6b62e188ac6f",
+    "287eaa92ef66a8ae",
+    "22231aea8dcd6356",
+    "f21c7de23bf64cb5",
+    "7782edf30dc5ebc5",
+    "a319123b7fd400cf",
+    "36112fb901c41873",
+    "0e57ec6523bff9a0",
+    "2066064131f3c89b"
+   ]
+  },
+  {
+   "date": "2015-05-22",
+   "future": false,
+   "celex": "02013R1304-20150522",
+   "acts": [
+    {
+     "id": "eu:celex:32015R0779:por",
+     "title": "REGULAMENTO (UE) 2015/779 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015",
+     "published": null,
+     "celex": "32015R0779"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Âmbito do apoio",
+    "Altera Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+    "Altera Artigo 13.º — Elegibilidade das despesas",
+    "Altera Artigo 29.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 22.º-A — Pagamento de um montante suplementar do pré-financiamento inicial a programas operacionais apoiados pela IEJ",
+    "Adita ANEXO I",
+    "Adita Indicadores de realização e de resultado comuns para os investimentos do FSE",
+    "Adita 1) Indicadores comuns de realização relativos aos participantes",
+    "Adita ANEXO II",
+    "Adita Indicadores de resultado para a IEJ",
+    "Adita 1) Indicadores comuns de resultado imediatos para os participantes",
+    "Adita 2) Indicadores comuns de resultado a longo prazo para os participantes",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "72abce9e46dac5a7",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a03cfb731fc8a335",
+    "594021783213ca0f",
+    "bf900e8b7215794d",
+    "187f3fa763fe9d71",
+    "0a98152f9cd4de2d",
+    "f0f8c960bfdbce9b",
+    "6c3a7ddde6d556f0",
+    "8db00263c6041c44",
+    "176a6f3e138f2b35",
+    "4345cbc683718f31",
+    "a7e196ffd41a3f9a",
+    "f5850ee808c87d24",
+    "b0748ea51747cce8",
+    "3d5c77ba94e2f22c",
+    "1e7a0903d2eed348",
+    "e0ae21be13803299",
+    "ccf3c634b557c724",
+    "a693fad97bb8b12f",
+    "b1bb3de51fe6941b",
+    "1ecfc79da3f1ac7f",
+    "9edd7f0d5bdfa6bb",
+    "df2a30eed6f580e6",
+    "b000af56992544bf",
+    "0a7ca1ce266b41e2",
+    "d11dcf199e414198",
+    "ff9430477768747c",
+    "fc083832e0aedf20",
+    "a2ef8efe6f739d0d",
+    "3ba6c36c1eb81887",
+    "540e25d25655eb27",
+    "40ed6b62e188ac6f",
+    "287eaa92ef66a8ae",
+    "22231aea8dcd6356",
+    "f21c7de23bf64cb5",
+    "7782edf30dc5ebc5",
+    "a319123b7fd400cf",
+    "36112fb901c41873",
+    "d1d5ca2380f8bbaa",
+    "d664376e2a8dcecd",
+    "28c308e7a13d0af0",
+    "dc9116b8b4553ad9",
+    "852174729551523b",
+    "5b103d813f4c570e",
+    "922583d12b19b145",
+    "f4d2d6809936c764",
+    "33e6ac9468d0b198",
+    "6f4e05a1ce5270de"
+   ]
+  },
+  {
+   "date": "2018-08-02",
+   "future": false,
+   "celex": "02013R1304-20180802",
+   "acts": [
+    {
+     "id": "eu:celex:32018R1046:por",
+     "title": "REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018",
+     "published": null,
+     "celex": "32018R1046"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+    "Altera Artigo 13.º — Elegibilidade das despesas",
+    "Altera Artigo 14.º — Opções simplificadas em matéria de custos",
+    "Altera Indicadores de realização e de resultado comuns para os investimentos do FSE",
+    "Altera 1) Indicadores comuns de resultado imediatos para os participantes",
+    "Altera Notas",
+    "Suprime 1) Indicadores comuns de realização relativos aos participantes"
+   ],
+   "fragments": [
+    "72abce9e46dac5a7",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a03cfb731fc8a335",
+    "594021783213ca0f",
+    "bf900e8b7215794d",
+    "187f3fa763fe9d71",
+    "0a98152f9cd4de2d",
+    "f0f8c960bfdbce9b",
+    "6c3a7ddde6d556f0",
+    "8db00263c6041c44",
+    "176a6f3e138f2b35",
+    "4345cbc683718f31",
+    "a7e196ffd41a3f9a",
+    "f5850ee808c87d24",
+    "b0748ea51747cce8",
+    "11da5d4123c7582e",
+    "1e7a0903d2eed348",
+    "e0ae21be13803299",
+    "17047798070a6774",
+    "ba71f294087a175f",
+    "b1bb3de51fe6941b",
+    "1ecfc79da3f1ac7f",
+    "9edd7f0d5bdfa6bb",
+    "df2a30eed6f580e6",
+    "b000af56992544bf",
+    "0a7ca1ce266b41e2",
+    "d11dcf199e414198",
+    "ff9430477768747c",
+    "fc083832e0aedf20",
+    "a2ef8efe6f739d0d",
+    "3ba6c36c1eb81887",
+    "540e25d25655eb27",
+    "40ed6b62e188ac6f",
+    "287eaa92ef66a8ae",
+    "22231aea8dcd6356",
+    "f21c7de23bf64cb5",
+    "7782edf30dc5ebc5",
+    "a319123b7fd400cf",
+    "36112fb901c41873",
+    "d1d5ca2380f8bbaa",
+    "d664376e2a8dcecd",
+    "217e465385ef94ad",
+    "852174729551523b",
+    "5b103d813f4c570e",
+    "bd0976e021fd68f1",
+    "f4d2d6809936c764",
+    "33e6ac9468d0b198",
+    "7787c46e522988bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "a41a61c1f481c92b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de dezembro de 2013\n\nrelativo ao Fundo Social Europeu e que revoga o Regulamento (CE) n.º 1081/2006 do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 164.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr1-L_2013347PT.01047001-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr2-L_2013347PT.01047001-E0002),\n\nDeliberando de acordo com o processo legislativo ordinário,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr3-L_2013347PT.01047001-E0003) estabelece o quadro de ação do Fundo Social Europeu (FSE), do Fundo Europeu de Desenvolvimento Regional (FEDER), do Fundo de Coesão, do Fundo Europeu Agrícola de Desenvolvimento Rural e do Fundo Europeu dos Assuntos Marítimos e das Pescas e fixa, nomeadamente, objetivos temáticos, princípios e regras de programação, acompanhamento e avaliação, gestão e controlo. Por conseguinte, é necessário definir a missão e o âmbito de aplicação do FSE, bem como as respetivas prioridades de investimento no âmbito dos objetivos temáticos, e estabelecer disposições específicas atinentes ao tipo de atividades que podem ser financiadas pelo FSE.\n\n(2) O FSE deverá melhorar as oportunidades de emprego, reforçar a inclusão social, combater a pobreza, promover a educação, as competências e a aprendizagem ao longo da vida e elaborar políticas de integração ativas, abrangentes e sustentáveis no âmbito das missões que lhe são conferidas pelo artigo 162.º do Tratado sobre o Funcionamento da União Europeia (TFUE), contribuindo assim para a coesão económica, social e territorial nos termos do artigo 174.º do TFUE. Nos termos do artigo 9.º do TFUE, o FSE deverá ter em conta as exigências relativas à promoção de um nível elevado de emprego, à garantia de uma proteção social adequada, à luta contra a exclusão social e a um nível elevado de educação, de formação e de proteção da saúde humana.\n\n(3) O Conselho Europeu de 17 de junho de 2010 exortou a que todas as políticas comuns, incluindo a política de coesão, apoiassem a Estratégia Europa 2020 para um crescimento inteligente, sustentável e inclusivo (\"Estratégia Europa 2020\"). A fim de garantir a plena coerência do FSE com os objetivos dessa estratégia, nomeadamente no plano do emprego, da educação, da formação e da luta contra a exclusão social, a pobreza e a discriminação, o FSE deverá apoiar os Estados-Membros, tendo em conta as orientações integradas relevantes e as recomendações específicas por país relevantes, adotadas nos termos do artigo 121.º, n.º 2, e do artigo 148.º, n.º 4 do TFUE, e se adequado, a nível nacional, os programas nacionais de reforma baseados nas estratégias nacionais para o emprego, os relatórios sociais nacionais, as estratégias nacionais para a integração dos ciganos e as estratégias nacionais para as pessoas com deficiência. O FSE deverá contribuir também para os aspetos relevantes da execução das iniciativas emblemáticas, mormente a \"Agenda para novas competências e empregos\", a \"Juventude em Movimento\", e a \"Plataforma europeia contra a pobreza e a exclusão social. O FSE deverá apoiar ainda as atividades relevantes realizadas no âmbito das iniciativas relativas à \"Agenda digital e à\"União da inovação.\n\n(4) A União confronta-se com desafios estruturais que se prendem com a globalização económica, a evolução tecnológica, o crescente envelhecimento das forças de trabalho e a escassez de competências e de mão-de-obra em alguns setores e regiões. A situação agravou-se com a recente crise económica e financeira, que veio aumentar os níveis de desemprego, atingindo sobretudo os jovens e outras pessoas desfavorecidas, como os emigrantes e as minorias.\n\n(5) O FSE deverá ter por objetivo promover o emprego, melhorar o acesso ao mercado de trabalho, prestando especial atenção aos trabalhadores que se encontram mais distantes do mesmo, e apoiar a mobilidade voluntária dos trabalhadores. O FSE deverá apoiar também o envelhecimento ativo e saudável, inclusive mediante formas inovadoras de organização do trabalho, promovendo a saúde e a segurança no trabalho e aumentando a empregabilidade. Ao dinamizar o funcionamento dos mercados de trabalho através da promoção da mobilidade transnacional dos trabalhadores, o FSE deverá apoiar, nomeadamente, os serviços europeus de emprego (atividades da Rede Europeia para o Emprego e a Mobilidade dos Trabalhadores) em matéria de recrutamento e serviços conexos de informação, consultoria e orientação a nível nacional e transfronteiriço. As atividades financiadas pelo FSE deverão respeitar o artigo 5.º, n.º 2, da Carta dos Direitos Fundamentais da União Europeia, que dispõe que ninguém pode ser constrangido a realizar trabalho forçado ou obrigatório.\n\n(6) O FSE deverá igualmente promover a inclusão social e prevenir e combater a pobreza para quebrar o ciclo de desvantagem entre gerações, o que implica mobilizar um leque de políticas visando as pessoas mais desfavorecidas independentemente da sua idade, incluindo as crianças, os trabalhadores pobres e as mulheres idosas. Deverá prestar-se atenção à participação das pessoas que procuram asilo e dos refugiados. O FSE pode ser utilizado para aumentar o acesso a serviços de interesse geral acessíveis, sustentáveis e de elevada qualidade, em especial nos domínios dos cuidados de saúde, dos serviços de emprego e formação, dos serviços para os sem-abrigo, dos serviços de assistência fora da escola, de assistência às crianças e de cuidados prolongados. Os serviços podem ser públicos, privados e/ou de base comunitária, e efetuados por diferentes tipos de prestadores, a saber, administrações públicas, empresas privadas, empresas sociais e organizações não governamentais.\n\n(7) O FSE deverá comprometer-se a combater o abandono escolar precoce, a promover a igualdade no acesso a uma educação de qualidade, a investir no ensino e na formação profissionais, a melhorar a importância do mercado de trabalho nos sistemas de ensino e de formação profissional, e a reforçar a aprendizagem ao longo da vida, incluindo vias de ensino formais, não formais e informais.\n\n(8) Para além destas prioridades, nas regiões e nos Estados-Membros menos desenvolvidos, deverá ser melhorada a eficiência das administrações públicas a nível nacional e regional e a sua capacidade para agir de forma participativa, a fim de fomentar o crescimento económico e as oportunidades de emprego. Deverá ser reforçada a capacidade institucional dos intervenientes, incluindo as organizações não governamentais, que operam nos domínios do emprego, da educação, da formação e das políticas sociais, nomeadamente no domínio da luta contra a discriminação.\n\n(9) O apoio concedido no âmbito da prioridade de investimento relativa ao \"desenvolvimento local de base comunitária\" pode contribuir para todos os objetivos temáticos fixados no presente regulamento. As estratégias de desenvolvimento local de base comunitária apoiadas pelo FSE deverão ser inclusivas no que se refere às pessoas desfavorecidas presentes no território, tanto em termos de governação dos grupos de ação local como em termos do conteúdo da estratégia.\n\n(10) Simultaneamente, é primordial apoiar o desenvolvimento e a competitividade das micro, das pequenas e das médias empresas da União e assegurar que, através da aquisição das competências adequadas e das oportunidades de aprendizagem ao longo da vida, as pessoas possam adaptar-se aos novos desafios, como a transição para uma economia baseada no conhecimento, a agenda digital e a transição para uma economia menos dependente do carbono e mais eficiente no plano energético. O FSE deverá contribuir para dar resposta a estes desafios através da prossecução dos seus principais objetivos temáticos. Neste contexto, o FSE deverá apoiar a transição da mão-de-obra entre a educação e o emprego, para competências e empregos mais ecológicos, e deverá fazer face à escassez de competências, nomeadamente nos setores da eficiência energética, das energias renováveis e dos transportes sustentáveis. O FSE deverá contribuir igualmente para as competências culturais e criativas. Os setores socioculturais, criativos e culturais são importantes na medida em que abordam, indiretamente, os objetivos do FSE; por conseguinte, o seu potencial deverá ser mais bem integrado nos projetos e na programação do FSE.\n\n(11) Tendo em conta a necessidade persistente de envidar esforços para combater o desemprego juvenil na União, deverá ser criada uma Iniciativa para o Emprego dos Jovens (IEJ). A IEJ deverá apoiar os jovens que, nessas regiões, não trabalham, não estudam nem seguem qualquer formação (NEET) e os que estão desempregados ou inativos, reforçando e acelerando assim a realização de atividades financeiras pelo FSE. À IEJ deverão ser atribuídos fundos adicionais específicos, que deverão ser complementados por investimentos do FSE nas regiões mais afetadas. Ao visar pessoas e não estruturas, a IEJ deverá procurar complementar outras intervenções do FSE e outras ações nacionais que tenham como destinatários os jovens NEET, incluindo através da concretização de uma garantia para a juventude, nos termos da Recomendação do Conselho de 22 de abril de 2013 que estabelece uma Garantia para a Juventude [([^4])](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr4-L_2013347PT.01047001-E0004), que dispõe que os jovens deverão beneficiar de uma oferta de boa qualidade de emprego, formação contínua, aprendizagem ou estágio no período de quatro meses a seguir a ficarem desempregados ou a abandonarem a educação formal. A IEJ pode também apoiar ações destinadas a combater o abandono escolar precoce. O acesso às prestações sociais por parte do jovem e sua família ou dependentes não deverá depender da participação do jovem na IEJ.\n\n(12) A IEJ deverá ser plenamente integrada na programação do FSE, mas, se necessário, deverão ser consideradas disposições específicas relacionadas com a IEJ, a fim de atingir os seus objetivos. É necessário simplificar e facilitar a aplicação da IEJ, nomeadamente no que respeita às disposições de gestão financeira e de concentração temática. A fim de garantir que os resultado da IEJ sejam claramente demonstrados e comunicados, deverá prever-se acompanhamento e avaliação específicos, bem como disposições em matéria de informação e publicidade. As organizações de juventude deverão participar nos debates dos comités de acompanhamento sobre a preparação e a execução, incluindo a avaliação, da IEJ.\n\n(13) O FSE deverá contribuir para a Estratégia Europa 2020, garantindo uma maior concentração do apoio nas prioridades da União. É determinada uma percentagem mínima do financiamento da política de coesão para o FSE, nos termos do artigo 92.º, n.º 4, do Regulamento (UE) n.º 1303/2013. O FSE deverá, em especial, reforçar o seu apoio à luta contra a pobreza e a exclusão social, reservando uma verba mínima de 20 % do total dos recursos do FSE de cada Estado-Membro especificamente para este fim. A escolha e o número de prioridades de investimento selecionadas para beneficiar do apoio do Fundo deverão igualmente ser limitados, em função do nível de desenvolvimento das regiões apoiadas.\n\n(14) Para permitir um acompanhamento mais rigoroso e uma melhor avaliação dos resultados obtidos a nível da União das atividades apoiadas pelo FSE, é conveniente definir um conjunto comum de indicadores de realização e de resultado no presente regulamento. Esses indicadores deverão corresponder à prioridade de investimento e ao tipo de ação apoiados nos termos do presente regulamento, e ser conformes com as disposições aplicáveis do Regulamento (UE) n.º 1303/2013. Esses indicadores deverão ser complementados, se necessário, por indicadores de resultado e/ou de realização específicos dos programas.\n\n(15) Os Estados-Membros são incentivadas a prestar informações sobre o efeito dos investimentos do FSE na igualdade de oportunidades, na igualdade de acesso e na integração dos grupos marginalizados no que respeita a todos os programas operacionais.\n\n(16) Tendo em conta os requisitos de proteção de dados associados à recolha e ao armazenamento de dados sensíveis sobre os participantes, os Estados-Membros e a Comissão deverão avaliar periodicamente a eficácia, a eficiência e o impacto do apoio do FSE na promoção da inclusão social e no combate à pobreza, em especial no que respeita às pessoas desfavorecidas, como os ciganos. Os Estados-Membros são incentivados a prestar informações sobre as iniciativas financiadas pelo FSE nos relatórios sociais nacionais anexos aos seus programas nacionais de reforma, nomeadamente no que respeita às comunidades marginalizadas, como os ciganos e os migrantes.\n\n(17) A execução eficiente e eficaz das ações apoiadas pelo FSE depende da boa governação e baseia-se na parceria entre todos os agentes territoriais e socioeconómicos relevantes, tendo em conta os intervenientes a nível regional e local, em especial as organizações de cúpula representativas das autoridades locais e regionais, a sociedade civil organizada, os agentes económicos e em especial os parceiros sociais e as organizações não governamentais. É, por conseguinte, necessário que os Estados-Membros assegurem a participação dos parceiros sociais e das organizações não governamentais na governação estratégica do FSE, desde a definição de prioridades para os programas operacionais até à execução e avaliação dos resultados do FSE.\n\n(18) Os Estados-Membros e a Comissão deverão garantir que a execução das prioridades financiadas pelo FSE contribui para promover a igualdade entre homens e mulheres, nos termos do artigo 8.º do TFUE. As avaliações sublinharam a importância de ter em conta a perspetiva dos objetivos em matéria de igualdade de género em todas as componentes e em todas as fases de preparação, acompanhamento, execução e avaliação dos programas operacionais, de forma oportuna e coerente, e de garantir simultaneamente a realização de ações específicas destinadas a promover a igualdade de género, a independência económica das mulheres, a educação e valorização de competências e a reintegração das mulheres vítimas de violência no mercado de trabalho e na sociedade.\n\n(19) Nos termos do artigo 10.º do TFUE, a execução das prioridades financiadas pelo FSE deverá contribuir para combater a discriminação em razão do sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual, prestando especial atenção às pessoas que são alvo de formas múltiplas discriminações. A discriminação em razão do sexo deverá ser interpretada em sentido lato de modo a abranger outros aspetos relacionados com o género, de acordo com a jurisprudência do Tribunal de Justiça da União Europeia. A execução das prioridades financiadas pelo FSE também deverá contribuir para promover a igualdade de oportunidades. O FSE deverá apoiar o cumprimento da obrigação da União ao abrigo da Convenção das Nações Unidas sobre os direitos das pessoas com deficiência, no que respeita, designadamente, à educação, ao trabalho, ao emprego e à acessibilidade. O FSE deverá também favorecer a reorientação dos cuidados hospitalares para cuidados de proximidade. O FSE não deverá apoiar qualquer ação que contribua para a segregação ou a exclusão social.\n\n(20) O apoio à inovação social contribui para que as políticas respondam mais adequadamente à mudança social. O FSE deverá encorajar e apoiar as empresas sociais inovadoras e os respetivos empresários, bem como os projetos inovadores realizados por organizações não governamentais e outros agentes da economia social. Para melhorar a eficiência das políticas é fundamental testar e avaliar soluções inovadoras antes de as aplicar em maior escala, pelo que se justifica um apoio específico por parte do FSE. As soluções inovadoras podem incluir, desde que se revelem eficazes, o desenvolvimento de uma métrica social, tal como por exemplo, a rotulagem social.\n\n(21) A cooperação transnacional tem um importante valor acrescentado, pelo que deverá ser apoiada por todos os Estados-Membros, com exceção de casos devidamente justificados, tendo em conta o princípio da proporcionalidade. É também importante reforçar o papel da Comissão enquanto facilitadora dos intercâmbios de experiências e coordenadora da execução das iniciativas relevantes.\n\n(22) A fim de promover uma abordagem integrada e holística em termos de emprego e inclusão social, o FSE deverá apoiar parcerias intersetoriais e com base territorial.\n\n(23) A mobilização dos agentes regionais e locais deverá contribuir para realizar a Estratégia Europa 2020 e cumprir as suas metas principais. Os pactos territoriais, as iniciativas locais para o emprego e a inclusão social, as estratégias de desenvolvimento local de base comunitária sustentáveis e inclusivas em zonas urbanas e rurais e as estratégias de desenvolvimento urbano sustentável podem ser utilizadas e apoiadas para implicar as autoridades regionais e locais, as cidades, os parceiros sociais e as organizações não governamentais mais ativamente na elaboração e na execução dos programas operacionais.\n\n(24) O Regulamento (UE) n.º 1303/2013 dispõe que as regras de elegibilidade das despesas devem ser determinadas a nível nacional, com algumas exceções em relação às quais é conveniente estabelecer disposições específicas no que respeita ao FSE.\n\n(25) A fim de simplificar a utilização do FSE, de reduzir o risco de erros e de ter em conta a especificidade das operações apoiadas pelo Fundo, é conveniente estabelecer disposições que complementem o Regulamento (UE) n.º 1303/2013 no que diz respeito à elegibilidade das despesas.\n\n(26) A utilização de tabelas normalizadas de custos unitários, de montantes fixos e de financiamento a taxa fixa deverá conduzir a uma simplificação para o beneficiário e reduzir os encargos administrativos para todos os parceiros dos projetos do FSE.\n\n(27) É importante assegurar uma boa gestão financeira de cada programa operacional e sua aplicação da forma mais eficaz e simples possível. Os Estados-Membros deverão abster-se de acrescentar regras que dificultem a utilização dos fundos pelo beneficiário.\n\n(28) Os Estados-Membros e as regiões deverão ser incentivados a recorrer a instrumentos financeiros a fim de maximizar os efeitos do FSE a fim de apoiar, por exemplo, os estudantes, a criação de emprego, a mobilidade dos trabalhadores, a inclusão social e o empreendedorismo social.\n\n(29) O FSE deverá complementar outros programas da União e deverão ser criadas sinergias estreitas entre o FSE e outros instrumentos financeiros da União.\n\n(30) O investimento no capital humano é a principal alavanca da União para assegurar a sua competitividade a nível internacional e o relançamento sustentável da sua economia. Nenhum tipo de investimento consegue produzir reformas estruturais se não for acompanhado por uma estratégia de desenvolvimento do capital humano coerente e orientada para o crescimento. É, pois, necessário assegurar que, no período de programação de 2014-2020, os recursos destinados a melhorar as competências e a aumentar os níveis de emprego permitam a adoção de medidas de envergadura adequada.\n\n(31) O poder de adotar atos nos termos do artigo 290.º do TFUE deverá ser delegado na Comissão no que diz respeito ao estabelecimento de tabelas normalizadas de custos unitários e montantes fixos, e respetivos montantes máximos, de acordo com os diferentes tipos de operações. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive a nível dos peritos. Ao preparar e redigir atos delegados, a Comissão deverá assegurar a transmissão simultânea, atempada e adequada dos documentos relevantes ao Parlamento Europeu e ao Conselho.\n\n(32) A Comissão deverá ser assistida na administração do FSE pelo comité previsto no artigo 163.º do TFUE.\n\n(33) Atendendo a que o presente regulamento substitui o Regulamento (CE) n.º 1081/2006 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr5-L_2013347PT.01047001-E0005), esse regulamento deverá ser revogado. Todavia, o presente regulamento não deverá afetar a continuação nem a alteração das intervenções aprovadas pela Comissão com base no Regulamento (CE) n.º 1081/2006 ou noutra legislação aplicável a essas intervenções em 31 de dezembro de 2013. O referido regulamento ou outra legislação aplicável deverão, por conseguinte, continuar a aplicar-se após 31 de dezembro de 2013 a essas intervenções ou às operações em causa até à respetiva conclusão. Os pedidos de intervenção apresentados ou aprovados ao abrigo do Regulamento (CE) n.º 1081/2006 deverão permanecer válidos,\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "a03cfb731fc8a335": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as missões do Fundo Social Europeu (FSE), incluindo a Iniciativa para o Emprego dos Jovens (IEJ), o âmbito do seu apoio, disposições específicas e os tipos de despesas elegíveis para assistência."
+  },
+  "594021783213ca0f": {
+   "fragment_id": "Artigo 2.º — Missões",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Missões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missões\n\n1. O FSE promove níveis elevados de emprego e de qualidade do emprego, melhora o acesso ao mercado de trabalho, apoia a mobilidade geográfica e profissional dos trabalhadores e facilita a sua adaptação à mudança industrial e às alterações do sistema de produção necessárias para um desenvolvimento sustentável, incentiva um nível elevado de educação e de formação para todos e apoia a transição entre o ensino e o emprego para os jovens, combate a pobreza, fortalece a inclusão social, incentiva a igualdade de género, a não discriminação e a igualdade de oportunidades, contribuindo assim para as prioridades da União no tocante ao reforço da coesão económica, social e territorial.\n\n2. O FSE desempenha as missões previstas no n.º 1 apoiando os Estados-Membros na realização das prioridades e dos grandes objetivos da Estratégia da União para um crescimento inteligente, sustentável e inclusivo (\"Estratégia Europa 2020\") e permitindo que os Estados-Membros deem resposta aos desafios específicos com que são confrontados no que diz respeito à concretização dos objetivos da Estratégia Europa 2020. O FSE apoia a conceção e a execução das políticas e das medidas relacionadas com as suas missões, tendo em conta as orientações integradas relevantes e as recomendações específicas por país relevantes, adotadas nos termos do artigo 121.º, n.º 2, e do artigo 148.º, n.º 4, do TFUE, e, se adequado, a nível nacional, os programas nacionais de reforma e outras estratégias e relatórios nacionais relevantes.\n\n3. O FSE destina-se às pessoas, incluindo as pessoas desfavorecidas, como os desempregados de longa duração, as pessoas com deficiência, os migrantes, as minorias étnicas, as comunidades marginalizadas e as pessoas de todas as faixas etárias em situação de pobreza e exclusão social. O FSE proporciona igualmente apoio aos trabalhadores e às empresas, incluindo os agentes da economia social e os empresários, e aos sistemas e estruturas, a fim de facilitar a sua adaptação aos novos desafios, nomeadamente reduzindo as crescentes inadequações de competências e promovendo a boa governação, o progresso social e a aplicação das reformas, em especial nos domínios do emprego, da educação, da formação e das políticas sociais."
+  },
+  "4cba0c7c3dba66f3": {
+   "fragment_id": "Artigo 3.º — Âmbito do apoio",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio\n\n1. No âmbito dos objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, pontos 8, 9, 10 e 11, do Regulamento (UE) n.º 1303/2013, que correspondem às alíneas a), b), c) e d) do presente número, e em conformidade com as suas missões, o FSE apoia as seguintes prioridades de investimento:\n\na) No que se refere ao objetivo temático \"Promover a sustentabilidade e a qualidade do emprego e apoiar a mobilidade dos trabalhadores\": i) acesso ao emprego para os candidatos a emprego e os inativos, incluindo os desempregados de longa duração e as pessoas afastadas do mercado de trabalho, e através de iniciativas locais de emprego e apoio à mobilidade dos trabalhadores; ii) integração sustentável dos jovens no mercado de trabalho, em especial os que não trabalham, não estudam, nem se encontram em formação, incluindo os jovens em risco de exclusão social e os jovens de comunidades marginalizadas, inclusive através da execução da Garantia para a Juventude; iii) criação de emprego por conta própria, empreendedorismo e criação de empresas, incluindo micro, pequenas e médias empresas inovadoras; iv) igualdade entre homens e mulheres em todos os domínios, nomeadamente nos domínios do acesso ao emprego, da progressão na carreira, da conciliação da vida profissional e privada e da promoção da igualdade de remuneração para trabalho igual; v) adaptação dos trabalhadores, das empresas e dos empresários à mudança; vi) envelhecimento ativo e saudável; vii) modernização do mercado de trabalho, nomeadamente através da criação de serviços de emprego públicos e privados e da melhoria da adequação às necessidades do mercado de trabalho, incluindo medidas destinadas a aumentar a mobilidade transnacional dos trabalhadores, inclusive através de regimes de mobilidade e melhor cooperação entre as instituições e as partes relevantes;\n\ni) acesso ao emprego para os candidatos a emprego e os inativos, incluindo os desempregados de longa duração e as pessoas afastadas do mercado de trabalho, e através de iniciativas locais de emprego e apoio à mobilidade dos trabalhadores;\n\nii) integração sustentável dos jovens no mercado de trabalho, em especial os que não trabalham, não estudam, nem se encontram em formação, incluindo os jovens em risco de exclusão social e os jovens de comunidades marginalizadas, inclusive através da execução da Garantia para a Juventude;\n\niii) criação de emprego por conta própria, empreendedorismo e criação de empresas, incluindo micro, pequenas e médias empresas inovadoras;\n\niv) igualdade entre homens e mulheres em todos os domínios, nomeadamente nos domínios do acesso ao emprego, da progressão na carreira, da conciliação da vida profissional e privada e da promoção da igualdade de remuneração para trabalho igual;\n\nv) adaptação dos trabalhadores, das empresas e dos empresários à mudança;\n\nvi) envelhecimento ativo e saudável;\n\nvii) modernização do mercado de trabalho, nomeadamente através da criação de serviços de emprego públicos e privados e da melhoria da adequação às necessidades do mercado de trabalho, incluindo medidas destinadas a aumentar a mobilidade transnacional dos trabalhadores, inclusive através de regimes de mobilidade e melhor cooperação entre as instituições e as partes relevantes;\n\nb) No que se refere ao objetivo temático \"Promover a inclusão social e combater a pobreza e a discriminação\": i) inclusão ativa, incluindo com vista à promoção da igualdade de oportunidades e da participação ativa e a melhoria da empregabilidade; ii) integração socioeconómica de comunidades marginalizadas, tais como os ciganos; iii) luta contra todas as formas de discriminação e promoção da igualdade de oportunidades; iv) melhoria do acesso a serviços sustentáveis, de grande qualidade e a preços comportáveis, incluindo cuidados de saúde e serviços sociais de interesse geral; v) promoção do empreendedorismo social e da integração profissional nas empresas sociais e da economia social e solidária para facilitar o acesso ao emprego; vi) estratégias de desenvolvimento local de base comunitária;\n\ni) inclusão ativa, incluindo com vista à promoção da igualdade de oportunidades e da participação ativa e a melhoria da empregabilidade;\n\nii) integração socioeconómica de comunidades marginalizadas, tais como os ciganos;\n\niii) luta contra todas as formas de discriminação e promoção da igualdade de oportunidades;\n\niv) melhoria do acesso a serviços sustentáveis, de grande qualidade e a preços comportáveis, incluindo cuidados de saúde e serviços sociais de interesse geral;\n\nv) promoção do empreendedorismo social e da integração profissional nas empresas sociais e da economia social e solidária para facilitar o acesso ao emprego;\n\nvi) estratégias de desenvolvimento local de base comunitária;\n\nc) No que se refere ao objetivo temático \"Investir na educação, na formação e na formação profissional para a aquisição de competências e a aprendizagem ao longo da vida\": i) redução e prevenção do abandono escolar precoce e promoção da igualdade de acesso a um ensino infantil, primário e secundário de boa qualidade, incluindo percursos de aprendizagem formais, não formais e informais para a reintegração no ensino e na formação; ii) melhoria da qualidade e da eficiência do ensino superior e equivalente, e do acesso ao mesmo, a fim de aumentar os níveis de participação e de habilitações, particularmente para os grupos desfavorecidos; iii) melhoria da igualdade de acesso à aprendizagem ao longo da vida para todas as faixas etárias em contextos formais, não formais e informais, atualização do conhecimento, das aptidões e das competências dos trabalhadores, e promoção de percursos de aprendizagem flexíveis, inclusive através da orientação profissional e da validação das competências adquiridas; iv) melhoria da pertinência do ensino e da formação ministrados para o mercado de trabalho, facilitação a transição da educação para o trabalho e reforço dos sistemas de ensino e formação profissionais e da sua qualidade, inclusive através de mecanismos de antecipação de competências, adaptação dos currículos e criação e desenvolvimento de sistemas de ensino baseados no trabalho, nomeadamente sistemas de ensino dual e de aprendizagem;\n\ni) redução e prevenção do abandono escolar precoce e promoção da igualdade de acesso a um ensino infantil, primário e secundário de boa qualidade, incluindo percursos de aprendizagem formais, não formais e informais para a reintegração no ensino e na formação;\n\nii) melhoria da qualidade e da eficiência do ensino superior e equivalente, e do acesso ao mesmo, a fim de aumentar os níveis de participação e de habilitações, particularmente para os grupos desfavorecidos;\n\niii) melhoria da igualdade de acesso à aprendizagem ao longo da vida para todas as faixas etárias em contextos formais, não formais e informais, atualização do conhecimento, das aptidões e das competências dos trabalhadores, e promoção de percursos de aprendizagem flexíveis, inclusive através da orientação profissional e da validação das competências adquiridas;\n\niv) melhoria da pertinência do ensino e da formação ministrados para o mercado de trabalho, facilitação a transição da educação para o trabalho e reforço dos sistemas de ensino e formação profissionais e da sua qualidade, inclusive através de mecanismos de antecipação de competências, adaptação dos currículos e criação e desenvolvimento de sistemas de ensino baseados no trabalho, nomeadamente sistemas de ensino dual e de aprendizagem;\n\nd) No que se refere ao objetivo temático \"Reforçar a capacidade institucional das autoridades públicas e das partes interessadas e a eficiência da administração pública\": i) investimento nas capacidades institucionais e na eficiência das administrações e dos serviços públicos a nível nacional, regional e local, a fim de realizar reformas, legislar melhor e governar bem; Esta prioridade de investimento só é aplicável nos Estados Membros elegíveis para apoio do Fundo de Coesão ou nos Estados-Membros que tenham uma ou mais regiões de nível NUTS 2, referidas no artigo 90.º, n.º 2, alínea a), do Regulamento (UE) n.º 1303/2013; ii) criação de capacidades para todos os agentes que operam no domínio da educação, da aprendizagem ao longo da vida, da formação, do emprego e das políticas sociais, inclusive através de pactos setoriais e territoriais de preparação de reformas a nível nacional, regional e local.\n\ni) investimento nas capacidades institucionais e na eficiência das administrações e dos serviços públicos a nível nacional, regional e local, a fim de realizar reformas, legislar melhor e governar bem; Esta prioridade de investimento só é aplicável nos Estados Membros elegíveis para apoio do Fundo de Coesão ou nos Estados-Membros que tenham uma ou mais regiões de nível NUTS 2, referidas no artigo 90.º, n.º 2, alínea a), do Regulamento (UE) n.º 1303/2013;\n\nii) criação de capacidades para todos os agentes que operam no domínio da educação, da aprendizagem ao longo da vida, da formação, do emprego e das políticas sociais, inclusive através de pactos setoriais e territoriais de preparação de reformas a nível nacional, regional e local.\n\n2. Através das prioridades de investimento enunciadas no n.º 1, o FSE contribui também para os outros objetivos temáticos enumerados no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013, principalmente mediante:\n\na) O apoio à transição para uma economia de baixo teor de carbono, adaptada às alterações climáticas, baseada numa utilizarão eficiente dos recursos e ambientalmente sustentável, através da melhoria dos sistemas de ensino e de formação necessários para a adaptação das competências e das qualificações, para a melhoria das qualificações dos trabalhadores e para a criação de novos empregos nos setores relacionados com o ambiente e a energia;\n\nb) A melhoria do acesso às tecnologias da informação e da comunicação, bem como da sua utilização e qualidade, através do desenvolvimento da literacia digital e da aprendizagem em linha, e do investimento na ciberinclusão, nas cibercompetências e nas competências empresariais conexas;\n\nc) O reforço da investigação, do desenvolvimento tecnológico e da inovação, através do desenvolvimento de estudos de pós-graduação e de competências empresariais, da formação de investigadores e da criação de redes e de parcerias entre as instituições do ensino superior, os centros de tecnologia e investigação e as empresas;\n\nd) O reforço da competitividade das pequenas e médias empresas e da sua sustentabilidade a longo prazo, através da promoção da adaptabilidade das empresas, dos empresários e dos trabalhadores, e um maior investimento no capital humano, e apoio a organismos de ensino e formação profissional orientados para a prática."
+  },
+  "187f3fa763fe9d71": {
+   "fragment_id": "Artigo 4.º — Coerência e concentração temática",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Coerência e concentração temática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Coerência e concentração temática\n\n1. Os Estados-Membros asseguram que a estratégia e as ações definidas nos programas operacionais sejam coerentes e respondam aos desafios identificados nos seus programas nacionais de reformas, bem como, se adequado, nas suas outras estratégias nacionais que visam combater o desemprego, a pobreza e a exclusão social, e ainda nas recomendações relevantes do Conselho adotadas nos termos do artigo 148.º, n.º 4, do TFUE, a fim de contribuir para a realização dos principais objetivos da Estratégia Europa 2020 em matéria de emprego, educação e redução da pobreza.\n\n2. Pelo menos 20 % do total de recursos do FSE em cada Estado-Membro devem ser afetados ao objetivo temático \"Promover a inclusão social e combater a pobreza e a discriminação\" estabelecido no artigo 9.º, primeiro parágrafo, ponto 9, do Regulamento (UE) n.º 1303/2013.\n\n3. Os Estados-Membros perseguem o objetivo de concentração temática de acordo com as seguintes modalidades:\n\na) No caso das regiões mais desenvolvidas, os Estados-Membros concentram pelo menos 80 % da dotação do FSE para cada programa operacional, no máximo, em cinco das prioridades de investimento previstas no artigo 3.º, n.º 1;\n\nb) No caso das regiões em transição, os Estados-Membros concentram pelo menos 70 % da dotação do FSE para cada programa operacional, no máximo, em cinco das prioridades de investimento previstas no artigo 3.º, n.º 1;\n\nc) No caso das regiões menos desenvolvidas, os Estados-Membros concentram pelo menos 60 % da dotação do FSE para cada programa operacional, no máximo, em cinco das prioridades de investimento previstas no artigo 3.º, n.º 1.\n\n4. Os eixos prioritários referidos no artigo 11.º, n.º 1, são excluídos do cálculo das percentagens referidas nos n.^os^ 2 e 3 do presente artigo."
+  },
+  "0a98152f9cd4de2d": {
+   "fragment_id": "Artigo 5.º — Indicadores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Indicadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Indicadores\n\n1. Os indicadores de realização e de resultado comuns estabelecidos no Anexo I do presente regulamento e, se relevante, os indicadores específicos dos programas são utilizados nos termos do artigo 27.º, n.º 4, e do artigo 96.º, n.º 2, alínea b), subalíneas ii) e iv), do Regulamento (UE) n.º 1303/2013. Os indicadores de realização e de resultado comuns são comunicados em relação a todas as prioridades de investimento. Os indicadores de resultado estabelecidos no Anexo II do presente regulamento são comunicados nos termos do n.º 2, do presente artigo. Se aplicável, os dados são discriminados por género.\n\nOs indicadores de realização comuns e específicos dos programas são formulados *ab initio*. Caso a natureza das operações apoiadas assim o exija, são fixadas metas quantificadas e cumulativas para esses indicadores para 2023. Os indicadores de resultado são expressos em números absolutos.\n\nNo que se refere a tais indicadores de resultado comuns e específicos dos programas em relação aos quais foi fixada uma meta quantificada e cumulativa para 2023, os indicadores de referência são fixados utilizando os dados disponíveis mais recentes ou outras fontes de informação relevantes. Os indicadores de resultado específicos dos programas e as metas conexas podem ser expressos em termos quantitativos ou qualitativos.\n\n2. Para além do n.º 1, os indicadores estabelecidos no Anexo II do presente regulamento são utilizados para todas as operações apoiadas no âmbito da prioridade de investimento referida no artigo 3.º, n.º 1, alínea a), subalínea ii), para a execução da IEJ. Todos os indicadores estabelecidos no Anexo II do presente regulamento devem ser associados a uma meta quantificada e cumulativa para 2023 e a um indicador de referência.\n\n3. Juntamente com os relatórios anuais de execução, as autoridades de gestão comunicam, por via eletrónica, os dados estruturados para cada eixo prioritário, discriminados por prioridades de investimento. Os dados são apresentados para as categorias de intervenção referidas no artigo 96.º, n.º 2, alínea b), subalínea vi), do Regulamento (UE) n.º 1303/2013, e para os indicadores de realização e de resultado. Em derrogação do artigo 50.º, n.º 2, do Regulamento (UE) n.º 1303/2013, os dados transmitidos relativos aos indicadores de realização e de resultado referem-se a valores de operações parcial ou totalmente executadas."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "6c3a7ddde6d556f0": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS SOBRE A PROGRAMAÇÃO E A EXECUÇÃO",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS SOBRE A PROGRAMAÇÃO E A EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS SOBRE A PROGRAMAÇÃO E A EXECUÇÃO"
+  },
+  "8db00263c6041c44": {
+   "fragment_id": "Artigo 6.º — Participação dos parceiros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Participação dos parceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Participação dos parceiros\n\n1. A participação dos parceiros a que se refere o artigo 5.º do Regulamento (UE) n.º 1303/2013 na execução dos programas operacionais pode assumir a forma das subvenções globais definidas no artigo 123.º, n.º 7, do Regulamento (UE) n.º 1303/2013. Nesses casos, o programa operacional especifica a vertente do programa operacional abrangida pela a subvenção global, incluindo uma dotação financeira indicativa de cada eixo prioritário em seu favor.\n\n2. A fim de incentivar uma participação adequada dos parceiros sociais nas ações apoiadas pelo FSE, as autoridades de gestão de um programa operacional de uma região definida no artigo 90.º, n.º 2, alíneas a) ou b), do Regulamento (UE) n.º 1303/2013 ou de um Estado-Membro elegível para apoio do Fundo de Coesão, garantem a afetação, de acordo com as necessidades, de um volume adequado dos recursos do FSE para ações de criação de capacidades, sob a forma de formação, criação de redes e reforço do diálogo social, e para atividades conjuntas realizadas pelos parceiros sociais.\n\n3. A fim de incentivar uma participação adequada das organizações não governamentais nas ações apoiadas pelo FSE, bem como o acesso às mesmas, nomeadamente nas áreas da inclusão social, da igualdade de géneros e da igualdade de oportunidades, as autoridades de gestão de um programa operacional de uma região definida no artigo 90.º, n.º 2, alíneas a) ou b), do Regulamento (UE) n.º 1303/2013, ou de um Estado-Membro elegível para apoio do Fundo de Coesão, garantem a afetação de um volume adequado dos recursos do FSE para atividades de criação de capacidades destinadas a organizações não governamentais."
+  },
+  "176a6f3e138f2b35": {
+   "fragment_id": "Artigo 7.º — Promoção da igualdade entre homens e mulheres",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Promoção da igualdade entre homens e mulheres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Promoção da igualdade entre homens e mulheres\n\nOs Estados-Membros e a Comissão promovem a igualdade entre homens e mulheres, através da integração horizontal desta perspetiva, tal como referido no artigo 7.º do Regulamento (UE) n.º 1303/2013, na elaboração, na execução, no acompanhamento e na avaliação dos programas operacionais. Os Estados-Membros e a Comissão apoiam igualmente, através do FSE, ações específicas desenvolvidas no âmbito de qualquer das prioridades de investimento referidas no artigo 3.º, e nomeadamente no n.º 1, alínea a), subalínea iv), do presente regulamento com o objetivo de aumentar a participação sustentável e a progressão das mulheres no emprego, combatendo assim a feminização da pobreza, reduzir a segregação no mercado de trabalho, combater os estereótipos de género no mercado de trabalho, no ensino e na formação, e promover a conciliação da vida profissional e familiar para todos, bem como a partilha equitativa da responsabilidade assistencial entre homens e mulheres."
+  },
+  "4345cbc683718f31": {
+   "fragment_id": "Artigo 8.º — Promoção da igualdade de oportunidades e da não discriminação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Promoção da igualdade de oportunidades e da não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Promoção da igualdade de oportunidades e da não discriminação\n\nOs Estados-Membros e a Comissão promovem a igualdade de oportunidades para todos, sem discriminações baseadas no sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual, através da integração horizontal do princípio da não discriminação, tal como referido no artigo 7.º do Regulamento (UE) n.º 1303/2013. Os Estados-Membros e a Comissão apoiam igualmente, através do FSE, ações específicas desenvolvidas no âmbito de qualquer das prioridades de investimento referidas no artigo 3.º, e nomeadamente no n.º 1, alínea b), subalínea iii), do presente regulamento. Estas ações visam combater todas as formas de discriminação e melhorar a acessibilidade das pessoas com deficiência, a fim de melhorar a integração no emprego, no ensino e na formação, promovendo assim a inclusão social, de reduzir as desigualdades no plano das habilitações e da saúde, e de facilitar a transição entre cuidados hospitalares e cuidados de proximidade, nomeadamente em relação às pessoas alvo de formas múltiplas de discriminação."
+  },
+  "a7e196ffd41a3f9a": {
+   "fragment_id": "Artigo 9.º — Inovação social",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Inovação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inovação social\n\n1. O FSE promove a inovação social em todos os domínios abrangidos pelo seu âmbito de aplicação, tal como definido no artigo 3.º do presente regulamento, nomeadamente a fim de testar, avaliar e aplicar soluções inovadoras em maior escala, inclusive a nível local ou regional, a fim de dar resposta às necessidades sociais, em parceria com os parceiros relevantes e, em especial, com os parceiros sociais.\n\n2. Os Estados-Membros identificam, nos respetivos programas operacionais ou, ulteriormente, durante a sua execução, os domínios de inovação social que correspondem às suas necessidades específicas.\n\n3. A Comissão facilita a criação de capacidades com vista à inovação social, em particular através do apoio à aprendizagem mútua, à criação de redes e à divulgação e promoção de boas práticas e metodologias."
+  },
+  "f5850ee808c87d24": {
+   "fragment_id": "Artigo 10.º — Cooperação transnacional",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Cooperação transnacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cooperação transnacional\n\n1. Os Estados-Membros apoiam a cooperação transnacional a fim de promover a aprendizagem mútua, reforçando assim a eficácia das políticas apoiadas pelo FSE. A cooperação transnacional abrange parceiros de pelo menos dois Estados-Membros.\n\n2. Em derrogação do n.º 1, os Estados-Membros com um programa operacional único apoiado pelo FSE, ou com um programa operacional único plurifinanciado, podem, excecionalmente, optar por não apoiar as ações de cooperação transnacional, em casos devidamente justificados e tendo em conta o princípio da proporcionalidade.\n\n3. Os Estados-Membros, em parceria com os parceiros relevantes, podem selecionar temas para a cooperação transnacional com base numa lista de temas comuns proposta pela Comissão e aprovada pelo comité referido no artigo 25.º, ou selecionar outros temas correspondentes às suas necessidades específicas.\n\n4. A Comissão facilita a cooperação transnacional sobre os temas comuns da lista referida no n.º 3 e, se adequado, sobre outros temas selecionados pelos Estados-Membros, através da aprendizagem mútua e de ações coordenadas ou conjuntas. Em especial, a Comissão gere uma plataforma a nível da União para facilitar a criação de parcerias transnacionais, o intercâmbio de experiências, a criação de capacidades, o estabelecimento de redes e a capitalização e divulgação dos resultados pertinentes. Além disso, a Comissão elabora um quadro de execução coordenado, incluindo critérios de elegibilidade comuns, tipos de ações e respetivos calendários, bem como abordagens metodológicas comuns de acompanhamento e avaliação, a fim de facilitar a cooperação transnacional."
+  },
+  "b0748ea51747cce8": {
+   "fragment_id": "Artigo 11.º — Disposições específicas do Fundo para os programas operacionais",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Disposições específicas do Fundo para os programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições específicas do Fundo para os programas operacionais\n\n1. Em derrogação do artigo 96.º, n.º 1, do Regulamento (UE) n.º 1303/2013, os programas operacionais podem estabelecer eixos prioritários para a inovação social e a cooperação transnacional, tal como referido nos artigos 9.º e 10.º do presente regulamento.\n\n2. Em derrogação do artigo 120.º, n.º 3, do Regulamento (UE) n.º 1303/2013, a taxa máxima de cofinanciamento para um eixo prioritário é majorada em dez pontos percentuais, mas não pode exceder 100 % se a totalidade de um eixo prioritário for dedicada à inovação social ou à cooperação transnacional, ou a uma combinação de ambas.\n\n3. Para além do disposto no artigo 96.º, n.º 3, do Regulamento (UE) n.º 1303/2013, os programas operacionais definem igualmente a contribuição das ações previstas para apoio do FSE para:\n\na) Os objetivos temáticos enumerados no artigo 9.º, primeiro parágrafo, pontos 1 a 7, do Regulamento (UE) n.º 1303/2013 por eixo prioritário, conforme adequado;\n\nb) A inovação social e a cooperação transnacional, tal como referido nos artigos 9.º e 10.º do presente regulamento, caso não sejam abrangidas por um eixo prioritário específico."
+  },
+  "dabfd55bdf62585f": {
+   "fragment_id": "Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais\n\n1. O FSE pode apoiar estratégias de desenvolvimento local de base comunitária em zonas urbanas e rurais, tal como referido nos artigos 32.º, 33.º e 34.º do Regulamento (UE) n.º 1303/2013, pactos territoriais e iniciativas locais em prol do emprego, incluindo o emprego dos jovens, da educação e da inclusão social, bem como investimentos territoriais integrados, tal como referido no artigo 36.º do Regulamento (UE) n.º 1303/2013.\n\n2. Em complemento das intervenções do FEDER, tal como referido no artigo 7.º do Regulamento (UE) n.º 1301/2013 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr6-L_2013347PT.01047001-E0006), o FSE pode apoiar estratégias de desenvolvimento urbano sustentável que contemplem ações integradas destinadas a dar resposta aos desafios económicos, ambientais e sociais que afetam as zonas urbanas identificadas pelos Estados-Membros com base nos princípios estabelecidos nos seus respetivos acordos de parceria."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "e0ae21be13803299": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS SOBRE A GESTÃO FINANCEIRA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS SOBRE A GESTÃO FINANCEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS SOBRE A GESTÃO FINANCEIRA"
+  },
+  "7e050f948eb41ec6": {
+   "fragment_id": "Artigo 13.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elegibilidade das despesas\n\n1. O FSE apoia a despesas elegíveis que, conforme referido no o artigo 120.º, n.º 2, alínea b), do Regulamento (UE) n.º 1303/2013, podem incluir recursos financeiros para os quais contribuem coletivamente empregadores e trabalhadores.\n\n2. O FSE pode prestar apoio a despesas efetuadas com operações realizadas fora da zona abrangida pelo do programa, mas no âmbito da União, desde que estejam preenchidas cumulativamente as seguintes condições:\n\na) A operação beneficia a zona abrangida pelo programa;\n\nb) As autoridades responsáveis pelo programa operacional ao abrigo do qual essa operação é apoiada cumprem as obrigações de gestão, controlo e auditoria da operação ou celebram, para esse efeito, acordos com as autoridades no Estado-Membro em que a operação é executada, desde que as obrigações de gestão, controlo e auditoria da operação sejam cumpridas nesse Estado-Membro.\n\n3. São elegíveis para efeitos de subvenções do FSE, até 3 % do orçamento de um programa operacional do FSE ou da parte do FSE num programa operacional multifinanciado, as despesas efetuadas fora da União, desde que digam respeito aos objetivos temáticos previstos no artigo 3.º, n.º 1, alíneas a) ou c), e desde que o comité de acompanhamento competente tenha concordado com a operação ou os tipos de operação em causa.\n\n4. Não são elegíveis para efeitos de subvenções do FSE, para além das despesas referidas no artigo 69.º, n.º 3, do Regulamento (UE) n.º 1303/2013, as aquisições de infraestruturas, de terrenos e de bens imóveis.\n\n5. As contribuições em espécie, nomeadamente salários e indemnizações pagos por um terceiro em favor dos participantes numa operação, podem ser elegíveis para efeitos de subvenções do FSE desde que as contribuições em espécie sejam efetuadas de acordo com as regras nacionais, incluindo as regras de contabilidade, e não excedam os custos suportados pelo terceiro."
+  },
+  "a693fad97bb8b12f": {
+   "fragment_id": "Artigo 14.º — Opções simplificadas em matéria de custos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Opções simplificadas em matéria de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Opções simplificadas em matéria de custos\n\n1. Para além das opções referidas no artigo 67.º do Regulamento (UE) n.º 1303/2013, a Comissão pode reembolsar as despesas pagas pelos Estados-Membros em função de tabelas normalizadas de custos unitários e montantes fixos definidas pela Comissão. Os montantes assim calculados são considerados apoios públicos pagos aos beneficiários e despesas elegíveis para efeitos da aplicação do Regulamento (UE) n.º 1303/2013.\n\nPara efeitos do primeiro parágrafo, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 24.º, relativos ao tipo de operações abrangidas, às definições das tabelas normalizadas de custos unitários e montantes fixos, incluindo os respetivos montantes máximos, que podem ser ajustados segundo os métodos decididos de comum acordo, tendo devidamente em conta as experiências adquiridas no período de programação anterior.\n\nAs auditorias financeiras têm por único objetivo a verificação do cumprimento das condições de reembolso pela Comissão, com base em tabelas de custos unitários e montantes fixos.\n\nCaso se utilize financiamento em função de tabelas normalizadas de custos unitários e montantes fixos nos termos do primeiro parágrafo, os Estados-Membros podem aplicar as suas próprias práticas contabilísticas em apoio das operações. Para efeitos do presente regulamento e do Regulamento (UE) n.º 1303/2013, essas práticas contabilísticas e as verbas resultantes não estão sujeitas a auditoria pela autoridade auditora nem pela Comissão.\n\n2. Nos termos do artigo 67.º, n.º 1, alínea d), e n.º 5, alínea d), do Regulamento (UE) n.º 1303/2013, pode ser utilizada uma taxa fixa máxima de 40 % dos custos diretos de pessoal elegíveis para cobrir os restantes custos elegíveis de uma operação, sem que os Estados-Membros tenham de executar qualquer cálculo para determinar a taxa aplicável.\n\n3. Para além dos métodos estabelecidos no artigo 67.º, n.º 5, do Regulamento (UE) n.º 1303/2013, se o financiamento público para subvenções e para ajuda reembolsável não exceder 100 000 EUR, os montantes a que se refere o artigo 67.º, n.º 1, alíneas b), c) e d), do Regulamento (UE) n.º 1303/2013 podem ser estabelecidos caso a caso, com referência a um projeto de orçamento acordado ex ante pela autoridade de gestão.\n\n4. Sem prejuízo do artigo 67.º, n.º 4, do Regulamento (UE) n.º 1303/2013, as subvenções e a ajuda reembolsável cujo financiamento público não exceda 50 000 EUR correspondem a tabelas de custos unitários ou a montantes fixos, nos termos do n.º 1 do presente artigo ou do artigo 67.º do Regulamento (UE) n.º 1303/2013, ou a taxas fixas, nos termos do artigo 67.º do Regulamento (UE) n.º 1303/2013, com exceção das operações que beneficiem de apoio no âmbito de um regime de auxílios estatais. Em caso de financiamento a taxa fixa, as categorias de custos utilizadas para calcular a taxa podem ser reembolsadas nos termos do artigo 67.º, n.º 1, alínea a), do Regulamento (UE) n.º 1303/2013."
+  },
+  "b1bb3de51fe6941b": {
+   "fragment_id": "Artigo 15.º — Instrumentos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Instrumentos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrumentos financeiros\n\nAo abrigo do artigo 37.º do Regulamento (UE) n.º 1303/2013, o FSE pode apoiar ações e políticas abrangidas pelo seu âmbito de intervenção através de instrumentos financeiros como, por exemplo, microcréditos e fundos de garantia."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "9edd7f0d5bdfa6bb": {
+   "fragment_id": "Iniciativa para o Emprego dos Jovens",
+   "type": "divisao",
+   "heading": "Iniciativa para o Emprego dos Jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Iniciativa para o Emprego dos Jovens"
+  },
+  "17b6824777d8ac77": {
+   "fragment_id": "Artigo 16.º — Iniciativa para o Emprego dos Jovens",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Iniciativa para o Emprego dos Jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Iniciativa para o Emprego dos Jovens\n\nA IEJ apoia o combate ao desemprego dos jovens nas regiões elegíveis da União, através da prestação de apoio a ações abrangidas pelo artigo 3.º, n.º 1, alínea a), subalínea ii), do presente regulamento. A IEJ visa os jovens com idade inferior a 25 anos que não trabalham, não estudam, nem seguem qualquer formação e residem nas regiões elegíveis, bem como os que se encontram em situação de inatividade ou desemprego, designadamente os desempregados de longa duração, independentemente de estarem ou não registados como candidatos a emprego. Os Estados-Membros podem decidir alargar o grupo-alvo a jovens com idade inferior a 30 anos, numa base voluntária.\n\nPara efeitos da IEJ no período de 2014-2015, as “regiões elegíveis” são as regiões de nível NUTS 2 com uma taxa de desemprego dos jovens com idade entre os 15 e os 24 anos superior a 25 % em 2012 e, para os Estados-Membros em que a taxa de desemprego dos jovens tenha aumentado mais de 30 % em 2012, as regiões de nível NUTS 2 com uma taxa de desemprego dos jovens superior a 20 % em 2012.\n\nOs recursos para a IEJ podem ser revistos em alta para o período de 2016 a 2020 no âmbito do processo orçamental, nos termos do artigo 14.º do Regulamento (UE) n.º 1311/2013. Para determinar as regiões elegíveis para a IEJ no período de 2016-2020, a referência aos dados de 2012 no segundo parágrafo deve entender-se como sendo uma referência aos últimos dados anuais disponíveis. A repartição dos recursos adicionais por Estado-Membro é feita nos mesmo termos que a da dotação inicial, nos termos do Anexo VIII do Regulamento (UE) n.º 1303/2013.\n\nOs Estados-Membros podem decidir afetar, de acordo com a Comissão, um montante limitado, que não pode exceder 10 % dos fundos destinados à IEJ, para apoiar jovens residentes em sub-regiões com taxas de desemprego juvenil elevadas, situadas fora das regiões elegíveis de nível NUTS 2."
+  },
+  "b000af56992544bf": {
+   "fragment_id": "Artigo 17.º — Concentração temática",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Concentração temática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Concentração temática\n\nA dotação específica da IEJ não deve ser tida em consideração para efeitos do cálculo da concentração temática referida no artigo 4.º."
+  },
+  "0a7ca1ce266b41e2": {
+   "fragment_id": "Artigo 18.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Programação\n\nA IEJ é integrada na programação do FSE, nos termos do artigo 96.º do Regulamento (UE) n.º 1303/2013. Se for caso disso, os Estados-Membros definem as modalidades da programação da IEJ nos seus acordos de parceria e nos seus programas operacionais.\n\nAs modalidades da programação podem assumir uma ou mais das seguintes formas:\n\na) Um programa operacional específico;\n\nb) Um eixo prioritário específico no âmbito de um programa operacional;\n\nc) Uma parte de um ou mais eixos prioritários.\n\nOs artigos 9.º e 10.º do presente regulamento aplicam-se também à IEJ."
+  },
+  "d11dcf199e414198": {
+   "fragment_id": "Artigo 19.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acompanhamento e avaliação\n\n1. Para além das suas funções estabelecidas no artigo 110.º do Regulamento (UE) n.º 1303/2013, o comité de acompanhamento analisa a execução da IEJ no contexto do programa operacional e dos progressos na consecução dos seus objetivos pelo menos uma vez por ano.\n\n2. Os relatórios anuais de execução e o relatório final referidos no artigo 50.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 1303/2013 devem incluir informações adicionais sobre a execução da IEJ. A Comissão envia ao Parlamento Europeu um resumo desses relatórios, conforme referido no artigo 53.º, n.º 1, do Regulamento (UE) n.º 1303/2013.\n\nA Comissão assiste ao debate anual do Parlamento Europeu sobre esses relatórios.\n\n3. A partir de abril de 2015 e nos anos seguintes, ao mesmo tempo que apresenta os relatórios anuais de execução referidos no artigo 50.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 1303/2013, a autoridade de gestão deve comunicar, por via eletrónica, à Comissão dados estruturados referentes a cada eixo prioritário ou a cada parte do mesmo que apoie a IEJ. Os dados relativos aos indicadores transmitidos devem referir-se a valores para os indicadores definidos nos anexos I e II do presente regulamento e, se for caso disso, a indicadores específicos do programa. Os dados devem dizer respeito a operações realizadas em parte ou na íntegra.\n\n4. Os relatórios anuais de execução referidos no artigo 50.º, n.º 4, do Regulamento (UE) n.º 1303/2013 ou, se for caso disso, o relatório intercalar referido no artigo 111.º, n.º 4, do Regulamento (UE) n.º 1303/2013, e o relatório anual de execução apresentado até 31 de maio de 2016, devem apresentar os principais resultados das avaliações referidas no n.º 6 do presente artigo. Os relatórios devem igualmente apresentar e avaliar a qualidade das ofertas de emprego recebidas pelos participantes na IEJ, incluindo as pessoas desfavorecidas, pertencentes a comunidades marginalizadas e que abandonaram o ensino sem qualificações. Os relatórios devem igualmente apresentar e avaliar o seu progresso na formação contínua, na obtenção de empregos duradouros e dignos, ou na participação em estágios de aprendizagem ou de aperfeiçoamento.\n\n5. Os relatórios intercalares referidos no artigo 52.º do Regulamento (UE) n.º 1303/2013 devem incluir informações adicionais sobre a execução da IEJ, bem como uma avaliação dessa execução. A Comissão deve enviar um resumo desses relatórios ao Parlamento Europeu, conforme referido no artigo 53.º, n.º 2, desse regulamento, e deve assistir ao debate do Parlamento Europeu sobre esses relatórios.\n\n6. Pelo menos duas vezes durante o período de programação, deve proceder-se a uma avaliação da eficácia, da eficiência e do impacto do apoio conjunto do FSE e da dotação específica da IEJ, nomeadamente para a execução da Garantia para a Juventude.\n\nA primeira avaliação deve ser efetuada até 31 de dezembro de 2015, e a segunda avaliação até 31 de dezembro de 2018."
+  },
+  "ff9430477768747c": {
+   "fragment_id": "Artigo 20.º — Medidas de informação e comunicação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Medidas de informação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Medidas de informação e comunicação\n\n1. Os beneficiários devem garantir que os participantes numa operação sejam especificamente informados do apoio da IEJ prestado através do FSE e da dotação específica da IEJ.\n\n2. Os documentos relacionados com a execução de uma operação, disponibilizados ao público ou aos participantes, nomeadamente certificados de presença ou outros, devem incluir uma declaração do apoio prestado ao abrigo da IEJ."
+  },
+  "fc083832e0aedf20": {
+   "fragment_id": "Artigo 21.º — Assistência técnica",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Assistência técnica\n\nOs Estados-Membros podem ter em conta a dotação específica da IEJ para efeitos do cálculo do limite do montante total dos fundos atribuídos para assistência técnica a cada Estado-Membro."
+  },
+  "a2ef8efe6f739d0d": {
+   "fragment_id": "Artigo 22.º — Apoio financeiro",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Apoio financeiro\n\n1. A decisão da Comissão que adota um programa operacional deve fixar o montante máximo de apoio da dotação específica da IEJ e do correspondente apoio do FSE, como um montante global e por categorias de regiões, para cada eixo prioritário. O apoio correspondente do FSE deve igualar pelo menos o montante da dotação específica da IEJ para cada eixo prioritário.\n\n2. Com base nos montantes referidos no n.º 1, a decisão da Comissão referida no n.º 1 deve fixar também o rácio entre as categorias de regiões para o apoio do FSE para cada eixo prioritário.\n\n3. Caso a IEJ seja executada no âmbito de um eixo prioritário específico que abranja regiões elegíveis de mais de uma categoria, deve aplicar-se à dotação do FSE a taxa de cofinanciamento mais elevada.\n\nA dotação específica da IEJ não fica sujeita à obrigatoriedade de cofinanciamento nacional.\n\nA taxa de cofinanciamento global do eixo prioritário fixada na decisão da Comissão referida no n.º 1 deve ser calculada tendo em conta a taxa de cofinanciamento da dotação do FSE juntamente com a dotação específica da IEJ."
+  },
+  "540e25d25655eb27": {
+   "fragment_id": "Artigo 23.º — Gestão financeira",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Gestão financeira\n\nPara além do artigo 130.º do Regulamento (UE) n.º 1303/2013, quando a Comissão fizer os pagamentos intercalares e proceder ao pagamento do saldo final para cada eixo prioritário referente à IEJ, deve repartir os montantes provenientes do orçamento da União em partes iguais entre o FSE e a dotação específica da IEJ. Quando todos os montantes da dotação específica da IEJ tiverem sido pagos, a Comissão deve afetar ao FSE os restantes pagamentos do orçamento da União.\n\nA Comissão deve repartir os montantes provenientes do orçamento do FSE entre categorias de regiões, em função do rácio fixado no artigo 22.º, n.º 2."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "287eaa92ef66a8ae": {
+   "fragment_id": "DELEGAÇÃO DE PODERES E DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DELEGAÇÃO DE PODERES E DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DELEGAÇÃO DE PODERES E DISPOSIÇÕES FINAIS"
+  },
+  "22231aea8dcd6356": {
+   "fragment_id": "Artigo 24.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 14.º, n.º 1, é conferido à Comissão a partir de 21 de dezembro de 2013, e até 31 de dezembro de 2020.\n\n3. A delegação de poderes referida no artigo 14.º, n.º 1, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 14.º, n.º 1, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "f21c7de23bf64cb5": {
+   "fragment_id": "Artigo 25.º — Comité previsto no artigo 163.º do TFUE",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Comité previsto no artigo 163.º do TFUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comité previsto no artigo 163.º do TFUE\n\n1. A Comissão é assistida por um comité (\"Comité do FSE\") criado nos termos do artigo 163.º do TFUE.\n\n2. O membro da Comissão responsável pela presidência do Comité do FSE pode delegar essa responsabilidade num alto funcionário da Comissão. O secretariado do Comité do FSE é assegurado pela Comissão.\n\n3. Cada Estado-Membro nomeia um representante do governo, um representante das organizações de trabalhadores, um representante das organizações patronais e um suplente para cada um dos membros, para um período máximo de sete anos. Na ausência de um membro, o suplente participa de pleno direito nos trabalhos do Comité.\n\n4. O Comité do FSE inclui um representante de cada uma das organizações que representam as organizações de trabalhadores e as organizações patronais a nível da União.\n\n5. O Comité do FSE pode convidar representantes sem direito de voto do Banco Europeu de Investimento e do Fundo Europeu de Investimento, bem como representantes sem direito de voto das organizações pertinentes da sociedade civil para assistir às suas reuniões, se a ordem do dia das mesmas exigir a sua participação.\n\n6. O Comité do FSE deve:\n\na) Ser consultado sobre os projetos de decisão da Comissão referentes aos programas operacionais e à programação em caso de apoio do FSE;\n\nb) Ser consultado sobre a utilização prevista da assistência técnica em caso de apoio do FSE e sobre outras questões que tenham impacto na execução de estratégias a nível da União de relevo para o FSE;\n\nc) Aprovar a lista dos temas comuns para a cooperação transnacional previstos no artigo 10.º, n.º 3.\n\n7. O Comité do FSE pode emitir pareceres sobre:\n\na) Questões relacionadas com a contribuição do FSE para a execução da Estratégia Europa 2020;\n\nb) Questões que digam respeito ao Regulamento (UE) n.º 1303/2013, de relevo para o FSE;\n\nc) Questões relacionadas com o FSE, transmitidas pela Comissão, para além das referidas no n.º 6.\n\n8. Os pareceres do Comité do FSE são aprovados por maioria absoluta dos votos validamente expressos e são comunicados ao Parlamento Europeu para informação. A Comissão informa o Comité do FSE sobre o modo como os seus pareceres foram tomados em consideração."
+  },
+  "7782edf30dc5ebc5": {
+   "fragment_id": "Artigo 26.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições transitórias\n\n1. O presente regulamento não afeta a continuação nem a alteração, incluindo a anulação total ou parcial, de intervenções aprovadas pela Comissão com base no Regulamento (CE) n.º 1081/2006 ou em qualquer outra legislação aplicável a essas intervenções em 31 de dezembro de 2013. Por conseguinte, esse regulamento ou outra legislação aplicável continuam a aplicar-se após 31 de dezembro de 2013 a essas intervenções ou às operações em causa até à respetiva conclusão.\n\n2. Os pedidos de intervenção apresentados ou aprovados ao abrigo do Regulamento (CE) n.º 1081/2006 antes de 1 de janeiro de 2014 permanecem válidos."
+  },
+  "a319123b7fd400cf": {
+   "fragment_id": "Artigo 27.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Revogação\n\nSem prejuízo do artigo 26.º do presente regulamento, o Regulamento (CE) n.º 1081/2006 é revogado com efeitos a partir de 1 de janeiro de 2014.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento e ler-se de acordo com a tabela de correspondência constante do Anexo III."
+  },
+  "36112fb901c41873": {
+   "fragment_id": "Artigo 28.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Revisão\n\nO Parlamento Europeu e o Conselho procedem à revisão do presente regulamento até 31 de dezembro de 2020, nos termos do artigo 164.º do TFUE."
+  },
+  "0e57ec6523bff9a0": {
+   "fragment_id": "Artigo 29.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados Membros.\n\nFeito em Bruxelas, em 17 de dezembro de 2013\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**R. ŠADŽIUS**\n\n---"
+  },
+  "2066064131f3c89b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc1-L_2013347PT.01047001-E0001) [JO C 143 de 22.5.2012, p. 82](http://publications.europa.eu/resource/oj/JOC_2012_143_R_TOC), e [JO C 271 de 19.9.2013, p. 101](http://publications.europa.eu/resource/oj/JOC_2013_271_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc2-L_2013347PT.01047001-E0002) [JO C 225 de 27.7.2012, p. 127](http://publications.europa.eu/resource/oj/JOC_2012_225_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc3-L_2013347PT.01047001-E0003) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho (Ver página 320 do presente Jornal Oficial).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc4-L_2013347PT.01047001-E0004) [JO C 120 de 26.4.2013, p. 1](http://publications.europa.eu/resource/oj/JOC_2013_120_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc5-L_2013347PT.01047001-E0005) Regulamento (CE) n.º 1081/2006 do Parlamento Europeu e do Conselho, de 5 de julho de 2006, relativo ao Fundo Social Europeu e que revoga o Regulamento (CE) n.º 1784/1999 ([JO L 210 de 31.7.2006, p. 12](http://publications.europa.eu/resource/oj/JOL_2006_210_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc6-L_2013347PT.01047001-E0006) Regulamento (UE) n.º 1301/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao Fundo Europeu de Desenvolvimento Regional e que estabelece disposições específicas relativas ao objetivo de Investimento no Crescimento e no Emprego e que revoga o Regulamento (CE) n.º 1080/2006 (Ver página 289 do presente Jornal Oficial)."
+  },
+  "72abce9e46dac5a7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de dezembro de 2013\n\nrelativo ao Fundo Social Europeu e que revoga o Regulamento (CE) n.º 1081/2006 do Conselho"
+  },
+  "bf900e8b7215794d": {
+   "fragment_id": "Artigo 3.º — Âmbito do apoio",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio\n\n1. No âmbito dos objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, pontos 8, 9, 10 e 11, do Regulamento (UE) n.º 1303/2013, que correspondem às alíneas a), b), c) e d) do presente número, e em conformidade com as suas missões, o FSE apoia as seguintes prioridades de investimento:\n\na) No que se refere ao objetivo temático \"Promover a sustentabilidade e a qualidade do emprego e apoiar a mobilidade dos trabalhadores\":\n\ni) acesso ao emprego para os candidatos a emprego e os inativos, incluindo os desempregados de longa duração e as pessoas afastadas do mercado de trabalho, e através de iniciativas locais de emprego e apoio à mobilidade dos trabalhadores;\n\nii) integração sustentável dos jovens no mercado de trabalho, em especial os que não trabalham, não estudam, nem se encontram em formação, incluindo os jovens em risco de exclusão social e os jovens de comunidades marginalizadas, inclusive através da execução da Garantia para a Juventude;\n\niii) criação de emprego por conta própria, empreendedorismo e criação de empresas, incluindo micro, pequenas e médias empresas inovadoras;\n\niv) igualdade entre homens e mulheres em todos os domínios, nomeadamente nos domínios do acesso ao emprego, da progressão na carreira, da conciliação da vida profissional e privada e da promoção da igualdade de remuneração para trabalho igual;\n\nv) adaptação dos trabalhadores, das empresas e dos empresários à mudança;\n\nvi) envelhecimento ativo e saudável;\n\nvii) modernização do mercado de trabalho, nomeadamente através da criação de serviços de emprego públicos e privados e da melhoria da adequação às necessidades do mercado de trabalho, incluindo medidas destinadas a aumentar a mobilidade transnacional dos trabalhadores, inclusive através de regimes de mobilidade e melhor cooperação entre as instituições e as partes relevantes;\n\nb) No que se refere ao objetivo temático \"Promover a inclusão social e combater a pobreza e a discriminação\":\n\ni) inclusão ativa, incluindo com vista à promoção da igualdade de oportunidades e da participação ativa e a melhoria da empregabilidade;\n\nii) integração socioeconómica de comunidades marginalizadas, tais como os ciganos;\n\niii) luta contra todas as formas de discriminação e promoção da igualdade de oportunidades;\n\niv) melhoria do acesso a serviços sustentáveis, de grande qualidade e a preços comportáveis, incluindo cuidados de saúde e serviços sociais de interesse geral;\n\nv) promoção do empreendedorismo social e da integração profissional nas empresas sociais e da economia social e solidária para facilitar o acesso ao emprego;\n\nvi) estratégias de desenvolvimento local de base comunitária;\n\nc) No que se refere ao objetivo temático \"Investir na educação, na formação e na formação profissional para a aquisição de competências e a aprendizagem ao longo da vida\":\n\ni) redução e prevenção do abandono escolar precoce e promoção da igualdade de acesso a um ensino infantil, primário e secundário de boa qualidade, incluindo percursos de aprendizagem formais, não formais e informais para a reintegração no ensino e na formação;\n\nii) melhoria da qualidade e da eficiência do ensino superior e equivalente, e do acesso ao mesmo, a fim de aumentar os níveis de participação e de habilitações, particularmente para os grupos desfavorecidos;\n\niii) melhoria da igualdade de acesso à aprendizagem ao longo da vida para todas as faixas etárias em contextos formais, não formais e informais, atualização do conhecimento, das aptidões e das competências dos trabalhadores, e promoção de percursos de aprendizagem flexíveis, inclusive através da orientação profissional e da validação das competências adquiridas;\n\niv) melhoria da pertinência do ensino e da formação ministrados para o mercado de trabalho, facilitação a transição da educação para o trabalho e reforço dos sistemas de ensino e formação profissionais e da sua qualidade, inclusive através de mecanismos de antecipação de competências, adaptação dos currículos e criação e desenvolvimento de sistemas de ensino baseados no trabalho, nomeadamente sistemas de ensino dual e de aprendizagem;\n\nd) No que se refere ao objetivo temático \"Reforçar a capacidade institucional das autoridades públicas e das partes interessadas e a eficiência da administração pública\":\n\ni) investimento nas capacidades institucionais e na eficiência das administrações e dos serviços públicos a nível nacional, regional e local, a fim de realizar reformas, legislar melhor e governar bem;\n\nii) criação de capacidades para todos os agentes que operam no domínio da educação, da aprendizagem ao longo da vida, da formação, do emprego e das políticas sociais, inclusive através de pactos setoriais e territoriais de preparação de reformas a nível nacional, regional e local.\n\n2. Através das prioridades de investimento enunciadas no n.º 1, o FSE contribui também para os outros objetivos temáticos enumerados no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013, principalmente mediante:\n\na) O apoio à transição para uma economia de baixo teor de carbono, adaptada às alterações climáticas, baseada numa utilizarão eficiente dos recursos e ambientalmente sustentável, através da melhoria dos sistemas de ensino e de formação necessários para a adaptação das competências e das qualificações, para a melhoria das qualificações dos trabalhadores e para a criação de novos empregos nos setores relacionados com o ambiente e a energia;\n\nb) A melhoria do acesso às tecnologias da informação e da comunicação, bem como da sua utilização e qualidade, através do desenvolvimento da literacia digital e da aprendizagem em linha, e do investimento na ciberinclusão, nas cibercompetências e nas competências empresariais conexas;\n\nc) O reforço da investigação, do desenvolvimento tecnológico e da inovação, através do desenvolvimento de estudos de pós-graduação e de competências empresariais, da formação de investigadores e da criação de redes e de parcerias entre as instituições do ensino superior, os centros de tecnologia e investigação e as empresas;\n\nd) O reforço da competitividade das pequenas e médias empresas e da sua sustentabilidade a longo prazo, através da promoção da adaptabilidade das empresas, dos empresários e dos trabalhadores, e um maior investimento no capital humano, e apoio a organismos de ensino e formação profissional orientados para a prática."
+  },
+  "3d5c77ba94e2f22c": {
+   "fragment_id": "Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais\n\n1. O FSE pode apoiar estratégias de desenvolvimento local de base comunitária em zonas urbanas e rurais, tal como referido nos artigos 32.º, 33.º e 34.º do Regulamento (UE) n.º 1303/2013, pactos territoriais e iniciativas locais em prol do emprego, incluindo o emprego dos jovens, da educação e da inclusão social, bem como investimentos territoriais integrados, tal como referido no artigo 36.º do Regulamento (UE) n.º 1303/2013.\n\n2. Em complemento das intervenções do FEDER, tal como referido no artigo 7.º do Regulamento (UE) n.º 1301/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#E0001)), o FSE pode apoiar estratégias de desenvolvimento urbano sustentável que contemplem ações integradas destinadas a dar resposta aos desafios económicos, ambientais e sociais que afetam as zonas urbanas identificadas pelos Estados-Membros com base nos princípios estabelecidos nos seus respetivos acordos de parceria."
+  },
+  "ccf3c634b557c724": {
+   "fragment_id": "Artigo 13.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elegibilidade das despesas\n\n1. O FSE apoia despesas elegíveis que, conforme referido no artigo 120.º, n.º 2, alínea b), do Regulamento (UE) n.º 1303/2013, podem incluir recursos financeiros para os quais contribuem coletivamente empregadores e trabalhadores.\n\n2. O FSE pode prestar apoio a despesas efetuadas com operações realizadas fora da zona abrangida pelo do programa, mas no âmbito da União, desde que estejam preenchidas cumulativamente as seguintes condições:\n\na) A operação beneficia a zona abrangida pelo programa;\n\nb) As autoridades responsáveis pelo programa operacional ao abrigo do qual essa operação é apoiada cumprem as obrigações de gestão, controlo e auditoria da operação ou celebram, para esse efeito, acordos com as autoridades no Estado-Membro em que a operação é executada, desde que as obrigações de gestão, controlo e auditoria da operação sejam cumpridas nesse Estado-Membro.\n\n3. São elegíveis para efeitos de subvenções do FSE, até 3 % do orçamento de um programa operacional do FSE ou da parte do FSE num programa operacional multifinanciado, as despesas efetuadas fora da União, desde que digam respeito aos objetivos temáticos previstos no artigo 3.º, n.º 1, alíneas a) ou c), e desde que o comité de acompanhamento competente tenha concordado com a operação ou os tipos de operação em causa.\n\n4. Não são elegíveis para efeitos de subvenções do FSE, para além das despesas referidas no artigo 69.º, n.º 3, do Regulamento (UE) n.º 1303/2013, as aquisições de infraestruturas, de terrenos e de bens imóveis.\n\n5. As contribuições em espécie, nomeadamente salários e indemnizações pagos por um terceiro em favor dos participantes numa operação, podem ser elegíveis para efeitos de subvenções do FSE desde que as contribuições em espécie sejam efetuadas de acordo com as regras nacionais, incluindo as regras de contabilidade, e não excedam os custos suportados pelo terceiro."
+  },
+  "df2a30eed6f580e6": {
+   "fragment_id": "Artigo 16.º — Iniciativa para o Emprego dos Jovens",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Iniciativa para o Emprego dos Jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Iniciativa para o Emprego dos Jovens\n\nA IEJ apoia o combate ao desemprego dos jovens nas regiões elegíveis da União, através da prestação de apoio a ações abrangidas pelo artigo 3.º, n.º 1, alínea a), subalínea ii), do presente regulamento. A IEJ visa os jovens com idade inferior a 25 anos que não trabalham, não estudam, nem seguem qualquer formação e residem nas regiões elegíveis, bem como os que se encontram em situação de inatividade ou desemprego, designadamente os desempregados de longa duração, independentemente de estarem ou não registados como candidatos a emprego. Os Estados-Membros podem decidir alargar o grupo-alvo a jovens com idade inferior a 30 anos, numa base voluntária.\n\nPara efeitos da IEJ no período de 2014-2015, as «regiões elegíveis» são as regiões de nível NUTS 2 com uma taxa de desemprego dos jovens com idade entre os 15 e os 24 anos superior a 25 % em 2012 e, para os Estados-Membros em que a taxa de desemprego dos jovens tenha aumentado mais de 30 % em 2012, as regiões de nível NUTS 2 com uma taxa de desemprego dos jovens superior a 20 % em 2012.\n\nOs recursos para a IEJ podem ser revistos em alta para o período de 2016 a 2020 no âmbito do processo orçamental, nos termos do artigo 14.º do Regulamento (UE) n.º 1311/2013. Para determinar as regiões elegíveis para a IEJ no período de 2016-2020, a referência aos dados de 2012 no segundo parágrafo deve entender-se como sendo uma referência aos últimos dados anuais disponíveis. A repartição dos recursos adicionais por Estado-Membro é feita nos mesmo termos que a da dotação inicial, nos termos do Anexo VIII do Regulamento (UE) n.º 1303/2013.\n\nOs Estados-Membros podem decidir afetar, de acordo com a Comissão, um montante limitado, que não pode exceder 10 % dos fundos destinados à IEJ, para apoiar jovens residentes em sub-regiões com taxas de desemprego juvenil elevadas, situadas fora das regiões elegíveis de nível NUTS 2."
+  },
+  "3ba6c36c1eb81887": {
+   "fragment_id": "Artigo 22.º-A — Pagamento de um montante suplementar do pré-financiamento inicial a programas operacionais apoiados pela IEJ",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A — Pagamento de um montante suplementar do pré-financiamento inicial a programas operacionais apoiados pela IEJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A — Pagamento de um montante suplementar do pré-financiamento inicial a programas operacionais apoiados pela IEJ\n\n1. Para além do montante de pré-financiamento inicial pago nos termos do artigo 134.º, n.º 1, alínea b), do Regulamento (UE) n.º 1303/2013, deve ser pago, em 2015, um montante suplementar do pré-financiamento inicial a partir da dotação específica da IEJ a todos os programas operacionais apoiados pela IEJ, independentemente das modalidades de programação previstas no artigo 18.º do presente regulamento, a fim de aumentar para 30 % a taxa de pré-financiamento inicial a partir da dotação específica da IEJ («montante suplementar do pré-financiamento inicial»).\n\n2. Para efeitos do cálculo do montante suplementar do pré-financiamento inicial, devem ser deduzidos os montantes pagos a partir da dotação específica da IEJ aos programas operacionais, nos termos do artigo 134.º, n.º 1, alínea b), do Regulamento (UE) n.º 1303/2013.\n\n3. Se, até 23 de maio de 2016, um Estado-Membro não tiver apresentado pedidos de pagamentos intermédio nos quais a contribuição da União a título da IEJ corresponda pelo menos a 50 % do montante suplementar do pré-financiamento inicial, esse Estado-Membro deve reembolsar à Comissão o montante suplementar total do pré-financiamento inicial pago em aplicação do n.º 1. Este reembolso não afeta a contribuição para o programa operacional em questão a título da dotação específica da IEJ."
+  },
+  "d1d5ca2380f8bbaa": {
+   "fragment_id": "Artigo 29.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "28c308e7a13d0af0": {
+   "fragment_id": "Indicadores de realização e de resultado comuns para os investimentos do FSE",
+   "type": "divisao",
+   "heading": "Indicadores de realização e de resultado comuns para os investimentos do FSE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Indicadores de realização e de resultado comuns para os investimentos do FSE"
+  },
+  "dc9116b8b4553ad9": {
+   "fragment_id": "1) Indicadores comuns de realização relativos aos participantes",
+   "type": "divisao",
+   "heading": "1) Indicadores comuns de realização relativos aos participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1) Indicadores comuns de realização relativos aos participantes\n\n\"Participantes\" ([^2^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#E0002)) são as pessoas que beneficiam diretamente de uma intervenção do FSE e que podem ser identificadas pelas suas características e inquiridas sobre as mesmas, e a quem as despesas específicas são destinadas. Outras pessoas não são classificados como participantes. Todos os dados devem ser discriminados por género:\n\nOs indicadores de realização comuns relativos aos participantes são:\n\n— Desempregados, incluindo desempregados de longa duração*,\n\n— Desempregados de longa duração*,\n\n— Inativos*,\n\n— Inativos que não prosseguem estudos nem ações de formação*,\n\n— Pessoas com emprego, incluindo trabalhadores por conta própria*,\n\n— Com menos de 25 anos de idade*,\n\n— Com mais de 54 anos de idade*,\n\n— Com mais de 54 anos de idade, que estejam desempregados, incluindo desempregados de longa duração, ou inativos que não prosseguem estudos nem ações de formação*,\n\n— Pessoas que completaram o ensino primário (CITE 1) ou o ensino secundário inferior (CITE 2)*,\n\n— Pessoas que completaram o ensino secundário superior (CITE 3) ou estudos pós-secundários (CITE 4)*,\n\n— Pessoas com um diploma do ensino superior (CITE 5 a 8) *,\n\n— Pessoas que vivem em agregados familiares afetados pelo desemprego*,\n\n— Pessoas com filhos a cargo que vivem em agregados familiares afetados pelo desemprego*,\n\n— Pessoas com filhos a cargo que vivem num agregado composto por um só adulto*,\n\n— Migrantes, pessoas de origem estrangeira, minorias (incluindo comunidades marginalizadas, como a comunidade cigana)**,\n\n— Pessoas com deficiência**,\n\n— Outros grupos desfavorecidos**.\n\nO número total de participantes será calculado automaticamente com base nos indicadores de resultado.\n\nEstes dados sobre os participantes numa operação apoiada pelo FSE são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º s 1 e 2 e com o artigo 111.º, n.º 1, do Regulamento (UE) n.º 1303/2013.\n\n— Pessoas sem abrigo ou afetadas pela exclusão da sua habitação*,\n\n— Pessoas das zonas rurais* ([^3^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#E0003)).\n\nOs dados sobre os participantes ao abrigos nos dois indicadores supra serão fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º 4, do Regulamento (UE) n.º 1303/2013. Os dados são recolhidos com base numa amostra representativa de participantes no âmbito de cada prioridade de investimento, A validade interna da amostra é garantida de maneira a que os dados possam ser generalizados a nível da prioridade de investimento.\n\n2) Indicadores comuns de realizações relativos às entidades: — Número de projetos total ou parcialmente executados pelos parceiros sociais ou pelas organizações não governamentais, — Número de projetos destinados a aumentar a participação e a evolução sustentáveis das mulheres no emprego, — Número de projetos consagrados às administrações públicas ou aos serviços públicos a nível nacional, regional e local, — Número de micro, pequenas e médias empresas apoiadas (incluindo empresas cooperativas e empresas da economia social). Estes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º s 1 e 2, e com o artigo 111.º, n.º 1, do Regulamento (UE) n.º 1303/2013.\n\n3) Indicadores comuns de resultado imediatos relativos aos participantes: — Pessoas inativas que procuram emprego uma vez terminada a participação*, — Pessoas que prosseguem estudos ou ações de formação uma vez terminada a participação*, — Pessoas que obtêm uma qualificação uma vez terminada a participação*, — Pessoas com emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*, — Pessoas desfavorecidas que procuram emprego, que prosseguem estudos ou ações de formação, que adquirem qualificações, que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação**. Estes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º s 1 e 2, e com o artigo 111.º, n.º 1, do Regulamento (UE) n.º 1303/2013. Todos os dados são discriminados por género.\n\n4) Indicadores comuns de resultado a longo prazo relativos aos participantes: — Pessoas com emprego, incluindo uma atividade por conta própria, seis meses depois de terminada a participação, — Pessoas com uma melhor situação laboral seis meses depois de terminada a participação*, — Pessoas com mais de 54 anos de idade com emprego, incluindo uma atividade por conta própria, seis meses depois de terminada a participação*, — Pessoas desfavorecidas com emprego, incluindo uma atividade por conta própria, seis meses depois de terminada a participação**. Estes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º 5, do Regulamento (UE) n.º 1303/2013. A sua recolha é feita com base numa amostra representativa de participantes em cada prioridade de investimento. A validade interna da amostra é garantida de maneira a que os dados possam ser generalizados a nível da prioridade de investimento. Todos os dados são discriminados por género."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "5b103d813f4c570e": {
+   "fragment_id": "Indicadores de resultado para a IEJ",
+   "type": "divisao",
+   "heading": "Indicadores de resultado para a IEJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Indicadores de resultado para a IEJ\n\nEstes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 1303/2013, e no relatório a apresentar em abril de 2015, de acordo com o artigo 19.º, n.º 3, do presente regulamento. Os dados são discriminados por género."
+  },
+  "922583d12b19b145": {
+   "fragment_id": "1) Indicadores comuns de resultado imediatos para os participantes",
+   "type": "divisao",
+   "heading": "1) Indicadores comuns de resultado imediatos para os participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1) Indicadores comuns de resultado imediatos para os participantes\n\n\"Participantes\" ([^4^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#E0004)) são as pessoas que beneficiam diretamente de uma intervenção da IEJ e que podem ser identificadas pelas suas características e inquiridas sobre as mesmas, e a quem as despesas específicas são destinadas.\n\nOs indicadores de resultado imediatos são os seguintes:\n\n— Desempregados que chegam ao fim da intervenção apoiada pela IEJ*,\n\n— Desempregados que recebem uma oferta de emprego, educação contínua ou oportunidades de aprendizagem ou estágio, uma vez terminada a participação*,\n\n— Desempregados que prosseguem estudos ou ações de formação, que adquirem qualificações ou que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*,\n\n— Desempregados de longa duração que chegam ao fim da intervenção apoiada pela IEJ*,\n\n— Desempregados de longa duração que recebem uma oferta de emprego, educação contínua ou oportunidades de aprendizagem ou estágio, uma vez terminada a participação*,\n\n— Desempregados de longa duração que prosseguem estudos ou ações de formação, que adquirem qualificações ou que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*,\n\n— Inativos que não estudam nem seguem uma formação, que chegam ao fim da intervenção apoiada pela IEJ**,\n\n— Inativos que não estudam nem seguem uma formação que recebem uma oferta de emprego, educação contínua ou oportunidades de aprendizagem ou estágio nos quatro meses subsequentes à participação numa operação da IEJ, uma vez terminada a participação*,\n\n— Inativos que não prosseguem estudos nem ações de formação, que prosseguem estudos/ações de formação, que adquirem qualificações ou que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*."
+  },
+  "f4d2d6809936c764": {
+   "fragment_id": "2) Indicadores comuns de resultado a longo prazo para os participantes",
+   "type": "divisao",
+   "heading": "2) Indicadores comuns de resultado a longo prazo para os participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2) Indicadores comuns de resultado a longo prazo para os participantes\n\nOs indicadores de resultado a longo prazo são os seguintes:\n\n— Pessoas que participam em ações de educação contínua, programas de formação conducentes a uma qualificação, aprendizagens ou estágios, seis meses depois de terminada a sua participação*,\n\n— Pessoas com emprego, seis meses depois de terminada a sua participação*,\n\n— Pessoas que trabalham por conta própria, seis meses depois de terminada a sua participação*.\n\nA recolha dos dados relativos aos indicadores de resultado a longo prazo é feita com base numa amostra representativa de participantes em cada prioridade de investimento. A validade interna da amostra é garantida de maneira a que os dados possam ser generalizados a nível da prioridade de investimento."
+  },
+  "33e6ac9468d0b198": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nRegulamento (CE) N.º 1081/2006 do Parlamento Europeu e do Conselho Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5.º\n\nArtigo 5.º Artigo 6.º\n\nArtigo 6.º Artigo 7.º\n\nArtigo 8.º\n\nArtigo 7.º Artigo 9.º\n\nArtigo 8.º Artigo 10.º\n\nArtigo 9.º —\n\nArtigo 10.º —\n\nArtigo 11.º\n\nArtigo 12.º\n\nArtigo 11.º Artigo 13.º\n\nArtigo 14.º\n\nArtigo 15.º\n\nArtigos 16.º a 23.º\n\nArtigo 24.º\n\nArtigo 25.º\n\nArtigo 12.º Artigo 26.º\n\nArtigo 13.º Artigo 27.º\n\nArtigo 14.º Artigo 28.º\n\nArtigo 15.º Artigo 29.º\n\n---"
+  },
+  "6f4e05a1ce5270de": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#src.E0001)) Regulamento (UE) n.º 1301/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao Fundo Europeu de Desenvolvimento Regional e que estabelece disposições específicas relativas ao objetivo de Investimento no Crescimento e no Emprego e que revoga o Regulamento (CE) n.º 1080/2006 (Ver página 289 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#src.E0002)) As autoridades de gestão devem criar um sistema que registe e armazene os dados relativos aos participantes individualmente considerados de forma eletrónica, conforme previsto no artigo 125.º, n.º 2, alínea d), do Regulamento (UE) n.º 1303/2013. As modalidades de tratamento de dados adotadas pelos Estados-Membros devem ser conformes com as disposições da Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (JO L 281 de 23.11.1995, p. 31), nomeadamente os artigos 7.º e 8.º.\n\n> Os dados comunicados ao abrigo dos indicadores assinalados com * são dados pessoais nos termos do artigo 7.º da Diretiva 95/46/CE. O seu tratamento é necessário para cumprir uma obrigação legal à qual o responsável pelo tratamento está sujeito [(artigo 7.º, alínea c), da Diretiva 95/46/CE]. Para a definição de \"responsável pelo tratamento\", ver artigo 2.º da Diretiva 95/46/CE.\n\n> Os dados comunicados ao abrigo dos indicadores assinalados com ** são uma categoria especial de dados pessoais na aceção do artigo 8.º da Diretiva 95/46/CE. Sob reserva de serem prestadas as garantias adequadas, os Estados-Membros podem estabelecer, por motivos de interesse público importante, outras derrogações para além das previstas no artigo 8.º, n.º 2, da Diretiva 95/46/CE quer através de disposições legislativas nacionais, quer por decisão da autoridade de controlo (artigo 8.º, n.º 4, da Diretiva 95/46/CE).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#src.E0003)) Os dados devem ser recolhidos ao das unidades administrativas mais pequenas (nível UAL 2), nos termos do Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho, de 26 de maio de 2003, relativo à instituição de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS) (JO L 154 de 21.6.2003, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5cb8909c-8561-4212-9cc2-a12c67c288ac.0016.02/DOC_2#src.E0004)) As autoridades de gestão devem criar um sistema que registe e armazene os dados relativos aos participantes individualmente considerados de forma eletrónica, conforme previsto no artigo 125.º, n.º 2, alínea d), do Regulamento (UE) n.º 1303/2013. As modalidades de tratamento de dados adotadas pelos Estados-Membros devem ser conformes com as disposições da Diretiva 95/46/CE, nomeadamente os artigos 7.º e 8.º.\n\n> Os dados comunicados ao abrigo dos indicadores assinalados com * são dados pessoais na aceção do artigo 7.º da Diretiva 95/46/CE. O seu tratamento é necessário para cumprir uma obrigação legal à qual o responsável pelo tratamento está sujeito [(artigo 7.º, alínea c), da Diretiva 95/46/CE]. Para a definição de \"responsável pelo tratamento\", ver artigo 2.º da Diretiva 95/46/CE.\n\n> Os dados comunicados ao abrigo dos indicadores assinalados com ** são uma categoria especial de dados pessoais na aceção do artigo 8.º da Diretiva 95/46/CE. Sob reserva de serem prestadas as garantias adequadas, os Estados-Membros podem estabelecer, por motivos de interesse público importante, outras derrogações para além das previstas no artigo 8.º, n.º 2, da Diretiva 95/46/CE, quer através de disposições legislativas nacionais, quer por decisão da autoridade de controlo (artigo 8.º, n.º 4, da Diretiva 95/46/CE)."
+  },
+  "11da5d4123c7582e": {
+   "fragment_id": "Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições específicas sobre o tratamento de particularidades territoriais\n\n1. O FSE pode apoiar estratégias de desenvolvimento local de base comunitária em zonas urbanas e rurais, tal como referido nos artigos 32.º, 33.º e 34.º do Regulamento (UE) n.º 1303/2013, pactos territoriais e iniciativas locais em prol do emprego, incluindo o emprego dos jovens, da educação e da inclusão social, bem como investimentos territoriais integrados, tal como referido no artigo 36.º do Regulamento (UE) n.º 1303/2013.\n\n2. Em complemento das intervenções do FEDER, tal como referido no artigo 7.º do Regulamento (UE) n.º 1301/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#E0001)), o FSE pode apoiar estratégias de desenvolvimento urbano sustentável que contemplem ações integradas destinadas a dar resposta aos desafios económicos, ambientais e sociais que afetam as zonas urbanas identificadas pelos Estados-Membros com base nos princípios estabelecidos nos seus respetivos acordos de parceria."
+  },
+  "17047798070a6774": {
+   "fragment_id": "Artigo 13.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elegibilidade das despesas\n\n1. O FSE apoia despesas elegíveis que, conforme referido no artigo 120.º, n.º 2, alínea b), do Regulamento (UE) n.º 1303/2013, podem incluir recursos financeiros para os quais contribuem coletivamente empregadores e trabalhadores.\n\n2. O FSE pode prestar apoio a despesas efetuadas com operações realizadas fora da zona abrangida pelo do programa, mas no âmbito da União, desde que estejam preenchidas cumulativamente as seguintes condições:\n\na) A operação beneficia a zona abrangida pelo programa;\n\nb) As autoridades responsáveis pelo programa operacional ao abrigo do qual essa operação é apoiada cumprem as obrigações de gestão, controlo e auditoria da operação ou celebram, para esse efeito, acordos com as autoridades no Estado-Membro em que a operação é executada, desde que as obrigações de gestão, controlo e auditoria da operação sejam cumpridas nesse Estado-Membro.\n\nCaso as operações abrangidas pelo primeiro parágrafo, alínea a), também tenham um benefício para a zona abrangida pelo programa em que são executadas, as despesas são proporcionalmente afetadas a essas zonas dos programas, com base em critérios objetivos.\n\n3. São elegíveis para efeitos de subvenções do FSE, até 3 % do orçamento de um programa operacional do FSE ou da parte do FSE num programa operacional multifinanciado, as despesas efetuadas fora da União, desde que digam respeito aos objetivos temáticos previstos no artigo 3.º, n.º 1, alíneas a) ou c), e desde que o comité de acompanhamento competente tenha concordado com a operação ou os tipos de operação em causa.\n\n4. Não são elegíveis para efeitos de subvenções do FSE, para além das despesas referidas no artigo 69.º, n.º 3, do Regulamento (UE) n.º 1303/2013, as aquisições de infraestruturas, de terrenos e de bens imóveis.\n\n5. As contribuições em espécie, nomeadamente salários e indemnizações pagos por um terceiro em favor dos participantes numa operação, podem ser elegíveis para efeitos de subvenções do FSE desde que as contribuições em espécie sejam efetuadas de acordo com as regras nacionais, incluindo as regras de contabilidade, e não excedam os custos suportados pelo terceiro."
+  },
+  "ba71f294087a175f": {
+   "fragment_id": "Artigo 14.º — Opções simplificadas em matéria de custos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Opções simplificadas em matéria de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Opções simplificadas em matéria de custos\n\n1. Para além das opções referidas no artigo 67.º do Regulamento (UE) n.º 1303/2013, a Comissão pode reembolsar as despesas pagas pelos Estados-Membros em função de tabelas normalizadas de custos unitários e montantes fixos definidas pela Comissão. Os montantes assim calculados são considerados apoios públicos pagos aos beneficiários e despesas elegíveis para efeitos da aplicação do Regulamento (UE) n.º 1303/2013.\n\nPara efeitos do primeiro parágrafo, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 24.º, relativos ao tipo de operações abrangidas, às definições das tabelas normalizadas de custos unitários e montantes fixos, incluindo os respetivos montantes máximos, que podem ser ajustados segundo os métodos decididos de comum acordo, tendo devidamente em conta as experiências adquiridas no período de programação anterior.\n\nAs auditorias financeiras têm por único objetivo a verificação do cumprimento das condições de reembolso pela Comissão, com base em tabelas de custos unitários e montantes fixos.\n\nCaso se utilize financiamento em função de tabelas normalizadas de custos unitários e montantes fixos nos termos do primeiro parágrafo, os Estados-Membros podem aplicar as suas próprias práticas contabilísticas em apoio das operações. Para efeitos do presente regulamento e do Regulamento (UE) n.º 1303/2013, essas práticas contabilísticas e as verbas resultantes não estão sujeitas a auditoria pela autoridade auditora nem pela Comissão.\n\n-1. As regras gerais aplicáveis às opções simplificadas em matéria de custos ao abrigo do FSE constam dos artigos 67.º, 68.º, 68.º-A e 68.º-B do Regulamento (UE) n.º 1303/2013."
+  },
+  "217e465385ef94ad": {
+   "fragment_id": "Indicadores de realização e de resultado comuns para os investimentos do FSE",
+   "type": "divisao",
+   "heading": "Indicadores de realização e de resultado comuns para os investimentos do FSE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Indicadores de realização e de resultado comuns para os investimentos do FSE\n\n1) Indicadores comuns de realização relativos aos participantes Entende-se por «participantes» ([^2^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#E0002)) as pessoas que beneficiam diretamente de uma intervenção do FSE e que podem ser identificadas pelas suas características e inquiridas sobre as mesmas, e a quem são destinadas despesas específicas. Não são classificadas como participantes outras pessoas. Todos os dados são discriminados por género. Os indicadores comuns de realização relativos aos participantes são: — Desempregados, incluindo desempregados de longa duração*, — Desempregados de longa duração*, — Inativos*, — Inativos que não prosseguem estudos nem ações de formação*, — Pessoas com emprego, incluindo trabalhadores por conta própria*, — Pessoas com menos de 25 anos de idade*, — Pessoas com mais de 54 anos de idade*, — Pessoas com mais de 54 anos de idade, que estejam desempregadas, incluindo desempregados de longa duração, ou inativos que não prosseguem estudos nem ações de formação*, — Pessoas que completaram o ensino primário (CITE 1) ou o ensino secundário inferior (CITE 2)*, — Pessoas que completaram o ensino secundário superior (CITE 3) ou estudos pós-secundários (CITE 4)*, — Pessoas com um diploma do ensino superior (CITE 5 a 8)*, — Migrantes, participantes de origem estrangeira, minorias (incluindo comunidades marginalizadas, como a comunidade cigana)**, — Participantes com deficiência**, — Outros grupos desfavorecidos**. O número total de participantes será calculado automaticamente com base nos indicadores de realização. Estes dados sobre os participantes numa operação apoiada pelo FSE são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.^os^ 1 e 2, e com o artigo 111.º, n.º 1, do Regulamento (UE) n.º 1303/2013. Os seguintes dados sobre os participantes serão fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º do Regulamento (UE) n.º 1303/2013: — Pessoas sem abrigo ou afetadas pela exclusão habitacional*, — Pessoas de zonas rurais* ([^3^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#E0003)) Os dados relativos a esses dois indicadores são recolhidos com base numa amostra representativa de participantes em cada prioridade de investimento. A validade interna é garantida de maneira a que os dados possam ser generalizados a nível da prioridade de investimento.\n\n2) Indicadores comuns de realizações relativos às entidades: — Número de projetos total ou parcialmente executados pelos parceiros sociais ou pelas organizações não governamentais, — Número de projetos destinados a aumentar a participação e a evolução sustentáveis das mulheres no emprego, — Número de projetos consagrados às administrações públicas ou aos serviços públicos a nível nacional, regional e local, — Número de micro, pequenas e médias empresas apoiadas (incluindo empresas cooperativas e empresas da economia social). Estes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º s 1 e 2, e com o artigo 111.º, n.º 1, do Regulamento (UE) n.º 1303/2013.\n\n3) Indicadores comuns de resultado imediatos relativos aos participantes: — Pessoas inativas que procuram emprego uma vez terminada a participação*, — Pessoas que prosseguem estudos ou ações de formação uma vez terminada a participação*, — Pessoas que obtêm uma qualificação uma vez terminada a participação*, — Pessoas com emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*, — Pessoas desfavorecidas que procuram emprego, que prosseguem estudos ou ações de formação, que adquirem qualificações, que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação**. Estes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º s 1 e 2, e com o artigo 111.º, n.º 1, do Regulamento (UE) n.º 1303/2013. Todos os dados são discriminados por género.\n\n4) Indicadores comuns de resultado a longo prazo relativos aos participantes: — Pessoas com emprego, incluindo uma atividade por conta própria, seis meses depois de terminada a participação, — Pessoas com uma melhor situação laboral seis meses depois de terminada a participação*, — Pessoas com mais de 54 anos de idade com emprego, incluindo uma atividade por conta própria, seis meses depois de terminada a participação*, — Pessoas desfavorecidas com emprego, incluindo uma atividade por conta própria, seis meses depois de terminada a participação**. Estes dados são fornecidos nos relatórios anuais de execução, de acordo com o artigo 50.º, n.º 5, do Regulamento (UE) n.º 1303/2013. A sua recolha é feita com base numa amostra representativa de participantes em cada prioridade de investimento. A validade interna da amostra é garantida de maneira a que os dados possam ser generalizados a nível da prioridade de investimento. Todos os dados são discriminados por género."
+  },
+  "bd0976e021fd68f1": {
+   "fragment_id": "1) Indicadores comuns de resultado imediatos para os participantes",
+   "type": "divisao",
+   "heading": "1) Indicadores comuns de resultado imediatos para os participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1) Indicadores comuns de resultado imediatos para os participantes\n\n\"Participantes\" ([^4^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#E0004)) são as pessoas que beneficiam diretamente de uma intervenção da IEJ e que podem ser identificadas pelas suas características e inquiridas sobre as mesmas, e a quem as despesas específicas são destinadas.\n\nOs indicadores de resultado imediatos são os seguintes:\n\n— Desempregados que chegam ao fim da intervenção apoiada pela IEJ*,\n\n— Desempregados que recebem uma oferta de emprego, educação contínua ou oportunidades de aprendizagem ou estágio, uma vez terminada a participação*,\n\n— Desempregados que prosseguem estudos ou ações de formação, que adquirem qualificações ou que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*,\n\n— Desempregados de longa duração que chegam ao fim da intervenção apoiada pela IEJ*,\n\n— Desempregados de longa duração que recebem uma oferta de emprego, educação contínua ou oportunidades de aprendizagem ou estágio, uma vez terminada a participação*,\n\n— Desempregados de longa duração que prosseguem estudos ou ações de formação, que adquirem qualificações ou que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*,\n\n— Inativos que não estudam nem seguem uma formação, que chegam ao fim da intervenção apoiada pela IEJ**,\n\n— Inativos que não estudam nem seguem uma formação que recebem uma oferta de emprego, educação contínua ou oportunidades de aprendizagem ou estágio nos quatro meses subsequentes à participação numa operação da IEJ, uma vez terminada a participação*,\n\n— Inativos que não prosseguem estudos nem ações de formação, que prosseguem estudos/ações de formação, que adquirem qualificações ou que têm emprego, incluindo uma atividade por conta própria, uma vez terminada a participação*."
+  },
+  "7787c46e522988bd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1301/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao Fundo Europeu de Desenvolvimento Regional e que estabelece disposições específicas relativas ao objetivo de Investimento no Crescimento e no Emprego e que revoga o Regulamento (CE) n.º 1080/2006 (Ver página 289 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#src.E0002))\n\n(^+^) As autoridades de gestão devem criar um sistema que registe e armazene de forma eletrónica os dados relativos aos participantes individualmente considerados, conforme previsto no artigo 125.º, n.º 2, alínea d), do Regulamento (UE) n.º 1303/2013. As disposições relativas ao tratamento de dados adotadas pelos Estados-Membros devem ser conformes com as disposições da Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (JO L 281 de 23.11.1995, p. 31), nomeadamente os artigos 7.º e 8.º.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#src.E0003))\n\n(^++^) Os dados são recolhidos ao nível das unidades administrativas mais pequenas (nível UAL 2), nos termos do Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho, de 26 de maio de 2003, relativo à instituição de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS) (JO L 154 de 21.6.2003, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/025ba364-e088-47ec-a10c-47922b92522e.0016.02/DOC_1#src.E0004)) As autoridades de gestão devem criar um sistema que registe e armazene os dados relativos aos participantes individualmente considerados de forma eletrónica, conforme previsto no artigo 125.º, n.º 2, alínea d), do Regulamento (UE) n.º 1303/2013. As modalidades de tratamento de dados adotadas pelos Estados-Membros devem ser conformes com as disposições da Diretiva 95/46/CE, nomeadamente os artigos 7.º e 8.º.\n\n> Os dados comunicados ao abrigo dos indicadores assinalados com * são dados pessoais na aceção do artigo 7.º da Diretiva 95/46/CE. O seu tratamento é necessário para cumprir uma obrigação legal à qual o responsável pelo tratamento está sujeito [(artigo 7.º, alínea c), da Diretiva 95/46/CE]. Para a definição de \"responsável pelo tratamento\", ver artigo 2.º da Diretiva 95/46/CE.\n\n> Os dados comunicados ao abrigo dos indicadores assinalados com ** são uma categoria especial de dados pessoais na aceção do artigo 8.º da Diretiva 95/46/CE. Sob reserva de serem prestadas as garantias adequadas, os Estados-Membros podem estabelecer, por motivos de interesse público importante, outras derrogações para além das previstas no artigo 8.º, n.º 2, da Diretiva 95/46/CE, quer através de disposições legislativas nacionais, quer por decisão da autoridade de controlo (artigo 8.º, n.º 4, da Diretiva 95/46/CE)."
+  }
+ }
+}

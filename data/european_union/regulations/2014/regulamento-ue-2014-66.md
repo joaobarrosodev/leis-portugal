@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2014-66.versoes.json
+  count: 1
+  source_lastmod: '2017-01-09'
+  versions:
+  - date: '2014-01-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014R0066
   eli: http://data.europa.eu/eli/reg/2014/66/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b53a7887-8a58-11e3-87da-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b53a7887-8a58-11e3-87da-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:17:09Z'
+  retrieved_at: '2026-10-22T16:31:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T04:04:19.397+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:09Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:33Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2014-66.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,21 +126,21 @@ relationships:
   date: '2014-09-17'
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:09Z'
+  checked_at: '2026-10-22T16:31:33Z'
   warnings:
-  - 'Versão consolidada 02014R0066-20170109 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02014R0066-20140220: versão indisponível (Sem expressão na língua por para CELEX 02014R0066-20140220.)'
+  - '02014R0066-20170109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 66/2014 DA COMISSÃO
+# Regulamento (UE) n. ° 66/2014 da Comissão, de 14 de janeiro de 2014
 
 de 14 de janeiro de 2014
 

@@ -36,6 +36,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2014-375.versoes.json
+  count: 2
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Objetivo
+    - Suprime Artigo 5.º — Princípios gerais
+    - Suprime Artigo 6.º — Coerência e complementaridade da ação da União
+    - Suprime Artigo 7.º — Objetivos operacionais
+    - Suprime CAPÍTULO II
+    - Suprime AÇÕES AO ABRIGO DA INICIATIVA VOLUNTÁRIOS PARA A AJUDA DA UE
+    - Suprime Artigo 8.º — Ações ao abrigo da iniciativa Voluntários para a Ajuda da UE
+    - Suprime Artigo 9.º — Normas e procedimentos respeitantes aos candidatos a voluntários e aos Voluntários para a Ajuda
+      da UE
+    - Suprime Artigo 10.º — Mecanismo de certificação para as organizações de envio e de acolhimento
+    - Suprime Artigo 11.º — Identificação e seleção dos candidatos a voluntários
+    - Suprime Artigo 12.º — Programa de formação e apoio à formação e estágios
+    - Suprime Artigo 13.º — Base de dados dos Voluntários para a Ajuda da UE
+    - Suprime Artigo 14.º — Destacamento de Voluntários para a Ajuda da UE para países terceiros
+    - Suprime Artigo 15.º — Reforço das capacidades de ajuda humanitária das organizações de acolhimento
+    - Suprime Artigo 16.º — Rede da iniciativa Voluntários para a Ajuda da UE
+    - Suprime Artigo 17.º — Comunicação e sensibilização
+    - Suprime CAPÍTULO III
+    - Suprime PROGRAMAÇÃO E AFETAÇÃO DOS FUNDOS
+    - Suprime Artigo 18.º — Ações elegíveis
+    - Suprime Artigo 19.º — Beneficiários financeiros
+    - Suprime Artigo 20.º — Enquadramento financeiro
+    - Suprime Artigo 21.º — Tipos de intervenção financeira e procedimentos de execução
+    - Suprime Artigo 22.º — Proteção dos interesses financeiros da União
+    - Suprime CAPÍTULO IV
+    - Suprime COOPERAÇÃO COM OUTROS PAÍSES
+    - Suprime Artigo 23.º — Cooperação com outros países
+    - Suprime CAPÍTULO V
+    - Suprime DELEGAÇÃO DE PODER E DISPOSIÇÕES DE EXECUÇÃO
+    - Suprime Artigo 24.º — Exercício da delegação
+    - Suprime Artigo 25.º — Procedimento de urgência
+    - Suprime Artigo 26.º — Procedimento de comité
+    - Suprime CAPÍTULO VI
+    - Suprime ACOMPANHAMENTO E AVALIAÇÃO
+    - Suprime Artigo 27.º — Acompanhamento e avaliação
 identifiers:
   celex: 32014R0375
   eli: http://data.europa.eu/eli/reg/2014/375/oj
@@ -50,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f7972092-cb77-11e3-b74e-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/46537bdd-d351-11eb-ac72-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0375-20210101
-  retrieved_at: '2026-10-22T03:00:24Z'
+  retrieved_at: '2026-10-22T16:32:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T19:30:33.263+02:00'
 integrity:
@@ -59,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:24Z'
-  notes: Texto consolidado 02014R0375-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:32:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-375.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,16 +223,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:24Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:32:44Z'
+  warnings: []
   errors: []
 ---
 

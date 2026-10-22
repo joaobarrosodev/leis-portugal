@@ -37,6 +37,124 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-18'
+version_history:
+  file: regulamento-ue-2014-251.versoes.json
+  count: 5
+  source_lastmod: '2026-03-18'
+  versions:
+  - date: '2014-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º — Procedimento nacional preliminar
+    - Altera Artigo 19.º — Relação com marcas
+    - Altera Artigo 20.º — Proteção
+    - Altera Artigo 22.º — Designação da autoridade competente
+    - Altera Artigo 36.º — Medidas transitórias
+    - Altera Artigo 37.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES, REQUISITOS E RESTRIÇÕES TÉCNICAS
+    - Adita 1) Aromatização
+    - Adita 2) Edulcoração
+    - Adita 3) Adição de álcool
+    - Adita 4) Aditivos e coloração
+    - Adita 5) Adição de água
+    - Adita ANEXO II
+    - Adita DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DOS PRODUTOS VITIVINÍCOLAS AROMATIZADOS
+    - Adita A. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DOS VINHOS AROMATIZADOS
+    - Adita 1) Vinho aromatizado
+    - Adita 2) Aperitivo à base de vinho
+    - Adita 3) Vermute
+    - Adita 4) Vinho aromatizado amargo
+    - Adita 5) Vinho aromatizado à base de ovo
+    - Adita 6) Väkevä viiniglögi/Starkvinsglögg
+    - Adita B. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DAS BEBIDAS AROMATIZADAS À BASE DE VINHO
+    - Adita 1) Bebida aromatizada à base de vinho
+    - Adita 2) Bebida aromatizada aguardentada à base de vinho
+    - Adita 3) Sangría/Sangria
+    - Adita 4) Clarea
+    - Adita 5) Zurra
+    - Adita 6) Bitter soda
+    - Adita 7) Kalte Ente
+    - Adita 8) Glühwein
+    - Adita 9) Viiniglögi/Vinglögg/Karštas vynas
+    - Adita 10) Maiwein
+    - Adita 11) Maitrank
+    - Adita 12) Pelin
+    - Adita 13) Aromatizovaný dezert
+    - Adita C. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DOS COCKTAILS AROMATIZADOS DE PRODUTOS VITIVINÍCOLAS
+    - Adita 1) Cocktail aromatizado de produtos vitivinícolas
+  - date: '2021-12-07'
+    amending: eu:celex:32021R2117:por
+    amending_title: REGULAMENTO (UE) 2021/2117 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de dezembro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Denominações de venda
+    - Altera Artigo 8.º — Línguas utilizadas na apresentação e rotulagem de produtos vitivinícolas aromatizados
+    - Altera Artigo 33.º — Exercício da delegação
+    - Altera 1) Aromatização
+    - Altera 2) Edulcoração
+    - Altera 5) Adição de água
+    - Altera A. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DOS VINHOS AROMATIZADOS
+    - Altera B. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DAS BEBIDAS AROMATIZADAS À BASE DE VINHO
+    - Altera C. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DOS COCKTAILS AROMATIZADOS DE PRODUTOS VITIVINÍCOLAS
+    - Altera Notas
+    - Suprime Artigo 9.º — Regras mais estritas decididas pelos Estados-Membros
+    - Suprime CAPÍTULO III
+    - Suprime INDICAÇÕES GEOGRÁFICAS
+    - Suprime Artigo 10.º — Teor dos pedidos de proteção
+    - Suprime Artigo 11.º — Pedido de proteção relativo a uma área geográfica situada num país terceiro
+    - Suprime Artigo 12.º — Requerentes
+    - Suprime Artigo 13.º — Procedimento nacional preliminar
+    - Suprime Artigo 14.º — Exame pela Comissão
+    - Suprime Artigo 15.º — Procedimento de oposição
+    - Suprime Artigo 16.º — Decisão sobre a proteção
+    - Suprime Artigo 17.º — Homonímia
+    - Suprime Artigo 18.º — Motivos de recusa da proteção
+    - Suprime Artigo 19.º — Relação com marcas
+    - Suprime Artigo 20.º — Proteção
+    - Suprime Artigo 21.º — Registo
+    - Suprime Artigo 22.º — Designação da autoridade competente
+    - Suprime Artigo 23.º — Verificação do cumprimento do caderno de especificações
+    - Suprime Artigo 24.º — Alterações ao caderno de especificações
+    - Suprime Artigo 25.º — Cancelamento
+    - Suprime Artigo 26.º — Denominações geográficas já existentes
+    - Suprime Artigo 27.º — Taxas
+    - Suprime Artigo 28.º — Delegação de poderes
+    - Suprime Artigo 29.º — Competências de execução
+    - Suprime Artigo 30.º — Candidatura ou Pedido não admissível
+    - Suprime 1) Vinho aromatizado
+    - Suprime 2) Aperitivo à base de vinho
+    - Suprime 3) Vermute
+  - date: '2023-12-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 2) Edulcoração
+    - Altera 5) Adição de água
+    - Altera Notas
+    - Adita Artigo 6.º-A — Declaração nutricional e lista de ingredientes
+  - date: '2026-03-18'
+    amending: eu:celex:32026R0471:por
+    amending_title: REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 3.º — Definições e classificação dos produtos vitivinícolas aromatizados
+    - Altera Artigo 5.º — Denominações de venda
+    - Altera Artigo 6.º-A — Declaração nutricional e lista de ingredientes
+    - Altera Artigo 8.º — Línguas utilizadas na apresentação e rotulagem de produtos vitivinícolas aromatizados
+    - Altera 2) Edulcoração
+    - Altera 5) Adição de água
+    - Altera B. DENOMINAÇÕES DE VENDA E DESIGNAÇÕES DAS BEBIDAS AROMATIZADAS À BASE DE VINHO
+    - Altera Notas
+    - Adita Artigo 6.º-B — Repetição das indicações obrigatórias
 identifiers:
   celex: 32014R0251
   eli: http://data.europa.eu/eli/reg/2014/251/oj
@@ -51,7 +169,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0c9c77aa-b006-11e3-86f9-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/9ee79c1b-53de-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0251-20260318
-  retrieved_at: '2026-10-22T02:41:44Z'
+  retrieved_at: '2026-10-22T16:32:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T21:26:20.225+02:00'
 integrity:
@@ -60,9 +178,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:44Z'
-  notes: Texto consolidado 02014R0251-20260318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:32:14Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2014-251.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -255,34 +373,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 17
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:44Z'
+  checked_at: '2026-10-22T16:32:14Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 251/2014 do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
-
-> 02014R0251 — PT — 18.03.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R2117) — [REGULAMENTO (UE) 2021/2117 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2117) — L 435 — 262 — 6.12.2021
-- [►M2](http://publications.europa.eu/resource/celex/32026R0471) — [REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0471) — L 471 — 1 — 26.2.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0251R%2801%29) — [Rectificação, JO L 105, 8.4.2014, p. 12 (n.o 251/2014)](http://publications.europa.eu/resource/celex/32014R0251R%2801%29)
-
-## REGULAMENTO (UE) N.º 251/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de fevereiro de 2014,
 

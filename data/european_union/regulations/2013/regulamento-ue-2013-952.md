@@ -36,6 +36,99 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-12'
+version_history:
+  file: regulamento-ue-2013-952.versoes.json
+  count: 5
+  source_lastmod: '2022-12-12'
+  versions:
+  - date: '2013-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Território aduaneiro
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 34.º — Gestão das decisões relativas a informações vinculativas
+    - Altera Artigo 50.º — Atribuição de competências de execução
+    - Altera Artigo 55.º — Períodos, datas e prazos
+    - Altera Artigo 70.º — Método de determinação do valor aduaneiro baseado no valor transacional
+    - Altera Artigo 71.º — Elementos do valor transacional
+    - Altera Artigo 72.º — Elementos a não incluir no valor aduaneiro
+    - Altera Artigo 74.º — Métodos secundários de determinação do valor aduaneiro
+    - Altera Artigo 86.º — Regras especiais para o cálculo do montante dos direitos de importação
+    - Altera Artigo 89.º — Disposições gerais
+    - Altera Artigo 106.º — Delegação de poderes
+    - Altera Artigo 116.º — Disposições gerais
+    - Altera Artigo 117.º — Direitos de importação ou de exportação cobrados em excesso
+    - Altera Artigo 124.º — Extinção
+    - Altera Artigo 131.º — Delegação de poderes
+    - Altera Artigo 145.º — Declaração de depósito temporário
+    - Altera Artigo 158.º — Declaração aduaneira das mercadorias e fiscalização aduaneira das mercadorias UE
+    - Altera Artigo 198.º — Medidas a adotar pelas autoridades aduaneiras
+    - Altera Artigo 211.º — Autorização
+    - Altera Artigo 217.º — Atribuição de competências de execução
+    - Altera Artigo 226.º — Trânsito externo
+    - Altera Artigo 257.º — Período de apuramento
+    - Altera Artigo 265.º — Delegação de poderes
+    - Altera Artigo 281.º — Atribuição de competências de execução
+    - Altera Artigo 284.º — Exercício da delegação
+    - Altera Artigo 288.º — Aplicação
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2019-05-15'
+    amending: eu:celex:32016R2339:por
+    amending_title: REGULAMENTO (EU) 2016/2339 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016; REGULAMENTO
+      (UE) 2019/474 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019; REGULAMENTO (UE) 2019/632 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 17 de abril de 2019
+    changes:
+    - Altera Artigo 34.º — Gestão das decisões relativas a informações vinculativas
+    - Altera Artigo 55.º — Períodos, datas e prazos
+    - Altera Artigo 86.º — Regras especiais para o cálculo do montante dos direitos de importação
+    - Altera Artigo 89.º — Disposições gerais
+    - Altera Artigo 116.º — Disposições gerais
+    - Altera Artigo 124.º — Extinção
+    - Altera Artigo 126.º — Delegação de poderes
+    - Altera Artigo 129.º — Alteração e anulação da declaração sumária de entrada
+    - Altera Artigo 139.º — Apresentação das mercadorias à alfândega
+    - Altera Artigo 146.º — Alteração e anulação da declaração de depósito temporário
+    - Altera Artigo 272.º — Alteração e anulação da declaração sumária de saída
+    - Altera Artigo 275.º — Alteração e anulação da notificação de reexportação
+    - Altera Artigo 279.º — Delegação de poderes
+    - Altera Notas
+    - Adita Artigo 136.º — Mercadorias que tenham saído temporariamente do território aduaneiro da União por via marítima
+      ou aérea
+    - Adita Artigo 260.º-A — Mercadorias reparadas ou alteradas no âmbito de acordos internacionais
+    - Adita Artigo 278.º — Medidas transitórias
+    - Adita Artigo 278.º-A — Obrigações de apresentação de relatórios
+    - Suprime Artigo 136.º — Serviços aéreos e marítimos intra-União
+    - Suprime Artigo 278.º — Disposições transitórias
+  - date: '2020-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º — Território aduaneiro
+    - Altera Artigo 34.º — Gestão das decisões relativas a informações vinculativas
+    - Altera Artigo 55.º — Períodos, datas e prazos
+    - Altera Artigo 86.º — Regras especiais para o cálculo do montante dos direitos de importação
+    - Altera Artigo 89.º — Disposições gerais
+    - Altera Artigo 116.º — Disposições gerais
+    - Altera Notas
+  - date: '2022-12-12'
+    amending: eu:celex:32022R2399:por
+    amending_title: REGULAMENTO (UE) 2022/2399 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022
+    changes:
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 34.º — Gestão das decisões relativas a informações vinculativas
+    - Altera Artigo 55.º — Períodos, datas e prazos
+    - Altera Artigo 86.º — Regras especiais para o cálculo do montante dos direitos de importação
+    - Altera Artigo 89.º — Disposições gerais
+    - Altera Artigo 116.º — Disposições gerais
+    - Altera Artigo 163.º — Documentos de suporte
+    - Altera Notas
 identifiers:
   celex: 32013R0952
   eli: http://data.europa.eu/eli/reg/2013/952/oj
@@ -50,7 +143,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/80502785-3178-11e3-8d1c-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/1c0f12d9-8b8e-11ed-999b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0952-20221212
-  retrieved_at: '2026-10-22T02:37:16Z'
+  retrieved_at: '2026-10-22T16:22:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T14:35:48.233+02:00'
 integrity:
@@ -59,9 +152,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:16Z'
-  notes: Texto consolidado 02013R0952-20221212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:22:07Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2013-952.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -476,37 +569,19 @@ relationships:
   date: '2013-06-20'
 article_structure:
   article_count: 290
-  section_count: 163
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 164
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:16Z'
+  checked_at: '2026-10-22T16:22:07Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013
-
-> 02013R0952 — PT — 12.12.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R2339) — [REGULAMENTO (EU) 2016/2339 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2339) — L 354 — 32 — 23.12.2016
-- [►M2](http://publications.europa.eu/resource/celex/32019R0474) — [REGULAMENTO (UE) 2019/474 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019R0474) — L 83 — 38 — 25.3.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019R0632) — [REGULAMENTO (UE) 2019/632 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0632) — L 111 — 54 — 25.4.2019
-- [►M4](http://publications.europa.eu/resource/celex/32022R2399) — [REGULAMENTO (UE) 2022/2399 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2399) — L 317 — 1 — 9.12.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R0952R%2801%29) — [Rectificação, JO L 287, 29.10.2013, p. 90 (952/2013)](http://publications.europa.eu/resource/celex/32013R0952R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013R0952R%2803%29) — [Rectificação, JO L 267, 30.9.2016, p. 3 (952/2013)](http://publications.europa.eu/resource/celex/32013R0952R%2803%29)
-
-## REGULAMENTO (UE) N.º 952/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de outubro de 2013
 

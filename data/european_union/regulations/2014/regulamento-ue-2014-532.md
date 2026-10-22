@@ -35,6 +35,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-20'
+version_history:
+  file: regulamento-ue-2014-532.versoes.json
+  count: 2
+  source_lastmod: '2021-04-20'
+  versions:
+  - date: '2014-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-20'
+    amending: eu:celex:32021R0629:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/629 DA COMISSÃO de 4 de novembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 3.º-A
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita ANEXO I
+    - Adita Lista dos dados a registar e armazenar em formato eletrónico no âmbito do sistema de monitorização (a que se refere
+      o artigo 2.º)
+    - Adita ANEXO II
+    - Adita Requisitos-chave dos sistemas de gestão e controlo e classificação em termos do seu funcionamento como referido
+      no artigo 9.º
+    - Suprime Artigo 2.º — Dados a registar e armazenar em formato informatizado
+    - Suprime Artigo 3.º — Requisitos mínimos detalhados para o registo da auditoria
+    - Suprime Artigo 4.º — Utilização dos dados recolhidos durante as auditorias realizadas pelos funcionários ou representantes
+      autorizados da Comissão
+    - Suprime Artigo 5.º — Auditoria às operações
+    - Suprime Artigo 6.º — Metodologia aplicável à seleção da amostra de operações
+    - Suprime Artigo 7.º — Auditorias às contas
+    - Suprime Artigo 8.º — Critérios para determinar falhas graves no bom funcionamento dos sistemas de gestão e controlo
+    - Suprime Artigo 9.º — Critérios para a aplicação de correções financeiras de taxa fixa ou extrapoladas e critérios para
+      determinar o nível de correção financeira
 identifiers:
   celex: 32014R0532
   eli: http://data.europa.eu/eli/reg_del/2014/532/oj
@@ -49,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aa14f7b9-dff1-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/9d32eb8c-c2f8-11eb-a925-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0532-20210420
-  retrieved_at: '2026-10-22T02:53:23Z'
+  retrieved_at: '2026-10-22T16:33:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T04:04:20.382+02:00'
 integrity:
@@ -58,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:23Z'
-  notes: Texto consolidado 02014R0532-20210420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:40Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-532.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -109,29 +150,20 @@ relationships:
   date: '2014-09-20'
 article_structure:
   article_count: 11
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:23Z'
-  warnings: []
+  checked_at: '2026-10-22T16:33:40Z'
+  warnings:
+  - '02014R0532-20140521: versão indisponível (Sem expressão na língua por para CELEX 02014R0532-20140521.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 532/2014 da Comissão, de 13 de março de 2014
-
-> 02014R0532 — PT — 20.04.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R0629) — [REGULAMENTO DELEGADO (UE) 2021/629 DA COMISSÃO de 4 de novembro de 2020](http://publications.europa.eu/resource/celex/32021R0629) — L 132 — 4 — 19.4.2021
-
-## REGULAMENTO DELEGADO (UE) N.º 532/2014 DA COMISSÃO
 
 de 13 de março de 2014
 

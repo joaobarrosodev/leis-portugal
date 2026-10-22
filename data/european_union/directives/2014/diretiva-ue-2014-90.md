@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: diretiva-ue-2014-90.versoes.json
+  count: 3
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2014-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-11'
+    amending: eu:celex:32021L1206:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/1206 DA COMISSÃO de 30 de abril de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Prescrições relativas aos equipamentos marítimos
+    - Altera Artigo 8.º — Normas relativas aos equipamentos marítimos
+    - Altera Artigo 15.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 42.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - 'Adita I. MÓDULO B: EXAME CE DE TIPO'
+    - 'Adita II. MÓDULO D: CONFORMIDADE COM O TIPO BASEADA NA GARANTIA DA QUALIDADE DO PROCESSO DE PRODUÇÃO'
+    - 'Adita III. MÓDULO E: CONFORMIDADE COM O TIPO BASEADA NA GARANTIA DA QUALIDADE DO PRODUTO'
+    - 'Adita IV. MÓDULO F: CONFORMIDADE COM O TIPO BASEADA NA VERIFICAÇÃO DO PRODUTO'
+    - 'Adita V. MÓDULO G: CONFORMIDADE BASEADA NA VERIFICAÇÃO POR UNIDADE'
+    - Adita ANEXO III
+    - Adita REQUISITOS A CUMPRIR PELOS ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE PARA SE TORNAREM ORGANISMOS NOTIFICADOS
+    - Adita ANEXO IV
+    - Adita PROCEDIMENTO DE NOTIFICAÇÃO
+    - Adita 1. Pedido de notificação
+    - Adita 2. Procedimento de notificação
+    - Adita 3. Números de identificação e listas dos organismos notificados
+    - Adita ANEXO V
+    - Adita REQUISITOS A CUMPRIR PELAS AUTORIDADES NOTIFICADORAS
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 4.º — Prescrições relativas aos equipamentos marítimos
+    - Altera Artigo 8.º — Normas relativas aos equipamentos marítimos
+    - Altera Notas
 identifiers:
   celex: 32014L0090
   eli: http://data.europa.eu/eli/dir/2014/90/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e368582c-2e82-11e4-8c3c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/3c5b6d37-6403-11f1-9b18-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0090-20260802
-  retrieved_at: '2026-10-22T02:53:22Z'
+  retrieved_at: '2026-10-22T16:31:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T08:32:18.558+02:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:22Z'
-  notes: Texto consolidado 02014L0090-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:03Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2014-90.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -231,34 +275,20 @@ relationships:
   source: null
 article_structure:
   article_count: 42
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:22Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:03Z'
+  warnings:
+  - '02014L0090-20140917: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2014/90/UE do Parlamento Europeu e do Conselho, de 23 de julho de 2014
-
-> 02014L0090 — PT — 02.08.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1206) — [DIRETIVA DELEGADA (UE) 2021/1206 DA COMISSÃO de 30 de abril de 2021](http://publications.europa.eu/resource/celex/32021L1206) — L 261 — 45 — 22.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0090R%2805%29) — [Rectificação, JO L 146, 11.6.2018, p. 8 (2014/90/UE)](http://publications.europa.eu/resource/celex/32014L0090R%2805%29)
-
-## DIRETIVA 2014/90/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de julho de 2014
 

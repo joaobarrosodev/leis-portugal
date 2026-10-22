@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-12'
+version_history:
+  file: diretiva-ue-2014-61.versoes.json
+  count: 2
+  source_lastmod: '2014-06-12'
+  versions:
+  - date: '2014-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Procedimento de concessão de licença
+    - Altera Artigo 8.º — Construção de infraestruturas físicas
+    - Altera Artigo 15.º — Destinatários
+    - Altera Notas
 identifiers:
   celex: 32014L0061
   eli: http://data.europa.eu/eli/dir/2014/61/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/09f3d788-e23b-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/99310cf6-010d-4f76-9ef9-14167a7d5b1d.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0061-20140612
-  retrieved_at: '2026-10-22T03:00:19Z'
+  retrieved_at: '2026-10-22T16:30:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T01:38:20.094+02:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:19Z'
-  notes: Texto consolidado 02014L0061-20140612.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:30:05Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-61.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,29 +181,19 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:19Z'
+  checked_at: '2026-10-22T16:30:05Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/61/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 2014L0061 — PT — 12.06.2014 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0061R%2801%29) — [Rectificação, JO L 358, 13.12.2014, p. 50 (2014/61/UE)](http://publications.europa.eu/resource/celex/32014L0061R%2801%29)
-
-## DIRETIVA 2014/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

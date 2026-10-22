@@ -37,6 +37,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-12'
+version_history:
+  file: regulamento-ue-2014-514.versoes.json
+  count: 2
+  source_lastmod: '2022-04-12'
+  versions:
+  - date: '2020-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-04-12'
+    amending: eu:celex:32022R0585:por
+    amending_title: REGULAMENTO (UE) 2022/585 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Proteção dos interesses financeiros da União Europeia
+    - Altera Artigo 17.º — Princípios gerais de elegibilidade
+    - Altera Artigo 40.º — Encerramento do programa
+    - Altera Artigo 48.º — Obrigações dos Estados-Membros
+    - Altera Artigo 50.º — Princípios
+    - Altera Artigo 54.º — Relatórios de execução
+    - Altera Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão
+    - Altera Notas
 identifiers:
   celex: 32014R0514
   eli: http://data.europa.eu/eli/reg/2014/514/oj
@@ -51,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d14ce739-dff0-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0514-20220412
-  retrieved_at: '2026-10-22T02:53:23Z'
+  retrieved_at: '2026-10-22T16:33:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T02:15:15.314+02:00'
 integrity:
@@ -60,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:23Z'
-  notes: Texto consolidado 02014R0514-20220412.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:27Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-514.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,30 +214,20 @@ relationships:
   date: '2020-07-30'
 article_structure:
   article_count: 61
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:23Z'
-  warnings: []
+  checked_at: '2026-10-22T16:33:27Z'
+  warnings:
+  - '02014R0514-20140101: versão indisponível (Sem expressão na língua por para CELEX 02014R0514-20140101.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014R0514 — PT — 12.04.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1543) — [REGULAMENTO (UE) 2020/1543 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1543) — L 356 — 3 — 26.10.2020
-- [►M2](http://publications.europa.eu/resource/celex/32022R0585) — [REGULAMENTO (UE) 2022/585 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0585) — L 112 — 1 — 11.4.2022
-
-## REGULAMENTO (UE) N.º 514/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

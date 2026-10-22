@@ -39,6 +39,576 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-18'
+version_history:
+  file: regulamento-ue-2013-1308.versoes.json
+  count: 14
+  source_lastmod: '2026-08-18'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1310:por
+    amending_title: REGULAMENTO (UE) N. o 1310/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Campanhas de comercialização
+    - Altera Artigo 7.º — Limiares de referência
+    - Altera Artigo 13.º — Abertura e suspensão da intervenção pública
+    - Altera Artigo 16.º — Princípios gerais aplicáveis ao escoamento das existências de intervenção pública
+    - Altera Artigo 20.º — Competências de execução de acordo com o procedimento de exame
+    - Altera Artigo 23.º — Ajuda ao fornecimento às crianças de produtos dos setores das frutas e dos produtos hortícolas,
+      das frutas e dos produtos hortícolas transformados e das bananas
+    - Altera Artigo 32.º — Fundos operacionais
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 37.º — Poderes delegados
+    - Altera Artigo 41.º — Apresentação dos programas de apoio
+    - Altera Artigo 49.º — Seguros de colheitas
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 53.º — Poderes delegados
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 63.º — Mecanismo de salvaguarda para novas plantações
+    - Altera Artigo 64.º — Concessão de autorizações para novas plantações
+    - Altera Artigo 66.º — Replantações
+    - Altera Artigo 67.º — Regra de minimis
+    - Altera Artigo 68.º — Disposições transitórias
+    - Altera Artigo 71.º — Plantações não autorizadas
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 91.º — Competências de execução nos termos do procedimento de exame
+    - Altera Artigo 92.º — Âmbito de aplicação
+    - Altera Artigo 93.º — Definições
+    - Altera Artigo 94.º — Pedidos de proteção
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 103.º — Proteção
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 119.º — Indicações obrigatórias
+    - Altera Artigo 120.º — Indicações facultativas
+    - Altera Artigo 122.º — Poderes delegados
+    - Altera Artigo 127.º — Contratos de entrega
+    - Altera Artigo 136.º — Atribuição das quotas
+    - Altera Artigo 137.º — Empresas aprovadas
+  - date: '2016-07-26'
+    amending: eu:celex:32016R1166:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/1166 DA COMISSÃO de 17 de maio de 2016
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 139.º — Produção extra quota
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 196.º — Âmbito de aplicação
+    - Altera Artigo 230.º — Revogações
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação dos bovinos de idade inferior a doze meses no matadouro
+    - Altera VI. Controlos oficiais
+    - Altera III. Leite de consumo
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera II. Terminologia
+    - Altera Apêndice II
+    - Altera PONTO XI
+    - Altera ANEXO XIV
+    - Altera Notas
+  - date: '2016-07-31'
+    amending: eu:celex:32016R1226:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/1226 DA COMISSÃO de 4 de maio de 2016
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 139.º — Produção extra quota
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 196.º — Âmbito de aplicação
+    - Altera Artigo 230.º — Revogações
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação dos bovinos de idade inferior a doze meses no matadouro
+    - Altera VI. Controlos oficiais
+    - Altera III. Leite de consumo
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO IX
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita MENÇÕES RESERVADAS FACULTATIVAS
+  - date: '2017-08-01'
+    amending: eu:celex:32016R0791:por
+    amending_title: REGULAMENTO (UE) 2016/791 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de maio de 2016
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 22.º — Grupo-alvo
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 139.º — Produção extra quota
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 196.º — Âmbito de aplicação
+    - Altera Artigo 217.º — Pagamentos nacionais para a distribuição de produtos às crianças
+    - Altera Artigo 225.º — Obrigação de apresentação de relatórios por parte da Comissão
+    - Altera Artigo 230.º — Revogações
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação dos bovinos de idade inferior a doze meses no matadouro
+    - Altera VI. Controlos oficiais
+    - Altera III. Leite de consumo
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Ajuda à distribuição de fruta e produtos hortícolas e de leite e produtos lácteos nos estabelecimentos de ensino
+    - Adita Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Adita Artigo 23.º-A — Disposições financeiras
+    - Adita Artigo 24.º — Delegação de poderes
+    - Adita Artigo 25.º — Competências de execução nos termos do procedimento de exame
+    - Adita PRODUTOS REFERIDOS NO ARTIGO 23.º, N.º 5
+    - Adita Categoria I
+    - Adita Categoria II
+    - Suprime Regimes para melhorar o acesso aos géneros alimentícios
+    - Suprime Regime de distribuição de fruta e de produtos hortícolas nas escolas
+    - Suprime Artigo 23.º — Ajuda ao fornecimento às crianças de produtos dos setores das frutas e dos produtos hortícolas,
+      das frutas e dos produtos hortícolas transformados e das bananas
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2393:por
+    amending_title: REGULAMENTO (UE) 2017/2393 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 33.º — Programas operacionais
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 37.º — Poderes delegados
+    - Altera Artigo 38.º — Competências de execução de acordo com o procedimento de exame
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 64.º — Concessão de autorizações para novas plantações
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 139.º — Produção extra quota
+    - Altera Artigo 148.º — Relações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 152.º — Organizações de produtores
+    - Altera Artigo 154.º — Reconhecimento das organizações de produtores
+    - Altera Artigo 157.º — Organizações interprofissionais
+    - Altera Artigo 161.º — Reconhecimento das organizações de produtores no setor do leite e dos produtos lácteos
+    - Altera Artigo 168.º — Relações contratuais
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 184.º — Contingentes pautais
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 196.º — Âmbito de aplicação
+    - Altera Artigo 209.º — Exceções relativas aos objetivos da PAC e aos agricultores e associações de agricultores
+    - Altera Artigo 222.º — Aplicabilidade do artigo 101.º, n.º 1, do TFUE
+    - Altera Artigo 230.º — Revogações
+    - Altera Artigo 232.º — Entrada em vigor e aplicação
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação dos bovinos de idade inferior a doze meses no matadouro
+    - Altera VI. Controlos oficiais
+    - Altera 1) Vinho
+    - Altera III. Leite de consumo
+    - Altera Produtos do setor da carne de aves de capoeira
+  - date: '2020-12-29'
+    amending: eu:celex:32020R2220:por
+    amending_title: REGULAMENTO (UE) 2020/2220 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 29.º — Programas de apoio ao setor do azeite e das azeitonas de mesa
+    - Altera Artigo 33.º — Programas operacionais
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 35.º — Assistência financeira nacional
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 55.º — Programas nacionais e financiamento
+    - Altera Artigo 58.º — Ajudas às organizações de produtores
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 68.º — Disposições transitórias
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 91.º — Competências de execução nos termos do procedimento de exame
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 139.º — Produção extra quota
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 173.º — Poderes delegados
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 196.º — Âmbito de aplicação
+    - Altera Artigo 211.º — Aplicação dos artigos 107.º a 109.º do TFUE
+    - Altera Artigo 214.º-A — Pagamentos nacionais para determinados setores na Finlândia
+    - Altera Artigo 230.º — Revogações
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor do arroz
+    - Altera Definições relativas ao setor da apicultura
+    - Altera B. Qualidade-tipo do açúcar
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera B. Grelha da União para a classificação das carcaças de suínos
+    - Altera C. Grelha da União para a classificação das carcaças de ovinos
+    - Altera ANEXO VI
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Categorias de produtos vitivinícolas
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+  - date: '2021-12-07'
+    amending: eu:celex:32021R2117:por
+    amending_title: REGULAMENTO (UE) 2021/2117 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de dezembro de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Taxas de conversão para o arroz
+    - Altera Artigo 6.º — Campanhas de comercialização
+    - Altera Artigo 12.º — Períodos de intervenção pública
+    - Altera Artigo 16.º — Princípios gerais aplicáveis ao escoamento das existências de intervenção pública
+    - Altera Artigo 17.º — Produtos elegíveis
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 23.º-A — Disposições financeiras
+    - Altera Artigo 34.º — Assistência financeira da União
+    - Altera Artigo 50.º — Investimentos
+    - Altera Artigo 61.º — Duração
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 63.º — Mecanismo de salvaguarda para novas plantações
+    - Altera Artigo 64.º — Concessão de autorizações para novas plantações
+    - Altera Artigo 65.º — Papel das organizações profissionais
+    - Altera Artigo 68.º — Disposições transitórias
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 81.º — Castas de uva de vinho
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 86.º — Reserva, alteração e cancelamento das menções reservadas facultativas
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 90.º — Disposições especiais aplicáveis às importações de vinho
+    - Altera Artigo 92.º — Âmbito de aplicação
+    - Altera Artigo 93.º — Definições
+    - Altera Artigo 94.º — Pedidos de proteção
+    - Altera Artigo 96.º — Procedimento nacional preliminar
+    - Altera Artigo 97.º — Exame pela Comissão
+    - Altera Artigo 98.º — Procedimento de oposição
+    - Altera Artigo 99.º — Decisão sobre a proteção
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 103.º — Proteção
+    - Altera Artigo 105.º — Alterações do caderno de especificações
+    - Altera Artigo 106.º — Cancelamento
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 119.º — Indicações obrigatórias
+    - Altera Artigo 122.º — Poderes delegados
+    - Altera Artigo 125.º — Acordos no setor do açúcar
+    - Altera Artigo 148.º — Relações contratuais no setor do leite e dos produtos lácteos
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 145.º — Cadastro vitícola e inventário do potencial de produção
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 225.º — Obrigação de apresentação de relatórios por parte da Comissão
+    - Altera Artigo 230.º — Revogações
+    - Altera Frutas e produtos hortícolas
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 2.º — Disposições gerais da política agrícola comum (PAC)
+    - Adita Ajuda ao fornecimento de fruta e produtos hortícolas e de leite e produtos lácteos aos estabelecimentos de ensino
+    - Adita Subsecção 4-A
+    - Adita Controlos e sanções
+    - Adita Artigo 90.º-A — Controlos e sanções relativos às regras de comercialização
+    - Adita Controlos relacionados com as denominações de origem, as indicações geográficas e as menções tradicionais
+    - Adita Artigo 116.º-A — Controlos
+    - Adita Artigo 214.º-A — Pagamentos nacionais para determinados sectores na Finlândia
+    - Adita QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^25^](http://publications.europa.eu/resource/cellar/48a7e8ca-8100-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0041))
+    - Suprime Artigo 2.º — Disposições gerais da Política Agrícola Comum (PAC)
+    - Suprime Regimes de ajudas
+    - Suprime Ajuda à distribuição de fruta e produtos hortícolas e de leite e produtos lácteos nos estabelecimentos de ensino
+    - Suprime Ajuda no setor do azeite e das azeitonas de mesa
+    - Suprime Artigo 29.º — Programas de apoio ao setor do azeite e das azeitonas de mesa
+  - date: '2023-12-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Disposições gerais da política agrícola comum (PAC)
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 23.º-A — Disposições financeiras
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 102.º — Relação com marcas
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 116.º-A — Controlos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 119.º — Indicações obrigatórias
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 230.º — Revogações
+    - Altera Frutas e produtos hortícolas
+    - Altera Outros produtos
+    - Altera Definições técnicas relativas ao setor do açúcar
+    - Altera Definições relativas ao setor da apicultura
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^25^](http://publications.europa.eu/resource/cellar/99165c0e-84aa-11ee-99ba-01aa75ed71a1.0023.02/DOC_1#E0041))
+    - Suprime QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^25^](http://publications.europa.eu/resource/cellar/48a7e8ca-8100-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0041))
+  - date: '2024-05-13'
+    amending: eu:celex:32024R1143:por
+    amending_title: REGULAMENTO (UE) 2024/1143 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Disposições gerais da política agrícola comum (PAC)
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 23.º-A — Disposições financeiras
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 93.º — Definições
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 120.º — Indicações facultativas
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 166.º-A — Regulação da oferta de produtos agrícolas com uma denominação de origem protegida ou uma indicação
+      geográfica protegida
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 230.º — Revogações
+    - Altera Artigo 231.º — Regras transitórias
+    - Altera Frutas e produtos hortícolas
+    - Altera Outros produtos
+    - Altera Definições técnicas relativas ao setor do açúcar
+    - Altera Definições relativas ao setor da apicultura
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 94.º
+    - Adita Artigo 95.º
+    - Adita Artigo 103.º
+    - Adita Artigo 110.º — Competências de execução
+    - Adita Artigo 113.º-A
+    - Adita Controlos para verificar a conformidade com o caderno de especificações das denominações de origem e indicações
+      geográficas e para verificar a conformidade com a definição e as condições de utilização das menções tradicionais protegidas,
+      bem como relativamente à fiscalização do cumprimento das condições de utilização das menções tradicionais.
+    - Adita Artigo 116.º-A
+    - Adita QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^24^](http://publications.europa.eu/resource/cellar/dd6420cd-1213-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0043))
+    - Suprime Artigo 94.º — Pedidos de proteção
+    - Suprime Artigo 95.º — Requerentes
+  - date: '2024-11-08'
+    amending: eu:celex:32023R2464:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2464 DA COMISSÃO de 17 de agosto de 2023
+    changes:
+    - Altera Artigo 2.º — Disposições gerais da política agrícola comum (PAC)
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 230.º — Revogações
+    - Altera Frutas e produtos hortícolas
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Ovos de galinhas da espécie Gallus gallus
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 94.º — Caderno de especificações
+    - Adita Artigo 95.º — Documento único
+    - Adita Artigo 103.º — Proteção
+    - Adita Artigo 113.º-A — Relação com as denominações de origem e indicações geográficas
+    - Adita Artigo 116.º-A — Controlos
+    - Adita QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^24^](http://publications.europa.eu/resource/cellar/baf11c56-907d-11ef-a130-01aa75ed71a1.0020.02/DOC_2#E0043))
+    - Suprime Artigo 94.º
+    - Suprime Artigo 95.º
+    - Suprime Artigo 103.º
+    - Suprime Artigo 113.º-A
+    - Suprime Artigo 116.º-A
+    - Suprime QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^24^](http://publications.europa.eu/resource/cellar/dd6420cd-1213-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0043))
+  - date: '2026-03-18'
+    amending: eu:celex:32026R0471:por
+    amending_title: REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 2.º — Disposições gerais da política agrícola comum (PAC)
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 61.º — Duração
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 63.º — Mecanismo de salvaguarda para novas plantações
+    - Altera Artigo 64.º — Concessão de autorizações para novas plantações
+    - Altera Artigo 65.º — Papel das organizações profissionais
+    - Altera Artigo 66.º — Replantações
+    - Altera Artigo 69.º — Poderes delegados
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 94.º — Caderno de especificações
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 113.º-A — Relação com as denominações de origem e indicações geográficas
+    - Altera Artigo 116.º-A — Controlos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 122.º — Poderes delegados
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 167.º — Regras de comercialização para melhorar e estabilizar o funcionamento do mercado comum vitivinícola
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 230.º — Revogações
+    - Altera Frutas e produtos hortícolas
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Categorias de produtos vitivinícolas
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 172.º-B — Orientação por parte de organizações interprofissionais e agrupamentos de produtores para a venda
+      de uvas, mostos e vinhos a granel com denominação de origem protegida ou indicação geográfica protegida
+    - Adita Artigo 216.º
+    - Adita Pagamentos nacionais para a destilação de vinho, a colheita em verde e o arranque em casos justificados de crise
+    - Adita QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^25^](http://publications.europa.eu/resource/cellar/a3859396-3dd3-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0044))
+  - date: '2026-08-18'
+    amending: eu:celex:32026R1739:por
+    amending_title: REGULAMENTO (UE) 2026/1739 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026
+    changes:
+    - Altera Artigo 2.º — Disposições gerais da política agrícola comum (PAC)
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 23.º — Ajuda ao fornecimento de fruta e produtos hortícolas nas escolas, e de leite escolar, medidas educativas
+      de apoio e custos conexos
+    - Altera Artigo 62.º — Autorizações
+    - Altera Artigo 66.º — Replantações
+    - Altera Artigo 75.º — Estabelecimento e teor
+    - Altera Artigo 78.º — Definições, designações e denominações de venda respeitantes a determinados setores e produtos
+    - Altera Artigo 83.º — Regras nacionais para certos produtos e setores
+    - Altera Artigo 87.º — Menções reservadas facultativas adicionais
+    - Altera Artigo 94.º — Caderno de especificações
+    - Altera Artigo 100.º — Homonímia
+    - Altera Artigo 107.º — Nomes de vinhos atualmente protegidos
+    - Altera Artigo 113.º-A — Relação com as denominações de origem e indicações geográficas
+    - Altera Artigo 116.º-A — Controlos
+    - Altera Artigo 118.º — Aplicabilidade das regras horizontais
+    - Altera Artigo 119.º — Indicações obrigatórias
+    - Altera Artigo 149.º — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 152.º — Organizações de produtores
+    - Altera Artigo 153 — Estatutos das organizações de produtores
+    - Altera Artigo 157.º — Organizações interprofissionais
+    - Altera Artigo 181.º — Regime de preços de entrada para certos produtos dos setores das frutas e produtos hortícolas,
+      das frutas e produtos hortícolas transformados e vitivinícola
+    - Altera Artigo 194.º — Medidas de salvaguarda
+    - Altera Artigo 210.º-A — Iniciativas verticais e horizontais em prol da sustentabilidade
+    - Altera Artigo 222.º — Aplicabilidade do artigo 101.º, n.º 1, do TFUE
+    - Altera Artigo 222.º-A — Observatórios dos mercados da União
+    - Altera Artigo 230.º — Revogações
+    - Altera Frutas e produtos hortícolas
+    - Altera Outros produtos
+    - Altera Definições relativas ao setor da apicultura
+    - Altera A. Grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade
+    - Altera Carne de bovinos de idade inferior a doze meses
+    - Altera Leite para consumo humano do código NC 0401
+    - Altera Produtos do setor da carne de aves de capoeira
+    - Altera Apêndice II
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^26^](http://publications.europa.eu/resource/cellar/0d59a8e1-a675-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0045))
+    - Suprime QUALIDADE-TIPO DO ARROZ E DO AÇÚCAR A QUE SE REFERE O ARTIGO 1.º-A DO REGULAMENTO (UE) N.º 1370/2013 ([^25^](http://publications.europa.eu/resource/cellar/a3859396-3dd3-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0044))
 identifiers:
   celex: 32013R1308
   eli: http://data.europa.eu/eli/reg/2013/1308/oj
@@ -53,7 +623,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/0d59a8e1-a675-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1308-20260818
-  retrieved_at: '2026-10-22T02:26:59Z'
+  retrieved_at: '2026-10-22T16:25:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T05:22:49.127+02:00'
 integrity:
@@ -62,9 +632,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:26:59Z'
-  notes: Texto consolidado 02013R1308-20260818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:16Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2013-1308.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1033,50 +1603,20 @@ relationships:
   date: '2013-04-08'
 article_structure:
   article_count: 164
-  section_count: 248
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 252
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:26:59Z'
-  warnings: []
+  checked_at: '2026-10-22T16:25:16Z'
+  warnings:
+  - '02013R1308-20190101: versão indisponível (HTTP 404 para http://publications.europa.eu/resource/cellar/463242e9-189a-11e9-8d04-01aa75ed71a1.0019.03/DOC_1)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013
-
-> 02013R1308 — PT — 18.08.2026 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1310) — [REGULAMENTO (UE) N.º 1310/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1310) — L 347 — 865 — 20.12.2013
-- [►M2](http://publications.europa.eu/resource/celex/32016R0791) — [REGULAMENTO (UE) 2016/791 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0791) — L 135 — 1 — 24.5.2016
-- [►M3](http://publications.europa.eu/resource/celex/32016R1166) — [REGULAMENTO DELEGADO (UE) 2016/1166 DA COMISSÃO de 17 de maio de 2016](http://publications.europa.eu/resource/celex/32016R1166) — L 193 — 17 — 19.7.2016
-- [►M4](http://publications.europa.eu/resource/celex/32016R1226) — [REGULAMENTO DELEGADO (UE) 2016/1226 DA COMISSÃO de 4 de maio de 2016](http://publications.europa.eu/resource/celex/32016R1226) — L 202 — 5 — 28.7.2016
-- [►M5](http://publications.europa.eu/resource/celex/32017R2393) — [REGULAMENTO (UE) 2017/2393 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2393) — L 350 — 15 — 29.12.2017
-- [►M6](http://publications.europa.eu/resource/celex/32020R2220) — [REGULAMENTO (UE) 2020/2220 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2220) — L 437 — 1 — 28.12.2020
-- [►M7](http://publications.europa.eu/resource/celex/32021R2117) — [REGULAMENTO (UE) 2021/2117 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2117) — L 435 — 262 — 6.12.2021
-- [►M8](http://publications.europa.eu/resource/celex/32023R2464) — [REGULAMENTO DELEGADO (UE) 2023/2464 DA COMISSÃO de 17 de agosto de 2023](http://publications.europa.eu/resource/celex/32023R2464) — L 2464 — 1 — 8.11.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024R1143) — [REGULAMENTO (UE) 2024/1143 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1143) — L 1143 — 1 — 23.4.2024
-- [►M10](http://publications.europa.eu/resource/celex/32026R0471) — [REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0471) — L 471 — 1 — 26.2.2026
-- [►M11](http://publications.europa.eu/resource/celex/32026R1739) — [REGULAMENTO (UE) 2026/1739 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1739) — L 1739 — 1 — 29.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1308R%2801%29) — [Rectificação, JO L 059, 28.2.2014, p. 47 (1308/2013)](http://publications.europa.eu/resource/celex/32013R1308R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32013R1308R%2802%29) — [Rectificação, JO L 189, 27.6.2014, p. 261 (1308/2013)](http://publications.europa.eu/resource/celex/32013R1308R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32013R1308R%2806%29) — [Rectificação, JO L 130, 19.5.2016, p. 13 (1308/2013)](http://publications.europa.eu/resource/celex/32013R1308R%2806%29)
-- [C4](http://publications.europa.eu/resource/celex/32013R1310R%2803%29) — [Rectificação, JO L 130, 19.5.2016, p. 20 (1310/2013)](http://publications.europa.eu/resource/celex/32013R1310R%2803%29)
-- [►C5](http://publications.europa.eu/resource/celex/32013R1308R%2808%29) — [Rectificação, JO L 190, 15.7.2016, p. 87 (1308/2013)](http://publications.europa.eu/resource/celex/32013R1308R%2808%29)
-- [►C6](http://publications.europa.eu/resource/celex/32016R1226R%2801%29) — [Rectificação, JO L 339, 14.12.2016, p. 12 (2016/1226)](http://publications.europa.eu/resource/celex/32016R1226R%2801%29)
-- [C7](http://publications.europa.eu/resource/celex/32013R1308R%2818%29) — [Rectificação, JO L 023, 29.1.2020, p. 12 (1308/2013)](http://publications.europa.eu/resource/celex/32013R1308R%2818%29)
-- [►C8](http://publications.europa.eu/resource/celex/32026R0471R%2802%29) — [Rectificação, JO L 90408, 22.5.2026, p. 1 (2026/471)](http://publications.europa.eu/resource/celex/32026R0471R%2802%29)
-
-## REGULAMENTO (UE) N.º 1308/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de dezembro de 2013
 

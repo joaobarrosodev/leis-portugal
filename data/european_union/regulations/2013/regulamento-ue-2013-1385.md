@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-12-28'
+version_history:
+  file: regulamento-ue-2013-1385.versoes.json
+  count: 1
+  source_lastmod: '2013-12-28'
+  versions:
+  - date: '2013-12-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32013R1385
   eli: http://data.europa.eu/eli/reg/2013/1385/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9893362b-76d6-11e3-b889-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/db1fb76b-77f2-4ff2-ae20-7801c60aa545.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1385-20131228
-  retrieved_at: '2026-10-22T02:48:34Z'
+  retrieved_at: '2026-10-22T16:25:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T22:53:22.308+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:34Z'
-  notes: Texto consolidado 02013R1385-20131228.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:53Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2013-1385.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,28 +157,18 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:34Z'
+  checked_at: '2026-10-22T16:25:53Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1385/2013 do Conselho, de 17 de dezembro de 2013
-
-> 02013R1385 — PT — 28.12.2013 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1385R%2802%29) — [Rectificação, JO L 122, 17.5.2018, p. 35 (n.o 1385/2013)](http://publications.europa.eu/resource/celex/32013R1385R%2802%29)
-
-## REGULAMENTO (UE) N.º 1385/2013 DO CONSELHO
 
 de 17 de dezembro de 2013
 

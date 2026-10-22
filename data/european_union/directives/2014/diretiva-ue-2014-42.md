@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-05-19'
+version_history:
+  file: diretiva-ue-2014-42.versoes.json
+  count: 2
+  source_lastmod: '2014-05-19'
+  versions:
+  - date: '2014-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 12.º — Transposição
+    - Altera Artigo 13.º — Relatório
+    - Altera Artigo 16.º — Destinatários
+    - Altera Notas
 identifiers:
   celex: 32014L0042
   eli: http://data.europa.eu/eli/dir/2014/42/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/982608a8-cf66-11e3-b682-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/1cf7ef70-083f-11e4-a7d0-01aa75ed71a1.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0042-20140519
-  retrieved_at: '2026-10-22T02:53:19Z'
+  retrieved_at: '2026-10-22T16:28:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T23:12:19.160+02:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:19Z'
-  notes: Texto consolidado 02014L0042-20140519.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:28:36Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-42.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -208,29 +227,19 @@ relationships:
   source: null
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:19Z'
+  checked_at: '2026-10-22T16:28:36Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/42/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014
-
-> 2014L0042 — PT — 19.05.2014 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0042R%2801%29) — [Rectificação, JO L 138, 13.5.2014, p. 114 (2014/42)](http://publications.europa.eu/resource/celex/32014L0042R%2801%29)
-
-## DIRETIVA 2014/42/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 3 de abril de 2014
 

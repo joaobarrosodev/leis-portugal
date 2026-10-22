@@ -37,6 +37,203 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-23'
+version_history:
+  file: regulamento-ue-2014-508.versoes.json
+  count: 7
+  source_lastmod: '2022-07-23'
+  versions:
+  - date: '2014-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-10-07'
+    amending: eu:celex:32017R1787:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/1787 DA COMISSÃO de 12 de junho de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Admissibilidade dos pedidos
+    - Altera Artigo 12.º — Execução orçamental
+    - Altera Artigo 18.º — Conteúdo do programa operacional
+    - Altera Artigo 29.º — Promoção do capital humano, da criação de emprego e do diálogo social
+    - Altera Artigo 33.º — Cessação temporária das atividades de pesca
+    - Altera Artigo 38.º — Limitação do impacto da pesca no meio marinho e adaptação da pesca à proteção das espécies
+    - Altera Artigo 39.º — Inovação ligada à conservação dos recursos biológicos marinhos
+    - Altera Artigo 44.º — Pesca interior e fauna e flora aquáticas interiores
+    - Altera Artigo 49.º — Serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas
+    - Altera Artigo 51.º — Aumento do potencial dos sítios aquícolas
+    - Altera Artigo 53.º — Conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 56.º — Medidas de saúde e bem-estar animal
+    - Altera Artigo 68.º — Medidas de comercialização
+    - Altera Artigo 76.º — Controlo e execução
+    - Altera Artigo 104.º — Confidencialidade
+    - Altera Artigo 121.º — Proteção dos interesses financeiros da União
+    - Altera Notas
+    - Adita DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS ARTIGOS
+      82.º E 85.º ([^23^](http://publications.europa.eu/resource/cellar/8b56139c-d570-4a04-872f-f4ae10912942.0015.02/DOC_1#E0023))
+    - Suprime DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS
+      ARTIGOS 82.º E 85.º ([^23^](http://publications.europa.eu/resource/cellar/bb8d944c-cc80-40f5-8f30-0a505538682d.0017.02/DOC_1#E0023))
+  - date: '2019-07-16'
+    amending: eu:celex:32019R1022:por
+    amending_title: REGULAMENTO (UE) 2019/1022 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Admissibilidade dos pedidos
+    - Altera Artigo 12.º — Execução orçamental
+    - Altera Artigo 18.º — Conteúdo do programa operacional
+    - Altera Artigo 29.º — Promoção do capital humano, da criação de emprego e do diálogo social
+    - Altera Artigo 33.º — Cessação temporária das atividades de pesca
+    - Altera Artigo 34.º — Cessação definitiva das atividades de pesca
+    - Altera Artigo 38.º — Limitação do impacto da pesca no meio marinho e adaptação da pesca à proteção das espécies
+    - Altera Artigo 39.º — Inovação ligada à conservação dos recursos biológicos marinhos
+    - Altera Artigo 44.º — Pesca interior e fauna e flora aquáticas interiores
+    - Altera Artigo 49.º — Serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas
+    - Altera Artigo 51.º — Aumento do potencial dos sítios aquícolas
+    - Altera Artigo 53.º — Conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 56.º — Medidas de saúde e bem-estar animal
+    - Altera Artigo 68.º — Medidas de comercialização
+    - Altera Artigo 76.º — Controlo e execução
+    - Altera Artigo 104.º — Confidencialidade
+    - Altera Artigo 121.º — Proteção dos interesses financeiros da União
+    - Altera Notas
+    - Adita DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS ARTIGOS
+      82.º E 85.º ([^24^](http://publications.europa.eu/resource/cellar/ce95a031-c321-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0024))
+    - Suprime DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS
+      ARTIGOS 82.º E 85.º ([^23^](http://publications.europa.eu/resource/cellar/8b56139c-d570-4a04-872f-f4ae10912942.0015.02/DOC_1#E0023))
+  - date: '2020-04-01'
+    amending: eu:celex:32020R0460:por
+    amending_title: REGULAMENTO (UE) 2020/460 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Admissibilidade dos pedidos
+    - Altera Artigo 12.º — Execução orçamental
+    - Altera Artigo 18.º — Conteúdo do programa operacional
+    - Altera Artigo 29.º — Promoção do capital humano, da criação de emprego e do diálogo social
+    - Altera Artigo 33.º — Cessação temporária das atividades de pesca
+    - Altera Artigo 34.º — Cessação definitiva das atividades de pesca
+    - Altera Artigo 38.º — Limitação do impacto da pesca no meio marinho e adaptação da pesca à proteção das espécies
+    - Altera Artigo 39.º — Inovação ligada à conservação dos recursos biológicos marinhos
+    - Altera Artigo 44.º — Pesca interior e fauna e flora aquáticas interiores
+    - Altera Artigo 49.º — Serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas
+    - Altera Artigo 51.º — Aumento do potencial dos sítios aquícolas
+    - Altera Artigo 53.º — Conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 56.º — Medidas de saúde e bem-estar animal
+    - Altera Artigo 57.º — Seguro das populações aquícolas
+    - Altera Artigo 68.º — Medidas de comercialização
+    - Altera Artigo 76.º — Controlo e execução
+    - Altera Artigo 104.º — Confidencialidade
+    - Altera Artigo 121.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 125.º — Comunicação de informações
+    - Altera Notas
+    - Adita Artigo 35.º
+    - Adita Fundos mutualistas para crises de saúde pública, fenómenos climáticos adversos e incidentes ambientais
+    - Adita DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS ARTIGOS
+      82.º E 85.º ([^24^](http://publications.europa.eu/resource/cellar/50b7d48c-83e7-11ea-bf12-01aa75ed71a1.0019.03/DOC_1#E0024))
+    - Suprime Artigo 35.º — Fundos mutualistas para fenómenos climáticos adversos e incidentes ambientais
+    - Suprime DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS
+      ARTIGOS 82.º E 85.º ([^24^](http://publications.europa.eu/resource/cellar/ce95a031-c321-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0024))
+  - date: '2020-04-25'
+    amending: eu:celex:32020R0560:por
+    amending_title: REGULAMENTO (UE) 2020/560 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Admissibilidade dos pedidos
+    - Altera Artigo 12.º — Execução orçamental
+    - Altera Artigo 13.º — Recursos orçamentais em gestão partilhada
+    - Altera Artigo 16.º — Repartição financeira no quadro da gestão partilhada
+    - Altera Artigo 18.º — Conteúdo do programa operacional
+    - Altera Artigo 22.º — Regras relativas aos procedimentos e aos calendários
+    - Altera Artigo 25.º — Condições gerais
+    - Altera Artigo 29.º — Promoção do capital humano, da criação de emprego e do diálogo social
+    - Altera Artigo 33.º — Cessação temporária das atividades de pesca
+    - Altera Artigo 34.º — Cessação definitiva das atividades de pesca
+    - Altera Artigo 38.º — Limitação do impacto da pesca no meio marinho e adaptação da pesca à proteção das espécies
+    - Altera Artigo 39.º — Inovação ligada à conservação dos recursos biológicos marinhos
+    - Altera Artigo 44.º — Pesca interior e fauna e flora aquáticas interiores
+    - Altera Artigo 49.º — Serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas
+    - Altera Artigo 51.º — Aumento do potencial dos sítios aquícolas
+    - Altera Artigo 53.º — Conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 56.º — Medidas de saúde e bem-estar animal
+    - Altera Artigo 66.º — Planos de produção e de comercialização
+    - Altera Artigo 67.º — Ajuda ao armazenamento
+    - Altera Artigo 68.º — Medidas de comercialização
+    - Altera Artigo 69.º — Transformação de produtos da pesca e da aquicultura
+    - Altera Artigo 70.º — Regime de compensação
+    - Altera Artigo 72.º — Plano de compensação
+    - Altera Artigo 76.º — Controlo e execução
+    - Altera Artigo 79.º — Objetivos específicos
+    - Altera Artigo 94.º — Determinação das taxas de cofinanciamento
+    - Altera Artigo 95.º — Intensidade da ajuda pública
+    - Altera Artigo 104.º — Confidencialidade
+    - Altera Artigo 121.º — Proteção dos interesses financeiros da União
+    - Altera Notas
+    - Adita Artigo 55. — Medidas de saúde pública
+    - Adita DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS ARTIGOS
+      82.º E 85.º ([^24^](http://publications.europa.eu/resource/cellar/48d0bbc8-9615-11ea-aac4-01aa75ed71a1.0019.03/DOC_1#E0024))
+    - Suprime Artigo 55.º — Medidas de saúde pública
+    - Suprime DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS
+      ARTIGOS 82.º E 85.º ([^24^](http://publications.europa.eu/resource/cellar/50b7d48c-83e7-11ea-bf12-01aa75ed71a1.0019.03/DOC_1#E0024))
+  - date: '2020-12-01'
+    amending: eu:celex:32020R1781:por
+    amending_title: REGULAMENTO (UE) 2020/1781 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Admissibilidade dos pedidos
+    - Altera Artigo 12.º — Execução orçamental
+    - Altera Artigo 18.º — Conteúdo do programa operacional
+    - Altera Artigo 29.º — Promoção do capital humano, da criação de emprego e do diálogo social
+    - Altera Artigo 33.º — Cessação temporária das atividades de pesca
+    - Altera Artigo 34.º — Cessação definitiva das atividades de pesca
+    - Altera Artigo 38.º — Limitação do impacto da pesca no meio marinho e adaptação da pesca à proteção das espécies
+    - Altera Artigo 39.º — Inovação ligada à conservação dos recursos biológicos marinhos
+    - Altera Artigo 44.º — Pesca interior e fauna e flora aquáticas interiores
+    - Altera Artigo 49.º — Serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas
+    - Altera Artigo 51.º — Aumento do potencial dos sítios aquícolas
+    - Altera Artigo 53.º — Conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 56.º — Medidas de saúde e bem-estar animal
+    - Altera Artigo 68.º — Medidas de comercialização
+    - Altera Artigo 76.º — Controlo e execução
+    - Altera Artigo 104.º — Confidencialidade
+    - Altera Artigo 114.º — Relatório anual de execução
+    - Altera Artigo 121.º — Proteção dos interesses financeiros da União
+    - Altera Notas
+    - Adita DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS ARTIGOS
+      82.º E 85.º ([^25^](http://publications.europa.eu/resource/cellar/4c2120c5-3eee-11eb-b27b-01aa75ed71a1.0021.02/DOC_1#E0025))
+    - Suprime DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS
+      ARTIGOS 82.º E 85.º ([^24^](http://publications.europa.eu/resource/cellar/48d0bbc8-9615-11ea-aac4-01aa75ed71a1.0019.03/DOC_1#E0024))
+  - date: '2022-07-23'
+    amending: eu:celex:32022R1278:por
+    amending_title: REGULAMENTO (UE) 2022/1278 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Admissibilidade dos pedidos
+    - Altera Artigo 12.º — Execução orçamental
+    - Altera Artigo 13.º — Recursos orçamentais em gestão partilhada
+    - Altera Artigo 18.º — Conteúdo do programa operacional
+    - Altera Artigo 22.º — Regras relativas aos procedimentos e aos calendários
+    - Altera Artigo 29.º — Promoção do capital humano, da criação de emprego e do diálogo social
+    - Altera Artigo 33.º — Cessação temporária das atividades de pesca
+    - Altera Artigo 34.º — Cessação definitiva das atividades de pesca
+    - Altera Artigo 38.º — Limitação do impacto da pesca no meio marinho e adaptação da pesca à proteção das espécies
+    - Altera Artigo 39.º — Inovação ligada à conservação dos recursos biológicos marinhos
+    - Altera Artigo 44.º — Pesca interior e fauna e flora aquáticas interiores
+    - Altera Artigo 49.º — Serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas
+    - Altera Artigo 51.º — Aumento do potencial dos sítios aquícolas
+    - Altera Artigo 53.º — Conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 56.º — Medidas de saúde e bem-estar animal
+    - Altera Artigo 67.º — Ajuda ao armazenamento
+    - Altera Artigo 68.º — Medidas de comercialização
+    - Altera Artigo 76.º — Controlo e execução
+    - Altera Artigo 95.º — Intensidade da ajuda pública
+    - Altera Artigo 104.º — Confidencialidade
+    - Altera Artigo 121.º — Proteção dos interesses financeiros da União
+    - Altera 3. Medidas para informação dos potenciais beneficiários e dos beneficiários
+    - Altera Notas
+    - Adita DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS ARTIGOS
+      82.º E 85.º ([^25^](http://publications.europa.eu/resource/cellar/ff0d6196-0d13-11ed-b11c-01aa75ed71a1.0020.03/DOC_1#E0025))
+    - Suprime DISTRIBUIÇÃO INDICATIVA DE FUNDOS AO ABRIGO DO TÍTULO VI, CAPÍTULOS I E II, ENTRE OS OBJETIVOS PREVISTOS NOS
+      ARTIGOS 82.º E 85.º ([^25^](http://publications.europa.eu/resource/cellar/4c2120c5-3eee-11eb-b27b-01aa75ed71a1.0021.02/DOC_1#E0025))
+    - Suprime 3.1. Medidas de informação destinadas a potenciais beneficiários
+    - Suprime 3.2. Medidas de informação destinadas aos beneficiários
 identifiers:
   celex: 32014R0508
   eli: http://data.europa.eu/eli/reg/2014/508/oj
@@ -51,7 +248,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/97e4677e-dff0-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ff0d6196-0d13-11ed-b11c-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0508-20220723
-  retrieved_at: '2026-10-22T02:35:24Z'
+  retrieved_at: '2026-10-22T16:33:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T03:20:21.895+02:00'
 integrity:
@@ -60,9 +257,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:24Z'
-  notes: Texto consolidado 02014R0508-20220723.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:21Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2014-508.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -565,38 +762,19 @@ relationships:
   date: '2014-04-05'
 article_structure:
   article_count: 130
-  section_count: 104
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 106
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:24Z'
+  checked_at: '2026-10-22T16:33:21Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 02014R0508 — PT — 23.07.2022 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1787) — [REGULAMENTO DELEGADO (UE) 2017/1787 DA COMISSÃO de 12 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1787) — L 256 — 1 — 4.10.2017
-- [M2](http://publications.europa.eu/resource/celex/32019R1022) — [REGULAMENTO (UE) 2019/1022 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1022) — L 172 — 1 — 26.6.2019
-- [►M3](http://publications.europa.eu/resource/celex/32020R0460) — [REGULAMENTO (UE) 2020/460 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020](http://publications.europa.eu/resource/celex/32020R0460) — L 99 — 5 — 31.3.2020
-- [►M4](http://publications.europa.eu/resource/celex/32020R0560) — [REGULAMENTO (UE) 2020/560 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0560) — L 130 — 11 — 24.4.2020
-- [►M5](http://publications.europa.eu/resource/celex/32020R1781) — [REGULAMENTO (UE) 2020/1781 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1781) — L 400 — 1 — 30.11.2020
-- [►M6](http://publications.europa.eu/resource/celex/32022R1278) — [REGULAMENTO (UE) 2022/1278 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1278) — L 195 — 1 — 22.7.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0508R%2807%29) — [Rectificação, JO L 088, 31.3.2017, p. 22 (508/2014)](http://publications.europa.eu/resource/celex/32014R0508R%2807%29)
-
-## REGULAMENTO (UE) N.º 508/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

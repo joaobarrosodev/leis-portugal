@@ -36,6 +36,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-05'
+version_history:
+  file: regulamento-ue-2014-536.versoes.json
+  count: 3
+  source_lastmod: '2022-12-05'
+  versions:
+  - date: '2014-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-31'
+    amending: eu:celex:32022R0641:por
+    amending_title: REGULAMENTO (UE) 2022/641 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Relatório de avaliação — Aspetos abrangidos pela parte I
+    - Altera Artigo 61.º — Autorização de fabrico e de importação
+    - Altera Artigo 91.º — Relação com a demais legislação da União
+    - 'Altera D. PARÂMETROS DE AVALIAÇÃO FINAL (END POINTS):'
+    - Altera A.2. Rotulagem limitada do acondicionamento primário
+    - Altera Notas
+    - Suprime A.2.1. Acondicionamento primário e embalagem externa fornecidos conjuntamente
+    - Suprime A.2.2. Acondicionamento primário de pequena dimensão
+  - date: '2022-12-05'
+    amending: eu:celex:32022R2239:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2239 DA COMISSÃO de 6 de setembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Relatório de avaliação — Aspetos abrangidos pela parte I
+    - Altera Artigo 91.º — Relação com a demais legislação da União
+    - 'Altera D. PARÂMETROS DE AVALIAÇÃO FINAL (END POINTS):'
+    - Altera A.2. Rotulagem limitada do acondicionamento primário
+    - Altera B. MEDICAMENTOS AUXILIARES NÃO AUTORIZADOS
+    - Altera D. SUBSTITUIÇÃO DE INFORMAÇÕES
+    - Altera Notas
 identifiers:
   celex: 32014R0536
   eli: http://data.europa.eu/eli/reg/2014/536/oj
@@ -50,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e7137f5b-e655-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e0288752-7571-11ed-9887-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0536-20221205
-  retrieved_at: '2026-10-22T02:45:53Z'
+  retrieved_at: '2026-10-22T16:33:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T01:26:18.724+02:00'
 integrity:
@@ -59,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:53Z'
-  notes: Texto consolidado 02014R0536-20221205.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:45Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-536.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -274,34 +308,19 @@ relationships:
   date: '2001-05-03'
 article_structure:
   article_count: 99
-  section_count: 100
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 101
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:53Z'
+  checked_at: '2026-10-22T16:33:45Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 536/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014R0536 — PT — 05.12.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0641) — [REGULAMENTO (UE) 2022/641 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0641) — L 118 — 1 — 20.4.2022
-- [►M2](http://publications.europa.eu/resource/celex/32022R2239) — [REGULAMENTO DELEGADO (UE) 2022/2239 DA COMISSÃO de 6 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R2239) — L 294 — 5 — 15.11.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0536R%2804%29) — [Rectificação, JO L 311, 17.11.2016, p. 25 (536/2014)](http://publications.europa.eu/resource/celex/32014R0536R%2804%29)
-
-## REGULAMENTO (UE) N.º 536/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

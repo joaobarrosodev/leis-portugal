@@ -37,6 +37,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-12'
+version_history:
+  file: regulamento-ue-2014-516.versoes.json
+  count: 2
+  source_lastmod: '2022-04-12'
+  versions:
+  - date: '2020-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-04-12'
+    amending: eu:celex:32022R0585:por
+    amending_title: REGULAMENTO (UE) 2022/585 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022
+    changes:
+    - Altera Artigo 6.º — Capacidade dos Estados-Membros para elaborarem, acompanharem e avaliarem as suas políticas e procedimentos
+      em matéria de asilo
+    - Altera Artigo 8.º — Imigração e medidas prévias à partida
+    - Altera Artigo 16.º — Recursos para ações específicas
+    - Altera Artigo 17.º — Recursos para o programa de reinstalação da União
+    - Altera Recursos para a transferência de requerentes de proteção internacional ou de beneficiários de proteção internacional
+    - Altera Notas
 identifiers:
   celex: 32014R0516
   eli: http://data.europa.eu/eli/reg/2014/516/oj
@@ -51,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/28b43d59-dff1-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/9fa4b5e3-ec3b-11ec-a534-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0516-20220412
-  retrieved_at: '2026-10-22T03:00:25Z'
+  retrieved_at: '2026-10-22T16:33:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T07:13:18.375+02:00'
 integrity:
@@ -60,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:25Z'
-  notes: Texto consolidado 02014R0516-20220412.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:33Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-516.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -217,31 +237,20 @@ relationships:
   date: '2013-03-13'
 article_structure:
   article_count: 32
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:25Z'
-  warnings: []
+  checked_at: '2026-10-22T16:33:33Z'
+  warnings:
+  - '02014R0516-20140520: versão indisponível (Sem expressão na língua por para CELEX 02014R0516-20140520.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 516/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014R0516 — PT — 12.04.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R2000) — [REGULAMENTO (UE) 2018/2000 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R2000) — L 328 — 78 — 21.12.2018
-- [►M2](http://publications.europa.eu/resource/celex/32020R0445) — [REGULAMENTO DELEGADO (UE) 2020/445 DA COMISSÃO de 15 de outubro de 2019](http://publications.europa.eu/resource/celex/32020R0445) — L 94 — 1 — 27.3.2020
-- [►M3](http://publications.europa.eu/resource/celex/32022R0585) — [REGULAMENTO (UE) 2022/585 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0585) — L 112 — 1 — 11.4.2022
-
-## REGULAMENTO (UE) N.º 516/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

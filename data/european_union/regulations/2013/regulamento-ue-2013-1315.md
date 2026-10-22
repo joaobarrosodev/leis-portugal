@@ -36,6 +36,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-03-18'
+version_history:
+  file: regulamento-ue-2013-1315.versoes.json
+  count: 3
+  source_lastmod: '2024-03-18'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-07-09'
+    amending: eu:celex:32014R0473:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 473/2014 DA COMISSÃO de 17 de janeiro de 2014; M2; REGULAMENTO DELEGADO
+      (UE) 2017/849 DA COMISSÃO de 7 de dezembro de 2016; M4; M5
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Objetivos da rede transeuropeia de transportes
+    - Altera Artigo 11.º — Componentes da infraestrutura
+    - Altera Artigo 12.º — Requisitos aplicáveis à infraestrutura de transporte
+    - Altera Artigo 15.º — Requisitos aplicáveis à infraestrutura de transporte
+    - Altera Artigo 17.º — Componentes da infraestrutura
+    - Altera Artigo 18.º — Requisitos aplicáveis à infraestrutura de transporte
+    - Altera Artigo 22.º — Requisitos aplicáveis à infraestrutura de transportes
+    - Altera Artigo 25.º — Requisitos aplicáveis à infraestrutura de transportes
+    - Altera Artigo 39.º — Requisitos da infraestrutura
+    - Altera Artigo 58.º — Disposições transitórias
+    - Altera Artigo 60.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita MAPAS DA REDE GLOBAL E DA REDE PRINCIPAL
+    - Adita ANEXO II
+    - Adita LISTA DOS NÓS DE LIGAÇÃO DA REDE PRINCIPAL E DA REDE GLOBAL
+    - Adita ANEXO III
+    - Adita MAPAS INDICATIVOS DA REDE TRANSEUROPEIA DE TRANSPORTES ALARGADA A PAÍSES TERCEIROS ESPECÍFICOS
+    - Adita Declarações da Comissão
+  - date: '2024-03-18'
+    amending: eu:celex:32024R0751:por
+    amending_title: M6
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 12.º — Requisitos aplicáveis à infraestrutura de transporte
+    - Altera Artigo 18.º — Requisitos aplicáveis à infraestrutura de transporte
+    - Altera Artigo 22.º — Requisitos aplicáveis à infraestrutura de transportes
+    - Altera Artigo 25.º — Requisitos aplicáveis à infraestrutura de transportes
+    - Altera Artigo 58.º — Disposições transitórias
+    - Altera Notas
 identifiers:
   celex: 32013R1315
   eli: http://data.europa.eu/eli/reg/2013/1315/oj
@@ -50,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f277232a-699e-11e3-8e4e-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/291115cf-e633-11ee-8b2b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1315-20240318
-  retrieved_at: '2026-10-22T02:43:54Z'
+  retrieved_at: '2026-10-22T16:31:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:45:41.061+02:00'
 integrity:
@@ -59,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:54Z'
-  notes: Texto consolidado 02013R1315-20240318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:13Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-1315.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -320,34 +366,24 @@ relationships:
   date: '2010-08-11'
 article_structure:
   article_count: 60
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:54Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:13Z'
+  warnings:
+  - '02013R1315-20131221: versão indisponível (Sem expressão na língua por para CELEX 02013R1315-20131221.)'
+  - '02013R1315-20140529: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R1315-20160603: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R1315-20170608: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R1315-20190306: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1315/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013
-
-> 02013R1315 — PT — 18.03.2024 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0473) — [REGULAMENTO DELEGADO (UE) N.º 473/2014 DA COMISSÃO de 17 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0473) — L 136 — 10 — 9.5.2014
-- [M2](http://publications.europa.eu/resource/celex/32016R0758) — [REGULAMENTO DELEGADO (UE) 2016/758 DA COMISSÃO de 4 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0758) — L 126 — 3 — 14.5.2016
-- [►M3](http://publications.europa.eu/resource/celex/32017R0849) — [REGULAMENTO DELEGADO (UE) 2017/849 DA COMISSÃO de 7 de dezembro de 2016](http://publications.europa.eu/resource/celex/32017R0849) — L 128I — 1 — 19.5.2017
-- [M4](http://publications.europa.eu/resource/celex/32019R0254) — [REGULAMENTO DELEGADO (UE) 2019/254 DA COMISSÃO de 9 de novembro de 2018](http://publications.europa.eu/resource/celex/32019R0254) — L 43 — 1 — 14.2.2019
-- [M5](http://publications.europa.eu/resource/celex/32023R1176) — [REGULAMENTO DELEGADO (UE) 2023/1176 DA COMISSÃO de 14 de julho de 2022](http://publications.europa.eu/resource/celex/32023R1176) — L 156 — 1 — 19.6.2023
-- [M6](http://publications.europa.eu/resource/celex/32024R0751) — [REGULAMENTO DELEGADO (UE) 2024/751 DA COMISSÃO de 11 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R0751) — L 751 — 1 — 27.2.2024
-
-## REGULAMENTO (UE) N.º 1315/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de dezembro de 2013
 

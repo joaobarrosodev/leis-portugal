@@ -38,6 +38,85 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-11-27'
+version_history:
+  file: regulamento-ue-2013-1379.versoes.json
+  count: 5
+  source_lastmod: '2024-11-27'
+  versions:
+  - date: '2013-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1385:por
+    amending_title: REGULAMENTO (UE) N. o 1385/2013 DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Objetivos
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 33.º — Estabelecimento de normas comuns de comercialização
+    - Altera Artigo 35.º — Informações obrigatórias
+    - Altera Artigo 37.º — Denominação comercial
+    - Altera Artigo 42.º — Conhecimento e compreensão do mercado
+    - Altera Artigo 44.º — Alteração do Regulamento (CE) n.º 1184/2006
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 1224/2009
+    - Altera Artigo 47.º — Regras que estabelecem normas comuns de comercialização
+    - Altera Artigo 49.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Suprime "Artigo 1.º
+  - date: '2015-06-01'
+    amending: eu:celex:32015R0812:por
+    amending_title: REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Objetivos
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 28.º — Plano de produção e de comercialização
+    - Altera Artigo 33.º — Estabelecimento de normas comuns de comercialização
+    - Altera Artigo 42.º — Conhecimento e compreensão do mercado
+    - Altera Artigo 44.º — Alteração do Regulamento (CE) n.º 1184/2006
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 1224/2009
+    - Altera Artigo 47.º — Regras que estabelecem normas comuns de comercialização
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2020-04-25'
+    amending: eu:celex:32020R0560:por
+    amending_title: REGULAMENTO (UE) 2020/560 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Objetivos
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 8.º — Medidas aplicáveis pelas organizações de produtores
+    - Altera Artigo 30.º — Mecanismo de armazenagem
+    - Altera Artigo 31.º — Preço de desencadeamento do mecanismo de armazenagem
+    - Altera Artigo 33.º — Estabelecimento de normas comuns de comercialização
+    - Altera Artigo 42.º — Conhecimento e compreensão do mercado
+    - Altera Artigo 44.º — Alteração do Regulamento (CE) n.º 1184/2006
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 1224/2009
+    - Altera Artigo 47.º — Regras que estabelecem normas comuns de comercialização
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2024-11-27'
+    amending: eu:celex:32024R2838:por
+    amending_title: REGULAMENTO (UE) 2024/2838 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Objetivos
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 30.º — Mecanismo de armazenagem
+    - Altera Artigo 33.º — Estabelecimento de normas comuns de comercialização
+    - Altera Artigo 42.º — Conhecimento e compreensão do mercado
+    - Altera Artigo 44.º — Alteração do Regulamento (CE) n.º 1184/2006
+    - Altera Artigo 45.º — Alteração do Regulamento (CE) n.º 1224/2009
+    - Altera Artigo 47.º — Regras que estabelecem normas comuns de comercialização
+    - Altera ANEXO III
+    - Altera Notas
 identifiers:
   celex: 32013R1379
   eli: http://data.europa.eu/eli/reg/2013/1379/oj
@@ -52,7 +131,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/576caa84-76c9-11e3-b889-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/f520a498-ac6b-11ef-acb1-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1379-20241127
-  retrieved_at: '2026-10-22T02:35:01Z'
+  retrieved_at: '2026-10-22T16:25:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:40:30.860+02:00'
 integrity:
@@ -61,9 +140,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:01Z'
-  notes: Texto consolidado 02013R1379-20241127.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:43Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2013-1379.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -428,32 +507,19 @@ relationships:
   date: '2006-12-05'
 article_structure:
   article_count: 49
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:01Z'
+  checked_at: '2026-10-22T16:25:43Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1379/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013
-
-> 02013R1379 — PT — 27.11.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1385) — [REGULAMENTO (UE) N.º 1385/2013 DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1385) — L 354 — 86 — 28.12.2013
-- [►M2](http://publications.europa.eu/resource/celex/32015R0812) — [REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0812) — L 133 — 1 — 29.5.2015
-- [►M3](http://publications.europa.eu/resource/celex/32020R0560) — [REGULAMENTO (UE) 2020/560 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0560) — L 130 — 11 — 24.4.2020
-- [►M4](http://publications.europa.eu/resource/celex/32024R2838) — [REGULAMENTO (UE) 2024/2838 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2838) — L 2838 — 1 — 7.11.2024
-
-## REGULAMENTO (UE) N.º 1379/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de dezembro de 2013
 

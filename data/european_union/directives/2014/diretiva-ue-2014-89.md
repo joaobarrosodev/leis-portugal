@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2014-89.versoes.json
+  count: 1
+  source_lastmod: '2014-09-17'
+  versions:
+  - date: '2014-08-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014L0089
   eli: http://data.europa.eu/eli/dir/2014/89/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:43:13Z'
+  retrieved_at: '2026-10-22T16:30:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T21:20:45.217+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:13Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:30:57Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2014-89.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,21 +201,20 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:13Z'
+  checked_at: '2026-10-22T16:30:57Z'
   warnings:
-  - Versão consolidada 02014L0089-20140917 indisponível (Sem expressão na língua por para CELEX 02014L0089-20140917.); usado
-    o texto do JO.
+  - '02014L0089-20140917: versão indisponível (Sem expressão na língua por para CELEX 02014L0089-20140917.)'
   errors: []
 ---
 
-# DIRETIVA 2014/89/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Diretiva 2014/89/UE do Parlamento Europeu e do Conselho, de 23 de julho de 2014
 
 de 23 de julho de 2014
 

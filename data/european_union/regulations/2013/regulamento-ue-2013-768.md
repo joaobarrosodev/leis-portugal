@@ -36,6 +36,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-08-09'
+version_history:
+  file: regulamento-ue-2013-768.versoes.json
+  count: 3
+  source_lastmod: '2015-08-09'
+  versions:
+  - date: '2013-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO I
+  - date: '2015-08-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime ANEXO
+    - Suprime «ANEXO I
+    - Suprime Notas
 identifiers:
   celex: 32013R0768
   eli: http://data.europa.eu/eli/reg_impl/2013/768/oj
@@ -50,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7280126f-00c5-11e3-a352-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/2f348eba-3d4f-40f3-b6f7-c131d7e71931.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0768-20150809
-  retrieved_at: '2026-10-22T03:16:42Z'
+  retrieved_at: '2026-10-22T16:20:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T01:18:24.896+02:00'
 integrity:
@@ -59,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:42Z'
-  notes: Texto consolidado 02013R0768-20150809.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:20:32Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-768.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -111,16 +139,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:42Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:20:32Z'
+  warnings: []
   errors: []
 ---
 

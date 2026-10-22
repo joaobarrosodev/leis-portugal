@@ -35,6 +35,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-04-11'
+version_history:
+  file: regulamento-ue-2014-452.versoes.json
+  count: 3
+  source_lastmod: '2023-04-11'
+  versions:
+  - date: '2014-05-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-08-05'
+    amending: eu:celex:32016R1158:por
+    amending_title: REGULAMENTO (UE) 2016/1158 DA COMISSÃO de 15 de julho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO 1
+    - Adita PARTE TCO
+    - Adita OPERADORES DE PAÍSES TERCEIROS
+    - Adita SECÇÃO I
+    - Adita Requisitos gerais
+    - Adita TCO.100 Âmbito de aplicação
+    - Adita TCO.105 Meios de conformidade
+    - Adita TCO.110 Medidas de mitigação
+    - Adita TCO.115 Acesso
+    - Adita SECÇÃO II
+    - Adita Operações aéreas
+    - Adita TCO.200 Requisitos gerais
+    - Adita TCO.205 Equipamento de navegação, de comunicação e de vigilância
+    - Adita TCO.210 Documentos, manuais e registos a transportar a bordo
+    - Adita TCO.215 Apresentação da documentação, dos manuais e dos registos
+    - Adita Secção III
+    - Adita Autorização de operadores de países terceiros
+    - Adita TCO.300 Apresentação do pedido de autorização
+    - Adita TCO.305 Voos não regulares — notificação pontual
+    - Adita TCO.310 Prerrogativas dos titulares de autorizações
+    - Adita TCO.315 Alterações
+    - Adita TCO.320 Validade contínua
+    - Adita TCO.325 Constatações
+    - Adita ANEXO 2
+    - Adita PARTE ART
+    - Adita REQUISITOS PARA AS AUTORIDADES RELATIVOS À AUTORIZAÇÃO DOS OPERADORES DE PAÍSES TERCEIROS
+    - Adita Disposições gerais
+    - Adita ART.100 Âmbito de aplicação
+    - Adita ART.105 Meios de conformidade alternativos
+    - Adita ART. 110 Intercâmbio de informações
+    - Adita ART.115 Conservação de registos
+    - Adita Autorização, monitorização e repressão
+    - Adita ART.200 Procedimento de avaliação inicial — Disposições gerais
+    - Adita ART.205 Procedimento de avaliação inicial dos operadores de países terceiros sujeitos a uma proibição de operação
+    - Adita ART.210 Emissão de autorizações
+    - Adita ART.215 Monitorização
+    - Adita ART.220 Programa de monitorização
+  - date: '2023-04-11'
+    amending: eu:celex:32023R0659:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/659 DA COMISSÃO de 2 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autorizações
+    - Altera TCO.100 Âmbito de aplicação
+    - Altera TCO.115 Acesso
+    - Altera TCO.200 Requisitos gerais
+    - Altera TCO.205 Equipamento de navegação, de comunicação e de vigilância
+    - Altera TCO.215 Apresentação da documentação, dos manuais e dos registos
+    - Altera TCO.310 Prerrogativas dos titulares de autorizações
+    - Altera TCO.315 Alterações
+    - Altera TCO.320 Validade contínua
+    - Altera ART. 110 Intercâmbio de informações
+    - Altera ART.115 Conservação de registos
+    - Altera ART.200 Procedimento de avaliação inicial — Disposições gerais
+    - Altera ART.205 Procedimento de avaliação inicial dos operadores de países terceiros sujeitos a uma proibição de operação
+    - Altera ART.210 Emissão de autorizações
+    - Altera ART.215 Monitorização
+    - Altera ART.220 Programa de monitorização
+    - Altera ART.230 Constatações e medidas corretivas
+    - Altera ART.235 Limitação, suspensão e revogação das autorizações
+    - Altera Notas
+    - Adita TCO.305 Voos de notificação pontual
+    - Adita ART.240 Validade da autorização
+    - Adita ART.245 Voos de notificação pontual
+    - Suprime TCO.105 Meios de conformidade
+    - Suprime TCO.110 Medidas de mitigação
+    - Suprime TCO.305 Voos não regulares — notificação pontual
+    - Suprime ART.105 Meios de conformidade alternativos
 identifiers:
   celex: 32014R0452
   eli: http://data.europa.eu/eli/reg/2014/452/oj
@@ -49,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/223ca2a4-d4f2-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/25999372-e36f-11ed-a05c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0452-20230411
-  retrieved_at: '2026-10-22T03:17:18Z'
+  retrieved_at: '2026-10-22T16:32:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T22:52:20.152+02:00'
 integrity:
@@ -58,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:18Z'
-  notes: Texto consolidado 02014R0452-20230411.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:32:59Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-452.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,30 +202,20 @@ relationships:
   date: '2024-04-02'
 article_structure:
   article_count: 4
-  section_count: 41
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 42
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:18Z'
-  warnings: []
+  checked_at: '2026-10-22T16:32:59Z'
+  warnings:
+  - '02014R0452-20140526: versão indisponível (Sem expressão na língua por para CELEX 02014R0452-20140526.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 452/2014 da Comissão, de 29 de abril de 2014
-
-> 02014R0452 — PT — 11.04.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1158) — [REGULAMENTO (UE) 2016/1158 DA COMISSÃO de 15 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1158) — L 192 — 21 — 16.7.2016
-- [►M2](http://publications.europa.eu/resource/celex/32023R0659) — [REGULAMENTO DELEGADO (UE) 2023/659 DA COMISSÃO de 2 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0659) — L 83 — 38 — 22.3.2023
-
-## REGULAMENTO (UE) N.º 452/2014 DA COMISSÃO
 
 de 29 de abril de 2014
 

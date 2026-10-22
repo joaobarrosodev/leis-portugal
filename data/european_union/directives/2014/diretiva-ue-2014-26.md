@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2014-26.versoes.json
+  count: 1
+  source_lastmod: '2014-04-09'
+  versions:
+  - date: '2014-03-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014L0026
   eli: http://data.europa.eu/eli/dir/2014/26/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/976715e3-b004-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/976715e3-b004-11e3-86f9-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:00:16Z'
+  retrieved_at: '2026-10-22T16:27:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T03:25:24.878+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:16Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:27:19Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2014-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,21 +187,20 @@ relationships:
   source: null
 article_structure:
   article_count: 45
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:16Z'
+  checked_at: '2026-10-22T16:27:19Z'
   warnings:
-  - Versão consolidada 02014L0026-20140409 indisponível (Sem expressão na língua por para CELEX 02014L0026-20140409.); usado
-    o texto do JO.
+  - '02014L0026-20140409: versão indisponível (Sem expressão na língua por para CELEX 02014L0026-20140409.)'
   errors: []
 ---
 
-# DIRETIVA 2014/26/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Diretiva 2014/26/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
 
 de 26 de fevereiro de 2014
 

@@ -34,6 +34,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-25'
+version_history:
+  file: regulamento-ue-2013-1407.versoes.json
+  count: 3
+  source_lastmod: '2023-10-25'
+  versions:
+  - date: '2013-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-27'
+    amending: eu:celex:32020R0972:por
+    amending_title: REGULAMENTO (UE) 2020/972 DA COMISSÃO de 2 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Cálculo do equivalente-subvenção bruto
+    - Altera Artigo 5.º — Cumulação
+    - Altera Artigo 8.º — Entrada em vigor e período de aplicação
+    - Altera Notas
+  - date: '2023-10-25'
+    amending: eu:celex:32023R2391:por
+    amending_title: REGULAMENTO (UE) 2023/2391 DA COMISSÃO de 4 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Cumulação
+    - Altera Notas
 identifiers:
   celex: 32013R1407
   eli: http://data.europa.eu/eli/reg/2013/1407/oj
@@ -48,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c1563d04-6c73-11e3-9afb-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d72cc9c5-77fa-11ee-99ba-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1407-20231025
-  retrieved_at: '2026-10-22T02:26:47Z'
+  retrieved_at: '2026-10-22T16:25:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T19:09:18.812+02:00'
 integrity:
@@ -57,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:26:47Z'
-  notes: Texto consolidado 02013R1407-20231025.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:55Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-1407.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -516,34 +543,19 @@ relationships:
   date: '2020-10-28'
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:26:47Z'
+  checked_at: '2026-10-22T16:25:55Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1407/2013 da Comissão, de 18 de dezembro de 2013
-
-> 02013R1407 — PT — 25.10.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0972) — [REGULAMENTO (UE) 2020/972 DA COMISSÃO de 2 de julho de 2020](http://publications.europa.eu/resource/celex/32020R0972) — L 215 — 3 — 7.7.2020
-- [►M2](http://publications.europa.eu/resource/celex/32023R2391) — [REGULAMENTO (UE) 2023/2391 DA COMISSÃO de 4 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2391) — L — 1 — 5.10.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1407R%2801%29) — [Rectificação, JO L 107, 10.4.2014, p. 88 (n.o 1407/2013)](http://publications.europa.eu/resource/celex/32013R1407R%2801%29)
-
-## REGULAMENTO (UE) N.º 1407/2013 DA COMISSÃO
 
 de 18 de dezembro de 2013
 

@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-30'
+version_history:
+  file: diretiva-ue-2014-17.versoes.json
+  count: 1
+  source_lastmod: '2023-12-30'
+  versions:
+  - date: '2023-12-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014L0017
   eli: http://data.europa.eu/eli/dir/2014/17/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b8102350-a050-11e3-8b87-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8f4f005c-9940-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0017-20231230
-  retrieved_at: '2026-10-22T02:38:43Z'
+  retrieved_at: '2026-10-22T16:26:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:54:19.859+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:43Z'
-  notes: Texto consolidado 02014L0017-20231230.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:26:25Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2014-17.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -286,34 +295,21 @@ relationships:
   source: null
 article_structure:
   article_count: 52
-  section_count: 37
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 38
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:43Z'
-  warnings: []
+  checked_at: '2026-10-22T16:26:25Z'
+  warnings:
+  - '02014L0017-20140228: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014L0017-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2014/17/UE do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014
-
-> 02014L0017 — PT — 30.12.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1011) — [REGULAMENTO (UE) 2016/1011 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1011) — L 171 — 1 — 29.6.2016
-- [►M2](http://publications.europa.eu/resource/celex/32021L2167) — [DIRETIVA (UE) 2021/2167 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021](http://publications.europa.eu/resource/celex/32021L2167) — L 438 — 1 — 8.12.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0017R%2803%29) — [Rectificação, JO L 246, 23.9.2015, p. 11 (2014/17/UE)](http://publications.europa.eu/resource/celex/32014L0017R%2803%29)
-
-## DIRETIVA 2014/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de fevereiro de 2014
 

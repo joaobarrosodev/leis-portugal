@@ -35,6 +35,138 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-07-28'
+version_history:
+  file: regulamento-ue-2014-37.versoes.json
+  count: 7
+  source_lastmod: '2016-07-28'
+  versions:
+  - date: '2014-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-16'
+    amending: eu:celex:32015R0475:por
+    amending_title: REGULAMENTO (UE) 2015/475 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015; REGULAMENTO (UE)
+      2015/476 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015; REGULAMENTO (UE) 2015/477 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 11 de março de 2015; REGULAMENTO (UE) 2015/478 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de
+      2015; REGULAMENTO (UE) 2015/479 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita LISTA DE REGULAMENTOS NO ÂMBITO DA POLÍTICA COMERCIAL COMUM ALTERADOS POR FORÇA DA ADAPTAÇÃO AO ARTIGO 290.º DO
+      TRATADO SOBRE O FUNCIONAMENTO DA UNIÃO EUROPEIA OU ÀS DISPOSIÇÕES APLICÁVEIS DO REGULAMENTO (UE) N.º 182/2011
+    - Adita 1. Regulamento (CEE) n.º 2841/72
+    - Adita 3. Regulamento (CEE) N.º 1692/73
+    - Adita 4. Regulamento (CE) N.º 3286/94
+    - Adita 5. Regulamento (CE) N.º 385/96
+    - Adita 6. Regulamento (CE) N.º 2271/96
+    - Adita 8. Regulamento (CE) N.º 153/2002
+    - Adita 9. Regulamento (CE) N.º 427/2003
+    - Adita 11. Regulamento (CE) N.º 673/2005
+    - Adita 12. Regulamento (CE) N.º 1236/2005
+    - Adita 13. Regulamento (CE) N.º 1616/2006
+    - Adita 14. Regulamento (CE) N.º 1528/2007
+    - Adita 15. Regulamento (CE) N.º 140/2008
+    - Adita 16. Regulamento (CE) N.º 55/2008
+    - Adita 17. Regulamento (CE) N.º 594/2008
+    - Adita 18. Regulamento (CE) N.º 597/2009
+    - Adita 20. Regulamento (CE) N.º 625/2009
+    - Adita 22. Regulamento (CE) N.º 1225/2009
+    - Adita Declaração comum do Parlamento Europeu, do Conselho e da Comissão sobre o artigo 15.º, n.º 6, do Regulamento (CE)
+      n.º 1225/2009 e o artigo 25.º, n.º 6, do Regulamento (CE) n.º 597/2009
+    - Adita Declaração do Conselho sobre a aplicação do artigo 3.º, n.º 4, e do artigo 6.º, n.º 2, do Regulamento (UE) n.º
+      182/2011 no que respeita aos processos anti dumping e relativos aos direitos de compensação nos termos dos Regulamentos
+      (CE) n.º 1225/2009 e (CE) n.º 597/2009
+    - Adita Declaração da Comissão em relação com os processos anti-dumping e os processos relativos aos direitos de compensação
+      nos termos dos Regulamentos (CE) n.º 1225/2009 e (CE) n.º 597/2009
+    - Adita Declaração da Comissão sobre codificação
+    - Adita Declaração da Comissão sobre atos delegados
+  - date: '2015-06-08'
+    amending: eu:celex:32015R0752:por
+    amending_title: REGULAMENTO (UE) 2015/752 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015; REGULAMENTO (UE)
+      2015/755 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015
+    changes:
+    - Altera preambulo
+    - Altera 1. Regulamento (CEE) n.º 2841/72
+    - Altera 3. Regulamento (CEE) N.º 1692/73
+    - Altera 4. Regulamento (CE) N.º 3286/94
+    - Altera 5. Regulamento (CE) N.º 385/96
+    - Altera 6. Regulamento (CE) N.º 2271/96
+    - Altera 8. Regulamento (CE) N.º 153/2002
+    - Altera 13. Regulamento (CE) N.º 1616/2006
+    - Altera 14. Regulamento (CE) N.º 1528/2007
+    - Altera 16. Regulamento (CE) N.º 55/2008
+    - Altera 17. Regulamento (CE) N.º 594/2008
+    - Altera 18. Regulamento (CE) N.º 597/2009
+    - Altera 22. Regulamento (CE) N.º 1225/2009
+    - Altera Notas
+    - Suprime 9. Regulamento (CE) N.º 427/2003
+    - Suprime 15. Regulamento (CE) N.º 140/2008
+    - Suprime 20. Regulamento (CE) N.º 625/2009
+  - date: '2015-07-15'
+    amending: eu:celex:32015R0938:por
+    amending_title: REGULAMENTO (UE) 2015/938 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de 2015; REGULAMENTO (UE)
+      2015/939 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de 2015; REGULAMENTO (UE) 2015/940 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 9 de junho de 2015; REGULAMENTO (UE) 2015/941 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de
+      2015
+    changes:
+    - Altera preambulo
+    - Altera 1. Regulamento (CEE) n.º 2841/72
+    - Altera 4. Regulamento (CE) N.º 3286/94
+    - Altera 5. Regulamento (CE) N.º 385/96
+    - Altera 6. Regulamento (CE) N.º 2271/96
+    - Altera 14. Regulamento (CE) N.º 1528/2007
+    - Altera 16. Regulamento (CE) N.º 55/2008
+    - Altera 18. Regulamento (CE) N.º 597/2009
+    - Altera 22. Regulamento (CE) N.º 1225/2009
+    - Altera Notas
+    - Suprime 3. Regulamento (CEE) N.º 1692/73
+    - Suprime 8. Regulamento (CE) N.º 153/2002
+    - Suprime 13. Regulamento (CE) N.º 1616/2006
+    - Suprime 17. Regulamento (CE) N.º 594/2008
+  - date: '2015-08-06'
+    amending: eu:celex:32015R1145:por
+    amending_title: REGULAMENTO (UE) 2015/1145 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera 4. Regulamento (CE) N.º 3286/94
+    - Altera 5. Regulamento (CE) N.º 385/96
+    - Altera 6. Regulamento (CE) N.º 2271/96
+    - Altera 14. Regulamento (CE) N.º 1528/2007
+    - Altera 16. Regulamento (CE) N.º 55/2008
+    - Altera 18. Regulamento (CE) N.º 597/2009
+    - Altera 22. Regulamento (CE) N.º 1225/2009
+    - Altera Notas
+    - Suprime 1. Regulamento (CEE) n.º 2841/72
+  - date: '2015-11-05'
+    amending: eu:celex:32015R1843:por
+    amending_title: REGULAMENTO (UE) 2015/1843 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera 5. Regulamento (CE) N.º 385/96
+    - Altera 6. Regulamento (CE) N.º 2271/96
+    - Altera 14. Regulamento (CE) N.º 1528/2007
+    - Altera 16. Regulamento (CE) N.º 55/2008
+    - Altera 18. Regulamento (CE) N.º 597/2009
+    - Altera 22. Regulamento (CE) N.º 1225/2009
+    - Altera Notas
+    - Suprime 4. Regulamento (CE) N.º 3286/94
+  - date: '2016-07-28'
+    amending: eu:celex:32016R1036:por
+    amending_title: REGULAMENTO (UE) 2016/1036 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016; REGULAMENTO (UE)
+      2016/1037 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016; REGULAMENTO (UE) 2016/1076 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 8 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera 5. Regulamento (CE) N.º 385/96
+    - Altera 6. Regulamento (CE) N.º 2271/96
+    - Altera 16. Regulamento (CE) N.º 55/2008
+    - Altera Notas
+    - Suprime 14. Regulamento (CE) N.º 1528/2007
+    - Suprime 18. Regulamento (CE) N.º 597/2009
+    - Suprime 22. Regulamento (CE) N.º 1225/2009
 identifiers:
   celex: 32014R0037
   eli: http://data.europa.eu/eli/reg/2014/37(1)/oj
@@ -49,7 +181,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/496c1f7c-8288-4448-a7f6-68584228a73a.0009
   content_url: http://publications.europa.eu/resource/cellar/549ab1b8-1f2c-4092-9348-b89e801534b0.0016.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0037-20160728
-  retrieved_at: '2026-10-22T03:00:22Z'
+  retrieved_at: '2026-10-22T16:31:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T20:19:42.276+02:00'
 integrity:
@@ -58,9 +190,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:22Z'
-  notes: Texto consolidado 02014R0037-20160728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:26Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2014-37.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -320,48 +452,19 @@ relationships:
   date: '2015-06-25'
 article_structure:
   article_count: 4
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:22Z'
+  checked_at: '2026-10-22T16:31:26Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 37/2014 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2014
-
-> 2014R0037 — PT — 28.07.2016 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0475) — [REGULAMENTO (UE) 2015/475 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0475) — L 83 — 1 — 27.3.2015
-- [►M2](http://publications.europa.eu/resource/celex/32015R0476) — [REGULAMENTO (UE) 2015/476 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0476) — L 83 — 6 — 27.3.2015
-- [►M3](http://publications.europa.eu/resource/celex/32015R0477) — [REGULAMENTO (UE) 2015/477 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0477) — L 83 — 11 — 27.3.2015
-- [►M4](http://publications.europa.eu/resource/celex/32015R0478) — [REGULAMENTO (UE) 2015/478 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0478) — L 83 — 16 — 27.3.2015
-- [►M5](http://publications.europa.eu/resource/celex/32015R0479) — [REGULAMENTO (UE) 2015/479 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0479) — L 83 — 34 — 27.3.2015
-- [►M6](http://publications.europa.eu/resource/celex/32015R0752) — [REGULAMENTO (UE) 2015/752 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0752) — L 123 — 16 — 19.5.2015
-- [►M7](http://publications.europa.eu/resource/celex/32015R0755) — [REGULAMENTO (UE) 2015/755 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0755) — L 123 — 33 — 19.5.2015
-- [►M8](http://publications.europa.eu/resource/celex/32015R0938) — [REGULAMENTO (UE) 2015/938 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de 2015](http://publications.europa.eu/resource/celex/32015R0938) — L 160 — 57 — 25.6.2015
-- [►M9](http://publications.europa.eu/resource/celex/32015R0939) — [REGULAMENTO (UE) 2015/939 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de 2015](http://publications.europa.eu/resource/celex/32015R0939) — L 160 — 62 — 25.6.2015
-- [►M10](http://publications.europa.eu/resource/celex/32015R0940) — [REGULAMENTO (UE) 2015/940 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de 2015](http://publications.europa.eu/resource/celex/32015R0940) — L 160 — 69 — 25.6.2015
-- [►M11](http://publications.europa.eu/resource/celex/32015R0941) — [REGULAMENTO (UE) 2015/941 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de junho de 2015](http://publications.europa.eu/resource/celex/32015R0941) — L 160 — 76 — 25.6.2015
-- [►M12](http://publications.europa.eu/resource/celex/32015R1145) — [REGULAMENTO (UE) 2015/1145 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1145) — L 191 — 1 — 17.7.2015
-- [►M13](http://publications.europa.eu/resource/celex/32015R1843) — [REGULAMENTO (UE) 2015/1843 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1843) — L 272 — 1 — 16.10.2015
-- [►M14](http://publications.europa.eu/resource/celex/32016R1036) — [REGULAMENTO (UE) 2016/1036 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1036) — L 176 — 21 — 30.6.2016
-- [►M15](http://publications.europa.eu/resource/celex/32016R1037) — [REGULAMENTO (UE) 2016/1037 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1037) — L 176 — 55 — 30.6.2016
-- [►M16](http://publications.europa.eu/resource/celex/32016R1076) — [REGULAMENTO (UE) 2016/1076 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1076) — L 185 — 1 — 8.7.2016
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32014R0037R%2801%29) — [Rectificação, JO L 074, 18.3.2015, p. 38 (37/2014)](http://publications.europa.eu/resource/celex/32014R0037R%2801%29)
-
-## REGULAMENTO (UE) N.º 37/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de janeiro de 2014
 

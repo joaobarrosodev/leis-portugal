@@ -38,6 +38,154 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-05'
+version_history:
+  file: regulamento-ue-2014-596.versoes.json
+  count: 7
+  source_lastmod: '2026-06-05'
+  versions:
+  - date: '2014-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Notificações e lista de instrumentos financeiros
+    - Altera Artigo 12.º — Manipulação de mercado
+    - Altera Artigo 17.º — Divulgação pública de informação privilegiada
+    - Altera Artigo 19.º — Operações de dirigentes
+    - Altera Artigo 25.º — Obrigação de cooperar
+    - Altera Artigo 30.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 34.º — Publicação de decisões
+    - Altera Artigo 36.º — Procedimento de Comité
+    - Altera Artigo 37.º — Revogação da Diretiva 2003/6/CE e das suas medidas de execução
+    - Altera Artigo 39.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita A. Indicadores de manipulação relativos à divulgação de sinais falsos ou enganadores ou à fixação de preços
+    - Adita B. Indicadores de manipulação relacionados com a utilização de mecanismos fictícios ou quaisquer outras formas
+      de induzir em erro ou de artifício
+    - Adita ANEXO II
+  - date: '2016-07-03'
+    amending: eu:celex:32016R1011:por
+    amending_title: REGULAMENTO (UE) 2016/1011 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016; REGULAMENTO (UE)
+      2016/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Notificações e lista de instrumentos financeiros
+    - Altera Artigo 5.º — Isenções para os programas de recompra e para as operações de estabilização
+    - Altera Artigo 6.º — Isenção das atividades monetárias e de gestão da dívida pública e das atividades da política para
+      as alterações climáticas
+    - Altera Artigo 7.º — Informação privilegiada
+    - Altera Artigo 9.º — Conduta legítima
+    - Altera Artigo 10.º — Transmissão ilícita de informação privilegiada
+    - Altera Artigo 11.º — Sondagens de mercado
+    - Altera Artigo 12.º — Manipulação de mercado
+    - Altera Artigo 13.º — Práticas de mercado aceites
+    - Altera Artigo 16.º — Prevenção e deteção de abuso de mercado
+    - Altera Artigo 17.º — Divulgação pública de informação privilegiada
+    - Altera Artigo 18.º — Listas de pessoas com acesso a informação privilegiada
+    - Altera Artigo 19.º — Operações de dirigentes
+    - Altera Artigo 20.º — Recomendações de investimento e estatísticas
+    - Altera Artigo 21.º — Divulgação ou difusão de informação nos meios de comunicação social
+    - Altera Artigo 25.º — Obrigação de cooperar
+    - Altera Artigo 30.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 32.º — Comunicação de infrações
+    - Altera Artigo 33.º — Troca de informação com a ESMA
+    - Altera Artigo 34.º — Publicação de decisões
+    - Altera Artigo 35.º — Exercício de delegação
+    - Altera Artigo 36.º — Procedimento de Comité
+    - Altera Artigo 37.º — Revogação da Diretiva 2003/6/CE e das suas medidas de execução
+    - Altera Artigo 38.º — Relatório
+    - Altera Artigo 39.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32019R2115:por
+    amending_title: REGULAMENTO (UE) 2019/2115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Notificações e lista de instrumentos financeiros
+    - Altera Artigo 11.º — Sondagens de mercado
+    - Altera Artigo 12.º — Manipulação de mercado
+    - Altera Artigo 13.º — Práticas de mercado aceites
+    - Altera Artigo 17.º — Divulgação pública de informação privilegiada
+    - Altera Artigo 18.º — Listas de pessoas com acesso a informação privilegiada
+    - Altera Artigo 19.º — Operações de dirigentes
+    - Altera Artigo 25.º — Obrigação de cooperar
+    - Altera Artigo 30.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 32.º — Comunicação de infrações
+    - Altera Artigo 34.º — Publicação de decisões
+    - Altera Artigo 35.º — Exercício de delegação
+    - Altera Artigo 36.º — Procedimento de Comité
+    - Altera Artigo 37.º — Revogação da Diretiva 2003/6/CE e das suas medidas de execução
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Notificações e lista de instrumentos financeiros
+    - Altera Artigo 11.º — Sondagens de mercado
+    - Altera Artigo 13.º — Práticas de mercado aceites
+    - Altera Artigo 17.º — Divulgação pública de informação privilegiada
+    - Altera Artigo 19.º — Operações de dirigentes
+    - Altera Artigo 25.º — Obrigação de cooperar
+    - Altera Artigo 30.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 36.º — Procedimento de Comité
+    - Altera Artigo 37.º — Revogação da Diretiva 2003/6/CE e das suas medidas de execução
+    - Altera Notas
+    - Adita Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-12-04'
+    amending: eu:celex:32024R2809:por
+    amending_title: REGULAMENTO (UE) 2024/2809 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Notificações e lista de instrumentos financeiros
+    - Altera Artigo 5.º — Isenções para os programas de recompra e para as operações de estabilização
+    - Altera Artigo 7.º — Informação privilegiada
+    - Altera Artigo 11.º — Sondagens de mercado
+    - Altera Artigo 13.º — Práticas de mercado aceites
+    - Altera Artigo 17.º — Divulgação pública de informação privilegiada
+    - Altera Artigo 18.º — Listas de pessoas com acesso a informação privilegiada
+    - Altera Artigo 19.º — Operações de dirigentes
+    - Altera Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 23.º — Poderes das autoridades competentes
+    - Altera Artigo 25.º — Obrigação de cooperar
+    - Altera Artigo 29.º — Transmissão de dados pessoais a países terceiros
+    - Altera Artigo 30.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 35.º — Exercício de delegação
+    - Altera Artigo 36.º — Procedimento de Comité
+    - Altera Artigo 37.º — Revogação da Diretiva 2003/6/CE e das suas medidas de execução
+    - Altera Notas
+    - Adita Artigo 25.º-A — Mecanismo de intercâmbio de dados sobre as ordens
+    - Adita Artigo 25.º-B — Plataformas de colaboração
+    - Adita Artigo 38.º
+    - Adita Relatórios
+    - Suprime Artigo 28.º — Proteção de dados
+    - Suprime Artigo 38.º — Relatório
+  - date: '2026-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Notificações e lista de instrumentos financeiros
+    - Altera Artigo 11.º — Sondagens de mercado
+    - Altera Artigo 13.º — Práticas de mercado aceites
+    - Altera Artigo 17.º — Divulgação pública de informação privilegiada
+    - Altera Artigo 19.º — Operações de dirigentes
+    - Altera Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 25.º — Obrigação de cooperar
+    - Altera Artigo 29.º — Transmissão de dados pessoais a países terceiros
+    - Altera Artigo 30.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 31.º — Exercício dos poderes de supervisão e sancionatórios
+    - Altera Artigo 36.º — Procedimento de Comité
+    - Altera Artigo 37.º — Revogação da Diretiva 2003/6/CE e das suas medidas de execução
+    - Altera Notas
 identifiers:
   celex: 32014R0596
   eli: http://data.europa.eu/eli/reg/2014/596/oj
@@ -52,7 +200,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/329793ac-f1f6-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b5b43c29-3d97-11f1-814f-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0596-20260605
-  retrieved_at: '2026-10-22T02:39:56Z'
+  retrieved_at: '2026-10-22T16:34:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T04:11:48.269+02:00'
 integrity:
@@ -61,9 +209,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:56Z'
-  notes: Texto consolidado 02014R0596-20260605.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:34:20Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2014-596.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -375,39 +523,19 @@ relationships:
   date: '2004-05-07'
 article_structure:
   article_count: 41
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:56Z'
+  checked_at: '2026-10-22T16:34:20Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 596/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014R0596 — PT — 05.06.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1011) — [REGULAMENTO (UE) 2016/1011 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1011) — L 171 — 1 — 29.6.2016
-- [►M2](http://publications.europa.eu/resource/celex/32016R1033) — [REGULAMENTO (UE) 2016/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1033) — L 175 — 1 — 30.6.2016
-- [►M3](http://publications.europa.eu/resource/celex/32019R2115) — [REGULAMENTO (UE) 2019/2115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2115) — L 320 — 1 — 11.12.2019
-- [►M4](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M5](http://publications.europa.eu/resource/celex/32024R2809) — [REGULAMENTO (UE) 2024/2809 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2809) — L 2809 — 1 — 14.11.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0596R%2801%29) — [Rectificação, JO L 238, 9.8.2014, p. 31 (596/2014)](http://publications.europa.eu/resource/celex/32014R0596R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014R0596R%2802%29) — [Rectificação, JO L 169, 28.6.2016, p. 18 (596/2014)](http://publications.europa.eu/resource/celex/32014R0596R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32014R0596R%2803%29) — [Rectificação, JO L 287, 21.10.2016, p. 320 (n.o 596/2014)](http://publications.europa.eu/resource/celex/32014R0596R%2803%29)
-
-## REGULAMENTO (UE) N.º 596/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

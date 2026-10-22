@@ -35,6 +35,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-18'
+version_history:
+  file: regulamento-ue-2013-1336.versoes.json
+  count: 2
+  source_lastmod: '2016-04-18'
+  versions:
+  - date: '2013-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-18'
+    amending: eu:celex:32014L0024:por
+    amending_title: DIRETIVA 2014/24/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro
+      de 2014; DIRETIVA 2014/25/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Notas
 identifiers:
   celex: 32013R1336
   eli: http://data.europa.eu/eli/reg/2013/1336/oj
@@ -49,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e4c1d4e2-b295-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1336-20160418
-  retrieved_at: '2026-10-22T03:00:12Z'
+  retrieved_at: '2026-10-22T16:25:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T02:33:20.180+02:00'
 integrity:
@@ -58,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:12Z'
-  notes: Texto consolidado 02013R1336-20160418.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-1336.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,29 +147,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:12Z'
+  checked_at: '2026-10-22T16:25:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1336/2013 da Comissão, de 13 de dezembro de 2013
-
-> 02013R1336 — PT — 18.04.2016 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0024) — [DIRETIVA 2014/24/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0024) — L 94 — 65 — 28.3.2014
-- [►M2](http://publications.europa.eu/resource/celex/32014L0025) — [DIRETIVA 2014/25/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0025) — L 94 — 243 — 28.3.2014
-
-## REGULAMENTO (UE) N.º 1336/2013 DA COMISSÃO
 
 de 13 de dezembro de 2013
 

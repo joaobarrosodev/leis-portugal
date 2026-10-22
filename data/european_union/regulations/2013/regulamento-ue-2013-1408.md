@@ -34,6 +34,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-16'
+version_history:
+  file: regulamento-ue-2013-1408.versoes.json
+  count: 5
+  source_lastmod: '2024-12-16'
+  versions:
+  - date: '2013-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-03-14'
+    amending: eu:celex:32019R0316:por
+    amending_title: REGULAMENTO (UE) 2019/316 DA COMISSÃO de 21 de fevereiro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Auxílios de minimis
+    - Altera Artigo 4.º — Cálculo do equivalente-subvenção bruto
+    - Altera Artigo 6.º — Controlo
+    - Altera Artigo 8.º — Entrada em vigor e período de aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da produção
+      primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3
+    - Adita ANEXO II
+    - Adita Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da produção
+      primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3-A
+  - date: '2022-11-14'
+    amending: eu:celex:32022R2046:por
+    amending_title: REGULAMENTO (UE) 2022/2046 DA COMISSÃO de 24 de outubro de 2022
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da
+      produção primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3
+    - Altera Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da
+      produção primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3-A
+    - Altera Notas
+  - date: '2023-10-25'
+    amending: eu:celex:32023R2391:por
+    amending_title: REGULAMENTO (UE) 2023/2391 DA COMISSÃO de 4 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Cumulação
+    - Altera Artigo 6.º — Controlo
+    - Altera Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da
+      produção primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3
+    - Altera Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da
+      produção primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3-A
+    - Altera Notas
+  - date: '2024-12-16'
+    amending: eu:celex:32024R3118:por
+    amending_title: REGULAMENTO (UE) 2024/3118 DA COMISSÃO de 10 de dezembro de 2024; REGULAMENTO (UE) 2025/1989 DA COMISSÃO
+      de 2 de outubro de 2025
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Auxílios de minimis
+    - Altera Artigo 4.º — Cálculo do equivalente-subvenção bruto
+    - Altera Artigo 5.º — Cumulação
+    - Altera Artigo 7.º — Disposições transitórias
+    - Altera Artigo 8.º — Entrada em vigor e período de aplicação
+    - Altera Notas
+    - Adita Artigo 6.º — Monitorização e comunicação de informações
+    - Adita ANEXO
+    - Adita Montantes máximos cumulados dos auxílios de minimis concedidos por Estado-Membro a empresas que operam na produção
+      primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3
+    - Suprime Artigo 6.º — Controlo
+    - Suprime ANEXO I
+    - Suprime Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da
+      produção primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3
+    - Suprime ANEXO II
+    - Suprime Montantes máximos cumulados dos auxílios de minimis concedidos pelos Estados-Membros às empresas do setor da
+      produção primária de produtos agrícolas, a que se refere o artigo 3.º, n.º 3-A
 identifiers:
   celex: 32013R1408
   eli: http://data.europa.eu/eli/reg/2013/1408/oj
@@ -48,7 +122,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a2525e65-6c74-11e3-9afb-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b455ba7d-fe84-11ef-b7db-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1408-20241216
-  retrieved_at: '2026-10-22T02:34:46Z'
+  retrieved_at: '2026-10-22T16:25:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:03:20.215+02:00'
 integrity:
@@ -57,9 +131,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:46Z'
-  notes: Texto consolidado 02013R1408-20241216.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:25:59Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2013-1408.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -431,33 +505,20 @@ relationships:
   date: '2026-01-15'
 article_structure:
   article_count: 8
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:46Z'
-  warnings: []
+  checked_at: '2026-10-22T16:25:59Z'
+  warnings:
+  - '02013R1408-20140101: versão indisponível (Sem expressão na língua por para CELEX 02013R1408-20140101.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1408/2013 da Comissão, de 18 de dezembro de 2013
-
-> 02013R1408 — PT — 16.12.2024 — 004.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0316) — [REGULAMENTO (UE) 2019/316 DA COMISSÃO de 21 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0316) — L 51I — 1 — 22.2.2019
-- [►M2](http://publications.europa.eu/resource/celex/32022R2046) — [REGULAMENTO (UE) 2022/2046 DA COMISSÃO de 24 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2046) — L 275 — 55 — 25.10.2022
-- [►M3](http://publications.europa.eu/resource/celex/32023R2391) — [REGULAMENTO (UE) 2023/2391 DA COMISSÃO de 4 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2391) — L 2391 — 1 — 5.10.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R3118) — [REGULAMENTO (UE) 2024/3118 DA COMISSÃO de 10 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3118) — L 3118 — 1 — 13.12.2024
-- [►M5](http://publications.europa.eu/resource/celex/32025R1989) — [REGULAMENTO (UE) 2025/1989 DA COMISSÃO de 2 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R1989) — L 1989 — 1 — 3.10.2025
-
-## REGULAMENTO (UE) N.º 1408/2013 DA COMISSÃO
 
 de 18 de dezembro de 2013
 

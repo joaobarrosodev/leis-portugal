@@ -34,6 +34,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-02-16'
+version_history:
+  file: diretiva-ue-2014-21.versoes.json
+  count: 2
+  source_lastmod: '2020-02-16'
+  versions:
+  - date: '2014-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-02-16'
+    amending: eu:celex:32020L0177:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro
+      de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Condições mínimas para as batatas de semente de pré-base
+    - Altera Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base
+    - Altera Artigo 6.º — Destinatários
+    - Adita ANEXO
+    - Adita Condições para a colocação no mercado das batatas de semente de pré-base das classes da União PBTC e PB
+    - Suprime Notas
 identifiers:
   celex: 32014L0021
   eli: http://data.europa.eu/eli/dir_impl/2014/21/oj
@@ -48,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ebf2a6e5-8fd9-11e3-b19c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/debe0235-62ad-11ea-b735-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0021-20200216
-  retrieved_at: '2026-10-22T03:16:54Z'
+  retrieved_at: '2026-10-22T16:26:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T02:33:23.413+02:00'
 integrity:
@@ -57,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:54Z'
-  notes: Texto consolidado 02014L0021-20200216.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:26:29Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,28 +122,19 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:54Z'
-  warnings: []
+  checked_at: '2026-10-22T16:26:29Z'
+  warnings:
+  - '02014L0021-20140227: versão indisponível (Sem expressão na língua por para CELEX 02014L0021-20140227.)'
   errors: []
 ---
 
 # Diretiva de Execução 2014/21/UE da Comissão, de 6 de fevereiro de 2014
-
-> 02014L0021 — PT — 16.02.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-
-## DIRETIVA DE EXECUÇÃO 2014/21/UE DA COMISSÃO
 
 de 6 de fevereiro de 2014
 

@@ -38,6 +38,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2014-537.versoes.json
+  count: 3
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2014-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Proibição da prestação de serviços distintos da auditoria
+    - Altera Artigo 10.º — Relatório de auditoria ou certificação legal das contas
+    - Altera Artigo 11.º — Relatório adicional dirigido ao comité de auditoria
+    - Altera Artigo 12.º — Relatório para as autoridades de supervisão das entidades de interesse público
+    - Altera Artigo 13.º — Relatório de transparência
+    - Altera Artigo 16.º — Nomeação de revisores oficiais de contas ou de sociedades de revisores oficiais de contas
+    - Altera Artigo 44.º — Entrada em vigor
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32022L2464:por
+    amending_title: DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022; REGULAMENTO (UE)
+      2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 4.º — Honorários de auditoria
+    - Altera Artigo 5.º — Proibição da prestação de serviços distintos da auditoria
+    - Altera Artigo 12.º — Relatório para as autoridades de supervisão das entidades de interesse público
+    - Altera Artigo 16.º — Nomeação de revisores oficiais de contas ou de sociedades de revisores oficiais de contas
+    - Altera Notas
+    - Adita Artigo 13.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32014R0537
   eli: http://data.europa.eu/eli/reg/2014/537/oj
@@ -52,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/567809be-e656-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d55e2438-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0537-20240109
-  retrieved_at: '2026-10-22T02:48:38Z'
+  retrieved_at: '2026-10-22T16:33:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T21:28:51.914+02:00'
 integrity:
@@ -61,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:38Z'
-  notes: Texto consolidado 02014R0537-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:50Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-537.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -268,35 +301,19 @@ relationships:
   date: '2005-12-19'
 article_structure:
   article_count: 45
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:38Z'
+  checked_at: '2026-10-22T16:33:50Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. °537/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014R0537 — PT — 09.01.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L2464) — [DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2464) — L 322 — 15 — 16.12.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0537R%2802%29) — [Rectificação, JO L 174, 13.6.2014, p. 84 (537/2014)](http://publications.europa.eu/resource/celex/32014R0537R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014R0537R%2809%29) — [Rectificação, JO L 187, 12.7.2019, p. 52 (537/2014)](http://publications.europa.eu/resource/celex/32014R0537R%2809%29)
-
-## REGULAMENTO (UE) N.º 537/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

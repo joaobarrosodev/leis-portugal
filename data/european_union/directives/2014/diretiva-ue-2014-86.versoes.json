@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0086:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0086-20140814",
+ "dre_path": null,
+ "source_lastmod": "2014-08-14",
+ "versions": [
+  {
+   "date": "2014-07-25",
+   "future": false,
+   "celex": "32014L0086",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2d5c2f5224b076ab",
+    "67e574d3ef7285ba",
+    "840f5fe32a6bb3d0",
+    "9109a091b79074a2",
+    "c90985cdec02cc4c",
+    "fbc5c583728ec45f"
+   ]
+  }
+ ],
+ "fragments": {
+  "2d5c2f5224b076ab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de julho de 2014\n\nque altera a Diretiva 2011/96/UE relativa ao regime fiscal comum aplicável às sociedades-mães e sociedades afiliadas de Estados-Membros diferentes\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 115.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/fb19de7b-13cc-11e4-933d-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014219PT.01004001-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/fb19de7b-13cc-11e4-933d-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014219PT.01004001-E0002),\n\nDeliberando de acordo com um processo legislativo especial,\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2011/96/UE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/fb19de7b-13cc-11e4-933d-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014219PT.01004001-E0003) isenta de retenção na fonte os dividendos e outros tipos de distribuição de lucros pagos pelas filiais às respetivas sociedades-mãe e suprime a dupla tributação de tais rendimentos ao nível da sociedade-mãe.\n\n(2) Os benefícios da Diretiva 2011/96/UE não deverão conduzir a situações de dupla não tributação e, por conseguinte, gerar benefícios fiscais indevidos para grupos de sociedades-mãe e filiais de Estados-Membros diferentes relativamente a grupos de sociedades de um mesmo Estado-Membro.\n\n(3) A fim de evitar situações de dupla não tributação decorrentes de assimetrias entre Estados-Membros no tratamento fiscal da distribuição de lucros, o Estado-Membro da sociedade-mãe e o Estado-Membro do seu estabelecimento estável não deverão permitir que essas sociedades beneficiem da isenção fiscal aplicada aos lucros distribuídos que receberam, na medida em que tais lucros sejam dedutíveis pela filial da sociedade-mãe.\n\n(4) É conveniente atualizar o Anexo I, Parte A, da Diretiva 2011/96/UE, a fim de incluir outras formas de sociedades que tenham sido sujeitas ao imposto sobre as sociedades na Polónia e outras formas de sociedades que tenham sido introduzidas no direito das sociedades da Roménia.\n\n(5) A Diretiva 2011/96/UE deverá, por conseguinte, ser alterada em conformidade,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "67e574d3ef7285ba": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Diretiva 2011/96/UE é alterada do seguinte modo:\n\n1) No artigo 4.º, n.º 1, a alínea a) passa a ter a seguinte redação: «a) Abstêm-se de tributar esses lucros na medida em que não sejam dedutíveis pela filial, e tributam esses lucros na medida em que sejam dedutíveis pela filial, ou».\n\n«a) Abstêm-se de tributar esses lucros na medida em que não sejam dedutíveis pela filial, e tributam esses lucros na medida em que sejam dedutíveis pela filial, ou».\n\n2) No Anexo I, Parte A, a alínea u) passa a ter a seguinte redação: «u) As sociedades de direito polaco denominadas “spółka akcyjna”, “spółka z ograniczoną odpowiedzialnością”, “spółka komandytowo-akcyjna”;».\n\n«u) As sociedades de direito polaco denominadas “spółka akcyjna”, “spółka z ograniczoną odpowiedzialnością”, “spółka komandytowo-akcyjna”;».\n\n3) No Anexo I, Parte A, a alínea w) passa a ter a seguinte redação: «w) As sociedades de direito romeno denominadas “societăți pe acțiuni”, “societăți în comandită pe acțiuni”, “societăți cu răspundere limitată”, “societăți în nume colectiv”, “societăți în comandită simplă”;».\n\n«w) As sociedades de direito romeno denominadas “societăți pe acțiuni”, “societăți în comandită pe acțiuni”, “societăți cu răspundere limitată”, “societăți în nume colectiv”, “societăți în comandită simplă”;»."
+  },
+  "840f5fe32a6bb3d0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 31 de dezembro de 2015. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.\n\nQuando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem nas matérias reguladas pela presente diretiva."
+  },
+  "9109a091b79074a2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "c90985cdec02cc4c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 8 de julho de 2014.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**P. C. PADOAN**\n\n---"
+  },
+  "fbc5c583728ec45f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/fb19de7b-13cc-11e4-933d-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014219PT.01004001-E0001) Parecer de 2 de abril de 2014 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/fb19de7b-13cc-11e4-933d-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014219PT.01004001-E0002) Parecer de 25 de março de 2014 (ainda não publicado no Jornal Oficial)\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/fb19de7b-13cc-11e4-933d-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014219PT.01004001-E0003) Diretiva 2011/96/UE do Conselho, de 30 de novembro de 2011, relativa ao regime fiscal comum aplicável às sociedades-mães e sociedades afiliadas de Estados-Membros diferentes ([JO L 345 de 29.12.2011, p. 8](http://publications.europa.eu/resource/oj/JOL_2011_345_R_TOC))."
+  }
+ }
+}

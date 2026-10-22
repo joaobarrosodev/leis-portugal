@@ -35,6 +35,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-19'
+version_history:
+  file: diretiva-ue-2014-98.versoes.json
+  count: 3
+  source_lastmod: '2025-02-19'
+  versions:
+  - date: '2020-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-02'
+    amending: eu:celex:32022L2438:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2022/2438 DA COMISSÃO de 12 de dezembro de 2022
+    changes:
+    - Altera Artigo 5.º — Requisitos para a aceitação de uma planta-mãe pré-básica
+    - Altera Artigo 10.º — Requisitos fitossanitários para plantas-mãe pré-básicas e para material pré-básico
+    - Altera Artigo 16.º — Requisitos fitossanitários para plantas-mãe básicas e para material básico
+    - Altera Artigo 21.º — Requisitos fitossanitários para plantas-mãe certificadas e para material certificado
+    - Altera Artigo 26.º — Requisitos fitossanitários para o material CAC
+    - Altera Artigo 32.º — Medidas transitórias
+    - Altera Lista de RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias
+      para determinar a respetiva presença, em conformidade com o artigo 9.º, n.º 1, o artigo 10.º, n.º 1, o artigo 16.º,
+      n.º 1, o artigo 21.º, n.º 1, e o artigo 26.º, n.º 1
+    - Altera Lista de RNQP para as quais a inspeção visual e, se for o caso, a amostragem e a análise são necessárias para
+      determinar a respetiva presença, em conformidade com o artigo 9.º, n.^os^ 2 e 4, o artigo 10.º, n.º 1, o artigo 16.º,
+      n.º 1, o artigo 21.º, n.º 1, o artigo 26.º, n.º 1, e o anexo IV
+    - Altera 1. Castanea sativa Mill.
+    - Altera 2. Citrus L., Fortunella Swingle e Poncirus Raf.
+    - Altera 4. Cydonia oblonga Mill.
+    - Altera 6. Fragaria L.
+    - Altera 7. Juglans regia L.
+    - Altera 8. Malus Mill.
+    - Altera 9. Olea europaea L.
+    - Altera 11. Prunus armeniaca L., Prunus avium L., Prunus cerasifera Ehrh., Prunus cerasus L., Prunus domestica L., Prunus
+      dulcis (Miller) Webb, Prunus persica (L.) Batsch e Prunus salicina Lindley
+    - Altera 12. Pyrus L.
+    - Altera 13. Ribes L.
+    - Altera 14. Rubus L.
+    - Altera 15. Vaccinium L.
+    - Altera Notas
+    - Adita Prunus armeniaca L., Prunus domestica L., Prunus dulcis (Mill.) D. A. Webb, Prunus persica (L.) Batsch e Prunus
+      salicina Lindl.
+    - Adita Prunus avium L. e Prunus cerasus L.
+    - Suprime a) Todas as categorias
+    - Suprime b) Categoria pré-básica
+    - Suprime c) Categoria básica
+    - Suprime d) Categorias certificadas e CAC
+    - Suprime a) Categoria pré-básica
+    - Suprime b) Categoria básica
+    - Suprime c) Categoria certificada
+    - Suprime d) Categorias básica e certificada
+    - Suprime e) Categoria CAC
+    - Suprime d) Categoria certificada
+    - Suprime e) Categorias básica e certificada
+    - Suprime f) Categoria CAC
+    - Suprime b) Categorias básicas, certificadas e CAC
+    - Suprime d) Categoria CAC
+    - Suprime c) Categorias certificadas e CAC
+    - Suprime Prunus amygdalus, P. armeniaca, P. domestica, P. persica e P. salicina
+    - Suprime Prunus avium e P. cerasus
+  - date: '2025-02-19'
+    amending: eu:celex:32025L0145:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2025/145 DA COMISSÃO de 29 de janeiro de 2025
+    changes:
+    - Altera Artigo 5.º — Requisitos para a aceitação de uma planta-mãe pré-básica
+    - Altera Lista de RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias
+      para determinar a respetiva presença, em conformidade com o artigo 9.º, n.º 1, o artigo 10.º, n.º 1, o artigo 16.º,
+      n.º 1, o artigo 21.º, n.º 1, e o artigo 26.º, n.º 1
+    - Altera Lista de RNQP para as quais a inspeção visual e, se for o caso, a amostragem e a análise são necessárias para
+      determinar a respetiva presença, em conformidade com o artigo 9.º, n.^os^ 2 e 4, o artigo 10.º, n.º 1, o artigo 16.º,
+      n.º 1, o artigo 21.º, n.º 1, o artigo 26.º, n.º 1, e o anexo IV
+    - Altera 1. Castanea sativa Mill.
+    - Altera 8. Malus Mill.
+    - Altera 11. Prunus armeniaca L., Prunus avium L., Prunus cerasifera Ehrh., Prunus cerasus L., Prunus domestica L., Prunus
+      dulcis (Miller) Webb, Prunus persica (L.) Batsch e Prunus salicina Lindley
+    - Altera 14. Rubus L.
+    - Altera 15. Vaccinium L.
+    - Altera Notas
 identifiers:
   celex: 32014L0098
   eli: http://data.europa.eu/eli/dir_impl/2014/98/oj
@@ -49,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f6b5cdd6-5503-11e4-a0cb-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/bb2d9e29-1fa1-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0098-20250219
-  retrieved_at: '2026-10-22T02:45:50Z'
+  retrieved_at: '2026-10-22T16:31:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T00:34:18.718+02:00'
 integrity:
@@ -58,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:50Z'
-  notes: Texto consolidado 02014L0098-20250219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:16Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2014-98.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -160,35 +237,20 @@ relationships:
   source: null
 article_structure:
   article_count: 36
-  section_count: 69
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 73
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:50Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:16Z'
+  warnings:
+  - '02014L0098-20141016: versão indisponível (Sem expressão na língua por para CELEX 02014L0098-20141016.)'
   errors: []
 ---
 
 # Diretiva de Execução 2014/98/UE da Comissão, de 15 de outubro de 2014
-
-> 02014L0098 — PT — 19.02.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-- [►M2](http://publications.europa.eu/resource/celex/32022L2438) — [DIRETIVA DE EXECUÇÃO (UE) 2022/2438 DA COMISSÃO de 12 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2438) — L 319 — 54 — 13.12.2022
-- [►M3](http://publications.europa.eu/resource/celex/32025L0145) — [DIRETIVA DE EXECUÇÃO (UE) 2025/145 DA COMISSÃO de 29 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025L0145) — L 145 — 1 — 30.1.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0098R%2805%29) — [Rectificação, JO L 092, 30.3.2023, p. 28 (Execução 2014/98/UE)](http://publications.europa.eu/resource/celex/32014L0098R%2805%29)
-
-## DIRETIVA DE EXECUÇÃO 2014/98/UE DA COMISSÃO
 
 de 15 de outubro de 2014
 

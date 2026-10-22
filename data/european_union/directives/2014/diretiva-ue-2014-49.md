@@ -36,6 +36,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-02'
+version_history:
+  file: diretiva-ue-2014-49.versoes.json
+  count: 2
+  source_lastmod: '2014-07-02'
+  versions:
+  - date: '2014-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Elegibilidade dos depósitos
+    - Altera Artigo 7.º — Determinação do montante reembolsável
+    - Altera Artigo 14.º — Cooperação no interior da União
+    - Altera Artigo 21.º — Revogação
+    - Altera Artigo 23.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita Diretivas revogadas, com as respetivas alterações sucessivas (a que se refere o artigo 21.º)
+    - Adita PARTE B
+    - Adita Prazos de transposição (a que se refere o artigo 21.º)
+    - Adita ANEXO III
 identifiers:
   celex: 32014L0049
   eli: http://data.europa.eu/eli/dir/2014/49/oj
@@ -50,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/76aafc94-f1f7-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/3c0c373a-4830-4c20-b572-652278b74011.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0049-20140702
-  retrieved_at: '2026-10-22T02:38:21Z'
+  retrieved_at: '2026-10-22T16:29:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T03:23:20.474+02:00'
 integrity:
@@ -59,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:21Z'
-  notes: Texto consolidado 02014L0049-20140702.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:29:05Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-49.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -230,31 +258,19 @@ relationships:
   source: null
 article_structure:
   article_count: 23
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:21Z'
+  checked_at: '2026-10-22T16:29:05Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/49/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014L0049 — PT — 02.07.2014 — 000.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32014L0049R%2801%29) — [Rectificação, JO L 212, 18.7.2014, p. 47 (2014/49/UE)](http://publications.europa.eu/resource/celex/32014L0049R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014L0049R%2802%29) — [Rectificação, JO L 309, 30.10.2014, p. 37 (2014/49/UE)](http://publications.europa.eu/resource/celex/32014L0049R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32014L0049R%2804%29) — [Rectificação, JO L 334, 9.12.2016, p. 87 (2014/49/UE)](http://publications.europa.eu/resource/celex/32014L0049R%2804%29)
-
-## DIRETIVA 2014/49/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

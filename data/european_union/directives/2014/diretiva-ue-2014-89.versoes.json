@@ -1,0 +1,263 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0089:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0089-20140917",
+ "dre_path": null,
+ "source_lastmod": "2014-09-17",
+ "versions": [
+  {
+   "date": "2014-08-28",
+   "future": false,
+   "celex": "32014L0089",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "63395eb22340cefe",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d62f7bc9cb323dde",
+    "aa753b7593e09836",
+    "2c39091e739df24b",
+    "f0f8c960bfdbce9b",
+    "64bf287507565fc8",
+    "83db5c570cd1b828",
+    "c722380763d2b79f",
+    "6a0385d71d72dc21",
+    "9850f0c0f224b36d",
+    "0d3b141120a3fdd5",
+    "510c3119c70b12c6",
+    "3af08f0a77399cbc",
+    "f63d3dfbcf9c47b4",
+    "4c02ea88f22c4f07",
+    "1e7a0903d2eed348",
+    "39ad9011ff417418",
+    "7f6da37d662b6086",
+    "c241358d341269b4",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "6c22c30247f65bfe",
+    "d7147e581cd04ddd",
+    "cb0da6daf5e8ef21",
+    "72b35d905f627afa"
+   ]
+  }
+ ],
+ "fragments": {
+  "63395eb22340cefe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de julho de 2014\n\nque estabelece um quadro para o ordenamento do espaço marítimo\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 43.º, n.º 2, o artigo 100.º, n.º 2, o artigo 192.º, n.º 1, e o artigo 194.º, n.º 2.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014257PT.01013501-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014257PT.01013501-E0002),\n\nDeliberando de acordo com o processo legislativo ordinário [([^3])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014257PT.01013501-E0003),\n\nConsiderando o seguinte:\n\n(1) A elevada e rapidamente crescente procura de espaço marítimo para diferentes fins, nomeadamente instalações para a produção de energia a partir de fontes renováveis, prospeção e exploração de petróleo e de gás, transporte marítimo, atividades de pesca, conservação dos ecossistemas e da biodiversidade, extração de matérias-primas, turismo, instalações de aquicultura e património cultural submarino, assim como as múltiplas pressões exercidas sobre os recursos costeiros exigem uma abordagem integrada do ordenamento e da gestão.\n\n(2) Este tipo de abordagem da gestão dos oceanos e da governação marítima foi desenvolvido no âmbito da política marítima integrada para a União Europeia (PMI), incluindo, como seu pilar ambiental, a Diretiva 2008/56/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014257PT.01013501-E0004). A PMI tem por objetivo apoiar a utilização sustentável dos mares e dos oceanos e elaborar processos de decisão coordenados, coerentes e transparentes para as políticas setoriais da União que afetem os oceanos e os mares, as regiões costeiras, insulares e ultraperiféricas e os setores marítimos, nomeadamente através de estratégias para as bacias marítimas ou para as grandes regiões marinhas, obtendo ao mesmo tempo um bom estado ambiental, tal como estabelecido na Diretiva 2008/56/CE.\n\n(3) A PMI considera o ordenamento do espaço marítimo como um instrumento estratégico intersetorial destinado a permitir que as autoridades públicas e às partes interessadas apliquem uma abordagem coordenada, integrada e transnacional. A aplicação de uma abordagem baseada no ecossistema contribuirá para promover o desenvolvimento e o crescimento sustentável das economias marítima e costeira e a utilização sustentável dos recursos marinhos e costeiros.\n\n(4) O ordenamento do espaço marítimo apoia e facilita a aplicação da Estratégia «Europa 2020 — Uma estratégia europeia para um crescimento inteligente, sustentável e inclusivo» (estratégia «Europa 2020»), aprovada pelo Conselho Europeu nas suas conclusões de 17 de junho de 2010, que visa atingir níveis elevados de emprego, produtividade e coesão social, promovendo simultaneamente uma economia mais competitiva, mais eficiente em termos de utilização dos recursos e mais ecológica. Os setores costeiro e marítimo têm um forte potencial de crescimento sustentável e são fundamentais para a aplicação da estratégia «Europa 2020».\n\n(5) Na sua Comunicação intitulada «Crescimento Azul: Oportunidades para um crescimento marinho e marítimo sustentável», a Comissão identificou determinadas iniciativas da União atualmente em curso destinadas a aplicar a estratégia «Europa 2020», bem como um conjunto de atividades em que poderão vir a centrar-se as iniciativas no âmbito do crescimento azul, e que poderão ser devidamente apoiadas por uma maior confiança e segurança para os investidores através do ordenamento do espaço marítimo.\n\n(6) O Regulamento (UE) n.º 1255/2010 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2014257PT.01013501-E0005) apoiou e facilitou a aplicação do ordenamento do espaço marítimo e da gestão costeira integrada. Os fundos estruturais e de Investimento Europeus, incluindo o Fundo Europeu dos Assuntos Marítimos e das Pescas [([^6])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2014257PT.01013501-E0006), proporcionarão oportunidades para apoiar a aplicação da presente diretiva para 2014-2020.\n\n(7) A Convenção das Nações Unidas sobre o Direito do Mar de 1982 (CNUDM) estipula, no seu preâmbulo, que os problemas relacionados com a utilização do espaço marítimo estão estreitamente interligados e devem ser considerados como um todo. O ordenamento do espaço oceânico constitui a evolução lógica e a estruturação das obrigações e da utilização dos direitos concedidos ao abrigo da CNUDM, e é um instrumento prático para ajudar os Estados-Membros a cumprir as suas obrigações.\n\n(8) A fim de promover a coexistência das diferentes utilizações e, se necessário, a repartição adequada do espaço marítimo entre as utilizações relevantes, deverá ser criado um quadro que preveja, no mínimo, o estabelecimento e a aplicação, pelos Estados-Membros, de um ordenamento do espaço marítimo que se traduza em planos.\n\n(9) O ordenamento do espaço marítimo contribuirá para a gestão eficaz das atividades marinhas e para a utilização sustentável dos recursos marinhos e costeiros, através da criação de um quadro para um processo de decisão coerente, transparente, sustentável e fundamentado. Para atingir estes objetivos, a presente diretiva deverá prever obrigações tendentes a estabelecer um processo de ordenamento marítimo, conducente a um plano ou planos de ordenamento do espaço marítimo; este processo de ordenamento deverá ter em conta as interações terra-mar e promover a cooperação entre os Estados-Membros. Sem prejuízo do atual acervo da União nos domínios da energia, dos transportes, das pescas e do ambiente, a presente diretiva não deverá impor outras obrigações, designadamente no que diz respeito às opções concretas dos Estados-Membros quanto às modalidades de execução das políticas setoriais nestes domínios, mas antes procurar contribuir para essas políticas através do processo de ordenamento.\n\n(10) A fim de assegurar coerência e clareza jurídica, o âmbito geográfico do ordenamento do espaço marítimo deverá ser definido em conformidade com os atuais instrumentos legislativos da União e com o direito marítimo internacional, em particular, a CNUDM. As competências dos Estados-Membros em matéria de jurisdição e fronteiras marítimas não são alteradas pela presente diretiva.\n\n(11) Embora convenha que a União estabeleça um quadro relativo ao ordenamento do espaço marítimo, os Estados-Membros continuam a ser responsáveis e mantêm a sua competência no que diz respeito à conceção e determinação, nas suas águas marinhas, do formato e do conteúdo desses planos, incluindo disposições institucionais e, se aplicável, a repartição do espaço marítimo pelas diferentes atividades e utilizações.\n\n(12) A fim de respeitar a proporcionalidade e a subsidiariedade e de minimizar a carga administrativa adicional, a transposição e a execução da presente diretiva deverão assentar, tanto quanto possível, em regras e mecanismos nacionais, regionais e locais existentes, incluindo as regras e os mecanismos estabelecidos na Recomendação 2002/413/CE do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2014257PT.01013501-E0007) ou na Decisão 2010/631/UE do Conselho [([^8])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2014257PT.01013501-E0008).\n\n(13) Os ecossistemas e os recursos marinhos das águas marinhas estão sujeitos a pressões significativas. Tanto as atividades humanas, como os efeitos das alterações climáticas, os riscos naturais e a dinâmica do litoral, designadamente a erosão e a deposição, podem ter repercussões severas no desenvolvimento e crescimento económico costeiro, bem como nos ecossistemas costeiros e marinhos, com a consequente deterioração do estado ambiental, perda de biodiversidade e degradação dos serviços ecossistémicos. Aquando do estabelecimento dos planos de ordenamento do espaço marítimo e das estratégias de gestão costeira integrada, deverá ser dada a devida atenção a estas diversas pressões. Além disso, os ecossistemas costeiros e marinhos saudáveis e os seus múltiplos serviços, se forem integrados nas decisões de planeamento, podem proporcionar vantagens substanciais em termos de produção de alimentos, atividades de recreio e turismo, atenuação das alterações climáticas e adaptação às mesmas, controlo da dinâmica do litoral e prevenção de catástrofes.\n\n(14) A fim de promover o crescimento sustentável das economias marítimas, o desenvolvimento sustentável das zonas marinhas e a utilização sustentável dos recursos marinhos, o ordenamento do espaço marítimo deverá aplicar a abordagem ecossistémica prevista no artigo 1.º, n.º 3, da Diretiva 2008/56/CE, com o objetivo de garantir que o nível da pressão coletiva exercida por todas as atividades seja compatível com a consecução de um bom estado ambiental e que a capacidade de resposta dos ecossistemas marinhos às alterações de origem antropogénica não seja comprometida, contribuindo simultaneamente para a utilização sustentável dos bens e serviços marinhos pelas gerações presentes e futuras. Além disso, deverá ser aplicada uma abordagem ecossistémica adaptada aos ecossistemas específicos e a outras particularidades das diferentes regiões marinhas, e que tenha em conta o trabalho em curso nas convenções marinhas regionais, assente nos conhecimentos e nas experiências existentes. A abordagem viabilizará também uma gestão adaptativa que assegure o aperfeiçoamento e o desenvolvimento aprofundado como um enriquecimento de experiências e de conhecimentos, tendo em conta a disponibilidade de dados e de informações ao nível das bacias marítimas para aplicar essa abordagem. Os Estados-Membros deverão ter em conta os princípios da precaução e da ação preventiva, estabelecidos no artigo 191.º, n.º 2, do Tratado sobre o Funcionamento da União Europeia.\n\n(15) O ordenamento do espaço marítimo contribuirá, nomeadamente, para a realização dos objetivos da Diretiva 2009/28/CE do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2014257PT.01013501-E0009), do Regulamento (CE) n.º 2371/2002 do Conselho [([^10])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr10-L_2014257PT.01013501-E0010), da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho [([^11])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr11-L_2014257PT.01013501-E0011), da Diretiva 92/43/CEE do Conselho [([^12])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr12-L_2014257PT.01013501-E0012), da Decisão 884/2004/CE do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr13-L_2014257PT.01013501-E0013), da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho [([^14])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr14-L_2014257PT.01013501-E0014) e da Diretiva 2008/56/CE, que remetem para a Comunicação da Comissão de 3 de maio de 2011, intitulada «O nosso seguro de vida, o nosso capital natural: Estratégia de Biodiversidade da UE para 2020», para a Comunicação da Comissão de 20 de setembro de 2011, intitulada «Roteiro para uma Europa Eficiente na utilização de recursos», para a Comunicação da Comissão de 16 de abril de 2013, intitulada «Estratégia da UE para a adaptação às alterações climáticas» e para a Comunicação da Comissão de 21 de janeiro de 2009, intitulada «Objetivos Estratégicos e Recomendações para a Política Comunitária de Transporte Marítimo no Horizonte de 2018», bem como, se for caso disso, dos objetivos da política regional da União, incluindo as estratégias para as bacias marítimas e para as grandes regiões marinhas.\n\n(16) As atividades marinhas e costeiras estão, com frequência, estreitamente interligadas. A fim de promover a utilização sustentável do espaço marítimo, o ordenamento do espaço marítimo deverá ter em conta as interações terra-mar. Por este motivo, o ordenamento do espaço marítimo pode desempenhar um papel muito útil na determinação das orientações relativas à gestão sustentável e integrada das atividades humanas no mar, à preservação dos habitats, à fragilidade dos ecossistemas costeiros, à erosão e a fatores sociais e económicos. O ordenamento do espaço marítimo deverá ter por objetivo integrar a dimensão marítima de algumas utilizações ou atividades costeiras e os seus impactos e permitir, em última instância, uma visão integrada e estratégica.\n\n(17) A presente diretiva-quadro não interfere nas competências dos Estados-Membros em matéria de ordenamento do território, incluindo os sistemas de gestão territorial utilizados para planear o modo de utilização do território e da zona costeira. Se os Estados-Membros aplicarem um ordenamento terrestre às águas costeiras ou a partes destas, a presente diretiva não deverá aplicar-se a essas águas.\n\n(18) O ordenamento do espaço marítimo deverá cobrir o ciclo completo de identificação de problemas e de oportunidades, recolha de informações, planeamento, tomada de decisões, execução, revisão ou atualização e o acompanhamento da execução, e deverá tomar devidamente em conta as interações terra-mar e o melhor conhecimento disponível. Os mecanismos previstos na atual ou futura legislação, incluindo a Decisão 2010/477/UE da Comissão [([^15])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr15-L_2014257PT.01013501-E0015) e a iniciativa Conhecimento do Meio Marinho 2020 da Comissão, deverão ser utilizados da melhor forma possível.\n\n(19) O principal objetivo do ordenamento do espaço marítimo é promover o desenvolvimento sustentável e identificar as diferentes utilizações dadas ao espaço marítimo, bem como gerir as utilizações e os conflitos do espaço nas zonas marinhas. O ordenamento do espaço marítimo visa igualmente identificar e encorajar utilizações múltiplas, de acordo com a legislação e com as políticas nacionais relevantes. Para realizar esse objetivo, os Estados-Membros devem assegurar, pelo menos, que o processo ou processos de ordenamento se materializem num ordenamento global que identifique as diferentes utilizações do espaço marítimo e que tenha em consideração as alterações a longo prazo devidas às alterações climáticas.\n\n(20) Os planos dos Estados-Membros deverão ser objeto de consultas e de coordenação com os Estados-Membros relevantes, e de cooperação com as autoridades dos países terceiros da região marinha em causa, em conformidade com os direitos e obrigações desses Estados-Membros e dos países terceiros interessados, previstos no direito da União e no direito internacional. Uma cooperação transfronteiriça eficiente entre os Estados-Membros e com os países terceiros vizinhos requer a identificação das autoridades competentes em cada Estado-Membro. Por conseguinte, os Estados-Membros devem designar a autoridade ou autoridades competentes responsáveis pela aplicação da presente diretiva. Dadas as diferenças entre as várias regiões ou sub-regiões marinhas e as várias zonas costeiras, a presente diretiva não deve definir em pormenor os mecanismos de cooperação.\n\n(21) A gestão das zonas marinhas é complexa e envolve diferentes níveis de autoridades, operadores económicos e outras partes interessadas. Para promover um desenvolvimento sustentável eficaz, é essencial que as partes interessadas, as autoridades e o público sejam consultados numa fase adequada da preparação dos planos de ordenamento do espaço marítimo ao abrigo da presente diretiva, em conformidade com a legislação aplicável da União. O artigo 2.º, n.º 2, da Diretiva 2003/35 do Parlamento Europeu e do Conselho [([^16])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr16-L_2014257PT.01013501-E0016) constitui um bom exemplo de disposições em matéria de consulta pública.\n\n(22) Os planos de ordenamento do espaço marítimo permitem que os Estados-Membros reduzam a carga administrativa e os custos ligados à ação que desenvolvem para aplicar outros atos legislativos pertinentes da União. Por conseguinte, os calendários relativos aos planos de ordenamento do espaço marítimo deverão, sempre que possível, ser coerentes com os calendários estabelecidos noutros atos legislativos relevantes, especialmente: a Diretiva 2009/28/CE, que exige que a quota de energia proveniente de fontes renováveis no consumo final bruto de energia em 2020 represente, pelo menos, 20 % e identifica a coordenação dos procedimentos de autorização, certificação e licenciamento, nomeadamente o planeamento espacial, como um contributo importante para a realização dos objetivos da União em matéria de energia proveniente de fontes renováveis; a Diretiva 2008/56/CE e o anexo, parte A, n.º 6, da Decisão 2010/477/UE, que exigem que os Estados-Membros tomem as medidas necessárias para obter ou manter um bom estado ambiental no meio marinho até 2020 e identificam o ordenamento do espaço marítimo como um instrumento suscetível de apoiar uma abordagem ecossistémica da gestão das atividades humanas com vista à consecução de um bom estado ambiental; a Decisão n.º 884/2004/CE, que exige a criação, até 2020, da rede transeuropeia de transportes, integrando as redes de infraestruturas de transportes terrestres, marítimos e aéreos.\n\n(23) A Diretiva 2001/42/CE do Parlamento Europeu e do Conselho [([^17])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr17-L_2014257PT.01013501-E0017) estabelece a avaliação ambiental como um instrumento importante para integrar as considerações ambientais na preparação e na adoção de planos e programas. Sempre que os planos de ordenamento do espaço marítimo possam ter um impacto significativo no ambiente, estão sujeitos à Diretiva 2001/42/CE. Sempre que os planos de ordenamento do espaço marítimo incluam sítios Natura 2000, a avaliação ambiental pode ser combinada com os requisitos do artigo 6.º da Diretiva 92/43/CEE, a fim de evitar duplicações.\n\n(24) A fim de garantir que os planos de ordenamento do espaço marítimo sejam estabelecidos com base em dados fiáveis e de evitar cargas administrativas adicionais, é essencial que os Estados-Membros utilizem os melhores dados e informações disponíveis, encorajando as partes interessadas relevantes a partilharem a informação e utilizando os instrumentos e as ferramentas de recolha de dados já existentes, nomeadamente os desenvolvidos no âmbito da iniciativa Conhecimento do Meio Marinho 2020 e da Diretiva 2007/2/CE do Parlamento Europeu e do Conselho [([^18])](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntr18-L_2014257PT.01013501-E0018).\n\n(25) A fim de acompanhar a execução da presente diretiva, os Estados-Membros deverão enviar cópias dos seus planos de ordenamento do espaço marítimo e das suas atualizações à Comissão. A Comissão utilizará a informação prestada pelos Estados-Membros e as informações disponíveis nos termos da legislação da União para manter o Parlamento Europeu e o Conselho informados acerca dos progressos realizados na execução da presente diretiva.\n\n(26) A transposição atempada da presente diretiva é essencial, uma vez que a União adotou uma série de iniciativas estratégicas, a executar até 2020, destinadas a ser apoiadas e completadas pela presente diretiva.\n\n(27) Seria desproporcionado e desnecessário obrigar os Estados-Membros sem litoral a transpor e aplicar a presente diretiva. Por conseguinte, esses Estados-Membros deverão ficar isentos da obrigação de transpor e aplicar a presente diretiva,\n\nADOTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "d62f7bc9cb323dde": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1. A presente diretiva estabelece um quadro para o ordenamento do espaço marítimo, a fim de promover o crescimento sustentável das economias marítimas, o desenvolvimento sustentável das zonas marinhas e a utilização sustentável dos recursos marinhos.\n\n2. No contexto da PMI da União, esse quadro prevê o estabelecimento e a aplicação do ordenamento do espaço marítimo pelos Estados-Membros, a fim de contribuir para os objetivos especificados no artigo 5.º, tendo em conta as interações terra-mar e o reforço da cooperação transfronteiriça, de acordo com as disposições aplicáveis da CNUDM."
+  },
+  "aa753b7593e09836": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1. A presente diretiva é aplicável às águas marinhas dos Estados-Membros, sem prejuízo de outra legislação da União. Não é aplicável às águas costeiras nem a partes destas abrangidas pelo ordenamento do território dos Estados-Membros, desde que tal seja comunicado nos seus planos de ordenamento do espaço marítimo.\n\n2. A presente diretiva não é aplicável a atividades cuja única finalidade seja a defesa ou a segurança nacional.\n\n3. A presente diretiva não interfere nas competências dos Estados-Membros em matéria de conceção e determinação, dentro das suas águas marinhas, do âmbito e do conteúdo dos seus planos de ordenamento do espaço marítimo. A presente diretiva não é aplicável ao ordenamento do território.\n\n4. A presente diretiva não afeta os direitos soberanos nem a jurisdição dos Estados-Membros sobre as águas marinhas decorrentes do direito internacional aplicável, nomeadamente a CNUDM. Em especial, a aplicação da presente diretiva não influencia a delineação nem a delimitação das fronteiras marítimas pelos Estados-Membros, em conformidade com as disposições aplicáveis da CNUDM."
+  },
+  "2c39091e739df24b": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) **«Política marítima integrada» (PMI)**: a política da União destinada a fomentar a tomada de decisões coordenadas e coerentes para maximizar o desenvolvimento sustentável, o crescimento económico e a coesão social dos Estados-Membros e, nomeadamente, das regiões costeiras, insulares e ultraperiféricas da União, bem como dos setores marítimos, através da adoção de políticas coerentes no domínio marítimo e da cooperação internacional relevante;\n\n2) **«Ordenamento do espaço marítimo»**: um processo através do qual as autoridades competentes dos Estados-Membros analisam e organizam as atividades humanas nas zonas marinhas para alcançar objetivos ecológicos, económicos e sociais;\n\n3) **«Região marinha»**: uma região marinha referida no artigo 4.º da Diretiva 2008/56/CE;\n\n4) **«Águas marinhas»**: as águas, os fundos e os subsolos marinhos na aceção do artigo 3.º, ponto 1, alínea a), da Diretiva 2008/56/CE, e as águas costeiras na aceção do artigo 2.º, ponto 7, da Diretiva 2000/60/CE, e o seu fundo e subsolo marinhos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "64bf287507565fc8": {
+   "fragment_id": "ORDENAMENTO DO ESPAÇO MARÍTIMO",
+   "type": "divisao",
+   "heading": "ORDENAMENTO DO ESPAÇO MARÍTIMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORDENAMENTO DO ESPAÇO MARÍTIMO"
+  },
+  "83db5c570cd1b828": {
+   "fragment_id": "Artigo 4.º — Estabelecimento e aplicação do ordenamento do espaço marítimo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estabelecimento e aplicação do ordenamento do espaço marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estabelecimento e aplicação do ordenamento do espaço marítimo\n\n1. Os Estados-Membros estabelecem e aplicam o ordenamento do espaço marítimo.\n\n2. Para o efeito, os Estados-Membros têm em conta as interações terra-mar.\n\n3. O plano ou planos correspondentes são desenvolvidos e apresentados de acordo com os diferentes níveis institucionais e de governação determinados pelos Estados-Membros. A presente diretiva não interfere nas competências dos Estados-Membros em matéria de conceção e determinação do formato e do conteúdo desse plano ou planos.\n\n4. Os planos de ordenamento do espaço marítimo visam contribuir para os objetivos enunciados no artigo 5.º e cumprem os requisitos mínimos estabelecidos nos artigos 6.º e 8.º.\n\n5. Ao estabelecer os planos de ordenamento do espaço marítimo, os Estados-Membros têm devidamente em conta as especificidades das regiões marinhas, as atividades atuais e futuras relevantes e as utilizações e os respetivos impactos no ambiente, bem como os recursos naturais, e tomam também em consideração as interações terra-mar.\n\n6. Os Estados-Membros podem incluir as políticas nacionais existentes, bem como os regulamentos ou mecanismos que tenham sido ou estejam a ser estabelecidos antes da entrada em vigor da presente diretiva, ou basear-se neles, desde que sejam conformes com os requisitos da presente diretiva."
+  },
+  "c722380763d2b79f": {
+   "fragment_id": "Artigo 5.º — Objetivos do ordenamento do espaço marítimo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objetivos do ordenamento do espaço marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos do ordenamento do espaço marítimo\n\n1. Aquando do estabelecimento e da aplicação do ordenamento do espaço marítimo, os Estados-Membros devem ter em conta aspetos económicos, sociais e ambientais, para apoiar o crescimento e o desenvolvimento sustentável no setor marítimo, aplicando uma abordagem ecossistémica, e para promover a coexistência de atividades e utilizações pertinentes.\n\n2. Através dos seus planos de ordenamento do espaço marítimo, os Estados-Membros visam contribuir para o desenvolvimento sustentável dos setores da energia no meio marinho, do transporte marítimo e do setor das pescas e da aquicultura, e para a preservação, proteção e melhoria do ambiente, incluindo a resistência ao impacto das alterações climáticas. Além disso, os Estados-Membros podem visar outros objetivos, como a promoção do turismo sustentável e a extração sustentável de matérias-primas.\n\n3. A presente diretiva não prejudica a competência dos Estados-Membros para determinar a forma como os diferentes objetivos são refletidos e ponderados no seu plano ou planos de ordenamento do espaço marítimo."
+  },
+  "6a0385d71d72dc21": {
+   "fragment_id": "Artigo 6.º — Requisitos mínimos aplicáveis ao ordenamento do espaço marítimo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Requisitos mínimos aplicáveis ao ordenamento do espaço marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos mínimos aplicáveis ao ordenamento do espaço marítimo\n\n1. Os Estados-Membros estabelecem as fases processuais para contribuir para os objetivos enunciados no artigo 5.º, tomando em consideração as atividades e as utilizações pertinentes nas águas marinhas.\n\n2. Para o efeito, os Estados-Membros:\n\na) têm em conta as interações terra-mar;\n\nb) têm em conta os aspetos ambientais, económicos e sociais, bem como os aspetos de segurança;\n\nc) visam promover a coerência entre o ordenamento do espaço marítimo e o plano ou planos correspondentes e outros processos, como a gestão costeira integrada ou as práticas formais ou informais equivalentes;\n\nd) garantem a participação das partes interessadas nos termos do artigo 9.º;\n\ne) organizam a utilização dos melhores dados disponíveis nos termos do artigo 10.º;\n\nf) garantem uma cooperação transnacional eficaz entre si nos termos do artigo 11.º;\n\ng) promovem a cooperação com os países terceiros nos termos do artigo 12.º.\n\n3. Os Estados-Membros reveem os planos de ordenamento do espaço marítimo como melhor entenderem, mas pelo menos de dez em dez anos."
+  },
+  "9850f0c0f224b36d": {
+   "fragment_id": "Artigo 7.º — Interações terra-mar",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Interações terra-mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Interações terra-mar\n\n1. A fim de ter em conta as interações terra-mar nos termos do artigo 4.º, n.º 2, caso tal não faça parte do processo de ordenamento do espaço marítimo enquanto tal, os Estados-Membros podem aplicar outros processos formais ou informais, como a gestão costeira integrada. O resultado deve ser traduzido pelos Estados-Membros nos seus planos de ordenamento do espaço marítimo.\n\n2. Sem prejuízo do artigo 2.º, n.º 3, os Estados-Membros visam promover, através do ordenamento do espaço marítimo, a coerência do plano ou planos correspondentes de ordenamento do espaço marítimo com outros processos pertinentes."
+  },
+  "0d3b141120a3fdd5": {
+   "fragment_id": "Artigo 8.º — Elaboração dos planos de ordenamento do espaço marítimo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Elaboração dos planos de ordenamento do espaço marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elaboração dos planos de ordenamento do espaço marítimo\n\n1. Ao estabelecerem e aplicarem o ordenamento do espaço marítimo, os Estados-Membros elaboram planos de ordenamento do espaço marítimo que identifiquem a distribuição espacial e temporal das atividades e das utilizações atuais e futuras nas suas águas marinhas, a fim de contribuir para os objetivos enunciados no artigo 5.º.\n\n2. Para o efeito, e nos termos do artigo 2.º, n.º 3, os Estados-Membros têm em conta as interações pertinentes das atividades e das utilizações. Sem prejuízo das competências dos Estados-Membros, as possíveis atividades, utilizações e interesses podem incluir:\n\n— zonas de aquicultura;\n\n— zonas de pesca;\n\n— instalações e infraestruturas para a prospeção, exploração e extração de petróleo, de gás e de outros recursos energéticos, de minérios e agregados, e para a produção de energia a partir de fontes renováveis;\n\n— rotas de transporte e fluxos de tráfego marítimo;\n\n— áreas de treino militar;\n\n— sítios de conservação da natureza e das espécies e zonas protegidas;\n\n— zonas de extração de matérias-primas;\n\n— a investigação científica;\n\n— o percurso dos cabos e condutas submarinos;\n\n— o turismo;\n\n— o património cultural submarino."
+  },
+  "510c3119c70b12c6": {
+   "fragment_id": "Artigo 9.º — Participação pública",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Participação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Participação pública\n\n1. Os Estados-Membros estabelecem métodos de participação pública, informando todas as partes interessadas e consultando as partes e as autoridades interessadas, bem como o público envolvido, numa fase inicial da elaboração dos planos de ordenamento do espaço marítimo, em conformidade com as disposições pertinentes estabelecidas na legislação da União.\n\n2. Os Estados-Membros asseguram igualmente que as partes interessadas relevantes, as autoridades e o público envolvido tenham acesso aos planos logo que estes estejam concluídos."
+  },
+  "3af08f0a77399cbc": {
+   "fragment_id": "Artigo 10.º — Utilização e partilha de dados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Utilização e partilha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Utilização e partilha de dados\n\n1. Os Estados-Membros organizam a utilização dos melhores dados disponíveis e decidem a forma de organizar a partilha das informações necessárias para os planos de ordenamento do espaço marítimo.\n\n2. Os dados a que se refere o n.º 1 podem incluir, nomeadamente:\n\na) Dados ambientais, sociais e económicos recolhidos de acordo com a legislação da União relativa às atividades referidas no artigo 8.º;\n\nb) Dados do meio físico marinho relativos às águas marinhas.\n\n3. Ao aplicarem o n.º 1, os Estados-Membros utilizam os instrumentos e as ferramentas pertinentes, incluindo os já disponíveis ao abrigo da PMI e de outras políticas relevantes da União, nomeadamente os referidos na Diretiva 2007/2/CE."
+  },
+  "f63d3dfbcf9c47b4": {
+   "fragment_id": "Artigo 11.º — Cooperação entre os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cooperação entre os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação entre os Estados-Membros\n\n1. Enquanto parte do processo de planeamento e de gestão, os Estados-Membros que partilham águas marinhas cooperam para garantir que os planos de ordenamento do espaço marítimo sejam coerentes e coordenados na região marítima em questão. Essa cooperação deve ter em conta, nomeadamente, questões de natureza transnacional.\n\n2. A cooperação referida no n.º 1 é executada através:\n\na) das estruturas regionais de cooperação institucional existentes, como as convenções marinhas regionais; e/ou\n\nb) das redes ou estruturas das autoridades competentes dos Estados-Membros; e/ou\n\nc) de outros métodos que cumpram os requisitos do n.º 1, por exemplo, no contexto das estratégias das bacias marítimas."
+  },
+  "4c02ea88f22c4f07": {
+   "fragment_id": "Artigo 12.º — Cooperação com os países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Cooperação com os países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cooperação com os países terceiros\n\nOs Estados-Membros devem esforçar-se, sempre que possível, por cooperar com os países terceiros nas suas ações relativas ao ordenamento do espaço marítimo nas regiões marinhas relevantes, de acordo com o direito e com as convenções internacionais, recorrendo, nomeadamente, às instâncias internacionais existentes ou à cooperação institucional regional."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "39ad9011ff417418": {
+   "fragment_id": "EXECUÇÃO",
+   "type": "divisao",
+   "heading": "EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXECUÇÃO"
+  },
+  "7f6da37d662b6086": {
+   "fragment_id": "Artigo 13.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autoridades competentes\n\n1. Cada Estado-Membro designa a autoridade ou autoridades competentes para a execução da presente diretiva.\n\n2. Cada Estado-Membro fornece à Comissão uma lista dessas autoridades competentes, juntamente com as informações previstas no anexo da presente diretiva.\n\n3. Cada Estado-Membro informa a Comissão sobre as alterações das informações prestadas nos termos do n.º 1 no prazo de seis meses a contar da data em que essas alterações comecem a produzir efeitos."
+  },
+  "c241358d341269b4": {
+   "fragment_id": "Artigo 14.º — Acompanhamento e apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Acompanhamento e apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acompanhamento e apresentação de relatórios\n\n1. Os Estados-Membros enviam à Comissão e aos outros Estados-Membros interessados cópias dos planos de ordenamento do espaço marítimo, incluindo os elementos explicativos pertinentes existentes a respeito da aplicação da presente diretiva, bem como todas as atualizações posteriores, no prazo de três meses a contar da data da respetiva publicação.\n\n2. A Comissão apresenta ao Parlamento Europeu e ao Conselho, no máximo um ano após o prazo para o estabelecimento dos planos de ordenamento do espaço marítimo e, posteriormente, de quatro em quatro anos, um relatório sobre os progressos realizados na execução da presente diretiva."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "6c22c30247f65bfe": {
+   "fragment_id": "Artigo 15.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transposição\n\n1. Os Estados-Membros adotam e publicam as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 18 de setembro de 2016. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.\n\nQuando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.\n\n2. A autoridade ou autoridades a que se refere o artigo 13.º, n.º 1, devem ser designadas até 18 de setembro de 2016.\n\n3. Os planos de ordenamento do espaço marítimo referidos no artigo 4.º devem ser estabelecidos o mais rapidamente possível e, o mais tardar, até 31 de março de 2021.\n\n4. As obrigações de transposição e de execução da presente diretiva não se aplicam aos Estados-Membros sem litoral."
+  },
+  "d7147e581cd04ddd": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "cb0da6daf5e8ef21": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados Membros.\n\nFeito em Bruxelas, em 23 de julho de 2014.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**S. GOZI**\n\n---"
+  },
+  "72b35d905f627afa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014257PT.01013501-E0001) [JO C 341 de 21.11.2013, p. 67](http://publications.europa.eu/resource/oj/JOC_2013_341_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014257PT.01013501-E0002) [JO C 356 de 5.12.2013, p. 124](http://publications.europa.eu/resource/oj/JOC_2013_356_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014257PT.01013501-E0003) Posição do Parlamento Europeu de 17 de abril de 2014 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 23 de julho de 2014.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014257PT.01013501-E0004) Diretiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, que estabelece um quadro de ação comunitária no domínio da política para o meio marinho (Diretiva-Quadro «Estratégia Marinha») ([JO L 164 de 25.6.2008, p. 19](http://publications.europa.eu/resource/oj/JOL_2008_164_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2014257PT.01013501-E0005) Regulamento (UE) n.º 1255/2011 do Parlamento Europeu e do Conselho, de 30 de novembro de 2011, que estabelece um programa de apoio ao aprofundamento da política marítima integrada ([JO L 321 de 5.12.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_321_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2014257PT.01013501-E0006) Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas e que revoga os Regulamentos (CE) n.º 2328/2003, (CE) n.º 861/2006, (CE) n.º 1198/2006 e (CE) n.º 791/2007 do Conselho e o Regulamento (UE) n.º 1255/2011 do Parlamento Europeu e do Conselho ([JO L 149 de 20.5.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_149_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2014257PT.01013501-E0007) Recomendação 2002/413/CE do Parlamento Europeu e do Conselho, de 30 de maio de 2002, relativa à execução da gestão integrada das zonas costeiras na Europa ([JO L 148 de 6.6.2002, p. 24](http://publications.europa.eu/resource/oj/JOL_2002_148_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2014257PT.01013501-E0008) Decisão 2010/631/CE do Conselho, de 13 de setembro de 2010, relativa à celebração, em nome da União Europeia, do Protocolo sobre a Gestão Integrada da Zona Costeira do Mediterrâneo da Convenção para a Proteção do Meio Marinho e da Região Costeira do Mediterrâneo ([JO L 279 de 23.10.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_279_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2014257PT.01013501-E0009) Diretiva 2009/28/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à promoção da utilização de energia proveniente de fontes renováveis que altera e subsequentemente revoga as Diretivas 2001/77/CE e 2003/30/CE ([JO L 140 de 5.6.2009, p. 16](http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc10-L_2014257PT.01013501-E0010) Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc11-L_2014257PT.01013501-E0011) Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens ([JO L 20 de 26.1.2010, p. 7](http://publications.europa.eu/resource/oj/JOL_2010_020_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc12-L_2014257PT.01013501-E0012) Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens ([JO L 206 de 22.7.1992, p. 7](http://publications.europa.eu/resource/oj/JOL_1992_206_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc13-L_2014257PT.01013501-E0013) Decisão n.º 884/2004/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, que altera a Decisão n.º 1692/96/CE sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes ([JO L 167 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_167_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc14-L_2014257PT.01013501-E0014) Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água ([JO L 327 de 22.12.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_327_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc15-L_2014257PT.01013501-E0015) Decisão 2010/477/UE da Comissão, de 1 de setembro de 2010, relativa aos critérios e às normas metodológicas de avaliação do bom estado ambiental das águas marinhas ([JO L 232 de 2.9.2010, p. 14](http://publications.europa.eu/resource/oj/JOL_2010_232_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc16-L_2014257PT.01013501-E0016) Diretiva 2003/35/CE do Parlamento Europeu e do Conselho, de 26 de maio de 2003, que estabelece a participação do público na elaboração de certos planos e programas relativos ao ambiente e que altera, no que diz respeito à participação do público e ao acesso à justiça, as Directivas 85/337/CEE e 96/61/CE do Conselho ([JO L 156 de 25.6.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_156_R_TOC)).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc17-L_2014257PT.01013501-E0017) Diretiva 2001/42/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2001, relativa à avaliação dos efeitos de determinados planos e programas no ambiente ([JO L 197 de 21.7.2001, p. 30](http://publications.europa.eu/resource/oj/JOL_2001_197_R_TOC)).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1.0018.03/DOC_1#ntc18-L_2014257PT.01013501-E0018) Diretiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de março de 2007, que estabelece uma infra-estrutura de informação geográfica na Comunidade Europeia (Inspire) ([JO L 108 de 25.4.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_108_R_TOC))."
+  }
+ }
+}

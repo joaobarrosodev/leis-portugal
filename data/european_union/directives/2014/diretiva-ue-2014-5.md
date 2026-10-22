@@ -38,6 +38,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-29'
+version_history:
+  file: diretiva-ue-2014-5.versoes.json
+  count: 2
+  source_lastmod: '2014-01-29'
+  versions:
+  - date: '2014-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
 identifiers:
   celex: 32014L0005
   eli: http://data.europa.eu/eli/dir_del/2014/5/oj
@@ -52,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b2e0d8d6-793e-11e3-b889-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/418fe33f-fe0f-11e3-831f-01aa75ed71a1.0002.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0005-20140129
-  retrieved_at: '2026-10-22T02:48:37Z'
+  retrieved_at: '2026-10-22T16:26:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T07:41:21.535+02:00'
 integrity:
@@ -61,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:37Z'
-  notes: Texto consolidado 02014L0005-20140129.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:26:11Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2014-5.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -115,29 +132,19 @@ relationships:
   date: '2014-03-06'
 article_structure:
   article_count: 4
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:37Z'
+  checked_at: '2026-10-22T16:26:11Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva Delegada 2014/5/UE da Comissão, de 18 de outubro de 2013
-
-> 2014L0005 — PT — 29.01.2014 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0005R%2801%29) — [Rectificação, JO L 010, 15.1.2014, p. 32 (2014/5)](http://publications.europa.eu/resource/celex/32014L0005R%2801%29)
-
-## DIRETIVA DELEGADA 2014/5/UE DA COMISSÃO
 
 de 18 de outubro de 2013
 

@@ -36,6 +36,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-17'
+version_history:
+  file: regulamento-ue-2013-883.versoes.json
+  count: 2
+  source_lastmod: '2021-01-17'
+  versions:
+  - date: '2017-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-17'
+    amending: eu:celex:32020R2223:por
+    amending_title: REGULAMENTO (UE, Euratom) 2020/2223 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objetivos e funções
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Inquéritos externos
+    - Altera Artigo 4.º — Inquéritos internos
+    - Altera Artigo 5.º — Abertura dos inquéritos
+    - Altera Artigo 7.º — Processo de inquérito
+    - Altera Artigo 9.º — Garantias processuais
+    - Altera Artigo 10.º — Confidencialidade e proteção dos dados
+    - Altera Artigo 11.º — Relatório de inquérito e medidas a tomar na sequência dos inquéritos
+    - Altera Artigo 12.º — Intercâmbio de informações entre o Organismo e as autoridades competentes dos Estados-Membros
+    - Altera Artigo 13.º — Cooperação do Organismo com a Eurojust e a Europol
+    - Altera Artigo 15.º — Comité de Fiscalização
+    - Altera Artigo 16.º — Trocas de opiniões com as instituições
+    - Altera Artigo 17.º — Diretor-Geral
+    - Altera Artigo 21.º — Entrada em vigor e disposições transitórias
+    - Altera Notas
+    - Adita Artigo 8.º — Dever de informar o Organismo
+    - Adita Artigo 9.º-A — Controlador das garantias processuais
+    - Adita Artigo 9.º-B — Mecanismo de reclamação
+    - Adita Artigo 12.º-A — Serviços de coordenação antifraude
+    - Adita Artigo 12.º-B — Atividades de coordenação
+    - Adita Artigo 12.º-C — Denúncia de conduta criminosa à Procuradoria Europeia
+    - Adita Artigo 12.º-D — Não duplicação das investigações
+    - Adita Artigo 12.º-E — Apoio do Organismo à Procuradoria Europeia
+    - Adita Artigo 12.º-F — Inquéritos complementares
+    - Adita Artigo 12.º-G — Modalidades de cooperação e intercâmbio de informações com a Procuradoria Europeia
+    - Adita Artigo 19.º — Relatório de avaliação e possível revisão
+    - Suprime Artigo 8.º — Obrigação de informar o Organismo
+    - Suprime Artigo 19.º — Relatório de avaliação
 identifiers:
   celex: 32013R0883
   eli: http://data.europa.eu/eli/reg/2013/883/oj
@@ -50,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d1866152-203f-11e3-8d1c-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/d1c76b65-763a-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0883-20210117
-  retrieved_at: '2026-10-22T02:45:45Z'
+  retrieved_at: '2026-10-22T16:21:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T02:25:22.302+02:00'
 integrity:
@@ -59,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:45Z'
-  notes: Texto consolidado 02013R0883-20210117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:21:41Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-883.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -179,30 +221,20 @@ relationships:
   date: '1999-05-25'
 article_structure:
   article_count: 30
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:45Z'
-  warnings: []
+  checked_at: '2026-10-22T16:21:41Z'
+  warnings:
+  - '02013R0883-20130918: versão indisponível (Sem expressão na língua por para CELEX 02013R0883-20130918.)'
   errors: []
 ---
 
 # Regulamento (UE, Euratom) n. ° 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013
-
-> 02013R0883 — PT — 17.01.2021 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R2030) — [REGULAMENTO (UE, Euratom) 2016/2030 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de outubro de 2016](http://publications.europa.eu/resource/celex/32016R2030) — L 317 — 1 — 23.11.2016
-- [►M2](http://publications.europa.eu/resource/celex/32020R2223) — [REGULAMENTO (UE, Euratom) 2020/2223 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2223) — L 437 — 49 — 28.12.2020
-
-## REGULAMENTO (UE, EURATOM) N.º 883/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de setembro de 2013
 

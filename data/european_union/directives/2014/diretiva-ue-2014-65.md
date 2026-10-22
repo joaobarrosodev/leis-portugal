@@ -35,6 +35,319 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-06'
+version_history:
+  file: diretiva-ue-2014-65.versoes.json
+  count: 14
+  source_lastmod: '2026-06-06'
+  versions:
+  - date: '2014-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-09-17'
+    amending: eu:celex:32014R0909:por
+    amending_title: REGULAMENTO (UE) N. o 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 24.º — Princípios gerais e informações prestadas aos clientes
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 45.º — Requisitos para o órgão de administração de um operador do mercado
+    - Altera Artigo 70.º — Sanções para as infrações
+    - Altera Artigo 71.º — Publicação das decisões
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Artigo 91.º — Alteração da Diretiva 2002/92/CE
+    - Altera Artigo 92.º — Alteração da Diretiva 2011/61/UE
+    - Altera Artigo 97.º — Destinatários
+    - Altera Notas
+    - Adita «CAPÍTULO III-A
+    - Adita Requisitos adicionais de proteção dos clientes no que se refere aos produtos de investimento com base em seguros
+    - Adita ANEXO I
+    - Adita LISTA DE SERVIÇOS E ATIVIDADES E INSTRUMENTOS FINANCEIROS
+    - Adita SECÇÃO A
+    - Adita Serviços e atividades de investimento
+    - Adita SECÇÃO B
+    - Adita Serviços auxiliares
+    - Adita SECÇÃO C
+    - Adita Instrumentos financeiros
+    - Adita SECÇÃO D
+    - Adita Lista de serviços de comunicação de dados
+    - Adita ANEXO II
+    - Adita CLIENTES PROFISSIONAIS PARA EFEITOS DA PRESENTE DIRECTIVA
+    - Adita I. CATEGORIAS DE CLIENTES QUE SÃO CONSIDERADOS PROFISSIONAIS
+    - Adita II. CLIENTES QUE PODEM SER TRATADOS COMO PROFISSIONAIS MEDIANTE PEDIDO
+    - Adita II.1. Critérios de identificação
+    - Adita II.2. Processo
+    - Adita ANEXO III
+    - Adita PARTE A
+    - Adita Diretiva revogada com a lista das sucessivas alterações
+    - Adita (referidas no artigo 94.º)
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito nacional
+    - Adita (referidos no artigo 94.º)
+  - date: '2016-07-01'
+    amending: eu:celex:32016L1034:por
+    amending_title: DIRETIVA (UE) 2016/1034 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23
+      de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 34.º — Liberdade de prestação de serviços e atividades de investimento
+    - Altera Artigo 35.º — Estabelecimento de uma sucursal
+    - Altera Artigo 39.º — Estabelecimento de uma sucursal
+    - Altera Artigo 61.º — Procedimentos para a concessão e recusa de pedidos de autorização
+    - Altera Artigo 69.º — Poderes de supervisão
+    - Altera Artigo 70.º — Sanções para as infrações
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Artigo 93.º — Transposição
+    - Altera Artigo 94.º — Revogação
+    - Altera Artigo 95.º — Disposições transitórias
+    - Altera Notas
+    - Adita Artigo 89.º-A — Procedimento de comité
+  - date: '2019-12-31'
+    amending: eu:celex:32016L0097:por
+    amending_title: DIRETIVA (UE) 2016/97 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      janeiro de 2016; REGULAMENTO (UE) 2019/2115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 33.º — Mercados de PME em crescimento
+    - Altera Artigo 69.º — Poderes de supervisão
+    - Altera Artigo 70.º — Sanções para as infrações
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Artigo 93.º — Transposição
+    - Altera Artigo 94.º — Revogação
+    - Altera Artigo 95.º — Disposições transitórias
+    - Altera ANEXO IV
+    - Altera Notas
+    - Adita Tabela de correspondência a que se refere o artigo 94.º
+    - Suprime Artigo 91.º — Alteração da Diretiva 2002/92/CE
+    - Suprime «CAPÍTULO III-A
+    - Suprime Requisitos adicionais de proteção dos clientes no que se refere aos produtos de investimento com base em seguros
+  - date: '2020-03-26'
+    amending: eu:celex:32019L2034:por
+    amending_title: DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27
+      de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 49.º — Variação de ofertas de preços (tick)
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Notas
+  - date: '2021-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 41.º — Concessão da autorização
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 81.º — Troca de informações
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera II. CLIENTES QUE PODEM SER TRATADOS COMO PROFISSIONAIS MEDIANTE PEDIDO
+    - Altera Notas
+    - Adita Artigo 42.º — Prestação de serviços por iniciativa exclusiva do cliente
+    - Adita Artigo 95.º‐A — Disposição transitória sobre a autorização das instituições de crédito a que se refere o artigo
+      4.º, n.º 1, ponto 1, alínea b), do Regulamento (UE) n.º 575/2013
+    - Suprime Artigo 42.º — Prestação de serviços por exclusiva iniciativa do cliente
+    - Suprime II.1. Critérios de identificação
+    - Suprime II.2. Processo
+  - date: '2021-11-10'
+    amending: eu:celex:32020L1504:por
+    amending_title: DIRETIVA (UE) 2020/1504 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de outubro de 2020
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: eu:celex:32019L2177:por
+    amending_title: DIRECTIVA (UE) 2019/2177 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 22.º — Obrigações gerais respeitantes à supervisão contínua
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 70.º — Sanções para as infrações
+    - Altera Artigo 71.º — Publicação das decisões
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º — Exercício da delegação
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Artigo 93.º — Transposição
+    - Altera Notas
+    - Suprime TÍTULO V
+    - Suprime SERVIÇOS DE COMUNICAÇÃO DE DADOS
+    - Suprime Procedimentos de autorização para os prestadores de serviços de comunicação de dados
+    - Suprime Artigo 59.º — Obrigatoriedade da autorização
+    - Suprime Artigo 60.º — Âmbito da autorização
+    - Suprime Artigo 61.º — Procedimentos para a concessão e recusa de pedidos de autorização
+    - Suprime Artigo 62.º — Revogação de autorizações
+    - Suprime Artigo 63.º — Requisitos aplicáveis ao órgão de administração de um prestador de serviços de comunicação de
+      dados
+    - Suprime Condições relativas aos APA
+    - Suprime Artigo 64.º — Requisitos em matéria de organização
+    - Suprime Condições aplicáveis aos CTP
+    - Suprime Artigo 65.º — Requisitos em matéria de organização
+    - Suprime Condições relativas aos ARM
+    - Suprime Artigo 66.º — Requisitos em matéria de organização
+    - Suprime SECÇÃO D
+    - Suprime Lista de serviços de comunicação de dados
+  - date: '2022-02-28'
+    amending: eu:celex:32021L0338:por
+    amending_title: DIRETIVA (UE) 2021/338 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 24.º — Princípios gerais e informações prestadas aos clientes
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 27.º — Obrigação de executar as ordens nas condições mais favoráveis para o cliente
+    - Altera Artigo 30.º — Transações efetuadas com contrapartes elegíveis
+    - Altera Artigo 57.º — Limites às posições e controlos de gestão das posições em derivados de mercadorias
+    - Altera Artigo 58.º — Comunicação das posições por categoria de detentores de posições
+    - Altera Artigo 73.º — Comunicação de infrações
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º — Exercício da delegação
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Notas
+    - Adita Artigo 16.º-A — Isenções dos requisitos em matéria de governação dos produtos
+    - Adita Artigo 29.º-A — Serviços prestados a clientes profissionais
+  - date: '2023-03-23'
+    amending: eu:celex:32022R0858:por
+    amending_title: REGULAMENTO (UE) 2022/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 70.º — Sanções para as infrações
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 93.º — Transposição
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 87.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-03-28'
+    amending: eu:celex:32024L0790:por
+    amending_title: DIRETIVA (UE) 2024/790 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 27.º — Obrigação de executar as ordens nas condições mais favoráveis para o cliente
+    - Altera Artigo 31.º — Controlo do cumprimento das regras do MTF ou do OTF e de outras obrigações legais
+    - Altera Artigo 47.º — Requisitos em matéria de organização
+    - Altera Artigo 48.º — Resistência dos sistemas, interruptores (circuit breakers) e sistemas de negociação eletrónica
+    - Altera Artigo 49.º — Variação de ofertas de preços (tick)
+    - Altera Artigo 58.º — Comunicação das posições por categoria de detentores de posições
+    - Altera Artigo 70.º — Sanções para as infrações
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 87.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Notas
+    - Adita Artigo 57.º
+    - Adita **Limites às posições nos derivados de mercadorias e controlos de gestão das posições nos derivados das mercadorias
+      e nos derivados de licenças de emissão**
+    - Suprime Artigo 50.º — Sincronização dos relógios profissionais
+    - Suprime Artigo 57.º — Limites às posições e controlos de gestão das posições em derivados de mercadorias
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 16.º — Requisitos em matéria de organização
+    - Altera Artigo 17.º — Negociação algorítmica
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 47.º — Requisitos em matéria de organização
+    - Altera Artigo 48.º — Resistência dos sistemas, interruptores (circuit breakers) e sistemas de negociação eletrónica
+    - Altera **Limites às posições nos derivados de mercadorias e controlos de gestão das posições nos derivados das mercadorias
+      e nos derivados de licenças de emissão**
+    - Altera Artigo 58.º — Comunicação das posições por categoria de detentores de posições
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 87.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Notas
+  - date: '2026-06-06'
+    amending: eu:celex:32024L2811:por
+    amending_title: DIRETIVA (UE) 2024/2811 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Revogação de autorizações
+    - Altera Artigo 15.º — Dotação inicial de capital
+    - Altera Artigo 16.º — Requisitos em matéria de organização
+    - Altera Artigo 24.º — Princípios gerais e informações prestadas aos clientes
+    - Altera Artigo 25.º — Avaliação da adequação e prestação de informações aos clientes
+    - Altera Artigo 33.º — Mercados de PME em crescimento
+    - Altera **Limites às posições nos derivados de mercadorias e controlos de gestão das posições nos derivados das mercadorias
+      e nos derivados de licenças de emissão**
+    - Altera Artigo 69.º — Poderes de supervisão
+    - Altera Artigo 77.º — Relações com os revisores de contas
+    - Altera Artigo 87.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 89.º — Exercício da delegação
+    - Altera Artigo 89.º-A — Procedimento de comité
+    - Altera Artigo 90.º — Relatórios e revisão
+    - Altera Notas
+    - Adita Artigo 51.º-A
 identifiers:
   celex: 32014L0065
   eli: http://data.europa.eu/eli/dir/2014/65/oj
@@ -49,7 +362,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/056587cf-f1f8-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/bcfbf409-0d96-11f1-8870-01aa75ed71a1.0020.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0065-20260606
-  retrieved_at: '2026-10-22T02:35:43Z'
+  retrieved_at: '2026-10-22T16:30:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T05:49:48.334+02:00'
 integrity:
@@ -58,9 +371,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:43Z'
-  notes: Texto consolidado 02014L0065-20260606.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:30:37Z'
+  notes: 14 versão(ões); histórico completo em diretiva-ue-2014-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -579,50 +892,19 @@ relationships:
   source: null
 article_structure:
   article_count: 93
-  section_count: 60
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 62
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:43Z'
+  checked_at: '2026-10-22T16:30:37Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/65/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 02014L0065 — PT — 06.06.2026 — 014.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0909) — [REGULAMENTO (UE) N.º 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014](http://publications.europa.eu/resource/celex/32014R0909) — L 257 — 1 — 28.8.2014
-- [►M2](http://publications.europa.eu/resource/celex/32016L0097) — [DIRETIVA (UE) 2016/97 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016L0097) — L 26 — 19 — 2.2.2016
-- [►M3](http://publications.europa.eu/resource/celex/32016L1034) — [DIRETIVA (UE) 2016/1034 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016](http://publications.europa.eu/resource/celex/32016L1034) — L 175 — 8 — 30.6.2016
-- [►M4](http://publications.europa.eu/resource/celex/32019L2034) — [DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2034) — L 314 — 64 — 5.12.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019R2115) — [REGULAMENTO (UE) 2019/2115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2115) — L 320 — 1 — 11.12.2019
-- [►M6](http://publications.europa.eu/resource/celex/32019L2177) — [DIRECTIVA (UE) 2019/2177 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019L2177) — L 334 — 155 — 27.12.2019
-- [►M7](http://publications.europa.eu/resource/celex/32020L1504) — [DIRETIVA (UE) 2020/1504 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de outubro de 2020](http://publications.europa.eu/resource/celex/32020L1504) — L 347 — 50 — 20.10.2020
-- [►M8](http://publications.europa.eu/resource/celex/32021L0338) — [DIRETIVA (UE) 2021/338 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021L0338) — L 68 — 14 — 26.2.2021
-- [►M9](http://publications.europa.eu/resource/celex/32022R0858) — [REGULAMENTO (UE) 2022/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0858) — L 151 — 1 — 2.6.2022
-- [►M10](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M11](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M12](http://publications.europa.eu/resource/celex/32024L0790) — [DIRETIVA (UE) 2024/790 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024L0790) — L 790 — 1 — 8.3.2024
-- [►M13](http://publications.europa.eu/resource/celex/32024L2811) — [DIRETIVA (UE) 2024/2811 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2811) — L 2811 — 1 — 14.11.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0065R%2806%29) — [Rectificação, JO L 188, 13.7.2016, p. 28 (2014/65/UE)](http://publications.europa.eu/resource/celex/32014L0065R%2806%29)
-- [C2](http://publications.europa.eu/resource/celex/32014L0065R%2807%29) — [Rectificação, JO L 273, 8.10.2016, p. 35 (2014/65/UE)](http://publications.europa.eu/resource/celex/32014L0065R%2807%29)
-- [►C3](http://publications.europa.eu/resource/celex/32014L0065R%2809%29) — [Rectificação, JO L 064, 10.3.2017, p. 116 (2014/65/UE)](http://publications.europa.eu/resource/celex/32014L0065R%2809%29)
-- [►C4](http://publications.europa.eu/resource/celex/32014L0065R%2810%29) — [Rectificação, JO L 162, 23.6.2017, p. 56 (2014/65/UE)](http://publications.europa.eu/resource/celex/32014L0065R%2810%29)
-- [►C5](http://publications.europa.eu/resource/celex/32019L2034R%2802%29) — [Rectificação, JO L 405, 2.12.2020, p. 84 (2019/2034)](http://publications.europa.eu/resource/celex/32019L2034R%2802%29)
-- [►C6](http://publications.europa.eu/resource/celex/32021L0338R%2802%29) — [Rectificação, JO L 90739, 3.9.2026, p. 1 (2021/338)](http://publications.europa.eu/resource/celex/32021L0338R%2802%29)
-
-## DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-05-28'
+version_history:
+  file: diretiva-ue-2014-60.versoes.json
+  count: 1
+  source_lastmod: '2014-05-28'
+  versions:
+  - date: '2014-05-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014L0060
   eli: http://data.europa.eu/eli/dir/2014/60/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c6cd6a19-e636-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/32ec2190-3107-4297-b5b7-0832ce5102d7.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0060-20140528
-  retrieved_at: '2026-10-22T03:16:58Z'
+  retrieved_at: '2026-10-22T16:30:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:41:43.739+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:58Z'
-  notes: Texto consolidado 02014L0060-20140528.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:30:02Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2014-60.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,29 +142,19 @@ relationships:
   date: '2001-07-11'
 article_structure:
   article_count: 22
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:58Z'
+  checked_at: '2026-10-22T16:30:02Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/60/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 2014L0060 — PT — 28.05.2014 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0060R%2801%29) — [Rectificação, JO L 147, 12.6.2015, p. 24 (2014/60/UE)](http://publications.europa.eu/resource/celex/32014L0060R%2801%29)
-
-## DIRETIVA 2014/60/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

@@ -1,0 +1,824 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R0576:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0576-20240326",
+ "dre_path": null,
+ "source_lastmod": "2024-03-26",
+ "versions": [
+  {
+   "date": "2024-03-26",
+   "future": false,
+   "celex": "02013R0576-20240326",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "299873af883fdaa8",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "336b7fdc3d38fe5e",
+    "d66e7a090b321825",
+    "3d5edeed8a70c791",
+    "6e92caed26601223",
+    "4111f01d39f922d9",
+    "f0f8c960bfdbce9b",
+    "18569e6744bb3bd1",
+    "9b406af514eb9164",
+    "34043ac165716816",
+    "d89813680f128144",
+    "f3f0d37ec84ea7ba",
+    "dccfa9142e005718",
+    "c42c0c2b3cabd519",
+    "a8ded20f089e875f",
+    "3ad962524a071ea7",
+    "1e7a0903d2eed348",
+    "bf7b6892796f57a2",
+    "9b406af514eb9164",
+    "34043ac165716816",
+    "a5e4056ab41d2b9a",
+    "45add1d6d34fb966",
+    "0f29fac9eb17b753",
+    "5c24d6459c51aae0",
+    "c42c0c2b3cabd519",
+    "a8ded20f089e875f",
+    "5c8cbbd205d3b873",
+    "b92385116c867a85",
+    "ac8387eef8dd0a6f",
+    "207a3fa441de3b2f",
+    "f440995b8e33414e",
+    "1ecfc79da3f1ac7f",
+    "21e7eaae8a24b6e8",
+    "9b406af514eb9164",
+    "7c567ba367ac0506",
+    "afabc01f9f68d895",
+    "92dbe7abb2879dfc",
+    "c42c0c2b3cabd519",
+    "ca4de239496baf47",
+    "1761aabe33a2d31b",
+    "d0588d55e0e51130",
+    "40ed6b62e188ac6f",
+    "272bc1285e6bc9dd",
+    "9b406af514eb9164",
+    "759825852c01b561",
+    "fd917aff07a87114",
+    "f7a689d03a94e008",
+    "bc422de78c75a704",
+    "3a326e1adc48d249",
+    "c42c0c2b3cabd519",
+    "417eec93b43bf395",
+    "90d8449c3373b0de",
+    "0bc995560c7eb7aa",
+    "45dd0b1ee0b28b54",
+    "ac8387eef8dd0a6f",
+    "dcf15cb54e619544",
+    "1dcca37c4dd7a7b0",
+    "4545da533286eafd",
+    "2a6934845bb7c573",
+    "08ea4a2336ebe0c4",
+    "f15ed183f340230f",
+    "053071b5e0234ac8",
+    "b76d202a844f758e",
+    "3a2293c837b31c16",
+    "9b406af514eb9164",
+    "c061fa49605557e4",
+    "2222f5ea71ff7f52",
+    "c42c0c2b3cabd519",
+    "44fa627f740161dd",
+    "82cacb812967d437",
+    "2eb16358b4afa82f",
+    "8fc9c30f34c63341",
+    "e230ffa5051f8234",
+    "4fe1b34671a56558",
+    "ac8387eef8dd0a6f",
+    "a843c7b39304a495",
+    "ed587704b289d6e1",
+    "9ed3aaa3e5a81985",
+    "b57407bdff875aac",
+    "4fd336f1519efa1e",
+    "24159dfe6e7f5965",
+    "7fd045ac4f655f13",
+    "fee7c0f6661bbf52",
+    "58db9973e9bbffab",
+    "d10c749bc66d1434",
+    "e45183fc92f8f56a",
+    "d664376e2a8dcecd",
+    "e4dcb078937ff8c4",
+    "7a577d0d30e8e3f5",
+    "17a4261a7e2c865d",
+    "852174729551523b",
+    "ad513a69abe5a100",
+    "720af75c92791b10",
+    "a64fc9d8d5a9b574",
+    "e03a0eb4d5b2eef3",
+    "9b1f16c1da3cb428",
+    "3f6e7e5c44f72b0c",
+    "eea5eaa69211733b"
+   ]
+  }
+ ],
+ "fragments": {
+  "299873af883fdaa8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de junho de 2013\n\nrelativo à circulação sem caráter comercial de animais de companhia e que revoga o Regulamento (CE) n.º 998/2003\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "336b7fdc3d38fe5e": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece os requisitos de saúde animal aplicáveis à circulação sem caráter comercial de animais de companhia assim como as regras relativas ao controlo de conformidade dessa circulação."
+  },
+  "d66e7a090b321825": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável à circulação sem caráter comercial de animais de companhia para um Estado-Membro a partir de outro Estado-Membro ou de um território ou país terceiro.\n\n2.\n\nO presente regulamento é aplicável sem prejuízo:\n\na) Do Regulamento (CE) n.º 338/97;\n\nb) De quaisquer medidas nacionais que os Estados-Membros adotem, publiquem e coloquem à disposição do público com o objetivo de restringir a circulação de determinadas espécies ou raças de animais de companhia com base em considerações diferentes das relacionadas com a saúde animal."
+  },
+  "3d5edeed8a70c791": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Circulação sem caráter comercial», a circulação que não vise a venda de um animal de companhia nem a transferência da sua propriedade;\n\nb) «Animal de companhia», um animal das espécies enumeradas no Anexo I que acompanhe o seu dono ou uma pessoa autorizada durante uma circulação sem caráter comercial, e que permaneça, durante o período dessa circulação sem caráter comercial, sob a responsabilidade do dono ou da pessoa autorizada;\n\nc) «Dono», a pessoa singular que figura como dono no documento de identificação;\n\nd) «Pessoa autorizada», uma pessoa singular que é autorizada por escrito pelo dono a efetuar, por conta deste, a circulação sem caráter comercial do animal de companhia;\n\ne) «*Transponder*», um dispositivo passivo de identificação por radiofrequências, reservado à leitura;\n\nf) «Documento de identificação», o documento redigido de acordo com o modelo estabelecido em atos de execução a adotar nos termos do presente regulamento, que permita que o animal de companhia seja claramente identificado e o seu estatuto sanitário controlado para efeitos de cumprimento do disposto no presente regulamento;\n\ng) «Veterinário autorizado», um veterinário que tenha sido autorizado pela autoridade competente para o exercício de funções específicas, nos termos do presente regulamento ou de atos adotados nos termos do presente regulamento;\n\nh) «Veterinário oficial», um veterinário designado pela autoridade competente;\n\ni) «Controlo documental», verificação do documento de identificação que acompanha o animal de companhia;\n\nj) «Controlo de identidade», verificação da coerência entre o documento de identificação e o animal de companhia e, se for caso disso, da presença e conformidade da marcação;\n\nk) «Ponto de entrada dos viajantes», qualquer zona designada pelos Estados-Membros para efeitos dos controlos previstos no artigo 34.º, n.º 1."
+  },
+  "6e92caed26601223": {
+   "fragment_id": "Artigo 4.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações gerais\n\nA circulação sem caráter comercial de animais de companhia que cumpra os requisitos de saúde animal estabelecidos no presente regulamento não pode ser proibida, restringida nem entravada por motivos de saúde animal que não resultem da aplicação do presente regulamento."
+  },
+  "4111f01d39f922d9": {
+   "fragment_id": "Artigo 5.º — Número máximo de animais de companhia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Número máximo de animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Número máximo de animais de companhia\n\n1. O número máximo de animais de companhia das espécies enumeradas no Anexo I, parte A, que pode acompanhar o dono ou uma pessoa autorizada durante uma só circulação de caráter não comercial não pode ser superior a cinco.\n\n2.\n\nEm derrogação do n.º 1, o número máximo de animais de companhia das espécies enumeradas no Anexo I, parte A, pode ser superior a cinco caso estejam preenchidas as seguintes condições:\n\na) A circulação sem caráter comercial de animais de companhia tiver como objetivo a participação em concursos, exposições, ou eventos desportivos, bem como em treinos para esses eventos;\n\nb) O dono ou a pessoa autorizada apresentar provas escritas de que os animais de companhia estão inscritos para participar num evento referido na alínea a), ou numa associação que organiza tais eventos;\n\nc) Esses animais de companhia têm mais de seis meses de idade.\n\n3. Os Estados-Membros podem efetuar controlos normalizados no local para verificar se as informações apresentadas nos termos do n.º 2, alínea b), estão corretas.\n\n4. Caso seja excedido o número máximo de animais de companhia referido no n.º 1 e não estejam preenchidas as condições a que se refere o n.º 2, esses animais de companhia devem satisfazer os requisitos de saúde animal estabelecidos na Diretiva 92/65/CEE no que respeita à espécie em causa, e os Estados-Membros devem assegurar que os mesmos animais sejam submetidos aos controlos veterinários previstos nas Diretivas 90/425/CEE ou 91/496/CEE que forem adequados.\n\n5. A fim de evitar que a circulação com caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B, seja apresentada fraudulentamente como circulação sem caráter comercial, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 39.º no que diz respeito à fixação do número máximo de animais de companhia dessas espécies que podem acompanhar o dono ou uma pessoa autorizada durante uma circulação de caráter não comercial.\n\n6. A Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação do presente artigo até 29 de junho de 2018. Com base no seu relatório, a Comissão propõe, se for caso disso, alterações ao presente regulamento."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "18569e6744bb3bd1": {
+   "fragment_id": "CONDIÇÕES APLICÁVEIS À CIRCULAÇÃO SEM CARÁTER COMERCIAL DE ANIMAIS DE COMPANHIA PARA UM ESTADO-MEMBRO A PARTIR DE OUTRO ESTADO-MEMBRO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES APLICÁVEIS À CIRCULAÇÃO SEM CARÁTER COMERCIAL DE ANIMAIS DE COMPANHIA PARA UM ESTADO-MEMBRO A PARTIR DE OUTRO ESTADO-MEMBRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES APLICÁVEIS À CIRCULAÇÃO SEM CARÁTER COMERCIAL DE ANIMAIS DE COMPANHIA PARA UM ESTADO-MEMBRO A PARTIR DE OUTRO ESTADO-MEMBRO"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "34043ac165716816": {
+   "fragment_id": "Animais de companhia das espécies enumeradas no anexo i, parte a",
+   "type": "divisao",
+   "heading": "Animais de companhia das espécies enumeradas no anexo i, parte a",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Animais de companhia das espécies enumeradas no anexo i, parte a"
+  },
+  "d89813680f128144": {
+   "fragment_id": "Artigo 6.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A\n\nOs animais de companhia das espécies enumeradas no Anexo I, parte A, não podem circular para um Estado-Membro a partir de outro Estado-Membro, a menos que preencham as seguintes condições:\n\na) Estejam marcados nos termos do artigo 17.º, n. 1;\n\nb) Tenham recebido vacinação antirrábica que cumpra os requisitos de validade estabelecidos no Anexo III;\n\nc) Cumprirem as medidas sanitárias preventivas para doenças ou infeções diferentes da raiva adotadas nos termos do artigo 19.º, n.º 1;\n\nd) Estejam acompanhados de um documento de identificação devidamente preenchido e emitido nos termos do artigo 22.º."
+  },
+  "f3f0d37ec84ea7ba": {
+   "fragment_id": "Artigo 7.º — Derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A\n\n1.\n\nSem prejuízo do n.º 2, os Estados-Membros podem, em derrogação ao artigo 6.º, alínea b), autorizar a circulação sem caráter comercial para o seu território a partir de outro Estado-Membro de animais de companhia das espécies enumeradas no Anexo I, parte A, que:\n\na) Tenham menos de 12 semanas de idade e não tenham sido vacinados contra a raiva; ou\n\nb) Tenham entre 12 e 16 semanas de idade e tenham sido vacinados contra a raiva, mas ainda não satisfaçam os requisitos de validade referidos no Anexo III, ponto 2, alínea e).\n\n2.\n\nA autorização referida no n.º 1 só pode ser concedida se:\n\na) O dono ou a pessoa autorizada apresentar uma declaração assinada em como os animais de companhia, desde o seu nascimento até ao momento da circulação sem caráter comercial, não entraram em contacto com animais selvagens de espécies suscetíveis de contraírem raiva; ou\n\nb) Os animais de companhia estiverem acompanhados pela respetiva mãe, de quem ainda dependem, e o documento de identificação que acompanhar a mãe permitir comprovar que, antes do nascimento das crias, aquela recebeu uma vacina antirrábica que cumpria os requisitos de validade estabelecidos no Anexo III.\n\n3. A Comissão pode adotar, mediante um ato de execução, regras relativas ao formato, à configuração e às línguas das declarações referidas no n.º 2, alínea a), do presente artigo. Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2."
+  },
+  "dccfa9142e005718": {
+   "fragment_id": "Artigo 8.º — Derrogação à condição de vacinação antirrábica para animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Derrogação à condição de vacinação antirrábica para animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Derrogação à condição de vacinação antirrábica para animais de companhia das espécies enumeradas no Anexo I, parte A\n\n1. Em derrogação ao artigo 6.º, alínea b), a circulação direta sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A, que ainda não tenham sido vacinados contra a raiva, entre Estados-Membros ou partes destes, pode ser autorizada de acordo com o procedimento a que se refere o n.º 2 e mediante pedido conjunto dos Estados-Membros em causa.\n\n2. A Comissão estabelece, mediante um ato de execução, uma lista dos Estados-Membros autorizados a celebrar acordos mútuos em derrogação do artigo 6.º, alínea b), nos termos do n.º 1 do presente artigo. Dessa lista devem constar as partes dos Estados-Membros a que a derrogação pode ser aplicada.\n\n3.\n\nPara serem incluídos na lista a que se refere o n.º 2, os Estados-Membros interessados no acordo mútuo em causa apresentam um pedido conjunto à Comissão, com informações detalhadas do projeto de acordo, pelo qual podem demonstrar, tendo em conta os procedimentos previstos no Código Sanitário dos Animais Terrestres da Organização Mundial da Saúde Animal (OIE) para a auto declaração de indemnidade de um país ou zona relativamente à raiva, que cumpram, pelo menos, as seguintes condições:\n\na) Os Estados-Membros requerentes aplicam sistemas de vigilância contínua e notificação sobre a raiva;\n\nb) Os Estados-Membros requerentes, ou partes do respetivo território abrangidas pelo pedido, estão indemnes de raiva e não há conhecimento de que a raiva se tenha estabelecido nos animais selvagens nos territórios dos Estados-Membros em causa, ou partes dos mesmos, pelo menos, nos últimos dois anos que antecedem o pedido conjunto, com base nos sistemas a que se refere a alínea a);\n\nc) Os Estados-Membros requerentes aplicam medidas de controlo eficazes e eficientes para impedir a introdução e a propagação de raiva nos respetivos territórios;\n\nd) O pedido de derrogação ao artigo 6.º, alínea b), dever ser justificada e proporcional relativamente aos riscos para a saúde pública ou animal associados à circulação direta sem caráter comercial, a partir de um dos Estados-Membros requerentes para outro ou parte do seu território, de animais de companhia não vacinados das espécies enumeradas no Anexo I, parte A.\n\nDo pedido conjunto devem constar informações adequadas, fiáveis e cientificamente validadas.\n\n4. A Comissão deve, mediante um ato de execução, retirar da lista referida no n.º 2 os Estados-Membros ou parte dos seus territórios se, devido a qualquer alteração dos elementos especificados no n.º 3, deixar de se justificar a aplicação da derrogação.\n\n5. Os atos de execução referidos nos n.^os^ 2 e 4 são adotados pelo procedimento de exame a que se refere o artigo 41.º, n.º 2.\n\n6. Por imperativos de urgência devidamente justificados, relacionados com riscos para a saúde pública ou animal, a Comissão adota atos de execução imediatamente aplicáveis que atualizem a lista de Estados-Membros ou partes dos mesmos, a que se refere o n.º 2 do presente artigo, pelo procedimento a que se refere o artigo 41.º, n.º 3."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "a8ded20f089e875f": {
+   "fragment_id": "Animais de companhia das espécies enumeradas no anexo i, parte b",
+   "type": "divisao",
+   "heading": "Animais de companhia das espécies enumeradas no anexo i, parte b",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Animais de companhia das espécies enumeradas no anexo i, parte b"
+  },
+  "3ad962524a071ea7": {
+   "fragment_id": "Artigo 9.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B\n\n1. Quando a Comissão tenha adotado um ato delegado nos termos do artigo 19.º, n.º 1 relativamente a animais de companhia de uma das espécies enumeradas no Anexo I, parte B, a circulação sem caráter comercial de animais de companhia dessa espécie para um Estado-Membro a partir de outro Estado-Membro fica sujeita ao cumprimento das condições estabelecidas no n.º 2 do presente artigo.\n\n2.\n\nOs animais de companhia das espécies a que se refere o n.º 1 só podem circular para um Estado-Membro a partir de outro Estado-Membro se preencherem as seguintes condições:\n\na) Estiverem marcados ou descritos de acordo com os requisitos adotados nos termos do artigo 17.º, n.º 2;\n\nb) Cumprirem as medidas sanitárias preventivas para doenças ou infeções diferentes da raiva adotadas nos termos do artigo 19.º, n.º 1;\n\nc) Estiverem acompanhados de um documento de identificação devidamente preenchido e emitido nos termos do artigo 29.º.\n\n3.\n\nNa pendência da adoção dos atos delegados relevantes a que se refere o n.º 1, os Estados-Membros podem aplicar as regras nacionais à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B, para o seu território a partir de outro Estado-Membro, desde que essas regras:\n\na) Sejam aplicadas proporcionalmente ao risco para a saúde pública ou animal associado à circulação sem caráter comercial dos animais de companhia dessas espécies; e\n\nb) Não sejam mais rigorosas do que as aplicadas ao comércio de animais dessas espécies nos termos das Diretivas 92/65/CEE ou 2006/88/CE."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "bf7b6892796f57a2": {
+   "fragment_id": "CONDIÇÕES APLICÁVEIS À CIRCULAÇÃO SEM CARÁTER COMERCIAL DE ANIMAIS DE COMPANHIA PARA UM ESTADO-MEMBRO A PARTIR DE UM TERRITÓRIO OU PAÍS TERCEIRO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES APLICÁVEIS À CIRCULAÇÃO SEM CARÁTER COMERCIAL DE ANIMAIS DE COMPANHIA PARA UM ESTADO-MEMBRO A PARTIR DE UM TERRITÓRIO OU PAÍS TERCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES APLICÁVEIS À CIRCULAÇÃO SEM CARÁTER COMERCIAL DE ANIMAIS DE COMPANHIA PARA UM ESTADO-MEMBRO A PARTIR DE UM TERRITÓRIO OU PAÍS TERCEIRO"
+  },
+  "a5e4056ab41d2b9a": {
+   "fragment_id": "Artigo 10.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A\n\n1.\n\nOs animais de companhia das espécies enumeradas no Anexo I, parte A, não podem circular para um Estado-Membro a partir de um território ou país terceiro, a menos que preencham as seguintes condições:\n\na) Estejam marcados nos termos do artigo 17.º, n. 1;\n\nb) Tenham recebido vacinação antirrábica que cumpra os requisitos de validade estabelecidos no Anexo III;\n\nc) Tenham sido submetidos a um teste de titulação de anticorpos da raiva que cumpra os requisitos de validade estabelecidos no Anexo IV;\n\nd) Cumpram as medidas sanitárias preventivas para doenças ou infeções diferentes da raiva adotadas nos termos do artigo 19.º, n.º 1;\n\ne) Estejam acompanhados de um documento de identificação devidamente preenchido e emitido nos termos do artigo 26.º.\n\n2. Os animais de companhia das espécies enumeradas no Anexo I, parte A, só podem circular para um Estado-Membro a partir de um território ou país terceiro diferente dos enumerados nos termos do artigo 13.º, n.º 1, através de um ponto de entrada de viajantes enumerado tal como exigido nos termos do artigo 34.º, n.º 3.\n\n3.\n\nEm derrogação do n.º 2, os Estados-Membros podem autorizar que cães militares ou cães de busca e cães de resgate registados circulem através de um ponto de entrada que não seja um ponto de entrada de viajantes, desde que:\n\na) O dono ou a pessoa autorizada tenha requerido previamente uma autorização e o Estado-Membro tenha concedido essa autorização; e\n\nb) Os cães tenham sido objeto de controlo nos termos do artigo 34.º, n.º 2, num dos locais designados para o efeito pelas autoridades competentes e de acordo com as disposições constantes da autorização referida na alínea a) do presente número."
+  },
+  "45add1d6d34fb966": {
+   "fragment_id": "Artigo 11.º — Derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A\n\n1.\n\nSem prejuízo do n.º 2, e em derrogação do artigo 10.º, n.º 1, alínea b), os Estados-Membros podem autorizar a circulação sem caráter comercial para o seu território, a partir de territórios ou países terceiros enumerados nos termos do artigo 13.º, n.º 1 ou n.º 2, de animais de companhia das espécies enumeradas no Anexo I, parte A, que\n\na) Tenham menos de 12 semanas de idade e não tenham sido vacinados contra a raiva; ou\n\nb) Tenham entre 12 e 16 semanas de idade e tenham sido vacinados contra a raiva, mas ainda não satisfaçam os requisitos de validades previstos no Anexo III, ponto 2, alínea e).\n\n2.\n\nA autorização referida no n.º 1 só pode ser concedida se:\n\na) O dono ou a pessoa autorizada apresentar uma declaração assinada em como os animais de companhia, desde o seu nascimento até ao momento da circulação sem caráter comercial, não entraram em contacto com animais selvagens de espécies suscetíveis de contraírem raiva; ou\n\nb) Os animais de companhia estiverem acompanhados pela respetiva mãe, de quem ainda dependem, e o documento de identificação que acompanhar a mãe permitir comprovar que, antes do nascimento das crias, aquela recebeu uma vacina antirrábica que cumpria os requisitos de validade estabelecidos no Anexo III.\n\n3. É proibida a circulação sem caráter comercial subsequente para outro Estado-Membro dos animais de companhia a que se refere o n.º 1 do presente artigo, exceto se essa circulação se efetuar de acordo com as condições definidas no artigo 6.º ou tiver sido autorizada nos termos do artigo 7.º e o Estado-Membro de destino tiver também autorizado a circulação para o seu território a partir dos territórios ou países terceiros nos termos do n.º 1 do presente artigo.\n\n4. A Comissão pode adotar, mediante um ato de execução, regras relativas ao formato, à configuração e às línguas das declarações referidas no n.º 2.º, alínea a), do presente artigo. Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2."
+  },
+  "0f29fac9eb17b753": {
+   "fragment_id": "Artigo 12.º — Derrogação à condição de realização do teste de titulação de anticorpos para animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Derrogação à condição de realização do teste de titulação de anticorpos para animais de companhia das espécies enumeradas no Anexo I, parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Derrogação à condição de realização do teste de titulação de anticorpos para animais de companhia das espécies enumeradas no Anexo I, parte A\n\n1.\n\nEm derrogação ao disposto no artigo 10.º, n.º 1, alínea c), o teste de titulação de anticorpos não pode ser exigido para os animais de companhia das espécies enumeradas no Anexo I, parte A, que circulem para um Estado-Membro provenientes de um território ou país terceiro enumerado nos termos do artigo 13.º, n.º 1 ou n.º 2\n\na) Quer diretamente;\n\nb) No seguimento de residência exclusiva num ou mais territórios, ou países terceiros; ou\n\nc) Após trânsito por um território ou país terceiro diferente dos enumerados nos termos do artigo 13.º, n.º 1 ou n.º 2, desde que o dono ou a pessoa autorizada apresente uma declaração assinada em como, durante esse trânsito, os animais de companhia não tiveram qualquer contacto com animais de espécies sensíveis à raiva e permaneceram fechados num meio de transporte ou dentro do perímetro de um aeroporto internacional.\n\n2. A Comissão pode adotar, mediante um ato de execução, regras relativas ao formato, à configuração e às línguas das declarações referidas no n.º 1, alínea c), do presente artigo. Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2."
+  },
+  "5c24d6459c51aae0": {
+   "fragment_id": "Artigo 13.º — Elaboração de uma lista de territórios e de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Elaboração de uma lista de territórios e de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elaboração de uma lista de territórios e de países terceiros\n\n1. A Comissão deve adotar, mediante um ato de execução, uma lista de territórios e de países terceiros que tenham apresentado um pedido de inscrição nessa lista e no qual demonstrem que aplicam, no tocante a animais das espécies enumeradas no Anexo I, parte A, regras de teor e efeito iguais às estabelecidas no capítulo II, secção 1, na presente secção e no capítulo VI, secção 2, e, se for caso disso, às regras adotadas por força dessas regras.\n\n2.\n\nA Comissão deve adotar, mediante um ato de execução, uma lista de territórios e de países terceiros que tenham apresentado um pedido de inscrição nessa lista e no qual demonstrem que, no tocante a animais das espécies enumeradas no Anexo I, parte A, cumprem, pelo menos, os seguintes critérios:\n\na) A notificação de casos de raiva às autoridades competentes é obrigatória;\n\nb) Vigora, há pelo menos dois anos antes da apresentação do pedido, um sistema eficaz de vigilância da raiva que disponha como requisito mínimo de um programa permanente de deteção precoce para assegurar a investigação e a notificação dos casos de animais suspeitos de terem raiva;\n\nc) A estrutura e a organização dos serviços veterinários e de controlo, os poderes desses serviços e a supervisão a que estão sujeitos, bem como os meios ao seu dispor, incluindo a capacidade de pessoal e laboratorial, são suficientes para:\n\ni) aplicar e fazer cumprir efetivamente a legislação nacional relativa à circulação de animais de companhia sem caráter comercial, e\n\nii) garantir a validade dos documentos de identificação no formato previsto no artigo 25.º e emitidos nos termos do artigo 26.º;\n\nd) Estão em vigor regras para a prevenção e o controlo da raiva, sendo essas regras aplicadas efetivamente para minimizar o risco de infeção de animais de companhia, incluindo regras para as importações de animais de companhia provenientes de outros países ou territórios, e, se for caso disso, para:\n\ni) o controlo da população de cães e gatos vadios,\n\nii) a vacinação de animais domésticos contra a raiva, em particular caso a raiva esteja presente em morcegos-vampiros, e\n\niii) o controlo e a erradicação da raiva na fauna selvagem;\n\ne) Estão em vigor regras em matéria de licenciamento e comercialização de vacinas antirrábicas.\n\n3. Os atos de execução referidos nos n.^os^ 1 e 2 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 41.º, n.º 2.\n\nPor imperativos de urgência devidamente justificados, relacionados com riscos para a saúde pública ou animal, a Comissão adota de atos de execução imediatamente aplicáveis, que atualizem a lista de territórios ou países terceiros referidos nos n.^os^ 1 e 2 do presente artigo, pelo procedimento a que se refere o artigo 41.º, n.º 3."
+  },
+  "5c8cbbd205d3b873": {
+   "fragment_id": "Artigo 14.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Condições aplicáveis à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B\n\n1. Quando a Comissão tenha adotado um ato delegado nos termos do artigo 19.º, n.º 1 relativamente a animais de companhia de uma das espécies enumeradas no Anexo I, parte B, a circulação sem caráter comercial de animais de companhia dessa espécie para um Estado-Membro a partir de um território ou país terceiro fica sujeita ao cumprimento das condições estabelecidas no n.º 2 do presente artigo.\n\n2.\n\nOs animais de companhia a que se refere o n.º 1 só podem circular para um Estado-Membro a partir de um país terceiro ou território se preencherem as seguintes condições:\n\na) Estiverem marcados ou descritos de acordo com os requisitos adotados nos termos do artigo 17.º, n.º 2;\n\nb) Cumprirem as medidas sanitárias preventivas para doenças ou infeções diferentes da raiva adotadas nos termos do artigo 19.º, n.º 1;\n\nc) Estiverem acompanhados de um documento de identificação devidamente preenchido e emitido nos termos do artigo 31.º;\n\nd) Tiverem entrado através de um ponto de entrada de viajantes em proveniência de um território ou país terceiro diferente dos enumerados nos termos do artigo 15.º.\n\n3.\n\nNa pendência da adoção dos atos delegados relevantes a que se refere o n.º 1, os Estados-Membros podem aplicar as regras nacionais à circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte B, para o seu território a partir de um território ou país terceiro, desde que essas regras\n\na) Sejam aplicadas proporcionalmente ao risco para a saúde pública ou animal associado à circulação sem caráter comercial dos animais dessas espécies; e\n\nb) Não sejam mais rigorosas do que as aplicadas às importações de animais dessas espécies nos termos das Diretivas 92/65/CEE ou 2006/88/CE."
+  },
+  "b92385116c867a85": {
+   "fragment_id": "Artigo 15.º — Estabelecimento de uma lista de territórios de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Estabelecimento de uma lista de territórios de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Estabelecimento de uma lista de territórios de países terceiros\n\nA Comissão pode adotar, mediante um ato de execução, uma lista de territórios e de países terceiros que tenham demonstrado que aplicam, no tocante a animais das espécies enumeradas no Anexo I, Parte B, regras de teor e efeito iguais às estabelecidas no Capítulo II, Secção 2, na presente secção e no Capítulo VI, Secção 2, e, se for caso disso, às regras adotadas por força dessas regras."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "207a3fa441de3b2f": {
+   "fragment_id": "Derrogação às condições para circulação sem caráter comercial de animais de companhia",
+   "type": "divisao",
+   "heading": "Derrogação às condições para circulação sem caráter comercial de animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Derrogação às condições para circulação sem caráter comercial de animais de companhia"
+  },
+  "f440995b8e33414e": {
+   "fragment_id": "Artigo 16.º — Derrogação às condições aplicáveis à circulação sem caráter comercial de animais de companhia entre determinados países e territórios",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Derrogação às condições aplicáveis à circulação sem caráter comercial de animais de companhia entre determinados países e territórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Derrogação às condições aplicáveis à circulação sem caráter comercial de animais de companhia entre determinados países e territórios\n\nEm derrogação ao disposto nos artigos 10.º e 14.º, é autorizada a circulação sem caráter comercial de animais de companhia entre os territórios e países a seguir referidos, nas condições estabelecidas nas respetivas regras nacionais:\n\na) São Marino e Itália;\n\nb) Vaticano e Itália;\n\nc) Mónaco e França;\n\nd) Andorra e França;\n\ne) Andorra e Espanha;\n\nf) Noruega e Suécia;\n\ng) Ilhas Faroé e Dinamarca;\n\nh) Gronelândia e Dinamarca."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "21e7eaae8a24b6e8": {
+   "fragment_id": "MARCAÇÃO E MEDIDAS SANITÁRIAS PREVENTIVAS",
+   "type": "divisao",
+   "heading": "MARCAÇÃO E MEDIDAS SANITÁRIAS PREVENTIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MARCAÇÃO E MEDIDAS SANITÁRIAS PREVENTIVAS"
+  },
+  "7c567ba367ac0506": {
+   "fragment_id": "Marcação",
+   "type": "divisao",
+   "heading": "Marcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Marcação"
+  },
+  "afabc01f9f68d895": {
+   "fragment_id": "Artigo 17.º — Marcação de animais de companhia",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Marcação de animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Marcação de animais de companhia\n\n1. Os animais de companhia das espécies enumeradas no Anexo I, parte A, devem ser marcados por implantação de um *transponder* ou por uma tatuagem claramente legível aplicada até 3 de julho de 2011.\n\nCaso o *transponder* referido no primeiro parágrafo não cumpra os requisitos técnicos estabelecidos no Anexo II, o dono ou a pessoa autorizada deve fornecer os meios necessários para a leitura desse *transponder* a cada verificação da marcação a que se refere o artigo 22.º, n.º 1 e n.º 2, e o artigo 26.º, e os controlos de identidade a que se refere o artigo 33.º e o artigo 34.º, n.º 1.\n\n2. Os animais de companhia das espécies enumeradas no Anexo I, parte B, devem ser marcados ou descritos tendo em conta as especificidades de cada espécie, de modo a garantir o estabelecimento de uma relação entre o animal de companhia e o respetivo documento de identificação.\n\nTendo em conta a diversidade das espécies enumeradas no Anexo I, parte B, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 39.º no que respeita a esses requisitos específicos de cada espécie para a marcação ou para a descrição dos animais de companhia dessas espécies, tendo em conta os requisitos nacionais aplicáveis na matéria."
+  },
+  "92dbe7abb2879dfc": {
+   "fragment_id": "Artigo 18.º — Qualificações requeridas para a implantação de transponders em animais de companhia",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Qualificações requeridas para a implantação de transponders em animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Qualificações requeridas para a implantação de transponders em animais de companhia\n\nCaso pretendam autorizar a implantação de *transponders* por pessoas que não sejam veterinários, os Estados-Membros devem estabelecer regras sobre as qualificações mínimas que devem ter essas pessoas."
+  },
+  "ca4de239496baf47": {
+   "fragment_id": "Medidas sanitárias preventivas para doenças ou infeções diferentes da raiva",
+   "type": "divisao",
+   "heading": "Medidas sanitárias preventivas para doenças ou infeções diferentes da raiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas sanitárias preventivas para doenças ou infeções diferentes da raiva"
+  },
+  "1761aabe33a2d31b": {
+   "fragment_id": "Artigo 19.º — Medidas sanitárias preventivas e condições para a sua aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Medidas sanitárias preventivas e condições para a sua aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Medidas sanitárias preventivas e condições para a sua aplicação\n\n1. Caso sejam necessárias medidas sanitárias de prevenção para a proteção da saúde pública ou da saúde de animais de companhia para efeitos de controlo de doenças ou infeções diferentes da raiva e suscetíveis de se propagar devido à circulação desses animais de companhia, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 39.º relativamente a medidas sanitárias preventivas, específicas por espécie, para essas doenças ou infeções.\n\nSe em caso de risco para a saúde pública ou animal, imperativos de urgência assim o exigirem, aplica-se aos atos delegados adotados nos termos do presente número o procedimento previsto no artigo 40.º.\n\n2. As medidas sanitárias preventivas, específicas por espécie, autorizadas por ato delegado adotado nos termos do n.º 1, devem basear-se em informações científicas adequadas, fiáveis e validadas e ser aplicadas proporcionalmente aos riscos para a saúde pública ou animal associados à circulação sem caráter comercial de animais de companhia suscetíveis de serem afetados por doenças ou infeções diferentes da raiva.\n\n3.\n\nOs atos delegados previstos no n.º 1 podem também incluir:\n\na) Regras para a categorização de Estados-Membros ou partes destes em função do respetivo estatuto zoossanitário e dos seus sistemas de vigilância e notificação no que respeita a determinadas doenças ou infeções diferentes da raiva;\n\nb) As condições que os Estados-Membros devem cumprir para permanecerem elegíveis para a aplicação das medidas sanitárias preventivas referidas no n.º 2;\n\nc) As condições de aplicação e documentação das medidas sanitárias preventivas referidas no n.º 2 anteriores à circulação sem caráter comercial de animais de companhia;\n\nd) As condições para a concessão de derrogações, em determinadas circunstâncias específicas, à aplicação das medidas sanitárias preventivas referidas no n.º 2."
+  },
+  "d0588d55e0e51130": {
+   "fragment_id": "Artigo 20.º — Lista de Estados-Membros ou partes do território de Estados-Membros a que se refere o artigo 19.º, n.º 3, alínea a)",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Lista de Estados-Membros ou partes do território de Estados-Membros a que se refere o artigo 19.º, n.º 3, alínea a)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Lista de Estados-Membros ou partes do território de Estados-Membros a que se refere o artigo 19.º, n.º 3, alínea a)\n\nA Comissão pode adotar, mediante um ato de execução, listas de Estados-Membros ou partes do território de Estados-Membros que cumprem as regras da categorização de Estados-Membros ou partes destes, a que se refere o artigo 19.º, n.º 3, alínea a). Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "272bc1285e6bc9dd": {
+   "fragment_id": "DOCUMENTOS DE IDENTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "DOCUMENTOS DE IDENTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTOS DE IDENTIFICAÇÃO"
+  },
+  "759825852c01b561": {
+   "fragment_id": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte a, para um estado-membro a partir de outro estado-membro",
+   "type": "divisao",
+   "heading": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte a, para um estado-membro a partir de outro estado-membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte a, para um estado-membro a partir de outro estado-membro"
+  },
+  "fd917aff07a87114": {
+   "fragment_id": "Artigo 21.º — Formato e conteúdo do documento de identificação a que se refere o artigo 6.º, alínea d)",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Formato e conteúdo do documento de identificação a que se refere o artigo 6.º, alínea d)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Formato e conteúdo do documento de identificação a que se refere o artigo 6.º, alínea d)\n\n1.\n\nO documento de identificação referido no artigo 6.º, alínea d), deve ter o formato de passaporte, de acordo com o modelo a adotar nos termos do n.º 2 do presente artigo, e conter campos para a inserção das seguintes informações:\n\na) Localização do *transponder* ou da tatuagem e quer a data de aplicação, quer a data da leitura do *transponder* ou da tatuagem bem como o código alfanumérico ostentado pelo *transponder* ou pela tatuagem;\n\nb) Nome, espécie, raça, sexo, cor, data de nascimento conforme declarada pelo dono e quaisquer outras particularidades ou características percetíveis do animal de companhia;\n\nc) Nome e contactos do dono;\n\nd) Nome, contactos e assinatura do veterinário autorizado que emite ou preenche o documento de identificação;\n\ne) Assinatura do dono;\n\nf) Pormenores da vacinação antirrábica;\n\ng) Data da colheita de sangue para o teste de titulação de anticorpos da raiva;\n\nh) Cumprimento das medidas sanitárias preventivas para doenças ou infeções diferentes da raiva;\n\ni) Outras informações relevantes quanto ao estatuto sanitário do animal.\n\n2. A Comissão deve adotar, mediante um ato de execução, o modelo a que se refere o n.º 1 do presente artigo, bem como os requisitos relativos às línguas, configuração e marcas de segurança do passaporte referido nesse número, e as regras necessárias para a transição para o modelo desse passaporte. Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2.\n\n3. O passaporte referido no n.º 1 deve ostentar um número constituído pelo código ISO do Estado-Membro de emissão seguido de um código alfanumérico único."
+  },
+  "f7a689d03a94e008": {
+   "fragment_id": "Artigo 22.º — Emissão e preenchimento do documento de identificação que se refere o artigo 6.º, alínea d)",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Emissão e preenchimento do documento de identificação que se refere o artigo 6.º, alínea d)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Emissão e preenchimento do documento de identificação que se refere o artigo 6.º, alínea d)\n\n1.\n\nO documento de identificação referido no artigo 6.º, alínea d), deve ser emitido por um veterinário autorizado para o efeito, após:\n\na) Esse veterinário ter verificado que o animal de companhia está marcado nos termos do artigo 17.º, n.º 1;\n\nb) Esse veterinário ter devidamente preenchido os campos relevantes do documento de identificação com as informações referidas no artigo 21.º, n.º 1, alíneas a) a d); e\n\nc) O dono ter assinado o documento de identificação.\n\n2. Após ter verificado que o animal de companhia foi marcado nos termos do artigo 17.º, n.º 1, o veterinário autorizado deve preencher os campos pertinentes do documento de identificação com as informações referidas no artigo 21.º, n.º 1, alíneas d), f), g) e h), atestando assim o cumprimento dos requisitos referidos no artigo 6.º, alíneas b) e c) e, quando aplicável, no artigo 27.º, alínea b), subalínea ii).\n\nNão obstante o disposto no primeiro parágrafo, o campo relativo à informação referida no artigo 21.º, n.º 1, alínea h) pode ser preenchido por um veterinário que não seja um veterinário autorizado se tal for permitido pelo ato delegado adotado nos termos do artigo 19.º, n.º 1.\n\n3. O veterinário autorizado que emite o documento de identificação deve manter registos das informações referidas no artigo 21.º, n.º 1, alíneas a) a c), e no artigo 21.º, n.º 3, durante um período mínimo a determinar pela autoridade competente, mas que não pode ser inferior a três anos.\n\n4. Se necessário, o cumprimento das condições referidas no n.º 2 do presente artigo pode ser documentada em mais de um documento de identificação no formato previsto no artigo 21.º, n.º 1."
+  },
+  "bc422de78c75a704": {
+   "fragment_id": "Artigo 23.º — Distribuição de documentos de identificação em branco",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Distribuição de documentos de identificação em branco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Distribuição de documentos de identificação em branco\n\n1. As autoridades competentes devem assegurar que os documentos de identificação em branco só sejam distribuídos a veterinários autorizados e que o nome e os contactos destes fiquem registados com referência ao número referido no artigo 21.º, n.º 3.\n\n2. Os registos a que se refere o n.º 1 devem ser mantidos durante um período mínimo a determinar pela autoridade competente, mas que não pode ser inferior a três anos."
+  },
+  "3a326e1adc48d249": {
+   "fragment_id": "Artigo 24.º — Derrogação ao formato do documento de identificação previsto no artigo 21.º, n.º 1",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Derrogação ao formato do documento de identificação previsto no artigo 21.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Derrogação ao formato do documento de identificação previsto no artigo 21.º, n.º 1\n\n1. Em derrogação ao disposto no artigo 21.º, n.º 1, os Estados-Membros devem autorizar a circulação sem caráter comercial para um Estado-Membro a partir de outro Estado-Membro de animais de companhia das espécies enumeradas no Anexo I, parte A, acompanhados do documento de identificação emitido nos termos do artigo 26.º.\n\n2. Se necessário, o cumprimento dos requisitos referidos no artigo 6.º, alínea c), deve ser documentada no documento de identificação referido no n.º 1, após a conclusão dos controlos previstos no artigo 34.º, n.º 1."
+  },
+  "417eec93b43bf395": {
+   "fragment_id": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte a, para um estado-membro a partir de um território ou país terceiro",
+   "type": "divisao",
+   "heading": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte a, para um estado-membro a partir de um território ou país terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte a, para um estado-membro a partir de um território ou país terceiro"
+  },
+  "90d8449c3373b0de": {
+   "fragment_id": "Artigo 25.º — Formato e conteúdo do documento de identificação a que se refere o artigo 10.º, n.º 1, alínea e)",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Formato e conteúdo do documento de identificação a que se refere o artigo 10.º, n.º 1, alínea e)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formato e conteúdo do documento de identificação a que se refere o artigo 10.º, n.º 1, alínea e)\n\n1.\n\nO documento de identificação referido no artigo 10.º, n.º 1, alínea e), deve ter o formato de certificado sanitário, de acordo com o modelo adotado nos termos do n.º 2.º do presente artigo, e conter campos para a inserção das seguintes informações:\n\na) Localização do *transponder* ou da tatuagem e quer a data de aplicação, quer a data da leitura do *transponder* ou da tatuagem bem como o código alfanumérico ostentado pelo *transponder* ou pela tatuagem;\n\nb) Espécie, raça, data de nascimento conforme declarada pelo dono, sexo e cor do animal de companhia;\n\nc) Número único de referência do certificado;\n\nd) Nome e contactos do dono ou da pessoa autorizada;\n\ne) Nome, contactos e assinatura do veterinário oficial ou autorizado que emite o documento de identificação;\n\nf) Pormenores da vacinação antirrábica;\n\ng) Data da colheita de sangue para o teste de titulação de anticorpos da raiva;\n\nh) Cumprimento das medidas sanitárias preventivas para doenças ou infeções diferentes da raiva;\n\ni) Nome e assinatura do representante da autoridade competente que dá a aprovação;\n\nj) Nome, assinatura e contactos do representante da autoridade competente que efetua os controlos referidos no artigo 34.º, e data desses controlos;\n\nk) Outras informações relevantes quanto ao estatuto sanitário do animal de companhia.\n\n2. A Comissão deve adotar, mediante um ato de execução, o modelo a que se refere o n.º 1 do presente artigo, bem como os requisitos quanto às línguas, à configuração e à validade do certificado sanitário referido nesse número. Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2.\n\n3. Do documento de identificação referido no artigo 10.º, n.º 1, alínea e) deve fazer parte uma declaração escrita assinada pelo dono ou pela pessoa autorizada, confirmando que a circulação do animal de companhia para a União não tem caráter comercial."
+  },
+  "0bc995560c7eb7aa": {
+   "fragment_id": "Artigo 26 — Emissão e preenchimento do documento de identificação a que se refere o artigo 10.º, n.º 1, alínea e)",
+   "type": "artigo",
+   "heading": "Artigo 26 — Emissão e preenchimento do documento de identificação a que se refere o artigo 10.º, n.º 1, alínea e)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26 — Emissão e preenchimento do documento de identificação a que se refere o artigo 10.º, n.º 1, alínea e)\n\nO documento de identificação referido no artigo 10.º, n.º 1, alínea e), deve ser emitido por um veterinário oficial do território ou país terceiro de expedição com base em documentação justificativa ou por um veterinário autorizado e subsequentemente aprovado pela autoridade competente do território ou país terceiro de expedição, após o veterinário emitente:\n\na) Ter verificado que o animal de companhia está marcado nos termos do artigo 17.º, n.º 1; e\n\nb) Ter completado devidamente as entradas relevantes do documento de identificação com as informações referidas no artigo 25.º, n.º 1, alíneas a) a h), atestando assim o cumprimento das condições previstas no artigo 10.º, n.º 1, alínea a) e, se aplicável, no artigo 10.º, n.º 1, alíneas b), c) e d)."
+  },
+  "45dd0b1ee0b28b54": {
+   "fragment_id": "Artigo 27.º — Derrogação ao formato do documento de identificação previsto no artigo 25.º, n.º 1",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Derrogação ao formato do documento de identificação previsto no artigo 25.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Derrogação ao formato do documento de identificação previsto no artigo 25.º, n.º 1\n\nEm derrogação ao disposto no artigo 25.º, n.º 1, os Estados-Membros devem autorizar a circulação sem caráter comercial de animais de companhia das espécies enumeradas no Anexo I, parte A, acompanhados do documento de identificação emitido nos termos do artigo 22.º, se:\n\na) O documento de identificação tiver sido emitido num dos territórios ou países terceiros enumerados nos termos do artigo 13.º, n.º 1, ou\n\nb) Esses animais de companhia entrarem num Estado-Membro, após circulação ou trânsito num território ou país terceiro a partir de um Estado-Membro, e o documento de identificação tiver sido preenchido e emitido por um veterinário autorizado atestando que, antes de terem saído da União, os animais de companhia:\n\ni) receberam a vacinação antirrábica prevista no artigo 10.º, n.º 1, alínea b), *e*\n\nii) foram submetidos ao teste de titulação de anticorpos da raiva previsto no artigo 10.º, n.º 1, alínea c), exceto no caso da derrogação prevista no artigo 12.º."
+  },
+  "dcf15cb54e619544": {
+   "fragment_id": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte b, para um estado-membro a partir de outro estado-membro",
+   "type": "divisao",
+   "heading": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte b, para um estado-membro a partir de outro estado-membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte b, para um estado-membro a partir de outro estado-membro"
+  },
+  "1dcca37c4dd7a7b0": {
+   "fragment_id": "Artigo 28.º — Formato e conteúdo do documento de identificação a que se refere o artigo 9.º, n.º 2.º, alínea c)",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Formato e conteúdo do documento de identificação a que se refere o artigo 9.º, n.º 2.º, alínea c)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Formato e conteúdo do documento de identificação a que se refere o artigo 9.º, n.º 2.º, alínea c)\n\n1.\n\nA Comissão pode adotar, mediante um ato de execução, um modelo do documento de identificação referido no artigo 9.º, n.º 2, alínea c), que deve conter campos para a inserção das seguintes informações:\n\na) Características da marca ou a descrição do animal de companhia, conforme previsto no artigo 17.º, n.º 2;\n\nb) Espécie e, se relevante, raça, data de nascimento conforme declarada pelo dono, sexo e cor do animal de companhia;\n\nc) Nome e contactos do dono;\n\nd) Nome, contactos e assinatura do veterinário autorizado que emite ou preenche o documento de identificação;\n\ne) Assinatura do dono;\n\nf) Pormenores das medidas sanitárias preventivas para doenças ou infeções diferentes da raiva; e\n\ng) Outras informações relevantes quanto ao estatuto sanitário do animal de companhia.\n\n2. O ato de execução referido no n.º 1 do presente artigo deve estabelecer também requisitos quanto às línguas, configuração, validade ou marcas de segurança do documento de identificação referido nesse número. O referido ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2."
+  },
+  "4545da533286eafd": {
+   "fragment_id": "Artigo 29.º — Emissão e preenchimento do documento de identificação a que se refere o artigo 9.º, n.º 2, alínea c)",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Emissão e preenchimento do documento de identificação a que se refere o artigo 9.º, n.º 2, alínea c)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Emissão e preenchimento do documento de identificação a que se refere o artigo 9.º, n.º 2, alínea c)\n\n1.\n\nO documento de identificação referido no artigo 9.º, n.º 2, alínea c), deve ser emitido por um veterinário autorizado, após:\n\na) Esse veterinário ter verificado que o animal de companhia está marcado ou descrito nos termos do artigo 17.º, n.º 2;\n\nb) Esse veterinário ter devidamente preenchido os campos relevantes com as informações referidas no artigo 28.º, n.º 1, alíneas a) a d);\n\nc) O dono ter assinado o documento de identificação.\n\n2. Após ter verificado que o animal de companhia está marcado ou descrito nos termos do artigo 17.º, n.º 2, o veterinário autorizado deve preencher o campo relevante do documento de identificação a que se refere o artigo 9.º, n.º 2,com as informações referidas no artigo 28.º, n.º 1, alíneas d) e f), atestando o cumprimento das condições previstas no artigo 9.º, n.º 2, alínea b), quando aplicável."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "08ea4a2336ebe0c4": {
+   "fragment_id": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte b, para um estado-membro a partir de um território ou país terceiro",
+   "type": "divisao",
+   "heading": "Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte b, para um estado-membro a partir de um território ou país terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos de identificação para a circulação sem caráter comercial de animais de companhia das espécies enumeradas no anexo i, parte b, para um estado-membro a partir de um território ou país terceiro"
+  },
+  "f15ed183f340230f": {
+   "fragment_id": "Artigo 30.º — Formato e conteúdo do documento de identificação a que se refere o artigo 14.º, n.º 2, alínea c)",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Formato e conteúdo do documento de identificação a que se refere o artigo 14.º, n.º 2, alínea c)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Formato e conteúdo do documento de identificação a que se refere o artigo 14.º, n.º 2, alínea c)\n\n1.\n\nA Comissão pode adotar, mediante um ato de execução, um modelo do documento de identificação referido no artigo 14.º, n.º 2, alínea c), que deve conter campos para a inserção das seguintes informações:\n\na) As características da marca ou a descrição do animal de companhia, conforme previsto no artigo 17.º, n.º 2;\n\nb) Espécie e, se relevante, raça, data de nascimento conforme declarada pelo dono, sexo e cor do animal;\n\nc) Nome e contactos do dono ou da pessoa autorizada;\n\nd) Nome, contactos e assinatura do veterinário oficial ou autorizado emitente;\n\ne) Número único de referência do certificado;\n\nf) Pormenores das medidas sanitárias preventivas para doenças ou infeções diferentes da raiva;\n\ng) Nome e assinatura do representante da autoridade competente que dá a aprovação; e\n\nh) Nome, assinatura e contactos do representante da autoridade competente que efetua os controlos referidos no artigo 34.º, e data desses controlos;\n\ni) Outras informações relevantes quanto ao estatuto sanitário do animal de companhia.\n\n2. O ato de execução referido no n.º 1 do presente artigo deve estabelecer também requisitos quanto às línguas, à configuração e à validade do documento de identificação referido nesse número. Esse ato de execução é adotado pelo procedimento de exame a que se refere o artigo 41.º, n.º 2.\n\n3. Do documento de identificação referido no artigo 14.º, n.º 2, alínea c), deve fazer parte uma declaração escrita assinada pelo dono ou pela pessoa autorizada, confirmando que a circulação do animal de companhia para a União não tem caráter comercial."
+  },
+  "053071b5e0234ac8": {
+   "fragment_id": "Artigo 31.º — Emissão e preenchimento do documento de identificação a que se refere o artigo 14.º, n.º 2, alínea c)",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Emissão e preenchimento do documento de identificação a que se refere o artigo 14.º, n.º 2, alínea c)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Emissão e preenchimento do documento de identificação a que se refere o artigo 14.º, n.º 2, alínea c)\n\nO documento de identificação referido no artigo 14.º, n.º 2, alínea c), deve ser emitido por um veterinário oficial do território ou país terceiro de expedição com base em documentação justificativa ou por um veterinário autorizado e subsequentemente aprovado pela autoridade competente do território ou país terceiro de expedição, após o veterinário emitente:\n\na) Ter verificado que o animal de companhia está marcado ou descrito nos termos do artigo 17.º, n.º 2; e\n\nb) Ter preenchido devidamente os campos relevantes do documento de identificação com as informações referidas no artigo 30.º, n.º 1, alíneas a) a f), certificando, assim, o cumprimento das condições previstas no artigo 14.º, n.º 2, alíneas a) e b), quando aplicável."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "3a2293c837b31c16": {
+   "fragment_id": "DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS"
+  },
+  "c061fa49605557e4": {
+   "fragment_id": "Derrogação aplicável à circulação sem caráter comercial de animais de companhia para os estados-membros",
+   "type": "divisao",
+   "heading": "Derrogação aplicável à circulação sem caráter comercial de animais de companhia para os estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Derrogação aplicável à circulação sem caráter comercial de animais de companhia para os estados-membros"
+  },
+  "2222f5ea71ff7f52": {
+   "fragment_id": "Artigo 32.º — Derrogação às condições previstas nos artigos 6.º, 9.º, 10.º e 14.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Derrogação às condições previstas nos artigos 6.º, 9.º, 10.º e 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Derrogação às condições previstas nos artigos 6.º, 9.º, 10.º e 14.º\n\n1.\n\nEm derrogação às condições previstas nos artigos 6.º, 9.º, 10.º e 14.º, os Estados-Membros podem autorizar, em circunstâncias excecionais, a circulação sem caráter comercial, para o seu território, de animais de companhia que não cumpram as condições estabelecidas nesses artigos, desde que:\n\na) O dono tenha feito previamente um pedido de licença e o Estado-Membro de destino a tenha concedido;\n\nb) Os animais de companhia sejam mantidos isolados, sob supervisão oficial, durante o tempo necessário para que cumpram essas condições, mas que não pode ser superior a seis meses:\n\ni) num local aprovado pela autoridade competente, e\n\nii) em conformidade com as disposições prescritas na licença.\n\n2. A licença referida no n.º 1, alínea a), pode incluir uma autorização de trânsito por outro Estado-Membro, desde que esse Estado-Membro de trânsito tenha dado o seu acordo prévio ao Estado-Membro de destino."
+  },
+  "44fa627f740161dd": {
+   "fragment_id": "Condições gerais relativas ao cumprimento do presente regulamento",
+   "type": "divisao",
+   "heading": "Condições gerais relativas ao cumprimento do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições gerais relativas ao cumprimento do presente regulamento"
+  },
+  "82cacb812967d437": {
+   "fragment_id": "Artigo 33.º — Controlos documentais e de identidade a efetuar em relação à circulação sem caráter comercial de animais de companhia para um Estado-Membro a partir de outro Estado-Membro ou de um território ou país terceiro enumerados nos termos do artigo 13.º, n.º 1, e do artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Controlos documentais e de identidade a efetuar em relação à circulação sem caráter comercial de animais de companhia para um Estado-Membro a partir de outro Estado-Membro ou de um território ou país terceiro enumerados nos termos do artigo 13.º, n.º 1, e do artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Controlos documentais e de identidade a efetuar em relação à circulação sem caráter comercial de animais de companhia para um Estado-Membro a partir de outro Estado-Membro ou de um território ou país terceiro enumerados nos termos do artigo 13.º, n.º 1, e do artigo 15.º\n\n1. Sem prejuízo do artigo 16.º e a fim de verificar do cumprimento das disposições do Capítulo II, os Estados-Membros devem efetuar, de forma não discriminatória, controlos documentais e de identidade dos animais de companhia que são objeto de circulação sem caráter comercial para o seu território a partir de outro Estado-Membro ou de um território ou país terceiro enumerados nos termos do artigo 13.º, n.º 1 e, se aplicável, do artigo 15.º.\n\n2.\n\nAquando de qualquer circulação de animais de companhia sem caráter comercial para um Estado-Membro a partir de outro Estado-Membro ou de um território ou país terceiro enumerados nos termos do artigo 13.º, n.º 1, e, se aplicável, do artigo 15.º, o dono ou a pessoa autorizada deve, a pedido da autoridade competente responsável pelos controlos previstos no n.º 1 do presente artigo:\n\na) Apresentar o documento de identificação do animal de companhia obrigatório nos termos do presente regulamento, que demonstra o cumprimento dos requisitos para essa circulação; e\n\nb) Colocar o animal de companhia à disposição para os referidos controlos."
+  },
+  "2eb16358b4afa82f": {
+   "fragment_id": "Artigo 34.º — Controlos documentais e de identidade a efetuar em relação à circulação sem caráter comercial a partir de um território ou país terceiro não enumerado nos termos do artigo 13.º, n.º 1 ou do artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Controlos documentais e de identidade a efetuar em relação à circulação sem caráter comercial a partir de um território ou país terceiro não enumerado nos termos do artigo 13.º, n.º 1 ou do artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Controlos documentais e de identidade a efetuar em relação à circulação sem caráter comercial a partir de um território ou país terceiro não enumerado nos termos do artigo 13.º, n.º 1 ou do artigo 15.º\n\n1. A fim de verificar o cumprimento dos requisitos previstos no Capítulo III, a autoridade competente de um Estado-Membro deve efetuar controlos documentais e de identidade no ponto de entrada dos viajantes dos animais de companhia que são objeto de circulação sem caráter comercial para esse Estado-Membro a partir de um território ou país terceiro diferentes dos enumerados nos termos do artigo 13.º, n.º 1, e, se aplicável, do artigo 15.º.\n\n2.\n\nAquando da entrada num Estado-Membro a partir de um território ou país terceiro diferentes dos enumerados nos termos do artigo 13.º, n.º 1 e, se aplicável, do artigo 15.º, o dono ou a pessoa autorizada deve contactar a autoridade competente presente no ponto de entrada para efeitos dos controlos referidos no n.º 1 e:\n\na) Apresentar o documento de identificação do animal de companhia exigido nos termos do presente regulamento, que demonstra o cumprimento dos requisitos para essa circulação; e\n\nb) Colocar o animal de companhia à disposição para os referidos controlos.\n\n3. Os Estados-Membros elaboraram e mantêm atualizada uma lista de pontos de entrada de viajantes.\n\n4.\n\nOs Estados-Membros asseguram que a autoridade competente que designaram para efetuar os controlos previstos no n.º 1:\n\na) Está plenamente informada das regras estabelecidas no Capítulo III e os funcionários da autoridade competente receberam a formação necessária para as aplicar;\n\nb) Mantém registos do número total de controlos efetuados e dos casos de incumprimento revelados durante esses controlos; e\n\nc) Documenta os controlos efetuados no campo relevante do documento de identificação, caso tal documentação seja necessária para efeitos da circulação sem caráter comercial para outros Estados-Membros, conforme previsto no artigo 24.º, n.º 1."
+  },
+  "8fc9c30f34c63341": {
+   "fragment_id": "Artigo 35.º — Medidas em caso de não cumprimento revelado durante os controlos previstos nos artigos 33.º e 34.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Medidas em caso de não cumprimento revelado durante os controlos previstos nos artigos 33.º e 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Medidas em caso de não cumprimento revelado durante os controlos previstos nos artigos 33.º e 34.º\n\n1.\n\nSe os controlos previstos nos artigos 33.º e 34.º revelarem que o animal de companhia não cumpre as condições estabelecidas nos capítulos II ou III, a autoridade competente deve decidir, após consulta do veterinário oficial e, se necessário, do dono ou da pessoa autorizada:\n\na) Que o animal de companhia deve regressar ao país ou território de expedição;\n\nb) Isolar o animal de companhia, sob controlo oficial durante o tempo necessário para que ele cumpra as condições estabelecidas nos capítulos II ou III; ou\n\nc) Como último recurso, caso não seja possível devolvê-lo ou não seja prático o seu isolamento, abater o animal de companhia de acordo com as regras nacionais aplicáveis em matéria de proteção dos animais de companhia no momento do abate.\n\n2.\n\nCaso a circulação sem caráter comercial de animais de companhia para a União seja recusada pela autoridade competente, os animais de companhia devem ser isolados sob controlo oficial na pendência:\n\na) Do seu regresso ao país ou território de expedição; ou\n\nb) Da adoção de qualquer outra decisão administrativa relativa a esses animais de companhia.\n\n3. As medidas referidas nos n.^os^ 1 e 2 são aplicadas a expensas do dono e sem possibilidade de qualquer compensação financeira para o dono ou a pessoa autorizada."
+  },
+  "e230ffa5051f8234": {
+   "fragment_id": "Artigo 36.º — Medidas de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Medidas de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Medidas de salvaguarda\n\n1.\n\nSe a raiva ou uma doença ou infeção diferente da raiva surgir ou se propagar num Estado-Membro, num território ou país terceiro e for suscetível de representar uma grave ameaça para a saúde pública ou animal, a Comissão pode, por sua própria iniciativa ou a pedido de qualquer Estado-Membro, adotar uma das medidas a seguir referidas, mediante um ato de execução, sem demora e em função da gravidade da situação:\n\na) Suspender a circulação sem caráter comercial ou o trânsito de animais de companhia da totalidade ou de parte do território do Estado-Membro ou do território ou país terceiro em causa;\n\nb) Estabelecer condições especiais para a circulação sem caráter comercial de animais de companhia a partir da totalidade ou de parte do Estado-Membro ou do território ou país terceiro em causa.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 41.º, n.º 2.\n\n2. Por imperativos de urgência devidamente justificados para conter ou gerir um risco grave para a saúde pública ou animal, a Comissão adota atos de execução imediatamente aplicáveis pelo procedimento a que se refere o artigo 41.º, n.º 3."
+  },
+  "4fe1b34671a56558": {
+   "fragment_id": "Artigo 37.º — Obrigações de informação",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Obrigações de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Obrigações de informação\n\n1. Os Estados-Membros facultam ao público informações claras e facilmente acessíveis sobre os requisitos de saúde animal aplicáveis à circulação sem caráter comercial de animais de companhia e as regras para os controlos de conformidade dessa circulação estabelecidos no presente regulamento.\n\n2.\n\nAs informações referidas no n.º 1 devem incluir, em particular, o seguinte:\n\na) Qualificações aplicáveis às pessoas que efetuam a implantação do *transponder*, conforme previsto no artigo 18.º;\n\nb) Autorização para prever uma derrogação à condição de vacinação antirrábica para animais de companhia jovens das espécies enumeradas no Anexo I, parte A, conforme previsto nos artigos 7.º e 11.º;\n\nc) Condições aplicáveis à circulação sem caráter comercial, para o território dos Estados-Membros, de animais de companhia:\n\ni) que não cumprem os artigos 6.º, 9.º, 10,º ou 14.º,\n\nii) que provêm de determinados países e territórios nas condições estabelecidas pelas respetivas regras nacionais, conforme previsto no artigo 16.º;\n\nd) Lista dos pontos de entrada dos viajantes, elaborada nos termos do artigo 34.º, n.º 3, incluindo a autoridade competente designada para efetuar os controlos, conforme previsto no artigo 34.º, n.º 4;\n\ne) Condições aplicáveis à circulação sem caráter comercial, para o território dos Estados-Membros, de animais de companhia das espécies enumeradas no Anexo I, parte B, estabelecidas pelas respetivas regras nacionais, conforme previsto no artigo 9.º, n.º 3 e no artigo 14.º, n.º 3; e\n\nf) Informações sobre as vacinas antirrábicas para as quais as autoridades competentes dos Estados-Membros concederam uma autorização de introdução no mercado conforme previsto no Anexo III, ponto 1, alínea b), e, em particular, sobre o protocolo de vacinação correspondente.\n\n3. Os Estados-Membros devem criar páginas Internet que forneçam as informações referidas no n.º 1 e comunicar à Comissão o endereço dessas páginas.\n\n4.\n\nA Comissão deve assistir os Estados-Membros na divulgação ao público dessas informações, fornecendo na sua página Internet:\n\na) As ligações para as páginas Internet de informação dos Estados-Membros; e\n\nb) As informações referidas no n.º 2, alíneas b), d) e e), do presente artigo e as informações facultadas ao público a que se refere o artigo 2.º, n.º 2, alínea b) em línguas adicionais, se for caso disso."
+  },
+  "a843c7b39304a495": {
+   "fragment_id": "Disposições processuais",
+   "type": "divisao",
+   "heading": "Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições processuais"
+  },
+  "ed587704b289d6e1": {
+   "fragment_id": "Artigo 38.º — Alterações aos Anexos",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Alterações aos Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alterações aos Anexos\n\nA fim de ter em conta o progresso técnico, a evolução científica e a proteção da saúde pública ou a saúde dos animais de companhia, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 39.º no que diz respeito à alteração dos Anexos II a IV."
+  },
+  "9ed3aaa3e5a81985": {
+   "fragment_id": "Artigo 39.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados a que se referem o artigo 5.º, n.º 5, o artigo 17.º, n.º 2, segundo parágrafo, o artigo 19.º, n.º 1, primeiro parágrafo e o artigo 38.º é conferido à Comissão por um prazo de cinco anos a contar de 28 de junho de 2013. A Comissão elabora um relatório sobre a delegação de poderes, pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho se opuserem a pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 5.º, n.º 5, no artigo 17.º, n.º 2, segundo parágrafo, no artigo 19.º, n.º 1, primeiro parágrafo, e no artigo 38.º pode ser revogada a qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou numa data posterior nela especificada. A decisão de revogação não afeta a validade dos atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 5.º, n.º 5, do artigo 17.º, n.º 2, segundo parágrafo, do artigo 19.º, n.º 1, primeiro parágrafo, e do artigo 38.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desses atos ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. Esse prazo pode ser prorrogado por dois meses, por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "b57407bdff875aac": {
+   "fragment_id": "Artigo 40.º — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Procedimento de urgência\n\n1. Os atos delegados adotados por força do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção ao abrigo do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 39.º, n.º 5. Nesse caso, a Comissão deve revogar sem demora o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "4fd336f1519efa1e": {
+   "fragment_id": "Artigo 41.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, criado pelo artigo 58.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^1^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0001)). Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011. Se for necessário obter o parecer do comité por procedimento escrito, esse procedimento será encerrado sem resultados se, no prazo fixado para dar o parecer, o Presidente do comité assim o decidir, ou a maioria simples dos seus membros assim o requerer.\n\n3. Caso se faça referência ao presente número, aplica-se o artigo 8.º do Regulamento (UE) n.º 182/2011, em conjugação com o artigo 5.º do mesmo regulamento."
+  },
+  "24159dfe6e7f5965": {
+   "fragment_id": "Artigo 42.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Sanções\n\nOs Estados-Membros devem estabelecer as regras relativas às sanções aplicáveis em caso de infração ao presente regulamento e tomam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas.\n\nOs Estados-Membros devem comunicar sem demora à Comissão essas disposições e as alterações subsequentes que as afetem."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "58db9973e9bbffab": {
+   "fragment_id": "Artigo 43.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Revogação\n\n1. O Regulamento (CE) n.º 998/2003 é revogado, com exceção do Anexo II, parte B, secção 2, e do Anexo II, secção C que se mantêm em vigor até à entrada em vigor dos atos de execução adotados respetivamente nos termos do artigo 13.º, n.^os^ 1 e 2, do presente regulamento.\n\nNo presente regulamento, as referências à lista nos atos de execução adotados nos termos do artigo 13.º, n.º 1 ou n.º 2, devem entender-se como referências à lista de países terceiros e territórios estabelecida respetivamente no Anexo II, parte B, secção 2, e no Anexo II, parte C, do Regulamento (CE) n.º 998/2003 até à entrada em vigor desses atos de execução.\n\n2. As referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento e devem ser lidas de acordo com a tabela de correspondência constante do Anexo V.\n\n3. A revogação do Regulamento (CE) n.º 998/2003 não prejudica a vigência do Regulamento Delegado (UE) n.º 1152/2011 da Comissão, de 14 de julho de 2011, que completa o Regulamento (CE) n.º 998/2003 do Parlamento Europeu e do Conselho no que se refere às medidas sanitárias preventivas para o controlo da infeção por *Echinococcus multilocularis* em cães ([^2^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0002)), que foi adotado nos termos do artigo 5.º, n.º 1, segundo parágrafo, desse regulamento."
+  },
+  "d10c749bc66d1434": {
+   "fragment_id": "Artigo 44.º — Medidas transitórias respeitantes aos documentos de identificação",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Medidas transitórias respeitantes aos documentos de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Medidas transitórias respeitantes aos documentos de identificação\n\n1.\n\nEm derrogação do disposto no artigo 21.º, n.º 1, deve considerar-se que o documento de identificação a que se refere o artigo 6.º, alínea d), cumpre o presente regulamento se:\n\na) Tiver sido elaborado de acordo com o modelo de passaporte estabelecido pela Decisão 2003/803/CE; e\n\nb) Tiver sido emitido antes de 29 de dezembro de 2014.\n\n2.\n\nEm derrogação do disposto no artigo 25.º, n.º 1, e no artigo 27.º, alínea a), deve considerar-se que o documento de identificação a que se refere o artigo 10.º, n.º 1.º, alínea e), cumpre o presente regulamento se:\n\na) Tiver sido elaborado de acordo com o modelo de certificado estabelecido no Anexo II da Decisão 2011/874/UE, ou, se for caso disso, com o modelo de passaporte estabelecido na Decisão 2003/803/CE;\n\nb) Tiver sido emitido antes de 29 de dezembro de 2014."
+  },
+  "e45183fc92f8f56a": {
+   "fragment_id": "Artigo 45.º — Entrada em vigor e aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Entrada em vigor e aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor e aplicabilidade\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável partir de 29 de dezembro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "e4dcb078937ff8c4": {
+   "fragment_id": "Espécies de animais de companhia",
+   "type": "divisao",
+   "heading": "Espécies de animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies de animais de companhia"
+  },
+  "7a577d0d30e8e3f5": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A\n\nCães (*Canis lupus familiaris*)\n\nGatos (*Felis silvestris catus*)\n\nFurões (*Mustela putorius furo*)"
+  },
+  "17a4261a7e2c865d": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B\n\nInvertebrados (exceto abelhas e Bombus spp., abrangidos pelo artigo 8.º da Diretiva 92/65/CEE, e moluscos e crustáceos tal como definidos respetivamente no artigo 3., n.º 1, alínea e), subalíneas ii) e iii) da Diretiva 2006/88/CE)\n\nAnimais aquáticos ornamentais tal como definidos no artigo 3.º, alínea k,) da Diretiva 2006/88/CE e excluídos do âmbito dessa diretiva pelo seu artigo 2.º, n.º 1, alínea a)\n\nAnfíbios\n\nRépteis\n\nAves: espécimes de espécies aviárias que não sejam as referidas no artigo 2.º da Diretiva 2009/158/CE\n\nMamíferos: roedores e coelhos que não sejam os destinados à produção de alimentos e definidos como «lagomorfos» no Anexo I do Regulamento (CE) n.º 853/2004."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "ad513a69abe5a100": {
+   "fragment_id": "Requisitos técnicos para os transponders",
+   "type": "divisao",
+   "heading": "Requisitos técnicos para os transponders",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos técnicos para os transponders\n\nOs *transponders* devem:\n\na) Ser conformes à norma ISO 11784 e utilizar uma tecnologia HDX ou FDX-B; e\n\nb) Poder ser lidos por um dispositivo de leitura compatível com a norma ISO 11785."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a64fc9d8d5a9b574": {
+   "fragment_id": "Requisitos de validade aplicáveis à vacinação antirrábica",
+   "type": "divisao",
+   "heading": "Requisitos de validade aplicáveis à vacinação antirrábica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de validade aplicáveis à vacinação antirrábica\n\n1. A vacina antirrábica:\n\na) Não deve ser uma vacina viva modificada e deve pertencer a uma das seguintes categorias:\n\ni) vacina inativada de pelo menos uma unidade antigénica por dose (recomendação da Organização Mundial de Saúde), ou\n\nii) vacina recombinante exprimindo a glicoproteína imunizante do vírus da raiva num vetor viral vivo;\n\nb) Caso seja administrada num Estado-Membro, deve ter beneficiado de uma autorização de introdução no mercado de acordo com:\n\ni) o artigo 5.º da Diretiva 2001/82/CE, ou\n\nii) o artigo 3.º do Regulamento (CE) n.º 726/2004;\n\nc) Caso seja administrada num território ou país terceiro, a vacina deve ter obtido a aprovação ou licença da autoridade competente e cumprir pelo menos os requisitos mínimos estabelecidos na parte relevante do capítulo dedicado à raiva do Manual de Testes para Diagnóstico e de Vacinas para Animais Terrestres da Organização Mundial da Saúde Animal.\n\n2. A vacinação antirrábica deve respeitar as seguintes condições:\n\na) A vacina foi administrada por um veterinário autorizado;\n\nb) O animal tinha pelo menos doze semanas de idade quando vacina foi administrada;\n\nc) A data de administração da vacina é indicada por um veterinário autorizado ou por um veterinário oficial na secção adequada do documento de identificação;\n\nd) A data de administração referida na alínea c) não precede a data de aplicação do *transponder* ou da tatuagem ou a data de leitura do *transponder* ou da tatuagem indicada na secção adequada do documento de identificação;\n\ne) O prazo de validade da vacinação inicia-se com o estabelecimento da imunidade protetora, que não deve ser inferior a 21 dias a contar da finalização do protocolo de vacinação requerido pelo fabricante para a vacinação primária, e prossegue até ao final do período de imunidade protetora, conforme prescrito nas especificações técnicas da autorização de introdução no mercado referida no n.º 1, alínea b), ou na aprovação ou licença referidas no n.º 1, alínea c), relativamente à vacina antirrábica no Estado-Membro ou território ou país terceiro em que a vacina for administrada.\n\nf) A revacinação deve ser considerada como vacinação primária caso não se tenha realizado dentro do prazo de validade da vacinação prévia referido na alínea e)."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "9b1f16c1da3cb428": {
+   "fragment_id": "Requisitos de validade aplicáveis ao teste de titulação de anticorpos da raiva",
+   "type": "divisao",
+   "heading": "Requisitos de validade aplicáveis ao teste de titulação de anticorpos da raiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de validade aplicáveis ao teste de titulação de anticorpos da raiva\n\n1. A colheita da amostra de sangue necessária à realização do teste de titulação de anticorpos da raiva deve ser efetuada e documentada por um veterinário autorizado na secção adequada do documento de identificação.\n\n2. O teste de titulação de anticorpos da raiva:\n\na) Deve ser efetuado numa amostra colhida pelo menos 30 dias após a data da vacinação e:\n\ni) num prazo não inferior a três meses antes da data:\n\n— da circulação sem caráter comercial a partir de um território ou país terceiro diferentes dos enumerados nos atos de execução adotados nos termos do artigo 13.º, n.º 1 ou n.º 2, ou\n\n— do trânsito por esse território ou país terceiro, caso não sejam cumpridas as condições estabelecidas no artigo 12.º, alínea c), ou\n\nii) antes de o animal de companhia deixar a União numa circulação ou num trânsito por um território ou país terceiro diferentes dos enumerados nos atos de execução adotados nos termos do artigo 13.º, n.º 1 ou n.º 2; o documento de identificação no formato previsto no artigo 21.º, n.º 1, deve confirmar que se realizou um teste de titulação de anticorpos da raiva, com resultado favorável, antes da data da circulação;\n\nb) Deve medir um nível de anticorpos séricos neutralizantes do vírus da raiva igual ou superior a 0,5 UI/ml, utilizando um método prescrito na parte relevante do capítulo dedicado à raiva do Manual de Testes para Diagnóstico e de Vacinas para Animais Terrestres da Organização Mundial da Saúde Animal;\n\nc) deve ser efetuado num dos seguintes laboratórios:\n\ni) um laboratório oficial, num Estado-Membro ou num país terceiro que seja parte contratante no Acordo sobre o Espaço Económico Europeu, designado em conformidade com o artigo 37.º do Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0003)) para a realização do teste de titulação de anticorpos da raiva e sobre o qual a autoridade competente tenha fornecido à Comissão o respetivo nome e os dados de contacto, ou\n\nii) um laboratório num território ou país terceiro enumerado no anexo VIII do Regulamento de Execução (UE) 2021/404 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0004)), designado pela autoridade competente do país terceiro, que cumpra os requisitos estabelecidos no artigo 37.º, n.^os^ 4 e 5, do Regulamento (UE) 2017/625 para a realização do teste de titulação de anticorpos da raiva e sobre o qual a autoridade competente tenha fornecido à Comissão o respetivo nome e os dados de contacto.\n\nd) Não tem de ser renovado na sequência de um resultado satisfatório previsto na alínea b) do, desde que o animal de companhia seja revacinado dentro do prazo de validade da vacinação anterior referido no Anexo III, n.º 2, alínea e)."
+  },
+  "3f6e7e5c44f72b0c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nRegulamento (CE) n.º 998/2003 Presente regulamento\n\n*Artigo 1.º* *Artigo 1.º*\n\nArtigo 2.º, n.º 1 Artigo 2.º, n.º 1\n\nArtigo 2.º, n.º 2 Artigo 2.º, n.º 2, alínea a)\n\nArtigo 2.º, n.º 3 Artigo 2.º, n.º 2, alínea b)\n\nArtigo 3.º, alínea a) Artigo 3.º, alíneas a) e b)\n\nArtigo 3.º, alínea b) Artigo 3.º, alínea f)\n\nArtigo 3.º, alínea c) Artigo 2.º, n.º 1\n\nArtigo 4.º, n.º 1, primeiro parágrafo\n\nArtigo 17.º, n.º 1, primeiro parágrafo\n\nArtigo 4.º, n.º 1, segundo parágrafo Artigo 17.º, n.º 1, segundo parágrafo\n\nArtigo 4.º, n.º 2 —\n\nArtigo 4.º, n.º 3 —\n\nArtigo 4.º, n.º 4 —\n\nArtigo 5.º, n.º 1, alínea a) Artigo 6.º, alína a)\n\nArtigo 5.º, n.º 1, alínea b) Artigo 6.º, alínea d)\n\nArtigo 5.º, n.º 1, alínea b), subalínea i) Artigo 6.º, alínea b)\n\nArtigo 5.º, n.º 1, alínea b), subalínea ii) Artigo 6.º, alínea c)\n\nArtigo 5.º, n.º 1, segundo parágrafo *Artigo 19.º*\n\nArtigo 5.º, n.º 2 *Artigo 7.º*\n\n*Artigo 6.º* —\n\n*Artigo 7.º* Artigo 5.º, n.º 5 e artigos 9.º, 14.º e 28.º\n\nArtigo 8.º, n.º 1 Artigos 10.º e 12.º\n\nArtigo 8.º, n.º 2 Artigo 10.º, n.º 1, alínea e) e artigo 27.º\n\nArtigo 8.º, n.º 3, alínea a) Artigo 13.º, n.º 1\n\nArtigo 8.º, n.º 3, alínea b) Artigo 16.º,\n\nArtigo 8.º, n.º 3, alínea c) *Artigo 11.º*\n\nArtigo 8.º, n.º 4 Artigo 25., n.^os^ 1 e 2\n\n*Artigo 9.º* Artigo 14.º e artigo 30.º, n.^os^ 1 e n.º 2\n\nArtigo 10.º, primeiro parágrafo Artigo 13.º, n.º 2\n\nArtigo 10.º, segundo parágrafo Artigo 13.º, n.º 3\n\nArtigo 11.º, primeiro período, Artigo 37.º, n.º 1\n\nArtigo 11.º, segundo período Artigo 34.º, n.º 4, alínea a)\n\nArtigo 12.º, segundo parágrafo, alínea a), proémio Artigo 10.º, n.º 2 e artigo 34.º, n.º 1\n\nArtigo 12.º, segundo parágrafo, alínea b), proémio Artigo 5.º, n.º 4\n\nArtigo 12.º, segundo parágrafo Artigo 34.º, n.º 3 e artigo 37.º, n.º 2, alínea d)\n\n*Artigo 13.º* Artigo 34.º, n.º 3, e artigo 37.º, n.º 2, alínea d)\n\nArtigo 14.º, n.º 1 Artigo 34.º, n.º 2, alínea a)\n\nArtigo 14.º, n.º 2 Artigo 17.º, n.º 1, segundo parágrafo\n\nArtigo 14.º, n.º 3 Artigo 35.º, n.^os^ 1 e 3\n\nArtigo 14.º, n.º 4, Artigo 35.º, n.º 2\n\n*Artigo 15.º* Anexo IV, pontos 1 e 2, alínea c)\n\n*Artigo 16.º* —\n\nArtigo 17.º, n.º 1 —\n\nArtigo 17.º, n.º 2 Artigo 21.º, n.º 1\n\nArtigo 18.º, n.º 1 —\n\nArtigo 18.º, n.º 2 *Artigo 36.º*\n\n*Artigo 19.º* Artigo 13.º, n.º 3 e artigo 5.º, n.º 4\n\nArtigo 19.º-A, n.^os^ 1 e 2 *Artigo 38.º*\n\nArtigo 19.º-A, n.º 3 —\n\nArtigo 19.º-B, n.º 1 Artigo 39.º, n.º 2\n\nArtigo 19.º-B, n.º 2 Artigo 39.º, n.º 4\n\nArtigo 19.º-B, n.º 3 Artigo 39.º, n.º 1\n\nArtigo 19.º-C, n.º 1 e n.º 3 Artigo 39.º, n.º 3\n\nArtigo 19.º-C, n.º 2 —\n\nArtigo 19.º-D, n.º 1 e Artigo 19.º-D, n.º 2 Artigo 39.º, n.º 5\n\nArtigo 19.º-D, n.º 3 —\n\nArtigos 20.º a 23.º —\n\nArtigo 24.º, n.s° 1, 2 e 3 Artigo 41.º, n.^os^ 1, 2 e 3\n\nArtigo 24.º, n.^os^ 4 e 5 —\n\n*Artigo 25.º* *Artigo 45.º*\n\nAnexo I Anexo I\n\nAnexo I-A Anexo II\n\nAnexo I-B Anexo III\n\nParte A e Secção 1 da Parte B do Anexo II —\n\nSecção 2 do Parte B do Anexo II Artigo 13.º, n.º 1\n\nParte C do Anexo II Artigo 13.º, n.º 2\n\n---"
+  },
+  "eea5eaa69211733b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0002)) JO L 296 de 15.11.2011, p. 6.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) (JO L 95 de 7.4.2017, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ee100711-fbee-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento de Execução (UE) 2021/404 da Comissão, de 24 de março de 2021, que estabelece as listas de países terceiros, territórios ou respetivas zonas a partir dos quais é permitida a entrada na União de animais, produtos germinais e produtos de origem animal em conformidade com o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho (JO L 114 de 31.3.2021, p. 1)."
+  }
+ }
+}

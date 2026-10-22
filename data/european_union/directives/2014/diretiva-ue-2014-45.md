@@ -35,6 +35,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-20'
+version_history:
+  file: diretiva-ue-2014-45.versoes.json
+  count: 3
+  source_lastmod: '2023-05-20'
+  versions:
+  - date: '2014-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-09-27'
+    amending: eu:celex:32021L1717:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/1717 DA COMISSÃO de 9 de julho de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Responsabilidades
+    - Altera Artigo 5.º — Data e frequência das inspeções
+    - Altera 3. OBJETO E MÉTODOS DE INSPEÇÃO, AVALIAÇÃO DAS DEFICIÊNCIAS DOS VEÍCULOS
+    - Altera I. Instalações e equipamento
+    - Altera II. Calibração do equipamento de medição
+    - Altera 2. Formação inicial e de atualização
+    - Altera Notas
+    - Suprime 0. IDENTIFICAÇÃO DO VEÍCULO
+    - Suprime 1. EQUIPAMENTO DE TRAVAGEM
+    - Suprime 1.1. Estado mecânico e funcionamento
+    - Suprime 1.2. Comportamento funcional e eficiência dos travões de serviço
+    - Suprime 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo
+      separado)
+    - Suprime 1.4. Comportamento funcional e eficiência do travão de estacionamento
+    - Suprime 2. DIREÇÃO
+    - Suprime 2.1. Estado mecânico
+    - Suprime 2.2. Volante, coluna da direção e guiador
+    - Suprime 3. VISIBILIDADE
+    - Suprime 4. LUZES, REFLETORES E EQUIPAMENTO ELÉTRICO
+    - Suprime 4.1. Faróis
+    - Suprime 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e
+      luzes diurnas
+    - Suprime 4.3. Luzes de travagem
+    - Suprime 4.4. Luzes indicadoras de mudança de direção e luzes de perigo
+    - Suprime 4.5. Luzes de nevoeiro dianteiras e traseiras
+    - Suprime 4.6. Luzes de marcha-atrás
+    - Suprime 4.7. Luz da placa de matrícula da retaguarda
+    - Suprime 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda
+    - Suprime 4.9. Avisadores obrigatórios para o equipamento de iluminação
+    - Suprime 5. EIXOS, RODAS, PNEUS E SUSPENSÃO
+    - Suprime 5.1. Eixos
+    - Suprime 5.2. Rodas e pneus
+    - Suprime 5.3. Sistema de suspensão
+    - Suprime 6. QUADRO E ACESSÓRIOS DO QUADRO
+    - Suprime 6.1. Quadro (ou estrutura) e acessórios do quadro
+    - Suprime 6.2. Cabina e carroçaria
+    - Suprime 7. OUTROS EQUIPAMENTOS
+    - Suprime 7.1. Cintos de segurança, fechos e sistemas de retenção
+    - Suprime 8. EMISSÕES
+    - Suprime 8.1. Ruído
+    - Suprime 8.2. Emissões de escape
+  - date: '2023-05-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Responsabilidades
+    - Altera 3. OBJETO E MÉTODOS DE INSPEÇÃO, AVALIAÇÃO DAS DEFICIÊNCIAS DOS VEÍCULOS
+    - Altera I. Instalações e equipamento
+    - Altera Notas
 identifiers:
   celex: 32014L0045
   eli: http://data.europa.eu/eli/dir/2014/45/oj
@@ -49,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b560a38a-cf66-11e3-b682-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/bed625d6-f987-11ed-a05c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0045-20230520
-  retrieved_at: '2026-10-22T02:41:44Z'
+  retrieved_at: '2026-10-22T16:28:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T22:24:19.587+02:00'
 integrity:
@@ -58,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:44Z'
-  notes: Texto consolidado 02014L0045-20230520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:28:46Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2014-45.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -205,33 +269,19 @@ relationships:
   source: null
 article_structure:
   article_count: 26
-  section_count: 35
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 36
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:44Z'
+  checked_at: '2026-10-22T16:28:46Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/45/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014
-
-> 02014L0045 — PT — 20.05.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1717) — [DIRETIVA DELEGADA (UE) 2021/1717 DA COMISSÃO de 9 de julho de 2021](http://publications.europa.eu/resource/celex/32021L1717) — L 342 — 48 — 27.9.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0045R%2804%29) — [Rectificação, JO L 219, 22.8.2019, p. 25 (2014/45/UE)](http://publications.europa.eu/resource/celex/32014L0045R%2804%29)
-
-## DIRETIVA 2014/45/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 3 de abril de 2014
 

@@ -35,6 +35,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: decisao-ue-2014-541.versoes.json
+  count: 3
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2014-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-08-02'
+    amending: eu:celex:32018R1046:por
+    amending_title: REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Ações apoiadas pelo quadro de apoio SST
+    - Altera Artigo 7.º — Participação dos Estados-Membros
+    - Altera Artigo 14.º
+    - Suprime Notas
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Estabelecimento do quadro de apoio
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Objetivos do quadro de apoio SST
+    - Suprime Artigo 4.º — Ações apoiadas pelo quadro de apoio SST
+    - Suprime Artigo 5.º — Serviços SST
+    - Suprime Artigo 6.º — Papel da Comissão
+    - Suprime Artigo 7.º — Participação dos Estados-Membros
+    - Suprime Artigo 8.º — Papel do Centro de Satélites da União Europeia
+    - Suprime Artigo 9.º — Dados SST e informações SST
+    - Suprime Artigo 10.º — Coordenação das atividades operacionais
+    - Suprime Artigo 11.º — Acompanhamento e avaliação
+    - Suprime Artigo 12.º — Procedimento de comité
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime Artigo 14.º
 identifiers:
   celex: 32014D0541
   eli: http://data.europa.eu/eli/dec/2014/541(1)/oj
@@ -49,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/81654e8b-e657-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e75f4d45-c2df-11eb-a925-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014D0541-20210101
-  retrieved_at: '2026-10-22T03:16:51Z'
+  retrieved_at: '2026-10-22T16:26:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T12:35:23.563+02:00'
 integrity:
@@ -58,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:51Z'
-  notes: Texto consolidado 02014D0541-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:26:06Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2014-541.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,16 +181,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:51Z'
+  checked_at: '2026-10-22T16:26:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02014D0541-20140616: versão indisponível (Sem expressão na língua por para CELEX 02014D0541-20140616.)'
   errors: []
 ---
 

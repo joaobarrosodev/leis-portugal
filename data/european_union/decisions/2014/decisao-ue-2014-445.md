@@ -35,6 +35,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: decisao-ue-2014-445.versoes.json
+  count: 3
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2014-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-10-05'
+    amending: eu:celex:32017D1545:por
+    amending_title: DECISÃO (UE) 2017/1545 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      setembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Acesso à ação
+    - Altera Artigo 5.º — Critérios
+    - Altera Artigo 6.º — Júri de peritos
+    - Altera Artigo 11.º — Designação
+    - Altera Artigo 13.º — Acompanhamento
+    - Altera Artigo 18.º — Entrada em vigor
+    - Adita Artigo 10.º
+    - Adita Pré-seleção e seleção nos países EFTA/EEE, nos países candidatos e nos países potenciais candidatos
+    - Adita ANEXO
+    - Adita CALENDÁRIO
+    - Suprime Artigo 10.º — Pré-seleção e seleção nos países candidatos e nos potenciais candidatos
+    - Suprime Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32020D2229:por
+    amending_title: DECISÃO (UE) 2020/2229 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020
+    changes:
+    - Altera Artigo 3.º — Acesso à ação
+    - Altera Artigo 4.º — Aplicação
+    - Altera Artigo 16.º — Avaliação
+    - Altera CALENDÁRIO
 identifiers:
   celex: 32014D0445
   eli: http://data.europa.eu/eli/dec/2014/445(1)/oj
@@ -49,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1ea34efc-e65e-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/d895fa16-5fec-11eb-8146-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014D0445-20210101
-  retrieved_at: '2026-10-22T03:16:51Z'
+  retrieved_at: '2026-10-22T16:26:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T05:50:42.528+02:00'
 integrity:
@@ -58,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:51Z'
-  notes: Texto consolidado 02014D0445-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:26:04Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2014-445.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -122,30 +157,19 @@ relationships:
   date: '2006-11-09'
 article_structure:
   article_count: 18
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:51Z'
+  checked_at: '2026-10-22T16:26:04Z'
   warnings: []
   errors: []
 ---
 
 # Decisão n. ° 445/2014/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014
-
-> 02014D0445 — PT — 01.01.2021 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017D1545) — [DECISÃO (UE) 2017/1545 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2017](http://publications.europa.eu/resource/celex/32017D1545) — L 237 — 1 — 15.9.2017
-- [►M2](http://publications.europa.eu/resource/celex/32020D2229) — [DECISÃO (UE) 2020/2229 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020D2229) — L 437 — 116 — 28.12.2020
-
-## DECISÃO N.º 445/2014/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de abril de 2014
 

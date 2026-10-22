@@ -35,6 +35,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: diretiva-ue-2014-23.versoes.json
+  count: 6
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2014-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: eu:celex:32015R2172:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/2172 DA COMISSÃO de 24 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Autoridades adjudicantes
+    - Altera Artigo 7.º — Entidades adjudicantes
+    - Altera Artigo 8.º — Limiar e métodos de cálculo do valor estimado das concessões
+    - Altera Artigo 10.º — Exclusões aplicáveis às concessões adjudicadas por autoridades adjudicantes e por entidades adjudicantes
+    - Altera Artigo 11.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 27.º — Nomenclaturas
+    - Altera Artigo 38.º — Seleção e avaliação qualitativa dos candidatos
+    - Altera Artigo 46.º — Alteração da Diretiva 89/665/CEE
+    - Altera Artigo 47.º — Alteração da Diretiva 92/13/CEE
+    - Altera Artigo 50.º — Procedimento de comité
+    - Altera ANEXO I
+    - Altera ANEXO IV
+    - Altera Notas
+  - date: '2020-01-01'
+    amending: eu:celex:32017R2366:por
+    amending_title: M2; REGULAMENTO DELEGADO (UE) 2019/1827 DA COMISSÃO de 30 de outubro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Autoridades adjudicantes
+    - Altera Artigo 7.º — Entidades adjudicantes
+    - Altera Artigo 8.º — Limiar e métodos de cálculo do valor estimado das concessões
+    - Altera Artigo 10.º — Exclusões aplicáveis às concessões adjudicadas por autoridades adjudicantes e por entidades adjudicantes
+    - Altera Artigo 11.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 27.º — Nomenclaturas
+    - Altera Artigo 38.º — Seleção e avaliação qualitativa dos candidatos
+    - Altera Artigo 46.º — Alteração da Diretiva 89/665/CEE
+    - Altera Artigo 47.º — Alteração da Diretiva 92/13/CEE
+    - Altera Artigo 50.º — Procedimento de comité
+    - Altera ANEXO I
+    - Altera ANEXO IV
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1951:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1951 DA COMISSÃO de 10 de novembro de 2021
+    changes:
+    - Altera Artigo 6.º — Autoridades adjudicantes
+    - Altera Artigo 7.º — Entidades adjudicantes
+    - Altera Artigo 8.º — Limiar e métodos de cálculo do valor estimado das concessões
+    - Altera Artigo 10.º — Exclusões aplicáveis às concessões adjudicadas por autoridades adjudicantes e por entidades adjudicantes
+    - Altera Artigo 11.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 27.º — Nomenclaturas
+    - Altera Artigo 38.º — Seleção e avaliação qualitativa dos candidatos
+    - Altera Artigo 46.º — Alteração da Diretiva 89/665/CEE
+    - Altera Artigo 47.º — Alteração da Diretiva 92/13/CEE
+    - Altera Artigo 50.º — Procedimento de comité
+    - Altera ANEXO I
+    - Altera ANEXO IV
+    - Altera LISTA DAS CONVENÇÕES INTERNACIONAIS EM MATÉRIA SOCIAL E AMBIENTAL REFERIDAS NO ARTIGO 30.º, N.º 3
+    - Altera Notas
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2497:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2497 DA COMISSÃO de 15 de novembro de 2023
+    changes:
+    - Altera Artigo 6.º — Autoridades adjudicantes
+    - Altera Artigo 7.º — Entidades adjudicantes
+    - Altera Artigo 8.º — Limiar e métodos de cálculo do valor estimado das concessões
+    - Altera Artigo 10.º — Exclusões aplicáveis às concessões adjudicadas por autoridades adjudicantes e por entidades adjudicantes
+    - Altera Artigo 11.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 27.º — Nomenclaturas
+    - Altera Artigo 38.º — Seleção e avaliação qualitativa dos candidatos
+    - Altera Artigo 46.º — Alteração da Diretiva 89/665/CEE
+    - Altera Artigo 47.º — Alteração da Diretiva 92/13/CEE
+    - Altera Artigo 50.º — Procedimento de comité
+    - Altera ANEXO I
+    - Altera ANEXO IV
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2151:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2151 DA COMISSÃO de 22 de outubro de 2025
+    changes:
+    - Altera Artigo 6.º — Autoridades adjudicantes
+    - Altera Artigo 7.º — Entidades adjudicantes
+    - Altera Artigo 8.º — Limiar e métodos de cálculo do valor estimado das concessões
+    - Altera Artigo 10.º — Exclusões aplicáveis às concessões adjudicadas por autoridades adjudicantes e por entidades adjudicantes
+    - Altera Artigo 11.º — Exclusões específicas no domínio das comunicações eletrónicas
+    - Altera Artigo 27.º — Nomenclaturas
+    - Altera Artigo 38.º — Seleção e avaliação qualitativa dos candidatos
+    - Altera Artigo 46.º — Alteração da Diretiva 89/665/CEE
+    - Altera Artigo 47.º — Alteração da Diretiva 92/13/CEE
+    - Altera Artigo 50.º — Procedimento de comité
+    - Altera ANEXO I
+    - Altera ANEXO IV
+    - Altera Notas
 identifiers:
   celex: 32014L0023
   eli: http://data.europa.eu/eli/dir/2014/23/oj
@@ -49,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7ebc3110-b653-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8d01d3a7-06cf-11f1-825d-01aa75ed71a1.0003.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0023-20260101
-  retrieved_at: '2026-10-22T02:36:29Z'
+  retrieved_at: '2026-10-22T16:26:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T21:24:46.074+02:00'
 integrity:
@@ -58,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:29Z'
-  notes: Texto consolidado 02014L0023-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:26:40Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2014-23.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -427,39 +524,19 @@ relationships:
   date: '2026-02-05'
 article_structure:
   article_count: 55
-  section_count: 49
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 50
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:29Z'
+  checked_at: '2026-10-22T16:26:40Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/23/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
-
-> 02014L0023 — PT — 01.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32015R2172) — [REGULAMENTO DELEGADO (UE) 2015/2172 DA COMISSÃO de 24 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2172) — L 307 — 9 — 25.11.2015
-- [M2](http://publications.europa.eu/resource/celex/32017R2366) — [REGULAMENTO DELEGADO (UE) 2017/2366 DA COMISSÃO de 18 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2366) — L 337 — 21 — 19.12.2017
-- [M3](http://publications.europa.eu/resource/celex/32019R1827) — [REGULAMENTO DELEGADO (UE) 2019/1827 DA COMISSÃO de 30 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1827) — L 279 — 23 — 31.10.2019
-- [M4](http://publications.europa.eu/resource/celex/32021R1951) — [REGULAMENTO DELEGADO (UE) 2021/1951 DA COMISSÃO de 10 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1951) — L 398 — 21 — 11.11.2021
-- [M5](http://publications.europa.eu/resource/celex/32023R2497) — [REGULAMENTO DELEGADO (UE) 2023/2497 DA COMISSÃO de 15 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2497) — L 2497 — 1 — 16.11.2023
-- [►M6](http://publications.europa.eu/resource/celex/32025R2151) — [REGULAMENTO DELEGADO (UE) 2025/2151 DA COMISSÃO de 22 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2151) — L 2151 — 1 — 23.10.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0023R%2801%29) — [Rectificação, JO L 114, 5.5.2015, p. 24 (2014/23/UE)](http://publications.europa.eu/resource/celex/32014L0023R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014L0023R%2803%29) — [Rectificação, JO L 082, 26.3.2018, p. 17 (Diretiva2014/23/UE)](http://publications.europa.eu/resource/celex/32014L0023R%2803%29)
-
-## DIRETIVA 2014/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de fevereiro de 2014
 

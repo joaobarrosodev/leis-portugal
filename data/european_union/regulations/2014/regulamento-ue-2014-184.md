@@ -42,6 +42,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-13'
+version_history:
+  file: regulamento-ue-2014-184.versoes.json
+  count: 2
+  source_lastmod: '2021-03-13'
+  versions:
+  - date: '2014-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-03-13'
+    amending: eu:celex:32021R0438:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/438 DA COMISSÃO de 3 de março de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Conteúdo do sistema de intercâmbio eletrónico de dados
+    - Altera Artigo 3.º — Funcionamento do SFC2014
+    - Altera Artigo 6.º — Segurança dos dados transmitidos através do SFC2014
+    - Altera Artigo 8.º
+    - Altera Notas
+    - Adita ANEXO
 identifiers:
   celex: 32014R0184
   eli: http://data.europa.eu/eli/reg_impl/2014/184/oj
@@ -56,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/286dbbac-9f8a-11e3-8b87-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c09dee3c-9885-11eb-b85c-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0184-20210313
-  retrieved_at: '2026-10-22T03:17:13Z'
+  retrieved_at: '2026-10-22T16:31:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:16:15.802+02:00'
 integrity:
@@ -65,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:13Z'
-  notes: Texto consolidado 02014R0184-20210313.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:49Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-184.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -146,29 +166,20 @@ relationships:
   date: '2014-12-24'
 article_structure:
   article_count: 8
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:13Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:49Z'
+  warnings:
+  - '02014R0184-20140228: versão indisponível (Sem expressão na língua por para CELEX 02014R0184-20140228.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 184/2014 da Comissão, de 25 fevereiro 2014 , que estabelece, nos termos do Regulamento (UE) n. ° 1303/2013 do Parlamento Europeu e do Conselho que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas e que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, os termos e as condições aplicáveis ao sistema de intercâmbio eletrónico de dados entre os Estados-Membros e a Comissão e que adota, nos termos do Regulamento (UE) n. ° 1299/2013 do Parlamento Europeu e do Conselho relativo às disposições específicas aplicáveis ao apoio prestado pelo Fundo Europeu de Desenvolvimento Regional ao objetivo da Cooperação Territorial Europeia, a nomenclatura das categorias de intervenção para o apoio do Fundo Europeu de Desenvolvimento Regional no âmbito do objetivo da cooperação territorial europeia
-
-> 02014R0184 — PT — 13.03.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R0438) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/438 DA COMISSÃO de 3 de março de 2021](http://publications.europa.eu/resource/celex/32021R0438) — L 85 — 147 — 12.3.2021
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 184/2014 DA COMISSÃO
 
 de 25 fevereiro 2014
 

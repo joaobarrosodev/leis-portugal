@@ -39,6 +39,89 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-05-30'
+version_history:
+  file: regulamento-ue-2014-480.versoes.json
+  count: 3
+  source_lastmod: '2019-05-30'
+  versions:
+  - date: '2014-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-11'
+    amending: eu:celex:32015R0616:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/616 DA COMISSÃO de 13 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 32.º
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita ANEXO I
+    - Adita Períodos de referência mencionados no artigo 15.º, n.º 2
+    - Adita ANEXO II
+    - Adita Critérios de avaliação da qualidade dos grandes projetos referidos no artigo 23.º
+    - Adita 1. Critérios de avaliação da qualidade relativos aos requisitos de informação do artigo 101.º, alínea a), do Regulamento
+      (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/90a9b600-9b2c-4f1e-8ec9-36d472c17cf9.0015.02/DOC_1#E0009))
+    - Adita 2. Critérios de avaliação da qualidade relativos aos requisitos de informação do artigo 101.º, alínea b), do Regulamento
+      (UE) n.º 1303/2013
+  - date: '2019-05-30'
+    amending: eu:celex:32019R0886:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/886 DA COMISSÃO de 12 de fevereiro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera 3. Critérios de avaliação da qualidade relativos aos requisitos de informação do artigo 101.º, alínea c), do
+      Regulamento (UE) n.º 1303/2013
+    - Altera 6. Critérios de avaliação da qualidade relativos aos requisitos de informação do artigo 101.º, alínea f), do
+      Regulamento (UE) n.º 1303/2013
+    - Altera Lista dos dados a registar e armazenar em formato eletrónico no âmbito do sistema de monitorização (a que se
+      refere o artigo 24.º)
+    - Altera Notas
+    - Adita 1. Critérios de avaliação da qualidade relativos aos requisitos de informação do artigo 101.º, alínea a), do Regulamento
+      (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/366e13ef-ba34-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0007))
+    - Suprime 1. Critérios de avaliação da qualidade relativos aos requisitos de informação do artigo 101.º, alínea a), do
+      Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/90a9b600-9b2c-4f1e-8ec9-36d472c17cf9.0015.02/DOC_1#E0009))
 identifiers:
   celex: 32014R0480
   eli: http://data.europa.eu/eli/reg_del/2014/480/oj
@@ -53,7 +136,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aa7b7378-da76-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/366e13ef-ba34-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0480-20190530
-  retrieved_at: '2026-10-22T02:37:45Z'
+  retrieved_at: '2026-10-22T16:33:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T23:12:18.994+02:00'
 integrity:
@@ -62,9 +145,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:45Z'
-  notes: Texto consolidado 02014R0480-20190530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:33:07Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-480.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -190,30 +273,20 @@ relationships:
   date: '2015-08-15'
 article_structure:
   article_count: 32
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:45Z'
-  warnings: []
+  checked_at: '2026-10-22T16:33:07Z'
+  warnings:
+  - '02014R0480-20140514: versão indisponível (Sem expressão na língua por para CELEX 02014R0480-20140514.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. °480/2014 da Comissão, de 3 de março de 2014
-
-> 02014R0480 — PT — 30.05.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0616) — [REGULAMENTO DELEGADO (UE) 2015/616 DA COMISSÃO de 13 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0616) — L 102 — 33 — 21.4.2015
-- [►M2](http://publications.europa.eu/resource/celex/32019R0886) — [REGULAMENTO DELEGADO (UE) 2019/886 DA COMISSÃO de 12 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0886) — L 142 — 9 — 29.5.2019
-
-## REGULAMENTO DELEGADO (UE) N.º 480/2014 DA COMISSÃO
 
 de 3 de março de 2014
 

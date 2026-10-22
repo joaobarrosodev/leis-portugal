@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R0768:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0768-20150809",
+ "dre_path": null,
+ "source_lastmod": "2015-08-09",
+ "versions": [
+  {
+   "date": "2013-08-09",
+   "future": false,
+   "celex": "32013R0768",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80097cb9d2a7e9bb",
+    "ffaf1e7a4ad19323",
+    "485a4da9317e9df2",
+    "a3b5ffa23d24842d"
+   ]
+  },
+  {
+   "date": "2013-08-10",
+   "future": false,
+   "celex": "02013R0768-20130810",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita «ANEXO I"
+   ],
+   "fragments": [
+    "663751caff1d31f8",
+    "336a39e403fe356f",
+    "aef84af2c892483a",
+    "10220b9774fa9034",
+    "3f25406f1b5782e9",
+    "7a7814a76f267380"
+   ]
+  },
+  {
+   "date": "2015-08-09",
+   "future": false,
+   "celex": "02013R0768-20150809",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO",
+    "Suprime «ANEXO I",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "49f88da6a5d5652d"
+   ]
+  }
+ ],
+ "fragments": {
+  "80097cb9d2a7e9bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de agosto de 2013\n\nque altera o Regulamento (CE) n.º 917/2004 que estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho relativo a ações de melhoria das condições de produção e comercialização de produtos da apicultura\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/7280126f-00c5-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013214PT.01000701-E0001), nomeadamente o artigo 110.º em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 917/2004 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/7280126f-00c5-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013214PT.01000701-E0002) estabelece disposições relativas à execução dos programas apícolas nacionais previstos no artigo 105.º do Regulamento (CE) n.º 1234/2007. Em conformidade com o artigo 2.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 917/2004, as ações dos programas apícolas, previstas para cada ano do período trienal, deverão ser executadas antes de 31 de agosto do exercício anual a que dizem respeito e os pagamentos atinentes deverão efetuar-se durante o exercício anual que decorre de 16 de outubro do mesmo ano a 15 de outubro do ano seguinte. Em consequência, os Estados-Membros não podem executar ações apícolas entre 1 de setembro do ano do programa apícola e 15 de outubro do mesmo ano.\n\n(2) A fim de evitar o hiato entre a execução e o financiamento das ações apícolas, as datas em questão devem ser alteradas para que as ações possam ser executadas durante todo o ano.\n\n(3) A participação da União no financiamento dos programas apícolas nacionais baseia-se no efetivo apícola/número de colmeias de cada Estado-Membro, conforme indicado no anexo I do Regulamento (CE) n.º 917/2004.\n\n(4) Em conformidade com o artigo 109.º do Regulamento (CE) n.º 1234/2007, os Estados-Membros submeteram os respetivos programas apícolas nacionais e atualizaram o número de colmeias, conforme previsto no artigo 1.º, alínea a), do Regulamento (CE) n.º 917/2004. O número de colmeias atualizado deve figurar no anexo I do Regulamento (CE) n.º 917/2004.\n\n(5) O Regulamento (CE) n.º 917/2004 deve, por conseguinte, ser alterado em conformidade.\n\n(6) As alterações previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "ffaf1e7a4ad19323": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento (CE) n.º 917/2004 é alterado do seguinte modo:\n\n1. No artigo 2.º, os n.^os^ 2 e 3 passam a ter a seguinte redação: «2. Cada ano do programa apícola («ano apícola») decorre durante 12 meses consecutivos, de 1 de setembro a 31 de agosto. 3. As ações dos programas apícolas previstas para cada ano apícola devem ser executadas na íntegra durante o ano apícola em causa. Os pagamentos relativos às medidas executadas durante cada ano apícola devem ser efetuados durante o período de doze meses com início em 16 de outubro desse ano apícola e termo em 15 de outubro do ano seguinte.»\n\n2. O anexo I é substituído pelo texto constante do anexo do presente regulamento."
+  },
+  "485a4da9317e9df2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir do ano apícola de 2014 com início em 1 de setembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 8 de agosto de 2013.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "a3b5ffa23d24842d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/7280126f-00c5-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013214PT.01000701-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/7280126f-00c5-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013214PT.01000701-E0002) [JO L 163 de 30.4.2004, p. 83](http://publications.europa.eu/resource/oj/JOL_2004_163_R_TOC)."
+  },
+  "663751caff1d31f8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de [**►C1**](http://publications.europa.eu/resource/celex/32013R0768R%2801%29) 9 de agosto de 2013**◄**\n\nque altera o Regulamento (CE) n.º 917/2004 que estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho relativo a ações de melhoria das condições de produção e comercialização de produtos da apicultura\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/ca0db27e-fe8c-47cf-990e-637d863d897d.0015.02/DOC_1#E0001)), nomeadamente o artigo 110.º em conjugação com o artigo 4.º,\n\n(1) O Regulamento (CE) n.º 917/2004 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/ca0db27e-fe8c-47cf-990e-637d863d897d.0015.02/DOC_1#E0002)) estabelece disposições relativas à execução dos programas apícolas nacionais previstos no artigo 105.º do Regulamento (CE) n.º 1234/2007. Em conformidade com o artigo 2.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 917/2004, as ações dos programas apícolas, previstas para cada ano do período trienal, deverão ser executadas antes de 31 de agosto do exercício anual a que dizem respeito e os pagamentos atinentes deverão efetuar-se durante o exercício anual que decorre de 16 de outubro do mesmo ano a 15 de outubro do ano seguinte. Em consequência, os Estados-Membros não podem executar ações apícolas entre 1 de setembro do ano do programa apícola e 15 de outubro do mesmo ano.\n\n(2) A fim de evitar o hiato entre a execução e o financiamento das ações apícolas, as datas em questão devem ser alteradas para que as ações possam ser executadas durante todo o ano.\n\n(3) A participação da União no financiamento dos programas apícolas nacionais baseia-se no efetivo apícola/número de colmeias de cada Estado-Membro, conforme indicado no anexo I do Regulamento (CE) n.º 917/2004.\n\n(4) Em conformidade com o artigo 109.º do Regulamento (CE) n.º 1234/2007, os Estados-Membros submeteram os respetivos programas apícolas nacionais e atualizaram o número de colmeias, conforme previsto no artigo 1.º, alínea a), do Regulamento (CE) n.º 917/2004. O número de colmeias atualizado deve figurar no anexo I do Regulamento (CE) n.º 917/2004.\n\n(5) O Regulamento (CE) n.º 917/2004 deve, por conseguinte, ser alterado em conformidade.\n\n(6) As alterações previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "336a39e403fe356f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento (CE) n.º 917/2004 é alterado do seguinte modo:\n\n1. No artigo 2.º, os n.^os^ 2 e 3 passam a ter a seguinte redação:\n\n«2. Cada ano do programa apícola (“ano apícola”) decorre durante 12 meses consecutivos, de 1 de setembro a 31 de agosto.\n\n3. As ações dos programas apícolas previstas para cada ano apícola devem ser executadas na íntegra durante o ano apícola em causa.\n\nOs pagamentos relativos às medidas executadas durante cada ano apícola devem ser efetuados durante o período de doze meses com início em 16 de outubro desse ano apícola e termo em 15 de outubro do ano seguinte.»\n\n2. O anexo I é substituído pelo texto constante do anexo do presente regulamento."
+  },
+  "aef84af2c892483a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir do ano apícola de 2014 com início em 1 de setembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "3f25406f1b5782e9": {
+   "fragment_id": "«ANEXO I",
+   "type": "divisao",
+   "heading": "«ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO I\n\n| Estado-Membro | Efetivo apícola Número de colmeias |\n| --- | --- |\n| BE | 107 800 |\n| BG | 526 014 |\n| CZ | 540 705 |\n| DK | 150 000 |\n| DE | 711 299 |\n| EE | 41 400 |\n| IE | 15 710 |\n| EL | 1 584 206 |\n| ES | 2 459 292 |\n| FR | 1 636 000 |\n| [▼C2](http://publications.europa.eu/resource/celex/32013R0768R%2803%29) |  |\n| HR | 491 981 |\n| [▼B](http://publications.europa.eu/resource/celex/32013R0768) |  |\n| IT | 1 316 774 |\n| CY | 44 953 |\n| LV | 83 801 |\n| LT | 144 969 |\n| LU | 7 804 |\n| HU | 1 088 590 |\n| MT | 3 142 |\n| NL | 80 000 |\n| AT | 376 485 |\n| PL | 1 280 693 |\n| PT | 566 793 |\n| RO | 1 550 000 |\n| SI | 167 000 |\n| SK | 254 859 |\n| FI | 50 000 |\n| SE | 150 000 |\n| UK | 274 000 |\n| UE 28 | 15 704 270» |\n\n---"
+  },
+  "7a7814a76f267380": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ca0db27e-fe8c-47cf-990e-637d863d897d.0015.02/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ca0db27e-fe8c-47cf-990e-637d863d897d.0015.02/DOC_1#src.E0002)) JO L 163 de 30.4.2004, p. 83."
+  },
+  "49f88da6a5d5652d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02013R0768 — PT — 09.08.2015 — 001.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32013R0768) [REGULAMENTO DE EXECUÇÃO (UE) N.º 768/2013 DA COMISSÃO](http://publications.europa.eu/resource/celex/32013R0768) [de9 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0768) [que altera o Regulamento (CE) n.º 917/2004 que estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho relativo a ações de melhoria das condições de produção e comercialização de produtos da apicultura](http://publications.europa.eu/resource/celex/32013R0768) (JO L 214, 9.8.2013, p.7)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) 2015/1366 da Comissão de 11 de maio de 2015](http://publications.europa.eu/resource/celex/32015R1366) — L 211 — 3 — 8.8.2015"
+  }
+ }
+}

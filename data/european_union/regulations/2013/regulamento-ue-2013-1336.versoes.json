@@ -1,0 +1,121 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1336:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1336-20160418",
+ "dre_path": null,
+ "source_lastmod": "2016-04-18",
+ "versions": [
+  {
+   "date": "2013-12-14",
+   "future": false,
+   "celex": "32013R1336",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f9d5e3c409a33075",
+    "5bc61269517fa374",
+    "9de10f3ebde0b605",
+    "8241dd3de7f5e7cd",
+    "b4749e7f914fbe1b",
+    "4c1faec9d9023971"
+   ]
+  },
+  {
+   "date": "2016-04-18",
+   "future": false,
+   "celex": "02013R1336-20160418",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0024:por",
+     "title": "DIRETIVA 2014/24/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro de 2014",
+     "published": null,
+     "celex": "32014L0024"
+    },
+    {
+     "id": "eu:celex:32014L0025:por",
+     "title": "DIRETIVA 2014/25/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro de 2014",
+     "published": null,
+     "celex": "32014L0025"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ab3eceb04da0783e",
+    "8241dd3de7f5e7cd",
+    "936e8398fcc4fbbe"
+   ]
+  }
+ ],
+ "fragments": {
+  "f9d5e3c409a33075": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de dezembro de 2013\n\nque altera as Diretivas 2004/17/CE, 2004/18/CE e 2009/81/CE do Parlamento Europeu e do Conselho no respeitante aos limiares de aplicação no contexto dos processos de adjudicação de contratos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2004/17/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação de contratos nos setores da água, da energia, dos transportes e dos serviços postais [([^1])](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013335PT.01001701-E0001), e, nomeadamente, o seu artigo 69.º,\n\nTendo em conta a Diretiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços [([^2])](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013335PT.01001701-E0002), nomeadamente o artigo 78.º,\n\nTendo em conta a Diretiva 2009/81/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, relativa à coordenação dos processos de adjudicação de determinados contratos de empreitada, contratos de fornecimento e contratos de serviços por autoridades ou entidades adjudicantes nos domínios da defesa e da segurança, e que altera as Diretivas 2004/17/CE e 2004/18/CE [([^3])](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2013335PT.01001701-E0003), e, nomeadamente, o seu artigo 68.º,\n\nConsiderando o seguinte:\n\n(1) Através da Decisão 94/800/CE [([^4])](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2013335PT.01001701-E0004), o Conselho concluiu o Acordo sobre Contratos Públicos (adiante designado por «Acordo»). O Acordo é aplicável a qualquer contrato público de valor igual ou superior aos montantes (adiante designados por «limiares») nele estabelecidos, expressos em direitos de saque especiais.\n\n(2) Um dos objetivos das Diretivas 2004/17/CE e 2004/18/CE consiste em permitir que as entidades adjudicantes que aplicam essas diretivas cumpram simultaneamente as obrigações previstas no Acordo. Para tal, os limiares estabelecidos pelas referidas diretivas para os contratos públicos que são também abrangidos pelo Acordo devem ser harmonizados de forma a garantir que correspondam ao contravalor em EUR, arredondado ao milhar inferior, dos limiares estabelecidos no Acordo.\n\n(3) Por motivos de coerência, é adequado harmonizar também os limiares das Diretivas 2004/17/CE e 2004/18/CE que não são abrangidos pelo Acordo. Os limiares estabelecidos pela Diretiva 2009/81/CE devem também ser harmonizados com os limiares revistos estabelecidos pelo artigo 16.º da Diretiva 2004/17/CE.\n\n(4) Importa, por conseguinte, alterar em conformidade as Diretivas 2004/17/CE, 2004/18/CE e 2009/81/CE.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Consultivo para os Contratos de Direito Público,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "5bc61269517fa374": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Diretiva 2004/17/CE é alterada nos termos seguintes:\n\n1) O artigo 16.º é alterado do seguinte modo: a) Na alínea a), o montante «400 000 EUR» é substituído por «414 000 EUR»; b) Na alínea b), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR».\n\na) Na alínea a), o montante «400 000 EUR» é substituído por «414 000 EUR»;\n\nb) Na alínea b), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR».\n\n2) O artigo 61.º é alterado do seguinte modo: a) No n.º 1, o montante «400 000 EUR» é substituído por «414 000 EUR»; b) No n.º 2, o montante «400 000 EUR» é substituído por «414 000 EUR».\n\na) No n.º 1, o montante «400 000 EUR» é substituído por «414 000 EUR»;\n\nb) No n.º 2, o montante «400 000 EUR» é substituído por «414 000 EUR»."
+  },
+  "9de10f3ebde0b605": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Diretiva 2004/18/CE é alterada nos termos seguintes:\n\n1) O artigo 7.º é alterado do seguinte modo: a) Na alínea a), o montante «130 000 EUR» é substituído por «134 000 EUR»; b) Na alínea b), o montante «200 000 EUR» é substituído por «207 000 EUR»; c) Na alínea c), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR».\n\na) Na alínea a), o montante «130 000 EUR» é substituído por «134 000 EUR»;\n\nb) Na alínea b), o montante «200 000 EUR» é substituído por «207 000 EUR»;\n\nc) Na alínea c), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR».\n\n2) O artigo 8.º, primeiro parágrafo, é alterado do seguinte modo: a) Na alínea a), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR»; b) Na alínea b), o montante «200 000 EUR» é substituído por «207 000 EUR».\n\na) Na alínea a), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR»;\n\nb) Na alínea b), o montante «200 000 EUR» é substituído por «207 000 EUR».\n\n3) No artigo 56.º, o montante «5 000 000 EUR» é substituído por «5 186 000 EUR».\n\n4) No artigo 63.º, n.º 1, primeiro parágrafo, o montante «5 000 000 EUR» é substituído por «5 186 000 EUR».\n\n5) No artigo 67.º, o n.º 1 é alterado do seguinte modo: a) Na alínea a), o montante «130 000 EUR» é substituído por «134 000 EUR»; b) Na alínea b), o montante «200 000 EUR» é substituído por «207 000 EUR»; c) Na alínea c), o montante «200 000 EUR» é substituído por «207 000 EUR».\n\na) Na alínea a), o montante «130 000 EUR» é substituído por «134 000 EUR»;\n\nb) Na alínea b), o montante «200 000 EUR» é substituído por «207 000 EUR»;\n\nc) Na alínea c), o montante «200 000 EUR» é substituído por «207 000 EUR»."
+  },
+  "8241dd3de7f5e7cd": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO artigo 8.º da Diretiva 2009/81/CE é alterado do seguinte modo:\n\n1) Na alínea a), o montante «400 000 EUR» é substituído por «414 000 EUR».\n\n2) Na alínea b), o montante «5 000 000 EUR» é substituído por «5 186 000 EUR»."
+  },
+  "b4749e7f914fbe1b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor em 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 13 de dezembro de 2013.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "4c1faec9d9023971": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013335PT.01001701-E0001) [JO L 134 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_134_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013335PT.01001701-E0002) [JO L 134 de 30.4.2004, p. 114](http://publications.europa.eu/resource/oj/JOL_2004_134_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2013335PT.01001701-E0003) [JO L 216 de 20.8.2009, p. 76](http://publications.europa.eu/resource/oj/JOL_2009_216_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2013335PT.01001701-E0004) Decisão 94/800/CE do Conselho, de 22 de dezembro de 1994, relativa à celebração, em nome da Comunidade Europeia e em relação às matérias da sua competência, dos acordos resultantes das negociações multilaterais do Uruguay Round (1986-1994) ([JO L 336 de 23.12.1994, p. 1](http://publications.europa.eu/resource/oj/JOL_1994_336_R_TOC))."
+  },
+  "ab3eceb04da0783e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de dezembro de 2013\n\nque altera as Diretivas 2004/17/CE, 2004/18/CE e 2009/81/CE do Parlamento Europeu e do Conselho no respeitante aos limiares de aplicação no contexto dos processos de adjudicação de contratos\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "936e8398fcc4fbbe": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor em 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  }
+ }
+}

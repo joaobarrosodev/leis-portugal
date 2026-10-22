@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-04-26'
+version_history:
+  file: regulamento-ue-2013-812.versoes.json
+  count: 2
+  source_lastmod: '2018-04-26'
+  versions:
+  - date: '2013-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-26'
+    amending: eu:celex:32014R0518:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014; REGULAMENTO DELEGADO (UE) 2017/254
+      DA COMISSÃO de 30 de novembro de 2016; M3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Responsabilidades dos fornecedores e calendário
+    - Altera Artigo 4.º — Responsabilidades dos distribuidores
+    - Altera Artigo 8.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Definições aplicáveis aos anexos II a IX
+    - Adita ANEXO II
+    - Adita Classes de eficiência energética
+    - Adita 1. CLASSES DE EFICIÊNCIA ENERGÉTICA DO AQUECIMENTO DE ÁGUA DOS AQUECEDORES DE ÁGUA
+    - Adita 2. CLASSES DE EFICIÊNCIA ENERGÉTICA DOS RESERVATÓRIOS DE ÁGUA QUENTE
+    - Adita ANEXO III
+    - Adita Os rótulos
+    - Adita 1. AQUECEDORES DE ÁGUA
+    - Adita 2. RESERVATÓRIOS DE ÁGUA QUENTE
+    - Adita 3. SISTEMAS MISTOS DE AQUECEDOR DE ÁGUA E DISPOSITIVO SOLAR
+    - Adita ANEXO IV
+    - Adita Ficha de produto
+    - Adita 3. DISPOSITIVOS SOLARES
+    - Adita 4. SISTEMAS MISTOS DE AQUECEDOR DE ÁGUA E DISPOSITIVO SOLAR
+    - Adita ANEXO V
+    - Adita Documentação técnica
+    - Adita ANEXO VI
+    - Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto,
+      exceto na Internet
+    - Adita ANEXO VII
+    - Adita Medições
+    - Adita ANEXO VIII
+    - Adita Método de cálculo da eficiência energética do aquecimento de água dos aquecedores de água
+    - Adita ANEXO IX
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Adita ANEXO X
+    - Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet
 identifiers:
   celex: 32013R0812
   eli: http://data.europa.eu/eli/reg_del/2013/812/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/32299d7f-172a-11e3-8d1c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/1c3e1207-f28d-41f6-a374-02c860ac198e.0015.02/DOC_103
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0812-20180426
-  retrieved_at: '2026-10-22T03:16:49Z'
+  retrieved_at: '2026-10-22T16:21:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:03:24.404+02:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:49Z'
-  notes: Texto consolidado 02013R0812-20180426.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:21:28Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-812.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,35 +178,21 @@ relationships:
   date: '2023-11-07'
 article_structure:
   article_count: 8
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:49Z'
-  warnings: []
+  checked_at: '2026-10-22T16:21:28Z'
+  warnings:
+  - '02013R0812-20140606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0812-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 812/2013 da Comissão, de 18 de fevereiro de 2013
-
-> 02013R0812 — PT — 26.04.2018 — 003.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0518) — [REGULAMENTO DELEGADO (UE) N.º 518/2014 DA COMISSÃO de 5 de março de 2014](http://publications.europa.eu/resource/celex/32014R0518) — L 147 — 1 — 17.5.2014
-- [►M2](http://publications.europa.eu/resource/celex/32017R0254) — [REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32017R0254) — L 38 — 1 — 15.2.2017
-- [M3](http://publications.europa.eu/resource/celex/32018R0543) — [REGULAMENTO DELEGADO (UE) 2018/543 DA COMISSÃO de 23 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0543) — L 90 — 63 — 6.4.2018
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R0812R%2803%29) — [Rectificação, JO L, 7.11.2023, p. 1 (n.o 812/2013)](http://publications.europa.eu/resource/celex/32013R0812R%2803%29)
-
-## REGULAMENTO DELEGADO (UE) N.º 812/2013 DA COMISSÃO
 
 de 18 de fevereiro de 2013
 

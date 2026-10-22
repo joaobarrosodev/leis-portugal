@@ -37,6 +37,242 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2013-1307.versoes.json
+  count: 11
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-01'
+    amending: eu:celex:32013R1310:por
+    amending_title: REGULAMENTO (UE) N. o 1310/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013; REGULAMENTO
+      DELEGADO (UE) N. o 639/2014 DA COMISSÃO de 11 de março de 2014; REGULAMENTO DELEGADO (UE) N. o 994/2014 DA COMISSÃO
+      de 13 de maio de 2014; REGULAMENTO DELEGADO (UE) N. o 1001/2014 DA COMISSÃO de 18 de julho de 2014; REGULAMENTO DELEGADO
+      (UE) N. o 1378/2014 DA COMISSÃO de 17 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Limites máximos nacionais
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Artigo 26.º — Cálculo do valor unitário inicial
+    - Altera Artigo 31.º — Aprovisionamento da reserva nacional ou das reservas regionais
+    - Altera Artigo 32.º — Ativação dos direitos ao pagamento
+    - Altera Artigo 35.º — Poderes delegados
+    - Altera Artigo 36.º — Regime de pagamento único por superfície
+    - Altera Artigo 53.º — Disposições financeiras
+    - Altera Artigo 72.º — Revogações
+    - Altera Artigo 74.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Limites máximos nacionais referidos no artigo 6.º
+    - Adita ANEXO III
+    - Adita Limites máximos líquidos referidos no artigo 7.º
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Disposições financeiras aplicáveis à Bulgária e à Roménia a que se referem os artigos 10.º, 16.º e 18.º
+    - Adita ANEXO VI
+    - Adita Disposições financeiras aplicáveis à Croácia a que se referem os artigos 10.º e 19.º
+    - Adita ANEXO VII
+    - Adita ANEXO VIII
+    - Adita ANEXO IX
+    - Adita Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Adita ANEXO X
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^24^](http://publications.europa.eu/resource/cellar/53e914a8-4837-4ed5-aa6d-c94e5cd2f7db.0016.03/DOC_2#E0026))
+    - Adita ANEXO XI
+  - date: '2015-06-03'
+    amending: eu:celex:32015R0851:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/851 DA COMISSÃO de 27 de março de 2015; REGULAMENTO DELEGADO (UE) 2016/142
+      DA COMISSÃO de 2 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 23.º — Repartição regional dos limites máximos nacionais
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Artigo 25.º — Valor dos direitos ao pagamento e convergência
+    - Altera Artigo 26.º — Cálculo do valor unitário inicial
+    - Altera Artigo 41.º — Regras gerais
+    - Altera Artigo 50.º — Regras gerais
+    - Altera Artigo 61.º — Regras gerais
+    - Altera Artigo 63.º — Montante do pagamento
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+    - Adita Limites máximos nacionais a que se refere o artigo 6.º
+    - Adita Limites máximos nacionais a que se refere o artigo 7.º
+    - Adita Disposições financeiras aplicáveis à Croácia, a que se referem os artigos 10.º e 19.º
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^24^](http://publications.europa.eu/resource/cellar/0a015ddd-621f-4a1d-9484-ec2411fc30ce.0015.03/DOC_3#E0026))
+    - Suprime Limites máximos nacionais referidos no artigo 6.º
+    - Suprime Limites máximos líquidos referidos no artigo 7.º
+    - Suprime Disposições financeiras aplicáveis à Croácia a que se referem os artigos 10.º e 19.º
+    - Suprime Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^24^](http://publications.europa.eu/resource/cellar/53e914a8-4837-4ed5-aa6d-c94e5cd2f7db.0016.03/DOC_2#E0026))
+  - date: '2017-07-03'
+    amending: eu:celex:32017R1155:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/1155 DA COMISSÃO de 15 de fevereiro de 2017
+    changes:
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Limites máximos nacionais a que se refere o artigo 7.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3, a aplicar aos elementos incluídos nas
+      práticas equivalentes enumeradas no anexo IX, secção III
+    - Suprime Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^24^](http://publications.europa.eu/resource/cellar/0a015ddd-621f-4a1d-9484-ec2411fc30ce.0015.03/DOC_3#E0026))
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2393:por
+    amending_title: REGULAMENTO (UE) 2017/2393 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017
+    changes:
+    - Altera Artigo 4.º — Definições e disposições conexas
+    - Altera Artigo 6.º — Limites máximos nacionais
+    - Altera Artigo 9.º — Agricultor ativo
+    - Altera Artigo 11.º — Redução dos pagamentos
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 14.º — Flexibilidade entre pilares
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Artigo 31.º — Aprovisionamento da reserva nacional ou das reservas regionais
+    - Altera Artigo 36.º — Regime de pagamento único por superfície
+    - Altera Artigo 44.º — Diversificação das culturas
+    - Altera Artigo 46.º — Superfície de interesse ecológico
+    - Altera Artigo 50.º — Regras gerais
+    - Altera Artigo 52.º — Regras gerais
+    - Altera Artigo 53.º — Disposições financeiras
+    - Altera Artigo 70.º — Exercício da delegação
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Limites máximos nacionais a que se refere o artigo 7.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3
+    - Altera Notas
+  - date: '2018-02-05'
+    amending: eu:celex:32018R0162:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/162 DA COMISSÃO de 23 de novembro de 2017
+    changes:
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+    - Adita Limites máximos líquidos a que se refere o artigo 7.º
+    - Suprime Limites máximos nacionais a que se refere o artigo 7.º
+  - date: '2020-02-01'
+    amending: eu:celex:32019R0071:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/71 DA COMISSÃO de 9 de novembro de 2018; REGULAMENTO (UE) 2019/288 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 13 de fevereiro de 2019; REGULAMENTO (UE) 2020/127 DO PARLAMENTO EUROPEU E DO CONSELHO de 29
+      de janeiro de 2020; REGULAMENTO DELEGADO (UE) 2020/756 DA COMISSÃO de 1 de abril de 2020; REGULAMENTO DELEGADO (UE)
+      2020/1314 DA COMISSÃO de 10 de julho de 2020
+    changes:
+    - Altera Artigo 7.º — Limites máximos líquidos
+    - Altera Artigo 11.º — Redução dos pagamentos
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 14.º — Flexibilidade entre pilares
+    - Altera Artigo 17.º — Introdução gradual dos pagamentos diretos na Croácia
+    - Altera Artigo 22.º — Limite máximo do regime de pagamento de base
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Artigo 53.º — Disposições financeiras
+    - Altera Artigo 63.º — Montante do pagamento
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Limites máximos líquidos a que se refere o artigo 7.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+    - Adita ANEXO VI-A
+    - Adita Montantes máximos referidos no artigo 14.º, n.º 2
+  - date: '2020-12-29'
+    amending: eu:celex:32020R2220:por
+    amending_title: REGULAMENTO (UE) 2020/2220 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020
+    changes:
+    - Altera Artigo 11.º — Redução dos pagamentos
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 14.º — Flexibilidade entre pilares
+    - Altera Artigo 22.º — Limite máximo do regime de pagamento de base
+    - Altera Artigo 23.º — Repartição regional dos limites máximos nacionais
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Artigo 25.º — Valor dos direitos ao pagamento e convergência
+    - Altera Artigo 29.º — Notificações relativas ao valor dos direitos ao pagamento e à convergência
+    - Altera Artigo 30.º — Estabelecimento e utilização da reserva nacional ou reservas regionais
+    - Altera Artigo 36.º — Regime de pagamento único por superfície
+    - Altera Artigo 37.º — Ajuda nacional transitória
+    - Altera Artigo 41.º — Regras gerais
+    - Altera Artigo 42.º — Disposições financeiras
+    - Altera Artigo 49.º — Disposições financeiras
+    - Altera Artigo 51.º — Disposições financeiras
+    - Altera Artigo 52.º — Regras gerais
+    - Altera Artigo 53.º — Disposições financeiras
+    - Altera Artigo 54.º — Notificação
+    - Altera Artigo 58.º — Superfícies de base, rendimentos fixos e montantes de referência
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Limites máximos líquidos a que se refere o artigo 7.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32021R1017:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1017 DA COMISSÃO de 15 de abril de 2021
+    changes:
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 14.º — Flexibilidade entre pilares
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Limites máximos líquidos a que se refere o artigo 7.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: eu:celex:32022R0042:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/42 DA COMISSÃO de 8 de novembro de 2021
+    changes:
+    - Altera Artigo 13.º — Auxílios estatais
+    - Altera Artigo 14.º — Flexibilidade entre pilares
+    - Altera Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Altera Limites máximos nacionais a que se refere o artigo 6.º
+    - Altera Limites máximos líquidos a que se refere o artigo 7.º
+    - Altera Lista de práticas equivalentes a que se refere o artigo 43.º, n.º 3
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Alteração do Anexo I
+    - Suprime Artigo 3.º — Aplicação às regiões ultraperiféricas e às ilhas menores do mar Egeu
+    - Suprime Artigo 4.º — Definições e disposições conexas
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES GERAIS RELATIVAS AOS PAGAMENTOS DIRETOS
+    - Suprime CAPÍTULO 1
+    - Suprime Regras comuns relativas aos pagamentos diretos
+    - Suprime Artigo 5.º — Disposições gerais da política agrícola comum
+    - Suprime Artigo 6.º — Limites máximos nacionais
+    - Suprime Artigo 7.º — Limites máximos líquidos
+    - Suprime Artigo 8.º — Disciplina financeira
+    - Suprime Artigo 9.º — Agricultor ativo
+    - Suprime Artigo 10.º — Requisitos mínimos para a concessão dos pagamentos diretos
+    - Suprime Artigo 11.º — Redução dos pagamentos
+    - Suprime Artigos 12.º — Pedidos múltiplos
+    - Suprime Artigo 13.º — Auxílios estatais
+    - Suprime Artigo 14.º — Flexibilidade entre pilares
+    - Suprime Artigo 15.º — Revisão
+    - Suprime CAPÍTULO 2
+    - Suprime Disposições aplicáveis à Bulgária, à Croácia e à Roménia
+    - Suprime Artigo 16.º — Introdução gradual dos pagamentos diretos na Bulgária e na Roménia
+    - Suprime Artigo 17.º — Introdução gradual dos pagamentos diretos na Croácia
+    - Suprime Artigo 18.º — Pagamentos diretos nacionais complementares e pagamentos diretos na Bulgária e na Roménia
+    - Suprime Artigo 19.º — Pagamentos diretos nacionais complementares para a Croácia
+    - Suprime Artigo 20.º — Reserva nacional especial para a desminagem na Croácia
+    - Suprime TÍTULO III
+    - Suprime REGIME DE PAGAMENTO DE BASE, REGIME DE PAGAMENTO ÚNICO POR SUPERFÍCIE E PAGAMENTOS CONEXOS
+    - Suprime Regime de pagamento de base e regime de pagamento único por superfície
+    - Suprime Secção 1
+    - Suprime Instauração do regime de pagamento de base
+    - Suprime Artigo 21.º — Direitos aos pagamentos
+    - Suprime Artigo 22.º — Limite máximo do regime de pagamento de base
+    - Suprime Artigo 23.º — Repartição regional dos limites máximos nacionais
+    - Suprime Artigo 24.º — Primeira atribuição dos direitos ao pagamento
+    - Suprime Artigo 25.º — Valor dos direitos ao pagamento e convergência
+    - Suprime Artigo 26.º — Cálculo do valor unitário inicial
 identifiers:
   celex: 32013R1307
   eli: http://data.europa.eu/eli/reg/2013/1307/oj
@@ -51,7 +287,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/69850116-6c04-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/ef02041c-9d73-11ed-b508-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1307-20230101
-  retrieved_at: '2026-10-22T02:35:07Z'
+  retrieved_at: '2026-10-22T16:24:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T21:33:48.838+02:00'
 integrity:
@@ -60,9 +296,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:07Z'
-  notes: Texto consolidado 02013R1307-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:24:12Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2013-1307.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -588,16 +824,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:07Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:24:12Z'
+  warnings: []
   errors: []
 ---
 

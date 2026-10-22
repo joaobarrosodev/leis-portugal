@@ -36,6 +36,176 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: diretiva-ue-2014-25.versoes.json
+  count: 7
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2014-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: eu:celex:32015R2171:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/2171 DA COMISSÃO de 24 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autoridades adjudicantes
+    - Altera Artigo 13.º — Serviços postais
+    - Altera Artigo 15.º — Montantes limiares
+    - Altera Artigo 21.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 23.º — Contratos celebrados por certas entidades adjudicantes para aquisição de água e para fornecimento
+      de energia ou de combustíveis destinados à produção de energia
+    - Altera Artigo 33.º — Contratos sujeitos a regimes especiais
+    - Altera Artigo 40.º — Regras aplicáveis à comunicação
+    - Altera Artigo 50.º — Utilização de um procedimento por negociação sem abertura prévia de concurso
+    - Altera Artigo 57.º — Contratos que envolvem entidades adjudicantes de vários Estados-Membros
+    - Altera Artigo 62.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 83.º — Cálculo dos custos do ciclo de vida
+    - Altera Artigo 85.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 89.º — Modificação de contratos durante o seu período de vigência
+    - Altera Artigo 99.º — Execução
+    - Altera Artigo 102.º — Cooperação administrativa
+    - Altera Artigo 105.º — Procedimento de comité
+    - Altera Artigo 110.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS ATIVIDADES CONFORME ESTABELECIDO NO ARTIGO 2.º, N.º 2, ALÍNEA A)
+    - Adita ANEXO II
+    - Adita LISTA DOS ATOS JURÍDICOS DA UNIÃO REFERIDA NO ARTIGO 4.º, N.º 3
+    - Adita ANEXO III
+    - Adita LISTA DOS ATOS JURÍDICOS DA UNIÃO REFERIDA NO ARTIGO 34.º, N.º 3
+    - Adita A. Transporte ou distribuição de gás ou de combustível para aquecimento
+    - Adita B. Produção, transporte ou distribuição de eletricidade
+    - Adita C. Produção, transporte ou distribuição de água potável
+    - Adita D. Entidades adjudicantes no domínio dos serviços ferroviários
+    - Adita E. Entidades adjudicantes no domínio dos serviços urbanos de transporte por caminho de ferro, carro elétrico,
+      trólei ou autocarro
+    - Adita F. Entidades adjudicantes no domínio dos serviços postais
+    - Adita G. Extração de petróleo ou gás
+    - Adita H. Prospeção e extração de carvão e de outros combustíveis sólidos
+    - Adita I. Entidades adjudicantes no domínio dos portos marítimos ou fluviais ou outros equipamentos terminais
+    - Adita J. Entidades adjudicantes no domínio das instalações aeroportuárias
+    - Adita ANEXO IV
+    - Adita PRAZOS PARA A ADOÇÃO DOS ATOS DE EXECUÇÃO A QUE SE REFERE O ARTIGO 35.º
+    - Adita ANEXO V
+    - Adita REQUISITOS PARA OS INSTRUMENTOS E DISPOSITIVOS DE RECEÇÃO ELETRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO,
+      DE PEDIDOS DE QUALIFICAÇÃO OU DE PLANOS E PROJETOS NO ÂMBITO DOS CONCURSOS
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2364:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/2364 DA COMISSÃO de 18 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Autoridades adjudicantes
+    - Altera Artigo 13.º — Serviços postais
+    - Altera Artigo 15.º — Montantes limiares
+    - Altera Artigo 21.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 33.º — Contratos sujeitos a regimes especiais
+    - Altera Artigo 40.º — Regras aplicáveis à comunicação
+    - Altera Artigo 57.º — Contratos que envolvem entidades adjudicantes de vários Estados-Membros
+    - Altera Artigo 62.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 85.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 99.º — Execução
+    - Altera Artigo 102.º — Cooperação administrativa
+    - Altera Artigo 105.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES CONFORME ESTABELECIDO NO ARTIGO 2.º, N.º 2, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XVII
+    - Altera Notas
+    - Adita I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/77c2dd0d-a43f-4d86-a6f1-14f1f0e6a8c3.0015.02/DOC_1#E0021))
+    - Suprime I. Informações para publicação no Jornal Oficial da União Europeia ([^49^](http://publications.europa.eu/resource/cellar/01d39ebd-21ee-403c-802d-6c0a0f6230bb.0015.02/DOC_1#E0050))
+  - date: '2020-01-01'
+    amending: eu:celex:32019R1829:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1829 DA COMISSÃO de 30 de outubro de 2019
+    changes:
+    - Altera Artigo 3.º — Autoridades adjudicantes
+    - Altera Artigo 13.º — Serviços postais
+    - Altera Artigo 15.º — Montantes limiares
+    - Altera Artigo 21.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 33.º — Contratos sujeitos a regimes especiais
+    - Altera Artigo 40.º — Regras aplicáveis à comunicação
+    - Altera Artigo 57.º — Contratos que envolvem entidades adjudicantes de vários Estados-Membros
+    - Altera Artigo 62.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 85.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 99.º — Execução
+    - Altera Artigo 102.º — Cooperação administrativa
+    - Altera Artigo 105.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES CONFORME ESTABELECIDO NO ARTIGO 2.º, N.º 2, ALÍNEA A)
+    - Altera D. Entidades adjudicantes no domínio dos serviços ferroviários
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XVII
+    - Altera Notas
+    - Adita I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/55edc85d-4376-11ea-b81b-01aa75ed71a1.0019.03/DOC_1#E0021))
+    - Suprime I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/77c2dd0d-a43f-4d86-a6f1-14f1f0e6a8c3.0015.02/DOC_1#E0021))
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1953:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1953 DA COMISSÃO de 10 de novembro de 2021
+    changes:
+    - Altera Artigo 3.º — Autoridades adjudicantes
+    - Altera Artigo 13.º — Serviços postais
+    - Altera Artigo 15.º — Montantes limiares
+    - Altera Artigo 21.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 33.º — Contratos sujeitos a regimes especiais
+    - Altera Artigo 40.º — Regras aplicáveis à comunicação
+    - Altera Artigo 55.º — Atividades de compras centralizadas e centrais de compras
+    - Altera Artigo 57.º — Contratos que envolvem entidades adjudicantes de vários Estados-Membros
+    - Altera Artigo 62.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 85.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 99.º — Execução
+    - Altera Artigo 102.º — Cooperação administrativa
+    - Altera Artigo 105.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES CONFORME ESTABELECIDO NO ARTIGO 2.º, N.º 2, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera A. CONCURSOS ABERTOS
+    - Altera ANEXO XVII
+    - Altera Notas
+    - Adita I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/6cb934f2-5279-11ec-91ac-01aa75ed71a1.0019.03/DOC_2#E0021))
+    - Suprime I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/55edc85d-4376-11ea-b81b-01aa75ed71a1.0019.03/DOC_1#E0021))
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2496:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2496 DA COMISSÃO de 15 de novembro de 2023
+    changes:
+    - Altera Artigo 3.º — Autoridades adjudicantes
+    - Altera Artigo 13.º — Serviços postais
+    - Altera Artigo 15.º — Montantes limiares
+    - Altera Artigo 21.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 33.º — Contratos sujeitos a regimes especiais
+    - Altera Artigo 40.º — Regras aplicáveis à comunicação
+    - Altera Artigo 57.º — Contratos que envolvem entidades adjudicantes de vários Estados-Membros
+    - Altera Artigo 62.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 85.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 99.º — Execução
+    - Altera Artigo 102.º — Cooperação administrativa
+    - Altera Artigo 105.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES CONFORME ESTABELECIDO NO ARTIGO 2.º, N.º 2, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XVII
+    - Altera Notas
+    - Adita I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/0641cd51-937b-11ee-8aa6-01aa75ed71a1.0019.02/DOC_1#E0021))
+    - Suprime I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/6cb934f2-5279-11ec-91ac-01aa75ed71a1.0019.03/DOC_2#E0021))
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2150:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2150 DA COMISSÃO de 22 de outubro de 2025
+    changes:
+    - Altera Artigo 3.º — Autoridades adjudicantes
+    - Altera Artigo 13.º — Serviços postais
+    - Altera Artigo 15.º — Montantes limiares
+    - Altera Artigo 21.º — Exclusões específicas para os contratos de serviços
+    - Altera Artigo 33.º — Contratos sujeitos a regimes especiais
+    - Altera Artigo 40.º — Regras aplicáveis à comunicação
+    - Altera Artigo 57.º — Contratos que envolvem entidades adjudicantes de vários Estados-Membros
+    - Altera Artigo 62.º — Relatórios de ensaio, certificação e outros meios de prova
+    - Altera Artigo 85.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 99.º — Execução
+    - Altera Artigo 102.º — Cooperação administrativa
+    - Altera Artigo 105.º — Procedimento de comité
+    - Altera LISTA DAS ATIVIDADES CONFORME ESTABELECIDO NO ARTIGO 2.º, N.º 2, ALÍNEA A)
+    - Altera DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+    - Altera ANEXO XVII
+    - Altera Notas
+    - Adita I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/a0ff8521-e5ca-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1#E0021))
+    - Suprime I. Informações para publicação no Jornal Oficial da União Europeia ([^20^](http://publications.europa.eu/resource/cellar/0641cd51-937b-11ee-8aa6-01aa75ed71a1.0019.02/DOC_1#E0021))
 identifiers:
   celex: 32014L0025
   eli: http://data.europa.eu/eli/dir/2014/25/oj
@@ -50,7 +220,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3c100e84-b654-11e3-86f9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a0ff8521-e5ca-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0025-20260101
-  retrieved_at: '2026-10-22T02:36:18Z'
+  retrieved_at: '2026-10-22T16:27:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T22:34:19.067+02:00'
 integrity:
@@ -59,9 +229,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:18Z'
-  notes: Texto consolidado 02014L0025-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:27:17Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-2014-25.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -556,38 +726,20 @@ relationships:
   date: '2011-05-25'
 article_structure:
   article_count: 110
-  section_count: 132
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 133
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:18Z'
-  warnings: []
+  checked_at: '2026-10-22T16:27:17Z'
+  warnings:
+  - '02014L0025-20140417: versão indisponível (Sem expressão na língua por para CELEX 02014L0025-20140417.)'
   errors: []
 ---
 
 # Diretiva 2014/25/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014
-
-> 02014L0025 — PT — 01.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32015R2171) — [REGULAMENTO DELEGADO (UE) 2015/2171 DA COMISSÃO de 24 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2171) — L 307 — 7 — 25.11.2015
-- [M2](http://publications.europa.eu/resource/celex/32017R2364) — [REGULAMENTO DELEGADO (UE) 2017/2364 DA COMISSÃO de 18 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2364) — L 337 — 17 — 19.12.2017
-- [M3](http://publications.europa.eu/resource/celex/32019R1829) — [REGULAMENTO DELEGADO (UE) 2019/1829 DA COMISSÃO de 30 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1829) — L 279 — 27 — 31.10.2019
-- [M4](http://publications.europa.eu/resource/celex/32021R1953) — [REGULAMENTO DELEGADO (UE) 2021/1953 DA COMISSÃO de 10 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1953) — L 398 — 25 — 11.11.2021
-- [M5](http://publications.europa.eu/resource/celex/32023R2496) — [REGULAMENTO DELEGADO (UE) 2023/2496 DA COMISSÃO de 15 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2496) — L 2496 — 1 — 16.11.2023
-- [►M6](http://publications.europa.eu/resource/celex/32025R2150) — [REGULAMENTO DELEGADO (UE) 2025/2150 DA COMISSÃO de 22 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2150) — L 2150 — 1 — 23.10.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0025R%2808%29) — [Rectificação, JO L 90064, 3.11.2023, p. 1 (Diretiva 2014/25/UE)](http://publications.europa.eu/resource/celex/32014L0025R%2808%29)
-
-## DIRETIVA 2014/25/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de fevereiro de 2014
 

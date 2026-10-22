@@ -37,6 +37,368 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2013-1305.versoes.json
+  count: 14
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1310:por
+    amending_title: REGULAMENTO (UE) N. o 1310/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Prioridades da União em matéria de desenvolvimento rural
+    - Altera Artigo 8.º — Conteúdo dos programas de desenvolvimento rural
+    - Altera Artigo 11.º — Alteração dos programas de desenvolvimento rural
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 19.º — Desenvolvimento das explorações agrícolas e das empresas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 52.º — Rede europeia de desenvolvimento rural
+    - Altera Artigo 53.º — Rede Parceria Europeia de Inovação (PEI)
+    - Altera Artigo 54.º — Rede rural nacional
+    - Altera Artigo 58.º — Recursos e sua distribuição
+    - Altera Artigo 59.º — Contribuição do FEADER
+    - Altera Artigo 66.º — Autoridade de gestão
+    - Altera Artigo 90.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita LISTA INDICATIVA DE MEDIDAS E OPERAÇÕES DE PARTICULAR IMPORTÂNCIA PARA OS SUBPROGRAMAS TEMÁTICOS REFERIDOS NO
+      ARTIGO 7.º
+    - Adita ANEXO V
+    - Adita CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Adita ANEXO VI
+    - Adita LISTA INDICATIVA DE MEDIDAS DE INTERESSE PARA UMA OU VÁRIAS DAS PRIORIDADES DA UNIÃO EM MATÉRIA DE DESENVOLVIMENTO
+      RURAL
+  - date: '2014-09-25'
+    amending: eu:celex:32014R0994:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 994/2014 DA COMISSÃO de 13 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+    - Adita REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)
+  - date: '2014-12-24'
+    amending: eu:celex:32014R1378:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1378/2014 DA COMISSÃO de 17 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+  - date: '2015-05-23'
+    amending: eu:celex:32015R0791:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/791 DA COMISSÃO de 27 de abril de 2015; REGULAMENTO DELEGADO (UE) 2016/142
+      DA COMISSÃO de 2 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 11.º — Alteração dos programas de desenvolvimento rural
+    - Altera Artigo 15.º — Serviços de aconselhamento e serviços de gestão agrícola e de substituição nas explorações agrícolas
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 23.º — Implantação de sistemas agroflorestais
+    - Altera Artigo 26.º — Investimentos em tecnologias florestais e na transformação, mobilização e comercialização de produtos
+      florestais
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 28.º — Agroambiente e clima
+    - Altera Artigo 29.º — Agricultura biológica
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 32.º — Designação das zonas sujeitas a condicionantes naturais e outras condicionantes específicas
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 54.º — Rede rural nacional
+    - Altera Artigo 58.º — Recursos e sua distribuição
+    - Altera Artigo 59.º — Contribuição do FEADER
+    - Altera Artigo 83.º — Exercício da delegação
+    - Altera REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera LISTA INDICATIVA DE MEDIDAS DE INTERESSE PARA UMA OU VÁRIAS DAS PRIORIDADES DA UNIÃO EM MATÉRIA DE DESENVOLVIMENTO
+      RURAL
+    - Altera Notas
+  - date: '2017-05-20'
+    amending: eu:celex:32017R0825:por
+    amending_title: REGULAMENTO (UE) 2017/825 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de maio de 2017
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2393:por
+    amending_title: REGULAMENTO (UE) 2017/2393 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Conteúdo dos programas de desenvolvimento rural
+    - Altera Artigo 14.º — Transferência de conhecimentos e ações de informação
+    - Altera Artigo 15.º — Serviços de aconselhamento e serviços de gestão agrícola e de substituição nas explorações agrícolas
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 17.º — Investimentos em ativos físicos
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 19.º — Desenvolvimento das explorações agrícolas e das empresas
+    - Altera Artigo 20.º — Serviços básicos e renovação das aldeias em zonas rurais
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 28.º — Agroambiente e clima
+    - Altera Artigo 29.º — Agricultura biológica
+    - Altera Artigo 30.º — Pagamentos a título da rede Natura 2000 e da Diretiva-Quadro da Água
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 33.º — Bem-estar dos animais
+    - Altera Artigo 36.º — Gestão de riscos
+    - Altera Artigo 37.º — Seguro de colheitas, animais e plantas
+    - Altera Artigo 38.º — Fundos mutualistas para fenómenos climáticos adversos, doenças dos animais e das plantas, pragas
+      e incidentes ambientais
+    - Altera Artigo 45.º — Investimentos
+    - Altera Artigo 49.º — Seleção das operações
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 59.º — Contribuição do FEADER
+    - Altera Artigo 60.º — Elegibilidade das despesas
+    - Altera Artigo 62.º — Verificabilidade e controlabilidade das medidas
+    - Altera Artigo 66.º — Autoridade de gestão
+    - Altera Artigo 74.º — Responsabilidades do comité de acompanhamento
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+    - Adita Artigo 23.º — Implantação, regeneração ou renovação de sistemas agroflorestais
+    - Adita Artigo 39.º — Instrumento de estabilização dos rendimentos para os agricultores de todos os setores
+    - Adita Artigo 39.º-A — Instrumento de estabilização dos rendimentos para os agricultores de um setor específico
+    - Suprime Artigo 23.º — Implantação de sistemas agroflorestais
+    - Suprime Artigo 39.º — Instrumento de estabilização dos rendimentos
+  - date: '2018-02-05'
+    amending: eu:celex:32018R0162:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/162 DA COMISSÃO de 23 de novembro de 2017
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+  - date: '2019-03-01'
+    amending: eu:celex:32019R0071:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/71 DA COMISSÃO de 9 de novembro de 2018; REGULAMENTO (UE) 2019/288 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 13 de fevereiro de 2019
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+  - date: '2020-06-26'
+    amending: eu:celex:32020R0872:por
+    amending_title: REGULAMENTO (UE) 2020/872 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 49.º — Seleção das operações
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 59.º — Contribuição do FEADER
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera LISTA INDICATIVA DE MEDIDAS E OPERAÇÕES DE PARTICULAR IMPORTÂNCIA PARA OS SUBPROGRAMAS TEMÁTICOS REFERIDOS NO
+      ARTIGO 7.º
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera LISTA INDICATIVA DE MEDIDAS DE INTERESSE PARA UMA OU VÁRIAS DAS PRIORIDADES DA UNIÃO EM MATÉRIA DE DESENVOLVIMENTO
+      RURAL
+    - Altera Notas
+    - Adita Artigo 39.º-B — Apoio temporário excecional aos agricultores e às PME, particularmente afetados pela crise da
+      COVID-19
+  - date: '2021-01-01'
+    amending: eu:celex:32020R2220:por
+    amending_title: REGULAMENTO (UE) 2020/2220 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de dezembro de 2020; REGULAMENTO
+      DELEGADO (UE) 2021/399 DA COMISSÃO de 19 de janeiro de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Conteúdo dos programas de desenvolvimento rural
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 28.º — Agroambiente e clima
+    - Altera Artigo 29.º — Agricultura biológica
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 33.º — Bem-estar dos animais
+    - Altera Artigo 38.º — Fundos mutualistas para fenómenos climáticos adversos, doenças dos animais e das plantas, pragas
+      e incidentes ambientais
+    - Altera Artigo 39.º — Instrumento de estabilização dos rendimentos para os agricultores de todos os setores
+    - Altera Artigo 39.º-B — Apoio temporário excecional aos agricultores e às PME, particularmente afetados pela crise da
+      COVID-19
+    - Altera Artigo 42.º — Grupos de ação local LEADER
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 58.º — Recursos e sua distribuição
+    - Altera Artigo 59.º — Contribuição do FEADER
+    - Altera Artigo 75.º — Relatório anual de execução
+    - Altera Artigo 78.º — Avaliação ex post
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+    - Adita Artigo 58.º-A — Recursos para a recuperação do setor agrícola e das zonas rurais da União
+    - 'Adita PARTE 1: REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)'
+    - 'Adita SEGUNDA PARTE: REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2021 E 2022)'
+    - Adita ANEXO Ia
+    - Adita REPARTIÇÃO DOS RECURSOS ADICIONAIS POR ESTADO-MEMBRO, COMO REFERIDO NO ARTIGO 58.º-A
+    - Suprime REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2014 A 2020)
+  - date: '2021-06-25'
+    amending: eu:celex:32021R1017:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1017 DA COMISSÃO de 15 de abril de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 58.º-A — Recursos para a recuperação do setor agrícola e das zonas rurais da União
+    - 'Altera SEGUNDA PARTE: REPARTIÇÃO DO APOIO DA UNIÃO AO DESENVOLVIMENTO RURAL (2021 E 2022)'
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+  - date: '2022-06-30'
+    amending: eu:celex:32022R1033:por
+    amending_title: REGULAMENTO (UE) 2022/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de junho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Altera Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Altera Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Altera Artigo 27.º — Criação de agrupamentos e organizações de produtores
+    - Altera Artigo 31.º — Pagamentos a favor de zonas sujeitas a condicionantes naturais ou a outras condicionantes específicas
+    - Altera Artigo 49.º — Seleção das operações
+    - Altera Artigo 51.º — Financiamento da assistência técnica
+    - Altera Artigo 58.º-A — Recursos para a recuperação do setor agrícola e das zonas rurais da União
+    - Altera Artigo 59.º — Contribuição do FEADER
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera CONDICIONALIDADES EX ANTE PARA O DESENVOLVIMENTO RURAL
+    - Altera Notas
+    - Adita Artigo 39.º-C — Apoio temporário excecional aos agricultores e às PME, particularmente afetados pelo impacto da
+      invasão da Ucrânia pela Rússia
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime OBJETIVOS E ESTRATÉGIA
+    - Suprime CAPÍTULO I
+    - Suprime Objeto e definições
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime Missão, objetivos e prioridades
+    - Suprime Artigo 3.º — Missão
+    - Suprime Artigo 4.º — Objetivos
+    - Suprime Artigo 5.º — Prioridades da União em matéria de desenvolvimento rural
+    - Suprime TÍTULO II
+    - Suprime PROGRAMAÇÃO
+    - Suprime Conteúdo da programação
+    - Suprime Artigo 6.º — Programas de desenvolvimento rural
+    - Suprime Artigo 7.º — Subprogramas temáticos
+    - Suprime Artigo 8.º — Conteúdo dos programas de desenvolvimento rural
+    - Suprime Preparação, aprovação e alteração dos programas de desenvolvimento rural
+    - Suprime Artigo 9.º — Condicionalidades ex ante
+    - Suprime Artigo 10.º — Aprovação dos programas de desenvolvimento rural
+    - Suprime Artigo 11.º — Alteração dos programas de desenvolvimento rural
+    - Suprime Artigo 12.º — Regras relativas aos procedimentos e calendários
+    - Suprime TÍTULO III
+    - Suprime APOIO AO DESENVOLVIMENTO RURAL
+    - Suprime Medidas
+    - Suprime Artigo 13.º — Medidas
+    - Suprime Artigo 14.º — Transferência de conhecimentos e ações de informação
+    - Suprime Artigo 15.º — Serviços de aconselhamento e serviços de gestão agrícola e de substituição nas explorações agrícolas
+    - Suprime Artigo 16.º — Regimes de qualidade para os produtos agrícolas e os géneros alimentícios
+    - Suprime Artigo 17.º — Investimentos em ativos físicos
+    - Suprime Artigo 18.º — Restabelecimento do potencial de produção agrícola afetado por catástrofes naturais e acontecimentos
+      catastróficos e introdução de medidas de prevenção adequadas
+    - Suprime Artigo 19.º — Desenvolvimento das explorações agrícolas e das empresas
+    - Suprime Artigo 20.º — Serviços básicos e renovação das aldeias em zonas rurais
+    - Suprime Artigo 21.º — Investimentos no desenvolvimento das zonas florestais e na melhoria da viabilidade das florestas
+    - Suprime Artigo 22.º — Florestação e criação de zonas arborizadas
+    - Suprime Artigo 23.º — Implantação, regeneração ou renovação de sistemas agroflorestais
+    - Suprime Artigo 24.º — Prevenção e reparação dos danos causados às florestas por incêndios florestais, catástrofes naturais
+      e acontecimentos catastróficos
+    - Suprime Artigo 25.º — Investimentos para a melhoria da resiliência e do valor ambiental dos ecossistemas florestais
+    - Suprime Artigo 26.º — Investimentos em tecnologias florestais e na transformação, mobilização e comercialização de produtos
+      florestais
 identifiers:
   celex: 32013R1305
   eli: http://data.europa.eu/eli/reg/2013/1305/oj
@@ -51,7 +413,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c973adc4-6c03-11e3-9afb-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/74ec25c4-9d6e-11ed-b508-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1305-20230101
-  retrieved_at: '2026-10-22T02:34:46Z'
+  retrieved_at: '2026-10-22T16:23:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T03:38:40.484+02:00'
 integrity:
@@ -60,9 +422,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:46Z'
-  notes: Texto consolidado 02013R1305-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:23:41Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2013-1305.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -619,16 +981,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:46Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:23:41Z'
+  warnings: []
   errors: []
 ---
 

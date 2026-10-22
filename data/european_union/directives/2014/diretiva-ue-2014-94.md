@@ -35,6 +35,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-11-12'
+version_history:
+  file: diretiva-ue-2014-94.versoes.json
+  count: 3
+  source_lastmod: '2021-11-12'
+  versions:
+  - date: '2014-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-05-24'
+    amending: eu:celex:32018R0674:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/674 DA COMISSÃO de 17 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Destinatários
+    - Adita ANEXO I
+    - Adita RELATÓRIO
+    - Adita 1. Atos normativos
+    - Adita 2. Medidas de apoio à aplicação do quadro de ação nacional
+    - Adita 3. Apoio à implantação e à construção
+    - Adita 4. Investigação, desenvolvimento tecnológico e demonstração (IDT&D)
+    - Adita 5. Metas e objetivos
+    - Adita 6. Evolução da infraestrutura para combustíveis alternativos
+    - Adita ANEXO II
+    - Adita ESPECIFICAÇÕES TÉCNICAS
+    - Adita 1. Especificações técnicas para os pontos de carregamento
+    - Adita 2. Especificações técnicas para os pontos de abastecimento de hidrogénio para veículos a motor
+    - Adita 3. Especificações técnicas para os pontos de abastecimento de gás natural
+    - Suprime Notas
+  - date: '2021-11-12'
+    amending: eu:celex:32019R1745:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1745 DA COMISSÃO de 13 de agosto de 2019
+    changes:
+    - Altera 2. Especificações técnicas para os pontos de abastecimento de hidrogénio para veículos a motor
+    - Altera 3. Especificações técnicas para os pontos de abastecimento de gás natural
 identifiers:
   celex: 32014L0094
   eli: http://data.europa.eu/eli/dir/2014/94/oj
@@ -49,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d414289b-5e6b-11e4-9cbe-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/659d1644-362b-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0094-20211112
-  retrieved_at: '2026-10-22T02:40:52Z'
+  retrieved_at: '2026-10-22T16:31:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T22:05:24.380+02:00'
 integrity:
@@ -58,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:52Z'
-  notes: Texto consolidado 02014L0094-20211112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:31:07Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2014-94.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -198,29 +234,19 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:52Z'
-  warnings: []
+  checked_at: '2026-10-22T16:31:07Z'
+  warnings:
+  - '02014L0094-20141117: versão indisponível (Sem expressão na língua por para CELEX 02014L0094-20141117.)'
   errors: []
 ---
 
 # Diretiva 2014/94/UE do Parlamento Europeu e do Conselho, de 22 de outubro de 2014
-
-> 02014L0094 — PT — 12.11.2021 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32018R0674) — [REGULAMENTO DELEGADO (UE) 2018/674 DA COMISSÃO de 17 de novembro de 2017](http://publications.europa.eu/resource/celex/32018R0674) — L 114 — 1 — 4.5.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019R1745) — [REGULAMENTO DELEGADO (UE) 2019/1745 DA COMISSÃO de 13 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1745) — L 268 — 1 — 22.10.2019
-
-## DIRETIVA 2014/94/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de outubro de 2014
 

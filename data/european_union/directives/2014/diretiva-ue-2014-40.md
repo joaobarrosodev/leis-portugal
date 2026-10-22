@@ -36,6 +36,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-23'
+version_history:
+  file: diretiva-ue-2014-40.versoes.json
+  count: 3
+  source_lastmod: '2023-10-23'
+  versions:
+  - date: '2014-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-06'
+    amending: eu:celex:32014L0109:por
+    amending_title: DIRETIVA DELEGADA 2014/109/UE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Comunicação de ingredientes e emissões
+    - Altera Artigo 6.º — Lista prioritária de aditivos e obrigações reforçadas de comunicação
+    - Altera Artigo 10.º — Advertências de saúde combinadas para produtos do tabaco para fumar
+    - Altera Artigo 20.º — Cigarros eletrónicos
+    - Altera Artigo 33.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS ADVERTÊNCIAS EM TEXTO
+    - Adita (referidas no artigo 10.º e no artigo 11.º, n.º 1)
+    - Adita ANEXO II
+    - Adita Biblioteca de imagens (de advertências de saúde combinadas)
+    - Adita (referidas no artigo 10.º, n.º 1)
+    - Adita Série 1
+    - Adita Série 2
+    - Adita Série 3
+    - Adita ANEXO III
+  - date: '2023-10-23'
+    amending: eu:celex:32022L2100:por
+    amending_title: DIRETIVA DELEGADA (UE) 2022/2100 DA COMISSÃO de 29 de junho de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Comunicação de ingredientes e emissões
+    - Altera Artigo 6.º — Lista prioritária de aditivos e obrigações reforçadas de comunicação
+    - Altera Artigo 7.º — Regulamentação dos ingredientes
+    - Altera Artigo 20.º — Cigarros eletrónicos
+    - Altera Notas
+    - Adita Artigo 11.º — Rotulagem dos produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar, do
+      tabaco para cachimbo de água e dos produtos de tabaco aquecido
+    - Suprime Artigo 11.º — Rotulagem dos produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar e
+      do tabaco para cachimbo de água
 identifiers:
   celex: 32014L0040
   eli: http://data.europa.eu/eli/dir/2014/40/oj
@@ -50,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/797a78a6-cf66-11e3-b682-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/8e7e9bd4-51d5-11ee-9220-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0040-20231023
-  retrieved_at: '2026-10-22T02:41:45Z'
+  retrieved_at: '2026-10-22T16:28:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T23:02:18.325+02:00'
 integrity:
@@ -59,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:45Z'
-  notes: Texto consolidado 02014L0040-20231023.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:28:00Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2014-40.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -284,34 +329,19 @@ relationships:
   source: null
 article_structure:
   article_count: 33
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:45Z'
+  checked_at: '2026-10-22T16:28:00Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2014/40/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014
-
-> 02014L0040 — PT — 23.10.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0109) — [DIRETIVA DELEGADA 2014/109/UE DA COMISSÃO de 10 de outubro de 2014](http://publications.europa.eu/resource/celex/32014L0109) — L 360 — 22 — 17.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32022L2100) — [DIRETIVA DELEGADA (UE) 2022/2100 DA COMISSÃO de 29 de junho de 2022](http://publications.europa.eu/resource/celex/32022L2100) — L 283 — 4 — 3.11.2022
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0040R%2801%29) — [Rectificação, JO L 150, 17.6.2015, p. 24 (2014/40/UE)](http://publications.europa.eu/resource/celex/32014L0040R%2801%29)
-
-## DIRETIVA 2014/40/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 3 de abril de 2014
 
